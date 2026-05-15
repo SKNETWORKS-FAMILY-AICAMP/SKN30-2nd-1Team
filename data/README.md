@@ -28,4 +28,4 @@
 ## 주의사항
 
 - `raw/` 데이터는 수정 금지. 전처리 결과는 반드시 `processed/` 에 저장
-- API 수집 시 팀원별 담당 채널 범위를 `raw/youtube_channels.csv` 의 행 인덱스로 분할
+- API 수집 시 팀원별 담당 채널 범위를 `raw/youtube_channels_cleaned.csv` 의 행 인덱스로 분할
