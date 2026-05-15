@@ -1,0 +1,989 @@
+{
+  "idx": 24,
+  "channel_id": "UCvsCQuCQKWLVI5GFcdtd5_w",
+  "channel_title": "야요",
+  "playlist_items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3VClggSD4il1mz2P01-UiPYko9c",
+      "id": "VVV2c0NRdUNRS1dMVkk1R0ZjZHRkNV93LkdHaXBlUW9FLThV",
+      "snippet": {
+        "publishedAt": "2024-10-16T06:12:19Z",
+        "channelId": "UCvsCQuCQKWLVI5GFcdtd5_w",
+        "title": "ㅁㄴㄹㅁUntitled",
+        "description": "ㅁㄹㄴ",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GGipeQoE-8U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GGipeQoE-8U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GGipeQoE-8U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GGipeQoE-8U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GGipeQoE-8U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "야요",
+        "playlistId": "UUvsCQuCQKWLVI5GFcdtd5_w",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "GGipeQoE-8U"
+        },
+        "videoOwnerChannelTitle": "야요",
+        "videoOwnerChannelId": "UCvsCQuCQKWLVI5GFcdtd5_w"
+      },
+      "contentDetails": {
+        "videoId": "GGipeQoE-8U",
+        "videoPublishedAt": "2024-10-16T06:12:19Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "EKqoxkQ6aJ06J65cvW9LBa8cs-g",
+      "id": "VVV2c0NRdUNRS1dMVkk1R0ZjZHRkNV93LmNxaDV5YXUyOTdj",
+      "snippet": {
+        "publishedAt": "2024-10-16T05:41:49Z",
+        "channelId": "UCvsCQuCQKWLVI5GFcdtd5_w",
+        "title": "IMG 9608",
+        "description": "ㅎㅂㅁ",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cqh5yau297c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cqh5yau297c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cqh5yau297c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cqh5yau297c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cqh5yau297c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "야요",
+        "playlistId": "UUvsCQuCQKWLVI5GFcdtd5_w",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "cqh5yau297c"
+        },
+        "videoOwnerChannelTitle": "야요",
+        "videoOwnerChannelId": "UCvsCQuCQKWLVI5GFcdtd5_w"
+      },
+      "contentDetails": {
+        "videoId": "cqh5yau297c",
+        "videoPublishedAt": "2024-10-16T05:41:49Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "vRjgmQc7p5zVJy-xwm0BWZ0AdtA",
+      "id": "VVV2c0NRdUNRS1dMVkk1R0ZjZHRkNV93LmhIVnFfN0lLOXBJ",
+      "snippet": {
+        "publishedAt": "2024-10-16T05:19:39Z",
+        "channelId": "UCvsCQuCQKWLVI5GFcdtd5_w",
+        "title": "IMG 3221",
+        "description": "ㄴㄹ",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hHVq_7IK9pI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hHVq_7IK9pI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hHVq_7IK9pI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hHVq_7IK9pI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hHVq_7IK9pI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "야요",
+        "playlistId": "UUvsCQuCQKWLVI5GFcdtd5_w",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hHVq_7IK9pI"
+        },
+        "videoOwnerChannelTitle": "야요",
+        "videoOwnerChannelId": "UCvsCQuCQKWLVI5GFcdtd5_w"
+      },
+      "contentDetails": {
+        "videoId": "hHVq_7IK9pI",
+        "videoPublishedAt": "2024-10-16T05:19:39Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "WKmYrfFwksyUXn5aJOx3vaOdNIo",
+      "id": "VVV2c0NRdUNRS1dMVkk1R0ZjZHRkNV93LmlkS1hQeGR0Wkcw",
+      "snippet": {
+        "publishedAt": "2017-02-07T07:14:06Z",
+        "channelId": "UCvsCQuCQKWLVI5GFcdtd5_w",
+        "title": "NewFronts TEST",
+        "description": "Test",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/idKXPxdtZG0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/idKXPxdtZG0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/idKXPxdtZG0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/idKXPxdtZG0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/idKXPxdtZG0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "야요",
+        "playlistId": "UUvsCQuCQKWLVI5GFcdtd5_w",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "idKXPxdtZG0"
+        },
+        "videoOwnerChannelTitle": "야요",
+        "videoOwnerChannelId": "UCvsCQuCQKWLVI5GFcdtd5_w"
+      },
+      "contentDetails": {
+        "videoId": "idKXPxdtZG0",
+        "videoPublishedAt": "2017-02-07T07:14:06Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "B42Ek9WoVXpSsVh2oaLyQ4ZSU48",
+      "id": "VVV2c0NRdUNRS1dMVkk1R0ZjZHRkNV93LllSMzRVbzNGaE5V",
+      "snippet": {
+        "publishedAt": "2016-10-20T09:24:02Z",
+        "channelId": "UCvsCQuCQKWLVI5GFcdtd5_w",
+        "title": "Junhong Park님의 실시간 스트리밍",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YR34Uo3FhNU/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YR34Uo3FhNU/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YR34Uo3FhNU/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YR34Uo3FhNU/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YR34Uo3FhNU/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "야요",
+        "playlistId": "UUvsCQuCQKWLVI5GFcdtd5_w",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "YR34Uo3FhNU"
+        },
+        "videoOwnerChannelTitle": "야요",
+        "videoOwnerChannelId": "UCvsCQuCQKWLVI5GFcdtd5_w"
+      },
+      "contentDetails": {
+        "videoId": "YR34Uo3FhNU",
+        "videoPublishedAt": "2016-10-20T09:24:02Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Kifwo2t9Fx917GvtF8lwq5AHoh4",
+      "id": "VVV2c0NRdUNRS1dMVkk1R0ZjZHRkNV93Lk1pdnVCNkhUbng4",
+      "snippet": {
+        "publishedAt": "2015-04-29T23:08:36Z",
+        "channelId": "UCvsCQuCQKWLVI5GFcdtd5_w",
+        "title": "자이언 국립공원 Zion National Pㅇ",
+        "description": "Zion National Park view in the tour 버스ㅇ",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MivuB6HTnx8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MivuB6HTnx8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MivuB6HTnx8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MivuB6HTnx8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MivuB6HTnx8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "야요",
+        "playlistId": "UUvsCQuCQKWLVI5GFcdtd5_w",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "MivuB6HTnx8"
+        },
+        "videoOwnerChannelTitle": "야요",
+        "videoOwnerChannelId": "UCvsCQuCQKWLVI5GFcdtd5_w"
+      },
+      "contentDetails": {
+        "videoId": "MivuB6HTnx8",
+        "videoPublishedAt": "2015-04-29T23:08:36Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "OxSShct7lZ0oPrbuQ52vCdhFMoQ",
+      "id": "VVV2c0NRdUNRS1dMVkk1R0ZjZHRkNV93LnlSalNlU0VGTXg4",
+      "snippet": {
+        "publishedAt": "2015-04-28T02:43:47Z",
+        "channelId": "UCvsCQuCQKWLVI5GFcdtd5_w",
+        "title": "Grand Canyon South Rim with Mom",
+        "description": "엄마와 함께 한 소중한 그랜드캐년 여행",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yRjSeSEFMx8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yRjSeSEFMx8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yRjSeSEFMx8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yRjSeSEFMx8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yRjSeSEFMx8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "야요",
+        "playlistId": "UUvsCQuCQKWLVI5GFcdtd5_w",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "yRjSeSEFMx8"
+        },
+        "videoOwnerChannelTitle": "야요",
+        "videoOwnerChannelId": "UCvsCQuCQKWLVI5GFcdtd5_w"
+      },
+      "contentDetails": {
+        "videoId": "yRjSeSEFMx8",
+        "videoPublishedAt": "2015-04-28T02:43:47Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "video_details": [
+    {
+      "kind": "youtube#video",
+      "etag": "nyUk7XrAteGmNv0x7azeYkklpYE",
+      "id": "GGipeQoE-8U",
+      "snippet": {
+        "publishedAt": "2024-10-16T06:12:19Z",
+        "channelId": "UCvsCQuCQKWLVI5GFcdtd5_w",
+        "title": "ㅁㄴㄹㅁUntitled",
+        "description": "ㅁㄹㄴ",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GGipeQoE-8U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GGipeQoE-8U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GGipeQoE-8U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GGipeQoE-8U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GGipeQoE-8U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "야요",
+        "tags": [
+          "광고",
+          "미들",
+          "핸드폰",
+          "박준홍",
+          "바지"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "ㅁㄴㄹㅁUntitled",
+          "description": "ㅁㄹㄴ"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT2M8S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "3",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "ㅁㄴㄹㅁUntitled",
+          "description": "ㅁㄹㄴ"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "2p0hK-74pXJe_xZmISYXgJG5Vx0",
+      "id": "cqh5yau297c",
+      "snippet": {
+        "publishedAt": "2024-10-16T05:41:49Z",
+        "channelId": "UCvsCQuCQKWLVI5GFcdtd5_w",
+        "title": "IMG 9608",
+        "description": "ㅎㅂㅁ",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cqh5yau297c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cqh5yau297c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cqh5yau297c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cqh5yau297c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cqh5yau297c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "야요",
+        "tags": [
+          "광고",
+          "미들",
+          "핸드폰",
+          "박준홍",
+          "바지"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "IMG 9608",
+          "description": "ㅎㅂㅁ"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT3M18S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "IMG 9608",
+          "description": "ㅎㅂㅁ"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "D_KNAO6yrXQ_aHwwH-h_ob4i1Wk",
+      "id": "hHVq_7IK9pI",
+      "snippet": {
+        "publishedAt": "2024-10-16T05:19:39Z",
+        "channelId": "UCvsCQuCQKWLVI5GFcdtd5_w",
+        "title": "IMG 3221",
+        "description": "ㄴㄹ",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hHVq_7IK9pI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hHVq_7IK9pI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hHVq_7IK9pI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hHVq_7IK9pI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hHVq_7IK9pI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "야요",
+        "tags": [
+          "광고",
+          "미들",
+          "핸드폰",
+          "박준홍",
+          "바지"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "IMG 3221",
+          "description": "ㄴㄹ"
+        },
+        "defaultAudioLanguage": "es"
+      },
+      "contentDetails": {
+        "duration": "PT7S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "566",
+        "likeCount": "14",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Tourism"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "IMG 3221",
+          "description": "ㄴㄹ"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "zHEO-ipzUPX8tEYu6tii2iCjnOk",
+      "id": "idKXPxdtZG0",
+      "snippet": {
+        "publishedAt": "2017-02-07T07:14:06Z",
+        "channelId": "UCvsCQuCQKWLVI5GFcdtd5_w",
+        "title": "NewFronts TEST",
+        "description": "Test",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/idKXPxdtZG0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/idKXPxdtZG0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/idKXPxdtZG0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/idKXPxdtZG0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/idKXPxdtZG0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "야요",
+        "tags": [
+          "광고",
+          "미들",
+          "핸드폰",
+          "박준홍",
+          "바지"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "NewFronts TEST",
+          "description": "Test"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1M47S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "275",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "NewFronts TEST",
+          "description": "Test"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "0H99BIClzvwOsqfiXgfyJvvrI2Y",
+      "id": "YR34Uo3FhNU",
+      "snippet": {
+        "publishedAt": "2016-10-20T09:24:02Z",
+        "channelId": "UCvsCQuCQKWLVI5GFcdtd5_w",
+        "title": "Junhong Park님의 실시간 스트리밍",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YR34Uo3FhNU/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YR34Uo3FhNU/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YR34Uo3FhNU/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YR34Uo3FhNU/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YR34Uo3FhNU/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "야요",
+        "categoryId": "22",
+        "liveBroadcastContent": "upcoming",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "Junhong Park님의 실시간 스트리밍",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "P0D",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "uploaded",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "0",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "Junhong Park님의 실시간 스트리밍",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "eYbpYeghKDXoJrIltHNHrIh_bb0",
+      "id": "MivuB6HTnx8",
+      "snippet": {
+        "publishedAt": "2015-04-29T23:08:36Z",
+        "channelId": "UCvsCQuCQKWLVI5GFcdtd5_w",
+        "title": "자이언 국립공원 Zion National Pㅇ",
+        "description": "Zion National Park view in the tour 버스ㅇ",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MivuB6HTnx8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MivuB6HTnx8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MivuB6HTnx8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MivuB6HTnx8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MivuB6HTnx8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "야요",
+        "tags": [
+          "Zion National Park (Protected Site)",
+          "자이언",
+          "국립공원",
+          "관광",
+          "투어",
+          "여행",
+          "산"
+        ],
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "자이언 국립공원 Zion National Pㅇ",
+          "description": "Zion National Park view in the tour 버스ㅇ"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT1M13S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": false,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "230",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Hobby",
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+          "https://en.wikipedia.org/wiki/Tourism"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "자이언 국립공원 Zion National Pㅇ",
+          "description": "Zion National Park view in the tour 버스ㅇ"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "AAoqw8C6wRW6fb1ng9eNS_skLJU",
+      "id": "yRjSeSEFMx8",
+      "snippet": {
+        "publishedAt": "2015-04-28T02:43:47Z",
+        "channelId": "UCvsCQuCQKWLVI5GFcdtd5_w",
+        "title": "Grand Canyon South Rim with Mom",
+        "description": "엄마와 함께 한 소중한 그랜드캐년 여행",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yRjSeSEFMx8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yRjSeSEFMx8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yRjSeSEFMx8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yRjSeSEFMx8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yRjSeSEFMx8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "야요",
+        "tags": [
+          "Grand Canyon National Park (Protected Site)",
+          "Grand Canyon South Rim Ranger's Dormitory (Listed Site)",
+          "여행",
+          "그랜드캐년",
+          "소중한시간"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "Grand Canyon South Rim with Mom",
+          "description": "엄마와 함께 한 소중한 그랜드캐년 여행"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT1M2S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": false,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "181",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Hobby",
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+          "https://en.wikipedia.org/wiki/Tourism"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "Grand Canyon South Rim with Mom",
+          "description": "엄마와 함께 한 소중한 그랜드캐년 여행"
+        }
+      }
+    }
+  ]
+}

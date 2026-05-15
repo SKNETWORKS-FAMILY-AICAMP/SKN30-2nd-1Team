@@ -1,0 +1,53 @@
+# YouTube API 설정
+api:
+  quota_limit_per_key: 10000       # 키 1개당 일일 한도
+  max_videos_per_channel: 50       # 채널당 수집할 최근 영상 수
+  request_delay_sec: 0.5           # 요청 간격 (초)
+
+# 데이터 경로
+paths:
+  raw_channels: data/raw/channels
+  raw_videos: data/raw/videos
+  processed_features: data/processed/features
+  processed_splits: data/processed/splits
+  saved_models: saved_models
+  reports: reports
+
+# 피처 엔지니어링 파라미터
+features:
+  shorts_duration_sec: 60          # Shorts 기준 (초 이하)
+  hiatus_threshold_days: 30        # 휴지기 기준 (일 이상)
+  recent_window_months: 3          # 최근 기간 윈도우 (개월)
+  view_trend_window: 10            # 조회수 추세 계산 영상 수
+
+# 데이터 분리
+split:
+  train: 0.7
+  val: 0.15
+  test: 0.15
+  random_state: 42
+
+# 모델 하이퍼파라미터 기본값
+models:
+  random_forest:
+    n_estimators: 200
+    max_depth: 10
+    random_state: 42
+  xgboost:
+    n_estimators: 200
+    max_depth: 6
+    learning_rate: 0.1
+    random_state: 42
+  lightgbm:
+    n_estimators: 200
+    max_depth: -1
+    learning_rate: 0.1
+    random_state: 42
+
+# 평가 설정
+evaluation:
+  primary_metric: roc_auc
+  credit_grade:
+    A: [0.0, 0.2]                  # 낮음: 장기 계약 적합
+    B: [0.2, 0.5]                  # 중간: 단기 계약 권장
+    C: [0.5, 1.0]                  # 높음: 계약 재고 권장

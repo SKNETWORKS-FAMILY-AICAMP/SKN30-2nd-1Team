@@ -1,0 +1,140 @@
+{
+  "idx": 12,
+  "channel_id": "UCFuH5yEZd_TfzVGCRY6ewDQ",
+  "channel_title": "Art H",
+  "playlist_items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Ra3a95kuxORGHeCe3liNDn6c5oQ",
+      "id": "VVVGdUg1eUVaZF9UZnpWR0NSWTZld0RRLmo1azhVQy1YOVQw",
+      "snippet": {
+        "publishedAt": "2017-09-04T04:41:06Z",
+        "channelId": "UCFuH5yEZd_TfzVGCRY6ewDQ",
+        "title": "PicnicArt님의 실시간 스트리밍",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/j5k8UC-X9T0/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/j5k8UC-X9T0/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/j5k8UC-X9T0/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/j5k8UC-X9T0/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/j5k8UC-X9T0/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Art H",
+        "playlistId": "UUFuH5yEZd_TfzVGCRY6ewDQ",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "j5k8UC-X9T0"
+        },
+        "videoOwnerChannelTitle": "Art H",
+        "videoOwnerChannelId": "UCFuH5yEZd_TfzVGCRY6ewDQ"
+      },
+      "contentDetails": {
+        "videoId": "j5k8UC-X9T0",
+        "videoPublishedAt": "2017-09-04T04:41:06Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "video_details": [
+    {
+      "kind": "youtube#video",
+      "etag": "ydIQI1tt8ge9lESoR4vvtImxOKc",
+      "id": "j5k8UC-X9T0",
+      "snippet": {
+        "publishedAt": "2017-09-04T04:41:06Z",
+        "channelId": "UCFuH5yEZd_TfzVGCRY6ewDQ",
+        "title": "PicnicArt님의 실시간 스트리밍",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/j5k8UC-X9T0/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/j5k8UC-X9T0/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/j5k8UC-X9T0/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/j5k8UC-X9T0/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/j5k8UC-X9T0/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Art H",
+        "categoryId": "1",
+        "liveBroadcastContent": "upcoming",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "PicnicArt님의 실시간 스트리밍",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "P0D",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "uploaded",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "0",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "PicnicArt님의 실시간 스트리밍",
+          "description": ""
+        }
+      }
+    }
+  ]
+}
