@@ -1,0 +1,5688 @@
+{
+  "idx": 69,
+  "channel_id": "UCGT4HgaKkcyncKStt14mViA",
+  "channel_title": "muzit k",
+  "playlist_items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "orJtukcswPjAblWIhjBdLN_aZ1c",
+      "id": "VVVHVDRIZ2FLa2N5bmNLU3R0MTRtVmlBLnZlbExxNWpqQ25B",
+      "snippet": {
+        "publishedAt": "2017-12-24T03:41:20Z",
+        "channelId": "UCGT4HgaKkcyncKStt14mViA",
+        "title": "크리스마스 러브(christmas love)",
+        "description": "뮤지트 6개 밴드가 함께 만든 크리스마스 캐롤!\n1년 내내 기다린 사랑 고백을 하러 달려가는 산타의 이야기입니다. \n즐겁게 들어주세요~",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/velLq5jjCnA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/velLq5jjCnA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/velLq5jjCnA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/velLq5jjCnA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/velLq5jjCnA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "muzit k",
+        "playlistId": "UUGT4HgaKkcyncKStt14mViA",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "velLq5jjCnA"
+        },
+        "videoOwnerChannelTitle": "muzit k",
+        "videoOwnerChannelId": "UCGT4HgaKkcyncKStt14mViA"
+      },
+      "contentDetails": {
+        "videoId": "velLq5jjCnA",
+        "videoPublishedAt": "2017-12-24T03:41:20Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "vLcT63pLtwKSn1sdDa2m44fJtWg",
+      "id": "VVVHVDRIZ2FLa2N5bmNLU3R0MTRtVmlBLmstX2hxT1ZxZmxN",
+      "snippet": {
+        "publishedAt": "2017-11-03T12:29:49Z",
+        "channelId": "UCGT4HgaKkcyncKStt14mViA",
+        "title": "유재하-우울한 편지(cover by 피치바이피치)",
+        "description": "유재하의 노래 \"우울한 편지\"를 한국의 인디 밴드 \"피치바이피치(peach X peach) 가 커버한 버전입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/k-_hqOVqflM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/k-_hqOVqflM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/k-_hqOVqflM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/k-_hqOVqflM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/k-_hqOVqflM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "muzit k",
+        "playlistId": "UUGT4HgaKkcyncKStt14mViA",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "k-_hqOVqflM"
+        },
+        "videoOwnerChannelTitle": "muzit k",
+        "videoOwnerChannelId": "UCGT4HgaKkcyncKStt14mViA"
+      },
+      "contentDetails": {
+        "videoId": "k-_hqOVqflM",
+        "videoPublishedAt": "2017-11-03T12:29:49Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "NIkwZ9aOE5R8tCXRJGLfQTQa-pk",
+      "id": "VVVHVDRIZ2FLa2N5bmNLU3R0MTRtVmlBLmVmbVhJRWYzUG4w",
+      "snippet": {
+        "publishedAt": "2017-11-03T12:00:49Z",
+        "channelId": "UCGT4HgaKkcyncKStt14mViA",
+        "title": "유재하-그대 내품에(cover by 권봄밴드)",
+        "description": "유재하의 노래 \"그대 내품에\"를 한국의 인디 밴드 '권봄밴드'가 커버한 영상입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/efmXIEf3Pn0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/efmXIEf3Pn0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/efmXIEf3Pn0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/efmXIEf3Pn0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/efmXIEf3Pn0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "muzit k",
+        "playlistId": "UUGT4HgaKkcyncKStt14mViA",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "efmXIEf3Pn0"
+        },
+        "videoOwnerChannelTitle": "muzit k",
+        "videoOwnerChannelId": "UCGT4HgaKkcyncKStt14mViA"
+      },
+      "contentDetails": {
+        "videoId": "efmXIEf3Pn0",
+        "videoPublishedAt": "2017-11-03T12:00:49Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "T1Tp1swO4CdGkGdiYPpezq9SuiE",
+      "id": "VVVHVDRIZ2FLa2N5bmNLU3R0MTRtVmlBLm84bXBCM2NtZ1dZ",
+      "snippet": {
+        "publishedAt": "2017-10-30T12:32:20Z",
+        "channelId": "UCGT4HgaKkcyncKStt14mViA",
+        "title": "유재하-가리워진 길(cover by 바랜)",
+        "description": "유재하의 노래 \"가리워진 길\"을 한국의 인디밴드 바랜(BARAEN)이 커버한 버전입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/o8mpB3cmgWY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/o8mpB3cmgWY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/o8mpB3cmgWY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/o8mpB3cmgWY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/o8mpB3cmgWY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "muzit k",
+        "playlistId": "UUGT4HgaKkcyncKStt14mViA",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "o8mpB3cmgWY"
+        },
+        "videoOwnerChannelTitle": "muzit k",
+        "videoOwnerChannelId": "UCGT4HgaKkcyncKStt14mViA"
+      },
+      "contentDetails": {
+        "videoId": "o8mpB3cmgWY",
+        "videoPublishedAt": "2017-10-30T12:32:20Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "cYjMBtBIRk71GmXvMxDqt-SkWF8",
+      "id": "VVVHVDRIZ2FLa2N5bmNLU3R0MTRtVmlBLjBYQUJTUjBLTTBn",
+      "snippet": {
+        "publishedAt": "2017-10-30T12:04:07Z",
+        "channelId": "UCGT4HgaKkcyncKStt14mViA",
+        "title": "유재하-지난 날(cover by elekstic)",
+        "description": "유재하의 노래 \"지난 날\"을 한국의 인디 밴드 일렉스틱-elekstic이 커버한 버전입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0XABSR0KM0g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0XABSR0KM0g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0XABSR0KM0g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0XABSR0KM0g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0XABSR0KM0g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "muzit k",
+        "playlistId": "UUGT4HgaKkcyncKStt14mViA",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0XABSR0KM0g"
+        },
+        "videoOwnerChannelTitle": "muzit k",
+        "videoOwnerChannelId": "UCGT4HgaKkcyncKStt14mViA"
+      },
+      "contentDetails": {
+        "videoId": "0XABSR0KM0g",
+        "videoPublishedAt": "2017-10-30T12:04:07Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8fsQWDxXCk_tjFyEKWXThUfpim0",
+      "id": "VVVHVDRIZ2FLa2N5bmNLU3R0MTRtVmlBLmloaXY0TTFZLUo4",
+      "snippet": {
+        "publishedAt": "2017-10-01T12:31:51Z",
+        "channelId": "UCGT4HgaKkcyncKStt14mViA",
+        "title": "Bruno Mars - marry you(cover by add2)",
+        "description": "Bruno Mars - marry you를 한국의 인디 밴드 애드투가 커버한 버전입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ihiv4M1Y-J8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ihiv4M1Y-J8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ihiv4M1Y-J8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ihiv4M1Y-J8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ihiv4M1Y-J8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "muzit k",
+        "playlistId": "UUGT4HgaKkcyncKStt14mViA",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ihiv4M1Y-J8"
+        },
+        "videoOwnerChannelTitle": "muzit k",
+        "videoOwnerChannelId": "UCGT4HgaKkcyncKStt14mViA"
+      },
+      "contentDetails": {
+        "videoId": "ihiv4M1Y-J8",
+        "videoPublishedAt": "2017-10-01T12:31:51Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "H2kGI_7pZqvWg1In91dSTr64At8",
+      "id": "VVVHVDRIZ2FLa2N5bmNLU3R0MTRtVmlBLkt5OWNJU0VIUEJJ",
+      "snippet": {
+        "publishedAt": "2017-10-01T04:01:57Z",
+        "channelId": "UCGT4HgaKkcyncKStt14mViA",
+        "title": "bruno mars - just the way you are(cover by band baraen)",
+        "description": "bruno mars - just the way you are를 한국의 인디 밴드 바랜이 커버한 버전입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ky9cISEHPBI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ky9cISEHPBI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ky9cISEHPBI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ky9cISEHPBI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Ky9cISEHPBI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "muzit k",
+        "playlistId": "UUGT4HgaKkcyncKStt14mViA",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Ky9cISEHPBI"
+        },
+        "videoOwnerChannelTitle": "muzit k",
+        "videoOwnerChannelId": "UCGT4HgaKkcyncKStt14mViA"
+      },
+      "contentDetails": {
+        "videoId": "Ky9cISEHPBI",
+        "videoPublishedAt": "2017-10-01T04:01:57Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "dgJ53gPLbsQaVAO5h09-56jqc8s",
+      "id": "VVVHVDRIZ2FLa2N5bmNLU3R0MTRtVmlBLmZZUDJNTEFyRHRr",
+      "snippet": {
+        "publishedAt": "2017-10-01T03:14:54Z",
+        "channelId": "UCGT4HgaKkcyncKStt14mViA",
+        "title": "bruno mars - 24k magic(cover by nomo)",
+        "description": "bruno mars - 24k magic를 한국의 인디밴드 노모가 커버한 버전입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fYP2MLArDtk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fYP2MLArDtk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fYP2MLArDtk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fYP2MLArDtk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fYP2MLArDtk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "muzit k",
+        "playlistId": "UUGT4HgaKkcyncKStt14mViA",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fYP2MLArDtk"
+        },
+        "videoOwnerChannelTitle": "muzit k",
+        "videoOwnerChannelId": "UCGT4HgaKkcyncKStt14mViA"
+      },
+      "contentDetails": {
+        "videoId": "fYP2MLArDtk",
+        "videoPublishedAt": "2017-10-01T03:14:54Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "PIrBhFYNzE-JBZK7AzDpS4aWmHw",
+      "id": "VVVHVDRIZ2FLa2N5bmNLU3R0MTRtVmlBLnlFZjlsaGI5dXJN",
+      "snippet": {
+        "publishedAt": "2017-10-01T02:45:17Z",
+        "channelId": "UCGT4HgaKkcyncKStt14mViA",
+        "title": "Bruno Mars - treasure(cover by Kwonbom band)",
+        "description": "Bruno Mars - treasure를 한국의 인디 밴드 권봄밴드가 커버한 버전입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yEf9lhb9urM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yEf9lhb9urM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yEf9lhb9urM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yEf9lhb9urM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yEf9lhb9urM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "muzit k",
+        "playlistId": "UUGT4HgaKkcyncKStt14mViA",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "yEf9lhb9urM"
+        },
+        "videoOwnerChannelTitle": "muzit k",
+        "videoOwnerChannelId": "UCGT4HgaKkcyncKStt14mViA"
+      },
+      "contentDetails": {
+        "videoId": "yEf9lhb9urM",
+        "videoPublishedAt": "2017-10-01T02:45:17Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "oiswU44n1UL_41cJyx1dxU2hQYw",
+      "id": "VVVHVDRIZ2FLa2N5bmNLU3R0MTRtVmlBLjhiZGFJZHNfWVI4",
+      "snippet": {
+        "publishedAt": "2017-10-01T01:45:12Z",
+        "channelId": "UCGT4HgaKkcyncKStt14mViA",
+        "title": "Bruno Mars - treasure(cover by Brownwhale)",
+        "description": "Bruno Mars - treasure를 한국의 인디 밴드 브라운웨일이 커버한 버전입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8bdaIds_YR8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8bdaIds_YR8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8bdaIds_YR8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8bdaIds_YR8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8bdaIds_YR8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "muzit k",
+        "playlistId": "UUGT4HgaKkcyncKStt14mViA",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8bdaIds_YR8"
+        },
+        "videoOwnerChannelTitle": "muzit k",
+        "videoOwnerChannelId": "UCGT4HgaKkcyncKStt14mViA"
+      },
+      "contentDetails": {
+        "videoId": "8bdaIds_YR8",
+        "videoPublishedAt": "2017-10-01T01:45:12Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "PYsKOC_fE42gYdgKG76Jufj8Xuc",
+      "id": "VVVHVDRIZ2FLa2N5bmNLU3R0MTRtVmlBLjBTSGdtZU41LUZN",
+      "snippet": {
+        "publishedAt": "2017-08-13T16:26:19Z",
+        "channelId": "UCGT4HgaKkcyncKStt14mViA",
+        "title": "Ariana Grande  -side to side(cover by 바랜)",
+        "description": "Ariana Grande의 노래 \"side to side\"를 한국의 인디 밴드 바랜이 커버한 버전입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0SHgmeN5-FM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0SHgmeN5-FM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0SHgmeN5-FM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0SHgmeN5-FM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0SHgmeN5-FM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "muzit k",
+        "playlistId": "UUGT4HgaKkcyncKStt14mViA",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0SHgmeN5-FM"
+        },
+        "videoOwnerChannelTitle": "muzit k",
+        "videoOwnerChannelId": "UCGT4HgaKkcyncKStt14mViA"
+      },
+      "contentDetails": {
+        "videoId": "0SHgmeN5-FM",
+        "videoPublishedAt": "2017-08-13T16:26:19Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "GLALMe4i_WpsX4Mg9UmqvOFUr9M",
+      "id": "VVVHVDRIZ2FLa2N5bmNLU3R0MTRtVmlBLm5zbF8yOGpfWkxn",
+      "snippet": {
+        "publishedAt": "2017-08-13T16:17:32Z",
+        "channelId": "UCGT4HgaKkcyncKStt14mViA",
+        "title": "Ariana Grande - one last time(cover by nomo)",
+        "description": "Ariana Grande의 노래 \"one last time\"을 한국의 인디 밴드 nomo가 커버한 버전입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nsl_28j_ZLg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nsl_28j_ZLg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nsl_28j_ZLg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nsl_28j_ZLg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nsl_28j_ZLg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "muzit k",
+        "playlistId": "UUGT4HgaKkcyncKStt14mViA",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "nsl_28j_ZLg"
+        },
+        "videoOwnerChannelTitle": "muzit k",
+        "videoOwnerChannelId": "UCGT4HgaKkcyncKStt14mViA"
+      },
+      "contentDetails": {
+        "videoId": "nsl_28j_ZLg",
+        "videoPublishedAt": "2017-08-13T16:17:32Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4SyYzSZhn7jzcTQKV5ogEFaHavw",
+      "id": "VVVHVDRIZ2FLa2N5bmNLU3R0MTRtVmlBLmtSYV9PWjhxbTZr",
+      "snippet": {
+        "publishedAt": "2017-08-13T16:02:48Z",
+        "channelId": "UCGT4HgaKkcyncKStt14mViA",
+        "title": "Ariana Grande - problem(cover by brownwhale)",
+        "description": "Ariana Grande의 노래 \"problem\"을 한국의 인디 밴드 brownwhale이 커버한 버전입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kRa_OZ8qm6k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kRa_OZ8qm6k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kRa_OZ8qm6k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kRa_OZ8qm6k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kRa_OZ8qm6k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "muzit k",
+        "playlistId": "UUGT4HgaKkcyncKStt14mViA",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "kRa_OZ8qm6k"
+        },
+        "videoOwnerChannelTitle": "muzit k",
+        "videoOwnerChannelId": "UCGT4HgaKkcyncKStt14mViA"
+      },
+      "contentDetails": {
+        "videoId": "kRa_OZ8qm6k",
+        "videoPublishedAt": "2017-08-13T16:02:48Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "CbEZ087YKucQVQ6o613popYKrZw",
+      "id": "VVVHVDRIZ2FLa2N5bmNLU3R0MTRtVmlBLk9oQzNCTkd6LVN3",
+      "snippet": {
+        "publishedAt": "2017-08-13T15:55:54Z",
+        "channelId": "UCGT4HgaKkcyncKStt14mViA",
+        "title": "Ariana Grande - my everything(cover by add2)",
+        "description": "Ariana Grande의 노래 \"my everything\"을 한국의 인디 밴드 add2가 커버한 버전입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OhC3BNGz-Sw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OhC3BNGz-Sw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OhC3BNGz-Sw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OhC3BNGz-Sw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OhC3BNGz-Sw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "muzit k",
+        "playlistId": "UUGT4HgaKkcyncKStt14mViA",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "OhC3BNGz-Sw"
+        },
+        "videoOwnerChannelTitle": "muzit k",
+        "videoOwnerChannelId": "UCGT4HgaKkcyncKStt14mViA"
+      },
+      "contentDetails": {
+        "videoId": "OhC3BNGz-Sw",
+        "videoPublishedAt": "2017-08-13T15:55:54Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ffgORIyUwYrpv1XdvFnLDzfRkH8",
+      "id": "VVVHVDRIZ2FLa2N5bmNLU3R0MTRtVmlBLklMZjJhZDdMVHAw",
+      "snippet": {
+        "publishedAt": "2017-08-13T15:49:51Z",
+        "channelId": "UCGT4HgaKkcyncKStt14mViA",
+        "title": "Ariana Grande - side to side (cover by elekstic)",
+        "description": "Ariana Grande 의 노래 \"side to side\"를 한국의 인디 밴드 elekstic이 커버한 버전입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ILf2ad7LTp0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ILf2ad7LTp0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ILf2ad7LTp0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ILf2ad7LTp0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ILf2ad7LTp0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "muzit k",
+        "playlistId": "UUGT4HgaKkcyncKStt14mViA",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ILf2ad7LTp0"
+        },
+        "videoOwnerChannelTitle": "muzit k",
+        "videoOwnerChannelId": "UCGT4HgaKkcyncKStt14mViA"
+      },
+      "contentDetails": {
+        "videoId": "ILf2ad7LTp0",
+        "videoPublishedAt": "2017-08-13T15:49:51Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "khaMDpC5k8_d0Jl31VnjJAjZzhI",
+      "id": "VVVHVDRIZ2FLa2N5bmNLU3R0MTRtVmlBLlU1VWt0X3c3bEg0",
+      "snippet": {
+        "publishedAt": "2017-07-17T15:19:15Z",
+        "channelId": "UCGT4HgaKkcyncKStt14mViA",
+        "title": "radiohead - high and dry(cover by add2)",
+        "description": "radiohead의 노래 \"high and dry\"를 한국의 인디 밴드 add2가 커버한 버전입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/U5Ukt_w7lH4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/U5Ukt_w7lH4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/U5Ukt_w7lH4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/U5Ukt_w7lH4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/U5Ukt_w7lH4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "muzit k",
+        "playlistId": "UUGT4HgaKkcyncKStt14mViA",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "U5Ukt_w7lH4"
+        },
+        "videoOwnerChannelTitle": "muzit k",
+        "videoOwnerChannelId": "UCGT4HgaKkcyncKStt14mViA"
+      },
+      "contentDetails": {
+        "videoId": "U5Ukt_w7lH4",
+        "videoPublishedAt": "2017-07-17T15:19:15Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "b5bIiE35JFhRKnGrtopggDld_a8",
+      "id": "VVVHVDRIZ2FLa2N5bmNLU3R0MTRtVmlBLmJCRzdJTUVRbUJJ",
+      "snippet": {
+        "publishedAt": "2017-07-17T14:37:43Z",
+        "channelId": "UCGT4HgaKkcyncKStt14mViA",
+        "title": "radiohead - high and dry(cover by brownwhale)",
+        "description": "radiohead의 노래 \"high and dry\"를 한국의 인디 밴드  brownwhale이 커버한 버전입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bBG7IMEQmBI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bBG7IMEQmBI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bBG7IMEQmBI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bBG7IMEQmBI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bBG7IMEQmBI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "muzit k",
+        "playlistId": "UUGT4HgaKkcyncKStt14mViA",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "bBG7IMEQmBI"
+        },
+        "videoOwnerChannelTitle": "muzit k",
+        "videoOwnerChannelId": "UCGT4HgaKkcyncKStt14mViA"
+      },
+      "contentDetails": {
+        "videoId": "bBG7IMEQmBI",
+        "videoPublishedAt": "2017-07-17T14:37:43Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "RuSyMET5psbMas8KvoVYmK3JNIo",
+      "id": "VVVHVDRIZ2FLa2N5bmNLU3R0MTRtVmlBLkM4SjlwWG5aRjNz",
+      "snippet": {
+        "publishedAt": "2017-07-17T14:26:12Z",
+        "channelId": "UCGT4HgaKkcyncKStt14mViA",
+        "title": "radiohead-paranoid android+karma police(cover by elekstic)",
+        "description": "radiohead의 노래 \"paranoid android\"와 \"karma police\"를 믹스해서 한국의 인디 밴드 elekstic이 커버한 버전입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/C8J9pXnZF3s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/C8J9pXnZF3s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/C8J9pXnZF3s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/C8J9pXnZF3s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/C8J9pXnZF3s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "muzit k",
+        "playlistId": "UUGT4HgaKkcyncKStt14mViA",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "C8J9pXnZF3s"
+        },
+        "videoOwnerChannelTitle": "muzit k",
+        "videoOwnerChannelId": "UCGT4HgaKkcyncKStt14mViA"
+      },
+      "contentDetails": {
+        "videoId": "C8J9pXnZF3s",
+        "videoPublishedAt": "2017-07-17T14:26:12Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Narnab_KX6u3-Mtxnj6iLFGfZFA",
+      "id": "VVVHVDRIZ2FLa2N5bmNLU3R0MTRtVmlBLkNqb3FrLU82enEw",
+      "snippet": {
+        "publishedAt": "2017-07-17T14:10:15Z",
+        "channelId": "UCGT4HgaKkcyncKStt14mViA",
+        "title": "radiohead-creep(cover by nomo)",
+        "description": "radiohead의 노래 \"creep\"을 한국의 인디 밴드 nomo가 커버한 버전입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Cjoqk-O6zq0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Cjoqk-O6zq0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Cjoqk-O6zq0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Cjoqk-O6zq0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Cjoqk-O6zq0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "muzit k",
+        "playlistId": "UUGT4HgaKkcyncKStt14mViA",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Cjoqk-O6zq0"
+        },
+        "videoOwnerChannelTitle": "muzit k",
+        "videoOwnerChannelId": "UCGT4HgaKkcyncKStt14mViA"
+      },
+      "contentDetails": {
+        "videoId": "Cjoqk-O6zq0",
+        "videoPublishedAt": "2017-07-17T14:10:15Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8L_t6Ad6osqiHuZowGeEBFXKeR0",
+      "id": "VVVHVDRIZ2FLa2N5bmNLU3R0MTRtVmlBLkdiR21fRDJ0bUpv",
+      "snippet": {
+        "publishedAt": "2017-06-17T10:38:18Z",
+        "channelId": "UCGT4HgaKkcyncKStt14mViA",
+        "title": "이소라-track 9(cover by add2)",
+        "description": "이소라의 노래 \"track 9\"을 한국의 인디밴드 add2가 커버한 버전입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GbGm_D2tmJo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GbGm_D2tmJo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GbGm_D2tmJo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GbGm_D2tmJo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GbGm_D2tmJo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "muzit k",
+        "playlistId": "UUGT4HgaKkcyncKStt14mViA",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "GbGm_D2tmJo"
+        },
+        "videoOwnerChannelTitle": "muzit k",
+        "videoOwnerChannelId": "UCGT4HgaKkcyncKStt14mViA"
+      },
+      "contentDetails": {
+        "videoId": "GbGm_D2tmJo",
+        "videoPublishedAt": "2017-06-17T10:38:18Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "lm3YcTDDfiBSRxKQ7A6OiZOML1k",
+      "id": "VVVHVDRIZ2FLa2N5bmNLU3R0MTRtVmlBLktrazhxQlAtdVBr",
+      "snippet": {
+        "publishedAt": "2017-06-17T10:26:56Z",
+        "channelId": "UCGT4HgaKkcyncKStt14mViA",
+        "title": "이소라- 난 행복해(cover by elekstic)",
+        "description": "이소라의 노래 \"난 행복해\"를 한국의 인디 밴드 elekstic이 커버한 버전입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Kkk8qBP-uPk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Kkk8qBP-uPk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Kkk8qBP-uPk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Kkk8qBP-uPk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Kkk8qBP-uPk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "muzit k",
+        "playlistId": "UUGT4HgaKkcyncKStt14mViA",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Kkk8qBP-uPk"
+        },
+        "videoOwnerChannelTitle": "muzit k",
+        "videoOwnerChannelId": "UCGT4HgaKkcyncKStt14mViA"
+      },
+      "contentDetails": {
+        "videoId": "Kkk8qBP-uPk",
+        "videoPublishedAt": "2017-06-17T10:26:56Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zHiDg1dpq7wRPxwYMAV87E463oo",
+      "id": "VVVHVDRIZ2FLa2N5bmNLU3R0MTRtVmlBLkZ1X0w1N2VVUFJz",
+      "snippet": {
+        "publishedAt": "2017-06-17T10:20:06Z",
+        "channelId": "UCGT4HgaKkcyncKStt14mViA",
+        "title": "이소라-좀 멈춰라 사랑아(cover by nomo)",
+        "description": "이소라의 노래 \"좀 멈춰라 사랑아\"를 한국의 인디 밴드 nomo가 커버한 버전입니다",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Fu_L57eUPRs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Fu_L57eUPRs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Fu_L57eUPRs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Fu_L57eUPRs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Fu_L57eUPRs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "muzit k",
+        "playlistId": "UUGT4HgaKkcyncKStt14mViA",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Fu_L57eUPRs"
+        },
+        "videoOwnerChannelTitle": "muzit k",
+        "videoOwnerChannelId": "UCGT4HgaKkcyncKStt14mViA"
+      },
+      "contentDetails": {
+        "videoId": "Fu_L57eUPRs",
+        "videoPublishedAt": "2017-06-17T10:20:06Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "xZ_oB1FBvjHEJb4u5SpzakBb0n8",
+      "id": "VVVHVDRIZ2FLa2N5bmNLU3R0MTRtVmlBLnQwZFl2dzVFRW0w",
+      "snippet": {
+        "publishedAt": "2017-05-15T15:16:12Z",
+        "channelId": "UCGT4HgaKkcyncKStt14mViA",
+        "title": "김건모-사랑이 떠나가네(cover by add2 )",
+        "description": "김건모의 노래 \"사랑이 떠나가네\"를 한국의 인디 밴드 add2가 커버한 버전입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/t0dYvw5EEm0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/t0dYvw5EEm0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/t0dYvw5EEm0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/t0dYvw5EEm0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/t0dYvw5EEm0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "muzit k",
+        "playlistId": "UUGT4HgaKkcyncKStt14mViA",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "t0dYvw5EEm0"
+        },
+        "videoOwnerChannelTitle": "muzit k",
+        "videoOwnerChannelId": "UCGT4HgaKkcyncKStt14mViA"
+      },
+      "contentDetails": {
+        "videoId": "t0dYvw5EEm0",
+        "videoPublishedAt": "2017-05-15T15:16:12Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "rxlme3j7ucuGHJLYphugIwVRWy8",
+      "id": "VVVHVDRIZ2FLa2N5bmNLU3R0MTRtVmlBLk43UGltZm8tNUJR",
+      "snippet": {
+        "publishedAt": "2017-05-15T15:00:15Z",
+        "channelId": "UCGT4HgaKkcyncKStt14mViA",
+        "title": "김건모-다 당신 덕분이라오(cover by brownwhale)",
+        "description": "김건모의 노래 \"다 당신 덕분이라오\" 를 한국의 인디 밴드 \"brownwhale\"이 커버한 버전입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/N7Pimfo-5BQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/N7Pimfo-5BQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/N7Pimfo-5BQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/N7Pimfo-5BQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/N7Pimfo-5BQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "muzit k",
+        "playlistId": "UUGT4HgaKkcyncKStt14mViA",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "N7Pimfo-5BQ"
+        },
+        "videoOwnerChannelTitle": "muzit k",
+        "videoOwnerChannelId": "UCGT4HgaKkcyncKStt14mViA"
+      },
+      "contentDetails": {
+        "videoId": "N7Pimfo-5BQ",
+        "videoPublishedAt": "2017-05-15T15:00:15Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "kgGVqws52nXczvAbWTCLTfO_AO4",
+      "id": "VVVHVDRIZ2FLa2N5bmNLU3R0MTRtVmlBLmpQbTdWM3pVdTFV",
+      "snippet": {
+        "publishedAt": "2017-05-15T14:50:20Z",
+        "channelId": "UCGT4HgaKkcyncKStt14mViA",
+        "title": "김건모-당신만이(cover by elekstic)",
+        "description": "김건모의 노래 \"당신만이\" 를 한국의 인디 밴드 elekstic(일렉스틱)이 커버한 버전입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jPm7V3zUu1U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jPm7V3zUu1U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jPm7V3zUu1U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jPm7V3zUu1U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jPm7V3zUu1U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "muzit k",
+        "playlistId": "UUGT4HgaKkcyncKStt14mViA",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "jPm7V3zUu1U"
+        },
+        "videoOwnerChannelTitle": "muzit k",
+        "videoOwnerChannelId": "UCGT4HgaKkcyncKStt14mViA"
+      },
+      "contentDetails": {
+        "videoId": "jPm7V3zUu1U",
+        "videoPublishedAt": "2017-05-15T14:50:20Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "uuHDbgsq7-wQ3eYDLZMBrt7xi7I",
+      "id": "VVVHVDRIZ2FLa2N5bmNLU3R0MTRtVmlBLlktNFlRRlhyU3Vn",
+      "snippet": {
+        "publishedAt": "2017-05-05T12:57:06Z",
+        "channelId": "UCGT4HgaKkcyncKStt14mViA",
+        "title": "[음악] 인디 meet 서울 : 밴드 하노 \"beautiful day\"",
+        "description": "밴드 하노의 뷰티풀 데이-쁘띠 드라마 버전:\n서울의 명소와 인디 밴드의 만남이라는 컨셉입니다. \n#서울시SBA1인미디어",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Y-4YQFXrSug/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Y-4YQFXrSug/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Y-4YQFXrSug/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Y-4YQFXrSug/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Y-4YQFXrSug/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "muzit k",
+        "playlistId": "UUGT4HgaKkcyncKStt14mViA",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Y-4YQFXrSug"
+        },
+        "videoOwnerChannelTitle": "muzit k",
+        "videoOwnerChannelId": "UCGT4HgaKkcyncKStt14mViA"
+      },
+      "contentDetails": {
+        "videoId": "Y-4YQFXrSug",
+        "videoPublishedAt": "2017-05-05T12:57:06Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "0xpnFajPch8NwJjqnpghNcRBdnM",
+      "id": "VVVHVDRIZ2FLa2N5bmNLU3R0MTRtVmlBLlpVT1BKQ3c5ZGEw",
+      "snippet": {
+        "publishedAt": "2017-04-18T13:14:25Z",
+        "channelId": "UCGT4HgaKkcyncKStt14mViA",
+        "title": "trouble(cover by add2)",
+        "description": "콜드플레이의 노래 \"trouble\"을 한국의 인디 밴드 \"add2\"가 커버한 버전입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZUOPJCw9da0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZUOPJCw9da0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZUOPJCw9da0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZUOPJCw9da0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZUOPJCw9da0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "muzit k",
+        "playlistId": "UUGT4HgaKkcyncKStt14mViA",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ZUOPJCw9da0"
+        },
+        "videoOwnerChannelTitle": "muzit k",
+        "videoOwnerChannelId": "UCGT4HgaKkcyncKStt14mViA"
+      },
+      "contentDetails": {
+        "videoId": "ZUOPJCw9da0",
+        "videoPublishedAt": "2017-04-18T13:14:25Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "pOucvA3B8eOCG1hHAHxEgvs_T-Q",
+      "id": "VVVHVDRIZ2FLa2N5bmNLU3R0MTRtVmlBLjFRUDZoSnZNcnlV",
+      "snippet": {
+        "publishedAt": "2017-04-18T13:02:23Z",
+        "channelId": "UCGT4HgaKkcyncKStt14mViA",
+        "title": "the scientist(cover by brownwhale)",
+        "description": "콜드플레이의 노래 \"the scientist\"를 한국의 인디 밴드 \"brownwhale\"이 커버한 버전입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1QP6hJvMryU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1QP6hJvMryU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1QP6hJvMryU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1QP6hJvMryU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1QP6hJvMryU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "muzit k",
+        "playlistId": "UUGT4HgaKkcyncKStt14mViA",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1QP6hJvMryU"
+        },
+        "videoOwnerChannelTitle": "muzit k",
+        "videoOwnerChannelId": "UCGT4HgaKkcyncKStt14mViA"
+      },
+      "contentDetails": {
+        "videoId": "1QP6hJvMryU",
+        "videoPublishedAt": "2017-04-18T13:02:23Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "W0OjEbwu5vPeFNdAG_CAC-e4zhc",
+      "id": "VVVHVDRIZ2FLa2N5bmNLU3R0MTRtVmlBLi12bS1hYWhIa18w",
+      "snippet": {
+        "publishedAt": "2017-04-18T12:42:33Z",
+        "channelId": "UCGT4HgaKkcyncKStt14mViA",
+        "title": "everglow(cover by nomo)",
+        "description": "콜드플레이의 노래 \"everglow\" 를 한국의 인디 밴드 \"nomo\"가 커버한 버전입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-vm-aahHk_0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-vm-aahHk_0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-vm-aahHk_0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-vm-aahHk_0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-vm-aahHk_0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "muzit k",
+        "playlistId": "UUGT4HgaKkcyncKStt14mViA",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-vm-aahHk_0"
+        },
+        "videoOwnerChannelTitle": "muzit k",
+        "videoOwnerChannelId": "UCGT4HgaKkcyncKStt14mViA"
+      },
+      "contentDetails": {
+        "videoId": "-vm-aahHk_0",
+        "videoPublishedAt": "2017-04-18T12:42:33Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "g_NbUmNfoOI1gi2osF-rjEZA8bc",
+      "id": "VVVHVDRIZ2FLa2N5bmNLU3R0MTRtVmlBLng4MXVEYndLME04",
+      "snippet": {
+        "publishedAt": "2017-04-18T12:20:40Z",
+        "channelId": "UCGT4HgaKkcyncKStt14mViA",
+        "title": "in my place(cover by tell and listen)",
+        "description": "콜드플레이의 노래 \"in my place\"를 한국의 인디 밴드 \"tell and listen(말하기듣기)\"가 커버한 버전입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/x81uDbwK0M8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/x81uDbwK0M8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/x81uDbwK0M8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/x81uDbwK0M8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/x81uDbwK0M8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "muzit k",
+        "playlistId": "UUGT4HgaKkcyncKStt14mViA",
+        "position": 29,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "x81uDbwK0M8"
+        },
+        "videoOwnerChannelTitle": "muzit k",
+        "videoOwnerChannelId": "UCGT4HgaKkcyncKStt14mViA"
+      },
+      "contentDetails": {
+        "videoId": "x81uDbwK0M8",
+        "videoPublishedAt": "2017-04-18T12:20:40Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "xcYvz3YX5bxX6IjYEEkYgAFNzA4",
+      "id": "VVVHVDRIZ2FLa2N5bmNLU3R0MTRtVmlBLldLaWpROUM2UTBR",
+      "snippet": {
+        "publishedAt": "2017-04-18T12:11:13Z",
+        "channelId": "UCGT4HgaKkcyncKStt14mViA",
+        "title": "Something Just Like This(cover by elekstic)",
+        "description": "콜드플레이의 노래 \"Something Just Like This\"를 한국의 인디 밴드 \"elekstic\"이 커버한 버전입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WKijQ9C6Q0Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WKijQ9C6Q0Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WKijQ9C6Q0Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WKijQ9C6Q0Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WKijQ9C6Q0Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "muzit k",
+        "playlistId": "UUGT4HgaKkcyncKStt14mViA",
+        "position": 30,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WKijQ9C6Q0Q"
+        },
+        "videoOwnerChannelTitle": "muzit k",
+        "videoOwnerChannelId": "UCGT4HgaKkcyncKStt14mViA"
+      },
+      "contentDetails": {
+        "videoId": "WKijQ9C6Q0Q",
+        "videoPublishedAt": "2017-04-18T12:11:13Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "SOJOWWSnBGYM9X6kcFK4OClzPQQ",
+      "id": "VVVHVDRIZ2FLa2N5bmNLU3R0MTRtVmlBLnF0Y1JxZi1OU2pn",
+      "snippet": {
+        "publishedAt": "2017-04-18T11:53:14Z",
+        "channelId": "UCGT4HgaKkcyncKStt14mViA",
+        "title": "castle on the hill(cover by brownwhale)",
+        "description": "에드 시런의 노래 \"castle on the hill\"을 한국의 인디 밴드 \"brownwhale\"이 커버한 버전입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qtcRqf-NSjg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qtcRqf-NSjg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qtcRqf-NSjg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qtcRqf-NSjg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qtcRqf-NSjg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "muzit k",
+        "playlistId": "UUGT4HgaKkcyncKStt14mViA",
+        "position": 31,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "qtcRqf-NSjg"
+        },
+        "videoOwnerChannelTitle": "muzit k",
+        "videoOwnerChannelId": "UCGT4HgaKkcyncKStt14mViA"
+      },
+      "contentDetails": {
+        "videoId": "qtcRqf-NSjg",
+        "videoPublishedAt": "2017-04-18T11:53:14Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "yOwPhpWRMsgPzIPqkFzeegLqyh0",
+      "id": "VVVHVDRIZ2FLa2N5bmNLU3R0MTRtVmlBLmhsczIwOUdkaDFr",
+      "snippet": {
+        "publishedAt": "2017-04-18T11:35:27Z",
+        "channelId": "UCGT4HgaKkcyncKStt14mViA",
+        "title": "castle on the hill(cover by elekstic)",
+        "description": "에드 시런의 노래 \"castle on the hill\"을 한국의 인디 밴드 \"elekstic\"가 커버한 버전입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hls209Gdh1k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hls209Gdh1k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hls209Gdh1k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hls209Gdh1k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hls209Gdh1k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "muzit k",
+        "playlistId": "UUGT4HgaKkcyncKStt14mViA",
+        "position": 32,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hls209Gdh1k"
+        },
+        "videoOwnerChannelTitle": "muzit k",
+        "videoOwnerChannelId": "UCGT4HgaKkcyncKStt14mViA"
+      },
+      "contentDetails": {
+        "videoId": "hls209Gdh1k",
+        "videoPublishedAt": "2017-04-18T11:35:27Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "gZpJ4mWul75r50qRzYpmGWccAXw",
+      "id": "VVVHVDRIZ2FLa2N5bmNLU3R0MTRtVmlBLjNmdndzS3FHa1pv",
+      "snippet": {
+        "publishedAt": "2017-04-18T11:24:33Z",
+        "channelId": "UCGT4HgaKkcyncKStt14mViA",
+        "title": "castle on the hill(cover by tell and listen)",
+        "description": "에드 시런의 노래 \"castle on the hill\"을 한국의 인디 밴드 \"tell and listen(말하기듣기)\"가 커버한 버전입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3fvwsKqGkZo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3fvwsKqGkZo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3fvwsKqGkZo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3fvwsKqGkZo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3fvwsKqGkZo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "muzit k",
+        "playlistId": "UUGT4HgaKkcyncKStt14mViA",
+        "position": 33,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "3fvwsKqGkZo"
+        },
+        "videoOwnerChannelTitle": "muzit k",
+        "videoOwnerChannelId": "UCGT4HgaKkcyncKStt14mViA"
+      },
+      "contentDetails": {
+        "videoId": "3fvwsKqGkZo",
+        "videoPublishedAt": "2017-04-18T11:24:33Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Gb8PgA7OuWZ2rh8soK483um7AEk",
+      "id": "VVVHVDRIZ2FLa2N5bmNLU3R0MTRtVmlBLjFCTHNPRTNRQllR",
+      "snippet": {
+        "publishedAt": "2017-04-17T15:13:52Z",
+        "channelId": "UCGT4HgaKkcyncKStt14mViA",
+        "title": "castle on the hill(cover by add2)",
+        "description": "에드 시런의 노래 \"castle on the hill\"을 한국의 인디 밴드 \"add2\"가 커버한 버전입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1BLsOE3QBYQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1BLsOE3QBYQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1BLsOE3QBYQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1BLsOE3QBYQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1BLsOE3QBYQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "muzit k",
+        "playlistId": "UUGT4HgaKkcyncKStt14mViA",
+        "position": 34,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1BLsOE3QBYQ"
+        },
+        "videoOwnerChannelTitle": "muzit k",
+        "videoOwnerChannelId": "UCGT4HgaKkcyncKStt14mViA"
+      },
+      "contentDetails": {
+        "videoId": "1BLsOE3QBYQ",
+        "videoPublishedAt": "2017-04-17T15:13:52Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "GWEVtc0w8r4Fks6-Tlzg8nAfauo",
+      "id": "VVVHVDRIZ2FLa2N5bmNLU3R0MTRtVmlBLldFXzNmeXlmckhv",
+      "snippet": {
+        "publishedAt": "2017-04-17T15:04:25Z",
+        "channelId": "UCGT4HgaKkcyncKStt14mViA",
+        "title": "castle on the hill(cover by band nomo)",
+        "description": "에드 시런의 노래 \"castle on the hill\"을 한국의 인디 밴드 \"nomo\"가 커버한 버전입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WE_3fyyfrHo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WE_3fyyfrHo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WE_3fyyfrHo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WE_3fyyfrHo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WE_3fyyfrHo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "muzit k",
+        "playlistId": "UUGT4HgaKkcyncKStt14mViA",
+        "position": 35,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WE_3fyyfrHo"
+        },
+        "videoOwnerChannelTitle": "muzit k",
+        "videoOwnerChannelId": "UCGT4HgaKkcyncKStt14mViA"
+      },
+      "contentDetails": {
+        "videoId": "WE_3fyyfrHo",
+        "videoPublishedAt": "2017-04-17T15:04:25Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "G-KQWdV4r4T-57d5gXqAIrfverk",
+      "id": "VVVHVDRIZ2FLa2N5bmNLU3R0MTRtVmlBLm50a2N6QTZpdFpB",
+      "snippet": {
+        "publishedAt": "2017-04-07T15:00:30Z",
+        "channelId": "UCGT4HgaKkcyncKStt14mViA",
+        "title": "a whole new world(2 piano cover)",
+        "description": "윤이 프로젝트 2번째 커버곡-a whole new world\n디즈니 애니메이션 알라딘의 주제곡을 \n2대의 피아노와 콘트라베이스, 드럼으로 연주했습니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ntkczA6itZA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ntkczA6itZA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ntkczA6itZA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ntkczA6itZA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ntkczA6itZA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "muzit k",
+        "playlistId": "UUGT4HgaKkcyncKStt14mViA",
+        "position": 36,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ntkczA6itZA"
+        },
+        "videoOwnerChannelTitle": "muzit k",
+        "videoOwnerChannelId": "UCGT4HgaKkcyncKStt14mViA"
+      },
+      "contentDetails": {
+        "videoId": "ntkczA6itZA",
+        "videoPublishedAt": "2017-04-07T15:00:30Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "433zbi41CSugSUME928gr06EzGs",
+      "id": "VVVHVDRIZ2FLa2N5bmNLU3R0MTRtVmlBLmVPTFFkRzF1ZkVz",
+      "snippet": {
+        "publishedAt": "2017-04-07T14:55:56Z",
+        "channelId": "UCGT4HgaKkcyncKStt14mViA",
+        "title": "beauty and the beast(2 piano cever)",
+        "description": "디즈니 애니메이션 \"미녀와 야수\" 주제곡을 두 대의 피아노로 연주한 곡입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eOLQdG1ufEs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eOLQdG1ufEs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eOLQdG1ufEs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eOLQdG1ufEs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eOLQdG1ufEs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "muzit k",
+        "playlistId": "UUGT4HgaKkcyncKStt14mViA",
+        "position": 37,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "eOLQdG1ufEs"
+        },
+        "videoOwnerChannelTitle": "muzit k",
+        "videoOwnerChannelId": "UCGT4HgaKkcyncKStt14mViA"
+      },
+      "contentDetails": {
+        "videoId": "eOLQdG1ufEs",
+        "videoPublishedAt": "2017-04-07T14:55:56Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "video_details": [
+    {
+      "kind": "youtube#video",
+      "etag": "5Theh2FqqbJGBdY5OKrS3IZSMUU",
+      "id": "velLq5jjCnA",
+      "snippet": {
+        "publishedAt": "2017-12-24T03:41:20Z",
+        "channelId": "UCGT4HgaKkcyncKStt14mViA",
+        "title": "크리스마스 러브(christmas love)",
+        "description": "뮤지트 6개 밴드가 함께 만든 크리스마스 캐롤!\n1년 내내 기다린 사랑 고백을 하러 달려가는 산타의 이야기입니다. \n즐겁게 들어주세요~",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/velLq5jjCnA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/velLq5jjCnA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/velLq5jjCnA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/velLq5jjCnA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/velLq5jjCnA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "muzit k",
+        "tags": [
+          "muzit",
+          "christmas",
+          "carol",
+          "band baraen",
+          "elekstic",
+          "peachXpeach",
+          "brownwhale",
+          "kwonbom band",
+          "band nomo",
+          "뮤지트",
+          "크리스마스",
+          "캐롤",
+          "크리스마스 러브",
+          "인디",
+          "일렉스틱",
+          "밴드바랜",
+          "권봄밴드",
+          "브라운웨일",
+          "밴드노모",
+          "피치바이피치",
+          "ㅗㄱ5ㅓㄷ ㅓㅡ"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "크리스마스 러브(christmas love)",
+          "description": "뮤지트 6개 밴드가 함께 만든 크리스마스 캐롤!\n1년 내내 기다린 사랑 고백을 하러 달려가는 산타의 이야기입니다. \n즐겁게 들어주세요~"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M41S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "49",
+        "likeCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "크리스마스 러브(christmas love)",
+          "description": "뮤지트 6개 밴드가 함께 만든 크리스마스 캐롤!\n1년 내내 기다린 사랑 고백을 하러 달려가는 산타의 이야기입니다. \n즐겁게 들어주세요~"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "kakeELWfSZrHJJEHXL-bDvf2Srs",
+      "id": "k-_hqOVqflM",
+      "snippet": {
+        "publishedAt": "2017-11-03T12:29:49Z",
+        "channelId": "UCGT4HgaKkcyncKStt14mViA",
+        "title": "유재하-우울한 편지(cover by 피치바이피치)",
+        "description": "유재하의 노래 \"우울한 편지\"를 한국의 인디 밴드 \"피치바이피치(peach X peach) 가 커버한 버전입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/k-_hqOVqflM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/k-_hqOVqflM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/k-_hqOVqflM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/k-_hqOVqflM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/k-_hqOVqflM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "muzit k",
+        "tags": [
+          "유재하",
+          "우울한 편지",
+          "인디",
+          "밴드",
+          "피치바이피치",
+          "뮤지트",
+          "커버",
+          "cover",
+          "indie",
+          "muzit",
+          "peachXpeach",
+          "Yoojaeha"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "유재하-우울한 편지(cover by 피치바이피치)",
+          "description": "유재하의 노래 \"우울한 편지\"를 한국의 인디 밴드 \"피치바이피치(peach X peach) 가 커버한 버전입니다."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT4M19S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "174",
+        "likeCount": "3",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Independent_music",
+          "https://en.wikipedia.org/wiki/Music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "유재하-우울한 편지(cover by 피치바이피치)",
+          "description": "유재하의 노래 \"우울한 편지\"를 한국의 인디 밴드 \"피치바이피치(peach X peach) 가 커버한 버전입니다."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "QyIjz0Kx5qzZ5qqqIf-DMOnJ9V0",
+      "id": "efmXIEf3Pn0",
+      "snippet": {
+        "publishedAt": "2017-11-03T12:00:49Z",
+        "channelId": "UCGT4HgaKkcyncKStt14mViA",
+        "title": "유재하-그대 내품에(cover by 권봄밴드)",
+        "description": "유재하의 노래 \"그대 내품에\"를 한국의 인디 밴드 '권봄밴드'가 커버한 영상입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/efmXIEf3Pn0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/efmXIEf3Pn0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/efmXIEf3Pn0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/efmXIEf3Pn0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/efmXIEf3Pn0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "muzit k",
+        "tags": [
+          "유재하",
+          "그대내품에",
+          "권봄밴드",
+          "인디",
+          "인디음악",
+          "뮤지트",
+          "커버",
+          "muzit",
+          "cover",
+          "kpop",
+          "indie",
+          "korean indie",
+          "Yoojaeha"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "유재하-그대 내품에(cover by 권봄밴드)",
+          "description": "유재하의 노래 \"그대 내품에\"를 한국의 인디 밴드 '권봄밴드'가 커버한 영상입니다."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M54S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "280",
+        "likeCount": "4",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Music_of_Asia"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "유재하-그대 내품에(cover by 권봄밴드)",
+          "description": "유재하의 노래 \"그대 내품에\"를 한국의 인디 밴드 '권봄밴드'가 커버한 영상입니다."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "9n21iqYjLl1Z0FxAcqxUBMEdrs8",
+      "id": "o8mpB3cmgWY",
+      "snippet": {
+        "publishedAt": "2017-10-30T12:32:20Z",
+        "channelId": "UCGT4HgaKkcyncKStt14mViA",
+        "title": "유재하-가리워진 길(cover by 바랜)",
+        "description": "유재하의 노래 \"가리워진 길\"을 한국의 인디밴드 바랜(BARAEN)이 커버한 버전입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/o8mpB3cmgWY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/o8mpB3cmgWY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/o8mpB3cmgWY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/o8mpB3cmgWY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/o8mpB3cmgWY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "muzit k",
+        "tags": [
+          "유재하",
+          "가리워진길",
+          "인디",
+          "밴드바랜",
+          "바랜",
+          "뮤지트",
+          "커버",
+          "muzit",
+          "indie",
+          "cover",
+          "kpop",
+          "bandbaraen",
+          "baraen",
+          "Yoojaeha"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "유재하-가리워진 길(cover by 바랜)",
+          "description": "유재하의 노래 \"가리워진 길\"을 한국의 인디밴드 바랜(BARAEN)이 커버한 버전입니다."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT2M52S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "147",
+        "likeCount": "5",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Music_of_Asia",
+          "https://en.wikipedia.org/wiki/Pop_music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "유재하-가리워진 길(cover by 바랜)",
+          "description": "유재하의 노래 \"가리워진 길\"을 한국의 인디밴드 바랜(BARAEN)이 커버한 버전입니다."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "LYMaOtSrVYeCg5e6EBNTsqyDfe0",
+      "id": "0XABSR0KM0g",
+      "snippet": {
+        "publishedAt": "2017-10-30T12:04:07Z",
+        "channelId": "UCGT4HgaKkcyncKStt14mViA",
+        "title": "유재하-지난 날(cover by elekstic)",
+        "description": "유재하의 노래 \"지난 날\"을 한국의 인디 밴드 일렉스틱-elekstic이 커버한 버전입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0XABSR0KM0g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0XABSR0KM0g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0XABSR0KM0g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0XABSR0KM0g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0XABSR0KM0g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "muzit k",
+        "tags": [
+          "유재하",
+          "지난날",
+          "일렉스틱",
+          "뮤지트",
+          "커버",
+          "인디",
+          "인디밴드",
+          "muzit",
+          "Yoojaeha",
+          "elekstic",
+          "cover",
+          "indie",
+          "kpop"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "유재하-지난 날(cover by elekstic)",
+          "description": "유재하의 노래 \"지난 날\"을 한국의 인디 밴드 일렉스틱-elekstic이 커버한 버전입니다."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT2M50S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "153",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Independent_music",
+          "https://en.wikipedia.org/wiki/Music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "유재하-지난 날(cover by elekstic)",
+          "description": "유재하의 노래 \"지난 날\"을 한국의 인디 밴드 일렉스틱-elekstic이 커버한 버전입니다."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "-mNI0qubJviaZXE4KaWbuE5vdYU",
+      "id": "ihiv4M1Y-J8",
+      "snippet": {
+        "publishedAt": "2017-10-01T12:31:51Z",
+        "channelId": "UCGT4HgaKkcyncKStt14mViA",
+        "title": "Bruno Mars - marry you(cover by add2)",
+        "description": "Bruno Mars - marry you를 한국의 인디 밴드 애드투가 커버한 버전입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ihiv4M1Y-J8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ihiv4M1Y-J8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ihiv4M1Y-J8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ihiv4M1Y-J8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ihiv4M1Y-J8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "muzit k",
+        "tags": [
+          "브루노 마스",
+          "뮤지트",
+          "축가",
+          "웨딩",
+          "아카펠라",
+          "듀오",
+          "인디",
+          "애드투",
+          "커버",
+          "bruno mars",
+          "marry you",
+          "add2",
+          "muzit",
+          "indie",
+          "kpop",
+          "cover",
+          "music"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "Bruno Mars - marry you(cover by add2)",
+          "description": "Bruno Mars - marry you를 한국의 인디 밴드 애드투가 커버한 버전입니다."
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT2M14S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "52",
+        "likeCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Music_of_Asia",
+          "https://en.wikipedia.org/wiki/Pop_music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "Bruno Mars - marry you(cover by add2)",
+          "description": "Bruno Mars - marry you를 한국의 인디 밴드 애드투가 커버한 버전입니다."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "OYNLhHgMFalzW0utCr579c1yGsg",
+      "id": "Ky9cISEHPBI",
+      "snippet": {
+        "publishedAt": "2017-10-01T04:01:57Z",
+        "channelId": "UCGT4HgaKkcyncKStt14mViA",
+        "title": "bruno mars - just the way you are(cover by band baraen)",
+        "description": "bruno mars - just the way you are를 한국의 인디 밴드 바랜이 커버한 버전입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ky9cISEHPBI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ky9cISEHPBI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ky9cISEHPBI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ky9cISEHPBI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Ky9cISEHPBI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "muzit k",
+        "tags": [
+          "뮤지트",
+          "인디밴드",
+          "인디",
+          "바랜",
+          "커버",
+          "브루노마스",
+          "indie",
+          "muzit",
+          "bruno mars",
+          "just the way you are",
+          "kpop",
+          "cover",
+          "music",
+          "band baraen",
+          "baraen"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "bruno mars - just the way you are(cover by band baraen)",
+          "description": "bruno mars - just the way you are를 한국의 인디 밴드 바랜이 커버한 버전입니다."
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT2M8S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "358",
+        "likeCount": "7",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Pop_music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "bruno mars - just the way you are(cover by band baraen)",
+          "description": "bruno mars - just the way you are를 한국의 인디 밴드 바랜이 커버한 버전입니다."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "sB63Fw60ACyDURb9MG8142NYJwk",
+      "id": "fYP2MLArDtk",
+      "snippet": {
+        "publishedAt": "2017-10-01T03:14:54Z",
+        "channelId": "UCGT4HgaKkcyncKStt14mViA",
+        "title": "bruno mars - 24k magic(cover by nomo)",
+        "description": "bruno mars - 24k magic를 한국의 인디밴드 노모가 커버한 버전입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fYP2MLArDtk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fYP2MLArDtk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fYP2MLArDtk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fYP2MLArDtk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fYP2MLArDtk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "muzit k",
+        "tags": [
+          "브루노마스",
+          "노모",
+          "뮤지트",
+          "인디",
+          "커버",
+          "인디밴드",
+          "24k magic",
+          "bruno mars",
+          "muzit",
+          "nomo",
+          "bandnomo",
+          "cover",
+          "indie",
+          "music",
+          "kpop"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "bruno mars - 24k magic(cover by nomo)",
+          "description": "bruno mars - 24k magic를 한국의 인디밴드 노모가 커버한 버전입니다."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M31S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "25",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Pop_music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "bruno mars - 24k magic(cover by nomo)",
+          "description": "bruno mars - 24k magic를 한국의 인디밴드 노모가 커버한 버전입니다."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "G3Y2GC4hPqJ-iYa1bxc7g0SrrcQ",
+      "id": "yEf9lhb9urM",
+      "snippet": {
+        "publishedAt": "2017-10-01T02:45:17Z",
+        "channelId": "UCGT4HgaKkcyncKStt14mViA",
+        "title": "Bruno Mars - treasure(cover by Kwonbom band)",
+        "description": "Bruno Mars - treasure를 한국의 인디 밴드 권봄밴드가 커버한 버전입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yEf9lhb9urM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yEf9lhb9urM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yEf9lhb9urM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yEf9lhb9urM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yEf9lhb9urM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "muzit k",
+        "tags": [
+          "권봄밴드",
+          "권봄",
+          "인디",
+          "뮤지트",
+          "한국음악",
+          "케이팝",
+          "커버",
+          "브루노마스",
+          "bruno mars",
+          "treasure",
+          "muzit",
+          "indie",
+          "korean indie",
+          "kwonbom band",
+          "jazz",
+          "kpop",
+          "cover"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "Bruno Mars - treasure(cover by Kwonbom band)",
+          "description": "Bruno Mars - treasure를 한국의 인디 밴드 권봄밴드가 커버한 버전입니다."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M15S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "131",
+        "likeCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Jazz",
+          "https://en.wikipedia.org/wiki/Music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "Bruno Mars - treasure(cover by Kwonbom band)",
+          "description": "Bruno Mars - treasure를 한국의 인디 밴드 권봄밴드가 커버한 버전입니다."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "wVbSjCpdFmLVdiWkIOJVWFZ-l-c",
+      "id": "8bdaIds_YR8",
+      "snippet": {
+        "publishedAt": "2017-10-01T01:45:12Z",
+        "channelId": "UCGT4HgaKkcyncKStt14mViA",
+        "title": "Bruno Mars - treasure(cover by Brownwhale)",
+        "description": "Bruno Mars - treasure를 한국의 인디 밴드 브라운웨일이 커버한 버전입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8bdaIds_YR8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8bdaIds_YR8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8bdaIds_YR8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8bdaIds_YR8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8bdaIds_YR8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "muzit k",
+        "tags": [
+          "브라운웨일",
+          "인디",
+          "커버",
+          "음악",
+          "케이팝",
+          "브루노마스",
+          "트레져",
+          "brunomars",
+          "treasure",
+          "bruno mars",
+          "brownwhale",
+          "kpop",
+          "cover",
+          "muzit",
+          "indie",
+          "뮤지트"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "Bruno Mars - treasure(cover by Brownwhale)",
+          "description": "Bruno Mars - treasure를 한국의 인디 밴드 브라운웨일이 커버한 버전입니다."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M9S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "49",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Pop_music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "Bruno Mars - treasure(cover by Brownwhale)",
+          "description": "Bruno Mars - treasure를 한국의 인디 밴드 브라운웨일이 커버한 버전입니다."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "xnZvIHefkFoff6QRS0rI77f2Rqc",
+      "id": "0SHgmeN5-FM",
+      "snippet": {
+        "publishedAt": "2017-08-13T16:26:19Z",
+        "channelId": "UCGT4HgaKkcyncKStt14mViA",
+        "title": "Ariana Grande  -side to side(cover by 바랜)",
+        "description": "Ariana Grande의 노래 \"side to side\"를 한국의 인디 밴드 바랜이 커버한 버전입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0SHgmeN5-FM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0SHgmeN5-FM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0SHgmeN5-FM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0SHgmeN5-FM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0SHgmeN5-FM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "muzit k",
+        "tags": [
+          "Ariana Grande",
+          "side to side",
+          "indie",
+          "cover",
+          "korean music",
+          "band",
+          "muzit",
+          "music",
+          "아리아나 그란데",
+          "밴드 바랜",
+          "바랜",
+          "커버",
+          "인디",
+          "뮤지트",
+          "band baraen"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "Ariana Grande  -side to side(cover by 바랜)",
+          "description": "Ariana Grande의 노래 \"side to side\"를 한국의 인디 밴드 바랜이 커버한 버전입니다."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M51S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "527",
+        "likeCount": "8",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Pop_music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "Ariana Grande  -side to side(cover by 바랜)",
+          "description": "Ariana Grande의 노래 \"side to side\"를 한국의 인디 밴드 바랜이 커버한 버전입니다."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "GFlwsdj6PD035KmqnW5o24fqdBU",
+      "id": "nsl_28j_ZLg",
+      "snippet": {
+        "publishedAt": "2017-08-13T16:17:32Z",
+        "channelId": "UCGT4HgaKkcyncKStt14mViA",
+        "title": "Ariana Grande - one last time(cover by nomo)",
+        "description": "Ariana Grande의 노래 \"one last time\"을 한국의 인디 밴드 nomo가 커버한 버전입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nsl_28j_ZLg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nsl_28j_ZLg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nsl_28j_ZLg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nsl_28j_ZLg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nsl_28j_ZLg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "muzit k",
+        "tags": [
+          "Ariana Grande",
+          "one last time",
+          "cover",
+          "indie",
+          "korean music",
+          "muzit",
+          "band",
+          "nomo",
+          "아리아나 그란데",
+          "커버",
+          "밴드노모",
+          "노모",
+          "밴드",
+          "인디",
+          "뮤지트",
+          "음악"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "Ariana Grande - one last time(cover by nomo)",
+          "description": "Ariana Grande의 노래 \"one last time\"을 한국의 인디 밴드 nomo가 커버한 버전입니다."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M30S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "40",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Pop_music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "Ariana Grande - one last time(cover by nomo)",
+          "description": "Ariana Grande의 노래 \"one last time\"을 한국의 인디 밴드 nomo가 커버한 버전입니다."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "-ZyCFQyKNdnzDPZ3quIWDUsL0Wc",
+      "id": "kRa_OZ8qm6k",
+      "snippet": {
+        "publishedAt": "2017-08-13T16:02:48Z",
+        "channelId": "UCGT4HgaKkcyncKStt14mViA",
+        "title": "Ariana Grande - problem(cover by brownwhale)",
+        "description": "Ariana Grande의 노래 \"problem\"을 한국의 인디 밴드 brownwhale이 커버한 버전입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kRa_OZ8qm6k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kRa_OZ8qm6k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kRa_OZ8qm6k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kRa_OZ8qm6k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kRa_OZ8qm6k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "muzit k",
+        "tags": [
+          "Ariana Grande",
+          "problem",
+          "indie",
+          "korean music",
+          "music",
+          "muzit",
+          "brownwhale",
+          "cover",
+          "아리아나 그란데",
+          "인디",
+          "커버",
+          "브라운웨일",
+          "음악"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "Ariana Grande - problem(cover by brownwhale)",
+          "description": "Ariana Grande의 노래 \"problem\"을 한국의 인디 밴드 brownwhale이 커버한 버전입니다."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M15S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "64",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Pop_music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "Ariana Grande - problem(cover by brownwhale)",
+          "description": "Ariana Grande의 노래 \"problem\"을 한국의 인디 밴드 brownwhale이 커버한 버전입니다."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "OZDebw9YALXZHPSaO9hNRqFFkpE",
+      "id": "OhC3BNGz-Sw",
+      "snippet": {
+        "publishedAt": "2017-08-13T15:55:54Z",
+        "channelId": "UCGT4HgaKkcyncKStt14mViA",
+        "title": "Ariana Grande - my everything(cover by add2)",
+        "description": "Ariana Grande의 노래 \"my everything\"을 한국의 인디 밴드 add2가 커버한 버전입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OhC3BNGz-Sw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OhC3BNGz-Sw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OhC3BNGz-Sw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OhC3BNGz-Sw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OhC3BNGz-Sw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "muzit k",
+        "tags": [
+          "ariana grande",
+          "my everything",
+          "add2",
+          "muzit",
+          "indie",
+          "korean music",
+          "music",
+          "cover",
+          "아니아나 그란데",
+          "뮤지트",
+          "커버",
+          "인디",
+          "애드투"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "Ariana Grande - my everything(cover by add2)",
+          "description": "Ariana Grande의 노래 \"my everything\"을 한국의 인디 밴드 add2가 커버한 버전입니다."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT2M50S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "187",
+        "likeCount": "5",
+        "favoriteCount": "0",
+        "commentCount": "2"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Pop_music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "Ariana Grande - my everything(cover by add2)",
+          "description": "Ariana Grande의 노래 \"my everything\"을 한국의 인디 밴드 add2가 커버한 버전입니다."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "SjacFrUPViEf9oOxwPnQr0mumw8",
+      "id": "ILf2ad7LTp0",
+      "snippet": {
+        "publishedAt": "2017-08-13T15:49:51Z",
+        "channelId": "UCGT4HgaKkcyncKStt14mViA",
+        "title": "Ariana Grande - side to side (cover by elekstic)",
+        "description": "Ariana Grande 의 노래 \"side to side\"를 한국의 인디 밴드 elekstic이 커버한 버전입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ILf2ad7LTp0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ILf2ad7LTp0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ILf2ad7LTp0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ILf2ad7LTp0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ILf2ad7LTp0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "muzit k",
+        "tags": [
+          "ariana grande",
+          "side to side",
+          "cover",
+          "muzit",
+          "music",
+          "indie",
+          "band",
+          "elekstic",
+          "아리아나 그란데",
+          "일렉스틱",
+          "뮤지트",
+          "인디",
+          "커버"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "Ariana Grande - side to side (cover by elekstic)",
+          "description": "Ariana Grande 의 노래 \"side to side\"를 한국의 인디 밴드 elekstic이 커버한 버전입니다."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M5S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "22",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Pop_music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "Ariana Grande - side to side (cover by elekstic)",
+          "description": "Ariana Grande 의 노래 \"side to side\"를 한국의 인디 밴드 elekstic이 커버한 버전입니다."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Kj1UGkzNO9zrB_LHEamCkmvzBBE",
+      "id": "U5Ukt_w7lH4",
+      "snippet": {
+        "publishedAt": "2017-07-17T15:19:15Z",
+        "channelId": "UCGT4HgaKkcyncKStt14mViA",
+        "title": "radiohead - high and dry(cover by add2)",
+        "description": "radiohead의 노래 \"high and dry\"를 한국의 인디 밴드 add2가 커버한 버전입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/U5Ukt_w7lH4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/U5Ukt_w7lH4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/U5Ukt_w7lH4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/U5Ukt_w7lH4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/U5Ukt_w7lH4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "muzit k",
+        "tags": [
+          "radiohead",
+          "high and dry",
+          "cover",
+          "indie",
+          "korean indie",
+          "add2",
+          "muzit",
+          "music",
+          "뮤지트",
+          "인디",
+          "애드투",
+          "라디오헤드"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "radiohead - high and dry(cover by add2)",
+          "description": "radiohead의 노래 \"high and dry\"를 한국의 인디 밴드 add2가 커버한 버전입니다."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M5S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "72",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Independent_music",
+          "https://en.wikipedia.org/wiki/Music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "radiohead - high and dry(cover by add2)",
+          "description": "radiohead의 노래 \"high and dry\"를 한국의 인디 밴드 add2가 커버한 버전입니다."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Evrj3vCdmi4yDPSRwwsZmKAG4mE",
+      "id": "bBG7IMEQmBI",
+      "snippet": {
+        "publishedAt": "2017-07-17T14:37:43Z",
+        "channelId": "UCGT4HgaKkcyncKStt14mViA",
+        "title": "radiohead - high and dry(cover by brownwhale)",
+        "description": "radiohead의 노래 \"high and dry\"를 한국의 인디 밴드  brownwhale이 커버한 버전입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bBG7IMEQmBI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bBG7IMEQmBI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bBG7IMEQmBI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bBG7IMEQmBI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bBG7IMEQmBI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "muzit k",
+        "tags": [
+          "radiohead",
+          "high and dry",
+          "muzit",
+          "indie",
+          "korean indie",
+          "cover",
+          "music",
+          "brownwhale",
+          "라디오헤드",
+          "인디",
+          "인디밴드",
+          "브라운웨일",
+          "뮤지트"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "radiohead - high and dry(cover by brownwhale)",
+          "description": "radiohead의 노래 \"high and dry\"를 한국의 인디 밴드  brownwhale이 커버한 버전입니다."
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT3M32S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "32",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Independent_music",
+          "https://en.wikipedia.org/wiki/Jazz",
+          "https://en.wikipedia.org/wiki/Music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "radiohead - high and dry(cover by brownwhale)",
+          "description": "radiohead의 노래 \"high and dry\"를 한국의 인디 밴드  brownwhale이 커버한 버전입니다."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "AJyeXFt75IhNxCHXXWYIMVA7fC4",
+      "id": "C8J9pXnZF3s",
+      "snippet": {
+        "publishedAt": "2017-07-17T14:26:12Z",
+        "channelId": "UCGT4HgaKkcyncKStt14mViA",
+        "title": "radiohead-paranoid android+karma police(cover by elekstic)",
+        "description": "radiohead의 노래 \"paranoid android\"와 \"karma police\"를 믹스해서 한국의 인디 밴드 elekstic이 커버한 버전입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/C8J9pXnZF3s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/C8J9pXnZF3s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/C8J9pXnZF3s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/C8J9pXnZF3s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/C8J9pXnZF3s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "muzit k",
+        "tags": [
+          "radiohead",
+          "paranoid android",
+          "cover",
+          "indie",
+          "korean indie",
+          "music",
+          "elekstic",
+          "muzit",
+          "일렉스틱",
+          "뮤지트",
+          "커버",
+          "라디오헤드",
+          "karmapolice"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "radiohead-paranoid android+karma police(cover by elekstic)",
+          "description": "radiohead의 노래 \"paranoid android\"와 \"karma police\"를 믹스해서 한국의 인디 밴드 elekstic이 커버한 버전입니다."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT4M43S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "35",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Independent_music",
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Music_of_Asia"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "radiohead-paranoid android+karma police(cover by elekstic)",
+          "description": "radiohead의 노래 \"paranoid android\"와 \"karma police\"를 믹스해서 한국의 인디 밴드 elekstic이 커버한 버전입니다."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "B3mBq-KYEIEQPVL56TS2IDVeSb8",
+      "id": "Cjoqk-O6zq0",
+      "snippet": {
+        "publishedAt": "2017-07-17T14:10:15Z",
+        "channelId": "UCGT4HgaKkcyncKStt14mViA",
+        "title": "radiohead-creep(cover by nomo)",
+        "description": "radiohead의 노래 \"creep\"을 한국의 인디 밴드 nomo가 커버한 버전입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Cjoqk-O6zq0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Cjoqk-O6zq0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Cjoqk-O6zq0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Cjoqk-O6zq0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Cjoqk-O6zq0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "muzit k",
+        "tags": [
+          "radiohead",
+          "creep",
+          "indie",
+          "korean indie",
+          "music",
+          "cover",
+          "muzit",
+          "인디",
+          "밴드노모",
+          "nomo"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "radiohead-creep(cover by nomo)",
+          "description": "radiohead의 노래 \"creep\"을 한국의 인디 밴드 nomo가 커버한 버전입니다."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M54S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "38",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Independent_music",
+          "https://en.wikipedia.org/wiki/Music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "radiohead-creep(cover by nomo)",
+          "description": "radiohead의 노래 \"creep\"을 한국의 인디 밴드 nomo가 커버한 버전입니다."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "XeQHsoVwj97BPzJc2wvDm9a75Eo",
+      "id": "GbGm_D2tmJo",
+      "snippet": {
+        "publishedAt": "2017-06-17T10:38:18Z",
+        "channelId": "UCGT4HgaKkcyncKStt14mViA",
+        "title": "이소라-track 9(cover by add2)",
+        "description": "이소라의 노래 \"track 9\"을 한국의 인디밴드 add2가 커버한 버전입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GbGm_D2tmJo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GbGm_D2tmJo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GbGm_D2tmJo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GbGm_D2tmJo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GbGm_D2tmJo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "muzit k",
+        "tags": [
+          "이소라",
+          "track9",
+          "muzit",
+          "indie",
+          "korea indie",
+          "add2",
+          "cover",
+          "music"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "이소라-track 9(cover by add2)",
+          "description": "이소라의 노래 \"track 9\"을 한국의 인디밴드 add2가 커버한 버전입니다."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M47S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "5034",
+        "likeCount": "92",
+        "favoriteCount": "0",
+        "commentCount": "15"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Music_of_Asia"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "이소라-track 9(cover by add2)",
+          "description": "이소라의 노래 \"track 9\"을 한국의 인디밴드 add2가 커버한 버전입니다."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "sNzBjsZfQ7e9tXSj2FXD-ySPkyQ",
+      "id": "Kkk8qBP-uPk",
+      "snippet": {
+        "publishedAt": "2017-06-17T10:26:56Z",
+        "channelId": "UCGT4HgaKkcyncKStt14mViA",
+        "title": "이소라- 난 행복해(cover by elekstic)",
+        "description": "이소라의 노래 \"난 행복해\"를 한국의 인디 밴드 elekstic이 커버한 버전입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Kkk8qBP-uPk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Kkk8qBP-uPk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Kkk8qBP-uPk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Kkk8qBP-uPk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Kkk8qBP-uPk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "muzit k",
+        "tags": [
+          "이소라",
+          "난 행복해",
+          "음악",
+          "노래",
+          "인디",
+          "indie",
+          "muzit",
+          "korea indie",
+          "cover",
+          "elekstic"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "이소라- 난 행복해(cover by elekstic)",
+          "description": "이소라의 노래 \"난 행복해\"를 한국의 인디 밴드 elekstic이 커버한 버전입니다."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT2M59S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "82",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Music_of_Asia",
+          "https://en.wikipedia.org/wiki/Pop_music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "이소라- 난 행복해(cover by elekstic)",
+          "description": "이소라의 노래 \"난 행복해\"를 한국의 인디 밴드 elekstic이 커버한 버전입니다."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "0QD_Le6kj-OKugWlMrix0oYhfcQ",
+      "id": "Fu_L57eUPRs",
+      "snippet": {
+        "publishedAt": "2017-06-17T10:20:06Z",
+        "channelId": "UCGT4HgaKkcyncKStt14mViA",
+        "title": "이소라-좀 멈춰라 사랑아(cover by nomo)",
+        "description": "이소라의 노래 \"좀 멈춰라 사랑아\"를 한국의 인디 밴드 nomo가 커버한 버전입니다",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Fu_L57eUPRs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Fu_L57eUPRs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Fu_L57eUPRs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Fu_L57eUPRs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Fu_L57eUPRs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "muzit k",
+        "tags": [
+          "이소라",
+          "좀 멈춰라 사랑아",
+          "노래",
+          "music",
+          "indie",
+          "korea indie",
+          "band nomo",
+          "cover"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "이소라-좀 멈춰라 사랑아(cover by nomo)",
+          "description": "이소라의 노래 \"좀 멈춰라 사랑아\"를 한국의 인디 밴드 nomo가 커버한 버전입니다"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT4M7S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "386",
+        "likeCount": "6",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Music_of_Asia"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "이소라-좀 멈춰라 사랑아(cover by nomo)",
+          "description": "이소라의 노래 \"좀 멈춰라 사랑아\"를 한국의 인디 밴드 nomo가 커버한 버전입니다"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "XcT60uPBAw6RFBYm0W6wQvYfElA",
+      "id": "t0dYvw5EEm0",
+      "snippet": {
+        "publishedAt": "2017-05-15T15:16:12Z",
+        "channelId": "UCGT4HgaKkcyncKStt14mViA",
+        "title": "김건모-사랑이 떠나가네(cover by add2 )",
+        "description": "김건모의 노래 \"사랑이 떠나가네\"를 한국의 인디 밴드 add2가 커버한 버전입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/t0dYvw5EEm0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/t0dYvw5EEm0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/t0dYvw5EEm0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/t0dYvw5EEm0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/t0dYvw5EEm0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "muzit k",
+        "tags": [
+          "김건모",
+          "사랑이 떠나가네",
+          "인디",
+          "커버",
+          "korea indie",
+          "music",
+          "indie",
+          "cover",
+          "add2"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "김건모-사랑이 떠나가네(cover by add2 )",
+          "description": "김건모의 노래 \"사랑이 떠나가네\"를 한국의 인디 밴드 add2가 커버한 버전입니다."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M55S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "628",
+        "likeCount": "5",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Music_of_Asia"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "김건모-사랑이 떠나가네(cover by add2 )",
+          "description": "김건모의 노래 \"사랑이 떠나가네\"를 한국의 인디 밴드 add2가 커버한 버전입니다."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "HF0L6OZP39T22dFhzq7eIP63MKY",
+      "id": "N7Pimfo-5BQ",
+      "snippet": {
+        "publishedAt": "2017-05-15T15:00:15Z",
+        "channelId": "UCGT4HgaKkcyncKStt14mViA",
+        "title": "김건모-다 당신 덕분이라오(cover by brownwhale)",
+        "description": "김건모의 노래 \"다 당신 덕분이라오\" 를 한국의 인디 밴드 \"brownwhale\"이 커버한 버전입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/N7Pimfo-5BQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/N7Pimfo-5BQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/N7Pimfo-5BQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/N7Pimfo-5BQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/N7Pimfo-5BQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "muzit k",
+        "tags": [
+          "김건모",
+          "다 당신 덕분이라오",
+          "korea indie",
+          "music",
+          "cover",
+          "brownwhale",
+          "indle"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "김건모-다 당신 덕분이라오(cover by brownwhale)",
+          "description": "김건모의 노래 \"다 당신 덕분이라오\" 를 한국의 인디 밴드 \"brownwhale\"이 커버한 버전입니다."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M16S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "351",
+        "likeCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Music_of_Asia"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "김건모-다 당신 덕분이라오(cover by brownwhale)",
+          "description": "김건모의 노래 \"다 당신 덕분이라오\" 를 한국의 인디 밴드 \"brownwhale\"이 커버한 버전입니다."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "NsLajwytaSqgRcjoytp_XL_AxyU",
+      "id": "jPm7V3zUu1U",
+      "snippet": {
+        "publishedAt": "2017-05-15T14:50:20Z",
+        "channelId": "UCGT4HgaKkcyncKStt14mViA",
+        "title": "김건모-당신만이(cover by elekstic)",
+        "description": "김건모의 노래 \"당신만이\" 를 한국의 인디 밴드 elekstic(일렉스틱)이 커버한 버전입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jPm7V3zUu1U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jPm7V3zUu1U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jPm7V3zUu1U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jPm7V3zUu1U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jPm7V3zUu1U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "muzit k",
+        "tags": [
+          "김건모",
+          "당신만이",
+          "인디",
+          "한국",
+          "muzit",
+          "cover",
+          "indie",
+          "elekstic"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "김건모-당신만이(cover by elekstic)",
+          "description": "김건모의 노래 \"당신만이\" 를 한국의 인디 밴드 elekstic(일렉스틱)이 커버한 버전입니다."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT4M15S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "188",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Music_of_Asia"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "김건모-당신만이(cover by elekstic)",
+          "description": "김건모의 노래 \"당신만이\" 를 한국의 인디 밴드 elekstic(일렉스틱)이 커버한 버전입니다."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "85KYZ2ESxbcJRNqs1ReEQ_CK8Es",
+      "id": "Y-4YQFXrSug",
+      "snippet": {
+        "publishedAt": "2017-05-05T12:57:06Z",
+        "channelId": "UCGT4HgaKkcyncKStt14mViA",
+        "title": "[음악] 인디 meet 서울 : 밴드 하노 \"beautiful day\"",
+        "description": "밴드 하노의 뷰티풀 데이-쁘띠 드라마 버전:\n서울의 명소와 인디 밴드의 만남이라는 컨셉입니다. \n#서울시SBA1인미디어",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Y-4YQFXrSug/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Y-4YQFXrSug/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Y-4YQFXrSug/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Y-4YQFXrSug/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Y-4YQFXrSug/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "muzit k",
+        "tags": [
+          "#서울시SBA1인미디어"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[음악] 인디 meet 서울 : 밴드 하노 \"beautiful day\"",
+          "description": "밴드 하노의 뷰티풀 데이-쁘띠 드라마 버전:\n서울의 명소와 인디 밴드의 만남이라는 컨셉입니다. \n#서울시SBA1인미디어"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M4S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "2585",
+        "likeCount": "48",
+        "favoriteCount": "0",
+        "commentCount": "17"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Independent_music",
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Music_of_Asia"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "[음악] 인디 meet 서울 : 밴드 하노 \"beautiful day\"",
+          "description": "밴드 하노의 뷰티풀 데이-쁘띠 드라마 버전:\n서울의 명소와 인디 밴드의 만남이라는 컨셉입니다. \n#서울시SBA1인미디어"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "T3QZepMubGUenvPMRWJ5bRIlkWE",
+      "id": "ZUOPJCw9da0",
+      "snippet": {
+        "publishedAt": "2017-04-18T13:14:25Z",
+        "channelId": "UCGT4HgaKkcyncKStt14mViA",
+        "title": "trouble(cover by add2)",
+        "description": "콜드플레이의 노래 \"trouble\"을 한국의 인디 밴드 \"add2\"가 커버한 버전입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZUOPJCw9da0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZUOPJCw9da0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZUOPJCw9da0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZUOPJCw9da0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZUOPJCw9da0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "muzit k",
+        "tags": [
+          "coldplay",
+          "trouble",
+          "cover",
+          "korea",
+          "indie",
+          "add2"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "trouble(cover by add2)",
+          "description": "콜드플레이의 노래 \"trouble\"을 한국의 인디 밴드 \"add2\"가 커버한 버전입니다."
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT2M38S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "30",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "trouble(cover by add2)",
+          "description": "콜드플레이의 노래 \"trouble\"을 한국의 인디 밴드 \"add2\"가 커버한 버전입니다."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "bkv9Lk9Z_YULIOqCEqmK_0rvmRM",
+      "id": "1QP6hJvMryU",
+      "snippet": {
+        "publishedAt": "2017-04-18T13:02:23Z",
+        "channelId": "UCGT4HgaKkcyncKStt14mViA",
+        "title": "the scientist(cover by brownwhale)",
+        "description": "콜드플레이의 노래 \"the scientist\"를 한국의 인디 밴드 \"brownwhale\"이 커버한 버전입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1QP6hJvMryU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1QP6hJvMryU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1QP6hJvMryU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1QP6hJvMryU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1QP6hJvMryU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "muzit k",
+        "tags": [
+          "the sceintist",
+          "coldplay",
+          "cover",
+          "brownwhale",
+          "korea",
+          "indie"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "the scientist(cover by brownwhale)",
+          "description": "콜드플레이의 노래 \"the scientist\"를 한국의 인디 밴드 \"brownwhale\"이 커버한 버전입니다."
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT5M9S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "33",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "the scientist(cover by brownwhale)",
+          "description": "콜드플레이의 노래 \"the scientist\"를 한국의 인디 밴드 \"brownwhale\"이 커버한 버전입니다."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "XmaszyJE5mTsc0Fhm-dsXIbxojg",
+      "id": "-vm-aahHk_0",
+      "snippet": {
+        "publishedAt": "2017-04-18T12:42:33Z",
+        "channelId": "UCGT4HgaKkcyncKStt14mViA",
+        "title": "everglow(cover by nomo)",
+        "description": "콜드플레이의 노래 \"everglow\" 를 한국의 인디 밴드 \"nomo\"가 커버한 버전입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-vm-aahHk_0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-vm-aahHk_0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-vm-aahHk_0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-vm-aahHk_0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-vm-aahHk_0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "muzit k",
+        "tags": [
+          "coldplay",
+          "everglow",
+          "cover",
+          "nomo",
+          "indie",
+          "korea"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "everglow(cover by nomo)",
+          "description": "콜드플레이의 노래 \"everglow\" 를 한국의 인디 밴드 \"nomo\"가 커버한 버전입니다."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT5M9S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "53",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Independent_music",
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Pop_music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "everglow(cover by nomo)",
+          "description": "콜드플레이의 노래 \"everglow\" 를 한국의 인디 밴드 \"nomo\"가 커버한 버전입니다."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "vnS8Cm_txxgNjXmQDODu1ZeIsdI",
+      "id": "x81uDbwK0M8",
+      "snippet": {
+        "publishedAt": "2017-04-18T12:20:40Z",
+        "channelId": "UCGT4HgaKkcyncKStt14mViA",
+        "title": "in my place(cover by tell and listen)",
+        "description": "콜드플레이의 노래 \"in my place\"를 한국의 인디 밴드 \"tell and listen(말하기듣기)\"가 커버한 버전입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/x81uDbwK0M8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/x81uDbwK0M8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/x81uDbwK0M8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/x81uDbwK0M8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/x81uDbwK0M8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "muzit k",
+        "tags": [
+          "in my place",
+          "coldplay",
+          "cover",
+          "tell and listen",
+          "indie",
+          "korea"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "in my place(cover by tell and listen)",
+          "description": "콜드플레이의 노래 \"in my place\"를 한국의 인디 밴드 \"tell and listen(말하기듣기)\"가 커버한 버전입니다."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT4M34S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "48",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Independent_music",
+          "https://en.wikipedia.org/wiki/Music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "in my place(cover by tell and listen)",
+          "description": "콜드플레이의 노래 \"in my place\"를 한국의 인디 밴드 \"tell and listen(말하기듣기)\"가 커버한 버전입니다."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "47AnTgjnPwtTg8Sso02r7fYJCF0",
+      "id": "WKijQ9C6Q0Q",
+      "snippet": {
+        "publishedAt": "2017-04-18T12:11:13Z",
+        "channelId": "UCGT4HgaKkcyncKStt14mViA",
+        "title": "Something Just Like This(cover by elekstic)",
+        "description": "콜드플레이의 노래 \"Something Just Like This\"를 한국의 인디 밴드 \"elekstic\"이 커버한 버전입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WKijQ9C6Q0Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WKijQ9C6Q0Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WKijQ9C6Q0Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WKijQ9C6Q0Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WKijQ9C6Q0Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "muzit k",
+        "tags": [
+          "coldplay",
+          "something just like this",
+          "cover",
+          "elekstic",
+          "indie",
+          "korea"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "Something Just Like This(cover by elekstic)",
+          "description": "콜드플레이의 노래 \"Something Just Like This\"를 한국의 인디 밴드 \"elekstic\"이 커버한 버전입니다."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M47S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "26",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Independent_music",
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Pop_music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "Something Just Like This(cover by elekstic)",
+          "description": "콜드플레이의 노래 \"Something Just Like This\"를 한국의 인디 밴드 \"elekstic\"이 커버한 버전입니다."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "SCxFRX31vFI6RP7FOJSOMDUg4h8",
+      "id": "qtcRqf-NSjg",
+      "snippet": {
+        "publishedAt": "2017-04-18T11:53:14Z",
+        "channelId": "UCGT4HgaKkcyncKStt14mViA",
+        "title": "castle on the hill(cover by brownwhale)",
+        "description": "에드 시런의 노래 \"castle on the hill\"을 한국의 인디 밴드 \"brownwhale\"이 커버한 버전입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qtcRqf-NSjg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qtcRqf-NSjg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qtcRqf-NSjg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qtcRqf-NSjg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qtcRqf-NSjg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "muzit k",
+        "tags": [
+          "ed sheeran",
+          "castle on the hill",
+          "cover",
+          "brownwhale",
+          "indie",
+          "korea"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "castle on the hill(cover by brownwhale)",
+          "description": "에드 시런의 노래 \"castle on the hill\"을 한국의 인디 밴드 \"brownwhale\"이 커버한 버전입니다."
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT4M47S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "76",
+        "likeCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Pop_music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "castle on the hill(cover by brownwhale)",
+          "description": "에드 시런의 노래 \"castle on the hill\"을 한국의 인디 밴드 \"brownwhale\"이 커버한 버전입니다."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ehS5NUqg4jPbRqXkQt_XelLSrCY",
+      "id": "hls209Gdh1k",
+      "snippet": {
+        "publishedAt": "2017-04-18T11:35:27Z",
+        "channelId": "UCGT4HgaKkcyncKStt14mViA",
+        "title": "castle on the hill(cover by elekstic)",
+        "description": "에드 시런의 노래 \"castle on the hill\"을 한국의 인디 밴드 \"elekstic\"가 커버한 버전입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hls209Gdh1k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hls209Gdh1k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hls209Gdh1k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hls209Gdh1k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hls209Gdh1k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "muzit k",
+        "tags": [
+          "ed sheeran",
+          "castle on the hill",
+          "cover",
+          "elekstic",
+          "korea",
+          "indie"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "castle on the hill(cover by elekstic)",
+          "description": "에드 시런의 노래 \"castle on the hill\"을 한국의 인디 밴드 \"elekstic\"가 커버한 버전입니다."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M33S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "26",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Pop_music",
+          "https://en.wikipedia.org/wiki/Rock_music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "castle on the hill(cover by elekstic)",
+          "description": "에드 시런의 노래 \"castle on the hill\"을 한국의 인디 밴드 \"elekstic\"가 커버한 버전입니다."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Mhn4VFqh0eNU5aWSxFXcUotPLfE",
+      "id": "3fvwsKqGkZo",
+      "snippet": {
+        "publishedAt": "2017-04-18T11:24:33Z",
+        "channelId": "UCGT4HgaKkcyncKStt14mViA",
+        "title": "castle on the hill(cover by tell and listen)",
+        "description": "에드 시런의 노래 \"castle on the hill\"을 한국의 인디 밴드 \"tell and listen(말하기듣기)\"가 커버한 버전입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3fvwsKqGkZo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3fvwsKqGkZo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3fvwsKqGkZo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3fvwsKqGkZo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3fvwsKqGkZo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "muzit k",
+        "tags": [
+          "ed sheeran",
+          "castle on the hill",
+          "tell and listen",
+          "cover",
+          "indie",
+          "korea",
+          "말하기듣기"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "castle on the hill(cover by tell and listen)",
+          "description": "에드 시런의 노래 \"castle on the hill\"을 한국의 인디 밴드 \"tell and listen(말하기듣기)\"가 커버한 버전입니다."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M10S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "28",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Independent_music",
+          "https://en.wikipedia.org/wiki/Music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "castle on the hill(cover by tell and listen)",
+          "description": "에드 시런의 노래 \"castle on the hill\"을 한국의 인디 밴드 \"tell and listen(말하기듣기)\"가 커버한 버전입니다."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "U2hOZe9VqEGQG9yPj5sp70uIr2A",
+      "id": "1BLsOE3QBYQ",
+      "snippet": {
+        "publishedAt": "2017-04-17T15:13:52Z",
+        "channelId": "UCGT4HgaKkcyncKStt14mViA",
+        "title": "castle on the hill(cover by add2)",
+        "description": "에드 시런의 노래 \"castle on the hill\"을 한국의 인디 밴드 \"add2\"가 커버한 버전입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1BLsOE3QBYQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1BLsOE3QBYQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1BLsOE3QBYQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1BLsOE3QBYQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1BLsOE3QBYQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "muzit k",
+        "tags": [
+          "add2",
+          "castle on the hill",
+          "ed sheeran",
+          "korea",
+          "indie"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "castle on the hill(cover by add2)",
+          "description": "에드 시런의 노래 \"castle on the hill\"을 한국의 인디 밴드 \"add2\"가 커버한 버전입니다."
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT3M41S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "20",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "castle on the hill(cover by add2)",
+          "description": "에드 시런의 노래 \"castle on the hill\"을 한국의 인디 밴드 \"add2\"가 커버한 버전입니다."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "8ogf3fcV_4fpgtro4Yao1pz7M2I",
+      "id": "WE_3fyyfrHo",
+      "snippet": {
+        "publishedAt": "2017-04-17T15:04:25Z",
+        "channelId": "UCGT4HgaKkcyncKStt14mViA",
+        "title": "castle on the hill(cover by band nomo)",
+        "description": "에드 시런의 노래 \"castle on the hill\"을 한국의 인디 밴드 \"nomo\"가 커버한 버전입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WE_3fyyfrHo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WE_3fyyfrHo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WE_3fyyfrHo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WE_3fyyfrHo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WE_3fyyfrHo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "muzit k",
+        "tags": [
+          "nomo",
+          "edsheeran",
+          "castleonthehill",
+          "cover",
+          "indie",
+          "korea"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "castle on the hill(cover by band nomo)",
+          "description": "에드 시런의 노래 \"castle on the hill\"을 한국의 인디 밴드 \"nomo\"가 커버한 버전입니다."
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT4M35S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "52",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Independent_music",
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Pop_music",
+          "https://en.wikipedia.org/wiki/Rock_music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "castle on the hill(cover by band nomo)",
+          "description": "에드 시런의 노래 \"castle on the hill\"을 한국의 인디 밴드 \"nomo\"가 커버한 버전입니다."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "KWwOKIpt6l8VLDHMaS5ehE6BB6o",
+      "id": "ntkczA6itZA",
+      "snippet": {
+        "publishedAt": "2017-04-07T15:00:30Z",
+        "channelId": "UCGT4HgaKkcyncKStt14mViA",
+        "title": "a whole new world(2 piano cover)",
+        "description": "윤이 프로젝트 2번째 커버곡-a whole new world\n디즈니 애니메이션 알라딘의 주제곡을 \n2대의 피아노와 콘트라베이스, 드럼으로 연주했습니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ntkczA6itZA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ntkczA6itZA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ntkczA6itZA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ntkczA6itZA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ntkczA6itZA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "muzit k",
+        "tags": [
+          "aladdin",
+          "awholenewworld",
+          "disney",
+          "2piano"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "a whole new world(2 piano cover)",
+          "description": "윤이 프로젝트 2번째 커버곡-a whole new world\n디즈니 애니메이션 알라딘의 주제곡을 \n2대의 피아노와 콘트라베이스, 드럼으로 연주했습니다."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT1M12S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "102",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Jazz",
+          "https://en.wikipedia.org/wiki/Music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "a whole new world(2 piano cover)",
+          "description": "윤이 프로젝트 2번째 커버곡-a whole new world\n디즈니 애니메이션 알라딘의 주제곡을 \n2대의 피아노와 콘트라베이스, 드럼으로 연주했습니다."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "z1qDtihnQqmJKlcVo5cpb6puZFI",
+      "id": "eOLQdG1ufEs",
+      "snippet": {
+        "publishedAt": "2017-04-07T14:55:56Z",
+        "channelId": "UCGT4HgaKkcyncKStt14mViA",
+        "title": "beauty and the beast(2 piano cever)",
+        "description": "디즈니 애니메이션 \"미녀와 야수\" 주제곡을 두 대의 피아노로 연주한 곡입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eOLQdG1ufEs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eOLQdG1ufEs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eOLQdG1ufEs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eOLQdG1ufEs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eOLQdG1ufEs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "muzit k",
+        "tags": [
+          "disney",
+          "beautyandthebeast",
+          "2piano",
+          "piano"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "beauty and the beast(2 piano cever)",
+          "description": "디즈니 애니메이션 \"미녀와 야수\" 주제곡을 두 대의 피아노로 연주한 곡입니다."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT1M7S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "20",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Jazz",
+          "https://en.wikipedia.org/wiki/Music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "beauty and the beast(2 piano cever)",
+          "description": "디즈니 애니메이션 \"미녀와 야수\" 주제곡을 두 대의 피아노로 연주한 곡입니다."
+        }
+      }
+    }
+  ]
+}

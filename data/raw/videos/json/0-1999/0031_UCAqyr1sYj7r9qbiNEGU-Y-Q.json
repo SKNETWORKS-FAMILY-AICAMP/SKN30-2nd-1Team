@@ -1,0 +1,569 @@
+{
+  "idx": 31,
+  "channel_id": "UCAqyr1sYj7r9qbiNEGU-Y-Q",
+  "channel_title": "김순례",
+  "playlist_items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "wLn_M6fKjCRp3B8il72hciHbmKk",
+      "id": "VVVBcXlyMXNZajdyOXFiaU5FR1UtWS1RLmgzYzlkaHVNRDlz",
+      "snippet": {
+        "publishedAt": "2019-02-20T04:42:52Z",
+        "channelId": "UCAqyr1sYj7r9qbiNEGU-Y-Q",
+        "title": "KakaoTalk Video 20190220 1045 06 246",
+        "description": "김순례 최고위원 후보 홍보영상",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/h3c9dhuMD9s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/h3c9dhuMD9s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/h3c9dhuMD9s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/h3c9dhuMD9s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "김순례",
+        "playlistId": "UUAqyr1sYj7r9qbiNEGU-Y-Q",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "h3c9dhuMD9s"
+        },
+        "videoOwnerChannelTitle": "김순례",
+        "videoOwnerChannelId": "UCAqyr1sYj7r9qbiNEGU-Y-Q"
+      },
+      "contentDetails": {
+        "videoId": "h3c9dhuMD9s",
+        "videoPublishedAt": "2019-02-20T04:42:52Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "oSbd6xXjOmVrteSS3uFuNleZsY0",
+      "id": "VVVBcXlyMXNZajdyOXFiaU5FR1UtWS1RLmd6aTY3Vm8wZkVj",
+      "snippet": {
+        "publishedAt": "2019-02-08T08:54:02Z",
+        "channelId": "UCAqyr1sYj7r9qbiNEGU-Y-Q",
+        "title": "김순례 의원, 자유한국당 최고위원 출마선언!",
+        "description": "김순례 의원, 자유한국당 최고위원 출마선언",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gzi67Vo0fEc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gzi67Vo0fEc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gzi67Vo0fEc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gzi67Vo0fEc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gzi67Vo0fEc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "김순례",
+        "playlistId": "UUAqyr1sYj7r9qbiNEGU-Y-Q",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "gzi67Vo0fEc"
+        },
+        "videoOwnerChannelTitle": "김순례",
+        "videoOwnerChannelId": "UCAqyr1sYj7r9qbiNEGU-Y-Q"
+      },
+      "contentDetails": {
+        "videoId": "gzi67Vo0fEc",
+        "videoPublishedAt": "2019-02-08T08:54:02Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "uF8OsjnctgSQmCUnfVMyuNsA5pw",
+      "id": "VVVBcXlyMXNZajdyOXFiaU5FR1UtWS1RLnM2Z2QtSlVLbWM0",
+      "snippet": {
+        "publishedAt": "2016-11-16T01:45:23Z",
+        "channelId": "UCAqyr1sYj7r9qbiNEGU-Y-Q",
+        "title": "[육아칼럼] 62회 김순례 의원 인터뷰",
+        "description": "[육아칼럼]\n 62회 김순례 의원 인터뷰\n '저출산 문제 해결 위한 일·가정양립 문화 정착'",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/s6gd-JUKmc4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/s6gd-JUKmc4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/s6gd-JUKmc4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/s6gd-JUKmc4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/s6gd-JUKmc4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "김순례",
+        "playlistId": "UUAqyr1sYj7r9qbiNEGU-Y-Q",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "s6gd-JUKmc4"
+        },
+        "videoOwnerChannelTitle": "김순례",
+        "videoOwnerChannelId": "UCAqyr1sYj7r9qbiNEGU-Y-Q"
+      },
+      "contentDetails": {
+        "videoId": "s6gd-JUKmc4",
+        "videoPublishedAt": "2016-11-16T01:45:23Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "NkA9hwE0j7GEmdvCPOTxZZvwOFc",
+      "id": "VVVBcXlyMXNZajdyOXFiaU5FR1UtWS1RLkt1TjUzOThCNEJv",
+      "snippet": {
+        "publishedAt": "2016-10-05T09:22:08Z",
+        "channelId": "UCAqyr1sYj7r9qbiNEGU-Y-Q",
+        "title": "국회의원25시 - 새누리당 김순례의원",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KuN5398B4Bo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KuN5398B4Bo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KuN5398B4Bo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KuN5398B4Bo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KuN5398B4Bo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "김순례",
+        "playlistId": "UUAqyr1sYj7r9qbiNEGU-Y-Q",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KuN5398B4Bo"
+        },
+        "videoOwnerChannelTitle": "김순례",
+        "videoOwnerChannelId": "UCAqyr1sYj7r9qbiNEGU-Y-Q"
+      },
+      "contentDetails": {
+        "videoId": "KuN5398B4Bo",
+        "videoPublishedAt": "2016-10-05T09:22:08Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "video_details": [
+    {
+      "kind": "youtube#video",
+      "etag": "y7nIgs0PAaMrryq1r8oDtq_oaR8",
+      "id": "h3c9dhuMD9s",
+      "snippet": {
+        "publishedAt": "2019-02-20T04:42:52Z",
+        "channelId": "UCAqyr1sYj7r9qbiNEGU-Y-Q",
+        "title": "KakaoTalk Video 20190220 1045 06 246",
+        "description": "김순례 최고위원 후보 홍보영상",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/h3c9dhuMD9s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/h3c9dhuMD9s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/h3c9dhuMD9s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/h3c9dhuMD9s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "김순례",
+        "tags": [
+          "김순례",
+          "자유한국당",
+          "최고위원",
+          "김순례의원"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "KakaoTalk Video 20190220 1045 06 246",
+          "description": "김순례 최고위원 후보 홍보영상"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT1M2S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "58",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Politics",
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "KakaoTalk Video 20190220 1045 06 246",
+          "description": "김순례 최고위원 후보 홍보영상"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "QbTO08Rsbb-ylIxuE9ue2icxmc4",
+      "id": "gzi67Vo0fEc",
+      "snippet": {
+        "publishedAt": "2019-02-08T08:54:02Z",
+        "channelId": "UCAqyr1sYj7r9qbiNEGU-Y-Q",
+        "title": "김순례 의원, 자유한국당 최고위원 출마선언!",
+        "description": "김순례 의원, 자유한국당 최고위원 출마선언",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gzi67Vo0fEc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gzi67Vo0fEc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gzi67Vo0fEc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gzi67Vo0fEc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gzi67Vo0fEc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "김순례",
+        "tags": [
+          "김순례",
+          "자유한국당",
+          "최고위원",
+          "전당대회"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "김순례 의원, 자유한국당 최고위원 출마선언!",
+          "description": "김순례 의원, 자유한국당 최고위원 출마선언"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT9M48S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "379",
+        "likeCount": "6",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Politics",
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "김순례 의원, 자유한국당 최고위원 출마선언!",
+          "description": "김순례 의원, 자유한국당 최고위원 출마선언"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "9fizgD2ddWTuuY76eCIc-2hAfAE",
+      "id": "s6gd-JUKmc4",
+      "snippet": {
+        "publishedAt": "2016-11-16T01:45:23Z",
+        "channelId": "UCAqyr1sYj7r9qbiNEGU-Y-Q",
+        "title": "[육아칼럼] 62회 김순례 의원 인터뷰",
+        "description": "[육아칼럼]\n 62회 김순례 의원 인터뷰\n '저출산 문제 해결 위한 일·가정양립 문화 정착'",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/s6gd-JUKmc4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/s6gd-JUKmc4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/s6gd-JUKmc4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/s6gd-JUKmc4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/s6gd-JUKmc4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "김순례",
+        "tags": [
+          "육아칼럼",
+          "인터뷰",
+          "저출산",
+          "저출산문제해결",
+          "일가정양립문화",
+          "김순례",
+          "김순례의원",
+          "국회의원김순례"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[육아칼럼] 62회 김순례 의원 인터뷰",
+          "description": "[육아칼럼]\n 62회 김순례 의원 인터뷰\n '저출산 문제 해결 위한 일·가정양립 문화 정착'"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT5M56S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "131",
+        "likeCount": "4",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Politics",
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "[육아칼럼] 62회 김순례 의원 인터뷰",
+          "description": "[육아칼럼]\n 62회 김순례 의원 인터뷰\n '저출산 문제 해결 위한 일·가정양립 문화 정착'"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ECphpnt4Zq-pUADKUdaSL4lZuRw",
+      "id": "KuN5398B4Bo",
+      "snippet": {
+        "publishedAt": "2016-10-05T09:22:08Z",
+        "channelId": "UCAqyr1sYj7r9qbiNEGU-Y-Q",
+        "title": "국회의원25시 - 새누리당 김순례의원",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KuN5398B4Bo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KuN5398B4Bo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KuN5398B4Bo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KuN5398B4Bo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KuN5398B4Bo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "김순례",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "국회의원25시 - 새누리당 김순례의원",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT23M7S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "613",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Politics",
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "국회의원25시 - 새누리당 김순례의원",
+          "description": ""
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,956 @@
+{
+  "idx": 94,
+  "channel_id": "UC7iFnsXaXRIntzIDrlG8_mg",
+  "channel_title": "행복방앗간",
+  "playlist_items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "vjrMOxKBO3LzWQ6kQ_2k2yMuojw",
+      "id": "VVU3aUZuc1hhWFJJbnR6SURybEc4X21nLmIxMC0tczZ2SDZV",
+      "snippet": {
+        "publishedAt": "2024-07-01T09:01:58Z",
+        "channelId": "UC7iFnsXaXRIntzIDrlG8_mg",
+        "title": "행복방앗간님의 실시간 스트림",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/b10--s6vH6U/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/b10--s6vH6U/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/b10--s6vH6U/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/b10--s6vH6U/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/b10--s6vH6U/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "행복방앗간",
+        "playlistId": "UU7iFnsXaXRIntzIDrlG8_mg",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "b10--s6vH6U"
+        },
+        "videoOwnerChannelTitle": "행복방앗간",
+        "videoOwnerChannelId": "UC7iFnsXaXRIntzIDrlG8_mg"
+      },
+      "contentDetails": {
+        "videoId": "b10--s6vH6U",
+        "videoPublishedAt": "2024-07-01T09:01:58Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "blGfN3SS-oLJMs-Ujghw9-AcfoA",
+      "id": "VVU3aUZuc1hhWFJJbnR6SURybEc4X21nLnFVd3hmbGhtM3J3",
+      "snippet": {
+        "publishedAt": "2024-04-09T01:04:20Z",
+        "channelId": "UC7iFnsXaXRIntzIDrlG8_mg",
+        "title": "20240408 방화2동 vs 오션fc 4쿼터",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qUwxflhm3rw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qUwxflhm3rw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qUwxflhm3rw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qUwxflhm3rw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qUwxflhm3rw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "행복방앗간",
+        "playlistId": "UU7iFnsXaXRIntzIDrlG8_mg",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "qUwxflhm3rw"
+        },
+        "videoOwnerChannelTitle": "행복방앗간",
+        "videoOwnerChannelId": "UC7iFnsXaXRIntzIDrlG8_mg"
+      },
+      "contentDetails": {
+        "videoId": "qUwxflhm3rw",
+        "videoPublishedAt": "2024-04-09T01:04:20Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-433-rcOlwmQxzGdDh3_ZAVLVYg",
+      "id": "VVU3aUZuc1hhWFJJbnR6SURybEc4X21nLklfQVN0Vmx2UFl3",
+      "snippet": {
+        "publishedAt": "2024-04-09T01:04:08Z",
+        "channelId": "UC7iFnsXaXRIntzIDrlG8_mg",
+        "title": "20240408 방화2동 vs 오션fc 3-2쿼터",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/I_AStVlvPYw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/I_AStVlvPYw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/I_AStVlvPYw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/I_AStVlvPYw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/I_AStVlvPYw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "행복방앗간",
+        "playlistId": "UU7iFnsXaXRIntzIDrlG8_mg",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "I_AStVlvPYw"
+        },
+        "videoOwnerChannelTitle": "행복방앗간",
+        "videoOwnerChannelId": "UC7iFnsXaXRIntzIDrlG8_mg"
+      },
+      "contentDetails": {
+        "videoId": "I_AStVlvPYw",
+        "videoPublishedAt": "2024-04-09T01:04:08Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "k51x9YLu6M5eReNPkb01CNz-cVk",
+      "id": "VVU3aUZuc1hhWFJJbnR6SURybEc4X21nLnlabmVsVWFkR0NJ",
+      "snippet": {
+        "publishedAt": "2024-04-09T01:04:00Z",
+        "channelId": "UC7iFnsXaXRIntzIDrlG8_mg",
+        "title": "20240408 방화2동 vs 오션fc 3-1쿼터",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yZnelUadGCI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yZnelUadGCI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yZnelUadGCI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yZnelUadGCI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yZnelUadGCI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "행복방앗간",
+        "playlistId": "UU7iFnsXaXRIntzIDrlG8_mg",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "yZnelUadGCI"
+        },
+        "videoOwnerChannelTitle": "행복방앗간",
+        "videoOwnerChannelId": "UC7iFnsXaXRIntzIDrlG8_mg"
+      },
+      "contentDetails": {
+        "videoId": "yZnelUadGCI",
+        "videoPublishedAt": "2024-04-09T01:04:00Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "hbAF6Oqg8cSw09XNccUheu7Uyz0",
+      "id": "VVU3aUZuc1hhWFJJbnR6SURybEc4X21nLkVmQmR2b1dTbzJv",
+      "snippet": {
+        "publishedAt": "2024-04-09T01:03:51Z",
+        "channelId": "UC7iFnsXaXRIntzIDrlG8_mg",
+        "title": "20240408 방화2동 vs 오션fc 2쿼터",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EfBdvoWSo2o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EfBdvoWSo2o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EfBdvoWSo2o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EfBdvoWSo2o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EfBdvoWSo2o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "행복방앗간",
+        "playlistId": "UU7iFnsXaXRIntzIDrlG8_mg",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "EfBdvoWSo2o"
+        },
+        "videoOwnerChannelTitle": "행복방앗간",
+        "videoOwnerChannelId": "UC7iFnsXaXRIntzIDrlG8_mg"
+      },
+      "contentDetails": {
+        "videoId": "EfBdvoWSo2o",
+        "videoPublishedAt": "2024-04-09T01:03:51Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "6Z8U0Jx_AmTVIw-UaFF5L8FKq80",
+      "id": "VVU3aUZuc1hhWFJJbnR6SURybEc4X21nLjM0LUhfc25rX0Iw",
+      "snippet": {
+        "publishedAt": "2024-04-09T01:03:41Z",
+        "channelId": "UC7iFnsXaXRIntzIDrlG8_mg",
+        "title": "20240408 방화2동 vs 오션fc 1쿼터",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/34-H_snk_B0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/34-H_snk_B0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/34-H_snk_B0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/34-H_snk_B0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/34-H_snk_B0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "행복방앗간",
+        "playlistId": "UU7iFnsXaXRIntzIDrlG8_mg",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "34-H_snk_B0"
+        },
+        "videoOwnerChannelTitle": "행복방앗간",
+        "videoOwnerChannelId": "UC7iFnsXaXRIntzIDrlG8_mg"
+      },
+      "contentDetails": {
+        "videoId": "34-H_snk_B0",
+        "videoPublishedAt": "2024-04-09T01:03:41Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "5iZ5bheRez4K2--2tTGTJvOjX88",
+      "id": "VVU3aUZuc1hhWFJJbnR6SURybEc4X21nLm1Nd3dkSVBOWHVj",
+      "snippet": {
+        "publishedAt": "2018-10-18T05:28:30Z",
+        "channelId": "UC7iFnsXaXRIntzIDrlG8_mg",
+        "title": "행복방앗간님의 실시간 스트리밍",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mMwwdIPNXuc/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mMwwdIPNXuc/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mMwwdIPNXuc/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mMwwdIPNXuc/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mMwwdIPNXuc/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "행복방앗간",
+        "playlistId": "UU7iFnsXaXRIntzIDrlG8_mg",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "mMwwdIPNXuc"
+        },
+        "videoOwnerChannelTitle": "행복방앗간",
+        "videoOwnerChannelId": "UC7iFnsXaXRIntzIDrlG8_mg"
+      },
+      "contentDetails": {
+        "videoId": "mMwwdIPNXuc",
+        "videoPublishedAt": "2018-10-18T05:28:30Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "video_details": [
+    {
+      "kind": "youtube#video",
+      "etag": "FlNzchhFLBZSmIOj6rk028HLoww",
+      "id": "b10--s6vH6U",
+      "snippet": {
+        "publishedAt": "2024-07-01T09:01:58Z",
+        "channelId": "UC7iFnsXaXRIntzIDrlG8_mg",
+        "title": "행복방앗간님의 실시간 스트림",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/b10--s6vH6U/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/b10--s6vH6U/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/b10--s6vH6U/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/b10--s6vH6U/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/b10--s6vH6U/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "행복방앗간",
+        "categoryId": "22",
+        "liveBroadcastContent": "upcoming",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "행복방앗간님의 실시간 스트림",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "P0D",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "uploaded",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "0",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "행복방앗간님의 실시간 스트림",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "EsDnuQABD5mnpb0krlGDjgOtPVA",
+      "id": "qUwxflhm3rw",
+      "snippet": {
+        "publishedAt": "2024-04-09T01:04:20Z",
+        "channelId": "UC7iFnsXaXRIntzIDrlG8_mg",
+        "title": "20240408 방화2동 vs 오션fc 4쿼터",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qUwxflhm3rw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qUwxflhm3rw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qUwxflhm3rw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qUwxflhm3rw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qUwxflhm3rw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "행복방앗간",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "20240408 방화2동 vs 오션fc 4쿼터",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT23M31S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "99",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Association_football",
+          "https://en.wikipedia.org/wiki/Sport"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "20240408 방화2동 vs 오션fc 4쿼터",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Qda29qdPifCLcmCmkilEi0ROC4Y",
+      "id": "I_AStVlvPYw",
+      "snippet": {
+        "publishedAt": "2024-04-09T01:04:08Z",
+        "channelId": "UC7iFnsXaXRIntzIDrlG8_mg",
+        "title": "20240408 방화2동 vs 오션fc 3-2쿼터",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/I_AStVlvPYw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/I_AStVlvPYw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/I_AStVlvPYw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/I_AStVlvPYw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/I_AStVlvPYw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "행복방앗간",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "20240408 방화2동 vs 오션fc 3-2쿼터",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT16M20S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "96",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Association_football",
+          "https://en.wikipedia.org/wiki/Sport"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "20240408 방화2동 vs 오션fc 3-2쿼터",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "8dP8htlIinMZUlgUg3kxsWqWWQc",
+      "id": "yZnelUadGCI",
+      "snippet": {
+        "publishedAt": "2024-04-09T01:04:00Z",
+        "channelId": "UC7iFnsXaXRIntzIDrlG8_mg",
+        "title": "20240408 방화2동 vs 오션fc 3-1쿼터",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yZnelUadGCI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yZnelUadGCI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yZnelUadGCI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yZnelUadGCI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yZnelUadGCI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "행복방앗간",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "20240408 방화2동 vs 오션fc 3-1쿼터",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT9M24S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "81",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Association_football",
+          "https://en.wikipedia.org/wiki/Sport"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "20240408 방화2동 vs 오션fc 3-1쿼터",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "qPWaii7fhdyhKh8N0-k1qSHfuKs",
+      "id": "EfBdvoWSo2o",
+      "snippet": {
+        "publishedAt": "2024-04-09T01:03:51Z",
+        "channelId": "UC7iFnsXaXRIntzIDrlG8_mg",
+        "title": "20240408 방화2동 vs 오션fc 2쿼터",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EfBdvoWSo2o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EfBdvoWSo2o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EfBdvoWSo2o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EfBdvoWSo2o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EfBdvoWSo2o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "행복방앗간",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "20240408 방화2동 vs 오션fc 2쿼터",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT22M50S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "93",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Association_football",
+          "https://en.wikipedia.org/wiki/Sport"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "20240408 방화2동 vs 오션fc 2쿼터",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "CM53FuyzoSOEUppdDbuQlkpxczQ",
+      "id": "34-H_snk_B0",
+      "snippet": {
+        "publishedAt": "2024-04-09T01:03:41Z",
+        "channelId": "UC7iFnsXaXRIntzIDrlG8_mg",
+        "title": "20240408 방화2동 vs 오션fc 1쿼터",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/34-H_snk_B0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/34-H_snk_B0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/34-H_snk_B0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/34-H_snk_B0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/34-H_snk_B0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "행복방앗간",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "20240408 방화2동 vs 오션fc 1쿼터",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT22M13S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "147",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Association_football",
+          "https://en.wikipedia.org/wiki/Sport"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "20240408 방화2동 vs 오션fc 1쿼터",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "VsZxaWpc6DZWgKK_-8iz0c1ifDY",
+      "id": "mMwwdIPNXuc",
+      "snippet": {
+        "publishedAt": "2018-10-18T05:28:30Z",
+        "channelId": "UC7iFnsXaXRIntzIDrlG8_mg",
+        "title": "행복방앗간님의 실시간 스트리밍",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mMwwdIPNXuc/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mMwwdIPNXuc/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mMwwdIPNXuc/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mMwwdIPNXuc/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mMwwdIPNXuc/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "행복방앗간",
+        "categoryId": "22",
+        "liveBroadcastContent": "upcoming",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "행복방앗간님의 실시간 스트리밍",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "P0D",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "uploaded",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": false,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "0",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "행복방앗간님의 실시간 스트리밍",
+          "description": ""
+        }
+      }
+    }
+  ]
+}

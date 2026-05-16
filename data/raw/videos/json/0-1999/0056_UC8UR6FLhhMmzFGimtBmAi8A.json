@@ -1,0 +1,6376 @@
+{
+  "idx": 56,
+  "channel_id": "UC8UR6FLhhMmzFGimtBmAi8A",
+  "channel_title": "THEBEST",
+  "playlist_items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "tBWhEkX9Oi8mBaTRd_BAfofsVT4",
+      "id": "VVU4VVI2RkxoaE1tekZHaW10Qm1BaThBLmRqaG5Hc0dRTkxv",
+      "snippet": {
+        "publishedAt": "2021-10-30T16:19:14Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[배그] 이 집은 내꺼야!",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/djhnGsGQNLo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/djhnGsGQNLo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/djhnGsGQNLo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/djhnGsGQNLo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/djhnGsGQNLo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THEBEST",
+        "playlistId": "UU8UR6FLhhMmzFGimtBmAi8A",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "djhnGsGQNLo"
+        },
+        "videoOwnerChannelTitle": "THEBEST",
+        "videoOwnerChannelId": "UC8UR6FLhhMmzFGimtBmAi8A"
+      },
+      "contentDetails": {
+        "videoId": "djhnGsGQNLo",
+        "videoPublishedAt": "2021-10-30T16:19:14Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Og-qlWtDV4vKdERqBGJ7dgArko8",
+      "id": "VVU4VVI2RkxoaE1tekZHaW10Qm1BaThBLkw2dm9oQW1meC1r",
+      "snippet": {
+        "publishedAt": "2021-07-19T14:29:20Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[배그] 디그닥",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/L6vohAmfx-k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/L6vohAmfx-k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/L6vohAmfx-k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/L6vohAmfx-k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/L6vohAmfx-k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THEBEST",
+        "playlistId": "UU8UR6FLhhMmzFGimtBmAi8A",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "L6vohAmfx-k"
+        },
+        "videoOwnerChannelTitle": "THEBEST",
+        "videoOwnerChannelId": "UC8UR6FLhhMmzFGimtBmAi8A"
+      },
+      "contentDetails": {
+        "videoId": "L6vohAmfx-k",
+        "videoPublishedAt": "2021-07-19T14:29:20Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "FGWgTDQhkm1SbbREKL84TIiEqqU",
+      "id": "VVU4VVI2RkxoaE1tekZHaW10Qm1BaThBLnUxbll3XzVwTld3",
+      "snippet": {
+        "publishedAt": "2021-06-12T02:13:01Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[배그] 크레이지 레이싱",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/u1nYw_5pNWw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/u1nYw_5pNWw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/u1nYw_5pNWw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/u1nYw_5pNWw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/u1nYw_5pNWw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THEBEST",
+        "playlistId": "UU8UR6FLhhMmzFGimtBmAi8A",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "u1nYw_5pNWw"
+        },
+        "videoOwnerChannelTitle": "THEBEST",
+        "videoOwnerChannelId": "UC8UR6FLhhMmzFGimtBmAi8A"
+      },
+      "contentDetails": {
+        "videoId": "u1nYw_5pNWw",
+        "videoPublishedAt": "2021-06-12T02:13:01Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "h01--8rfbSbOrxopl_ZMzTx6tmw",
+      "id": "VVU4VVI2RkxoaE1tekZHaW10Qm1BaThBLllSLVNwemM1c1hN",
+      "snippet": {
+        "publishedAt": "2021-04-02T18:01:57Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[배그] SLR 단발속사",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YR-Spzc5sXM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YR-Spzc5sXM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YR-Spzc5sXM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YR-Spzc5sXM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YR-Spzc5sXM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THEBEST",
+        "playlistId": "UU8UR6FLhhMmzFGimtBmAi8A",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "YR-Spzc5sXM"
+        },
+        "videoOwnerChannelTitle": "THEBEST",
+        "videoOwnerChannelId": "UC8UR6FLhhMmzFGimtBmAi8A"
+      },
+      "contentDetails": {
+        "videoId": "YR-Spzc5sXM",
+        "videoPublishedAt": "2021-04-02T18:01:57Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "0X1UkTpXMsbhvh3O_ffXDk4UKQY",
+      "id": "VVU4VVI2RkxoaE1tekZHaW10Qm1BaThBLk4yUGlFSmFRcktB",
+      "snippet": {
+        "publishedAt": "2020-04-04T14:03:17Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[배그] 판타지모드 레인저",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/N2PiEJaQrKA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/N2PiEJaQrKA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/N2PiEJaQrKA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/N2PiEJaQrKA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/N2PiEJaQrKA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THEBEST",
+        "playlistId": "UU8UR6FLhhMmzFGimtBmAi8A",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "N2PiEJaQrKA"
+        },
+        "videoOwnerChannelTitle": "THEBEST",
+        "videoOwnerChannelId": "UC8UR6FLhhMmzFGimtBmAi8A"
+      },
+      "contentDetails": {
+        "videoId": "N2PiEJaQrKA",
+        "videoPublishedAt": "2020-04-04T14:03:17Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "w9r_cAczORHKwLyoLo-9nUYBk3c",
+      "id": "VVU4VVI2RkxoaE1tekZHaW10Qm1BaThBLlBYSVdOM1NTUXdF",
+      "snippet": {
+        "publishedAt": "2020-03-14T17:33:50Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[바이오쇼크 1 : Re] 배드엔딩",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PXIWN3SSQwE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PXIWN3SSQwE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PXIWN3SSQwE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PXIWN3SSQwE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "THEBEST",
+        "playlistId": "UU8UR6FLhhMmzFGimtBmAi8A",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "PXIWN3SSQwE"
+        },
+        "videoOwnerChannelTitle": "THEBEST",
+        "videoOwnerChannelId": "UC8UR6FLhhMmzFGimtBmAi8A"
+      },
+      "contentDetails": {
+        "videoId": "PXIWN3SSQwE",
+        "videoPublishedAt": "2020-03-14T17:33:50Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "yd7MrIwqwd3r67LQP2QOXMdS-EI",
+      "id": "VVU4VVI2RkxoaE1tekZHaW10Qm1BaThBLjV0Skd4YW9WeFhB",
+      "snippet": {
+        "publishedAt": "2020-02-09T13:54:01Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[배그] 섬광탄보단 수류탄",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5tJGxaoVxXA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5tJGxaoVxXA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5tJGxaoVxXA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5tJGxaoVxXA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5tJGxaoVxXA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THEBEST",
+        "playlistId": "UU8UR6FLhhMmzFGimtBmAi8A",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "5tJGxaoVxXA"
+        },
+        "videoOwnerChannelTitle": "THEBEST",
+        "videoOwnerChannelId": "UC8UR6FLhhMmzFGimtBmAi8A"
+      },
+      "contentDetails": {
+        "videoId": "5tJGxaoVxXA",
+        "videoPublishedAt": "2020-02-09T13:54:01Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "jMj-JEb15mS84KKjnuyFtjQU1BY",
+      "id": "VVU4VVI2RkxoaE1tekZHaW10Qm1BaThBLnFaRkxabmtiRmdN",
+      "snippet": {
+        "publishedAt": "2020-02-09T13:51:54Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[배그] 자연스럽게",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qZFLZnkbFgM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qZFLZnkbFgM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qZFLZnkbFgM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qZFLZnkbFgM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qZFLZnkbFgM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THEBEST",
+        "playlistId": "UU8UR6FLhhMmzFGimtBmAi8A",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "qZFLZnkbFgM"
+        },
+        "videoOwnerChannelTitle": "THEBEST",
+        "videoOwnerChannelId": "UC8UR6FLhhMmzFGimtBmAi8A"
+      },
+      "contentDetails": {
+        "videoId": "qZFLZnkbFgM",
+        "videoPublishedAt": "2020-02-09T13:51:54Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3s00OInl3ofZr_j7j5eLTVgP3pw",
+      "id": "VVU4VVI2RkxoaE1tekZHaW10Qm1BaThBLklzMlFhNUZxTWo4",
+      "snippet": {
+        "publishedAt": "2020-02-07T17:06:18Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[스타2] 테란은 물량이지",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Is2Qa5FqMj8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Is2Qa5FqMj8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Is2Qa5FqMj8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Is2Qa5FqMj8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Is2Qa5FqMj8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THEBEST",
+        "playlistId": "UU8UR6FLhhMmzFGimtBmAi8A",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Is2Qa5FqMj8"
+        },
+        "videoOwnerChannelTitle": "THEBEST",
+        "videoOwnerChannelId": "UC8UR6FLhhMmzFGimtBmAi8A"
+      },
+      "contentDetails": {
+        "videoId": "Is2Qa5FqMj8",
+        "videoPublishedAt": "2020-02-07T17:06:18Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "p41BOwS6sBEsWH6uTruAuMZa-NA",
+      "id": "VVU4VVI2RkxoaE1tekZHaW10Qm1BaThBLkFtOF9oaHN0SXlJ",
+      "snippet": {
+        "publishedAt": "2020-02-06T12:08:29Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[배그] 개트롤",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Am8_hhstIyI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Am8_hhstIyI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Am8_hhstIyI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Am8_hhstIyI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Am8_hhstIyI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THEBEST",
+        "playlistId": "UU8UR6FLhhMmzFGimtBmAi8A",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Am8_hhstIyI"
+        },
+        "videoOwnerChannelTitle": "THEBEST",
+        "videoOwnerChannelId": "UC8UR6FLhhMmzFGimtBmAi8A"
+      },
+      "contentDetails": {
+        "videoId": "Am8_hhstIyI",
+        "videoPublishedAt": "2020-02-06T12:08:29Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4yskRGcfy_xuQladNlbJEFsXLv8",
+      "id": "VVU4VVI2RkxoaE1tekZHaW10Qm1BaThBLlhseWg1dWJvYTBR",
+      "snippet": {
+        "publishedAt": "2020-02-05T15:15:29Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[오버워치] 둠피 씨름 feat. 빡종",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Xlyh5uboa0Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Xlyh5uboa0Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Xlyh5uboa0Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Xlyh5uboa0Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Xlyh5uboa0Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THEBEST",
+        "playlistId": "UU8UR6FLhhMmzFGimtBmAi8A",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Xlyh5uboa0Q"
+        },
+        "videoOwnerChannelTitle": "THEBEST",
+        "videoOwnerChannelId": "UC8UR6FLhhMmzFGimtBmAi8A"
+      },
+      "contentDetails": {
+        "videoId": "Xlyh5uboa0Q",
+        "videoPublishedAt": "2020-02-05T15:15:29Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "6iVbL9qAsq8cVOajVdaw0rPtAFo",
+      "id": "VVU4VVI2RkxoaE1tekZHaW10Qm1BaThBLnR4RWp4UTI2djlz",
+      "snippet": {
+        "publishedAt": "2020-02-05T15:02:47Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[오버워치] 혈압 마라톤",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/txEjxQ26v9s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/txEjxQ26v9s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/txEjxQ26v9s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/txEjxQ26v9s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "THEBEST",
+        "playlistId": "UU8UR6FLhhMmzFGimtBmAi8A",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "txEjxQ26v9s"
+        },
+        "videoOwnerChannelTitle": "THEBEST",
+        "videoOwnerChannelId": "UC8UR6FLhhMmzFGimtBmAi8A"
+      },
+      "contentDetails": {
+        "videoId": "txEjxQ26v9s",
+        "videoPublishedAt": "2020-02-05T15:02:47Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mPCI5OHQnIQtVzYHdZ1eHx2GcAc",
+      "id": "VVU4VVI2RkxoaE1tekZHaW10Qm1BaThBLkVnRk0xWC05eU9N",
+      "snippet": {
+        "publishedAt": "2019-10-04T19:15:57Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[배그] 폭주족",
+        "description": "분명 랜덤 스쿼드인데..",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EgFM1X-9yOM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EgFM1X-9yOM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EgFM1X-9yOM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EgFM1X-9yOM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "THEBEST",
+        "playlistId": "UU8UR6FLhhMmzFGimtBmAi8A",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "EgFM1X-9yOM"
+        },
+        "videoOwnerChannelTitle": "THEBEST",
+        "videoOwnerChannelId": "UC8UR6FLhhMmzFGimtBmAi8A"
+      },
+      "contentDetails": {
+        "videoId": "EgFM1X-9yOM",
+        "videoPublishedAt": "2019-10-04T19:15:57Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "SSC07KqFJ3cDUL8dMDAIFchdNWg",
+      "id": "VVU4VVI2RkxoaE1tekZHaW10Qm1BaThBLnRnTXVNQ3FZZ2RB",
+      "snippet": {
+        "publishedAt": "2019-10-04T17:57:07Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[배그] ??? : 살려주세요",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tgMuMCqYgdA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tgMuMCqYgdA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tgMuMCqYgdA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tgMuMCqYgdA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tgMuMCqYgdA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THEBEST",
+        "playlistId": "UU8UR6FLhhMmzFGimtBmAi8A",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "tgMuMCqYgdA"
+        },
+        "videoOwnerChannelTitle": "THEBEST",
+        "videoOwnerChannelId": "UC8UR6FLhhMmzFGimtBmAi8A"
+      },
+      "contentDetails": {
+        "videoId": "tgMuMCqYgdA",
+        "videoPublishedAt": "2019-10-04T17:57:07Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Fyi7IiSu5Pl1iZv1eBeVyuKr9hE",
+      "id": "VVU4VVI2RkxoaE1tekZHaW10Qm1BaThBLklqekVUZUJ1XzQ4",
+      "snippet": {
+        "publishedAt": "2019-06-02T04:04:19Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[스타2]오랜만에 래더",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IjzETeBu_48/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IjzETeBu_48/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IjzETeBu_48/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IjzETeBu_48/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IjzETeBu_48/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THEBEST",
+        "playlistId": "UU8UR6FLhhMmzFGimtBmAi8A",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "IjzETeBu_48"
+        },
+        "videoOwnerChannelTitle": "THEBEST",
+        "videoOwnerChannelId": "UC8UR6FLhhMmzFGimtBmAi8A"
+      },
+      "contentDetails": {
+        "videoId": "IjzETeBu_48",
+        "videoPublishedAt": "2019-06-02T04:04:19Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "avEQkMqqaJhtqQpycochv00cEy4",
+      "id": "VVU4VVI2RkxoaE1tekZHaW10Qm1BaThBLktEVk02SzVMUFpn",
+      "snippet": {
+        "publishedAt": "2019-05-01T17:44:50Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[스타2] 망각행 고속열차 아어 솔플",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KDVM6K5LPZg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KDVM6K5LPZg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KDVM6K5LPZg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KDVM6K5LPZg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KDVM6K5LPZg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THEBEST",
+        "playlistId": "UU8UR6FLhhMmzFGimtBmAi8A",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KDVM6K5LPZg"
+        },
+        "videoOwnerChannelTitle": "THEBEST",
+        "videoOwnerChannelId": "UC8UR6FLhhMmzFGimtBmAi8A"
+      },
+      "contentDetails": {
+        "videoId": "KDVM6K5LPZg",
+        "videoPublishedAt": "2019-05-01T17:44:50Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "YkOSnzmiXCZWmsRzbOXctwUfb8c",
+      "id": "VVU4VVI2RkxoaE1tekZHaW10Qm1BaThBLjBXX25HeDB4eXFr",
+      "snippet": {
+        "publishedAt": "2019-05-01T13:49:42Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[스타2] 아몬에게 영혼 팜",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0W_nGx0xyqk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0W_nGx0xyqk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0W_nGx0xyqk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0W_nGx0xyqk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0W_nGx0xyqk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THEBEST",
+        "playlistId": "UU8UR6FLhhMmzFGimtBmAi8A",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0W_nGx0xyqk"
+        },
+        "videoOwnerChannelTitle": "THEBEST",
+        "videoOwnerChannelId": "UC8UR6FLhhMmzFGimtBmAi8A"
+      },
+      "contentDetails": {
+        "videoId": "0W_nGx0xyqk",
+        "videoPublishedAt": "2019-05-01T13:49:42Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "krsaMmtKQgeSId0ymH46XMFQLYE",
+      "id": "VVU4VVI2RkxoaE1tekZHaW10Qm1BaThBLkVCNFNCaUFZekk4",
+      "snippet": {
+        "publishedAt": "2019-04-30T11:48:50Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[스타2]테저전 서열정리",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EB4SBiAYzI8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EB4SBiAYzI8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EB4SBiAYzI8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EB4SBiAYzI8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EB4SBiAYzI8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THEBEST",
+        "playlistId": "UU8UR6FLhhMmzFGimtBmAi8A",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "EB4SBiAYzI8"
+        },
+        "videoOwnerChannelTitle": "THEBEST",
+        "videoOwnerChannelId": "UC8UR6FLhhMmzFGimtBmAi8A"
+      },
+      "contentDetails": {
+        "videoId": "EB4SBiAYzI8",
+        "videoPublishedAt": "2019-04-30T11:48:50Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "cAPTdLza9DC5RiTYD3-_YJeeEr0",
+      "id": "VVU4VVI2RkxoaE1tekZHaW10Qm1BaThBLkpoX0h2WUcxN2xJ",
+      "snippet": {
+        "publishedAt": "2019-04-07T00:58:21Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[브롤] 페니로 로봇대전 뒷치기",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Jh_HvYG17lI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Jh_HvYG17lI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Jh_HvYG17lI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Jh_HvYG17lI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Jh_HvYG17lI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THEBEST",
+        "playlistId": "UU8UR6FLhhMmzFGimtBmAi8A",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Jh_HvYG17lI"
+        },
+        "videoOwnerChannelTitle": "THEBEST",
+        "videoOwnerChannelId": "UC8UR6FLhhMmzFGimtBmAi8A"
+      },
+      "contentDetails": {
+        "videoId": "Jh_HvYG17lI",
+        "videoPublishedAt": "2019-04-07T00:58:21Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "lY3-HiBIKV7wg6BMD-J09zg_MdI",
+      "id": "VVU4VVI2RkxoaE1tekZHaW10Qm1BaThBLmdfLTBGYWJwQ1k4",
+      "snippet": {
+        "publishedAt": "2019-04-07T00:56:14Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[배그]인사성 바른 친구들",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/g_-0FabpCY8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/g_-0FabpCY8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/g_-0FabpCY8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/g_-0FabpCY8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/g_-0FabpCY8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THEBEST",
+        "playlistId": "UU8UR6FLhhMmzFGimtBmAi8A",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "g_-0FabpCY8"
+        },
+        "videoOwnerChannelTitle": "THEBEST",
+        "videoOwnerChannelId": "UC8UR6FLhhMmzFGimtBmAi8A"
+      },
+      "contentDetails": {
+        "videoId": "g_-0FabpCY8",
+        "videoPublishedAt": "2019-04-07T00:56:14Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "sLdRoaHJQ_k14yyrsPpfqpkdUq0",
+      "id": "VVU4VVI2RkxoaE1tekZHaW10Qm1BaThBLlo4LU4zQnQydjZr",
+      "snippet": {
+        "publishedAt": "2019-02-14T03:19:40Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[스타2] 손쉬운 승리",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Z8-N3Bt2v6k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Z8-N3Bt2v6k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Z8-N3Bt2v6k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Z8-N3Bt2v6k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Z8-N3Bt2v6k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THEBEST",
+        "playlistId": "UU8UR6FLhhMmzFGimtBmAi8A",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Z8-N3Bt2v6k"
+        },
+        "videoOwnerChannelTitle": "THEBEST",
+        "videoOwnerChannelId": "UC8UR6FLhhMmzFGimtBmAi8A"
+      },
+      "contentDetails": {
+        "videoId": "Z8-N3Bt2v6k",
+        "videoPublishedAt": "2019-02-14T03:19:40Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "J_eyHf6_xJvq_m5k-hnliHG1EMM",
+      "id": "VVU4VVI2RkxoaE1tekZHaW10Qm1BaThBLnBYM205amNSckpr",
+      "snippet": {
+        "publishedAt": "2019-02-13T12:40:12Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[오버워치] 미친 스쿼드",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pX3m9jcRrJk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pX3m9jcRrJk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pX3m9jcRrJk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pX3m9jcRrJk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "THEBEST",
+        "playlistId": "UU8UR6FLhhMmzFGimtBmAi8A",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "pX3m9jcRrJk"
+        },
+        "videoOwnerChannelTitle": "THEBEST",
+        "videoOwnerChannelId": "UC8UR6FLhhMmzFGimtBmAi8A"
+      },
+      "contentDetails": {
+        "videoId": "pX3m9jcRrJk",
+        "videoPublishedAt": "2019-02-13T12:40:12Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "P5Nfiuruhbs5vft_ozN40DFlBiQ",
+      "id": "VVU4VVI2RkxoaE1tekZHaW10Qm1BaThBLnMtNlNaTVFWQUdr",
+      "snippet": {
+        "publishedAt": "2018-09-29T07:07:22Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[배그] 어어..? 어어?!",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/s-6SZMQVAGk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/s-6SZMQVAGk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/s-6SZMQVAGk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/s-6SZMQVAGk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/s-6SZMQVAGk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THEBEST",
+        "playlistId": "UU8UR6FLhhMmzFGimtBmAi8A",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "s-6SZMQVAGk"
+        },
+        "videoOwnerChannelTitle": "THEBEST",
+        "videoOwnerChannelId": "UC8UR6FLhhMmzFGimtBmAi8A"
+      },
+      "contentDetails": {
+        "videoId": "s-6SZMQVAGk",
+        "videoPublishedAt": "2018-09-29T07:07:22Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "JlVYaR3G0zhKJJyz6lvac5wjBHQ",
+      "id": "VVU4VVI2RkxoaE1tekZHaW10Qm1BaThBLmgxaEgxTkdsQlRn",
+      "snippet": {
+        "publishedAt": "2018-09-29T07:05:51Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[배그] 원펀맨",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/h1hH1NGlBTg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/h1hH1NGlBTg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/h1hH1NGlBTg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/h1hH1NGlBTg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/h1hH1NGlBTg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THEBEST",
+        "playlistId": "UU8UR6FLhhMmzFGimtBmAi8A",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "h1hH1NGlBTg"
+        },
+        "videoOwnerChannelTitle": "THEBEST",
+        "videoOwnerChannelId": "UC8UR6FLhhMmzFGimtBmAi8A"
+      },
+      "contentDetails": {
+        "videoId": "h1hH1NGlBTg",
+        "videoPublishedAt": "2018-09-29T07:05:51Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "HJvu-GkEdOSFohqmBl17rN6J8uI",
+      "id": "VVU4VVI2RkxoaE1tekZHaW10Qm1BaThBLjRlUDVncU55dnVF",
+      "snippet": {
+        "publishedAt": "2018-07-27T14:38:01Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[던파] 총력전 런처올킬",
+        "description": "런처야 아프지마",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4eP5gqNyvuE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4eP5gqNyvuE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4eP5gqNyvuE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4eP5gqNyvuE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "THEBEST",
+        "playlistId": "UU8UR6FLhhMmzFGimtBmAi8A",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4eP5gqNyvuE"
+        },
+        "videoOwnerChannelTitle": "THEBEST",
+        "videoOwnerChannelId": "UC8UR6FLhhMmzFGimtBmAi8A"
+      },
+      "contentDetails": {
+        "videoId": "4eP5gqNyvuE",
+        "videoPublishedAt": "2018-07-27T14:38:01Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "bhjVmiUd8pznnvg7LfiA_Rd0V8g",
+      "id": "VVU4VVI2RkxoaE1tekZHaW10Qm1BaThBLk5BRFNNZDBoYWtV",
+      "snippet": {
+        "publishedAt": "2018-07-16T12:22:24Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[더 디비전] 즐겜충",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NADSMd0hakU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NADSMd0hakU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NADSMd0hakU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NADSMd0hakU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NADSMd0hakU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THEBEST",
+        "playlistId": "UU8UR6FLhhMmzFGimtBmAi8A",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NADSMd0hakU"
+        },
+        "videoOwnerChannelTitle": "THEBEST",
+        "videoOwnerChannelId": "UC8UR6FLhhMmzFGimtBmAi8A"
+      },
+      "contentDetails": {
+        "videoId": "NADSMd0hakU",
+        "videoPublishedAt": "2018-07-16T12:22:24Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "brvExbRJiRkXdvJMXGoV97pkqtE",
+      "id": "VVU4VVI2RkxoaE1tekZHaW10Qm1BaThBLmVvaXAwdDFmMHFB",
+      "snippet": {
+        "publishedAt": "2018-07-16T04:29:12Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[스타2] 노바 - 망각행 고속열차 아어",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eoip0t1f0qA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eoip0t1f0qA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eoip0t1f0qA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eoip0t1f0qA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eoip0t1f0qA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THEBEST",
+        "playlistId": "UU8UR6FLhhMmzFGimtBmAi8A",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "eoip0t1f0qA"
+        },
+        "videoOwnerChannelTitle": "THEBEST",
+        "videoOwnerChannelId": "UC8UR6FLhhMmzFGimtBmAi8A"
+      },
+      "contentDetails": {
+        "videoId": "eoip0t1f0qA",
+        "videoPublishedAt": "2018-07-16T04:29:12Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "gseafKbwveV7agPJRrEiAkWc8yw",
+      "id": "VVU4VVI2RkxoaE1tekZHaW10Qm1BaThBLmlSa2gySWhLVUZF",
+      "snippet": {
+        "publishedAt": "2018-07-07T09:38:30Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[아키에이지] 마플에서 결투",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iRkh2IhKUFE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iRkh2IhKUFE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iRkh2IhKUFE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iRkh2IhKUFE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iRkh2IhKUFE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THEBEST",
+        "playlistId": "UU8UR6FLhhMmzFGimtBmAi8A",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "iRkh2IhKUFE"
+        },
+        "videoOwnerChannelTitle": "THEBEST",
+        "videoOwnerChannelId": "UC8UR6FLhhMmzFGimtBmAi8A"
+      },
+      "contentDetails": {
+        "videoId": "iRkh2IhKUFE",
+        "videoPublishedAt": "2018-07-07T09:38:30Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "t-nDOsp9ZS5uQAqKnU21hGx4zRQ",
+      "id": "VVU4VVI2RkxoaE1tekZHaW10Qm1BaThBLkNpcEdCSzBlbVcw",
+      "snippet": {
+        "publishedAt": "2018-06-29T08:12:50Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[배그] 하와이 피스톨",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CipGBK0emW0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CipGBK0emW0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CipGBK0emW0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CipGBK0emW0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CipGBK0emW0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THEBEST",
+        "playlistId": "UU8UR6FLhhMmzFGimtBmAi8A",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CipGBK0emW0"
+        },
+        "videoOwnerChannelTitle": "THEBEST",
+        "videoOwnerChannelId": "UC8UR6FLhhMmzFGimtBmAi8A"
+      },
+      "contentDetails": {
+        "videoId": "CipGBK0emW0",
+        "videoPublishedAt": "2018-06-29T08:12:50Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "tXczfrhHSJTq8o_94F7V0To7APk",
+      "id": "VVU4VVI2RkxoaE1tekZHaW10Qm1BaThBLmg3UDRzNW5scXA0",
+      "snippet": {
+        "publishedAt": "2018-06-27T04:48:23Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[배그] 어부지리",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/h7P4s5nlqp4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/h7P4s5nlqp4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/h7P4s5nlqp4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/h7P4s5nlqp4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/h7P4s5nlqp4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THEBEST",
+        "playlistId": "UU8UR6FLhhMmzFGimtBmAi8A",
+        "position": 29,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "h7P4s5nlqp4"
+        },
+        "videoOwnerChannelTitle": "THEBEST",
+        "videoOwnerChannelId": "UC8UR6FLhhMmzFGimtBmAi8A"
+      },
+      "contentDetails": {
+        "videoId": "h7P4s5nlqp4",
+        "videoPublishedAt": "2018-06-27T04:48:23Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "5nsreeBOEgeQqeoQjoLWI_NpKQM",
+      "id": "VVU4VVI2RkxoaE1tekZHaW10Qm1BaThBLnNfRkFOY2hMRkJF",
+      "snippet": {
+        "publishedAt": "2018-05-15T06:51:50Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[배그] 닌자어택",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/s_FANchLFBE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/s_FANchLFBE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/s_FANchLFBE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/s_FANchLFBE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "THEBEST",
+        "playlistId": "UU8UR6FLhhMmzFGimtBmAi8A",
+        "position": 30,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "s_FANchLFBE"
+        },
+        "videoOwnerChannelTitle": "THEBEST",
+        "videoOwnerChannelId": "UC8UR6FLhhMmzFGimtBmAi8A"
+      },
+      "contentDetails": {
+        "videoId": "s_FANchLFBE",
+        "videoPublishedAt": "2018-05-15T06:51:50Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8kMihzkTvQGMNh93R8CNuvq-wSc",
+      "id": "VVU4VVI2RkxoaE1tekZHaW10Qm1BaThBLkU3ZkZoX2ExVHFj",
+      "snippet": {
+        "publishedAt": "2018-05-09T14:30:54Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[배그] 한스쿼드 뚝딱!",
+        "description": "#shorts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/E7fFh_a1Tqc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/E7fFh_a1Tqc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/E7fFh_a1Tqc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/E7fFh_a1Tqc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/E7fFh_a1Tqc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THEBEST",
+        "playlistId": "UU8UR6FLhhMmzFGimtBmAi8A",
+        "position": 31,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "E7fFh_a1Tqc"
+        },
+        "videoOwnerChannelTitle": "THEBEST",
+        "videoOwnerChannelId": "UC8UR6FLhhMmzFGimtBmAi8A"
+      },
+      "contentDetails": {
+        "videoId": "E7fFh_a1Tqc",
+        "videoPublishedAt": "2018-05-09T14:30:54Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "53zz2Gk6TNfED1MD_UFR-HVB8xg",
+      "id": "VVU4VVI2RkxoaE1tekZHaW10Qm1BaThBLi1XT0haMEI5eUNn",
+      "snippet": {
+        "publishedAt": "2018-04-23T14:40:17Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[배그] 후라이팬 살인마",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-WOHZ0B9yCg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-WOHZ0B9yCg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-WOHZ0B9yCg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-WOHZ0B9yCg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-WOHZ0B9yCg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THEBEST",
+        "playlistId": "UU8UR6FLhhMmzFGimtBmAi8A",
+        "position": 32,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-WOHZ0B9yCg"
+        },
+        "videoOwnerChannelTitle": "THEBEST",
+        "videoOwnerChannelId": "UC8UR6FLhhMmzFGimtBmAi8A"
+      },
+      "contentDetails": {
+        "videoId": "-WOHZ0B9yCg",
+        "videoPublishedAt": "2018-04-23T14:40:17Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "23Dn_dQ6RqFt_hNWh-Ikeoi5zGM",
+      "id": "VVU4VVI2RkxoaE1tekZHaW10Qm1BaThBLmxPMVVTYlRtM01J",
+      "snippet": {
+        "publishedAt": "2018-04-21T03:36:43Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[배그] 검문 있겠습니다.",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lO1USbTm3MI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lO1USbTm3MI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lO1USbTm3MI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lO1USbTm3MI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lO1USbTm3MI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THEBEST",
+        "playlistId": "UU8UR6FLhhMmzFGimtBmAi8A",
+        "position": 33,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "lO1USbTm3MI"
+        },
+        "videoOwnerChannelTitle": "THEBEST",
+        "videoOwnerChannelId": "UC8UR6FLhhMmzFGimtBmAi8A"
+      },
+      "contentDetails": {
+        "videoId": "lO1USbTm3MI",
+        "videoPublishedAt": "2018-04-21T03:36:43Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3m2f0aYDZbWpyJymZbpBHX3nzt4",
+      "id": "VVU4VVI2RkxoaE1tekZHaW10Qm1BaThBLkItVmdqM2NMZDdv",
+      "snippet": {
+        "publishedAt": "2018-04-21T03:34:46Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[배그] 항마의 구팔이",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/B-Vgj3cLd7o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/B-Vgj3cLd7o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/B-Vgj3cLd7o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/B-Vgj3cLd7o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/B-Vgj3cLd7o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THEBEST",
+        "playlistId": "UU8UR6FLhhMmzFGimtBmAi8A",
+        "position": 34,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "B-Vgj3cLd7o"
+        },
+        "videoOwnerChannelTitle": "THEBEST",
+        "videoOwnerChannelId": "UC8UR6FLhhMmzFGimtBmAi8A"
+      },
+      "contentDetails": {
+        "videoId": "B-Vgj3cLd7o",
+        "videoPublishedAt": "2018-04-21T03:34:46Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3DzqJmygbalbSx3ZagEZLqBr1uw",
+      "id": "VVU4VVI2RkxoaE1tekZHaW10Qm1BaThBLkQ3Z1F2QkZGRjJr",
+      "snippet": {
+        "publishedAt": "2018-03-21T14:14:54Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[배그] 총알이 없어요 뻬엑!",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/D7gQvBFFF2k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/D7gQvBFFF2k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/D7gQvBFFF2k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/D7gQvBFFF2k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "THEBEST",
+        "playlistId": "UU8UR6FLhhMmzFGimtBmAi8A",
+        "position": 35,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "D7gQvBFFF2k"
+        },
+        "videoOwnerChannelTitle": "THEBEST",
+        "videoOwnerChannelId": "UC8UR6FLhhMmzFGimtBmAi8A"
+      },
+      "contentDetails": {
+        "videoId": "D7gQvBFFF2k",
+        "videoPublishedAt": "2018-03-21T14:14:54Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "gnfIhzRsnD-B6_aaSMwdFli7TQs",
+      "id": "VVU4VVI2RkxoaE1tekZHaW10Qm1BaThBLnJSZGRNa2ZJTkhv",
+      "snippet": {
+        "publishedAt": "2018-03-04T07:39:59Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[배그] 스쿼드 슈퍼클리어",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rRddMkfINHo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rRddMkfINHo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rRddMkfINHo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rRddMkfINHo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rRddMkfINHo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THEBEST",
+        "playlistId": "UU8UR6FLhhMmzFGimtBmAi8A",
+        "position": 36,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "rRddMkfINHo"
+        },
+        "videoOwnerChannelTitle": "THEBEST",
+        "videoOwnerChannelId": "UC8UR6FLhhMmzFGimtBmAi8A"
+      },
+      "contentDetails": {
+        "videoId": "rRddMkfINHo",
+        "videoPublishedAt": "2018-03-04T07:39:59Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "dyvAdhdsIYC45KFT0bIR7TMuWkY",
+      "id": "VVU4VVI2RkxoaE1tekZHaW10Qm1BaThBLlhrWGpwbjgteGM4",
+      "snippet": {
+        "publishedAt": "2018-02-27T12:56:54Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[배그] 계세요? 아무도없어요",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XkXjpn8-xc8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XkXjpn8-xc8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XkXjpn8-xc8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XkXjpn8-xc8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XkXjpn8-xc8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THEBEST",
+        "playlistId": "UU8UR6FLhhMmzFGimtBmAi8A",
+        "position": 37,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "XkXjpn8-xc8"
+        },
+        "videoOwnerChannelTitle": "THEBEST",
+        "videoOwnerChannelId": "UC8UR6FLhhMmzFGimtBmAi8A"
+      },
+      "contentDetails": {
+        "videoId": "XkXjpn8-xc8",
+        "videoPublishedAt": "2018-02-27T12:56:54Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "vHkOlKBnXtoaaMHQVRuVGlGTOg8",
+      "id": "VVU4VVI2RkxoaE1tekZHaW10Qm1BaThBLkRjd1BaWXo3WDdB",
+      "snippet": {
+        "publishedAt": "2018-01-29T14:27:11Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[배그] 팝콘마냥 터져버리기",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DcwPZYz7X7A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DcwPZYz7X7A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DcwPZYz7X7A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DcwPZYz7X7A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DcwPZYz7X7A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THEBEST",
+        "playlistId": "UU8UR6FLhhMmzFGimtBmAi8A",
+        "position": 38,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "DcwPZYz7X7A"
+        },
+        "videoOwnerChannelTitle": "THEBEST",
+        "videoOwnerChannelId": "UC8UR6FLhhMmzFGimtBmAi8A"
+      },
+      "contentDetails": {
+        "videoId": "DcwPZYz7X7A",
+        "videoPublishedAt": "2018-01-29T14:27:11Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "FYt5OaHevLjhUg4jDrRZzVE5cLg",
+      "id": "VVU4VVI2RkxoaE1tekZHaW10Qm1BaThBLklqZlNsUldoNlVj",
+      "snippet": {
+        "publishedAt": "2017-12-18T12:17:02Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[던파] 오랜만에 결전버섴 결장",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IjfSlRWh6Uc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IjfSlRWh6Uc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IjfSlRWh6Uc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IjfSlRWh6Uc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IjfSlRWh6Uc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THEBEST",
+        "playlistId": "UU8UR6FLhhMmzFGimtBmAi8A",
+        "position": 39,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "IjfSlRWh6Uc"
+        },
+        "videoOwnerChannelTitle": "THEBEST",
+        "videoOwnerChannelId": "UC8UR6FLhhMmzFGimtBmAi8A"
+      },
+      "contentDetails": {
+        "videoId": "IjfSlRWh6Uc",
+        "videoPublishedAt": "2017-12-18T12:17:02Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "wlBoCmjOaj_ujP7n3PRFY4r9zOE",
+      "id": "VVU4VVI2RkxoaE1tekZHaW10Qm1BaThBLlVQQUlOWUtfOTRF",
+      "snippet": {
+        "publishedAt": "2017-06-04T00:33:56Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[스타2] 저글링글링해",
+        "description": "참고용-",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UPAINYK_94E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UPAINYK_94E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UPAINYK_94E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UPAINYK_94E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UPAINYK_94E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THEBEST",
+        "playlistId": "UU8UR6FLhhMmzFGimtBmAi8A",
+        "position": 40,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "UPAINYK_94E"
+        },
+        "videoOwnerChannelTitle": "THEBEST",
+        "videoOwnerChannelId": "UC8UR6FLhhMmzFGimtBmAi8A"
+      },
+      "contentDetails": {
+        "videoId": "UPAINYK_94E",
+        "videoPublishedAt": "2017-06-04T00:33:56Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Fb84-E2fjKfseEUtuzdn-bVzwQs",
+      "id": "VVU4VVI2RkxoaE1tekZHaW10Qm1BaThBLklIWGJwU2NWZVZj",
+      "snippet": {
+        "publishedAt": "2017-02-07T13:11:53Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[GTA5] 나홀로작업 - 타이탄작업",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IHXbpScVeVc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IHXbpScVeVc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IHXbpScVeVc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IHXbpScVeVc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IHXbpScVeVc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THEBEST",
+        "playlistId": "UU8UR6FLhhMmzFGimtBmAi8A",
+        "position": 41,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "IHXbpScVeVc"
+        },
+        "videoOwnerChannelTitle": "THEBEST",
+        "videoOwnerChannelId": "UC8UR6FLhhMmzFGimtBmAi8A"
+      },
+      "contentDetails": {
+        "videoId": "IHXbpScVeVc",
+        "videoPublishedAt": "2017-02-07T13:11:53Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "f3rFOauWBw2hhvWhA2NZR7g4od0",
+      "id": "VVU4VVI2RkxoaE1tekZHaW10Qm1BaThBLllaenlkRDk1Y1I4",
+      "snippet": {
+        "publishedAt": "2017-02-05T07:57:07Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[GTA5] 나홀로 작업 - 코스팅",
+        "description": "노가다",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YZzydD95cR8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YZzydD95cR8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YZzydD95cR8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YZzydD95cR8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YZzydD95cR8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THEBEST",
+        "playlistId": "UU8UR6FLhhMmzFGimtBmAi8A",
+        "position": 42,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "YZzydD95cR8"
+        },
+        "videoOwnerChannelTitle": "THEBEST",
+        "videoOwnerChannelId": "UC8UR6FLhhMmzFGimtBmAi8A"
+      },
+      "contentDetails": {
+        "videoId": "YZzydD95cR8",
+        "videoPublishedAt": "2017-02-05T07:57:07Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "R7YJ4Tml3QlpTeOasrIX-ySxIBw",
+      "id": "VVU4VVI2RkxoaE1tekZHaW10Qm1BaThBLmZFNG4wZTFGSUlv",
+      "snippet": {
+        "publishedAt": "2016-09-13T08:01:57Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[던파] 레인저 노히트",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fE4n0e1FIIo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fE4n0e1FIIo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fE4n0e1FIIo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fE4n0e1FIIo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fE4n0e1FIIo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THEBEST",
+        "playlistId": "UU8UR6FLhhMmzFGimtBmAi8A",
+        "position": 43,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fE4n0e1FIIo"
+        },
+        "videoOwnerChannelTitle": "THEBEST",
+        "videoOwnerChannelId": "UC8UR6FLhhMmzFGimtBmAi8A"
+      },
+      "contentDetails": {
+        "videoId": "fE4n0e1FIIo",
+        "videoPublishedAt": "2016-09-13T08:01:57Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "L0_1lwwlhxkEEs8QRvJjkHnzeeE",
+      "id": "VVU4VVI2RkxoaE1tekZHaW10Qm1BaThBLmtzeHVTSlhZZGZR",
+      "snippet": {
+        "publishedAt": "2016-08-14T16:44:48Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[카트] 아이템 1vs1",
+        "description": "8월 15일",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ksxuSJXYdfQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ksxuSJXYdfQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ksxuSJXYdfQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ksxuSJXYdfQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ksxuSJXYdfQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THEBEST",
+        "playlistId": "UU8UR6FLhhMmzFGimtBmAi8A",
+        "position": 44,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ksxuSJXYdfQ"
+        },
+        "videoOwnerChannelTitle": "THEBEST",
+        "videoOwnerChannelId": "UC8UR6FLhhMmzFGimtBmAi8A"
+      },
+      "contentDetails": {
+        "videoId": "ksxuSJXYdfQ",
+        "videoPublishedAt": "2016-08-14T16:44:48Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ETghKBo6Ezq_vHjsK1EPWmqIRlU",
+      "id": "VVU4VVI2RkxoaE1tekZHaW10Qm1BaThBLnBnaTdOTjZCVkcw",
+      "snippet": {
+        "publishedAt": "2014-03-18T12:40:27Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "크리스틴 벨 뻘짓",
+        "description": "역시 갓-벨 안렐루야",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pgi7NN6BVG0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pgi7NN6BVG0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pgi7NN6BVG0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "THEBEST",
+        "playlistId": "UU8UR6FLhhMmzFGimtBmAi8A",
+        "position": 45,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "pgi7NN6BVG0"
+        },
+        "videoOwnerChannelTitle": "THEBEST",
+        "videoOwnerChannelId": "UC8UR6FLhhMmzFGimtBmAi8A"
+      },
+      "contentDetails": {
+        "videoId": "pgi7NN6BVG0",
+        "videoPublishedAt": "2014-03-18T12:40:27Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "rATKEgqAa9mDHrGxx6rRkoK9_0A",
+      "id": "VVU4VVI2RkxoaE1tekZHaW10Qm1BaThBLi14WDQxdWNSRUNn",
+      "snippet": {
+        "publishedAt": "2014-03-18T12:26:53Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "싱어롱 떼창 - 사열문",
+        "description": "많은 씽어롱 갤러들이 올려준 서울 대구 대전 부산 등 주요 녹음파일들 짜집기+약간의 효과로(공간감,스테레오,음장효과)\n\n출처 프갤",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-xX41ucRECg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-xX41ucRECg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-xX41ucRECg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "THEBEST",
+        "playlistId": "UU8UR6FLhhMmzFGimtBmAi8A",
+        "position": 46,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-xX41ucRECg"
+        },
+        "videoOwnerChannelTitle": "THEBEST",
+        "videoOwnerChannelId": "UC8UR6FLhhMmzFGimtBmAi8A"
+      },
+      "contentDetails": {
+        "videoId": "-xX41ucRECg",
+        "videoPublishedAt": "2014-03-18T12:26:53Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "video_details": [
+    {
+      "kind": "youtube#video",
+      "etag": "5x2JlqoYa8Dkk6PTGLK4wMdMRRI",
+      "id": "djhnGsGQNLo",
+      "snippet": {
+        "publishedAt": "2021-10-30T16:19:14Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[배그] 이 집은 내꺼야!",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/djhnGsGQNLo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/djhnGsGQNLo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/djhnGsGQNLo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/djhnGsGQNLo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/djhnGsGQNLo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THEBEST",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[배그] 이 집은 내꺼야!",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT1M49S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "38",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action-adventure_game",
+          "https://en.wikipedia.org/wiki/Action_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "[배그] 이 집은 내꺼야!",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "jt3Zx4iArVYTjxlDSwtrniafOHA",
+      "id": "L6vohAmfx-k",
+      "snippet": {
+        "publishedAt": "2021-07-19T14:29:20Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[배그] 디그닥",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/L6vohAmfx-k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/L6vohAmfx-k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/L6vohAmfx-k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/L6vohAmfx-k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/L6vohAmfx-k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THEBEST",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[배그] 디그닥",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT36S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "53",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action-adventure_game",
+          "https://en.wikipedia.org/wiki/Action_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "[배그] 디그닥",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "3qGtlbRJFpkH8Tjn1gIDBYWHlLE",
+      "id": "u1nYw_5pNWw",
+      "snippet": {
+        "publishedAt": "2021-06-12T02:13:01Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[배그] 크레이지 레이싱",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/u1nYw_5pNWw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/u1nYw_5pNWw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/u1nYw_5pNWw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/u1nYw_5pNWw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/u1nYw_5pNWw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THEBEST",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[배그] 크레이지 레이싱",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M50S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "13",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action-adventure_game",
+          "https://en.wikipedia.org/wiki/Action_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "[배그] 크레이지 레이싱",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "XyiDvdiBgP3FuCQoZFawbTS2BRI",
+      "id": "YR-Spzc5sXM",
+      "snippet": {
+        "publishedAt": "2021-04-02T18:01:57Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[배그] SLR 단발속사",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YR-Spzc5sXM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YR-Spzc5sXM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YR-Spzc5sXM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YR-Spzc5sXM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YR-Spzc5sXM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THEBEST",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[배그] SLR 단발속사",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT1M30S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "48",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action-adventure_game",
+          "https://en.wikipedia.org/wiki/Action_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "[배그] SLR 단발속사",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "hnUZtIqCPd4-UKuV1h3FsaSdRmM",
+      "id": "N2PiEJaQrKA",
+      "snippet": {
+        "publishedAt": "2020-04-04T14:03:17Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[배그] 판타지모드 레인저",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/N2PiEJaQrKA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/N2PiEJaQrKA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/N2PiEJaQrKA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/N2PiEJaQrKA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/N2PiEJaQrKA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THEBEST",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[배그] 판타지모드 레인저",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT1M24S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "47",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action-adventure_game",
+          "https://en.wikipedia.org/wiki/Action_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "[배그] 판타지모드 레인저",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "qtVWC4gxdPZ4YUQB92TX4N1HFc0",
+      "id": "PXIWN3SSQwE",
+      "snippet": {
+        "publishedAt": "2020-03-14T17:33:50Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[바이오쇼크 1 : Re] 배드엔딩",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PXIWN3SSQwE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PXIWN3SSQwE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PXIWN3SSQwE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PXIWN3SSQwE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "THEBEST",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[바이오쇼크 1 : Re] 배드엔딩",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT5M6S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "2784",
+        "likeCount": "5",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action-adventure_game",
+          "https://en.wikipedia.org/wiki/Action_game",
+          "https://en.wikipedia.org/wiki/Role-playing_video_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "[바이오쇼크 1 : Re] 배드엔딩",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "-oSz8D5-HbMOdPLdhnZXsDTg5j0",
+      "id": "5tJGxaoVxXA",
+      "snippet": {
+        "publishedAt": "2020-02-09T13:54:01Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[배그] 섬광탄보단 수류탄",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5tJGxaoVxXA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5tJGxaoVxXA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5tJGxaoVxXA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5tJGxaoVxXA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5tJGxaoVxXA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THEBEST",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[배그] 섬광탄보단 수류탄",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT41S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "55",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action-adventure_game",
+          "https://en.wikipedia.org/wiki/Action_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "[배그] 섬광탄보단 수류탄",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "0JhoUtwxLOT4oKaqM6cRVrHSi-g",
+      "id": "qZFLZnkbFgM",
+      "snippet": {
+        "publishedAt": "2020-02-09T13:51:54Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[배그] 자연스럽게",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qZFLZnkbFgM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qZFLZnkbFgM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qZFLZnkbFgM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qZFLZnkbFgM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qZFLZnkbFgM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THEBEST",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[배그] 자연스럽게",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT41S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "49",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action-adventure_game",
+          "https://en.wikipedia.org/wiki/Action_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "[배그] 자연스럽게",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "gICY22DPdCsU67UE0DPMkQcAioU",
+      "id": "Is2Qa5FqMj8",
+      "snippet": {
+        "publishedAt": "2020-02-07T17:06:18Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[스타2] 테란은 물량이지",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Is2Qa5FqMj8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Is2Qa5FqMj8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Is2Qa5FqMj8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Is2Qa5FqMj8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Is2Qa5FqMj8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THEBEST",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[스타2] 테란은 물량이지",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT9M20S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "40",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Strategy_video_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "[스타2] 테란은 물량이지",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "1MAg_fgR487vJzIjvIwsX8F8hHE",
+      "id": "Am8_hhstIyI",
+      "snippet": {
+        "publishedAt": "2020-02-06T12:08:29Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[배그] 개트롤",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Am8_hhstIyI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Am8_hhstIyI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Am8_hhstIyI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Am8_hhstIyI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Am8_hhstIyI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THEBEST",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[배그] 개트롤",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT1M11S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "79",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action-adventure_game",
+          "https://en.wikipedia.org/wiki/Action_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "[배그] 개트롤",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "JK4vCmyjzFKr8mc3CpHGifGWJ50",
+      "id": "Xlyh5uboa0Q",
+      "snippet": {
+        "publishedAt": "2020-02-05T15:15:29Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[오버워치] 둠피 씨름 feat. 빡종",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Xlyh5uboa0Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Xlyh5uboa0Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Xlyh5uboa0Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Xlyh5uboa0Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Xlyh5uboa0Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THEBEST",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[오버워치] 둠피 씨름 feat. 빡종",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT2M13S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "737",
+        "likeCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "18"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "[오버워치] 둠피 씨름 feat. 빡종",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "2CjBCXxWnqK4nUlZznXvVcREZtQ",
+      "id": "txEjxQ26v9s",
+      "snippet": {
+        "publishedAt": "2020-02-05T15:02:47Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[오버워치] 혈압 마라톤",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/txEjxQ26v9s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/txEjxQ26v9s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/txEjxQ26v9s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/txEjxQ26v9s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "THEBEST",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[오버워치] 혈압 마라톤",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT15M9S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "35",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "[오버워치] 혈압 마라톤",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "gyv_hpdzQYU_6r2c2HCBza-VgKk",
+      "id": "EgFM1X-9yOM",
+      "snippet": {
+        "publishedAt": "2019-10-04T19:15:57Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[배그] 폭주족",
+        "description": "분명 랜덤 스쿼드인데..",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EgFM1X-9yOM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EgFM1X-9yOM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EgFM1X-9yOM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EgFM1X-9yOM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "THEBEST",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[배그] 폭주족",
+          "description": "분명 랜덤 스쿼드인데.."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT49S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "134",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action-adventure_game",
+          "https://en.wikipedia.org/wiki/Action_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "[배그] 폭주족",
+          "description": "분명 랜덤 스쿼드인데.."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "GHGgYI39KtsPxp3S-tPCFGtrdXc",
+      "id": "tgMuMCqYgdA",
+      "snippet": {
+        "publishedAt": "2019-10-04T17:57:07Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[배그] ??? : 살려주세요",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tgMuMCqYgdA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tgMuMCqYgdA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tgMuMCqYgdA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tgMuMCqYgdA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tgMuMCqYgdA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THEBEST",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[배그] ??? : 살려주세요",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT31S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "125",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action-adventure_game",
+          "https://en.wikipedia.org/wiki/Action_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "[배그] ??? : 살려주세요",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "k4UP4wdejc7Ba19sGyEKNYukENk",
+      "id": "IjzETeBu_48",
+      "snippet": {
+        "publishedAt": "2019-06-02T04:04:19Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[스타2]오랜만에 래더",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IjzETeBu_48/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IjzETeBu_48/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IjzETeBu_48/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IjzETeBu_48/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IjzETeBu_48/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THEBEST",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[스타2]오랜만에 래더",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT8M28S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "181",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "2"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Strategy_video_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "[스타2]오랜만에 래더",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ccbWTEIgldME1EusEESCQFyMrYI",
+      "id": "KDVM6K5LPZg",
+      "snippet": {
+        "publishedAt": "2019-05-01T17:44:50Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[스타2] 망각행 고속열차 아어 솔플",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KDVM6K5LPZg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KDVM6K5LPZg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KDVM6K5LPZg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KDVM6K5LPZg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KDVM6K5LPZg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THEBEST",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[스타2] 망각행 고속열차 아어 솔플",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT17M",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "182",
+        "likeCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "2"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Strategy_video_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "[스타2] 망각행 고속열차 아어 솔플",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "9hJGo3KG6Wsbcp7j8xaWz1TKEQY",
+      "id": "0W_nGx0xyqk",
+      "snippet": {
+        "publishedAt": "2019-05-01T13:49:42Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[스타2] 아몬에게 영혼 팜",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0W_nGx0xyqk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0W_nGx0xyqk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0W_nGx0xyqk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0W_nGx0xyqk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0W_nGx0xyqk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THEBEST",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[스타2] 아몬에게 영혼 팜",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT20M9S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "170",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Strategy_video_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "[스타2] 아몬에게 영혼 팜",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "4Hz96ZdZTg8XvFkeeEUO6_ocmoo",
+      "id": "EB4SBiAYzI8",
+      "snippet": {
+        "publishedAt": "2019-04-30T11:48:50Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[스타2]테저전 서열정리",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EB4SBiAYzI8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EB4SBiAYzI8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EB4SBiAYzI8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EB4SBiAYzI8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EB4SBiAYzI8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THEBEST",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[스타2]테저전 서열정리",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT16M38S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "195",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Strategy_video_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "[스타2]테저전 서열정리",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "W0eItPrj5LriRgx_viQDoqUHras",
+      "id": "Jh_HvYG17lI",
+      "snippet": {
+        "publishedAt": "2019-04-07T00:58:21Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[브롤] 페니로 로봇대전 뒷치기",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Jh_HvYG17lI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Jh_HvYG17lI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Jh_HvYG17lI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Jh_HvYG17lI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Jh_HvYG17lI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THEBEST",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[브롤] 페니로 로봇대전 뒷치기",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT2M47S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "215",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "[브롤] 페니로 로봇대전 뒷치기",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "6NVRaYIinn6t8grh-b9zWJl144c",
+      "id": "g_-0FabpCY8",
+      "snippet": {
+        "publishedAt": "2019-04-07T00:56:14Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[배그]인사성 바른 친구들",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/g_-0FabpCY8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/g_-0FabpCY8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/g_-0FabpCY8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/g_-0FabpCY8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/g_-0FabpCY8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THEBEST",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[배그]인사성 바른 친구들",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT1M7S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "199",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action-adventure_game",
+          "https://en.wikipedia.org/wiki/Action_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "[배그]인사성 바른 친구들",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "-eAAtD3EY8xPV7FN9X51XB4LwXI",
+      "id": "Z8-N3Bt2v6k",
+      "snippet": {
+        "publishedAt": "2019-02-14T03:19:40Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[스타2] 손쉬운 승리",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Z8-N3Bt2v6k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Z8-N3Bt2v6k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Z8-N3Bt2v6k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Z8-N3Bt2v6k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Z8-N3Bt2v6k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THEBEST",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[스타2] 손쉬운 승리",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT16M4S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "280",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action_game",
+          "https://en.wikipedia.org/wiki/Strategy_video_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "[스타2] 손쉬운 승리",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "YbXckYP_TB7AbNmGXgHe3bKSL14",
+      "id": "pX3m9jcRrJk",
+      "snippet": {
+        "publishedAt": "2019-02-13T12:40:12Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[오버워치] 미친 스쿼드",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pX3m9jcRrJk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pX3m9jcRrJk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pX3m9jcRrJk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pX3m9jcRrJk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "THEBEST",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[오버워치] 미친 스쿼드",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT4M18S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "266",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "[오버워치] 미친 스쿼드",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "bHvUDMjBvW_tLDeS_VkABQE9CVU",
+      "id": "s-6SZMQVAGk",
+      "snippet": {
+        "publishedAt": "2018-09-29T07:07:22Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[배그] 어어..? 어어?!",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/s-6SZMQVAGk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/s-6SZMQVAGk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/s-6SZMQVAGk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/s-6SZMQVAGk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/s-6SZMQVAGk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THEBEST",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[배그] 어어..? 어어?!",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT50S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "318",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action-adventure_game",
+          "https://en.wikipedia.org/wiki/Action_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "[배그] 어어..? 어어?!",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "E5vKakszW9bUOtpDZR1S7EUz0oc",
+      "id": "h1hH1NGlBTg",
+      "snippet": {
+        "publishedAt": "2018-09-29T07:05:51Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[배그] 원펀맨",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/h1hH1NGlBTg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/h1hH1NGlBTg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/h1hH1NGlBTg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/h1hH1NGlBTg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/h1hH1NGlBTg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THEBEST",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[배그] 원펀맨",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT59S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "285",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action-adventure_game",
+          "https://en.wikipedia.org/wiki/Action_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "[배그] 원펀맨",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "xznQnFYTeID5w7zuhoTJ3eotv9c",
+      "id": "4eP5gqNyvuE",
+      "snippet": {
+        "publishedAt": "2018-07-27T14:38:01Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[던파] 총력전 런처올킬",
+        "description": "런처야 아프지마",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4eP5gqNyvuE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4eP5gqNyvuE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4eP5gqNyvuE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4eP5gqNyvuE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "THEBEST",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[던파] 총력전 런처올킬",
+          "description": "런처야 아프지마"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT5M1S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "394",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action_game",
+          "https://en.wikipedia.org/wiki/Role-playing_video_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "[던파] 총력전 런처올킬",
+          "description": "런처야 아프지마"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "zCCTdjMrf4vk2L_xeTA4kT5ylC8",
+      "id": "NADSMd0hakU",
+      "snippet": {
+        "publishedAt": "2018-07-16T12:22:24Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[더 디비전] 즐겜충",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NADSMd0hakU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NADSMd0hakU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NADSMd0hakU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NADSMd0hakU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NADSMd0hakU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THEBEST",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[더 디비전] 즐겜충",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT15M10S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "287",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action-adventure_game",
+          "https://en.wikipedia.org/wiki/Action_game",
+          "https://en.wikipedia.org/wiki/Role-playing_video_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "[더 디비전] 즐겜충",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "7GDOtG0IBhBTbEd9EYuVnFyQ2Fs",
+      "id": "eoip0t1f0qA",
+      "snippet": {
+        "publishedAt": "2018-07-16T04:29:12Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[스타2] 노바 - 망각행 고속열차 아어",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eoip0t1f0qA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eoip0t1f0qA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eoip0t1f0qA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eoip0t1f0qA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eoip0t1f0qA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THEBEST",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[스타2] 노바 - 망각행 고속열차 아어",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT17M59S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "250",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Strategy_video_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "[스타2] 노바 - 망각행 고속열차 아어",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "JqUPdTiB-D40Yd33gznVi7NyTxo",
+      "id": "iRkh2IhKUFE",
+      "snippet": {
+        "publishedAt": "2018-07-07T09:38:30Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[아키에이지] 마플에서 결투",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iRkh2IhKUFE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iRkh2IhKUFE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iRkh2IhKUFE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iRkh2IhKUFE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iRkh2IhKUFE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THEBEST",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[아키에이지] 마플에서 결투",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT22M37S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "491",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Role-playing_video_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "[아키에이지] 마플에서 결투",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "6jP7Nl2P0PF--8zf3NauopBoiUg",
+      "id": "CipGBK0emW0",
+      "snippet": {
+        "publishedAt": "2018-06-29T08:12:50Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[배그] 하와이 피스톨",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CipGBK0emW0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CipGBK0emW0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CipGBK0emW0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CipGBK0emW0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CipGBK0emW0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THEBEST",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[배그] 하와이 피스톨",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT1M23S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "336",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action-adventure_game",
+          "https://en.wikipedia.org/wiki/Action_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "[배그] 하와이 피스톨",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "si0ijT1858NzXSyujEeBC9xkctc",
+      "id": "h7P4s5nlqp4",
+      "snippet": {
+        "publishedAt": "2018-06-27T04:48:23Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[배그] 어부지리",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/h7P4s5nlqp4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/h7P4s5nlqp4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/h7P4s5nlqp4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/h7P4s5nlqp4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/h7P4s5nlqp4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THEBEST",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[배그] 어부지리",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT41S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "241",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action-adventure_game",
+          "https://en.wikipedia.org/wiki/Action_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "[배그] 어부지리",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "fbj7bv4vrpyWWfeGf_Yo6WcVQKI",
+      "id": "s_FANchLFBE",
+      "snippet": {
+        "publishedAt": "2018-05-15T06:51:50Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[배그] 닌자어택",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/s_FANchLFBE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/s_FANchLFBE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/s_FANchLFBE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/s_FANchLFBE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "THEBEST",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[배그] 닌자어택",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT50S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "260",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action-adventure_game",
+          "https://en.wikipedia.org/wiki/Action_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "[배그] 닌자어택",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "G0iz5K58I3ASFkCEc6mYm6wMwo8",
+      "id": "E7fFh_a1Tqc",
+      "snippet": {
+        "publishedAt": "2018-05-09T14:30:54Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[배그] 한스쿼드 뚝딱!",
+        "description": "#shorts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/E7fFh_a1Tqc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/E7fFh_a1Tqc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/E7fFh_a1Tqc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/E7fFh_a1Tqc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/E7fFh_a1Tqc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THEBEST",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[배그] 한스쿼드 뚝딱!",
+          "description": "#shorts"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT1M23S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "184",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action-adventure_game",
+          "https://en.wikipedia.org/wiki/Action_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "[배그] 한스쿼드 뚝딱!",
+          "description": "#shorts"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Pq-vLMbztqy5w2PFHOHiNZd-gNE",
+      "id": "-WOHZ0B9yCg",
+      "snippet": {
+        "publishedAt": "2018-04-23T14:40:17Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[배그] 후라이팬 살인마",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-WOHZ0B9yCg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-WOHZ0B9yCg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-WOHZ0B9yCg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-WOHZ0B9yCg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-WOHZ0B9yCg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THEBEST",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[배그] 후라이팬 살인마",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT43S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "199",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action-adventure_game",
+          "https://en.wikipedia.org/wiki/Action_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "[배그] 후라이팬 살인마",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ns9QDkR5K8TJ8LvzWTsLn8qCtY8",
+      "id": "lO1USbTm3MI",
+      "snippet": {
+        "publishedAt": "2018-04-21T03:36:43Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[배그] 검문 있겠습니다.",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lO1USbTm3MI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lO1USbTm3MI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lO1USbTm3MI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lO1USbTm3MI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lO1USbTm3MI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THEBEST",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[배그] 검문 있겠습니다.",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT46S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "79",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action-adventure_game",
+          "https://en.wikipedia.org/wiki/Action_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "[배그] 검문 있겠습니다.",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "MpSsjHqAi9-jZr9XJFcr0jMX7bE",
+      "id": "B-Vgj3cLd7o",
+      "snippet": {
+        "publishedAt": "2018-04-21T03:34:46Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[배그] 항마의 구팔이",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/B-Vgj3cLd7o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/B-Vgj3cLd7o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/B-Vgj3cLd7o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/B-Vgj3cLd7o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/B-Vgj3cLd7o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THEBEST",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[배그] 항마의 구팔이",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT51S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "44",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action-adventure_game",
+          "https://en.wikipedia.org/wiki/Action_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "[배그] 항마의 구팔이",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "UK4lua0sbQw60dbo8QcAtLkT-Us",
+      "id": "D7gQvBFFF2k",
+      "snippet": {
+        "publishedAt": "2018-03-21T14:14:54Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[배그] 총알이 없어요 뻬엑!",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/D7gQvBFFF2k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/D7gQvBFFF2k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/D7gQvBFFF2k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/D7gQvBFFF2k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "THEBEST",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[배그] 총알이 없어요 뻬엑!",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT36S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "49",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action-adventure_game",
+          "https://en.wikipedia.org/wiki/Action_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "[배그] 총알이 없어요 뻬엑!",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "JfV-Pgp2AsAQsbkmgHV2q_-eqEk",
+      "id": "rRddMkfINHo",
+      "snippet": {
+        "publishedAt": "2018-03-04T07:39:59Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[배그] 스쿼드 슈퍼클리어",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rRddMkfINHo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rRddMkfINHo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rRddMkfINHo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rRddMkfINHo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rRddMkfINHo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THEBEST",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[배그] 스쿼드 슈퍼클리어",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT1M10S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "58",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action-adventure_game",
+          "https://en.wikipedia.org/wiki/Action_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "[배그] 스쿼드 슈퍼클리어",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "yoi9NZa3qDrXr6rmVJFYyplF39Q",
+      "id": "XkXjpn8-xc8",
+      "snippet": {
+        "publishedAt": "2018-02-27T12:56:54Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[배그] 계세요? 아무도없어요",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XkXjpn8-xc8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XkXjpn8-xc8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XkXjpn8-xc8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XkXjpn8-xc8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XkXjpn8-xc8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THEBEST",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[배그] 계세요? 아무도없어요",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT36S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "65",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action-adventure_game",
+          "https://en.wikipedia.org/wiki/Action_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "[배그] 계세요? 아무도없어요",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ZgjwS4LD9IQx8fVpOD4fpmWtlvw",
+      "id": "DcwPZYz7X7A",
+      "snippet": {
+        "publishedAt": "2018-01-29T14:27:11Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[배그] 팝콘마냥 터져버리기",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DcwPZYz7X7A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DcwPZYz7X7A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DcwPZYz7X7A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DcwPZYz7X7A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DcwPZYz7X7A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THEBEST",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[배그] 팝콘마냥 터져버리기",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT39S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "65",
+        "likeCount": "1",
+        "favoriteCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action-adventure_game",
+          "https://en.wikipedia.org/wiki/Action_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "[배그] 팝콘마냥 터져버리기",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "jyDhrZ5gNeDXC1krdfZctypxsqk",
+      "id": "IjfSlRWh6Uc",
+      "snippet": {
+        "publishedAt": "2017-12-18T12:17:02Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[던파] 오랜만에 결전버섴 결장",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IjfSlRWh6Uc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IjfSlRWh6Uc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IjfSlRWh6Uc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IjfSlRWh6Uc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IjfSlRWh6Uc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THEBEST",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[던파] 오랜만에 결전버섴 결장",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT1M20S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": false,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "58",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action_game",
+          "https://en.wikipedia.org/wiki/Role-playing_video_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "[던파] 오랜만에 결전버섴 결장",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "aHRy3roqtSfCPG-i9qJrSzz3vIs",
+      "id": "UPAINYK_94E",
+      "snippet": {
+        "publishedAt": "2017-06-04T00:33:56Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[스타2] 저글링글링해",
+        "description": "참고용-",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UPAINYK_94E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UPAINYK_94E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UPAINYK_94E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UPAINYK_94E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UPAINYK_94E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THEBEST",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[스타2] 저글링글링해",
+          "description": "참고용-"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT6M43S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "29",
+        "favoriteCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action_game",
+          "https://en.wikipedia.org/wiki/Strategy_video_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "[스타2] 저글링글링해",
+          "description": "참고용-"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "vdEvTU5cFcA3YDIXRt3svnaakVc",
+      "id": "IHXbpScVeVc",
+      "snippet": {
+        "publishedAt": "2017-02-07T13:11:53Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[GTA5] 나홀로작업 - 타이탄작업",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IHXbpScVeVc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IHXbpScVeVc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IHXbpScVeVc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IHXbpScVeVc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IHXbpScVeVc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THEBEST",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[GTA5] 나홀로작업 - 타이탄작업",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT6M38S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "56",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action-adventure_game",
+          "https://en.wikipedia.org/wiki/Action_game",
+          "https://en.wikipedia.org/wiki/Role-playing_video_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "[GTA5] 나홀로작업 - 타이탄작업",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Ge3SzxtuGNASM9u_vhhywkBfO-8",
+      "id": "YZzydD95cR8",
+      "snippet": {
+        "publishedAt": "2017-02-05T07:57:07Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[GTA5] 나홀로 작업 - 코스팅",
+        "description": "노가다",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YZzydD95cR8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YZzydD95cR8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YZzydD95cR8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YZzydD95cR8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YZzydD95cR8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THEBEST",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[GTA5] 나홀로 작업 - 코스팅",
+          "description": "노가다"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT5M55S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "36",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action-adventure_game",
+          "https://en.wikipedia.org/wiki/Action_game",
+          "https://en.wikipedia.org/wiki/Role-playing_video_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "[GTA5] 나홀로 작업 - 코스팅",
+          "description": "노가다"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "fw_iEVNQEcQZEQu04NAjzCPaeFo",
+      "id": "fE4n0e1FIIo",
+      "snippet": {
+        "publishedAt": "2016-09-13T08:01:57Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[던파] 레인저 노히트",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fE4n0e1FIIo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fE4n0e1FIIo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fE4n0e1FIIo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fE4n0e1FIIo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fE4n0e1FIIo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THEBEST",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[던파] 레인저 노히트",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT1M3S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1476",
+        "likeCount": "4",
+        "favoriteCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action_game",
+          "https://en.wikipedia.org/wiki/Role-playing_video_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {
+        "recordingDate": "2016-09-13T00:00:00Z"
+      },
+      "localizations": {
+        "ko": {
+          "title": "[던파] 레인저 노히트",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "lO94UZoh77UL8LX9BxYJ_DzIhsk",
+      "id": "ksxuSJXYdfQ",
+      "snippet": {
+        "publishedAt": "2016-08-14T16:44:48Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "[카트] 아이템 1vs1",
+        "description": "8월 15일",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ksxuSJXYdfQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ksxuSJXYdfQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ksxuSJXYdfQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ksxuSJXYdfQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ksxuSJXYdfQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THEBEST",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[카트] 아이템 1vs1",
+          "description": "8월 15일"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT15M6S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "103",
+        "likeCount": "0",
+        "favoriteCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Racing_video_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "[카트] 아이템 1vs1",
+          "description": "8월 15일"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "gQegu_KaZpB3cjVnI5Pa5GhG55M",
+      "id": "pgi7NN6BVG0",
+      "snippet": {
+        "publishedAt": "2014-03-18T12:40:27Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "크리스틴 벨 뻘짓",
+        "description": "역시 갓-벨 안렐루야",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pgi7NN6BVG0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pgi7NN6BVG0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pgi7NN6BVG0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "THEBEST",
+        "tags": [
+          "겨울왕국",
+          "프로즌"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "크리스틴 벨 뻘짓",
+          "description": "역시 갓-벨 안렐루야"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT7S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "16158",
+        "likeCount": "232",
+        "favoriteCount": "0",
+        "commentCount": "5"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Entertainment"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "크리스틴 벨 뻘짓",
+          "description": "역시 갓-벨 안렐루야"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "yDlTCGfjj4uHOGL1-1fuiiv85MQ",
+      "id": "-xX41ucRECg",
+      "snippet": {
+        "publishedAt": "2014-03-18T12:26:53Z",
+        "channelId": "UC8UR6FLhhMmzFGimtBmAi8A",
+        "title": "싱어롱 떼창 - 사열문",
+        "description": "많은 씽어롱 갤러들이 올려준 서울 대구 대전 부산 등 주요 녹음파일들 짜집기+약간의 효과로(공간감,스테레오,음장효과)\n\n출처 프갤",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-xX41ucRECg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-xX41ucRECg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-xX41ucRECg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "THEBEST",
+        "tags": [
+          "겨울왕국",
+          "Frozen"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "싱어롱 떼창 - 사열문",
+          "description": "많은 씽어롱 갤러들이 올려준 서울 대구 대전 부산 등 주요 녹음파일들 짜집기+약간의 효과로(공간감,스테레오,음장효과)\n\n출처 프갤"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT2M7S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "658",
+        "likeCount": "10",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "싱어롱 떼창 - 사열문",
+          "description": "많은 씽어롱 갤러들이 올려준 서울 대구 대전 부산 등 주요 녹음파일들 짜집기+약간의 효과로(공간감,스테레오,음장효과)\n\n출처 프갤"
+        }
+      }
+    }
+  ]
+}

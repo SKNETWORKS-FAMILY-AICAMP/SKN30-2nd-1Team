@@ -1,0 +1,6075 @@
+{
+  "idx": 110,
+  "channel_id": "UC7BPh6fhPr_jdXHE5WnNITA",
+  "channel_title": "정갑윤",
+  "playlist_items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "M7Bgx4iBN4-Glt0z6FAI_B4MiUQ",
+      "id": "VVU3QlBoNmZoUHJfamRYSEU1V25OSVRBLnNCbThkeHZmMGtr",
+      "snippet": {
+        "publishedAt": "2020-01-23T05:48:32Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "의정보고회 kakao4",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sBm8dxvf0kk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sBm8dxvf0kk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sBm8dxvf0kk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "정갑윤",
+        "playlistId": "UU7BPh6fhPr_jdXHE5WnNITA",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "sBm8dxvf0kk"
+        },
+        "videoOwnerChannelTitle": "정갑윤",
+        "videoOwnerChannelId": "UC7BPh6fhPr_jdXHE5WnNITA"
+      },
+      "contentDetails": {
+        "videoId": "sBm8dxvf0kk",
+        "videoPublishedAt": "2020-01-23T05:48:32Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "LeeqLr0N_Cv4vx7pZhq5mP7KszA",
+      "id": "VVU3QlBoNmZoUHJfamRYSEU1V25OSVRBLk16aXREZS1CQnk4",
+      "snippet": {
+        "publishedAt": "2019-03-04T07:18:48Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "정갑윤 전당대회 준비위원장(자유한국당 제3차 전당대회)",
+        "description": "정갑윤 자유한국당 준비위원장",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MzitDe-BBy8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MzitDe-BBy8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MzitDe-BBy8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MzitDe-BBy8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MzitDe-BBy8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "정갑윤",
+        "playlistId": "UU7BPh6fhPr_jdXHE5WnNITA",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "MzitDe-BBy8"
+        },
+        "videoOwnerChannelTitle": "정갑윤",
+        "videoOwnerChannelId": "UC7BPh6fhPr_jdXHE5WnNITA"
+      },
+      "contentDetails": {
+        "videoId": "MzitDe-BBy8",
+        "videoPublishedAt": "2019-03-04T07:18:48Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "uEpqFczpX1pkWXzV8B-XNZe4XPc",
+      "id": "VVU3QlBoNmZoUHJfamRYSEU1V25OSVRBLjROdG52OXZGUFRr",
+      "snippet": {
+        "publishedAt": "2016-10-20T05:30:00Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "태풍 ‘차바’ 대책 기자회견 관련 언론보도",
+        "description": "설명",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4Ntnv9vFPTk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4Ntnv9vFPTk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4Ntnv9vFPTk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4Ntnv9vFPTk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4Ntnv9vFPTk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "정갑윤",
+        "playlistId": "UU7BPh6fhPr_jdXHE5WnNITA",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4Ntnv9vFPTk"
+        },
+        "videoOwnerChannelTitle": "정갑윤",
+        "videoOwnerChannelId": "UC7BPh6fhPr_jdXHE5WnNITA"
+      },
+      "contentDetails": {
+        "videoId": "4Ntnv9vFPTk",
+        "videoPublishedAt": "2016-10-20T05:30:00Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "NN76iXQFvdfKkUHs2AU66Pd9or4",
+      "id": "VVU3QlBoNmZoUHJfamRYSEU1V25OSVRBLnVCWl82SXZnS19F",
+      "snippet": {
+        "publishedAt": "2016-04-13T16:26:39Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "제20대 국회의원선거 울산 중구 당선자 정갑윤-당선증 수여",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uBZ_6IvgK_E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uBZ_6IvgK_E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uBZ_6IvgK_E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uBZ_6IvgK_E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "정갑윤",
+        "playlistId": "UU7BPh6fhPr_jdXHE5WnNITA",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "uBZ_6IvgK_E"
+        },
+        "videoOwnerChannelTitle": "정갑윤",
+        "videoOwnerChannelId": "UC7BPh6fhPr_jdXHE5WnNITA"
+      },
+      "contentDetails": {
+        "videoId": "uBZ_6IvgK_E",
+        "videoPublishedAt": "2016-04-13T16:26:39Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "dqmRC5XKqRck_LpYMfx2bo6EIO8",
+      "id": "VVU3QlBoNmZoUHJfamRYSEU1V25OSVRBLm0zQ2dyaDg4engw",
+      "snippet": {
+        "publishedAt": "2016-04-13T08:06:15Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "정갑윤의 큰 마음, 따뜻한 정치",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/m3Cgrh88zx0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/m3Cgrh88zx0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/m3Cgrh88zx0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/m3Cgrh88zx0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/m3Cgrh88zx0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "정갑윤",
+        "playlistId": "UU7BPh6fhPr_jdXHE5WnNITA",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "m3Cgrh88zx0"
+        },
+        "videoOwnerChannelTitle": "정갑윤",
+        "videoOwnerChannelId": "UC7BPh6fhPr_jdXHE5WnNITA"
+      },
+      "contentDetails": {
+        "videoId": "m3Cgrh88zx0",
+        "videoPublishedAt": "2016-04-13T08:06:15Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2zQpVZR29iOqYilGMx0YTpIKFkM",
+      "id": "VVU3QlBoNmZoUHJfamRYSEU1V25OSVRBLlZ4TUpoQmFTdVg4",
+      "snippet": {
+        "publishedAt": "2016-04-13T08:01:52Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "정갑윤을 안아주세요",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VxMJhBaSuX8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VxMJhBaSuX8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VxMJhBaSuX8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VxMJhBaSuX8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "정갑윤",
+        "playlistId": "UU7BPh6fhPr_jdXHE5WnNITA",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VxMJhBaSuX8"
+        },
+        "videoOwnerChannelTitle": "정갑윤",
+        "videoOwnerChannelId": "UC7BPh6fhPr_jdXHE5WnNITA"
+      },
+      "contentDetails": {
+        "videoId": "VxMJhBaSuX8",
+        "videoPublishedAt": "2016-04-13T08:01:52Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "5AtiT1DugOSYYaeS4pBjzYIYXc8",
+      "id": "VVU3QlBoNmZoUHJfamRYSEU1V25OSVRBLlg5Y1lHalVMSXJR",
+      "snippet": {
+        "publishedAt": "2016-04-13T08:00:06Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "2015 의정보고회",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/X9cYGjULIrQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/X9cYGjULIrQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/X9cYGjULIrQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/X9cYGjULIrQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/X9cYGjULIrQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "정갑윤",
+        "playlistId": "UU7BPh6fhPr_jdXHE5WnNITA",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "X9cYGjULIrQ"
+        },
+        "videoOwnerChannelTitle": "정갑윤",
+        "videoOwnerChannelId": "UC7BPh6fhPr_jdXHE5WnNITA"
+      },
+      "contentDetails": {
+        "videoId": "X9cYGjULIrQ",
+        "videoPublishedAt": "2016-04-13T08:00:06Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "gskaU2cLFycOzGnhRRlGoqVyphc",
+      "id": "VVU3QlBoNmZoUHJfamRYSEU1V25OSVRBLjAzcGRvUXREamNn",
+      "snippet": {
+        "publishedAt": "2016-04-12T09:45:44Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "여러분과 함께한 13일의 기록",
+        "description": "치열한 경선과 13일의 공식 선거운동 기간 동안\n함께 호흡하고 마음 나누어 주신 모든 분들께\n이 영상을 올립니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/03pdoQtDjcg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/03pdoQtDjcg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/03pdoQtDjcg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/03pdoQtDjcg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "정갑윤",
+        "playlistId": "UU7BPh6fhPr_jdXHE5WnNITA",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "03pdoQtDjcg"
+        },
+        "videoOwnerChannelTitle": "정갑윤",
+        "videoOwnerChannelId": "UC7BPh6fhPr_jdXHE5WnNITA"
+      },
+      "contentDetails": {
+        "videoId": "03pdoQtDjcg",
+        "videoPublishedAt": "2016-04-12T09:45:44Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "7PY2hsSZgW07uWw4_a8oWfZ0YTk",
+      "id": "VVU3QlBoNmZoUHJfamRYSEU1V25OSVRBLm43ZVJsNHhTbndZ",
+      "snippet": {
+        "publishedAt": "2016-03-17T07:48:00Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "2016 중구 일자리 박람회",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/n7eRl4xSnwY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/n7eRl4xSnwY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/n7eRl4xSnwY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/n7eRl4xSnwY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "정갑윤",
+        "playlistId": "UU7BPh6fhPr_jdXHE5WnNITA",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "n7eRl4xSnwY"
+        },
+        "videoOwnerChannelTitle": "정갑윤",
+        "videoOwnerChannelId": "UC7BPh6fhPr_jdXHE5WnNITA"
+      },
+      "contentDetails": {
+        "videoId": "n7eRl4xSnwY",
+        "videoPublishedAt": "2016-03-17T07:48:00Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8V_1CCaug-tYMYyoRSnpmPLApEs",
+      "id": "VVU3QlBoNmZoUHJfamRYSEU1V25OSVRBLkFmcEZEUm4tRVpZ",
+      "snippet": {
+        "publishedAt": "2016-03-17T05:13:06Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "경선을 준비하며 중구 구민들께 올립니다",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AfpFDRn-EZY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AfpFDRn-EZY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AfpFDRn-EZY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AfpFDRn-EZY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AfpFDRn-EZY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "정갑윤",
+        "playlistId": "UU7BPh6fhPr_jdXHE5WnNITA",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "AfpFDRn-EZY"
+        },
+        "videoOwnerChannelTitle": "정갑윤",
+        "videoOwnerChannelId": "UC7BPh6fhPr_jdXHE5WnNITA"
+      },
+      "contentDetails": {
+        "videoId": "AfpFDRn-EZY",
+        "videoPublishedAt": "2016-03-17T05:13:06Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "nj5pZVkgRy4ErUf1VV7yetSYhTU",
+      "id": "VVU3QlBoNmZoUHJfamRYSEU1V25OSVRBLlBGVk1RVFUwandj",
+      "snippet": {
+        "publishedAt": "2015-12-30T13:04:17Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "울산과학기술원법 국회 본회의 통과",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PFVMQTU0jwc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PFVMQTU0jwc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PFVMQTU0jwc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "정갑윤",
+        "playlistId": "UU7BPh6fhPr_jdXHE5WnNITA",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "PFVMQTU0jwc"
+        },
+        "videoOwnerChannelTitle": "정갑윤",
+        "videoOwnerChannelId": "UC7BPh6fhPr_jdXHE5WnNITA"
+      },
+      "contentDetails": {
+        "videoId": "PFVMQTU0jwc",
+        "videoPublishedAt": "2015-12-30T13:04:17Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "TQtkuPmg_8u0uBln8xpTyw541vE",
+      "id": "VVU3QlBoNmZoUHJfamRYSEU1V25OSVRBLlJnWnlETi00MzdN",
+      "snippet": {
+        "publishedAt": "2015-12-30T12:25:41Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "나눔으로 크는 세상",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RgZyDN-437M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RgZyDN-437M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RgZyDN-437M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RgZyDN-437M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RgZyDN-437M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "정갑윤",
+        "playlistId": "UU7BPh6fhPr_jdXHE5WnNITA",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "RgZyDN-437M"
+        },
+        "videoOwnerChannelTitle": "정갑윤",
+        "videoOwnerChannelId": "UC7BPh6fhPr_jdXHE5WnNITA"
+      },
+      "contentDetails": {
+        "videoId": "RgZyDN-437M",
+        "videoPublishedAt": "2015-12-30T12:25:41Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "kJGKWOsYjcYofNKYxXeQq8AvSjo",
+      "id": "VVU3QlBoNmZoUHJfamRYSEU1V25OSVRBLk9tVDJqazd6WUw0",
+      "snippet": {
+        "publishedAt": "2015-12-24T02:10:47Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "151117 UBC프라임뉴스 화학연구원 울산분원 개소",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OmT2jk7zYL4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OmT2jk7zYL4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OmT2jk7zYL4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OmT2jk7zYL4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OmT2jk7zYL4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "정갑윤",
+        "playlistId": "UU7BPh6fhPr_jdXHE5WnNITA",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "OmT2jk7zYL4"
+        },
+        "videoOwnerChannelTitle": "정갑윤",
+        "videoOwnerChannelId": "UC7BPh6fhPr_jdXHE5WnNITA"
+      },
+      "contentDetails": {
+        "videoId": "OmT2jk7zYL4",
+        "videoPublishedAt": "2015-12-24T02:10:47Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "7ssWr43_08wyvfSLf_lRACwJXdc",
+      "id": "VVU3QlBoNmZoUHJfamRYSEU1V25OSVRBLnZ2bUl1WEgzX18w",
+      "snippet": {
+        "publishedAt": "2015-12-24T02:09:46Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "151110 UBC프라임뉴스 동천제방겸용도로 건설 착공",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vvmIuXH3__0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vvmIuXH3__0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vvmIuXH3__0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vvmIuXH3__0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vvmIuXH3__0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "정갑윤",
+        "playlistId": "UU7BPh6fhPr_jdXHE5WnNITA",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "vvmIuXH3__0"
+        },
+        "videoOwnerChannelTitle": "정갑윤",
+        "videoOwnerChannelId": "UC7BPh6fhPr_jdXHE5WnNITA"
+      },
+      "contentDetails": {
+        "videoId": "vvmIuXH3__0",
+        "videoPublishedAt": "2015-12-24T02:09:46Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ZekDAvsKY4a3Z4PnccQPlWeh4LQ",
+      "id": "VVU3QlBoNmZoUHJfamRYSEU1V25OSVRBLmF5X3BtTjN3YTNJ",
+      "snippet": {
+        "publishedAt": "2015-12-24T02:08:10Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "150921 YTN 울산 외곽고속도로 추진",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ay_pmN3wa3I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ay_pmN3wa3I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ay_pmN3wa3I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ay_pmN3wa3I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ay_pmN3wa3I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "정갑윤",
+        "playlistId": "UU7BPh6fhPr_jdXHE5WnNITA",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ay_pmN3wa3I"
+        },
+        "videoOwnerChannelTitle": "정갑윤",
+        "videoOwnerChannelId": "UC7BPh6fhPr_jdXHE5WnNITA"
+      },
+      "contentDetails": {
+        "videoId": "ay_pmN3wa3I",
+        "videoPublishedAt": "2015-12-24T02:08:10Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "cagpuho9kN60VNFHisvO22MCly4",
+      "id": "VVU3QlBoNmZoUHJfamRYSEU1V25OSVRBLl9XVVEtS2RVaHAw",
+      "snippet": {
+        "publishedAt": "2015-12-23T07:20:05Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "150513 YTN TBN 울산교통방송 청사 준공식",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_WUQ-KdUhp0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_WUQ-KdUhp0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_WUQ-KdUhp0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "정갑윤",
+        "playlistId": "UU7BPh6fhPr_jdXHE5WnNITA",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_WUQ-KdUhp0"
+        },
+        "videoOwnerChannelTitle": "정갑윤",
+        "videoOwnerChannelId": "UC7BPh6fhPr_jdXHE5WnNITA"
+      },
+      "contentDetails": {
+        "videoId": "_WUQ-KdUhp0",
+        "videoPublishedAt": "2015-12-23T07:20:05Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "0o5Dp0UKjgF8VOxQYlpm1DWoNv0",
+      "id": "VVU3QlBoNmZoUHJfamRYSEU1V25OSVRBLlJMb0RPMnpfMFk4",
+      "snippet": {
+        "publishedAt": "2015-12-23T07:19:23Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "121224 YTN 울산 장애인기업 지원센터 개소",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RLoDO2z_0Y8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RLoDO2z_0Y8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RLoDO2z_0Y8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "정갑윤",
+        "playlistId": "UU7BPh6fhPr_jdXHE5WnNITA",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "RLoDO2z_0Y8"
+        },
+        "videoOwnerChannelTitle": "정갑윤",
+        "videoOwnerChannelId": "UC7BPh6fhPr_jdXHE5WnNITA"
+      },
+      "contentDetails": {
+        "videoId": "RLoDO2z_0Y8",
+        "videoPublishedAt": "2015-12-23T07:19:23Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fwjznHI0FZfmrPA32ZWgx7AKuKA",
+      "id": "VVU3QlBoNmZoUHJfamRYSEU1V25OSVRBLnNuRU1uNFpaMjVJ",
+      "snippet": {
+        "publishedAt": "2015-12-23T02:24:23Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "151119 UBC프라임뉴스 태화강 십리대숲 떼까마귀(태화강 환경)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/snEMn4ZZ25I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/snEMn4ZZ25I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/snEMn4ZZ25I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/snEMn4ZZ25I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "정갑윤",
+        "playlistId": "UU7BPh6fhPr_jdXHE5WnNITA",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "snEMn4ZZ25I"
+        },
+        "videoOwnerChannelTitle": "정갑윤",
+        "videoOwnerChannelId": "UC7BPh6fhPr_jdXHE5WnNITA"
+      },
+      "contentDetails": {
+        "videoId": "snEMn4ZZ25I",
+        "videoPublishedAt": "2015-12-23T02:24:23Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "RV97t3ClzEBZkxh0iqPkzIlg_4Y",
+      "id": "VVU3QlBoNmZoUHJfamRYSEU1V25OSVRBLlNTWWI1SFNZWVNN",
+      "snippet": {
+        "publishedAt": "2015-12-23T02:21:58Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "151203 UBC 프라임뉴스 울산 예산 국비 2조원 이상 확보(R&D내용 포함)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SSYb5HSYYSM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SSYb5HSYYSM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SSYb5HSYYSM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SSYb5HSYYSM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "정갑윤",
+        "playlistId": "UU7BPh6fhPr_jdXHE5WnNITA",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "SSYb5HSYYSM"
+        },
+        "videoOwnerChannelTitle": "정갑윤",
+        "videoOwnerChannelId": "UC7BPh6fhPr_jdXHE5WnNITA"
+      },
+      "contentDetails": {
+        "videoId": "SSYb5HSYYSM",
+        "videoPublishedAt": "2015-12-23T02:21:58Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "BHMRvHtFJtfyRhdsFPiKNryZkYE",
+      "id": "VVU3QlBoNmZoUHJfamRYSEU1V25OSVRBLkw3dGZ0TjdQQ1Bv",
+      "snippet": {
+        "publishedAt": "2015-12-23T02:19:31Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "151125 UBC프라임뉴스 울산에 8조투입, 융복합산업 특화(동해안권 산업)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/L7tftN7PCPo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/L7tftN7PCPo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/L7tftN7PCPo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/L7tftN7PCPo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "정갑윤",
+        "playlistId": "UU7BPh6fhPr_jdXHE5WnNITA",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "L7tftN7PCPo"
+        },
+        "videoOwnerChannelTitle": "정갑윤",
+        "videoOwnerChannelId": "UC7BPh6fhPr_jdXHE5WnNITA"
+      },
+      "contentDetails": {
+        "videoId": "L7tftN7PCPo",
+        "videoPublishedAt": "2015-12-23T02:19:31Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "OkE0W3tjBZlYH-1RANWJ-ZrM-CY",
+      "id": "VVU3QlBoNmZoUHJfamRYSEU1V25OSVRBLlRXV2JSSXVSa25n",
+      "snippet": {
+        "publishedAt": "2015-12-23T02:16:00Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "151119 UBC프라임뉴스 테크노산단 첫 삽(남구 두왕동)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TWWbRIuRkng/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TWWbRIuRkng/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TWWbRIuRkng/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TWWbRIuRkng/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "정갑윤",
+        "playlistId": "UU7BPh6fhPr_jdXHE5WnNITA",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "TWWbRIuRkng"
+        },
+        "videoOwnerChannelTitle": "정갑윤",
+        "videoOwnerChannelId": "UC7BPh6fhPr_jdXHE5WnNITA"
+      },
+      "contentDetails": {
+        "videoId": "TWWbRIuRkng",
+        "videoPublishedAt": "2015-12-23T02:16:00Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "trFvVMX6cpd5qcqVqeUzQ8tBR9g",
+      "id": "VVU3QlBoNmZoUHJfamRYSEU1V25OSVRBLmVyNEt2QVItbm80",
+      "snippet": {
+        "publishedAt": "2015-12-23T02:12:52Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "151012 UBC프라임뉴스 한글문화예술제(외솔, 한글세계화)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/er4KvAR-no4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/er4KvAR-no4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/er4KvAR-no4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/er4KvAR-no4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "정갑윤",
+        "playlistId": "UU7BPh6fhPr_jdXHE5WnNITA",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "er4KvAR-no4"
+        },
+        "videoOwnerChannelTitle": "정갑윤",
+        "videoOwnerChannelId": "UC7BPh6fhPr_jdXHE5WnNITA"
+      },
+      "contentDetails": {
+        "videoId": "er4KvAR-no4",
+        "videoPublishedAt": "2015-12-23T02:12:52Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "vdlauGz2GYHNZv5NyKajAwcoQMU",
+      "id": "VVU3QlBoNmZoUHJfamRYSEU1V25OSVRBLmMwa1BRRlE5Q1Rj",
+      "snippet": {
+        "publishedAt": "2015-12-23T02:08:03Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "150329 YTN울산 울산시, 조선 전문외교관 이예 선생 동상 건립",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/c0kPQFQ9CTc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/c0kPQFQ9CTc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/c0kPQFQ9CTc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/c0kPQFQ9CTc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/c0kPQFQ9CTc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "정갑윤",
+        "playlistId": "UU7BPh6fhPr_jdXHE5WnNITA",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "c0kPQFQ9CTc"
+        },
+        "videoOwnerChannelTitle": "정갑윤",
+        "videoOwnerChannelId": "UC7BPh6fhPr_jdXHE5WnNITA"
+      },
+      "contentDetails": {
+        "videoId": "c0kPQFQ9CTc",
+        "videoPublishedAt": "2015-12-23T02:08:03Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "gyw2Uvuvc4vBiR1Gy5QNWsreMUc",
+      "id": "VVU3QlBoNmZoUHJfamRYSEU1V25OSVRBLm5SSW5Fc3hkZ1Y0",
+      "snippet": {
+        "publishedAt": "2015-12-23T02:07:10Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "141206 울산KBS 육아종합지원센터 보건복지부 장관상 수상",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nRInEsxdgV4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nRInEsxdgV4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nRInEsxdgV4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nRInEsxdgV4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nRInEsxdgV4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "정갑윤",
+        "playlistId": "UU7BPh6fhPr_jdXHE5WnNITA",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "nRInEsxdgV4"
+        },
+        "videoOwnerChannelTitle": "정갑윤",
+        "videoOwnerChannelId": "UC7BPh6fhPr_jdXHE5WnNITA"
+      },
+      "contentDetails": {
+        "videoId": "nRInEsxdgV4",
+        "videoPublishedAt": "2015-12-23T02:07:10Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "6ZdYyOVNSMqQxze40GdI2smyBBY",
+      "id": "VVU3QlBoNmZoUHJfamRYSEU1V25OSVRBLnRfZHpqcE1yWjNv",
+      "snippet": {
+        "publishedAt": "2015-12-23T02:06:24Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "150903 울산KBS 노인치매센터 유치 추진",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/t_dzjpMrZ3o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/t_dzjpMrZ3o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/t_dzjpMrZ3o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/t_dzjpMrZ3o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/t_dzjpMrZ3o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "정갑윤",
+        "playlistId": "UU7BPh6fhPr_jdXHE5WnNITA",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "t_dzjpMrZ3o"
+        },
+        "videoOwnerChannelTitle": "정갑윤",
+        "videoOwnerChannelId": "UC7BPh6fhPr_jdXHE5WnNITA"
+      },
+      "contentDetails": {
+        "videoId": "t_dzjpMrZ3o",
+        "videoPublishedAt": "2015-12-23T02:06:24Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "80mRdV6m7ua3gB965wnTt4yKM4Y",
+      "id": "VVU3QlBoNmZoUHJfamRYSEU1V25OSVRBLkV2amN2UzZXcTc0",
+      "snippet": {
+        "publishedAt": "2015-12-23T02:05:27Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "150212 울산KBS 옥동 농소간 도로 건설",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EvjcvS6Wq74/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EvjcvS6Wq74/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EvjcvS6Wq74/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EvjcvS6Wq74/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EvjcvS6Wq74/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "정갑윤",
+        "playlistId": "UU7BPh6fhPr_jdXHE5WnNITA",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "EvjcvS6Wq74"
+        },
+        "videoOwnerChannelTitle": "정갑윤",
+        "videoOwnerChannelId": "UC7BPh6fhPr_jdXHE5WnNITA"
+      },
+      "contentDetails": {
+        "videoId": "EvjcvS6Wq74",
+        "videoPublishedAt": "2015-12-23T02:05:27Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fU7CQKUigCjAMzGO8QeeqnWn_SE",
+      "id": "VVU3QlBoNmZoUHJfamRYSEU1V25OSVRBLlNxQWtzTVotN3B3",
+      "snippet": {
+        "publishedAt": "2015-12-23T02:04:04Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "151207 YTN 태화강 봄꽃 축제 지역경제 도움",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SqAksMZ-7pw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SqAksMZ-7pw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SqAksMZ-7pw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SqAksMZ-7pw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "정갑윤",
+        "playlistId": "UU7BPh6fhPr_jdXHE5WnNITA",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "SqAksMZ-7pw"
+        },
+        "videoOwnerChannelTitle": "정갑윤",
+        "videoOwnerChannelId": "UC7BPh6fhPr_jdXHE5WnNITA"
+      },
+      "contentDetails": {
+        "videoId": "SqAksMZ-7pw",
+        "videoPublishedAt": "2015-12-23T02:04:04Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "6wMEyXwAljLLURBzAZ9hFgJvFaQ",
+      "id": "VVU3QlBoNmZoUHJfamRYSEU1V25OSVRBLmVSMmljQnRTaXZV",
+      "snippet": {
+        "publishedAt": "2015-12-23T02:03:05Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "140907 울산KBS 광역 교통망 구축 박차(사통팔달 교통전체)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eR2icBtSivU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eR2icBtSivU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eR2icBtSivU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eR2icBtSivU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eR2icBtSivU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "정갑윤",
+        "playlistId": "UU7BPh6fhPr_jdXHE5WnNITA",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "eR2icBtSivU"
+        },
+        "videoOwnerChannelTitle": "정갑윤",
+        "videoOwnerChannelId": "UC7BPh6fhPr_jdXHE5WnNITA"
+      },
+      "contentDetails": {
+        "videoId": "eR2icBtSivU",
+        "videoPublishedAt": "2015-12-23T02:03:05Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "KVeT8FZc2z1W0-JXNEiSoNfYEBc",
+      "id": "VVU3QlBoNmZoUHJfamRYSEU1V25OSVRBLmNqUEFUU2RKUzln",
+      "snippet": {
+        "publishedAt": "2015-12-23T01:57:40Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "151130 UBC프라임뉴스 울산 포항 고속도로 부분개통 임박(사통팔달 교통전체)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cjPATSdJS9g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cjPATSdJS9g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cjPATSdJS9g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cjPATSdJS9g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cjPATSdJS9g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "정갑윤",
+        "playlistId": "UU7BPh6fhPr_jdXHE5WnNITA",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "cjPATSdJS9g"
+        },
+        "videoOwnerChannelTitle": "정갑윤",
+        "videoOwnerChannelId": "UC7BPh6fhPr_jdXHE5WnNITA"
+      },
+      "contentDetails": {
+        "videoId": "cjPATSdJS9g",
+        "videoPublishedAt": "2015-12-23T01:57:40Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "vBo-tU7PIWt0HNd8JZvxv7zI9ho",
+      "id": "VVU3QlBoNmZoUHJfamRYSEU1V25OSVRBLkpZc25qMHd2S1lN",
+      "snippet": {
+        "publishedAt": "2015-12-23T01:33:53Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "151008 울산시정뉴스 육아종합지원센터",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JYsnj0wvKYM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JYsnj0wvKYM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JYsnj0wvKYM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JYsnj0wvKYM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JYsnj0wvKYM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "정갑윤",
+        "playlistId": "UU7BPh6fhPr_jdXHE5WnNITA",
+        "position": 29,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "JYsnj0wvKYM"
+        },
+        "videoOwnerChannelTitle": "정갑윤",
+        "videoOwnerChannelId": "UC7BPh6fhPr_jdXHE5WnNITA"
+      },
+      "contentDetails": {
+        "videoId": "JYsnj0wvKYM",
+        "videoPublishedAt": "2015-12-23T01:33:53Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "WTsu2zip7IZJg-ChfnhtoVvoCiM",
+      "id": "VVU3QlBoNmZoUHJfamRYSEU1V25OSVRBLm5aTGgxX205OW1n",
+      "snippet": {
+        "publishedAt": "2015-12-23T01:13:05Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "151016 UBC프라임뉴스 장현 도시첨단산업단지(종합)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nZLh1_m99mg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nZLh1_m99mg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nZLh1_m99mg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nZLh1_m99mg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "정갑윤",
+        "playlistId": "UU7BPh6fhPr_jdXHE5WnNITA",
+        "position": 30,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "nZLh1_m99mg"
+        },
+        "videoOwnerChannelTitle": "정갑윤",
+        "videoOwnerChannelId": "UC7BPh6fhPr_jdXHE5WnNITA"
+      },
+      "contentDetails": {
+        "videoId": "nZLh1_m99mg",
+        "videoPublishedAt": "2015-12-23T01:13:05Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fV1aKiDLqmWJdRyJW6O4FSJWF9s",
+      "id": "VVU3QlBoNmZoUHJfamRYSEU1V25OSVRBLmdQQzRvTXdLSjJF",
+      "snippet": {
+        "publishedAt": "2015-12-23T01:07:26Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "151012 UBC프라임뉴스 UNIST 과기원 전환 (현장중계)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gPC4oMwKJ2E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gPC4oMwKJ2E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gPC4oMwKJ2E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gPC4oMwKJ2E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "정갑윤",
+        "playlistId": "UU7BPh6fhPr_jdXHE5WnNITA",
+        "position": 31,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "gPC4oMwKJ2E"
+        },
+        "videoOwnerChannelTitle": "정갑윤",
+        "videoOwnerChannelId": "UC7BPh6fhPr_jdXHE5WnNITA"
+      },
+      "contentDetails": {
+        "videoId": "gPC4oMwKJ2E",
+        "videoPublishedAt": "2015-12-23T01:07:26Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "5SKvIq4e0ROO-D3eYzwZHaRlLs4",
+      "id": "VVU3QlBoNmZoUHJfamRYSEU1V25OSVRBLldvVXZOVnNEeVdr",
+      "snippet": {
+        "publishedAt": "2015-12-22T08:42:52Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "150928 UBC프라임뉴스 UNIST 과기원 전환",
+        "description": "설명",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WoUvNVsDyWk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WoUvNVsDyWk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WoUvNVsDyWk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WoUvNVsDyWk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "정갑윤",
+        "playlistId": "UU7BPh6fhPr_jdXHE5WnNITA",
+        "position": 32,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WoUvNVsDyWk"
+        },
+        "videoOwnerChannelTitle": "정갑윤",
+        "videoOwnerChannelId": "UC7BPh6fhPr_jdXHE5WnNITA"
+      },
+      "contentDetails": {
+        "videoId": "WoUvNVsDyWk",
+        "videoPublishedAt": "2015-12-22T08:42:52Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "e_s5Ib-xcKpaoxnLRltErbYwKUs",
+      "id": "VVU3QlBoNmZoUHJfamRYSEU1V25OSVRBLkhhclJCOXRWbWpB",
+      "snippet": {
+        "publishedAt": "2015-07-24T06:55:45Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "150715 울산KBS 박근혜대통령 창조경제혁신센터 및 태화시장 방문",
+        "description": "150715 울산 KBS 박근혜대통령 울산방문(창조경제혁신센터 및 태화시장)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HarRB9tVmjA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HarRB9tVmjA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HarRB9tVmjA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HarRB9tVmjA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HarRB9tVmjA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "정갑윤",
+        "playlistId": "UU7BPh6fhPr_jdXHE5WnNITA",
+        "position": 33,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "HarRB9tVmjA"
+        },
+        "videoOwnerChannelTitle": "정갑윤",
+        "videoOwnerChannelId": "UC7BPh6fhPr_jdXHE5WnNITA"
+      },
+      "contentDetails": {
+        "videoId": "HarRB9tVmjA",
+        "videoPublishedAt": "2015-07-24T06:55:45Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "pJ34uHPrpkrrNinuDWLij6b970A",
+      "id": "VVU3QlBoNmZoUHJfamRYSEU1V25OSVRBLmZ6Q0FBRGloRVlZ",
+      "snippet": {
+        "publishedAt": "2015-03-04T08:33:56Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "070307 제265회 국회임시회 제7차 본회의",
+        "description": "『국립대학법인 울산국립대학교 설립에 관한 법률안』의결 토론\n- 제265회 국회임시회 제7차 본회의 (2007. 03. 07) -",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fzCAADihEYY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fzCAADihEYY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fzCAADihEYY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fzCAADihEYY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fzCAADihEYY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "정갑윤",
+        "playlistId": "UU7BPh6fhPr_jdXHE5WnNITA",
+        "position": 34,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fzCAADihEYY"
+        },
+        "videoOwnerChannelTitle": "정갑윤",
+        "videoOwnerChannelId": "UC7BPh6fhPr_jdXHE5WnNITA"
+      },
+      "contentDetails": {
+        "videoId": "fzCAADihEYY",
+        "videoPublishedAt": "2015-03-04T08:33:56Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "kXz7DehDhe_SirjBRY04X3lyt-k",
+      "id": "VVU3QlBoNmZoUHJfamRYSEU1V25OSVRBLmV0aV9qbnlFTzlN",
+      "snippet": {
+        "publishedAt": "2015-02-02T05:24:00Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "150201 전국노래자랑 「울산에 가자」 편집본",
+        "description": "2015년 2월 1일 전국노래자랑-울산 남구 편에서 가수 현정이 「울산에 가자」를 부른 영상입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eti_jnyEO9M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eti_jnyEO9M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eti_jnyEO9M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eti_jnyEO9M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eti_jnyEO9M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "정갑윤",
+        "playlistId": "UU7BPh6fhPr_jdXHE5WnNITA",
+        "position": 35,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "eti_jnyEO9M"
+        },
+        "videoOwnerChannelTitle": "정갑윤",
+        "videoOwnerChannelId": "UC7BPh6fhPr_jdXHE5WnNITA"
+      },
+      "contentDetails": {
+        "videoId": "eti_jnyEO9M",
+        "videoPublishedAt": "2015-02-02T05:24:00Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "sp8Gt-r8cS4evfN8BQNUI4rPu4s",
+      "id": "VVU3QlBoNmZoUHJfamRYSEU1V25OSVRBLmhKOEN6NUQ3Y3FJ",
+      "snippet": {
+        "publishedAt": "2015-01-09T05:52:55Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "150107 중구당협 신년인사회 축하동영상",
+        "description": "2015년 1월 7일 울산 중구당협 신년인사회 축하 동영상입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hJ8Cz5D7cqI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hJ8Cz5D7cqI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hJ8Cz5D7cqI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hJ8Cz5D7cqI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hJ8Cz5D7cqI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "정갑윤",
+        "playlistId": "UU7BPh6fhPr_jdXHE5WnNITA",
+        "position": 36,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hJ8Cz5D7cqI"
+        },
+        "videoOwnerChannelTitle": "정갑윤",
+        "videoOwnerChannelId": "UC7BPh6fhPr_jdXHE5WnNITA"
+      },
+      "contentDetails": {
+        "videoId": "hJ8Cz5D7cqI",
+        "videoPublishedAt": "2015-01-09T05:52:55Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Ay6-KoxyHmq-Wk9TwgUnOP1vl7A",
+      "id": "VVU3QlBoNmZoUHJfamRYSEU1V25OSVRBLmdWWVNSS3JMbTU0",
+      "snippet": {
+        "publishedAt": "2015-01-09T05:45:52Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "150107 중구당협 신년인사회 지역동영상",
+        "description": "2015년 1월 7일 중구당협 신년인사회 동영상 입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gVYSRKrLm54/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gVYSRKrLm54/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gVYSRKrLm54/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gVYSRKrLm54/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gVYSRKrLm54/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "정갑윤",
+        "playlistId": "UU7BPh6fhPr_jdXHE5WnNITA",
+        "position": 37,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "gVYSRKrLm54"
+        },
+        "videoOwnerChannelTitle": "정갑윤",
+        "videoOwnerChannelId": "UC7BPh6fhPr_jdXHE5WnNITA"
+      },
+      "contentDetails": {
+        "videoId": "gVYSRKrLm54",
+        "videoPublishedAt": "2015-01-09T05:45:52Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Coo91POyoldW2U22Hv7dDq2oN24",
+      "id": "VVU3QlBoNmZoUHJfamRYSEU1V25OSVRBLnAyeV81SEMxbkhr",
+      "snippet": {
+        "publishedAt": "2014-12-04T02:40:29Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "141201 KBS 「굿모닝 대한민국」에 방영된 '행복 한 통' 시상식",
+        "description": "2014년 12월 1일, KBS 「굿모닝 대한민국」에 방영된 '행복 한 통' 시상식 영상입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/p2y_5HC1nHk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/p2y_5HC1nHk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/p2y_5HC1nHk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/p2y_5HC1nHk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/p2y_5HC1nHk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "정갑윤",
+        "playlistId": "UU7BPh6fhPr_jdXHE5WnNITA",
+        "position": 38,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "p2y_5HC1nHk"
+        },
+        "videoOwnerChannelTitle": "정갑윤",
+        "videoOwnerChannelId": "UC7BPh6fhPr_jdXHE5WnNITA"
+      },
+      "contentDetails": {
+        "videoId": "p2y_5HC1nHk",
+        "videoPublishedAt": "2014-12-04T02:40:29Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "nOEFqjDFAWeEe-7rQUEp8xG2TX4",
+      "id": "VVU3QlBoNmZoUHJfamRYSEU1V25OSVRBLmVxaDA2ZWNQbE1F",
+      "snippet": {
+        "publishedAt": "2014-11-27T08:32:11Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "141126 「울산MBC 8시 뉴스데스크」(정부조달문화명품 국회특별전)",
+        "description": "141126 「울산MBC 8시 뉴스데스크」에 방영된 영상입니다. (정부조달문화명품 국회특별전)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eqh06ecPlME/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eqh06ecPlME/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eqh06ecPlME/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eqh06ecPlME/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eqh06ecPlME/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "정갑윤",
+        "playlistId": "UU7BPh6fhPr_jdXHE5WnNITA",
+        "position": 39,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "eqh06ecPlME"
+        },
+        "videoOwnerChannelTitle": "정갑윤",
+        "videoOwnerChannelId": "UC7BPh6fhPr_jdXHE5WnNITA"
+      },
+      "contentDetails": {
+        "videoId": "eqh06ecPlME",
+        "videoPublishedAt": "2014-11-27T08:32:11Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3ujjEVUNJgQqV17urzmO5AvLXxA",
+      "id": "VVU3QlBoNmZoUHJfamRYSEU1V25OSVRBLmJzalptS0x3bFo0",
+      "snippet": {
+        "publishedAt": "2014-11-27T00:57:15Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "141127 울산에 가자 전곡(3절) 영상 입니다^^",
+        "description": "141127 울산에 가자 전곡(3절) 영상 입니다.\n가사를 보며 따라 불러보세요^^",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bsjZmKLwlZ4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bsjZmKLwlZ4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bsjZmKLwlZ4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bsjZmKLwlZ4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bsjZmKLwlZ4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "정갑윤",
+        "playlistId": "UU7BPh6fhPr_jdXHE5WnNITA",
+        "position": 40,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "bsjZmKLwlZ4"
+        },
+        "videoOwnerChannelTitle": "정갑윤",
+        "videoOwnerChannelId": "UC7BPh6fhPr_jdXHE5WnNITA"
+      },
+      "contentDetails": {
+        "videoId": "bsjZmKLwlZ4",
+        "videoPublishedAt": "2014-11-27T00:57:15Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4jcY2fGEtaGSFXl_5ZBX4xKLeBk",
+      "id": "VVU3QlBoNmZoUHJfamRYSEU1V25OSVRBLlpDajlTQmVWLW1J",
+      "snippet": {
+        "publishedAt": "2014-11-26T10:24:49Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "141126_울산에 가자 전곡(3절)",
+        "description": "141126_울산에 가자 전곡(3절) 입니다^^",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZCj9SBeV-mI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZCj9SBeV-mI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZCj9SBeV-mI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZCj9SBeV-mI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZCj9SBeV-mI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "정갑윤",
+        "playlistId": "UU7BPh6fhPr_jdXHE5WnNITA",
+        "position": 41,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ZCj9SBeV-mI"
+        },
+        "videoOwnerChannelTitle": "정갑윤",
+        "videoOwnerChannelId": "UC7BPh6fhPr_jdXHE5WnNITA"
+      },
+      "contentDetails": {
+        "videoId": "ZCj9SBeV-mI",
+        "videoPublishedAt": "2014-11-26T10:24:49Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "qtcGmQgRQOcg7VzNHo3cJUtRD5s",
+      "id": "VVU3QlBoNmZoUHJfamRYSEU1V25OSVRBLlJibjhrVERDNmR3",
+      "snippet": {
+        "publishedAt": "2014-11-19T05:02:11Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "141119 울산 MBC '굿모닝 새아침입니다' 방송",
+        "description": "141119 울산 MBC '굿모닝 새아침입니다' 방송",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Rbn8kTDC6dw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Rbn8kTDC6dw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Rbn8kTDC6dw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Rbn8kTDC6dw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Rbn8kTDC6dw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "정갑윤",
+        "playlistId": "UU7BPh6fhPr_jdXHE5WnNITA",
+        "position": 42,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Rbn8kTDC6dw"
+        },
+        "videoOwnerChannelTitle": "정갑윤",
+        "videoOwnerChannelId": "UC7BPh6fhPr_jdXHE5WnNITA"
+      },
+      "contentDetails": {
+        "videoId": "Rbn8kTDC6dw",
+        "videoPublishedAt": "2014-11-19T05:02:11Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "1YB0Jfhf54Ao-COrnPpUjQgxvdI",
+      "id": "VVU3QlBoNmZoUHJfamRYSEU1V25OSVRBLjBxWHFaeUlWNFow",
+      "snippet": {
+        "publishedAt": "2014-11-17T06:38:31Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "「울산에 가자」- 정갑윤 작사곡",
+        "description": "정갑윤 국회부의장이 작사한 곡「울산에 가자」입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0qXqZyIV4Z0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0qXqZyIV4Z0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0qXqZyIV4Z0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0qXqZyIV4Z0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0qXqZyIV4Z0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "정갑윤",
+        "playlistId": "UU7BPh6fhPr_jdXHE5WnNITA",
+        "position": 43,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0qXqZyIV4Z0"
+        },
+        "videoOwnerChannelTitle": "정갑윤",
+        "videoOwnerChannelId": "UC7BPh6fhPr_jdXHE5WnNITA"
+      },
+      "contentDetails": {
+        "videoId": "0qXqZyIV4Z0",
+        "videoPublishedAt": "2014-11-17T06:38:31Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "V048s_ZCbPs2KNtjT_87ok-JUfo",
+      "id": "VVU3QlBoNmZoUHJfamRYSEU1V25OSVRBLnFVeGM1dFdIRXhj",
+      "snippet": {
+        "publishedAt": "2014-11-11T08:12:59Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "141109 채널A '뉴스 TOP10' - 정갑윤 부의장 「울산에 가자」작사",
+        "description": "141109 채널A '뉴스 TOP10' - 정갑윤 부의장 「울산에 가자」작사",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qUxc5tWHExc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qUxc5tWHExc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qUxc5tWHExc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qUxc5tWHExc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qUxc5tWHExc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "정갑윤",
+        "playlistId": "UU7BPh6fhPr_jdXHE5WnNITA",
+        "position": 44,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "qUxc5tWHExc"
+        },
+        "videoOwnerChannelTitle": "정갑윤",
+        "videoOwnerChannelId": "UC7BPh6fhPr_jdXHE5WnNITA"
+      },
+      "contentDetails": {
+        "videoId": "qUxc5tWHExc",
+        "videoPublishedAt": "2014-11-11T08:12:59Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "video_details": [
+    {
+      "kind": "youtube#video",
+      "etag": "KLGlVmhri4MVt48Uv0-mKkLCiBE",
+      "id": "sBm8dxvf0kk",
+      "snippet": {
+        "publishedAt": "2020-01-23T05:48:32Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "의정보고회 kakao4",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sBm8dxvf0kk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sBm8dxvf0kk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sBm8dxvf0kk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "정갑윤",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "의정보고회 kakao4",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT32M34S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "129",
+        "likeCount": "7",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Politics",
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "의정보고회 kakao4",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "HiI9JZZ8upkjqrEyKWzwFzcJp-0",
+      "id": "MzitDe-BBy8",
+      "snippet": {
+        "publishedAt": "2019-03-04T07:18:48Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "정갑윤 전당대회 준비위원장(자유한국당 제3차 전당대회)",
+        "description": "정갑윤 자유한국당 준비위원장",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MzitDe-BBy8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MzitDe-BBy8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MzitDe-BBy8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MzitDe-BBy8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MzitDe-BBy8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "정갑윤",
+        "tags": [
+          "정갑윤",
+          "제3차 전당대회",
+          "자유한국당",
+          "전당대회",
+          "준비위원장",
+          "자유한국당 전당대회",
+          "국회의원 정갑윤"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "정갑윤 전당대회 준비위원장(자유한국당 제3차 전당대회)",
+          "description": "정갑윤 자유한국당 준비위원장"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT5M15S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "55",
+        "likeCount": "4",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Politics",
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "정갑윤 전당대회 준비위원장(자유한국당 제3차 전당대회)",
+          "description": "정갑윤 자유한국당 준비위원장"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "KE9SslO6GyqWMPMD-kGC3vXkNLA",
+      "id": "4Ntnv9vFPTk",
+      "snippet": {
+        "publishedAt": "2016-10-20T05:30:00Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "태풍 ‘차바’ 대책 기자회견 관련 언론보도",
+        "description": "설명",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4Ntnv9vFPTk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4Ntnv9vFPTk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4Ntnv9vFPTk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4Ntnv9vFPTk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4Ntnv9vFPTk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "정갑윤",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "태풍 ‘차바’ 대책 기자회견 관련 언론보도",
+          "description": "설명"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT27S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "63",
+        "likeCount": "4",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Politics",
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "태풍 ‘차바’ 대책 기자회견 관련 언론보도",
+          "description": "설명"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "XejHp9Wipzaega3f2QgOLpEXtQQ",
+      "id": "uBZ_6IvgK_E",
+      "snippet": {
+        "publishedAt": "2016-04-13T16:26:39Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "제20대 국회의원선거 울산 중구 당선자 정갑윤-당선증 수여",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uBZ_6IvgK_E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uBZ_6IvgK_E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uBZ_6IvgK_E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uBZ_6IvgK_E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "정갑윤",
+        "tags": [
+          "제20대총선",
+          "제20대국회의원선거",
+          "새누리당",
+          "울산",
+          "중구",
+          "울산중구",
+          "정갑윤",
+          "당선",
+          "당선증"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "제20대 국회의원선거 울산 중구 당선자 정갑윤-당선증 수여",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT24S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "284",
+        "likeCount": "4",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Politics",
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "제20대 국회의원선거 울산 중구 당선자 정갑윤-당선증 수여",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "850ibd4qMJDr3rEQ0IFFgHar81s",
+      "id": "m3Cgrh88zx0",
+      "snippet": {
+        "publishedAt": "2016-04-13T08:06:15Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "정갑윤의 큰 마음, 따뜻한 정치",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/m3Cgrh88zx0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/m3Cgrh88zx0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/m3Cgrh88zx0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/m3Cgrh88zx0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/m3Cgrh88zx0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "정갑윤",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "정갑윤의 큰 마음, 따뜻한 정치",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT4M12S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "110",
+        "likeCount": "7",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Politics",
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "정갑윤의 큰 마음, 따뜻한 정치",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ZxfnNxWyPayaBqnbQ219TsKlzRo",
+      "id": "VxMJhBaSuX8",
+      "snippet": {
+        "publishedAt": "2016-04-13T08:01:52Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "정갑윤을 안아주세요",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VxMJhBaSuX8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VxMJhBaSuX8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VxMJhBaSuX8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VxMJhBaSuX8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "정갑윤",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "정갑윤을 안아주세요",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT1M51S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "201",
+        "likeCount": "14",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "정갑윤을 안아주세요",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "USvCb3Thf2GxRXgQIHb9-moiLj4",
+      "id": "X9cYGjULIrQ",
+      "snippet": {
+        "publishedAt": "2016-04-13T08:00:06Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "2015 의정보고회",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/X9cYGjULIrQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/X9cYGjULIrQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/X9cYGjULIrQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/X9cYGjULIrQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/X9cYGjULIrQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "정갑윤",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "2015 의정보고회",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT2M4S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "69",
+        "likeCount": "5",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Politics",
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "2015 의정보고회",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "KZ9kaXfef9rhoLZWnAZ2zBQ4axk",
+      "id": "03pdoQtDjcg",
+      "snippet": {
+        "publishedAt": "2016-04-12T09:45:44Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "여러분과 함께한 13일의 기록",
+        "description": "치열한 경선과 13일의 공식 선거운동 기간 동안\n함께 호흡하고 마음 나누어 주신 모든 분들께\n이 영상을 올립니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/03pdoQtDjcg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/03pdoQtDjcg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/03pdoQtDjcg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/03pdoQtDjcg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "정갑윤",
+        "tags": [
+          "정갑윤",
+          "제20대총선",
+          "국회의원후보",
+          "새누리당",
+          "울산중구",
+          "큰일꾼",
+          "큰희망",
+          "큰미래",
+          "감사합니다"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "여러분과 함께한 13일의 기록",
+          "description": "치열한 경선과 13일의 공식 선거운동 기간 동안\n함께 호흡하고 마음 나누어 주신 모든 분들께\n이 영상을 올립니다."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT1M36S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "481",
+        "likeCount": "9",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Politics",
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "여러분과 함께한 13일의 기록",
+          "description": "치열한 경선과 13일의 공식 선거운동 기간 동안\n함께 호흡하고 마음 나누어 주신 모든 분들께\n이 영상을 올립니다."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "57f6mHYSO8MmeUkVYo4yRLEfAHc",
+      "id": "n7eRl4xSnwY",
+      "snippet": {
+        "publishedAt": "2016-03-17T07:48:00Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "2016 중구 일자리 박람회",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/n7eRl4xSnwY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/n7eRl4xSnwY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/n7eRl4xSnwY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/n7eRl4xSnwY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "정갑윤",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "2016 중구 일자리 박람회",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT1M3S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "501",
+        "likeCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Politics",
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "2016 중구 일자리 박람회",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "XaDJHOIg3iDCEoxoyDNLAtS09H4",
+      "id": "AfpFDRn-EZY",
+      "snippet": {
+        "publishedAt": "2016-03-17T05:13:06Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "경선을 준비하며 중구 구민들께 올립니다",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AfpFDRn-EZY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AfpFDRn-EZY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AfpFDRn-EZY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AfpFDRn-EZY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AfpFDRn-EZY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "정갑윤",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "경선을 준비하며 중구 구민들께 올립니다",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT48S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "513",
+        "likeCount": "8",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Politics",
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "경선을 준비하며 중구 구민들께 올립니다",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "N7dcc48XVwxMVDekFbPTzI38eZk",
+      "id": "PFVMQTU0jwc",
+      "snippet": {
+        "publishedAt": "2015-12-30T13:04:17Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "울산과학기술원법 국회 본회의 통과",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PFVMQTU0jwc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PFVMQTU0jwc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PFVMQTU0jwc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "정갑윤",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "울산과학기술원법 국회 본회의 통과",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT28S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "45",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Politics",
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "울산과학기술원법 국회 본회의 통과",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "IxJ0qfc-6VKq4kF2d2jwlwNRkSs",
+      "id": "RgZyDN-437M",
+      "snippet": {
+        "publishedAt": "2015-12-30T12:25:41Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "나눔으로 크는 세상",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RgZyDN-437M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RgZyDN-437M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RgZyDN-437M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RgZyDN-437M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RgZyDN-437M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "정갑윤",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "나눔으로 크는 세상",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT9M10S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "32",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "나눔으로 크는 세상",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "QjVzy7qwzp519xCwv_q3cN3SJEI",
+      "id": "OmT2jk7zYL4",
+      "snippet": {
+        "publishedAt": "2015-12-24T02:10:47Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "151117 UBC프라임뉴스 화학연구원 울산분원 개소",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OmT2jk7zYL4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OmT2jk7zYL4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OmT2jk7zYL4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OmT2jk7zYL4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OmT2jk7zYL4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "정갑윤",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "151117 UBC프라임뉴스 화학연구원 울산분원 개소",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT30S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "91",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "151117 UBC프라임뉴스 화학연구원 울산분원 개소",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "dPpu6lcATHhQo4PgbL8prwg1IQI",
+      "id": "vvmIuXH3__0",
+      "snippet": {
+        "publishedAt": "2015-12-24T02:09:46Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "151110 UBC프라임뉴스 동천제방겸용도로 건설 착공",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vvmIuXH3__0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vvmIuXH3__0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vvmIuXH3__0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vvmIuXH3__0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vvmIuXH3__0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "정갑윤",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "151110 UBC프라임뉴스 동천제방겸용도로 건설 착공",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT54S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "2263",
+        "likeCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Politics",
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "151110 UBC프라임뉴스 동천제방겸용도로 건설 착공",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "_599bq6Mvwf59EmknIoCuMpFXS8",
+      "id": "ay_pmN3wa3I",
+      "snippet": {
+        "publishedAt": "2015-12-24T02:08:10Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "150921 YTN 울산 외곽고속도로 추진",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ay_pmN3wa3I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ay_pmN3wa3I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ay_pmN3wa3I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ay_pmN3wa3I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ay_pmN3wa3I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "정갑윤",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "150921 YTN 울산 외곽고속도로 추진",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT26S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "35",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Politics",
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "150921 YTN 울산 외곽고속도로 추진",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "XnidZKulor-3DTDhRO5PVdyKis0",
+      "id": "_WUQ-KdUhp0",
+      "snippet": {
+        "publishedAt": "2015-12-23T07:20:05Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "150513 YTN TBN 울산교통방송 청사 준공식",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_WUQ-KdUhp0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_WUQ-KdUhp0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_WUQ-KdUhp0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "정갑윤",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "150513 YTN TBN 울산교통방송 청사 준공식",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT31S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "54",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Politics",
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "150513 YTN TBN 울산교통방송 청사 준공식",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ZoQ0ZKusDMfh1VraxfggIBJhMd4",
+      "id": "RLoDO2z_0Y8",
+      "snippet": {
+        "publishedAt": "2015-12-23T07:19:23Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "121224 YTN 울산 장애인기업 지원센터 개소",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RLoDO2z_0Y8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RLoDO2z_0Y8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RLoDO2z_0Y8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "정갑윤",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "121224 YTN 울산 장애인기업 지원센터 개소",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT23S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "16",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Business",
+          "https://en.wikipedia.org/wiki/Politics",
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "121224 YTN 울산 장애인기업 지원센터 개소",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ZbRl14O-OZTzuFlcN0VvaWvlAy4",
+      "id": "snEMn4ZZ25I",
+      "snippet": {
+        "publishedAt": "2015-12-23T02:24:23Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "151119 UBC프라임뉴스 태화강 십리대숲 떼까마귀(태화강 환경)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/snEMn4ZZ25I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/snEMn4ZZ25I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/snEMn4ZZ25I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/snEMn4ZZ25I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "정갑윤",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "151119 UBC프라임뉴스 태화강 십리대숲 떼까마귀(태화강 환경)",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT1M36S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "208",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "151119 UBC프라임뉴스 태화강 십리대숲 떼까마귀(태화강 환경)",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Rg07ngi3j9wfoi4LcAecYTf_wYk",
+      "id": "SSYb5HSYYSM",
+      "snippet": {
+        "publishedAt": "2015-12-23T02:21:58Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "151203 UBC 프라임뉴스 울산 예산 국비 2조원 이상 확보(R&D내용 포함)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SSYb5HSYYSM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SSYb5HSYYSM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SSYb5HSYYSM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SSYb5HSYYSM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "정갑윤",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "151203 UBC 프라임뉴스 울산 예산 국비 2조원 이상 확보(R&D내용 포함)",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT1M41S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "237",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Politics",
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "151203 UBC 프라임뉴스 울산 예산 국비 2조원 이상 확보(R&D내용 포함)",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "cyoFyljOMeJxI_n2D7xWHVcGN9w",
+      "id": "L7tftN7PCPo",
+      "snippet": {
+        "publishedAt": "2015-12-23T02:19:31Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "151125 UBC프라임뉴스 울산에 8조투입, 융복합산업 특화(동해안권 산업)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/L7tftN7PCPo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/L7tftN7PCPo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/L7tftN7PCPo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/L7tftN7PCPo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "정갑윤",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "151125 UBC프라임뉴스 울산에 8조투입, 융복합산업 특화(동해안권 산업)",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT1M55S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "134",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Politics",
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "151125 UBC프라임뉴스 울산에 8조투입, 융복합산업 특화(동해안권 산업)",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "xdGtID5niSFBq_nEoUHQNuHe5zc",
+      "id": "TWWbRIuRkng",
+      "snippet": {
+        "publishedAt": "2015-12-23T02:16:00Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "151119 UBC프라임뉴스 테크노산단 첫 삽(남구 두왕동)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TWWbRIuRkng/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TWWbRIuRkng/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TWWbRIuRkng/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TWWbRIuRkng/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "정갑윤",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "151119 UBC프라임뉴스 테크노산단 첫 삽(남구 두왕동)",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT1M51S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "397",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "151119 UBC프라임뉴스 테크노산단 첫 삽(남구 두왕동)",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "8CBbUFEf9L2XPpEjn4nyNeGGtU4",
+      "id": "er4KvAR-no4",
+      "snippet": {
+        "publishedAt": "2015-12-23T02:12:52Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "151012 UBC프라임뉴스 한글문화예술제(외솔, 한글세계화)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/er4KvAR-no4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/er4KvAR-no4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/er4KvAR-no4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/er4KvAR-no4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "정갑윤",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "151012 UBC프라임뉴스 한글문화예술제(외솔, 한글세계화)",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT2M11S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "117",
+        "likeCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Politics",
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "151012 UBC프라임뉴스 한글문화예술제(외솔, 한글세계화)",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "LXAjThnEh6cZQ_iKn03MA5TcQgA",
+      "id": "c0kPQFQ9CTc",
+      "snippet": {
+        "publishedAt": "2015-12-23T02:08:03Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "150329 YTN울산 울산시, 조선 전문외교관 이예 선생 동상 건립",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/c0kPQFQ9CTc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/c0kPQFQ9CTc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/c0kPQFQ9CTc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/c0kPQFQ9CTc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/c0kPQFQ9CTc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "정갑윤",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "150329 YTN울산 울산시, 조선 전문외교관 이예 선생 동상 건립",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT20S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "12",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Politics",
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "150329 YTN울산 울산시, 조선 전문외교관 이예 선생 동상 건립",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "38kHLdp6Q5Phjfc5DyrGmT468Hw",
+      "id": "nRInEsxdgV4",
+      "snippet": {
+        "publishedAt": "2015-12-23T02:07:10Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "141206 울산KBS 육아종합지원센터 보건복지부 장관상 수상",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nRInEsxdgV4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nRInEsxdgV4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nRInEsxdgV4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nRInEsxdgV4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nRInEsxdgV4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "정갑윤",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "141206 울산KBS 육아종합지원센터 보건복지부 장관상 수상",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT21S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "31",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "141206 울산KBS 육아종합지원센터 보건복지부 장관상 수상",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Wpc_tJwZAL7bvUCsamtaoZi6Jjc",
+      "id": "t_dzjpMrZ3o",
+      "snippet": {
+        "publishedAt": "2015-12-23T02:06:24Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "150903 울산KBS 노인치매센터 유치 추진",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/t_dzjpMrZ3o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/t_dzjpMrZ3o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/t_dzjpMrZ3o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/t_dzjpMrZ3o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/t_dzjpMrZ3o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "정갑윤",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "150903 울산KBS 노인치매센터 유치 추진",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT29S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "31",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "150903 울산KBS 노인치매센터 유치 추진",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Nq_TR7aygkb7U19ADAav7pIqL4o",
+      "id": "EvjcvS6Wq74",
+      "snippet": {
+        "publishedAt": "2015-12-23T02:05:27Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "150212 울산KBS 옥동 농소간 도로 건설",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EvjcvS6Wq74/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EvjcvS6Wq74/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EvjcvS6Wq74/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EvjcvS6Wq74/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EvjcvS6Wq74/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "정갑윤",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "150212 울산KBS 옥동 농소간 도로 건설",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT43S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "341",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "150212 울산KBS 옥동 농소간 도로 건설",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "sA9pdJyxDFz7cO3Rs75Vye3Bvo0",
+      "id": "SqAksMZ-7pw",
+      "snippet": {
+        "publishedAt": "2015-12-23T02:04:04Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "151207 YTN 태화강 봄꽃 축제 지역경제 도움",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SqAksMZ-7pw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SqAksMZ-7pw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SqAksMZ-7pw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SqAksMZ-7pw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "정갑윤",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "151207 YTN 태화강 봄꽃 축제 지역경제 도움",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT29S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "5",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Politics",
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "151207 YTN 태화강 봄꽃 축제 지역경제 도움",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "fdU4Y67QJNEPnQcXsOcKBWp91d0",
+      "id": "eR2icBtSivU",
+      "snippet": {
+        "publishedAt": "2015-12-23T02:03:05Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "140907 울산KBS 광역 교통망 구축 박차(사통팔달 교통전체)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eR2icBtSivU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eR2icBtSivU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eR2icBtSivU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eR2icBtSivU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eR2icBtSivU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "정갑윤",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "140907 울산KBS 광역 교통망 구축 박차(사통팔달 교통전체)",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT1M55S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "126",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "140907 울산KBS 광역 교통망 구축 박차(사통팔달 교통전체)",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "9P8W9icQ-w8KFll-wdkZmSFzFO4",
+      "id": "cjPATSdJS9g",
+      "snippet": {
+        "publishedAt": "2015-12-23T01:57:40Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "151130 UBC프라임뉴스 울산 포항 고속도로 부분개통 임박(사통팔달 교통전체)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cjPATSdJS9g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cjPATSdJS9g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cjPATSdJS9g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cjPATSdJS9g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cjPATSdJS9g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "정갑윤",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "151130 UBC프라임뉴스 울산 포항 고속도로 부분개통 임박(사통팔달 교통전체)",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT1M56S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "2430",
+        "likeCount": "10",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "151130 UBC프라임뉴스 울산 포항 고속도로 부분개통 임박(사통팔달 교통전체)",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "6el0UIXcrX9GhLPd0DewXSsTYRw",
+      "id": "JYsnj0wvKYM",
+      "snippet": {
+        "publishedAt": "2015-12-23T01:33:53Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "151008 울산시정뉴스 육아종합지원센터",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JYsnj0wvKYM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JYsnj0wvKYM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JYsnj0wvKYM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JYsnj0wvKYM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JYsnj0wvKYM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "정갑윤",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "151008 울산시정뉴스 육아종합지원센터",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT6M16S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "64",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "151008 울산시정뉴스 육아종합지원센터",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "exS9De6NEDxTVfmJJbrVc0B1IEM",
+      "id": "nZLh1_m99mg",
+      "snippet": {
+        "publishedAt": "2015-12-23T01:13:05Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "151016 UBC프라임뉴스 장현 도시첨단산업단지(종합)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nZLh1_m99mg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nZLh1_m99mg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nZLh1_m99mg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nZLh1_m99mg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "정갑윤",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "151016 UBC프라임뉴스 장현 도시첨단산업단지(종합)",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT1M49S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1966",
+        "likeCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Politics",
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "151016 UBC프라임뉴스 장현 도시첨단산업단지(종합)",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "aNI8XpuvHdOvZVx8jRZIfsK6wSs",
+      "id": "gPC4oMwKJ2E",
+      "snippet": {
+        "publishedAt": "2015-12-23T01:07:26Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "151012 UBC프라임뉴스 UNIST 과기원 전환 (현장중계)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gPC4oMwKJ2E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gPC4oMwKJ2E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gPC4oMwKJ2E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gPC4oMwKJ2E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "정갑윤",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "151012 UBC프라임뉴스 UNIST 과기원 전환 (현장중계)",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT2M37S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "167",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Politics",
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "151012 UBC프라임뉴스 UNIST 과기원 전환 (현장중계)",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "htLQgIO7ZrEsFcEh-VZ-1uQ8ieY",
+      "id": "WoUvNVsDyWk",
+      "snippet": {
+        "publishedAt": "2015-12-22T08:42:52Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "150928 UBC프라임뉴스 UNIST 과기원 전환",
+        "description": "설명",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WoUvNVsDyWk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WoUvNVsDyWk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WoUvNVsDyWk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WoUvNVsDyWk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "정갑윤",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "150928 UBC프라임뉴스 UNIST 과기원 전환",
+          "description": "설명"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT36S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "104",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Politics",
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "150928 UBC프라임뉴스 UNIST 과기원 전환",
+          "description": "설명"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "W9yHdxEOt-0ObK1nq33K9l0CAJI",
+      "id": "HarRB9tVmjA",
+      "snippet": {
+        "publishedAt": "2015-07-24T06:55:45Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "150715 울산KBS 박근혜대통령 창조경제혁신센터 및 태화시장 방문",
+        "description": "150715 울산 KBS 박근혜대통령 울산방문(창조경제혁신센터 및 태화시장)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HarRB9tVmjA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HarRB9tVmjA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HarRB9tVmjA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HarRB9tVmjA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HarRB9tVmjA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "정갑윤",
+        "tags": [
+          "정갑윤",
+          "울산",
+          "박근혜",
+          "대통령",
+          "방문",
+          "창조경제",
+          "혁신센터",
+          "태화시장"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "150715 울산KBS 박근혜대통령 창조경제혁신센터 및 태화시장 방문",
+          "description": "150715 울산 KBS 박근혜대통령 울산방문(창조경제혁신센터 및 태화시장)"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT27S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "539",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Politics",
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "150715 울산KBS 박근혜대통령 창조경제혁신센터 및 태화시장 방문",
+          "description": "150715 울산 KBS 박근혜대통령 울산방문(창조경제혁신센터 및 태화시장)"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "82PFEZ_PcfqsubQbOE0i_Misrx0",
+      "id": "fzCAADihEYY",
+      "snippet": {
+        "publishedAt": "2015-03-04T08:33:56Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "070307 제265회 국회임시회 제7차 본회의",
+        "description": "『국립대학법인 울산국립대학교 설립에 관한 법률안』의결 토론\n- 제265회 국회임시회 제7차 본회의 (2007. 03. 07) -",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fzCAADihEYY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fzCAADihEYY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fzCAADihEYY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fzCAADihEYY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fzCAADihEYY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "정갑윤",
+        "tags": [
+          "정갑윤",
+          "국회부의장",
+          "국회의원",
+          "울산",
+          "과기대",
+          "과기원",
+          "전환",
+          "본회의",
+          "법률안",
+          "국립대학교",
+          "유니스트"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "070307 제265회 국회임시회 제7차 본회의",
+          "description": "『국립대학법인 울산국립대학교 설립에 관한 법률안』의결 토론\n- 제265회 국회임시회 제7차 본회의 (2007. 03. 07) -"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT7M10S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "175",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Politics",
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "070307 제265회 국회임시회 제7차 본회의",
+          "description": "『국립대학법인 울산국립대학교 설립에 관한 법률안』의결 토론\n- 제265회 국회임시회 제7차 본회의 (2007. 03. 07) -"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "4HoHcIwplrh4oRV4uCLHrLO1o0s",
+      "id": "eti_jnyEO9M",
+      "snippet": {
+        "publishedAt": "2015-02-02T05:24:00Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "150201 전국노래자랑 「울산에 가자」 편집본",
+        "description": "2015년 2월 1일 전국노래자랑-울산 남구 편에서 가수 현정이 「울산에 가자」를 부른 영상입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eti_jnyEO9M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eti_jnyEO9M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eti_jnyEO9M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eti_jnyEO9M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eti_jnyEO9M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "정갑윤",
+        "tags": [
+          "정갑윤",
+          "국회부의장",
+          "국회의원",
+          "전국노래자랑",
+          "부의장",
+          "울산",
+          "울산에가자",
+          "현정",
+          "트로트",
+          "작사",
+          "Ulsan (South Korean Metropolitan City)"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "150201 전국노래자랑 「울산에 가자」 편집본",
+          "description": "2015년 2월 1일 전국노래자랑-울산 남구 편에서 가수 현정이 「울산에 가자」를 부른 영상입니다."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M27S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "4285",
+        "likeCount": "24",
+        "favoriteCount": "0",
+        "commentCount": "2"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Music_of_Asia"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "150201 전국노래자랑 「울산에 가자」 편집본",
+          "description": "2015년 2월 1일 전국노래자랑-울산 남구 편에서 가수 현정이 「울산에 가자」를 부른 영상입니다."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "sKiqaEIbD8MkK_ILCVwwCEYOhBY",
+      "id": "hJ8Cz5D7cqI",
+      "snippet": {
+        "publishedAt": "2015-01-09T05:52:55Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "150107 중구당협 신년인사회 축하동영상",
+        "description": "2015년 1월 7일 울산 중구당협 신년인사회 축하 동영상입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hJ8Cz5D7cqI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hJ8Cz5D7cqI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hJ8Cz5D7cqI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hJ8Cz5D7cqI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hJ8Cz5D7cqI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "정갑윤",
+        "tags": [
+          "정갑윤",
+          "국회부의장",
+          "국회의원",
+          "울산",
+          "중구",
+          "새누리당",
+          "당원",
+          "신년인사",
+          "2015",
+          "을미년",
+          "새해",
+          "축하",
+          "동영상"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "150107 중구당협 신년인사회 축하동영상",
+          "description": "2015년 1월 7일 울산 중구당협 신년인사회 축하 동영상입니다."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT4M40S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "254",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Politics",
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "150107 중구당협 신년인사회 축하동영상",
+          "description": "2015년 1월 7일 울산 중구당협 신년인사회 축하 동영상입니다."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "9kLWJuS9RgClCuzLtx2EWEdZ-Fk",
+      "id": "gVYSRKrLm54",
+      "snippet": {
+        "publishedAt": "2015-01-09T05:45:52Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "150107 중구당협 신년인사회 지역동영상",
+        "description": "2015년 1월 7일 중구당협 신년인사회 동영상 입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gVYSRKrLm54/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gVYSRKrLm54/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gVYSRKrLm54/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gVYSRKrLm54/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gVYSRKrLm54/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "정갑윤",
+        "tags": [
+          "정갑윤",
+          "국회부의장",
+          "국회의원",
+          "울산",
+          "중구",
+          "새누리당",
+          "당원",
+          "신년인사",
+          "2015",
+          "을미년"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "150107 중구당협 신년인사회 지역동영상",
+          "description": "2015년 1월 7일 중구당협 신년인사회 동영상 입니다."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT9M5S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "94",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Politics"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "150107 중구당협 신년인사회 지역동영상",
+          "description": "2015년 1월 7일 중구당협 신년인사회 동영상 입니다."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "aB7tq3MJ6CVMWiYUcGXmGASKAfM",
+      "id": "p2y_5HC1nHk",
+      "snippet": {
+        "publishedAt": "2014-12-04T02:40:29Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "141201 KBS 「굿모닝 대한민국」에 방영된 '행복 한 통' 시상식",
+        "description": "2014년 12월 1일, KBS 「굿모닝 대한민국」에 방영된 '행복 한 통' 시상식 영상입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/p2y_5HC1nHk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/p2y_5HC1nHk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/p2y_5HC1nHk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/p2y_5HC1nHk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/p2y_5HC1nHk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "정갑윤",
+        "tags": [
+          "정갑윤",
+          "국회부의장",
+          "국회의원",
+          "울산",
+          "kbs",
+          "아버지",
+          "자녀",
+          "편지",
+          "영상편지",
+          "시상식",
+          "최불암",
+          "가족"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "141201 KBS 「굿모닝 대한민국」에 방영된 '행복 한 통' 시상식",
+          "description": "2014년 12월 1일, KBS 「굿모닝 대한민국」에 방영된 '행복 한 통' 시상식 영상입니다."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT50S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "342",
+        "likeCount": "3",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Politics",
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "141201 KBS 「굿모닝 대한민국」에 방영된 '행복 한 통' 시상식",
+          "description": "2014년 12월 1일, KBS 「굿모닝 대한민국」에 방영된 '행복 한 통' 시상식 영상입니다."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ywL4zQDmFXn5x3Fu6fwdG7dHuTM",
+      "id": "eqh06ecPlME",
+      "snippet": {
+        "publishedAt": "2014-11-27T08:32:11Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "141126 「울산MBC 8시 뉴스데스크」(정부조달문화명품 국회특별전)",
+        "description": "141126 「울산MBC 8시 뉴스데스크」에 방영된 영상입니다. (정부조달문화명품 국회특별전)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eqh06ecPlME/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eqh06ecPlME/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eqh06ecPlME/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eqh06ecPlME/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eqh06ecPlME/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "정갑윤",
+        "tags": [
+          "정갑윤",
+          "국회부의장",
+          "국회의원",
+          "울산",
+          "mbc",
+          "8시",
+          "뉴스",
+          "뉴스데스크",
+          "특별전",
+          "정부조달문화명품",
+          "한국공예품",
+          "주최",
+          "조달청"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "141126 「울산MBC 8시 뉴스데스크」(정부조달문화명품 국회특별전)",
+          "description": "141126 「울산MBC 8시 뉴스데스크」에 방영된 영상입니다. (정부조달문화명품 국회특별전)"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT35S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "206",
+        "likeCount": "3",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Politics",
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "141126 「울산MBC 8시 뉴스데스크」(정부조달문화명품 국회특별전)",
+          "description": "141126 「울산MBC 8시 뉴스데스크」에 방영된 영상입니다. (정부조달문화명품 국회특별전)"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Yg1RfD47z1uGKSvQy_UliZCppKc",
+      "id": "bsjZmKLwlZ4",
+      "snippet": {
+        "publishedAt": "2014-11-27T00:57:15Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "141127 울산에 가자 전곡(3절) 영상 입니다^^",
+        "description": "141127 울산에 가자 전곡(3절) 영상 입니다.\n가사를 보며 따라 불러보세요^^",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bsjZmKLwlZ4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bsjZmKLwlZ4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bsjZmKLwlZ4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bsjZmKLwlZ4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bsjZmKLwlZ4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "정갑윤",
+        "tags": [
+          "정갑윤",
+          "국회부의장",
+          "국회의원",
+          "작사",
+          "저작권",
+          "울산",
+          "울산에가자",
+          "트로트",
+          "가요"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "141127 울산에 가자 전곡(3절) 영상 입니다^^",
+          "description": "141127 울산에 가자 전곡(3절) 영상 입니다.\n가사를 보며 따라 불러보세요^^"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT2M42S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "605",
+        "likeCount": "10",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "141127 울산에 가자 전곡(3절) 영상 입니다^^",
+          "description": "141127 울산에 가자 전곡(3절) 영상 입니다.\n가사를 보며 따라 불러보세요^^"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "mgGBSulTrInfq13PiROVUmLh4k0",
+      "id": "ZCj9SBeV-mI",
+      "snippet": {
+        "publishedAt": "2014-11-26T10:24:49Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "141126_울산에 가자 전곡(3절)",
+        "description": "141126_울산에 가자 전곡(3절) 입니다^^",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZCj9SBeV-mI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZCj9SBeV-mI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZCj9SBeV-mI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZCj9SBeV-mI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZCj9SBeV-mI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "정갑윤",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "141126_울산에 가자 전곡(3절)",
+          "description": "141126_울산에 가자 전곡(3절) 입니다^^"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT2M42S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "3148",
+        "likeCount": "27",
+        "favoriteCount": "0",
+        "commentCount": "4"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "141126_울산에 가자 전곡(3절)",
+          "description": "141126_울산에 가자 전곡(3절) 입니다^^"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "HxBQIE1UXCTzL3-PFiA-snr-SUw",
+      "id": "Rbn8kTDC6dw",
+      "snippet": {
+        "publishedAt": "2014-11-19T05:02:11Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "141119 울산 MBC '굿모닝 새아침입니다' 방송",
+        "description": "141119 울산 MBC '굿모닝 새아침입니다' 방송",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Rbn8kTDC6dw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Rbn8kTDC6dw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Rbn8kTDC6dw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Rbn8kTDC6dw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Rbn8kTDC6dw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "정갑윤",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "141119 울산 MBC '굿모닝 새아침입니다' 방송",
+          "description": "141119 울산 MBC '굿모닝 새아침입니다' 방송"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT10M9S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "971",
+        "likeCount": "12",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Music_of_Asia"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "141119 울산 MBC '굿모닝 새아침입니다' 방송",
+          "description": "141119 울산 MBC '굿모닝 새아침입니다' 방송"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Y5d8aH3PMj0hnWsGjy-kGV1gDsM",
+      "id": "0qXqZyIV4Z0",
+      "snippet": {
+        "publishedAt": "2014-11-17T06:38:31Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "「울산에 가자」- 정갑윤 작사곡",
+        "description": "정갑윤 국회부의장이 작사한 곡「울산에 가자」입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0qXqZyIV4Z0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0qXqZyIV4Z0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0qXqZyIV4Z0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0qXqZyIV4Z0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0qXqZyIV4Z0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "정갑윤",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "「울산에 가자」- 정갑윤 작사곡",
+          "description": "정갑윤 국회부의장이 작사한 곡「울산에 가자」입니다."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT1M1S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1760",
+        "likeCount": "25",
+        "favoriteCount": "0",
+        "commentCount": "5"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Music_of_Asia",
+          "https://en.wikipedia.org/wiki/Politics"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "「울산에 가자」- 정갑윤 작사곡",
+          "description": "정갑윤 국회부의장이 작사한 곡「울산에 가자」입니다."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ayBA7qX-4hnTBP361XK0AedQoe4",
+      "id": "qUxc5tWHExc",
+      "snippet": {
+        "publishedAt": "2014-11-11T08:12:59Z",
+        "channelId": "UC7BPh6fhPr_jdXHE5WnNITA",
+        "title": "141109 채널A '뉴스 TOP10' - 정갑윤 부의장 「울산에 가자」작사",
+        "description": "141109 채널A '뉴스 TOP10' - 정갑윤 부의장 「울산에 가자」작사",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qUxc5tWHExc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qUxc5tWHExc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qUxc5tWHExc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qUxc5tWHExc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qUxc5tWHExc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "정갑윤",
+        "tags": [
+          "정갑윤",
+          "국회부의장",
+          "국회의원",
+          "작사",
+          "울산",
+          "채널A",
+          "뉴스"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "141109 채널A '뉴스 TOP10' - 정갑윤 부의장 「울산에 가자」작사",
+          "description": "141109 채널A '뉴스 TOP10' - 정갑윤 부의장 「울산에 가자」작사"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT6M2S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1012",
+        "likeCount": "33",
+        "favoriteCount": "0",
+        "commentCount": "4"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Politics",
+          "https://en.wikipedia.org/wiki/Society",
+          "https://en.wikipedia.org/wiki/Television_program"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "141109 채널A '뉴스 TOP10' - 정갑윤 부의장 「울산에 가자」작사",
+          "description": "141109 채널A '뉴스 TOP10' - 정갑윤 부의장 「울산에 가자」작사"
+        }
+      }
+    }
+  ]
+}

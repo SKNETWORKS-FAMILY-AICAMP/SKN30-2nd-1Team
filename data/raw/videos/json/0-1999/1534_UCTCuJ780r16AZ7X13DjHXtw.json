@@ -1,0 +1,283 @@
+{
+  "idx": 1534,
+  "channel_id": "UCTCuJ780r16AZ7X13DjHXtw",
+  "channel_title": "홍",
+  "playlist_items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "r3IZU64qd4HtsXtNA75VyVQSqPg",
+      "id": "VVVUQ3VKNzgwcjE2QVo3WDEzRGpIWHR3LjRHMGdtVHVqaHlB",
+      "snippet": {
+        "publishedAt": "2018-02-10T05:18:39Z",
+        "channelId": "UCTCuJ780r16AZ7X13DjHXtw",
+        "title": "(일상) 케익믹스로 오븐없이 초코케익만들기 ✿홍양✿",
+        "description": "편집 프로그램 : 무비메이커\n워터마크(우측 하단 아이콘) : 생화님 제공",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4G0gmTujhyA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4G0gmTujhyA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4G0gmTujhyA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4G0gmTujhyA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4G0gmTujhyA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "홍",
+        "playlistId": "UUTCuJ780r16AZ7X13DjHXtw",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4G0gmTujhyA"
+        },
+        "videoOwnerChannelTitle": "홍",
+        "videoOwnerChannelId": "UCTCuJ780r16AZ7X13DjHXtw"
+      },
+      "contentDetails": {
+        "videoId": "4G0gmTujhyA",
+        "videoPublishedAt": "2018-02-10T05:18:39Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "rFCXlJqnARq9Yd3tZJXuMtv0WVM",
+      "id": "VVVUQ3VKNzgwcjE2QVo3WDEzRGpIWHR3LnRYZWFkS0FGTy13",
+      "snippet": {
+        "publishedAt": "2017-04-30T21:28:28Z",
+        "channelId": "UCTCuJ780r16AZ7X13DjHXtw",
+        "title": "편의점 재료로 간단하게 간식만들기 ✿홍양✿",
+        "description": "편집 프로그램 : 무비메이커\n워터마크(우측 하단 아이콘) : 생화님 제공",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tXeadKAFO-w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tXeadKAFO-w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tXeadKAFO-w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tXeadKAFO-w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tXeadKAFO-w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "홍",
+        "playlistId": "UUTCuJ780r16AZ7X13DjHXtw",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "tXeadKAFO-w"
+        },
+        "videoOwnerChannelTitle": "홍",
+        "videoOwnerChannelId": "UCTCuJ780r16AZ7X13DjHXtw"
+      },
+      "contentDetails": {
+        "videoId": "tXeadKAFO-w",
+        "videoPublishedAt": "2017-04-30T21:28:28Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "video_details": [
+    {
+      "kind": "youtube#video",
+      "etag": "bM3fJqt_4Hn5AxCK_VZXWksFiwU",
+      "id": "4G0gmTujhyA",
+      "snippet": {
+        "publishedAt": "2018-02-10T05:18:39Z",
+        "channelId": "UCTCuJ780r16AZ7X13DjHXtw",
+        "title": "(일상) 케익믹스로 오븐없이 초코케익만들기 ✿홍양✿",
+        "description": "편집 프로그램 : 무비메이커\n워터마크(우측 하단 아이콘) : 생화님 제공",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4G0gmTujhyA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4G0gmTujhyA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4G0gmTujhyA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4G0gmTujhyA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4G0gmTujhyA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "홍",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "(일상) 케익믹스로 오븐없이 초코케익만들기 ✿홍양✿",
+          "description": "편집 프로그램 : 무비메이커\n워터마크(우측 하단 아이콘) : 생화님 제공"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M8S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": false,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "5057",
+        "likeCount": "74",
+        "favoriteCount": "0",
+        "commentCount": "39"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Food",
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "(일상) 케익믹스로 오븐없이 초코케익만들기 ✿홍양✿",
+          "description": "편집 프로그램 : 무비메이커\n워터마크(우측 하단 아이콘) : 생화님 제공"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "qOPA11NMx-drbhpCDa5fVbRZxjU",
+      "id": "tXeadKAFO-w",
+      "snippet": {
+        "publishedAt": "2017-04-30T21:28:28Z",
+        "channelId": "UCTCuJ780r16AZ7X13DjHXtw",
+        "title": "편의점 재료로 간단하게 간식만들기 ✿홍양✿",
+        "description": "편집 프로그램 : 무비메이커\n워터마크(우측 하단 아이콘) : 생화님 제공",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tXeadKAFO-w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tXeadKAFO-w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tXeadKAFO-w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tXeadKAFO-w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tXeadKAFO-w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "홍",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "편의점 재료로 간단하게 간식만들기 ✿홍양✿",
+          "description": "편집 프로그램 : 무비메이커\n워터마크(우측 하단 아이콘) : 생화님 제공"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M19S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "7018",
+        "likeCount": "134",
+        "favoriteCount": "0",
+        "commentCount": "87"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Food",
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "편의점 재료로 간단하게 간식만들기 ✿홍양✿",
+          "description": "편집 프로그램 : 무비메이커\n워터마크(우측 하단 아이콘) : 생화님 제공"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,288 @@
+{
+  "idx": 22,
+  "channel_id": "UCXnohvqA53diRrjW8CxOT-g",
+  "channel_title": "이원욱",
+  "playlist_items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ZKpyAdE7i01e2Ti4Xp_FRxkZ0mc",
+      "id": "VVVYbm9odnFBNTNkaVJyalc4Q3hPVC1nLkVZUWZpb1VRaUxr",
+      "snippet": {
+        "publishedAt": "2024-11-28T06:06:26Z",
+        "channelId": "UCXnohvqA53diRrjW8CxOT-g",
+        "title": "[비엔나통신 1편] 프롤로그: 오스트리아에서 한국을 본다!",
+        "description": "안녕하세요, 이원욱입니다. 저는 10월 말에 오스트리아 비엔나에 왔습니다. 현재 오스트리아 빈대학의 한국학과에서 연구교수로 있습니다. 한국학과 학생들을 대상으로 그들이 궁금해하는 주제로 특강도 계획하고 있습니다.\n한국 정치인의 시선으로 오스트리아를 보고 싶습니다. 그 내용을 함께 공유하고 싶습니다. 수박 겉핥기가 될지 모르겠지만 시도해보겠습니다. 작은 축적이 큰 성과를 만들 수 있다는 심정으로 여러분과 6개월여의 여정을 시작해 보겠습니다. \n결국 시선은 한국에 맞춰져 있습니다. 극단적 혐오의 대한민국 정치를 바꿔 새로운 대한민국으로 다시한번 도약의 길을 만들고 싶습니다. \n\n#오스트리아 #비엔나 #비엔나여행 #비엔나대학 #빈필오케스트라 #빈필소년합창단 #개혁신당 #이원욱",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EYQfioUQiLk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EYQfioUQiLk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EYQfioUQiLk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EYQfioUQiLk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EYQfioUQiLk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이원욱",
+        "playlistId": "UUXnohvqA53diRrjW8CxOT-g",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "EYQfioUQiLk"
+        },
+        "videoOwnerChannelTitle": "이원욱",
+        "videoOwnerChannelId": "UCXnohvqA53diRrjW8CxOT-g"
+      },
+      "contentDetails": {
+        "videoId": "EYQfioUQiLk",
+        "videoPublishedAt": "2024-11-28T06:06:26Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "OuKuUMrEoc5EigXygVb4Y0qs-Ag",
+      "id": "VVVYbm9odnFBNTNkaVJyalc4Q3hPVC1nLktjaks4WmZDMy1Z",
+      "snippet": {
+        "publishedAt": "2022-02-17T01:03:00Z",
+        "channelId": "UCXnohvqA53diRrjW8CxOT-g",
+        "title": "Untitled video",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KcjK8ZfC3-Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KcjK8ZfC3-Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KcjK8ZfC3-Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KcjK8ZfC3-Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KcjK8ZfC3-Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이원욱",
+        "playlistId": "UUXnohvqA53diRrjW8CxOT-g",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KcjK8ZfC3-Y"
+        },
+        "videoOwnerChannelTitle": "이원욱",
+        "videoOwnerChannelId": "UCXnohvqA53diRrjW8CxOT-g"
+      },
+      "contentDetails": {
+        "videoId": "KcjK8ZfC3-Y",
+        "videoPublishedAt": "2022-02-17T01:03:00Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "video_details": [
+    {
+      "kind": "youtube#video",
+      "etag": "TP5Ev6sCHGOF4KgWdVcRwmeh0wY",
+      "id": "EYQfioUQiLk",
+      "snippet": {
+        "publishedAt": "2024-11-28T06:06:26Z",
+        "channelId": "UCXnohvqA53diRrjW8CxOT-g",
+        "title": "[비엔나통신 1편] 프롤로그: 오스트리아에서 한국을 본다!",
+        "description": "안녕하세요, 이원욱입니다. 저는 10월 말에 오스트리아 비엔나에 왔습니다. 현재 오스트리아 빈대학의 한국학과에서 연구교수로 있습니다. 한국학과 학생들을 대상으로 그들이 궁금해하는 주제로 특강도 계획하고 있습니다.\n한국 정치인의 시선으로 오스트리아를 보고 싶습니다. 그 내용을 함께 공유하고 싶습니다. 수박 겉핥기가 될지 모르겠지만 시도해보겠습니다. 작은 축적이 큰 성과를 만들 수 있다는 심정으로 여러분과 6개월여의 여정을 시작해 보겠습니다. \n결국 시선은 한국에 맞춰져 있습니다. 극단적 혐오의 대한민국 정치를 바꿔 새로운 대한민국으로 다시한번 도약의 길을 만들고 싶습니다. \n\n#오스트리아 #비엔나 #비엔나여행 #비엔나대학 #빈필오케스트라 #빈필소년합창단 #개혁신당 #이원욱",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EYQfioUQiLk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EYQfioUQiLk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EYQfioUQiLk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EYQfioUQiLk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EYQfioUQiLk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이원욱",
+        "tags": [
+          "#오스트리아",
+          "#비엔나",
+          "#비엔나여행",
+          "#비엔나대학",
+          "#빈필오케스트라",
+          "#빈소년합창단",
+          "#히든챔피언",
+          "#개혁신당",
+          "#이원욱"
+        ],
+        "categoryId": "25",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[비엔나통신 1편] 프롤로그: 오스트리아에서 한국을 본다!",
+          "description": "안녕하세요, 이원욱입니다. 저는 10월 말에 오스트리아 비엔나에 왔습니다. 현재 오스트리아 빈대학의 한국학과에서 연구교수로 있습니다. 한국학과 학생들을 대상으로 그들이 궁금해하는 주제로 특강도 계획하고 있습니다.\n한국 정치인의 시선으로 오스트리아를 보고 싶습니다. 그 내용을 함께 공유하고 싶습니다. 수박 겉핥기가 될지 모르겠지만 시도해보겠습니다. 작은 축적이 큰 성과를 만들 수 있다는 심정으로 여러분과 6개월여의 여정을 시작해 보겠습니다. \n결국 시선은 한국에 맞춰져 있습니다. 극단적 혐오의 대한민국 정치를 바꿔 새로운 대한민국으로 다시한번 도약의 길을 만들고 싶습니다. \n\n#오스트리아 #비엔나 #비엔나여행 #비엔나대학 #빈필오케스트라 #빈필소년합창단 #개혁신당 #이원욱"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT5M24S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": true
+      },
+      "statistics": {
+        "viewCount": "17",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Politics",
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "[비엔나통신 1편] 프롤로그: 오스트리아에서 한국을 본다!",
+          "description": "안녕하세요, 이원욱입니다. 저는 10월 말에 오스트리아 비엔나에 왔습니다. 현재 오스트리아 빈대학의 한국학과에서 연구교수로 있습니다. 한국학과 학생들을 대상으로 그들이 궁금해하는 주제로 특강도 계획하고 있습니다.\n한국 정치인의 시선으로 오스트리아를 보고 싶습니다. 그 내용을 함께 공유하고 싶습니다. 수박 겉핥기가 될지 모르겠지만 시도해보겠습니다. 작은 축적이 큰 성과를 만들 수 있다는 심정으로 여러분과 6개월여의 여정을 시작해 보겠습니다. \n결국 시선은 한국에 맞춰져 있습니다. 극단적 혐오의 대한민국 정치를 바꿔 새로운 대한민국으로 다시한번 도약의 길을 만들고 싶습니다. \n\n#오스트리아 #비엔나 #비엔나여행 #비엔나대학 #빈필오케스트라 #빈필소년합창단 #개혁신당 #이원욱"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ptUVGMNGESoETDLA1Y3QFwiYjAQ",
+      "id": "KcjK8ZfC3-Y",
+      "snippet": {
+        "publishedAt": "2022-02-17T01:03:00Z",
+        "channelId": "UCXnohvqA53diRrjW8CxOT-g",
+        "title": "Untitled video",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KcjK8ZfC3-Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KcjK8ZfC3-Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KcjK8ZfC3-Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KcjK8ZfC3-Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KcjK8ZfC3-Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이원욱",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "Untitled video",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT2M39S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": true
+      },
+      "statistics": {
+        "viewCount": "1",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "Untitled video",
+          "description": ""
+        }
+      }
+    }
+  ]
+}

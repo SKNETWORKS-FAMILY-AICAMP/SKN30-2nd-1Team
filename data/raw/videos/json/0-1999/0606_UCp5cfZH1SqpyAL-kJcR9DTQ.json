@@ -1,0 +1,2241 @@
+{
+  "idx": 606,
+  "channel_id": "UCp5cfZH1SqpyAL-kJcR9DTQ",
+  "channel_title": "현이하다",
+  "playlist_items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "9NtCWhxC8MQ_Tss1u4yBxRxNNpY",
+      "id": "VVVwNWNmWkgxU3FweUFMLWtKY1I5RFRRLmRJT08wTldsRXJN",
+      "snippet": {
+        "publishedAt": "2020-10-31T11:00:19Z",
+        "channelId": "UCp5cfZH1SqpyAL-kJcR9DTQ",
+        "title": "현이 - 바텀에서 기도하기 (레넥톤, 모르가나, 사일러스, 진, 헤카림)",
+        "description": "나쁜 말은 안 좋아요.\n\n\n기획 : 현이\n편집 : 남다\n\n\n#레넥톤 #모르가나 #사일러스 #진 #헤카림",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dIOO0NWlErM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dIOO0NWlErM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dIOO0NWlErM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dIOO0NWlErM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dIOO0NWlErM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "현이하다",
+        "playlistId": "UUp5cfZH1SqpyAL-kJcR9DTQ",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dIOO0NWlErM"
+        },
+        "videoOwnerChannelTitle": "현이하다",
+        "videoOwnerChannelId": "UCp5cfZH1SqpyAL-kJcR9DTQ"
+      },
+      "contentDetails": {
+        "videoId": "dIOO0NWlErM",
+        "videoPublishedAt": "2020-10-31T11:00:19Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "TbAJ1qTv035P2EvdNI7ry6uHawI",
+      "id": "VVVwNWNmWkgxU3FweUFMLWtKY1I5RFRRLmJpRWJFZ0JJMXRv",
+      "snippet": {
+        "publishedAt": "2020-10-22T11:00:22Z",
+        "channelId": "UCp5cfZH1SqpyAL-kJcR9DTQ",
+        "title": "현이 - 행복한 봇 (리신, 베이가, 블리츠크랭크, 이렐리아, 이즈리얼)",
+        "description": "플래티넘 이즈리얼 장인이랍니다.\n그렇지만 승리는 보장하지 않아요.\n\n\n기획 : 현이\n편집 : 남다\n\n\n#리신 #베이가 #블리츠크랭크 #이렐리아 #이즈리얼",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/biEbEgBI1to/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/biEbEgBI1to/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/biEbEgBI1to/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/biEbEgBI1to/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/biEbEgBI1to/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "현이하다",
+        "playlistId": "UUp5cfZH1SqpyAL-kJcR9DTQ",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "biEbEgBI1to"
+        },
+        "videoOwnerChannelTitle": "현이하다",
+        "videoOwnerChannelId": "UCp5cfZH1SqpyAL-kJcR9DTQ"
+      },
+      "contentDetails": {
+        "videoId": "biEbEgBI1to",
+        "videoPublishedAt": "2020-10-22T11:00:22Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mp7WtsmFhE7isUJ49TvAVP6F8yk",
+      "id": "VVVwNWNmWkgxU3FweUFMLWtKY1I5RFRRLlNQdy11Nmt5VFRn",
+      "snippet": {
+        "publishedAt": "2020-10-15T09:00:05Z",
+        "channelId": "UCp5cfZH1SqpyAL-kJcR9DTQ",
+        "title": "현이 - 신비로운 유성 아리 (가렌, 리신, 아리, 칼리스타, 탈리야)",
+        "description": "선선한 가을이 왔네요.\n날씨가 추워졌어요.\n\n감기 조심하고 건강 챙기세요.\n\n\n기획 : 현이\n편집 : 남다\n\n\n#가렌 #리신 #아리 #칼리스타 #탈리야",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SPw-u6kyTTg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SPw-u6kyTTg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SPw-u6kyTTg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SPw-u6kyTTg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SPw-u6kyTTg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "현이하다",
+        "playlistId": "UUp5cfZH1SqpyAL-kJcR9DTQ",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "SPw-u6kyTTg"
+        },
+        "videoOwnerChannelTitle": "현이하다",
+        "videoOwnerChannelId": "UCp5cfZH1SqpyAL-kJcR9DTQ"
+      },
+      "contentDetails": {
+        "videoId": "SPw-u6kyTTg",
+        "videoPublishedAt": "2020-10-15T09:00:05Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "I1a2yDPENhmhV0wipw1qtP5FFsw",
+      "id": "VVVwNWNmWkgxU3FweUFMLWtKY1I5RFRRLmkyUUFIN0pVVEJ3",
+      "snippet": {
+        "publishedAt": "2020-10-09T13:00:17Z",
+        "channelId": "UCp5cfZH1SqpyAL-kJcR9DTQ",
+        "title": "현이 - 양아치 신드라 (녹턴, 브라움, 신드라, 케이틀린, 헤카림)",
+        "description": "언제나 부끄러운 목소리.\n\n\n기획 : 현이\n편집 : 남다\n\n\n#녹턴 #브라움 #신드라 #케이틀린 #헤카림",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/i2QAH7JUTBw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/i2QAH7JUTBw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/i2QAH7JUTBw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/i2QAH7JUTBw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/i2QAH7JUTBw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "현이하다",
+        "playlistId": "UUp5cfZH1SqpyAL-kJcR9DTQ",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "i2QAH7JUTBw"
+        },
+        "videoOwnerChannelTitle": "현이하다",
+        "videoOwnerChannelId": "UCp5cfZH1SqpyAL-kJcR9DTQ"
+      },
+      "contentDetails": {
+        "videoId": "i2QAH7JUTBw",
+        "videoPublishedAt": "2020-10-09T13:00:17Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "6Kw_3u77X8WV_HAbCZzVfpYAIUk",
+      "id": "VVVwNWNmWkgxU3FweUFMLWtKY1I5RFRRLkFCdlgzRVBzWVBF",
+      "snippet": {
+        "publishedAt": "2020-09-21T11:00:45Z",
+        "channelId": "UCp5cfZH1SqpyAL-kJcR9DTQ",
+        "title": "현이 - 역전 재판 (어몽 어스, 크루원, 임포스터)",
+        "description": "추리는 안 하고 막고라만 하는 파티.\n어몽 어스에서 역전 재판하고 왔습니다.\n\n\n기획 : 현이\n편집 : 남다\n\n\n#어몽어스 #크루원 #임포스터",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ABvX3EPsYPE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ABvX3EPsYPE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ABvX3EPsYPE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ABvX3EPsYPE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ABvX3EPsYPE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "현이하다",
+        "playlistId": "UUp5cfZH1SqpyAL-kJcR9DTQ",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ABvX3EPsYPE"
+        },
+        "videoOwnerChannelTitle": "현이하다",
+        "videoOwnerChannelId": "UCp5cfZH1SqpyAL-kJcR9DTQ"
+      },
+      "contentDetails": {
+        "videoId": "ABvX3EPsYPE",
+        "videoPublishedAt": "2020-09-21T11:00:45Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "iMXKsLsQRw0qsNctrL2cITkU8kU",
+      "id": "VVVwNWNmWkgxU3FweUFMLWtKY1I5RFRRLkl5bW5iSGZfSmdj",
+      "snippet": {
+        "publishedAt": "2020-09-09T12:00:22Z",
+        "channelId": "UCp5cfZH1SqpyAL-kJcR9DTQ",
+        "title": "현이 - 임포스터 꿀팁 (어몽 어스, 크루원, 임포스터)",
+        "description": "주관적인 임포스터 팁이에요.\n도움이 되기를 바라요.\n\n\n기획 : 현이\n편집 : 남다\n\n\n#어몽어스 #크루원 #임포스터",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IymnbHf_Jgc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IymnbHf_Jgc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IymnbHf_Jgc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IymnbHf_Jgc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IymnbHf_Jgc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "현이하다",
+        "playlistId": "UUp5cfZH1SqpyAL-kJcR9DTQ",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "IymnbHf_Jgc"
+        },
+        "videoOwnerChannelTitle": "현이하다",
+        "videoOwnerChannelId": "UCp5cfZH1SqpyAL-kJcR9DTQ"
+      },
+      "contentDetails": {
+        "videoId": "IymnbHf_Jgc",
+        "videoPublishedAt": "2020-09-09T12:00:22Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "0042IhbLJBjDdCvVU2opt-Zylk0",
+      "id": "VVVwNWNmWkgxU3FweUFMLWtKY1I5RFRRLmdoS1NuNVh0U2tz",
+      "snippet": {
+        "publishedAt": "2020-09-02T10:00:26Z",
+        "channelId": "UCp5cfZH1SqpyAL-kJcR9DTQ",
+        "title": "현이 - 돌고 도는 꼬리잡기 (폴 가이즈, 파티, 서바이벌)",
+        "description": "왕관 하나 없는 바보 자매.\n\n\n기획 : 현이\n편집 : 남다\n\n\n#폴가이즈 #파티 #서바이벌",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ghKSn5XtSks/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ghKSn5XtSks/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ghKSn5XtSks/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ghKSn5XtSks/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ghKSn5XtSks/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "현이하다",
+        "playlistId": "UUp5cfZH1SqpyAL-kJcR9DTQ",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ghKSn5XtSks"
+        },
+        "videoOwnerChannelTitle": "현이하다",
+        "videoOwnerChannelId": "UCp5cfZH1SqpyAL-kJcR9DTQ"
+      },
+      "contentDetails": {
+        "videoId": "ghKSn5XtSks",
+        "videoPublishedAt": "2020-09-02T10:00:26Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "smY7W_UtmQkixP4OTmnIl_890RU",
+      "id": "VVVwNWNmWkgxU3FweUFMLWtKY1I5RFRRLk5aWkRYVWZIaE9n",
+      "snippet": {
+        "publishedAt": "2020-08-22T03:00:28Z",
+        "channelId": "UCp5cfZH1SqpyAL-kJcR9DTQ",
+        "title": "현이 - 바보 자매 등장 (폴 가이즈, 파티, 서바이벌)",
+        "description": "유튜브를 다시 시작한 지\n벌써 두 달이나 흘렀네요.\n\n\n기획 : 현이\n편집 : 남다\n\n\n#폴가이즈 #파티 #서바이벌",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NZZDXUfHhOg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NZZDXUfHhOg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NZZDXUfHhOg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NZZDXUfHhOg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NZZDXUfHhOg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "현이하다",
+        "playlistId": "UUp5cfZH1SqpyAL-kJcR9DTQ",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NZZDXUfHhOg"
+        },
+        "videoOwnerChannelTitle": "현이하다",
+        "videoOwnerChannelId": "UCp5cfZH1SqpyAL-kJcR9DTQ"
+      },
+      "contentDetails": {
+        "videoId": "NZZDXUfHhOg",
+        "videoPublishedAt": "2020-08-22T03:00:28Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "06tmz7gapunvBIk_F2nWl7FcmP0",
+      "id": "VVVwNWNmWkgxU3FweUFMLWtKY1I5RFRRLi1UZGFCUUJZYWVj",
+      "snippet": {
+        "publishedAt": "2020-08-18T11:00:16Z",
+        "channelId": "UCp5cfZH1SqpyAL-kJcR9DTQ",
+        "title": "현이 - 격전하고 친구 손절하는 이유 (라칸, 세나, 아무무, 에코, 헤카림)",
+        "description": "아무무는 외로워요.\n\n\n기획 : 현이\n편집 : 남다\n\n\n#라칸 #세나 #아무무 #에코 #헤카림",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-TdaBQBYaec/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-TdaBQBYaec/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-TdaBQBYaec/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-TdaBQBYaec/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-TdaBQBYaec/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "현이하다",
+        "playlistId": "UUp5cfZH1SqpyAL-kJcR9DTQ",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-TdaBQBYaec"
+        },
+        "videoOwnerChannelTitle": "현이하다",
+        "videoOwnerChannelId": "UCp5cfZH1SqpyAL-kJcR9DTQ"
+      },
+      "contentDetails": {
+        "videoId": "-TdaBQBYaec",
+        "videoPublishedAt": "2020-08-18T11:00:16Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "QGYO4-wDO8yyJGHx9YtUFpm_jUk",
+      "id": "VVVwNWNmWkgxU3FweUFMLWtKY1I5RFRRLkZoeUR2WUVWb3I4",
+      "snippet": {
+        "publishedAt": "2020-08-07T14:00:37Z",
+        "channelId": "UCp5cfZH1SqpyAL-kJcR9DTQ",
+        "title": "현이 - 오늘의 밸류 덱 (마법사, 시공간, 신비술사, 암흑의 별, 용병, 우주선, 전투 기계)",
+        "description": "별 수호자 도깨비는\n귀엽고 예뻐요.\n\n\n기획 : 현이\n편집 : 남다\n\n\n#마법사 #시공간 #신비술사 #암흑의별 #용병 #우주선 #전투기계",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FhyDvYEVor8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FhyDvYEVor8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FhyDvYEVor8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FhyDvYEVor8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FhyDvYEVor8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "현이하다",
+        "playlistId": "UUp5cfZH1SqpyAL-kJcR9DTQ",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "FhyDvYEVor8"
+        },
+        "videoOwnerChannelTitle": "현이하다",
+        "videoOwnerChannelId": "UCp5cfZH1SqpyAL-kJcR9DTQ"
+      },
+      "contentDetails": {
+        "videoId": "FhyDvYEVor8",
+        "videoPublishedAt": "2020-08-07T14:00:37Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "X2w31oR2QtvRS15EUTGYwpf45jA",
+      "id": "VVVwNWNmWkgxU3FweUFMLWtKY1I5RFRRLjcxZ0txcXpWbWdn",
+      "snippet": {
+        "publishedAt": "2020-07-31T13:00:19Z",
+        "channelId": "UCp5cfZH1SqpyAL-kJcR9DTQ",
+        "title": "현이 - 인기 많은 미드의 삶 (리신, 말자하, 쉔, 이즈리얼, 자이라)",
+        "description": "친구들과 게임 하니 재밌네요.\n자유 랭크는 사랑입니다.\n\n소환사의 협곡 인기쟁이 현이.\n\n\n기획 : 현이\n편집 : 남다\n\n\nTong Apollo - Lift Off\nhttps://soundcloud.com/tong-apollo\nhttps://tv.naver.com/v/10038992\n\n\n#리신 #말자하 #쉔 #이즈리얼 #자이라",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/71gKqqzVmgg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/71gKqqzVmgg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/71gKqqzVmgg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/71gKqqzVmgg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/71gKqqzVmgg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "현이하다",
+        "playlistId": "UUp5cfZH1SqpyAL-kJcR9DTQ",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "71gKqqzVmgg"
+        },
+        "videoOwnerChannelTitle": "현이하다",
+        "videoOwnerChannelId": "UCp5cfZH1SqpyAL-kJcR9DTQ"
+      },
+      "contentDetails": {
+        "videoId": "71gKqqzVmgg",
+        "videoPublishedAt": "2020-07-31T13:00:19Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "--_nX4aA8s5OqTFzSyWzy_c3bT8",
+      "id": "VVVwNWNmWkgxU3FweUFMLWtKY1I5RFRRLkZUSlNJM3RwbUJF",
+      "snippet": {
+        "publishedAt": "2020-07-24T23:00:29Z",
+        "channelId": "UCp5cfZH1SqpyAL-kJcR9DTQ",
+        "title": "현이 - 임포스터 잡는 방법 (어몽 어스, 크루원, 임포스터)",
+        "description": "누군가의 감성 추리 또한\n답이 될 수 있답니다.\n\n\n기획 : 현이\n편집 : 남다\n\n\n#어몽어스 #크루원 #임포스터",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FTJSI3tpmBE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FTJSI3tpmBE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FTJSI3tpmBE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FTJSI3tpmBE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FTJSI3tpmBE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "현이하다",
+        "playlistId": "UUp5cfZH1SqpyAL-kJcR9DTQ",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "FTJSI3tpmBE"
+        },
+        "videoOwnerChannelTitle": "현이하다",
+        "videoOwnerChannelId": "UCp5cfZH1SqpyAL-kJcR9DTQ"
+      },
+      "contentDetails": {
+        "videoId": "FTJSI3tpmBE",
+        "videoPublishedAt": "2020-07-24T23:00:29Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "FeOTeGjDqKIqXN8i5VPEO5BJgk0",
+      "id": "VVVwNWNmWkgxU3FweUFMLWtKY1I5RFRRLnBTTmZCbnFmOFd3",
+      "snippet": {
+        "publishedAt": "2020-07-16T04:00:20Z",
+        "channelId": "UCp5cfZH1SqpyAL-kJcR9DTQ",
+        "title": "현이 - 그녀의 감 (어몽 어스, 크루원, 임포스터)",
+        "description": "마피아 게임 좋아하세요?\n\n요즘 친구들과 하는 게임인데\n귀여운 판이라 올려봐요.\n\n\n기획 : 현이\n편집 : 남다\n\n\n#어몽어스 #크루원 #임포스터",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pSNfBnqf8Ww/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pSNfBnqf8Ww/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pSNfBnqf8Ww/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pSNfBnqf8Ww/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pSNfBnqf8Ww/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "현이하다",
+        "playlistId": "UUp5cfZH1SqpyAL-kJcR9DTQ",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "pSNfBnqf8Ww"
+        },
+        "videoOwnerChannelTitle": "현이하다",
+        "videoOwnerChannelId": "UCp5cfZH1SqpyAL-kJcR9DTQ"
+      },
+      "contentDetails": {
+        "videoId": "pSNfBnqf8Ww",
+        "videoPublishedAt": "2020-07-16T04:00:20Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2hjxtXHrXT3uSX5GzClYLRJoza0",
+      "id": "VVVwNWNmWkgxU3FweUFMLWtKY1I5RFRRLkdoNy1BVUVab3FF",
+      "snippet": {
+        "publishedAt": "2020-07-08T05:00:03Z",
+        "channelId": "UCp5cfZH1SqpyAL-kJcR9DTQ",
+        "title": "현이 - 우르곳 사랑해 (시공간, 싸움꾼, 잠입자, 전투 기계, 총잡이)",
+        "description": "강등 당하니까 마음이 아파요.\n마스터로 가는 길은 왜 이렇게 어렵나요?\n\n더 열심히 살아야겠어요.\n\n\n기획 : 현이\n편집 : 남다\n\n\n#시공간 #싸움꾼 #잠입자 #전투기계 #총잡이",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Gh7-AUEZoqE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Gh7-AUEZoqE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Gh7-AUEZoqE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Gh7-AUEZoqE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Gh7-AUEZoqE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "현이하다",
+        "playlistId": "UUp5cfZH1SqpyAL-kJcR9DTQ",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Gh7-AUEZoqE"
+        },
+        "videoOwnerChannelTitle": "현이하다",
+        "videoOwnerChannelId": "UCp5cfZH1SqpyAL-kJcR9DTQ"
+      },
+      "contentDetails": {
+        "videoId": "Gh7-AUEZoqE",
+        "videoPublishedAt": "2020-07-08T05:00:03Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fW98_DtxwEGQ43YbrNVlysbCWWw",
+      "id": "VVVwNWNmWkgxU3FweUFMLWtKY1I5RFRRLmNMM0w0dGxWaERj",
+      "snippet": {
+        "publishedAt": "2020-07-01T05:00:10Z",
+        "channelId": "UCp5cfZH1SqpyAL-kJcR9DTQ",
+        "title": "현이 - 강한 럼블이 되는 법 (메카 파일럿, 반군, 잠입자, 폭파광)",
+        "description": "현이가 다시 돌아왔어요.\n오랜만에 놀라셨죠?\n\n게임을 좋아하는 현이와 편집을 좋아하는 남다가\n손을 잡고 유튜브를 함께 하게 되었어요.\n\n기획은 현이가 편집은 남다가 합니다.\n\n일주일에 영상 하나 올리는 게 목표인데\n이번에는 도망가지 않고 잘할 수 있겠죠?\n\n모두 좋은 하루 보내세요.\n\n\n기획 : 현이\n편집 : 남다\n\n\n#메카파일럿 #반군 #잠입자 #폭파광",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cL3L4tlVhDc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cL3L4tlVhDc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cL3L4tlVhDc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cL3L4tlVhDc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cL3L4tlVhDc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "현이하다",
+        "playlistId": "UUp5cfZH1SqpyAL-kJcR9DTQ",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "cL3L4tlVhDc"
+        },
+        "videoOwnerChannelTitle": "현이하다",
+        "videoOwnerChannelId": "UCp5cfZH1SqpyAL-kJcR9DTQ"
+      },
+      "contentDetails": {
+        "videoId": "cL3L4tlVhDc",
+        "videoPublishedAt": "2020-07-01T05:00:10Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "video_details": [
+    {
+      "kind": "youtube#video",
+      "etag": "cZtkU_-K4RFKq9nGffQ429dtz-U",
+      "id": "dIOO0NWlErM",
+      "snippet": {
+        "publishedAt": "2020-10-31T11:00:19Z",
+        "channelId": "UCp5cfZH1SqpyAL-kJcR9DTQ",
+        "title": "현이 - 바텀에서 기도하기 (레넥톤, 모르가나, 사일러스, 진, 헤카림)",
+        "description": "나쁜 말은 안 좋아요.\n\n\n기획 : 현이\n편집 : 남다\n\n\n#레넥톤 #모르가나 #사일러스 #진 #헤카림",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dIOO0NWlErM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dIOO0NWlErM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dIOO0NWlErM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dIOO0NWlErM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dIOO0NWlErM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "현이하다",
+        "tags": [
+          "현이",
+          "일기",
+          "LOL",
+          "리그오브레전드",
+          "롤",
+          "레넥톤",
+          "모르가나",
+          "사일러스",
+          "진",
+          "헤카림"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "현이 - 바텀에서 기도하기 (레넥톤, 모르가나, 사일러스, 진, 헤카림)",
+          "description": "나쁜 말은 안 좋아요.\n\n\n기획 : 현이\n편집 : 남다\n\n\n#레넥톤 #모르가나 #사일러스 #진 #헤카림"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M16S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "622",
+        "likeCount": "13",
+        "favoriteCount": "0",
+        "commentCount": "24"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action_game",
+          "https://en.wikipedia.org/wiki/Role-playing_video_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "현이 - 바텀에서 기도하기 (레넥톤, 모르가나, 사일러스, 진, 헤카림)",
+          "description": "나쁜 말은 안 좋아요.\n\n\n기획 : 현이\n편집 : 남다\n\n\n#레넥톤 #모르가나 #사일러스 #진 #헤카림"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "k1EYfU9ngKURObHyZKNGOuvhNF4",
+      "id": "biEbEgBI1to",
+      "snippet": {
+        "publishedAt": "2020-10-22T11:00:22Z",
+        "channelId": "UCp5cfZH1SqpyAL-kJcR9DTQ",
+        "title": "현이 - 행복한 봇 (리신, 베이가, 블리츠크랭크, 이렐리아, 이즈리얼)",
+        "description": "플래티넘 이즈리얼 장인이랍니다.\n그렇지만 승리는 보장하지 않아요.\n\n\n기획 : 현이\n편집 : 남다\n\n\n#리신 #베이가 #블리츠크랭크 #이렐리아 #이즈리얼",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/biEbEgBI1to/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/biEbEgBI1to/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/biEbEgBI1to/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/biEbEgBI1to/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/biEbEgBI1to/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "현이하다",
+        "tags": [
+          "현이",
+          "일기",
+          "LOL",
+          "리그오브레전드",
+          "롤",
+          "리신",
+          "베이가",
+          "블리츠크랭크",
+          "이렐리아",
+          "이즈리얼"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "현이 - 행복한 봇 (리신, 베이가, 블리츠크랭크, 이렐리아, 이즈리얼)",
+          "description": "플래티넘 이즈리얼 장인이랍니다.\n그렇지만 승리는 보장하지 않아요.\n\n\n기획 : 현이\n편집 : 남다\n\n\n#리신 #베이가 #블리츠크랭크 #이렐리아 #이즈리얼"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M28S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "425",
+        "likeCount": "12",
+        "favoriteCount": "0",
+        "commentCount": "28"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action_game",
+          "https://en.wikipedia.org/wiki/Role-playing_video_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "현이 - 행복한 봇 (리신, 베이가, 블리츠크랭크, 이렐리아, 이즈리얼)",
+          "description": "플래티넘 이즈리얼 장인이랍니다.\n그렇지만 승리는 보장하지 않아요.\n\n\n기획 : 현이\n편집 : 남다\n\n\n#리신 #베이가 #블리츠크랭크 #이렐리아 #이즈리얼"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "QEA7AzRncuS0o-to3wR1X0edo_U",
+      "id": "SPw-u6kyTTg",
+      "snippet": {
+        "publishedAt": "2020-10-15T09:00:05Z",
+        "channelId": "UCp5cfZH1SqpyAL-kJcR9DTQ",
+        "title": "현이 - 신비로운 유성 아리 (가렌, 리신, 아리, 칼리스타, 탈리야)",
+        "description": "선선한 가을이 왔네요.\n날씨가 추워졌어요.\n\n감기 조심하고 건강 챙기세요.\n\n\n기획 : 현이\n편집 : 남다\n\n\n#가렌 #리신 #아리 #칼리스타 #탈리야",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SPw-u6kyTTg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SPw-u6kyTTg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SPw-u6kyTTg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SPw-u6kyTTg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SPw-u6kyTTg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "현이하다",
+        "tags": [
+          "현이",
+          "일기",
+          "LOL",
+          "리그 오브 레전드",
+          "롤",
+          "가렌",
+          "리신",
+          "아리",
+          "칼리스타",
+          "탈리야"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "현이 - 신비로운 유성 아리 (가렌, 리신, 아리, 칼리스타, 탈리야)",
+          "description": "선선한 가을이 왔네요.\n날씨가 추워졌어요.\n\n감기 조심하고 건강 챙기세요.\n\n\n기획 : 현이\n편집 : 남다\n\n\n#가렌 #리신 #아리 #칼리스타 #탈리야"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M3S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "613",
+        "likeCount": "16",
+        "favoriteCount": "0",
+        "commentCount": "33"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action_game",
+          "https://en.wikipedia.org/wiki/Role-playing_video_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "현이 - 신비로운 유성 아리 (가렌, 리신, 아리, 칼리스타, 탈리야)",
+          "description": "선선한 가을이 왔네요.\n날씨가 추워졌어요.\n\n감기 조심하고 건강 챙기세요.\n\n\n기획 : 현이\n편집 : 남다\n\n\n#가렌 #리신 #아리 #칼리스타 #탈리야"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "4VIz9PzLj_0h67dlXbWIxFYPANU",
+      "id": "i2QAH7JUTBw",
+      "snippet": {
+        "publishedAt": "2020-10-09T13:00:17Z",
+        "channelId": "UCp5cfZH1SqpyAL-kJcR9DTQ",
+        "title": "현이 - 양아치 신드라 (녹턴, 브라움, 신드라, 케이틀린, 헤카림)",
+        "description": "언제나 부끄러운 목소리.\n\n\n기획 : 현이\n편집 : 남다\n\n\n#녹턴 #브라움 #신드라 #케이틀린 #헤카림",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/i2QAH7JUTBw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/i2QAH7JUTBw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/i2QAH7JUTBw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/i2QAH7JUTBw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/i2QAH7JUTBw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "현이하다",
+        "tags": [
+          "현이",
+          "일기",
+          "LOL",
+          "리그오브레전드",
+          "롤",
+          "녹턴",
+          "브라움",
+          "신드라",
+          "케이틀린",
+          "헤카림"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "현이 - 양아치 신드라 (녹턴, 브라움, 신드라, 케이틀린, 헤카림)",
+          "description": "언제나 부끄러운 목소리.\n\n\n기획 : 현이\n편집 : 남다\n\n\n#녹턴 #브라움 #신드라 #케이틀린 #헤카림"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M13S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "705",
+        "likeCount": "11",
+        "favoriteCount": "0",
+        "commentCount": "27"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action_game",
+          "https://en.wikipedia.org/wiki/Role-playing_video_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "현이 - 양아치 신드라 (녹턴, 브라움, 신드라, 케이틀린, 헤카림)",
+          "description": "언제나 부끄러운 목소리.\n\n\n기획 : 현이\n편집 : 남다\n\n\n#녹턴 #브라움 #신드라 #케이틀린 #헤카림"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "haNpJXkfBy7Qn-Sm66QPOumgM_8",
+      "id": "ABvX3EPsYPE",
+      "snippet": {
+        "publishedAt": "2020-09-21T11:00:45Z",
+        "channelId": "UCp5cfZH1SqpyAL-kJcR9DTQ",
+        "title": "현이 - 역전 재판 (어몽 어스, 크루원, 임포스터)",
+        "description": "추리는 안 하고 막고라만 하는 파티.\n어몽 어스에서 역전 재판하고 왔습니다.\n\n\n기획 : 현이\n편집 : 남다\n\n\n#어몽어스 #크루원 #임포스터",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ABvX3EPsYPE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ABvX3EPsYPE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ABvX3EPsYPE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ABvX3EPsYPE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ABvX3EPsYPE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "현이하다",
+        "tags": [
+          "현이",
+          "일기",
+          "amongus",
+          "어몽어스",
+          "마피아",
+          "크루원",
+          "임포스터"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "현이 - 역전 재판 (어몽 어스, 크루원, 임포스터)",
+          "description": "추리는 안 하고 막고라만 하는 파티.\n어몽 어스에서 역전 재판하고 왔습니다.\n\n\n기획 : 현이\n편집 : 남다\n\n\n#어몽어스 #크루원 #임포스터"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT6M19S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1489",
+        "likeCount": "27",
+        "favoriteCount": "0",
+        "commentCount": "37"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Casual_game",
+          "https://en.wikipedia.org/wiki/Role-playing_video_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "현이 - 역전 재판 (어몽 어스, 크루원, 임포스터)",
+          "description": "추리는 안 하고 막고라만 하는 파티.\n어몽 어스에서 역전 재판하고 왔습니다.\n\n\n기획 : 현이\n편집 : 남다\n\n\n#어몽어스 #크루원 #임포스터"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "3dY-YdhmMxa30rJGw7Vu_yc7noU",
+      "id": "IymnbHf_Jgc",
+      "snippet": {
+        "publishedAt": "2020-09-09T12:00:22Z",
+        "channelId": "UCp5cfZH1SqpyAL-kJcR9DTQ",
+        "title": "현이 - 임포스터 꿀팁 (어몽 어스, 크루원, 임포스터)",
+        "description": "주관적인 임포스터 팁이에요.\n도움이 되기를 바라요.\n\n\n기획 : 현이\n편집 : 남다\n\n\n#어몽어스 #크루원 #임포스터",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IymnbHf_Jgc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IymnbHf_Jgc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IymnbHf_Jgc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IymnbHf_Jgc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IymnbHf_Jgc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "현이하다",
+        "tags": [
+          "현이",
+          "일기",
+          "amongus",
+          "어몽어스",
+          "마피아",
+          "크루원",
+          "임포스터"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "현이 - 임포스터 꿀팁 (어몽 어스, 크루원, 임포스터)",
+          "description": "주관적인 임포스터 팁이에요.\n도움이 되기를 바라요.\n\n\n기획 : 현이\n편집 : 남다\n\n\n#어몽어스 #크루원 #임포스터"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT4M52S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1103",
+        "likeCount": "15",
+        "favoriteCount": "0",
+        "commentCount": "40"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Casual_game",
+          "https://en.wikipedia.org/wiki/Role-playing_video_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "현이 - 임포스터 꿀팁 (어몽 어스, 크루원, 임포스터)",
+          "description": "주관적인 임포스터 팁이에요.\n도움이 되기를 바라요.\n\n\n기획 : 현이\n편집 : 남다\n\n\n#어몽어스 #크루원 #임포스터"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ObXc-jGho2gqI2Ic2P325wWa8h8",
+      "id": "ghKSn5XtSks",
+      "snippet": {
+        "publishedAt": "2020-09-02T10:00:26Z",
+        "channelId": "UCp5cfZH1SqpyAL-kJcR9DTQ",
+        "title": "현이 - 돌고 도는 꼬리잡기 (폴 가이즈, 파티, 서바이벌)",
+        "description": "왕관 하나 없는 바보 자매.\n\n\n기획 : 현이\n편집 : 남다\n\n\n#폴가이즈 #파티 #서바이벌",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ghKSn5XtSks/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ghKSn5XtSks/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ghKSn5XtSks/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ghKSn5XtSks/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ghKSn5XtSks/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "현이하다",
+        "tags": [
+          "현이",
+          "일기",
+          "fallguys",
+          "폴가이즈",
+          "파티",
+          "서바이벌"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "현이 - 돌고 도는 꼬리잡기 (폴 가이즈, 파티, 서바이벌)",
+          "description": "왕관 하나 없는 바보 자매.\n\n\n기획 : 현이\n편집 : 남다\n\n\n#폴가이즈 #파티 #서바이벌"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT4M7S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "831",
+        "likeCount": "14",
+        "favoriteCount": "0",
+        "commentCount": "29"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action-adventure_game",
+          "https://en.wikipedia.org/wiki/Action_game",
+          "https://en.wikipedia.org/wiki/Casual_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "현이 - 돌고 도는 꼬리잡기 (폴 가이즈, 파티, 서바이벌)",
+          "description": "왕관 하나 없는 바보 자매.\n\n\n기획 : 현이\n편집 : 남다\n\n\n#폴가이즈 #파티 #서바이벌"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ZWtdJSf-5mtD6Hey2MfZvF63bQ0",
+      "id": "NZZDXUfHhOg",
+      "snippet": {
+        "publishedAt": "2020-08-22T03:00:28Z",
+        "channelId": "UCp5cfZH1SqpyAL-kJcR9DTQ",
+        "title": "현이 - 바보 자매 등장 (폴 가이즈, 파티, 서바이벌)",
+        "description": "유튜브를 다시 시작한 지\n벌써 두 달이나 흘렀네요.\n\n\n기획 : 현이\n편집 : 남다\n\n\n#폴가이즈 #파티 #서바이벌",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NZZDXUfHhOg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NZZDXUfHhOg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NZZDXUfHhOg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NZZDXUfHhOg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NZZDXUfHhOg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "현이하다",
+        "tags": [
+          "현이",
+          "일기",
+          "fallguys",
+          "폴가이즈",
+          "파티",
+          "서바이벌"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "현이 - 바보 자매 등장 (폴 가이즈, 파티, 서바이벌)",
+          "description": "유튜브를 다시 시작한 지\n벌써 두 달이나 흘렀네요.\n\n\n기획 : 현이\n편집 : 남다\n\n\n#폴가이즈 #파티 #서바이벌"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT4M25S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1179",
+        "likeCount": "15",
+        "favoriteCount": "0",
+        "commentCount": "32"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action-adventure_game",
+          "https://en.wikipedia.org/wiki/Action_game",
+          "https://en.wikipedia.org/wiki/Casual_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "현이 - 바보 자매 등장 (폴 가이즈, 파티, 서바이벌)",
+          "description": "유튜브를 다시 시작한 지\n벌써 두 달이나 흘렀네요.\n\n\n기획 : 현이\n편집 : 남다\n\n\n#폴가이즈 #파티 #서바이벌"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "e_Wb_wXSNTfld5eYx47AI1ES8E4",
+      "id": "-TdaBQBYaec",
+      "snippet": {
+        "publishedAt": "2020-08-18T11:00:16Z",
+        "channelId": "UCp5cfZH1SqpyAL-kJcR9DTQ",
+        "title": "현이 - 격전하고 친구 손절하는 이유 (라칸, 세나, 아무무, 에코, 헤카림)",
+        "description": "아무무는 외로워요.\n\n\n기획 : 현이\n편집 : 남다\n\n\n#라칸 #세나 #아무무 #에코 #헤카림",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-TdaBQBYaec/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-TdaBQBYaec/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-TdaBQBYaec/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-TdaBQBYaec/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-TdaBQBYaec/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "현이하다",
+        "tags": [
+          "현이",
+          "일기",
+          "LOL",
+          "리그오브레전드",
+          "롤",
+          "라칸",
+          "세나",
+          "아무무",
+          "에코",
+          "헤카림"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "현이 - 격전하고 친구 손절하는 이유 (라칸, 세나, 아무무, 에코, 헤카림)",
+          "description": "아무무는 외로워요.\n\n\n기획 : 현이\n편집 : 남다\n\n\n#라칸 #세나 #아무무 #에코 #헤카림"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT8M53S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1277",
+        "likeCount": "23",
+        "favoriteCount": "0",
+        "commentCount": "40"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "현이 - 격전하고 친구 손절하는 이유 (라칸, 세나, 아무무, 에코, 헤카림)",
+          "description": "아무무는 외로워요.\n\n\n기획 : 현이\n편집 : 남다\n\n\n#라칸 #세나 #아무무 #에코 #헤카림"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "X2xZq4UNsvxoHECmiWbX41Etg08",
+      "id": "FhyDvYEVor8",
+      "snippet": {
+        "publishedAt": "2020-08-07T14:00:37Z",
+        "channelId": "UCp5cfZH1SqpyAL-kJcR9DTQ",
+        "title": "현이 - 오늘의 밸류 덱 (마법사, 시공간, 신비술사, 암흑의 별, 용병, 우주선, 전투 기계)",
+        "description": "별 수호자 도깨비는\n귀엽고 예뻐요.\n\n\n기획 : 현이\n편집 : 남다\n\n\n#마법사 #시공간 #신비술사 #암흑의별 #용병 #우주선 #전투기계",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FhyDvYEVor8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FhyDvYEVor8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FhyDvYEVor8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FhyDvYEVor8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FhyDvYEVor8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "현이하다",
+        "tags": [
+          "현이",
+          "일기",
+          "TFT",
+          "전략적팀전투",
+          "롤토체스",
+          "마법사",
+          "시공간",
+          "신비술사",
+          "암흑의별",
+          "용병",
+          "우주선",
+          "전투기계"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "현이 - 오늘의 밸류 덱 (마법사, 시공간, 신비술사, 암흑의 별, 용병, 우주선, 전투 기계)",
+          "description": "별 수호자 도깨비는\n귀엽고 예뻐요.\n\n\n기획 : 현이\n편집 : 남다\n\n\n#마법사 #시공간 #신비술사 #암흑의별 #용병 #우주선 #전투기계"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT5M17S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1186",
+        "likeCount": "16",
+        "favoriteCount": "0",
+        "commentCount": "28"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action_game",
+          "https://en.wikipedia.org/wiki/Strategy_video_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "현이 - 오늘의 밸류 덱 (마법사, 시공간, 신비술사, 암흑의 별, 용병, 우주선, 전투 기계)",
+          "description": "별 수호자 도깨비는\n귀엽고 예뻐요.\n\n\n기획 : 현이\n편집 : 남다\n\n\n#마법사 #시공간 #신비술사 #암흑의별 #용병 #우주선 #전투기계"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "xKzukygG15GYNivghy_Lb799o4s",
+      "id": "71gKqqzVmgg",
+      "snippet": {
+        "publishedAt": "2020-07-31T13:00:19Z",
+        "channelId": "UCp5cfZH1SqpyAL-kJcR9DTQ",
+        "title": "현이 - 인기 많은 미드의 삶 (리신, 말자하, 쉔, 이즈리얼, 자이라)",
+        "description": "친구들과 게임 하니 재밌네요.\n자유 랭크는 사랑입니다.\n\n소환사의 협곡 인기쟁이 현이.\n\n\n기획 : 현이\n편집 : 남다\n\n\nTong Apollo - Lift Off\nhttps://soundcloud.com/tong-apollo\nhttps://tv.naver.com/v/10038992\n\n\n#리신 #말자하 #쉔 #이즈리얼 #자이라",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/71gKqqzVmgg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/71gKqqzVmgg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/71gKqqzVmgg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/71gKqqzVmgg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/71gKqqzVmgg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "현이하다",
+        "tags": [
+          "현이",
+          "일기",
+          "LOL",
+          "리그오브레전드",
+          "롤",
+          "리신",
+          "말자하",
+          "쉔",
+          "이즈리얼",
+          "자이라"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "현이 - 인기 많은 미드의 삶 (리신, 말자하, 쉔, 이즈리얼, 자이라)",
+          "description": "친구들과 게임 하니 재밌네요.\n자유 랭크는 사랑입니다.\n\n소환사의 협곡 인기쟁이 현이.\n\n\n기획 : 현이\n편집 : 남다\n\n\nTong Apollo - Lift Off\nhttps://soundcloud.com/tong-apollo\nhttps://tv.naver.com/v/10038992\n\n\n#리신 #말자하 #쉔 #이즈리얼 #자이라"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT6M36S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1527",
+        "likeCount": "23",
+        "favoriteCount": "0",
+        "commentCount": "40"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action_game",
+          "https://en.wikipedia.org/wiki/Role-playing_video_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "현이 - 인기 많은 미드의 삶 (리신, 말자하, 쉔, 이즈리얼, 자이라)",
+          "description": "친구들과 게임 하니 재밌네요.\n자유 랭크는 사랑입니다.\n\n소환사의 협곡 인기쟁이 현이.\n\n\n기획 : 현이\n편집 : 남다\n\n\nTong Apollo - Lift Off\nhttps://soundcloud.com/tong-apollo\nhttps://tv.naver.com/v/10038992\n\n\n#리신 #말자하 #쉔 #이즈리얼 #자이라"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "wbBWjH4wDltn6gf20MxAaFe4tcw",
+      "id": "FTJSI3tpmBE",
+      "snippet": {
+        "publishedAt": "2020-07-24T23:00:29Z",
+        "channelId": "UCp5cfZH1SqpyAL-kJcR9DTQ",
+        "title": "현이 - 임포스터 잡는 방법 (어몽 어스, 크루원, 임포스터)",
+        "description": "누군가의 감성 추리 또한\n답이 될 수 있답니다.\n\n\n기획 : 현이\n편집 : 남다\n\n\n#어몽어스 #크루원 #임포스터",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FTJSI3tpmBE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FTJSI3tpmBE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FTJSI3tpmBE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FTJSI3tpmBE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FTJSI3tpmBE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "현이하다",
+        "tags": [
+          "현이",
+          "일기",
+          "amongus",
+          "어몽어스",
+          "마피아",
+          "크루원",
+          "임포스터"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "현이 - 임포스터 잡는 방법 (어몽 어스, 크루원, 임포스터)",
+          "description": "누군가의 감성 추리 또한\n답이 될 수 있답니다.\n\n\n기획 : 현이\n편집 : 남다\n\n\n#어몽어스 #크루원 #임포스터"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT5M26S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "6266",
+        "likeCount": "60",
+        "favoriteCount": "0",
+        "commentCount": "56"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Casual_game",
+          "https://en.wikipedia.org/wiki/Role-playing_video_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "현이 - 임포스터 잡는 방법 (어몽 어스, 크루원, 임포스터)",
+          "description": "누군가의 감성 추리 또한\n답이 될 수 있답니다.\n\n\n기획 : 현이\n편집 : 남다\n\n\n#어몽어스 #크루원 #임포스터"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "osklfKw1b01pWYd3CUnTpdiiZzE",
+      "id": "pSNfBnqf8Ww",
+      "snippet": {
+        "publishedAt": "2020-07-16T04:00:20Z",
+        "channelId": "UCp5cfZH1SqpyAL-kJcR9DTQ",
+        "title": "현이 - 그녀의 감 (어몽 어스, 크루원, 임포스터)",
+        "description": "마피아 게임 좋아하세요?\n\n요즘 친구들과 하는 게임인데\n귀여운 판이라 올려봐요.\n\n\n기획 : 현이\n편집 : 남다\n\n\n#어몽어스 #크루원 #임포스터",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pSNfBnqf8Ww/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pSNfBnqf8Ww/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pSNfBnqf8Ww/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pSNfBnqf8Ww/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pSNfBnqf8Ww/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "현이하다",
+        "tags": [
+          "현이",
+          "일기",
+          "amongus",
+          "어몽어스",
+          "마피아",
+          "크루원",
+          "임포스터"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "현이 - 그녀의 감 (어몽 어스, 크루원, 임포스터)",
+          "description": "마피아 게임 좋아하세요?\n\n요즘 친구들과 하는 게임인데\n귀여운 판이라 올려봐요.\n\n\n기획 : 현이\n편집 : 남다\n\n\n#어몽어스 #크루원 #임포스터"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT5M13S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "2073",
+        "likeCount": "30",
+        "favoriteCount": "0",
+        "commentCount": "38"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Casual_game",
+          "https://en.wikipedia.org/wiki/Role-playing_video_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "현이 - 그녀의 감 (어몽 어스, 크루원, 임포스터)",
+          "description": "마피아 게임 좋아하세요?\n\n요즘 친구들과 하는 게임인데\n귀여운 판이라 올려봐요.\n\n\n기획 : 현이\n편집 : 남다\n\n\n#어몽어스 #크루원 #임포스터"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "3k_uV2d7nmvhq4We-nsAPgNLsk0",
+      "id": "Gh7-AUEZoqE",
+      "snippet": {
+        "publishedAt": "2020-07-08T05:00:03Z",
+        "channelId": "UCp5cfZH1SqpyAL-kJcR9DTQ",
+        "title": "현이 - 우르곳 사랑해 (시공간, 싸움꾼, 잠입자, 전투 기계, 총잡이)",
+        "description": "강등 당하니까 마음이 아파요.\n마스터로 가는 길은 왜 이렇게 어렵나요?\n\n더 열심히 살아야겠어요.\n\n\n기획 : 현이\n편집 : 남다\n\n\n#시공간 #싸움꾼 #잠입자 #전투기계 #총잡이",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Gh7-AUEZoqE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Gh7-AUEZoqE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Gh7-AUEZoqE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Gh7-AUEZoqE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Gh7-AUEZoqE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "현이하다",
+        "tags": [
+          "현이",
+          "일기",
+          "TFT",
+          "전략적팀전투",
+          "롤토체스",
+          "시공간",
+          "싸움꾼",
+          "잠입자",
+          "전투기계",
+          "총잡이"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "현이 - 우르곳 사랑해 (시공간, 싸움꾼, 잠입자, 전투 기계, 총잡이)",
+          "description": "강등 당하니까 마음이 아파요.\n마스터로 가는 길은 왜 이렇게 어렵나요?\n\n더 열심히 살아야겠어요.\n\n\n기획 : 현이\n편집 : 남다\n\n\n#시공간 #싸움꾼 #잠입자 #전투기계 #총잡이"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT6M11S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1570",
+        "likeCount": "26",
+        "favoriteCount": "0",
+        "commentCount": "55"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Role-playing_video_game",
+          "https://en.wikipedia.org/wiki/Strategy_video_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "현이 - 우르곳 사랑해 (시공간, 싸움꾼, 잠입자, 전투 기계, 총잡이)",
+          "description": "강등 당하니까 마음이 아파요.\n마스터로 가는 길은 왜 이렇게 어렵나요?\n\n더 열심히 살아야겠어요.\n\n\n기획 : 현이\n편집 : 남다\n\n\n#시공간 #싸움꾼 #잠입자 #전투기계 #총잡이"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "cAbfjD-EDBbWC5ZT8hcQgIplDqo",
+      "id": "cL3L4tlVhDc",
+      "snippet": {
+        "publishedAt": "2020-07-01T05:00:10Z",
+        "channelId": "UCp5cfZH1SqpyAL-kJcR9DTQ",
+        "title": "현이 - 강한 럼블이 되는 법 (메카 파일럿, 반군, 잠입자, 폭파광)",
+        "description": "현이가 다시 돌아왔어요.\n오랜만에 놀라셨죠?\n\n게임을 좋아하는 현이와 편집을 좋아하는 남다가\n손을 잡고 유튜브를 함께 하게 되었어요.\n\n기획은 현이가 편집은 남다가 합니다.\n\n일주일에 영상 하나 올리는 게 목표인데\n이번에는 도망가지 않고 잘할 수 있겠죠?\n\n모두 좋은 하루 보내세요.\n\n\n기획 : 현이\n편집 : 남다\n\n\n#메카파일럿 #반군 #잠입자 #폭파광",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cL3L4tlVhDc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cL3L4tlVhDc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cL3L4tlVhDc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cL3L4tlVhDc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cL3L4tlVhDc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "현이하다",
+        "tags": [
+          "현이",
+          "일기",
+          "TFT",
+          "전략적팀전투",
+          "롤토체스",
+          "메카파일럿",
+          "반군",
+          "잠입자",
+          "폭파광"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "현이 - 강한 럼블이 되는 법 (메카 파일럿, 반군, 잠입자, 폭파광)",
+          "description": "현이가 다시 돌아왔어요.\n오랜만에 놀라셨죠?\n\n게임을 좋아하는 현이와 편집을 좋아하는 남다가\n손을 잡고 유튜브를 함께 하게 되었어요.\n\n기획은 현이가 편집은 남다가 합니다.\n\n일주일에 영상 하나 올리는 게 목표인데\n이번에는 도망가지 않고 잘할 수 있겠죠?\n\n모두 좋은 하루 보내세요.\n\n\n기획 : 현이\n편집 : 남다\n\n\n#메카파일럿 #반군 #잠입자 #폭파광"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT8M57S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "2174",
+        "likeCount": "29",
+        "favoriteCount": "0",
+        "commentCount": "65"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action_game",
+          "https://en.wikipedia.org/wiki/Strategy_video_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "현이 - 강한 럼블이 되는 법 (메카 파일럿, 반군, 잠입자, 폭파광)",
+          "description": "현이가 다시 돌아왔어요.\n오랜만에 놀라셨죠?\n\n게임을 좋아하는 현이와 편집을 좋아하는 남다가\n손을 잡고 유튜브를 함께 하게 되었어요.\n\n기획은 현이가 편집은 남다가 합니다.\n\n일주일에 영상 하나 올리는 게 목표인데\n이번에는 도망가지 않고 잘할 수 있겠죠?\n\n모두 좋은 하루 보내세요.\n\n\n기획 : 현이\n편집 : 남다\n\n\n#메카파일럿 #반군 #잠입자 #폭파광"
+        }
+      }
+    }
+  ]
+}

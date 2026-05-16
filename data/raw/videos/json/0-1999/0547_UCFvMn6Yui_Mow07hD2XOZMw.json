@@ -1,0 +1,281 @@
+{
+  "idx": 547,
+  "channel_id": "UCFvMn6Yui_Mow07hD2XOZMw",
+  "channel_title": "에스티 라이프",
+  "playlist_items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "XecYzwLt8Ba6YAmnLXJgLi3BRDo",
+      "id": "VVVGdk1uNll1aV9Nb3cwN2hEMlhPWk13LnRBWXZZeHdJRF80",
+      "snippet": {
+        "publishedAt": "2024-11-19T03:53:34Z",
+        "channelId": "UCFvMn6Yui_Mow07hD2XOZMw",
+        "title": "첫 영상..길거리 굴포천역",
+        "description": "길거리 굴포천역",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tAYvYxwID_4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tAYvYxwID_4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tAYvYxwID_4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tAYvYxwID_4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tAYvYxwID_4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "에스티 라이프",
+        "playlistId": "UUFvMn6Yui_Mow07hD2XOZMw",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "tAYvYxwID_4"
+        },
+        "videoOwnerChannelTitle": "에스티 라이프",
+        "videoOwnerChannelId": "UCFvMn6Yui_Mow07hD2XOZMw"
+      },
+      "contentDetails": {
+        "videoId": "tAYvYxwID_4",
+        "videoPublishedAt": "2024-11-19T03:53:34Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "VXHIYlP5YqGUPFEmqdYq4vFFu68",
+      "id": "VVVGdk1uNll1aV9Nb3cwN2hEMlhPWk13Lml0allramItR3JF",
+      "snippet": {
+        "publishedAt": "2020-01-05T02:16:08Z",
+        "channelId": "UCFvMn6Yui_Mow07hD2XOZMw",
+        "title": "휴식맨TV [Resting man]님의 실시간 스트리밍",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/itjYkjb-GrE/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/itjYkjb-GrE/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/itjYkjb-GrE/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/itjYkjb-GrE/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/itjYkjb-GrE/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "에스티 라이프",
+        "playlistId": "UUFvMn6Yui_Mow07hD2XOZMw",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "itjYkjb-GrE"
+        },
+        "videoOwnerChannelTitle": "에스티 라이프",
+        "videoOwnerChannelId": "UCFvMn6Yui_Mow07hD2XOZMw"
+      },
+      "contentDetails": {
+        "videoId": "itjYkjb-GrE",
+        "videoPublishedAt": "2020-01-05T02:16:08Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "video_details": [
+    {
+      "kind": "youtube#video",
+      "etag": "OMIhPEn5CjfMhuRHZSZPDXVIynk",
+      "id": "tAYvYxwID_4",
+      "snippet": {
+        "publishedAt": "2024-11-19T03:53:34Z",
+        "channelId": "UCFvMn6Yui_Mow07hD2XOZMw",
+        "title": "첫 영상..길거리 굴포천역",
+        "description": "길거리 굴포천역",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tAYvYxwID_4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tAYvYxwID_4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tAYvYxwID_4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tAYvYxwID_4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tAYvYxwID_4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "에스티 라이프",
+        "tags": [
+          "travel",
+          "휴식",
+          "여행",
+          "조용한여행",
+          "힐링",
+          "조용한여행지",
+          "trip",
+          "rest"
+        ],
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "첫 영상..길거리 굴포천역",
+          "description": "길거리 굴포천역"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT46S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "96",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "첫 영상..길거리 굴포천역",
+          "description": "길거리 굴포천역"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "D7NIuY6C6v5m3G72juwzr5YhZS0",
+      "id": "itjYkjb-GrE",
+      "snippet": {
+        "publishedAt": "2020-01-05T02:16:08Z",
+        "channelId": "UCFvMn6Yui_Mow07hD2XOZMw",
+        "title": "휴식맨TV [Resting man]님의 실시간 스트리밍",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/itjYkjb-GrE/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/itjYkjb-GrE/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/itjYkjb-GrE/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/itjYkjb-GrE/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/itjYkjb-GrE/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "에스티 라이프",
+        "categoryId": "19",
+        "liveBroadcastContent": "upcoming",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "휴식맨TV [Resting man]님의 실시간 스트리밍",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "P0D",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "uploaded",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "0",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "휴식맨TV [Resting man]님의 실시간 스트리밍",
+          "description": ""
+        }
+      }
+    }
+  ]
+}

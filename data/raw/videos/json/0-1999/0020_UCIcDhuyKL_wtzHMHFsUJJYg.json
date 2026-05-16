@@ -1,0 +1,689 @@
+{
+  "idx": 20,
+  "channel_id": "UCIcDhuyKL_wtzHMHFsUJJYg",
+  "channel_title": "okjoo song",
+  "playlist_items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "dGKYjBo7UGbD7xcC-_GHkbsv9vk",
+      "id": "VVVJY0RodXlLTF93dHpITUhGc1VKSllnLjVockZTS1NVaHpJ",
+      "snippet": {
+        "publishedAt": "2019-05-31T04:38:13Z",
+        "channelId": "UCIcDhuyKL_wtzHMHFsUJJYg",
+        "title": "OK 송옥주, 1095일의 의정활동",
+        "description": "[국회의원 송옥주]\nOK 송옥주, 1095일의 의정활동",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5hrFSKSUhzI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5hrFSKSUhzI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5hrFSKSUhzI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5hrFSKSUhzI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5hrFSKSUhzI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "okjoo song",
+        "playlistId": "UUIcDhuyKL_wtzHMHFsUJJYg",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "5hrFSKSUhzI"
+        },
+        "videoOwnerChannelTitle": "okjoo song",
+        "videoOwnerChannelId": "UCIcDhuyKL_wtzHMHFsUJJYg"
+      },
+      "contentDetails": {
+        "videoId": "5hrFSKSUhzI",
+        "videoPublishedAt": "2019-05-31T04:38:13Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "pWFqrJQWRTD9N1WgF-l6gLhAOls",
+      "id": "VVVJY0RodXlLTF93dHpITUhGc1VKSllnLkRBNF9pcE9tYVZj",
+      "snippet": {
+        "publishedAt": "2019-03-19T07:05:12Z",
+        "channelId": "UCIcDhuyKL_wtzHMHFsUJJYg",
+        "title": "[수원방송] \"대담한 만남\" LIVE 녹화현장 - 국회의원 송옥주",
+        "description": "2019년 3월 18일(월) 오후 3시 30분 \n수원방송 \"대담한 만남\" LIVE 녹화현장 \n국회의원 송옥주",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DA4_ipOmaVc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DA4_ipOmaVc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DA4_ipOmaVc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DA4_ipOmaVc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "okjoo song",
+        "playlistId": "UUIcDhuyKL_wtzHMHFsUJJYg",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "DA4_ipOmaVc"
+        },
+        "videoOwnerChannelTitle": "okjoo song",
+        "videoOwnerChannelId": "UCIcDhuyKL_wtzHMHFsUJJYg"
+      },
+      "contentDetails": {
+        "videoId": "DA4_ipOmaVc",
+        "videoPublishedAt": "2019-03-19T07:05:12Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "L7gbRLcM8pTBv558HEw4GEqVE4A",
+      "id": "VVVJY0RodXlLTF93dHpITUhGc1VKSllnLkt6RFZhbGJES240",
+      "snippet": {
+        "publishedAt": "2017-05-29T07:40:05Z",
+        "channelId": "UCIcDhuyKL_wtzHMHFsUJJYg",
+        "title": "의정활동 1년,  인사 전하는 송옥주 의원",
+        "description": "설렘과 희망의 1년을 되돌아 보았습니다. \n응원과 격려에 감사의 인사 드립니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KzDValbDKn4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KzDValbDKn4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KzDValbDKn4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KzDValbDKn4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KzDValbDKn4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "okjoo song",
+        "playlistId": "UUIcDhuyKL_wtzHMHFsUJJYg",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KzDValbDKn4"
+        },
+        "videoOwnerChannelTitle": "okjoo song",
+        "videoOwnerChannelId": "UCIcDhuyKL_wtzHMHFsUJJYg"
+      },
+      "contentDetails": {
+        "videoId": "KzDValbDKn4",
+        "videoPublishedAt": "2017-05-29T07:40:05Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "qdPsAVtDs-ndDHkKEm9pOfApSRU",
+      "id": "VVVJY0RodXlLTF93dHpITUhGc1VKSllnLkZONC1DOUg4U3RZ",
+      "snippet": {
+        "publishedAt": "2017-05-29T06:30:19Z",
+        "channelId": "UCIcDhuyKL_wtzHMHFsUJJYg",
+        "title": "[OBS파워인터뷰] 더불어민주당 송옥주의원",
+        "description": "[OBS파워인터뷰] 더불어민주당 송옥주의원",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FN4-C9H8StY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FN4-C9H8StY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FN4-C9H8StY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FN4-C9H8StY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "okjoo song",
+        "playlistId": "UUIcDhuyKL_wtzHMHFsUJJYg",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "FN4-C9H8StY"
+        },
+        "videoOwnerChannelTitle": "okjoo song",
+        "videoOwnerChannelId": "UCIcDhuyKL_wtzHMHFsUJJYg"
+      },
+      "contentDetails": {
+        "videoId": "FN4-C9H8StY",
+        "videoPublishedAt": "2017-05-29T06:30:19Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "m7DjAhp5ZqBdVF0xuwGA6fLPuuw",
+      "id": "VVVJY0RodXlLTF93dHpITUhGc1VKSllnLlBzLWU1cXZIZVdB",
+      "snippet": {
+        "publishedAt": "2016-12-23T09:31:56Z",
+        "channelId": "UCIcDhuyKL_wtzHMHFsUJJYg",
+        "title": "VAP송옥주 의원 더불어민주당 NATV 300인의 희망인터뷰",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ps-e5qvHeWA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ps-e5qvHeWA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ps-e5qvHeWA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ps-e5qvHeWA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Ps-e5qvHeWA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "okjoo song",
+        "playlistId": "UUIcDhuyKL_wtzHMHFsUJJYg",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Ps-e5qvHeWA"
+        },
+        "videoOwnerChannelTitle": "okjoo song",
+        "videoOwnerChannelId": "UCIcDhuyKL_wtzHMHFsUJJYg"
+      },
+      "contentDetails": {
+        "videoId": "Ps-e5qvHeWA",
+        "videoPublishedAt": "2016-12-23T09:31:56Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "video_details": [
+    {
+      "kind": "youtube#video",
+      "etag": "bKFkLEL9JMfNBq5fd0UFXPksfeE",
+      "id": "5hrFSKSUhzI",
+      "snippet": {
+        "publishedAt": "2019-05-31T04:38:13Z",
+        "channelId": "UCIcDhuyKL_wtzHMHFsUJJYg",
+        "title": "OK 송옥주, 1095일의 의정활동",
+        "description": "[국회의원 송옥주]\nOK 송옥주, 1095일의 의정활동",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5hrFSKSUhzI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5hrFSKSUhzI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5hrFSKSUhzI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5hrFSKSUhzI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5hrFSKSUhzI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "okjoo song",
+        "tags": [
+          "#송옥주",
+          "#화성출신국회의원",
+          "#국회의원송옥주",
+          "#국회환경노동위원회",
+          "#미세먼지해결사",
+          "#을의눈물닦는",
+          "#OK송옥주",
+          "#의정활동",
+          "#1095일",
+          "#경기도화성",
+          "#홍보동영상",
+          "#3주년",
+          "#송옥주TV"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "OK 송옥주, 1095일의 의정활동",
+          "description": "[국회의원 송옥주]\nOK 송옥주, 1095일의 의정활동"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT2M6S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "171",
+        "likeCount": "3",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Politics",
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "OK 송옥주, 1095일의 의정활동",
+          "description": "[국회의원 송옥주]\nOK 송옥주, 1095일의 의정활동"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "3qKaa8tuyW6FJine7plwuGElSxc",
+      "id": "DA4_ipOmaVc",
+      "snippet": {
+        "publishedAt": "2019-03-19T07:05:12Z",
+        "channelId": "UCIcDhuyKL_wtzHMHFsUJJYg",
+        "title": "[수원방송] \"대담한 만남\" LIVE 녹화현장 - 국회의원 송옥주",
+        "description": "2019년 3월 18일(월) 오후 3시 30분 \n수원방송 \"대담한 만남\" LIVE 녹화현장 \n국회의원 송옥주",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DA4_ipOmaVc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DA4_ipOmaVc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DA4_ipOmaVc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DA4_ipOmaVc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "okjoo song",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[수원방송] \"대담한 만남\" LIVE 녹화현장 - 국회의원 송옥주",
+          "description": "2019년 3월 18일(월) 오후 3시 30분 \n수원방송 \"대담한 만남\" LIVE 녹화현장 \n국회의원 송옥주"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT36M27S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "70",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Politics",
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "[수원방송] \"대담한 만남\" LIVE 녹화현장 - 국회의원 송옥주",
+          "description": "2019년 3월 18일(월) 오후 3시 30분 \n수원방송 \"대담한 만남\" LIVE 녹화현장 \n국회의원 송옥주"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "pvkeGVkhQ7BhC3_FfNl0JmYbJ3M",
+      "id": "KzDValbDKn4",
+      "snippet": {
+        "publishedAt": "2017-05-29T07:40:05Z",
+        "channelId": "UCIcDhuyKL_wtzHMHFsUJJYg",
+        "title": "의정활동 1년,  인사 전하는 송옥주 의원",
+        "description": "설렘과 희망의 1년을 되돌아 보았습니다. \n응원과 격려에 감사의 인사 드립니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KzDValbDKn4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KzDValbDKn4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KzDValbDKn4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KzDValbDKn4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KzDValbDKn4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "okjoo song",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "의정활동 1년,  인사 전하는 송옥주 의원",
+          "description": "설렘과 희망의 1년을 되돌아 보았습니다. \n응원과 격려에 감사의 인사 드립니다."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT2M21S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "269",
+        "likeCount": "3",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Politics",
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "의정활동 1년,  인사 전하는 송옥주 의원",
+          "description": "설렘과 희망의 1년을 되돌아 보았습니다. \n응원과 격려에 감사의 인사 드립니다."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "LA9pV7StMQd21fKG94Tn3-kojt8",
+      "id": "FN4-C9H8StY",
+      "snippet": {
+        "publishedAt": "2017-05-29T06:30:19Z",
+        "channelId": "UCIcDhuyKL_wtzHMHFsUJJYg",
+        "title": "[OBS파워인터뷰] 더불어민주당 송옥주의원",
+        "description": "[OBS파워인터뷰] 더불어민주당 송옥주의원",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FN4-C9H8StY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FN4-C9H8StY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FN4-C9H8StY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FN4-C9H8StY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "okjoo song",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[OBS파워인터뷰] 더불어민주당 송옥주의원",
+          "description": "[OBS파워인터뷰] 더불어민주당 송옥주의원"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT10M30S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "161",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Politics",
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "[OBS파워인터뷰] 더불어민주당 송옥주의원",
+          "description": "[OBS파워인터뷰] 더불어민주당 송옥주의원"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "4qxBs_ztYjEjpDuCbJKl2zmx2yQ",
+      "id": "Ps-e5qvHeWA",
+      "snippet": {
+        "publishedAt": "2016-12-23T09:31:56Z",
+        "channelId": "UCIcDhuyKL_wtzHMHFsUJJYg",
+        "title": "VAP송옥주 의원 더불어민주당 NATV 300인의 희망인터뷰",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ps-e5qvHeWA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ps-e5qvHeWA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ps-e5qvHeWA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ps-e5qvHeWA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Ps-e5qvHeWA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "okjoo song",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "VAP송옥주 의원 더불어민주당 NATV 300인의 희망인터뷰",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT9M",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "262",
+        "likeCount": "8",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Politics",
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "VAP송옥주 의원 더불어민주당 NATV 300인의 희망인터뷰",
+          "description": ""
+        }
+      }
+    }
+  ]
+}

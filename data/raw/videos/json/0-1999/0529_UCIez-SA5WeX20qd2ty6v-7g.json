@@ -1,0 +1,151 @@
+{
+  "idx": 529,
+  "channel_id": "UCIez-SA5WeX20qd2ty6v-7g",
+  "channel_title": "homebodify",
+  "playlist_items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2yVJjx2aYcZPhGkwcu9SGudQGgU",
+      "id": "VVVJZXotU0E1V2VYMjBxZDJ0eTZ2LTdnLjdoS2xtbnJLeGpJ",
+      "snippet": {
+        "publishedAt": "2023-11-09T18:42:02Z",
+        "channelId": "UCIez-SA5WeX20qd2ty6v-7g",
+        "title": "Nuphy Air75 V2 mechanical keyboard unboxing. #shorts #keyboard #unboxing",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7hKlmnrKxjI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7hKlmnrKxjI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7hKlmnrKxjI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7hKlmnrKxjI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7hKlmnrKxjI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "homebodify",
+        "playlistId": "UUIez-SA5WeX20qd2ty6v-7g",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7hKlmnrKxjI"
+        },
+        "videoOwnerChannelTitle": "homebodify",
+        "videoOwnerChannelId": "UCIez-SA5WeX20qd2ty6v-7g"
+      },
+      "contentDetails": {
+        "videoId": "7hKlmnrKxjI",
+        "videoPublishedAt": "2023-11-09T18:42:02Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "video_details": [
+    {
+      "kind": "youtube#video",
+      "etag": "RAo6xU1ozDviVst7jmB_VhboQUA",
+      "id": "7hKlmnrKxjI",
+      "snippet": {
+        "publishedAt": "2023-11-09T18:42:02Z",
+        "channelId": "UCIez-SA5WeX20qd2ty6v-7g",
+        "title": "Nuphy Air75 V2 mechanical keyboard unboxing. #shorts #keyboard #unboxing",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7hKlmnrKxjI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7hKlmnrKxjI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7hKlmnrKxjI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7hKlmnrKxjI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7hKlmnrKxjI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "homebodify",
+        "tags": [
+          "mechanical",
+          "keyboard",
+          "nuphy air75 v2"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Nuphy Air75 V2 mechanical keyboard unboxing. #shorts #keyboard #unboxing",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT1M",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "163",
+        "likeCount": "3",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+          "https://en.wikipedia.org/wiki/Technology"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en": {
+          "title": "Nuphy Air75 V2 mechanical keyboard unboxing. #shorts #keyboard #unboxing",
+          "description": ""
+        }
+      }
+    }
+  ]
+}

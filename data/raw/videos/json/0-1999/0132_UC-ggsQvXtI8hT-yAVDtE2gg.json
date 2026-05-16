@@ -1,0 +1,1188 @@
+{
+  "idx": 132,
+  "channel_id": "UC-ggsQvXtI8hT-yAVDtE2gg",
+  "channel_title": "포유얼웍스",
+  "playlist_items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "eVYV6G7J5AFy7XVymQidWjQps4g",
+      "id": "VVUtZ2dzUXZYdEk4aFQteUFWRHRFMmdnLk50Q0pRRlZkSkww",
+      "snippet": {
+        "publishedAt": "2026-05-15T08:30:37Z",
+        "channelId": "UC-ggsQvXtI8hT-yAVDtE2gg",
+        "title": "“자동화로 돈 벌기” #릴스기획",
+        "description": "솔직히 이런 콘텐츠, 한 번쯤 보셨을 겁니다.\n\n하지만 대부분은 보는 순간만 자극적인 소비형 콘텐츠에 가깝습니다.\n\n현실은 다릅니다.\n자본주의에서 꾸준히 돈을 버는 사람들은\n결국 시간, 실행, 경험, 반복을 쌓아갑니다.\n\n쉽게 버는 돈보다\n지속 가능하게 버는 구조가 훨씬 중요합니다.\n\n#자동화수익 #온라인비즈니스 #1인사업 #브랜딩 #사업마인드 #콘텐츠마케팅 #쇼츠",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NtCJQFVdJL0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NtCJQFVdJL0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NtCJQFVdJL0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NtCJQFVdJL0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NtCJQFVdJL0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "포유얼웍스",
+        "playlistId": "UU-ggsQvXtI8hT-yAVDtE2gg",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NtCJQFVdJL0"
+        },
+        "videoOwnerChannelTitle": "포유얼웍스",
+        "videoOwnerChannelId": "UC-ggsQvXtI8hT-yAVDtE2gg"
+      },
+      "contentDetails": {
+        "videoId": "NtCJQFVdJL0",
+        "videoPublishedAt": "2026-05-15T08:30:37Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "qWKNJYyqnP_fJA86qgbEYWFgdLc",
+      "id": "VVUtZ2dzUXZYdEk4aFQteUFWRHRFMmdnLmNuU2FlTTFtQk5R",
+      "snippet": {
+        "publishedAt": "2026-05-14T09:12:30Z",
+        "channelId": "UC-ggsQvXtI8hT-yAVDtE2gg",
+        "title": "릴스 조회수가 안 나오는 진짜 이유, 혹시 아직도 편집 때문이라고 생각하시나요?",
+        "description": "실제로 알고리즘이 더 중요하게 보는 건 좋아요가 아니라 저장과 다시보기입니다.\n사람들이 “나중에 다시 봐야지”라고 생각하는 콘텐츠, 그게 결국 오래 가는 콘텐츠가 됩니다.\n\n조회수를 만들고 싶다면\n예쁜 영상보다 저장되는 가치부터 설계해보세요.\n\n✔ 1인 사업자 마케팅\n✔ 릴스 조회수 올리는 방법\n✔ 저장되는 콘텐츠 만드는 법\n\n#쇼츠 #릴스마케팅 #콘텐츠마케팅 #1인사업자 #브랜딩 #마케팅전략 #SNS마케팅 #쇼츠전략",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cnSaeM1mBNQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cnSaeM1mBNQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cnSaeM1mBNQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cnSaeM1mBNQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cnSaeM1mBNQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "포유얼웍스",
+        "playlistId": "UU-ggsQvXtI8hT-yAVDtE2gg",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "cnSaeM1mBNQ"
+        },
+        "videoOwnerChannelTitle": "포유얼웍스",
+        "videoOwnerChannelId": "UC-ggsQvXtI8hT-yAVDtE2gg"
+      },
+      "contentDetails": {
+        "videoId": "cnSaeM1mBNQ",
+        "videoPublishedAt": "2026-05-14T09:12:30Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "qPfI3Kf0meJx4zgQohUi6I0XBEY",
+      "id": "VVUtZ2dzUXZYdEk4aFQteUFWRHRFMmdnLnJQSFZweDRxVE1r",
+      "snippet": {
+        "publishedAt": "2026-05-13T08:00:02Z",
+        "channelId": "UC-ggsQvXtI8hT-yAVDtE2gg",
+        "title": "내가 알던 릴스 맞나?",
+        "description": "운에 기대던 시대는 끝났습니다. 하지만 반대로 말하면, 전략적으로 움직이는 사람에겐 오히려 기회입니다. 지금부터 시작하면 늦지 않았어요 🙌\n\n업로드 주기입니다. 주 3회 업로드하던 패턴을 주 1회로 내리게되면 알고리즘의 신뢰도가 내려갑니다.\n주 1회면 계속해서 주 1회를 업로드 하는 것이고, 주 3회를 업로드하기로 했다면 계속해서 주 3회를 업로드 해야합니다.\n\n#인스타그램마케팅 #릴스노출 #릴스조회수 #인스타알고리즘 #SNS마케팅 #콘텐츠전략 #인스타성장\n\n문의: https://open.kakao.com/o/sXhJiIri",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rPHVpx4qTMk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rPHVpx4qTMk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rPHVpx4qTMk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rPHVpx4qTMk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rPHVpx4qTMk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "포유얼웍스",
+        "playlistId": "UU-ggsQvXtI8hT-yAVDtE2gg",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "rPHVpx4qTMk"
+        },
+        "videoOwnerChannelTitle": "포유얼웍스",
+        "videoOwnerChannelId": "UC-ggsQvXtI8hT-yAVDtE2gg"
+      },
+      "contentDetails": {
+        "videoId": "rPHVpx4qTMk",
+        "videoPublishedAt": "2026-05-13T08:00:02Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "AnZmL58zXIF3CQ9QVb_ExxiNjjI",
+      "id": "VVUtZ2dzUXZYdEk4aFQteUFWRHRFMmdnLnMxc2hyTThOVUVr",
+      "snippet": {
+        "publishedAt": "2026-05-12T05:34:48Z",
+        "channelId": "UC-ggsQvXtI8hT-yAVDtE2gg",
+        "title": "마케팅으로 강의 하시는 분들을 조심하세요!",
+        "description": "이제 마케팅은 성과중심으로 해야합니다.\n원장님들 스스로 컨텐츠를 만들 수 있도록,\n대본을 기획해드리고 설명해드리는것, 이게 완전 중요해요\n\n영상의 구조를 설명해드리고 원리를 알려드리는 저희와 함께 하셔야 됩니다. \n그래서 영상 하나를 만들어도 제대로 만들어야 해요! \n \n#릴스마케팅 #인스타릴스 #1인사업자마케팅 #브랜드마케팅\n#개인브랜딩 #콘텐츠마케팅 #인스타마케팅 #소셜미디어마케팅 #릴스제작 #릴스기획",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/s1shrM8NUEk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/s1shrM8NUEk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/s1shrM8NUEk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/s1shrM8NUEk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/s1shrM8NUEk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "포유얼웍스",
+        "playlistId": "UU-ggsQvXtI8hT-yAVDtE2gg",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "s1shrM8NUEk"
+        },
+        "videoOwnerChannelTitle": "포유얼웍스",
+        "videoOwnerChannelId": "UC-ggsQvXtI8hT-yAVDtE2gg"
+      },
+      "contentDetails": {
+        "videoId": "s1shrM8NUEk",
+        "videoPublishedAt": "2026-05-12T05:34:48Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_JzXiz2WQOSSODcqGbcBVJpe3dE",
+      "id": "VVUtZ2dzUXZYdEk4aFQteUFWRHRFMmdnLjJFa1kxR2MxMS1j",
+      "snippet": {
+        "publishedAt": "2026-05-11T05:55:05Z",
+        "channelId": "UC-ggsQvXtI8hT-yAVDtE2gg",
+        "title": "릴스 기획,마케팅 어떻게 해야되지?! #릴스마케팅 #릴스기획",
+        "description": "가려운부분 함께 긁으실 분. \n한달에 5팀만 받습니다.\n\n#릴스기획 #릴스마케팅",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2EkY1Gc11-c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2EkY1Gc11-c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2EkY1Gc11-c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2EkY1Gc11-c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2EkY1Gc11-c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "포유얼웍스",
+        "playlistId": "UU-ggsQvXtI8hT-yAVDtE2gg",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2EkY1Gc11-c"
+        },
+        "videoOwnerChannelTitle": "포유얼웍스",
+        "videoOwnerChannelId": "UC-ggsQvXtI8hT-yAVDtE2gg"
+      },
+      "contentDetails": {
+        "videoId": "2EkY1Gc11-c",
+        "videoPublishedAt": "2026-05-11T05:55:05Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "t6hPRgPXVJJswOQTJPMbNRtJYJ4",
+      "id": "VVUtZ2dzUXZYdEk4aFQteUFWRHRFMmdnLjBYRDhCbjhRaUZZ",
+      "snippet": {
+        "publishedAt": "2026-04-27T09:07:07Z",
+        "channelId": "UC-ggsQvXtI8hT-yAVDtE2gg",
+        "title": "블로그가 안 되는 이유, 대부분 같습니다. #동기부여 #이건몰랐지  #설명하기어려운것들",
+        "description": "❌ 글만 쌓는 구조\n❌ 고객이 어디로 연락해야 할지 모름\n\n👉 해결은 ‘홈페이지형 블로그 구조’\n\n#블로그마케팅 #홈페이지형블로그 #소상공인마케팅 #자영업마케팅 #퍼스널브랜딩",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0XD8Bn8QiFY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0XD8Bn8QiFY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0XD8Bn8QiFY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0XD8Bn8QiFY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0XD8Bn8QiFY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "포유얼웍스",
+        "playlistId": "UU-ggsQvXtI8hT-yAVDtE2gg",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0XD8Bn8QiFY"
+        },
+        "videoOwnerChannelTitle": "포유얼웍스",
+        "videoOwnerChannelId": "UC-ggsQvXtI8hT-yAVDtE2gg"
+      },
+      "contentDetails": {
+        "videoId": "0XD8Bn8QiFY",
+        "videoPublishedAt": "2026-04-27T09:07:07Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fZF82oXTnBHLoDl5Ej-Q6-DLGBA",
+      "id": "VVUtZ2dzUXZYdEk4aFQteUFWRHRFMmdnLnlyQWN0c3ZEUWtZ",
+      "snippet": {
+        "publishedAt": "2026-04-27T07:32:58Z",
+        "channelId": "UC-ggsQvXtI8hT-yAVDtE2gg",
+        "title": "홈페이지형 블로그 마케팅,열심히 해도 돈 안 되는 이유",
+        "description": "“블로그 열심히 하는데 왜 고객은 안 올까요?”\n\n대부분의 1인 사업자 블로그는\n‘읽고 끝나는 구조’로 운영되고 있습니다.\n\n조회수는 나오는데\n문의가 없는 이유, 바로 이 구조 때문입니다.\n\n이 영상에서는\n👉 블로그를 ‘고객을 받는 구조’로 바꾸는 방법\n👉 홈페이지 없이도 고객을 유입시키는 전략\n👉 1인 사업자에게 가장 현실적인 마케팅 방식\n\n을 실제 적용 가능한 형태로 설명드립니다.\n\n📍 이런 분들께 추천합니다\n\n✔ 블로그를 운영하고 있지만 문의가 없는 분\n✔ 홈페이지 제작 비용이 부담되는 분\n✔ 1인 사업자로 온라인 고객 유입을 만들고 싶은 분\n✔ SNS만으로는 한계를 느끼고 있는 분\n\n📌 핵심 내용 정리\n블로그는 콘텐츠보다 ‘구조’가 중요합니다\n정보형 글만으로는 고객이 움직이지 않습니다\n서비스 소개 / 포트폴리오 / 상담 연결이 반드시 필요합니다\n블로그는 ‘24시간 영업하는 홈페이지’가 되어야 합니다\n\n📩 문의 / 상담\n홈페이지형 블로그 구조 세팅이 필요하신 분들은\n아래 링크로 편하게 문의 주세요.\n\n👉 https://open.kakao.com/o/sXhJiIri",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yrActsvDQkY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yrActsvDQkY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yrActsvDQkY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yrActsvDQkY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yrActsvDQkY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "포유얼웍스",
+        "playlistId": "UU-ggsQvXtI8hT-yAVDtE2gg",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "yrActsvDQkY"
+        },
+        "videoOwnerChannelTitle": "포유얼웍스",
+        "videoOwnerChannelId": "UC-ggsQvXtI8hT-yAVDtE2gg"
+      },
+      "contentDetails": {
+        "videoId": "yrActsvDQkY",
+        "videoPublishedAt": "2026-04-27T07:32:58Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "VJ_WvwKPQ29wf4pq4L0hw_oufvI",
+      "id": "VVUtZ2dzUXZYdEk4aFQteUFWRHRFMmdnLlp0cUY5azZoRXNn",
+      "snippet": {
+        "publishedAt": "2026-04-23T14:32:29Z",
+        "channelId": "UC-ggsQvXtI8hT-yAVDtE2gg",
+        "title": "이건 꼭 보세요👇",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZtqF9k6hEsg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZtqF9k6hEsg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZtqF9k6hEsg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZtqF9k6hEsg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZtqF9k6hEsg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "포유얼웍스",
+        "playlistId": "UU-ggsQvXtI8hT-yAVDtE2gg",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ZtqF9k6hEsg"
+        },
+        "videoOwnerChannelTitle": "포유얼웍스",
+        "videoOwnerChannelId": "UC-ggsQvXtI8hT-yAVDtE2gg"
+      },
+      "contentDetails": {
+        "videoId": "ZtqF9k6hEsg",
+        "videoPublishedAt": "2026-04-23T14:32:29Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "xfbOLhMyJi7CwFfruYqbvyBAN8c",
+      "id": "VVUtZ2dzUXZYdEk4aFQteUFWRHRFMmdnLk5wMjFNX2V5Rzlj",
+      "snippet": {
+        "publishedAt": "2026-04-23T13:38:57Z",
+        "channelId": "UC-ggsQvXtI8hT-yAVDtE2gg",
+        "title": "홈페이지형 블로그, 소상공인 마케팅",
+        "description": "👉 문제는 ‘노력’이 아니라 ‘구조’입니다\n \n고객은 이렇게 움직입니다\n검색 → 비교 → 신뢰 → 문의\n\n하지만 대부분은\n이 흐름이 연결되어 있지 않습니다\n\n그래서 필요한 게\n“홈페이지형 블로그”\n\n✔ 검색에 걸리고\n✔ 신뢰를 만들고\n✔ 문의까지 이어지는 구조\n \n이제는\n홍보가 아니라\n“유입되는 길”을 만드셔야 합니다\n \n📩 홈페이지형 블로그가 궁금하다면\n댓글 or 프로필 링크 클릭\n\n#홈페이지형블로그 #1인사업자마케팅 #자영업마케팅 #블로그마케팅 #검색노출 #온라인마케팅 #마케팅전략 #고객유입 #소상공인마케팅 #퍼스널브랜딩",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Np21M_eyG9c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Np21M_eyG9c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Np21M_eyG9c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Np21M_eyG9c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Np21M_eyG9c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "포유얼웍스",
+        "playlistId": "UU-ggsQvXtI8hT-yAVDtE2gg",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Np21M_eyG9c"
+        },
+        "videoOwnerChannelTitle": "포유얼웍스",
+        "videoOwnerChannelId": "UC-ggsQvXtI8hT-yAVDtE2gg"
+      },
+      "contentDetails": {
+        "videoId": "Np21M_eyG9c",
+        "videoPublishedAt": "2026-04-23T13:38:57Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "video_details": [
+    {
+      "kind": "youtube#video",
+      "etag": "IsG1bHpjFdbU3c01r5ls12PxpNU",
+      "id": "NtCJQFVdJL0",
+      "snippet": {
+        "publishedAt": "2026-05-15T08:30:37Z",
+        "channelId": "UC-ggsQvXtI8hT-yAVDtE2gg",
+        "title": "“자동화로 돈 벌기” #릴스기획",
+        "description": "솔직히 이런 콘텐츠, 한 번쯤 보셨을 겁니다.\n\n하지만 대부분은 보는 순간만 자극적인 소비형 콘텐츠에 가깝습니다.\n\n현실은 다릅니다.\n자본주의에서 꾸준히 돈을 버는 사람들은\n결국 시간, 실행, 경험, 반복을 쌓아갑니다.\n\n쉽게 버는 돈보다\n지속 가능하게 버는 구조가 훨씬 중요합니다.\n\n#자동화수익 #온라인비즈니스 #1인사업 #브랜딩 #사업마인드 #콘텐츠마케팅 #쇼츠",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NtCJQFVdJL0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NtCJQFVdJL0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NtCJQFVdJL0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NtCJQFVdJL0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NtCJQFVdJL0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "포유얼웍스",
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "“자동화로 돈 벌기” #릴스기획",
+          "description": "솔직히 이런 콘텐츠, 한 번쯤 보셨을 겁니다.\n\n하지만 대부분은 보는 순간만 자극적인 소비형 콘텐츠에 가깝습니다.\n\n현실은 다릅니다.\n자본주의에서 꾸준히 돈을 버는 사람들은\n결국 시간, 실행, 경험, 반복을 쌓아갑니다.\n\n쉽게 버는 돈보다\n지속 가능하게 버는 구조가 훨씬 중요합니다.\n\n#자동화수익 #온라인비즈니스 #1인사업 #브랜딩 #사업마인드 #콘텐츠마케팅 #쇼츠"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT6S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "427",
+        "likeCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "“자동화로 돈 벌기” #릴스기획",
+          "description": "솔직히 이런 콘텐츠, 한 번쯤 보셨을 겁니다.\n\n하지만 대부분은 보는 순간만 자극적인 소비형 콘텐츠에 가깝습니다.\n\n현실은 다릅니다.\n자본주의에서 꾸준히 돈을 버는 사람들은\n결국 시간, 실행, 경험, 반복을 쌓아갑니다.\n\n쉽게 버는 돈보다\n지속 가능하게 버는 구조가 훨씬 중요합니다.\n\n#자동화수익 #온라인비즈니스 #1인사업 #브랜딩 #사업마인드 #콘텐츠마케팅 #쇼츠"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "VOuhUKIfSpH_fOa_FHql4YJ9k94",
+      "id": "cnSaeM1mBNQ",
+      "snippet": {
+        "publishedAt": "2026-05-14T09:12:30Z",
+        "channelId": "UC-ggsQvXtI8hT-yAVDtE2gg",
+        "title": "릴스 조회수가 안 나오는 진짜 이유, 혹시 아직도 편집 때문이라고 생각하시나요?",
+        "description": "실제로 알고리즘이 더 중요하게 보는 건 좋아요가 아니라 저장과 다시보기입니다.\n사람들이 “나중에 다시 봐야지”라고 생각하는 콘텐츠, 그게 결국 오래 가는 콘텐츠가 됩니다.\n\n조회수를 만들고 싶다면\n예쁜 영상보다 저장되는 가치부터 설계해보세요.\n\n✔ 1인 사업자 마케팅\n✔ 릴스 조회수 올리는 방법\n✔ 저장되는 콘텐츠 만드는 법\n\n#쇼츠 #릴스마케팅 #콘텐츠마케팅 #1인사업자 #브랜딩 #마케팅전략 #SNS마케팅 #쇼츠전략",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cnSaeM1mBNQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cnSaeM1mBNQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cnSaeM1mBNQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cnSaeM1mBNQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cnSaeM1mBNQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "포유얼웍스",
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "릴스 조회수가 안 나오는 진짜 이유, 혹시 아직도 편집 때문이라고 생각하시나요?",
+          "description": "실제로 알고리즘이 더 중요하게 보는 건 좋아요가 아니라 저장과 다시보기입니다.\n사람들이 “나중에 다시 봐야지”라고 생각하는 콘텐츠, 그게 결국 오래 가는 콘텐츠가 됩니다.\n\n조회수를 만들고 싶다면\n예쁜 영상보다 저장되는 가치부터 설계해보세요.\n\n✔ 1인 사업자 마케팅\n✔ 릴스 조회수 올리는 방법\n✔ 저장되는 콘텐츠 만드는 법\n\n#쇼츠 #릴스마케팅 #콘텐츠마케팅 #1인사업자 #브랜딩 #마케팅전략 #SNS마케팅 #쇼츠전략"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT32S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1724",
+        "likeCount": "5",
+        "favoriteCount": "0",
+        "commentCount": "5"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "릴스 조회수가 안 나오는 진짜 이유, 혹시 아직도 편집 때문이라고 생각하시나요?",
+          "description": "실제로 알고리즘이 더 중요하게 보는 건 좋아요가 아니라 저장과 다시보기입니다.\n사람들이 “나중에 다시 봐야지”라고 생각하는 콘텐츠, 그게 결국 오래 가는 콘텐츠가 됩니다.\n\n조회수를 만들고 싶다면\n예쁜 영상보다 저장되는 가치부터 설계해보세요.\n\n✔ 1인 사업자 마케팅\n✔ 릴스 조회수 올리는 방법\n✔ 저장되는 콘텐츠 만드는 법\n\n#쇼츠 #릴스마케팅 #콘텐츠마케팅 #1인사업자 #브랜딩 #마케팅전략 #SNS마케팅 #쇼츠전략"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "qv0TGt01uMODdH5S69q_bCm2mN8",
+      "id": "rPHVpx4qTMk",
+      "snippet": {
+        "publishedAt": "2026-05-13T08:00:02Z",
+        "channelId": "UC-ggsQvXtI8hT-yAVDtE2gg",
+        "title": "내가 알던 릴스 맞나?",
+        "description": "운에 기대던 시대는 끝났습니다. 하지만 반대로 말하면, 전략적으로 움직이는 사람에겐 오히려 기회입니다. 지금부터 시작하면 늦지 않았어요 🙌\n\n업로드 주기입니다. 주 3회 업로드하던 패턴을 주 1회로 내리게되면 알고리즘의 신뢰도가 내려갑니다.\n주 1회면 계속해서 주 1회를 업로드 하는 것이고, 주 3회를 업로드하기로 했다면 계속해서 주 3회를 업로드 해야합니다.\n\n#인스타그램마케팅 #릴스노출 #릴스조회수 #인스타알고리즘 #SNS마케팅 #콘텐츠전략 #인스타성장\n\n문의: https://open.kakao.com/o/sXhJiIri",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rPHVpx4qTMk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rPHVpx4qTMk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rPHVpx4qTMk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rPHVpx4qTMk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rPHVpx4qTMk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "포유얼웍스",
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "내가 알던 릴스 맞나?",
+          "description": "운에 기대던 시대는 끝났습니다. 하지만 반대로 말하면, 전략적으로 움직이는 사람에겐 오히려 기회입니다. 지금부터 시작하면 늦지 않았어요 🙌\n\n업로드 주기입니다. 주 3회 업로드하던 패턴을 주 1회로 내리게되면 알고리즘의 신뢰도가 내려갑니다.\n주 1회면 계속해서 주 1회를 업로드 하는 것이고, 주 3회를 업로드하기로 했다면 계속해서 주 3회를 업로드 해야합니다.\n\n#인스타그램마케팅 #릴스노출 #릴스조회수 #인스타알고리즘 #SNS마케팅 #콘텐츠전략 #인스타성장\n\n문의: https://open.kakao.com/o/sXhJiIri"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT32S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "2165",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "내가 알던 릴스 맞나?",
+          "description": "운에 기대던 시대는 끝났습니다. 하지만 반대로 말하면, 전략적으로 움직이는 사람에겐 오히려 기회입니다. 지금부터 시작하면 늦지 않았어요 🙌\n\n업로드 주기입니다. 주 3회 업로드하던 패턴을 주 1회로 내리게되면 알고리즘의 신뢰도가 내려갑니다.\n주 1회면 계속해서 주 1회를 업로드 하는 것이고, 주 3회를 업로드하기로 했다면 계속해서 주 3회를 업로드 해야합니다.\n\n#인스타그램마케팅 #릴스노출 #릴스조회수 #인스타알고리즘 #SNS마케팅 #콘텐츠전략 #인스타성장\n\n문의: https://open.kakao.com/o/sXhJiIri"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "KqPcXN4NevpsG-2_mFxiJ5gjPDc",
+      "id": "s1shrM8NUEk",
+      "snippet": {
+        "publishedAt": "2026-05-12T05:34:48Z",
+        "channelId": "UC-ggsQvXtI8hT-yAVDtE2gg",
+        "title": "마케팅으로 강의 하시는 분들을 조심하세요!",
+        "description": "이제 마케팅은 성과중심으로 해야합니다.\n원장님들 스스로 컨텐츠를 만들 수 있도록,\n대본을 기획해드리고 설명해드리는것, 이게 완전 중요해요\n\n영상의 구조를 설명해드리고 원리를 알려드리는 저희와 함께 하셔야 됩니다. \n그래서 영상 하나를 만들어도 제대로 만들어야 해요! \n \n#릴스마케팅 #인스타릴스 #1인사업자마케팅 #브랜드마케팅\n#개인브랜딩 #콘텐츠마케팅 #인스타마케팅 #소셜미디어마케팅 #릴스제작 #릴스기획",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/s1shrM8NUEk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/s1shrM8NUEk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/s1shrM8NUEk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/s1shrM8NUEk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/s1shrM8NUEk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "포유얼웍스",
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "마케팅으로 강의 하시는 분들을 조심하세요!",
+          "description": "이제 마케팅은 성과중심으로 해야합니다.\n원장님들 스스로 컨텐츠를 만들 수 있도록,\n대본을 기획해드리고 설명해드리는것, 이게 완전 중요해요\n\n영상의 구조를 설명해드리고 원리를 알려드리는 저희와 함께 하셔야 됩니다. \n그래서 영상 하나를 만들어도 제대로 만들어야 해요! \n \n#릴스마케팅 #인스타릴스 #1인사업자마케팅 #브랜드마케팅\n#개인브랜딩 #콘텐츠마케팅 #인스타마케팅 #소셜미디어마케팅 #릴스제작 #릴스기획"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT22S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "491",
+        "likeCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "마케팅으로 강의 하시는 분들을 조심하세요!",
+          "description": "이제 마케팅은 성과중심으로 해야합니다.\n원장님들 스스로 컨텐츠를 만들 수 있도록,\n대본을 기획해드리고 설명해드리는것, 이게 완전 중요해요\n\n영상의 구조를 설명해드리고 원리를 알려드리는 저희와 함께 하셔야 됩니다. \n그래서 영상 하나를 만들어도 제대로 만들어야 해요! \n \n#릴스마케팅 #인스타릴스 #1인사업자마케팅 #브랜드마케팅\n#개인브랜딩 #콘텐츠마케팅 #인스타마케팅 #소셜미디어마케팅 #릴스제작 #릴스기획"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "r2_O67CleC3Pd5bZQrSbTIoIQIg",
+      "id": "2EkY1Gc11-c",
+      "snippet": {
+        "publishedAt": "2026-05-11T05:55:05Z",
+        "channelId": "UC-ggsQvXtI8hT-yAVDtE2gg",
+        "title": "릴스 기획,마케팅 어떻게 해야되지?! #릴스마케팅 #릴스기획",
+        "description": "가려운부분 함께 긁으실 분. \n한달에 5팀만 받습니다.\n\n#릴스기획 #릴스마케팅",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2EkY1Gc11-c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2EkY1Gc11-c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2EkY1Gc11-c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2EkY1Gc11-c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2EkY1Gc11-c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "포유얼웍스",
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "릴스 기획,마케팅 어떻게 해야되지?! #릴스마케팅 #릴스기획",
+          "description": "가려운부분 함께 긁으실 분. \n한달에 5팀만 받습니다.\n\n#릴스기획 #릴스마케팅"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT32S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "222",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "릴스 기획,마케팅 어떻게 해야되지?! #릴스마케팅 #릴스기획",
+          "description": "가려운부분 함께 긁으실 분. \n한달에 5팀만 받습니다.\n\n#릴스기획 #릴스마케팅"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "jpcDlp1pdpxikVW3sJQMmGAs9b0",
+      "id": "0XD8Bn8QiFY",
+      "snippet": {
+        "publishedAt": "2026-04-27T09:07:07Z",
+        "channelId": "UC-ggsQvXtI8hT-yAVDtE2gg",
+        "title": "블로그가 안 되는 이유, 대부분 같습니다. #동기부여 #이건몰랐지  #설명하기어려운것들",
+        "description": "❌ 글만 쌓는 구조\n❌ 고객이 어디로 연락해야 할지 모름\n\n👉 해결은 ‘홈페이지형 블로그 구조’\n\n#블로그마케팅 #홈페이지형블로그 #소상공인마케팅 #자영업마케팅 #퍼스널브랜딩",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0XD8Bn8QiFY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0XD8Bn8QiFY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0XD8Bn8QiFY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0XD8Bn8QiFY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0XD8Bn8QiFY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "포유얼웍스",
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "블로그가 안 되는 이유, 대부분 같습니다. #동기부여 #이건몰랐지  #설명하기어려운것들",
+          "description": "❌ 글만 쌓는 구조\n❌ 고객이 어디로 연락해야 할지 모름\n\n👉 해결은 ‘홈페이지형 블로그 구조’\n\n#블로그마케팅 #홈페이지형블로그 #소상공인마케팅 #자영업마케팅 #퍼스널브랜딩"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT18S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "2280",
+        "likeCount": "4",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "블로그가 안 되는 이유, 대부분 같습니다. #동기부여 #이건몰랐지  #설명하기어려운것들",
+          "description": "❌ 글만 쌓는 구조\n❌ 고객이 어디로 연락해야 할지 모름\n\n👉 해결은 ‘홈페이지형 블로그 구조’\n\n#블로그마케팅 #홈페이지형블로그 #소상공인마케팅 #자영업마케팅 #퍼스널브랜딩"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "NETgry5NBH1s2_ahdzTedkDZtnw",
+      "id": "yrActsvDQkY",
+      "snippet": {
+        "publishedAt": "2026-04-27T07:32:58Z",
+        "channelId": "UC-ggsQvXtI8hT-yAVDtE2gg",
+        "title": "홈페이지형 블로그 마케팅,열심히 해도 돈 안 되는 이유",
+        "description": "“블로그 열심히 하는데 왜 고객은 안 올까요?”\n\n대부분의 1인 사업자 블로그는\n‘읽고 끝나는 구조’로 운영되고 있습니다.\n\n조회수는 나오는데\n문의가 없는 이유, 바로 이 구조 때문입니다.\n\n이 영상에서는\n👉 블로그를 ‘고객을 받는 구조’로 바꾸는 방법\n👉 홈페이지 없이도 고객을 유입시키는 전략\n👉 1인 사업자에게 가장 현실적인 마케팅 방식\n\n을 실제 적용 가능한 형태로 설명드립니다.\n\n📍 이런 분들께 추천합니다\n\n✔ 블로그를 운영하고 있지만 문의가 없는 분\n✔ 홈페이지 제작 비용이 부담되는 분\n✔ 1인 사업자로 온라인 고객 유입을 만들고 싶은 분\n✔ SNS만으로는 한계를 느끼고 있는 분\n\n📌 핵심 내용 정리\n블로그는 콘텐츠보다 ‘구조’가 중요합니다\n정보형 글만으로는 고객이 움직이지 않습니다\n서비스 소개 / 포트폴리오 / 상담 연결이 반드시 필요합니다\n블로그는 ‘24시간 영업하는 홈페이지’가 되어야 합니다\n\n📩 문의 / 상담\n홈페이지형 블로그 구조 세팅이 필요하신 분들은\n아래 링크로 편하게 문의 주세요.\n\n👉 https://open.kakao.com/o/sXhJiIri",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yrActsvDQkY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yrActsvDQkY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yrActsvDQkY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yrActsvDQkY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yrActsvDQkY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "포유얼웍스",
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "홈페이지형 블로그 마케팅,열심히 해도 돈 안 되는 이유",
+          "description": "“블로그 열심히 하는데 왜 고객은 안 올까요?”\n\n대부분의 1인 사업자 블로그는\n‘읽고 끝나는 구조’로 운영되고 있습니다.\n\n조회수는 나오는데\n문의가 없는 이유, 바로 이 구조 때문입니다.\n\n이 영상에서는\n👉 블로그를 ‘고객을 받는 구조’로 바꾸는 방법\n👉 홈페이지 없이도 고객을 유입시키는 전략\n👉 1인 사업자에게 가장 현실적인 마케팅 방식\n\n을 실제 적용 가능한 형태로 설명드립니다.\n\n📍 이런 분들께 추천합니다\n\n✔ 블로그를 운영하고 있지만 문의가 없는 분\n✔ 홈페이지 제작 비용이 부담되는 분\n✔ 1인 사업자로 온라인 고객 유입을 만들고 싶은 분\n✔ SNS만으로는 한계를 느끼고 있는 분\n\n📌 핵심 내용 정리\n블로그는 콘텐츠보다 ‘구조’가 중요합니다\n정보형 글만으로는 고객이 움직이지 않습니다\n서비스 소개 / 포트폴리오 / 상담 연결이 반드시 필요합니다\n블로그는 ‘24시간 영업하는 홈페이지’가 되어야 합니다\n\n📩 문의 / 상담\n홈페이지형 블로그 구조 세팅이 필요하신 분들은\n아래 링크로 편하게 문의 주세요.\n\n👉 https://open.kakao.com/o/sXhJiIri"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT1M19S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "28",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "홈페이지형 블로그 마케팅,열심히 해도 돈 안 되는 이유",
+          "description": "“블로그 열심히 하는데 왜 고객은 안 올까요?”\n\n대부분의 1인 사업자 블로그는\n‘읽고 끝나는 구조’로 운영되고 있습니다.\n\n조회수는 나오는데\n문의가 없는 이유, 바로 이 구조 때문입니다.\n\n이 영상에서는\n👉 블로그를 ‘고객을 받는 구조’로 바꾸는 방법\n👉 홈페이지 없이도 고객을 유입시키는 전략\n👉 1인 사업자에게 가장 현실적인 마케팅 방식\n\n을 실제 적용 가능한 형태로 설명드립니다.\n\n📍 이런 분들께 추천합니다\n\n✔ 블로그를 운영하고 있지만 문의가 없는 분\n✔ 홈페이지 제작 비용이 부담되는 분\n✔ 1인 사업자로 온라인 고객 유입을 만들고 싶은 분\n✔ SNS만으로는 한계를 느끼고 있는 분\n\n📌 핵심 내용 정리\n블로그는 콘텐츠보다 ‘구조’가 중요합니다\n정보형 글만으로는 고객이 움직이지 않습니다\n서비스 소개 / 포트폴리오 / 상담 연결이 반드시 필요합니다\n블로그는 ‘24시간 영업하는 홈페이지’가 되어야 합니다\n\n📩 문의 / 상담\n홈페이지형 블로그 구조 세팅이 필요하신 분들은\n아래 링크로 편하게 문의 주세요.\n\n👉 https://open.kakao.com/o/sXhJiIri"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "JZp1kw3L2wJaQCt_QtP-Re2W7YY",
+      "id": "ZtqF9k6hEsg",
+      "snippet": {
+        "publishedAt": "2026-04-23T14:32:29Z",
+        "channelId": "UC-ggsQvXtI8hT-yAVDtE2gg",
+        "title": "이건 꼭 보세요👇",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZtqF9k6hEsg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZtqF9k6hEsg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZtqF9k6hEsg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZtqF9k6hEsg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZtqF9k6hEsg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "포유얼웍스",
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "이건 꼭 보세요👇",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT32S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "487",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "이건 꼭 보세요👇",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "LC24FaWx_bOPkNaLXvo8XBQhRRQ",
+      "id": "Np21M_eyG9c",
+      "snippet": {
+        "publishedAt": "2026-04-23T13:38:57Z",
+        "channelId": "UC-ggsQvXtI8hT-yAVDtE2gg",
+        "title": "홈페이지형 블로그, 소상공인 마케팅",
+        "description": "👉 문제는 ‘노력’이 아니라 ‘구조’입니다\n \n고객은 이렇게 움직입니다\n검색 → 비교 → 신뢰 → 문의\n\n하지만 대부분은\n이 흐름이 연결되어 있지 않습니다\n\n그래서 필요한 게\n“홈페이지형 블로그”\n\n✔ 검색에 걸리고\n✔ 신뢰를 만들고\n✔ 문의까지 이어지는 구조\n \n이제는\n홍보가 아니라\n“유입되는 길”을 만드셔야 합니다\n \n📩 홈페이지형 블로그가 궁금하다면\n댓글 or 프로필 링크 클릭\n\n#홈페이지형블로그 #1인사업자마케팅 #자영업마케팅 #블로그마케팅 #검색노출 #온라인마케팅 #마케팅전략 #고객유입 #소상공인마케팅 #퍼스널브랜딩",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Np21M_eyG9c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Np21M_eyG9c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Np21M_eyG9c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Np21M_eyG9c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Np21M_eyG9c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "포유얼웍스",
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "홈페이지형 블로그, 소상공인 마케팅",
+          "description": "👉 문제는 ‘노력’이 아니라 ‘구조’입니다\n \n고객은 이렇게 움직입니다\n검색 → 비교 → 신뢰 → 문의\n\n하지만 대부분은\n이 흐름이 연결되어 있지 않습니다\n\n그래서 필요한 게\n“홈페이지형 블로그”\n\n✔ 검색에 걸리고\n✔ 신뢰를 만들고\n✔ 문의까지 이어지는 구조\n \n이제는\n홍보가 아니라\n“유입되는 길”을 만드셔야 합니다\n \n📩 홈페이지형 블로그가 궁금하다면\n댓글 or 프로필 링크 클릭\n\n#홈페이지형블로그 #1인사업자마케팅 #자영업마케팅 #블로그마케팅 #검색노출 #온라인마케팅 #마케팅전략 #고객유입 #소상공인마케팅 #퍼스널브랜딩"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT2M22S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "50",
+        "likeCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "홈페이지형 블로그, 소상공인 마케팅",
+          "description": "👉 문제는 ‘노력’이 아니라 ‘구조’입니다\n \n고객은 이렇게 움직입니다\n검색 → 비교 → 신뢰 → 문의\n\n하지만 대부분은\n이 흐름이 연결되어 있지 않습니다\n\n그래서 필요한 게\n“홈페이지형 블로그”\n\n✔ 검색에 걸리고\n✔ 신뢰를 만들고\n✔ 문의까지 이어지는 구조\n \n이제는\n홍보가 아니라\n“유입되는 길”을 만드셔야 합니다\n \n📩 홈페이지형 블로그가 궁금하다면\n댓글 or 프로필 링크 클릭\n\n#홈페이지형블로그 #1인사업자마케팅 #자영업마케팅 #블로그마케팅 #검색노출 #온라인마케팅 #마케팅전략 #고객유입 #소상공인마케팅 #퍼스널브랜딩"
+        }
+      }
+    }
+  ]
+}
