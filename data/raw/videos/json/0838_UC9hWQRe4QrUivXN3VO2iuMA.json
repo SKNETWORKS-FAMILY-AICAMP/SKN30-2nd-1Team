@@ -1,0 +1,4253 @@
+{
+  "idx": 838,
+  "channel_id": "UC9hWQRe4QrUivXN3VO2iuMA",
+  "channel_title": "코드종",
+  "playlist_items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "vR2Kv9R5I-uepYyDUHk5aAlGtKQ",
+      "id": "VVU5aFdRUmU0UXJVaXZYTjNWTzJpdU1BLkhlM1A5YUpJU1NF",
+      "snippet": {
+        "publishedAt": "2024-06-23T09:54:17Z",
+        "channelId": "UC9hWQRe4QrUivXN3VO2iuMA",
+        "title": "React 퀴즈: 컴포넌트와 엘리먼트를 알아야만 풀 수 있는 문제",
+        "description": "React를 사용하면서 헷갈릴만한 내용들을 재밌는 퀴즈를 통해 살펴볼게요. 그럼 오늘도 즐거운 코드종하세요~",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/He3P9aJISSE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/He3P9aJISSE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/He3P9aJISSE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/He3P9aJISSE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/He3P9aJISSE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "코드종",
+        "playlistId": "UU9hWQRe4QrUivXN3VO2iuMA",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "He3P9aJISSE"
+        },
+        "videoOwnerChannelTitle": "코드종",
+        "videoOwnerChannelId": "UC9hWQRe4QrUivXN3VO2iuMA"
+      },
+      "contentDetails": {
+        "videoId": "He3P9aJISSE",
+        "videoPublishedAt": "2024-06-23T09:54:17Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "EHq5gDz95DL_OP11GkXqxKx_-vE",
+      "id": "VVU5aFdRUmU0UXJVaXZYTjNWTzJpdU1BLmozdDZXb3lnZk1r",
+      "snippet": {
+        "publishedAt": "2024-06-02T08:58:04Z",
+        "channelId": "UC9hWQRe4QrUivXN3VO2iuMA",
+        "title": "원시타입? - 자바스크립트식 사고로 다시보는 프로그래밍 기본 개념",
+        "description": "이 시리즈 영상을 통해 자바스크립트 개발에 필요한 프로그래밍 기본 개념을 다시 살펴보면서 자바스크립트가 모국어인 것처럼 자연스럽고  유창하게 자바스크립트 언어를 구사하는 개발자가 되시길 바랍니다. 🙏",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/j3t6WoygfMk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/j3t6WoygfMk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/j3t6WoygfMk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/j3t6WoygfMk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/j3t6WoygfMk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "코드종",
+        "playlistId": "UU9hWQRe4QrUivXN3VO2iuMA",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "j3t6WoygfMk"
+        },
+        "videoOwnerChannelTitle": "코드종",
+        "videoOwnerChannelId": "UC9hWQRe4QrUivXN3VO2iuMA"
+      },
+      "contentDetails": {
+        "videoId": "j3t6WoygfMk",
+        "videoPublishedAt": "2024-06-02T08:58:04Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4nOPz0emWwguJFgzxedp0uswYcA",
+      "id": "VVU5aFdRUmU0UXJVaXZYTjNWTzJpdU1BLmtVaXg5TmRoUzBV",
+      "snippet": {
+        "publishedAt": "2024-05-07T11:05:12Z",
+        "channelId": "UC9hWQRe4QrUivXN3VO2iuMA",
+        "title": "⚠️ Git Hash 읽을 땐 발음 주의 🤫",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kUix9NdhS0U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kUix9NdhS0U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kUix9NdhS0U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kUix9NdhS0U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kUix9NdhS0U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "코드종",
+        "playlistId": "UU9hWQRe4QrUivXN3VO2iuMA",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "kUix9NdhS0U"
+        },
+        "videoOwnerChannelTitle": "코드종",
+        "videoOwnerChannelId": "UC9hWQRe4QrUivXN3VO2iuMA"
+      },
+      "contentDetails": {
+        "videoId": "kUix9NdhS0U",
+        "videoPublishedAt": "2024-05-07T11:05:12Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "IkOTDmAI9xxf3Ggg3LAB4vykIA0",
+      "id": "VVU5aFdRUmU0UXJVaXZYTjNWTzJpdU1BLl9jbjZDOTRSajBj",
+      "snippet": {
+        "publishedAt": "2024-05-05T13:04:11Z",
+        "channelId": "UC9hWQRe4QrUivXN3VO2iuMA",
+        "title": "useActionState 새로운 Hook! React 19 Beta 알아보기 2:",
+        "description": "🎉 React 공식 블로그에 올라온 리액트 19의 새로운 hook useActionState에 대해 간단히 살펴봅니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_cn6C94Rj0c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_cn6C94Rj0c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_cn6C94Rj0c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_cn6C94Rj0c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_cn6C94Rj0c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "코드종",
+        "playlistId": "UU9hWQRe4QrUivXN3VO2iuMA",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_cn6C94Rj0c"
+        },
+        "videoOwnerChannelTitle": "코드종",
+        "videoOwnerChannelId": "UC9hWQRe4QrUivXN3VO2iuMA"
+      },
+      "contentDetails": {
+        "videoId": "_cn6C94Rj0c",
+        "videoPublishedAt": "2024-05-05T13:04:11Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "gvkf2rtaODxAzN6vbnjCmLJ3fOQ",
+      "id": "VVU5aFdRUmU0UXJVaXZYTjNWTzJpdU1BLk5GVWJLeVRCMlJv",
+      "snippet": {
+        "publishedAt": "2024-05-05T09:16:15Z",
+        "channelId": "UC9hWQRe4QrUivXN3VO2iuMA",
+        "title": "React 게임 해킹으로 알아보는 throttle과 debounce",
+        "description": "throttle과 debounce을 이해하는 가장 좋은 방법은 게임을 해보면서 몸(?)으로 느끼는 것입니다. :)\nhttps://youtu.be/TZCiv_c5q8s",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NFUbKyTB2Ro/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NFUbKyTB2Ro/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NFUbKyTB2Ro/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NFUbKyTB2Ro/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NFUbKyTB2Ro/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "코드종",
+        "playlistId": "UU9hWQRe4QrUivXN3VO2iuMA",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NFUbKyTB2Ro"
+        },
+        "videoOwnerChannelTitle": "코드종",
+        "videoOwnerChannelId": "UC9hWQRe4QrUivXN3VO2iuMA"
+      },
+      "contentDetails": {
+        "videoId": "NFUbKyTB2Ro",
+        "videoPublishedAt": "2024-05-05T09:16:15Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4I1IstLdQjIpcLOb2kgNAxgbc7Q",
+      "id": "VVU5aFdRUmU0UXJVaXZYTjNWTzJpdU1BLk5ybHZWOXpSUW0w",
+      "snippet": {
+        "publishedAt": "2024-05-04T04:11:20Z",
+        "channelId": "UC9hWQRe4QrUivXN3VO2iuMA",
+        "title": "React 19 Beta의 새로운 점 알아보기 1: Action",
+        "description": "🎉 React 19 Beta에 대한 소식이 React 공식 블로그에 올라왔습니다. 이 글에서 소개하고 있는 내용을 하나씩 함께 살펴볼까요? 특히 useTransition의 변화와 관련된 Action에 대해 알아봅시다. 🚀",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NrlvV9zRQm0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NrlvV9zRQm0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NrlvV9zRQm0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NrlvV9zRQm0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NrlvV9zRQm0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "코드종",
+        "playlistId": "UU9hWQRe4QrUivXN3VO2iuMA",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NrlvV9zRQm0"
+        },
+        "videoOwnerChannelTitle": "코드종",
+        "videoOwnerChannelId": "UC9hWQRe4QrUivXN3VO2iuMA"
+      },
+      "contentDetails": {
+        "videoId": "NrlvV9zRQm0",
+        "videoPublishedAt": "2024-05-04T04:11:20Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "6KokUT-IAKD_eQidMZq5Y4HReFY",
+      "id": "VVU5aFdRUmU0UXJVaXZYTjNWTzJpdU1BLlNOUVZVSUVqdzhr",
+      "snippet": {
+        "publishedAt": "2022-04-10T07:39:17Z",
+        "channelId": "UC9hWQRe4QrUivXN3VO2iuMA",
+        "title": "값과 리터럴 - 자바스크립트식 사고로 다시보는 프로그래밍 개념",
+        "description": "자바스크립트를 사용하는 경험이 쌓일수록 관련된 궁금증을 찾아볼수록 \"이렇게 생각하는 것이 적절하지 않았구나! 요렇게 생각하는 게 더 맞겠네!\"라고 깨달을 때가 많았어요. 이를 통해 형성된 자바스크립트식 사고에 대해서 정리해보려고 합니다. \n이 시리즈 영상을 통해 자바스크립트 개발에 필요한 프로그래밍 기본 개념을 다시 살펴보면서 자바스크립트가 모국어인 것처럼 자연스럽고  유창하게 자바스크립트 언어를 구사하는 개발자가 되시길 바랍니다. 🙏",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SNQVUIEjw8k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SNQVUIEjw8k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SNQVUIEjw8k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SNQVUIEjw8k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SNQVUIEjw8k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "코드종",
+        "playlistId": "UU9hWQRe4QrUivXN3VO2iuMA",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "SNQVUIEjw8k"
+        },
+        "videoOwnerChannelTitle": "코드종",
+        "videoOwnerChannelId": "UC9hWQRe4QrUivXN3VO2iuMA"
+      },
+      "contentDetails": {
+        "videoId": "SNQVUIEjw8k",
+        "videoPublishedAt": "2022-04-10T07:39:17Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fGrsdphhF-7b8BQFa4jEp674LDU",
+      "id": "VVU5aFdRUmU0UXJVaXZYTjNWTzJpdU1BLnd3Sk1QaFNVamdB",
+      "snippet": {
+        "publishedAt": "2022-03-06T13:34:53Z",
+        "channelId": "UC9hWQRe4QrUivXN3VO2iuMA",
+        "title": "프로그래밍 언어란? - 자바스크립트식 사고로 다시보는 프로그래밍 개념",
+        "description": "자바스크립트를 사용하는 경험이 쌓일수록 관련된 궁금증을 찾아볼수록 \"이렇게 생각하는 것이 적절하지 않았구나! 요렇게 생각하는 게 더 맞겠네!\"라고 깨달을 때가 많았어요. 이를 통해 형성된 자바스크립트식 사고에 대해서 정리해보려고 합니다. \n이 시리즈 영상을 통해 자바스크립트 개발에 필요한 프로그래밍 기본 개념을 다시 살펴보면서 자바스크립트가 모국어인 것처럼 자연스럽고  유창하게 자바스크립트 언어를 구사하는 개발자가 되시길 바랍니다. 🙏",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wwJMPhSUjgA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wwJMPhSUjgA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wwJMPhSUjgA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wwJMPhSUjgA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wwJMPhSUjgA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "코드종",
+        "playlistId": "UU9hWQRe4QrUivXN3VO2iuMA",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wwJMPhSUjgA"
+        },
+        "videoOwnerChannelTitle": "코드종",
+        "videoOwnerChannelId": "UC9hWQRe4QrUivXN3VO2iuMA"
+      },
+      "contentDetails": {
+        "videoId": "wwJMPhSUjgA",
+        "videoPublishedAt": "2022-03-06T13:34:53Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "CTFLEQSFYDNxdvYrgwaZBXNK6kU",
+      "id": "VVU5aFdRUmU0UXJVaXZYTjNWTzJpdU1BLnNUTWVSYW1Fd3dr",
+      "snippet": {
+        "publishedAt": "2022-02-27T09:33:57Z",
+        "channelId": "UC9hWQRe4QrUivXN3VO2iuMA",
+        "title": "코좀봐코 - 화살표 함수에서 간단히 객체 리턴할 때 왜 괄호()가 필요한 거죠?",
+        "description": "질문 링크 : https://class.codejong.kr/t/topic/379\n\n\"코드 좀 봐주세요. 코드종!\"\n\n내 코드를 누가 좀 봐서 피드백 줬으면 하나요? 코딩을 하다가 더 나은 방법은 없는지 찾고 계신가요?\n코드종에게 코드리뷰를 신청해보세요. 코드종이 코드리뷰해주는 새로운 시리즈를 시작합니다. \n\n신청 방법은 이 영상과 다음 링크에 자세히 설명되어 있습니다.\nhttps://class.codejong.kr/t/topic/364\n\n그럼 https://class.codejong.kr 에 코드 리뷰 신청하로 고고고!\n\n#javascript #자바스크립트 #함수 #function",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sTMeRamEwwk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sTMeRamEwwk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sTMeRamEwwk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sTMeRamEwwk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sTMeRamEwwk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "코드종",
+        "playlistId": "UU9hWQRe4QrUivXN3VO2iuMA",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "sTMeRamEwwk"
+        },
+        "videoOwnerChannelTitle": "코드종",
+        "videoOwnerChannelId": "UC9hWQRe4QrUivXN3VO2iuMA"
+      },
+      "contentDetails": {
+        "videoId": "sTMeRamEwwk",
+        "videoPublishedAt": "2022-02-27T09:33:57Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "atghbU19tir83ZdOQ5JRPh6r1zc",
+      "id": "VVU5aFdRUmU0UXJVaXZYTjNWTzJpdU1BLnpCbVRxRjBHcE40",
+      "snippet": {
+        "publishedAt": "2022-02-20T00:44:17Z",
+        "channelId": "UC9hWQRe4QrUivXN3VO2iuMA",
+        "title": "코좀봐코 - React에서의 타이머 part 2 : useIntervalValue Hook 만들어서 카운트다운 쉽게 구현하기",
+        "description": "질문 링크 : https://class.codejong.kr/t/react/371/4\n\n\"코드 좀 봐주세요. 코드종!\"\n\n내 코드를 누가 좀 봐서 피드백 줬으면 하나요? 코딩을 하다가 더 나은 방법은 없는지 찾고 계신가요?\n코드종에게 코드리뷰를 신청해보세요. 코드종이 코드리뷰해주는 새로운 시리즈를 시작합니다. \n\n신청 방법은 이 영상과 다음 링크에 자세히 설명되어 있습니다.\nhttps://class.codejong.kr/t/topic/364\n\n그럼 https://class.codejong.kr 에 코드 리뷰 신청하로 고고고!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zBmTqF0GpN4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zBmTqF0GpN4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zBmTqF0GpN4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zBmTqF0GpN4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zBmTqF0GpN4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "코드종",
+        "playlistId": "UU9hWQRe4QrUivXN3VO2iuMA",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zBmTqF0GpN4"
+        },
+        "videoOwnerChannelTitle": "코드종",
+        "videoOwnerChannelId": "UC9hWQRe4QrUivXN3VO2iuMA"
+      },
+      "contentDetails": {
+        "videoId": "zBmTqF0GpN4",
+        "videoPublishedAt": "2022-02-20T00:44:17Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "1-s1GYLeNuAbDnXBjHPcKeT7W3A",
+      "id": "VVU5aFdRUmU0UXJVaXZYTjNWTzJpdU1BLjJ0VWR5WTV1QlN3",
+      "snippet": {
+        "publishedAt": "2022-02-13T04:47:27Z",
+        "channelId": "UC9hWQRe4QrUivXN3VO2iuMA",
+        "title": "코좀봐코 - React에서의 타이머 part 1 : setInterval 말고 이것!",
+        "description": "\"코드 좀 봐주세요. 코드종!\"\n\n내 코드를 누가 좀 봐서 피드백 줬으면 하나요? 코딩을 하다가 더 나은 방법은 없는지 찾고 계신가요?\n코드종에게 코드리뷰를 신청해보세요. 코드종이 코드리뷰해주는 새로운 시리즈를 시작합니다. \n\n신청 방법은 이 영상과 다음 링크에 자세히 설명되어 있습니다.\nhttps://class.codejong.kr/t/topic/364\n\n그럼 https://class.codejong.kr 에 코드 리뷰 신청하로 고고고!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2tUdyY5uBSw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2tUdyY5uBSw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2tUdyY5uBSw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2tUdyY5uBSw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2tUdyY5uBSw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "코드종",
+        "playlistId": "UU9hWQRe4QrUivXN3VO2iuMA",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2tUdyY5uBSw"
+        },
+        "videoOwnerChannelTitle": "코드종",
+        "videoOwnerChannelId": "UC9hWQRe4QrUivXN3VO2iuMA"
+      },
+      "contentDetails": {
+        "videoId": "2tUdyY5uBSw",
+        "videoPublishedAt": "2022-02-13T04:47:27Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "6h8ONy_EkfmcfDyunG2S9ewMcvU",
+      "id": "VVU5aFdRUmU0UXJVaXZYTjNWTzJpdU1BLldGcVpESVhIU1JJ",
+      "snippet": {
+        "publishedAt": "2021-12-25T13:49:10Z",
+        "channelId": "UC9hWQRe4QrUivXN3VO2iuMA",
+        "title": "VS Code 괄호 짝 맞추기 순정 팁 (익스텐션 설치 없이) - 코드종의 숏!데브",
+        "description": "#Shorts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WFqZDIXHSRI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WFqZDIXHSRI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WFqZDIXHSRI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WFqZDIXHSRI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WFqZDIXHSRI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "코드종",
+        "playlistId": "UU9hWQRe4QrUivXN3VO2iuMA",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WFqZDIXHSRI"
+        },
+        "videoOwnerChannelTitle": "코드종",
+        "videoOwnerChannelId": "UC9hWQRe4QrUivXN3VO2iuMA"
+      },
+      "contentDetails": {
+        "videoId": "WFqZDIXHSRI",
+        "videoPublishedAt": "2021-12-25T13:49:10Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "A_A8CdaMc3g5RfekN2wajuRDZQg",
+      "id": "VVU5aFdRUmU0UXJVaXZYTjNWTzJpdU1BLjVONHNkMDNYN240",
+      "snippet": {
+        "publishedAt": "2021-12-19T10:37:50Z",
+        "channelId": "UC9hWQRe4QrUivXN3VO2iuMA",
+        "title": "코드 리뷰 신청하세요. \"코드 좀 봐주세요 코드종\" 시리즈 안내",
+        "description": "내 코드를 누가 좀 봐서 피드백 줬으면 하나요? 코딩을 하다가 더 나은 방법은 없는지 찾고 계신가요?\n코드종에게 코드리뷰를 신청해보세요. 코드종이 코드리뷰해주는 새로운 시리즈를 시작합니다. \n\n신청 방법은 이 영상과 다음 링크에 자세히 설명되어 있습니다.\nhttps://class.codejong.kr/t/topic/364\n\n그럼 https://class.codejong.kr 에 코드 리뷰 신청하로 고고고!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5N4sd03X7n4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5N4sd03X7n4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5N4sd03X7n4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5N4sd03X7n4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5N4sd03X7n4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "코드종",
+        "playlistId": "UU9hWQRe4QrUivXN3VO2iuMA",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "5N4sd03X7n4"
+        },
+        "videoOwnerChannelTitle": "코드종",
+        "videoOwnerChannelId": "UC9hWQRe4QrUivXN3VO2iuMA"
+      },
+      "contentDetails": {
+        "videoId": "5N4sd03X7n4",
+        "videoPublishedAt": "2021-12-19T10:37:50Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ZNuTrnRtzc13dfz1MR3OITuIvW4",
+      "id": "VVU5aFdRUmU0UXJVaXZYTjNWTzJpdU1BLmtuZ09XaHpQSHpn",
+      "snippet": {
+        "publishedAt": "2019-04-01T03:25:42Z",
+        "channelId": "UC9hWQRe4QrUivXN3VO2iuMA",
+        "title": "자바스크립트 예외처리 4/4 - async/await의 예외",
+        "description": "\"(가칭) promise 완전정복!\" promise 패턴에 대한 보다 자세한 영상을 준비중입니다. promise에 대해 보다 자세히 알고 싶은 분들은 조금만 기다려주세요.\n\n이번 예외처리 4번째 영상으로 async 함수에서의 예외 처리하는 방법에 대해 알아봤습니다. 자바스크립트 예외처리와 관련하여 총 4개의 영상으로 나누어 설명했어요. ㅠ\n\n1/4 - 예외란 무엇인가? throw? : https://youtu.be/EBmIHrLTVdg\n2/4 - try catch, Error 객체 : https://youtu.be/wf6AlMj7TFA\n3/4 - promise에서의 예외처리 : https://youtu.be/RRc_iVHdDKk\n4/4 - async / await의 예외처리 : https://youtu.be/kngOWhzPHzg",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kngOWhzPHzg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kngOWhzPHzg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kngOWhzPHzg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kngOWhzPHzg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kngOWhzPHzg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "코드종",
+        "playlistId": "UU9hWQRe4QrUivXN3VO2iuMA",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "kngOWhzPHzg"
+        },
+        "videoOwnerChannelTitle": "코드종",
+        "videoOwnerChannelId": "UC9hWQRe4QrUivXN3VO2iuMA"
+      },
+      "contentDetails": {
+        "videoId": "kngOWhzPHzg",
+        "videoPublishedAt": "2019-04-01T03:25:42Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "JHaBTldZgXET7df5_I-9QHpX_H8",
+      "id": "VVU5aFdRUmU0UXJVaXZYTjNWTzJpdU1BLlJSY19pVkhkREtr",
+      "snippet": {
+        "publishedAt": "2019-03-25T02:24:15Z",
+        "channelId": "UC9hWQRe4QrUivXN3VO2iuMA",
+        "title": "자바스크립트 예외처리 3/4 - promise의 catch함수",
+        "description": "\"(가칭) promise 완전정복!\" promise 패턴에 대한 보다 자세한 영상을 준비중입니다. promise에 대해 보다 자세히 알고 싶은 분들은 조금만 기다려주세요.\n\n이번 예외처리 세번째 영상에서는 promise에서 예외처리할 때 사용하는 catch함수에 대해 이야기합니다. 자바스크립트 예외처리와 관련하여 총 4개의 영상으로 나누어 설명합니다.\n\n1/4 - 예외란 무엇인가? throw? : https://youtu.be/EBmIHrLTVdg\n2/4 - try catch, Error 객체 : https://youtu.be/wf6AlMj7TFA\n3/4 - promise에서의 예외처리 : https://youtu.be/RRc_iVHdDKk\n4/4 - async / await의 예외처리 : https://youtu.be/kngOWhzPHzg",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RRc_iVHdDKk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RRc_iVHdDKk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RRc_iVHdDKk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RRc_iVHdDKk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RRc_iVHdDKk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "코드종",
+        "playlistId": "UU9hWQRe4QrUivXN3VO2iuMA",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "RRc_iVHdDKk"
+        },
+        "videoOwnerChannelTitle": "코드종",
+        "videoOwnerChannelId": "UC9hWQRe4QrUivXN3VO2iuMA"
+      },
+      "contentDetails": {
+        "videoId": "RRc_iVHdDKk",
+        "videoPublishedAt": "2019-03-25T02:24:15Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Cr-fqqGeeTnje55tTk2xySOkt20",
+      "id": "VVU5aFdRUmU0UXJVaXZYTjNWTzJpdU1BLndmNkFsTWo3VEZB",
+      "snippet": {
+        "publishedAt": "2019-03-20T22:15:51Z",
+        "channelId": "UC9hWQRe4QrUivXN3VO2iuMA",
+        "title": "자바스크립트 예외처리  2/4 - try catch, Error 객체",
+        "description": "예외처리 두번째 영상에서는 try catch 구문과 Error 객체에 대해 이야기합니다. 자바스크립트 예외처리와 관련하여 총 4개의 영상으로 나누어 설명합니다.\n\n1/4 - 예외란 무엇인가? throw? : https://youtu.be/EBmIHrLTVdg\n2/4 - try catch, Error 객체 : https://youtu.be/wf6AlMj7TFA\n3/4 - promise에서의 예외처리 : https://youtu.be/RRc_iVHdDKk\n4/4 - async / await의 예외처리 : https://youtu.be/kngOWhzPHzg",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wf6AlMj7TFA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wf6AlMj7TFA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wf6AlMj7TFA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wf6AlMj7TFA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wf6AlMj7TFA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "코드종",
+        "playlistId": "UU9hWQRe4QrUivXN3VO2iuMA",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wf6AlMj7TFA"
+        },
+        "videoOwnerChannelTitle": "코드종",
+        "videoOwnerChannelId": "UC9hWQRe4QrUivXN3VO2iuMA"
+      },
+      "contentDetails": {
+        "videoId": "wf6AlMj7TFA",
+        "videoPublishedAt": "2019-03-20T22:15:51Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "PIssgUccXWUByED4kPKu5TmOlvo",
+      "id": "VVU5aFdRUmU0UXJVaXZYTjNWTzJpdU1BLkVCbUlIckxUVmRn",
+      "snippet": {
+        "publishedAt": "2019-03-18T12:58:37Z",
+        "channelId": "UC9hWQRe4QrUivXN3VO2iuMA",
+        "title": "자바스크립트 예외처리  1/4 - 예외란 무엇인가? throw?",
+        "description": "자바스크립트 예외처리와 관련하여 총 4개의 영상으로 나누어 설명할 예정입니다. 우선 첫 번째 영상에서는 예외의 개념과 예외의 발생에 대한 기본적인 내용을  담고 있습니다.\n\n1/4 - 예외란 무엇인가? throw? : https://youtu.be/EBmIHrLTVdg\n2/4 - try catch, Error 객체 : https://youtu.be/wf6AlMj7TFA\n3/4 - promise에서의 예외처리 : https://youtu.be/RRc_iVHdDKk\n4/4 - async / await의 예외처리 : https://youtu.be/kngOWhzPHzg",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EBmIHrLTVdg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EBmIHrLTVdg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EBmIHrLTVdg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EBmIHrLTVdg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EBmIHrLTVdg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "코드종",
+        "playlistId": "UU9hWQRe4QrUivXN3VO2iuMA",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "EBmIHrLTVdg"
+        },
+        "videoOwnerChannelTitle": "코드종",
+        "videoOwnerChannelId": "UC9hWQRe4QrUivXN3VO2iuMA"
+      },
+      "contentDetails": {
+        "videoId": "EBmIHrLTVdg",
+        "videoPublishedAt": "2019-03-18T12:58:37Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "xboyekqyJAlXmDPqoMR8ncYDlM0",
+      "id": "VVU5aFdRUmU0UXJVaXZYTjNWTzJpdU1BLlNWeEx4OC1nM1E0",
+      "snippet": {
+        "publishedAt": "2018-10-17T14:28:16Z",
+        "channelId": "UC9hWQRe4QrUivXN3VO2iuMA",
+        "title": "리액트 네이티브 라이브 화상 강의 실례 (3분 버전)",
+        "description": "코드종의 클래스에서 진행하고 있는 라이브 화상 강의의 실제 모습을 보여드리기 위해 실제 영상의 일부를 편집해봤습니다. class.codejong.kr을 방문해보세요~\n\n#코드종클래스 #라이브강의",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SVxLx8-g3Q4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SVxLx8-g3Q4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SVxLx8-g3Q4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SVxLx8-g3Q4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SVxLx8-g3Q4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "코드종",
+        "playlistId": "UU9hWQRe4QrUivXN3VO2iuMA",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "SVxLx8-g3Q4"
+        },
+        "videoOwnerChannelTitle": "코드종",
+        "videoOwnerChannelId": "UC9hWQRe4QrUivXN3VO2iuMA"
+      },
+      "contentDetails": {
+        "videoId": "SVxLx8-g3Q4",
+        "videoPublishedAt": "2018-10-17T14:28:16Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Ha0yVgUlBjUlRAT7UESHydt9fy4",
+      "id": "VVU5aFdRUmU0UXJVaXZYTjNWTzJpdU1BLkFBdERuejdwbjlv",
+      "snippet": {
+        "publishedAt": "2018-10-17T00:14:58Z",
+        "channelId": "UC9hWQRe4QrUivXN3VO2iuMA",
+        "title": "ScreenBrush 소개 - 유튜브/화상강의 필수 애플리케이션",
+        "description": "유튜브 영상을 찍거나 화상강의 할 때 아주 유용하게 사용하고 있는  ScreenBrush를 소개합니다.\n\n#2분리뷰 #화상강의 #필수앱",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AAtDnz7pn9o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AAtDnz7pn9o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AAtDnz7pn9o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AAtDnz7pn9o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AAtDnz7pn9o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "코드종",
+        "playlistId": "UU9hWQRe4QrUivXN3VO2iuMA",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "AAtDnz7pn9o"
+        },
+        "videoOwnerChannelTitle": "코드종",
+        "videoOwnerChannelId": "UC9hWQRe4QrUivXN3VO2iuMA"
+      },
+      "contentDetails": {
+        "videoId": "AAtDnz7pn9o",
+        "videoPublishedAt": "2018-10-17T00:14:58Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "307Ugyyg5yDv-JPG1HOkcyj_va4",
+      "id": "VVU5aFdRUmU0UXJVaXZYTjNWTzJpdU1BLlRaQ2l2X2M1cThz",
+      "snippet": {
+        "publishedAt": "2018-10-09T23:06:33Z",
+        "channelId": "UC9hWQRe4QrUivXN3VO2iuMA",
+        "title": "게임 해킹으로 알아보는 throttle과 debounce",
+        "description": "- 게임 데모 및 소스 정보 : https://class.codejong.kr/t/throttle-debouce/65\n\nthrottle과 debounce을 이해하는 가장 좋은 방법은 게임을 해보면서 몸(?)으로 느끼는 것입니다. :)\n\n- 코드종의 라이브 클래스 :  https://class.codejong.kr\n- 페이스북 페이지 : https://bit.ly/2MbR9vh\n\n#debounce #throttle #게임해킹 #lodash.js",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TZCiv_c5q8s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TZCiv_c5q8s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TZCiv_c5q8s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TZCiv_c5q8s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TZCiv_c5q8s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "코드종",
+        "playlistId": "UU9hWQRe4QrUivXN3VO2iuMA",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "TZCiv_c5q8s"
+        },
+        "videoOwnerChannelTitle": "코드종",
+        "videoOwnerChannelId": "UC9hWQRe4QrUivXN3VO2iuMA"
+      },
+      "contentDetails": {
+        "videoId": "TZCiv_c5q8s",
+        "videoPublishedAt": "2018-10-09T23:06:33Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "9HMjtQwUXcpv-zYwAAGZVYdDF7A",
+      "id": "VVU5aFdRUmU0UXJVaXZYTjNWTzJpdU1BLkp6WGpCNkw5OU40",
+      "snippet": {
+        "publishedAt": "2018-10-04T07:44:01Z",
+        "channelId": "UC9hWQRe4QrUivXN3VO2iuMA",
+        "title": "자바스크립트 async / await? 나도 써보자, 기본 개념부터~",
+        "description": "async/await을 사용하면 좋다는데 아직 개념이 헷갈려서 쓰기 망설여지시나요? 그런 분들을 위해 한번 설명해봤습니다.\n\n- 코드종의 라이브 클래스 :  https://class.codejong.kr\n- 페이스북 페이지 : https://bit.ly/2MbR9vh\n- 콜백 함수의 동기적 실행과 비동기적 실행 : https://youtu.be/j0Viy3v97gY\n- Promise 기본 사용법 : https://youtu.be/CA5EDD4Hjz4\n- \"자바스크립트 헷갈리는 개념 바로 알기\" 시리즈 : https://goo.gl/PXuiDB\n\n#javascript #async #await #promise",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JzXjB6L99N4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JzXjB6L99N4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JzXjB6L99N4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JzXjB6L99N4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JzXjB6L99N4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "코드종",
+        "playlistId": "UU9hWQRe4QrUivXN3VO2iuMA",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "JzXjB6L99N4"
+        },
+        "videoOwnerChannelTitle": "코드종",
+        "videoOwnerChannelId": "UC9hWQRe4QrUivXN3VO2iuMA"
+      },
+      "contentDetails": {
+        "videoId": "JzXjB6L99N4",
+        "videoPublishedAt": "2018-10-04T07:44:01Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "nBrXbOuaGSbbogjfJF0vEtUYI1Q",
+      "id": "VVU5aFdRUmU0UXJVaXZYTjNWTzJpdU1BLm9RNGtUOEtoUlk4",
+      "snippet": {
+        "publishedAt": "2018-09-08T06:02:33Z",
+        "channelId": "UC9hWQRe4QrUivXN3VO2iuMA",
+        "title": "그림으로 배우는 git #2 HEAD가 뭐죠? Branch와 Tag와의 차이는?",
+        "description": "[코드종의 라이브 화상 강의 안내 - 현재 모집 중] 역자 직강! React Native 신간을 코드종과 함께 5주만에 완벽소화해보세요.\n- 강의 안내 및 신청 : http://bit.ly/codejong-rn\n\ngit에 대한 두 번째 영상으로 git에 존재하는 3가지 포인터인 HEAD, Branch, Tag에 대해서 이야기 해봤습니다. :)\n궁금하신 사항은 언제든지 댓글로 남겨주세요~ 그럼 오늘도 즐거운 코딩하세요.\n\n- 페이스북 페이지 : https://bit.ly/2MbR9vh\n- \"자바스크립트 헷갈리는 개념 바로 알기\" 시리즈 : https://goo.gl/PXuiDB\n- \"그림으로 배우는 git\" 시리즈 : http://bit.ly/codejong-git",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oQ4kT8KhRY8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oQ4kT8KhRY8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oQ4kT8KhRY8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oQ4kT8KhRY8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oQ4kT8KhRY8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "코드종",
+        "playlistId": "UU9hWQRe4QrUivXN3VO2iuMA",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "oQ4kT8KhRY8"
+        },
+        "videoOwnerChannelTitle": "코드종",
+        "videoOwnerChannelId": "UC9hWQRe4QrUivXN3VO2iuMA"
+      },
+      "contentDetails": {
+        "videoId": "oQ4kT8KhRY8",
+        "videoPublishedAt": "2018-09-08T06:02:33Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "CVdByayO74_3WsidPqkn-CW2sGc",
+      "id": "VVU5aFdRUmU0UXJVaXZYTjNWTzJpdU1BLkNBNUVERDRIano0",
+      "snippet": {
+        "publishedAt": "2018-08-27T22:24:11Z",
+        "channelId": "UC9hWQRe4QrUivXN3VO2iuMA",
+        "title": "자바스크립트 promise? 나도 써보자, 기본 개념부터~",
+        "description": "promise와  async/await을 사용하면 좋다는데 아직 개념이 헷갈려서 쓰기 망설여지시나요? 그런 분들을 위해 한번 설명해봤습니다.\n\n- 페이스북 페이지 : https://bit.ly/2MbR9vh\n- 콜백 함수의 동기적 실행과 비동기적 실행 : https://youtu.be/j0Viy3v97gY\n- \"자바스크립트 헷갈리는 개념 바로 알기\" 시리즈 : https://goo.gl/PXuiDB",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CA5EDD4Hjz4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CA5EDD4Hjz4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CA5EDD4Hjz4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CA5EDD4Hjz4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CA5EDD4Hjz4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "코드종",
+        "playlistId": "UU9hWQRe4QrUivXN3VO2iuMA",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CA5EDD4Hjz4"
+        },
+        "videoOwnerChannelTitle": "코드종",
+        "videoOwnerChannelId": "UC9hWQRe4QrUivXN3VO2iuMA"
+      },
+      "contentDetails": {
+        "videoId": "CA5EDD4Hjz4",
+        "videoPublishedAt": "2018-08-27T22:24:11Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "juQRsRV1Y5ItuvQV5C80M-AowM8",
+      "id": "VVU5aFdRUmU0UXJVaXZYTjNWTzJpdU1BLjR6aktsdG5JQnVn",
+      "snippet": {
+        "publishedAt": "2018-08-15T16:12:51Z",
+        "channelId": "UC9hWQRe4QrUivXN3VO2iuMA",
+        "title": "ES6 화살표 함수에 없는 3가지?",
+        "description": "자바스크립트 ES6에 추가된 화살표 함수(arrow function)은 기존 function에 비해 3가지가 없습니다. 이 3가지를 살펴보면서 arrow function의 특징을 이해할 수 있도록 설명해봤습니다.\n\n- 자바스크립트 클로저 설명 영상 : https://youtu.be/MbYShFxp-j0\n- 자바스크립트 this 설명 영상 :  https://youtu.be/PAr92molMHU",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4zjKltnIBug/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4zjKltnIBug/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4zjKltnIBug/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4zjKltnIBug/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4zjKltnIBug/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "코드종",
+        "playlistId": "UU9hWQRe4QrUivXN3VO2iuMA",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4zjKltnIBug"
+        },
+        "videoOwnerChannelTitle": "코드종",
+        "videoOwnerChannelId": "UC9hWQRe4QrUivXN3VO2iuMA"
+      },
+      "contentDetails": {
+        "videoId": "4zjKltnIBug",
+        "videoPublishedAt": "2018-08-15T16:12:51Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "tXpQkC96SwsWKf9jvzNwLzYJj_k",
+      "id": "VVU5aFdRUmU0UXJVaXZYTjNWTzJpdU1BLlBpUUF3T3hsNTJF",
+      "snippet": {
+        "publishedAt": "2018-08-11T04:53:21Z",
+        "channelId": "UC9hWQRe4QrUivXN3VO2iuMA",
+        "title": "그림으로 배우는 git #1 주요 용어 맛보기",
+        "description": "git에 대한 첫 번째 영상으로 git 관련 용어가 생소하신 분들을 위해 그림을 이용하여 설명해봤습니다. :)\n궁금하신 사항은 언제든지 댓글로 남겨주세요~ 오늘도 즐거운 코딩하세요.\n\n- 페이스북 페이지 : https://bit.ly/2MbR9vh\n- \"자바스크립트 헷갈리는 개념 바로 알기\" 시리즈 : https://goo.gl/PXuiDB",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PiQAwOxl52E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PiQAwOxl52E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PiQAwOxl52E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PiQAwOxl52E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PiQAwOxl52E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "코드종",
+        "playlistId": "UU9hWQRe4QrUivXN3VO2iuMA",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "PiQAwOxl52E"
+        },
+        "videoOwnerChannelTitle": "코드종",
+        "videoOwnerChannelId": "UC9hWQRe4QrUivXN3VO2iuMA"
+      },
+      "contentDetails": {
+        "videoId": "PiQAwOxl52E",
+        "videoPublishedAt": "2018-08-11T04:53:21Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Ti6ubrpD_x3hfLjiD50TYRCROrU",
+      "id": "VVU5aFdRUmU0UXJVaXZYTjNWTzJpdU1BLmowVml5M3Y5N2dZ",
+      "snippet": {
+        "publishedAt": "2018-07-27T07:27:45Z",
+        "channelId": "UC9hWQRe4QrUivXN3VO2iuMA",
+        "title": "자바스크립트 개념잡기: 콜백 함수의 동기적 실행과 비동기적 실행",
+        "description": "자바스크립트 콜백의 동기적 실행과 비동기적 실행에 대해 설명해봤습니다.\n\n지난번에 setTimeout을 가지고 큐와 콜 스택에 대해서 이야기 했던 영상 : https://youtu.be/iNH4UQxZexs",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/j0Viy3v97gY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/j0Viy3v97gY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/j0Viy3v97gY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/j0Viy3v97gY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/j0Viy3v97gY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "코드종",
+        "playlistId": "UU9hWQRe4QrUivXN3VO2iuMA",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "j0Viy3v97gY"
+        },
+        "videoOwnerChannelTitle": "코드종",
+        "videoOwnerChannelId": "UC9hWQRe4QrUivXN3VO2iuMA"
+      },
+      "contentDetails": {
+        "videoId": "j0Viy3v97gY",
+        "videoPublishedAt": "2018-07-27T07:27:45Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "eAOQry2Wmr6AfQcIBkqhPLzFya8",
+      "id": "VVU5aFdRUmU0UXJVaXZYTjNWTzJpdU1BLmlOSDRVUXhaZXhz",
+      "snippet": {
+        "publishedAt": "2018-07-17T23:13:44Z",
+        "channelId": "UC9hWQRe4QrUivXN3VO2iuMA",
+        "title": "자바스크립트 타이머는 지각쟁이? 그 이유는 싱글 콜 스택?",
+        "description": "자바스크립트의 타이머(setTimeout, setInterval)는 지정한 시간에 콜백 함수가 실행되는 것을 보장하지 못합니다. 이 이유를 정확히 알기 위해  자바스크립트가 싱글스레드로 동작하는 과정을 함께 설명해봤습니다.\n\n잘못된 내용이나 궁금한 사항이 있다면 주저마시고 댓글로 남겨주세요.\n감사합니다!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iNH4UQxZexs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iNH4UQxZexs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iNH4UQxZexs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iNH4UQxZexs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iNH4UQxZexs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "코드종",
+        "playlistId": "UU9hWQRe4QrUivXN3VO2iuMA",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "iNH4UQxZexs"
+        },
+        "videoOwnerChannelTitle": "코드종",
+        "videoOwnerChannelId": "UC9hWQRe4QrUivXN3VO2iuMA"
+      },
+      "contentDetails": {
+        "videoId": "iNH4UQxZexs",
+        "videoPublishedAt": "2018-07-17T23:13:44Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "jQv53CNPDWWKXnqeonktIVNK4YQ",
+      "id": "VVU5aFdRUmU0UXJVaXZYTjNWTzJpdU1BLlJaM2dYY0kxTVpZ",
+      "snippet": {
+        "publishedAt": "2018-07-07T08:14:12Z",
+        "channelId": "UC9hWQRe4QrUivXN3VO2iuMA",
+        "title": "자바스크립트 대표적 클로저 실수를 let으로 해결?",
+        "description": "지난 \"자바스크립트 클로저?\" 영상에 달린 질문을 바탕으로 클로저의 대표적 실수와 이 문제가 let으로 해결이 되는 이유에 대해 설명해 봤습니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RZ3gXcI1MZY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RZ3gXcI1MZY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RZ3gXcI1MZY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RZ3gXcI1MZY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RZ3gXcI1MZY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "코드종",
+        "playlistId": "UU9hWQRe4QrUivXN3VO2iuMA",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "RZ3gXcI1MZY"
+        },
+        "videoOwnerChannelTitle": "코드종",
+        "videoOwnerChannelId": "UC9hWQRe4QrUivXN3VO2iuMA"
+      },
+      "contentDetails": {
+        "videoId": "RZ3gXcI1MZY",
+        "videoPublishedAt": "2018-07-07T08:14:12Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "oMZ9jC1rtkXM47sv0n1vs54Xlak",
+      "id": "VVU5aFdRUmU0UXJVaXZYTjNWTzJpdU1BLlBBcjkybW9sTUhV",
+      "snippet": {
+        "publishedAt": "2018-06-26T07:32:05Z",
+        "channelId": "UC9hWQRe4QrUivXN3VO2iuMA",
+        "title": "자바스크립트 this? 간단히 핵심만 파악하기",
+        "description": "자바스크립트를 개념중에 헷갈리는 대표주자 this에 대해 설명해봤습니다.\n\n- 클로저와 스코프 체인 설명 동영상 : https://youtu.be/MbYShFxp-j0\n- MDN this 설명 페이지 : https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Operators/this\n\n감사합니다!\n오늘도 즐거운 코딩하세요~",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PAr92molMHU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PAr92molMHU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PAr92molMHU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PAr92molMHU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PAr92molMHU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "코드종",
+        "playlistId": "UU9hWQRe4QrUivXN3VO2iuMA",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "PAr92molMHU"
+        },
+        "videoOwnerChannelTitle": "코드종",
+        "videoOwnerChannelId": "UC9hWQRe4QrUivXN3VO2iuMA"
+      },
+      "contentDetails": {
+        "videoId": "PAr92molMHU",
+        "videoPublishedAt": "2018-06-26T07:32:05Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "hPAtVH5c2vzaENVZ5j26unN0OEQ",
+      "id": "VVU5aFdRUmU0UXJVaXZYTjNWTzJpdU1BLk1iWVNoRnhwLWow",
+      "snippet": {
+        "publishedAt": "2018-06-21T19:58:12Z",
+        "channelId": "UC9hWQRe4QrUivXN3VO2iuMA",
+        "title": "자바스크립트 클로저? 간단히 핵심만 파악하기",
+        "description": "자바스크립트를 개념중에 헷갈리는 대표주자 클로저와 스코프 체인에 대해 설명해봤습니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MbYShFxp-j0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MbYShFxp-j0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MbYShFxp-j0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MbYShFxp-j0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MbYShFxp-j0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "코드종",
+        "playlistId": "UU9hWQRe4QrUivXN3VO2iuMA",
+        "position": 29,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "MbYShFxp-j0"
+        },
+        "videoOwnerChannelTitle": "코드종",
+        "videoOwnerChannelId": "UC9hWQRe4QrUivXN3VO2iuMA"
+      },
+      "contentDetails": {
+        "videoId": "MbYShFxp-j0",
+        "videoPublishedAt": "2018-06-21T19:58:12Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "video_details": [
+    {
+      "kind": "youtube#video",
+      "etag": "qITwTJjAFuqZaVjeXri7n6Vasf4",
+      "id": "He3P9aJISSE",
+      "snippet": {
+        "publishedAt": "2024-06-23T09:54:17Z",
+        "channelId": "UC9hWQRe4QrUivXN3VO2iuMA",
+        "title": "React 퀴즈: 컴포넌트와 엘리먼트를 알아야만 풀 수 있는 문제",
+        "description": "React를 사용하면서 헷갈릴만한 내용들을 재밌는 퀴즈를 통해 살펴볼게요. 그럼 오늘도 즐거운 코드종하세요~",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/He3P9aJISSE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/He3P9aJISSE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/He3P9aJISSE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/He3P9aJISSE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/He3P9aJISSE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "코드종",
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "React 퀴즈: 컴포넌트와 엘리먼트를 알아야만 풀 수 있는 문제",
+          "description": "React를 사용하면서 헷갈릴만한 내용들을 재밌는 퀴즈를 통해 살펴볼게요. 그럼 오늘도 즐거운 코드종하세요~"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT8M21S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "511",
+        "likeCount": "16",
+        "favoriteCount": "0",
+        "commentCount": "7"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Knowledge",
+          "https://en.wikipedia.org/wiki/Technology"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "React 퀴즈: 컴포넌트와 엘리먼트를 알아야만 풀 수 있는 문제",
+          "description": "React를 사용하면서 헷갈릴만한 내용들을 재밌는 퀴즈를 통해 살펴볼게요. 그럼 오늘도 즐거운 코드종하세요~"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ZTQSRc8BKN90lnjga0vcww7dLBE",
+      "id": "j3t6WoygfMk",
+      "snippet": {
+        "publishedAt": "2024-06-02T08:58:04Z",
+        "channelId": "UC9hWQRe4QrUivXN3VO2iuMA",
+        "title": "원시타입? - 자바스크립트식 사고로 다시보는 프로그래밍 기본 개념",
+        "description": "이 시리즈 영상을 통해 자바스크립트 개발에 필요한 프로그래밍 기본 개념을 다시 살펴보면서 자바스크립트가 모국어인 것처럼 자연스럽고  유창하게 자바스크립트 언어를 구사하는 개발자가 되시길 바랍니다. 🙏",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/j3t6WoygfMk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/j3t6WoygfMk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/j3t6WoygfMk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/j3t6WoygfMk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/j3t6WoygfMk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "코드종",
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "원시타입? - 자바스크립트식 사고로 다시보는 프로그래밍 기본 개념",
+          "description": "이 시리즈 영상을 통해 자바스크립트 개발에 필요한 프로그래밍 기본 개념을 다시 살펴보면서 자바스크립트가 모국어인 것처럼 자연스럽고  유창하게 자바스크립트 언어를 구사하는 개발자가 되시길 바랍니다. 🙏"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT5M",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "165",
+        "likeCount": "14",
+        "favoriteCount": "0",
+        "commentCount": "2"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Knowledge"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "원시타입? - 자바스크립트식 사고로 다시보는 프로그래밍 기본 개념",
+          "description": "이 시리즈 영상을 통해 자바스크립트 개발에 필요한 프로그래밍 기본 개념을 다시 살펴보면서 자바스크립트가 모국어인 것처럼 자연스럽고  유창하게 자바스크립트 언어를 구사하는 개발자가 되시길 바랍니다. 🙏"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "3Hr-S4XKuY4leD96oEOUAJEQCVc",
+      "id": "kUix9NdhS0U",
+      "snippet": {
+        "publishedAt": "2024-05-07T11:05:12Z",
+        "channelId": "UC9hWQRe4QrUivXN3VO2iuMA",
+        "title": "⚠️ Git Hash 읽을 땐 발음 주의 🤫",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kUix9NdhS0U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kUix9NdhS0U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kUix9NdhS0U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kUix9NdhS0U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kUix9NdhS0U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "코드종",
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "⚠️ Git Hash 읽을 땐 발음 주의 🤫",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT44S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "228",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Technology"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "⚠️ Git Hash 읽을 땐 발음 주의 🤫",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Mbj9UsJtZQMeRD3B26FaoHY7KuM",
+      "id": "_cn6C94Rj0c",
+      "snippet": {
+        "publishedAt": "2024-05-05T13:04:11Z",
+        "channelId": "UC9hWQRe4QrUivXN3VO2iuMA",
+        "title": "useActionState 새로운 Hook! React 19 Beta 알아보기 2:",
+        "description": "🎉 React 공식 블로그에 올라온 리액트 19의 새로운 hook useActionState에 대해 간단히 살펴봅니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_cn6C94Rj0c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_cn6C94Rj0c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_cn6C94Rj0c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_cn6C94Rj0c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_cn6C94Rj0c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "코드종",
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "useActionState 새로운 Hook! React 19 Beta 알아보기 2:",
+          "description": "🎉 React 공식 블로그에 올라온 리액트 19의 새로운 hook useActionState에 대해 간단히 살펴봅니다."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT2M58S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "797",
+        "likeCount": "24",
+        "favoriteCount": "0",
+        "commentCount": "4"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Knowledge",
+          "https://en.wikipedia.org/wiki/Technology"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "useActionState 새로운 Hook! React 19 Beta 알아보기 2:",
+          "description": "🎉 React 공식 블로그에 올라온 리액트 19의 새로운 hook useActionState에 대해 간단히 살펴봅니다."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "YdPGvgiL11-vl2uox5p-UEKz7qA",
+      "id": "NFUbKyTB2Ro",
+      "snippet": {
+        "publishedAt": "2024-05-05T09:16:15Z",
+        "channelId": "UC9hWQRe4QrUivXN3VO2iuMA",
+        "title": "React 게임 해킹으로 알아보는 throttle과 debounce",
+        "description": "throttle과 debounce을 이해하는 가장 좋은 방법은 게임을 해보면서 몸(?)으로 느끼는 것입니다. :)\nhttps://youtu.be/TZCiv_c5q8s",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NFUbKyTB2Ro/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NFUbKyTB2Ro/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NFUbKyTB2Ro/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NFUbKyTB2Ro/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NFUbKyTB2Ro/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "코드종",
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "React 게임 해킹으로 알아보는 throttle과 debounce",
+          "description": "throttle과 debounce을 이해하는 가장 좋은 방법은 게임을 해보면서 몸(?)으로 느끼는 것입니다. :)\nhttps://youtu.be/TZCiv_c5q8s"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT34S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1370",
+        "likeCount": "18",
+        "favoriteCount": "0",
+        "commentCount": "2"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Technology"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "React 게임 해킹으로 알아보는 throttle과 debounce",
+          "description": "throttle과 debounce을 이해하는 가장 좋은 방법은 게임을 해보면서 몸(?)으로 느끼는 것입니다. :)\nhttps://youtu.be/TZCiv_c5q8s"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "m4RqqcNdfR-BjE5VP8xbeR7HzOA",
+      "id": "NrlvV9zRQm0",
+      "snippet": {
+        "publishedAt": "2024-05-04T04:11:20Z",
+        "channelId": "UC9hWQRe4QrUivXN3VO2iuMA",
+        "title": "React 19 Beta의 새로운 점 알아보기 1: Action",
+        "description": "🎉 React 19 Beta에 대한 소식이 React 공식 블로그에 올라왔습니다. 이 글에서 소개하고 있는 내용을 하나씩 함께 살펴볼까요? 특히 useTransition의 변화와 관련된 Action에 대해 알아봅시다. 🚀",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NrlvV9zRQm0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NrlvV9zRQm0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NrlvV9zRQm0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NrlvV9zRQm0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NrlvV9zRQm0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "코드종",
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "React 19 Beta의 새로운 점 알아보기 1: Action",
+          "description": "🎉 React 19 Beta에 대한 소식이 React 공식 블로그에 올라왔습니다. 이 글에서 소개하고 있는 내용을 하나씩 함께 살펴볼까요? 특히 useTransition의 변화와 관련된 Action에 대해 알아봅시다. 🚀"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT6M48S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1943",
+        "likeCount": "56",
+        "favoriteCount": "0",
+        "commentCount": "13"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Knowledge",
+          "https://en.wikipedia.org/wiki/Technology"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "React 19 Beta의 새로운 점 알아보기 1: Action",
+          "description": "🎉 React 19 Beta에 대한 소식이 React 공식 블로그에 올라왔습니다. 이 글에서 소개하고 있는 내용을 하나씩 함께 살펴볼까요? 특히 useTransition의 변화와 관련된 Action에 대해 알아봅시다. 🚀"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "KaPOxggyClA15KTa8A7H_h0BeSY",
+      "id": "SNQVUIEjw8k",
+      "snippet": {
+        "publishedAt": "2022-04-10T07:39:17Z",
+        "channelId": "UC9hWQRe4QrUivXN3VO2iuMA",
+        "title": "값과 리터럴 - 자바스크립트식 사고로 다시보는 프로그래밍 개념",
+        "description": "자바스크립트를 사용하는 경험이 쌓일수록 관련된 궁금증을 찾아볼수록 \"이렇게 생각하는 것이 적절하지 않았구나! 요렇게 생각하는 게 더 맞겠네!\"라고 깨달을 때가 많았어요. 이를 통해 형성된 자바스크립트식 사고에 대해서 정리해보려고 합니다. \n이 시리즈 영상을 통해 자바스크립트 개발에 필요한 프로그래밍 기본 개념을 다시 살펴보면서 자바스크립트가 모국어인 것처럼 자연스럽고  유창하게 자바스크립트 언어를 구사하는 개발자가 되시길 바랍니다. 🙏",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SNQVUIEjw8k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SNQVUIEjw8k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SNQVUIEjw8k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SNQVUIEjw8k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SNQVUIEjw8k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "코드종",
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "값과 리터럴 - 자바스크립트식 사고로 다시보는 프로그래밍 개념",
+          "description": "자바스크립트를 사용하는 경험이 쌓일수록 관련된 궁금증을 찾아볼수록 \"이렇게 생각하는 것이 적절하지 않았구나! 요렇게 생각하는 게 더 맞겠네!\"라고 깨달을 때가 많았어요. 이를 통해 형성된 자바스크립트식 사고에 대해서 정리해보려고 합니다. \n이 시리즈 영상을 통해 자바스크립트 개발에 필요한 프로그래밍 기본 개념을 다시 살펴보면서 자바스크립트가 모국어인 것처럼 자연스럽고  유창하게 자바스크립트 언어를 구사하는 개발자가 되시길 바랍니다. 🙏"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT5M7S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1820",
+        "likeCount": "53",
+        "favoriteCount": "0",
+        "commentCount": "19"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Knowledge"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "값과 리터럴 - 자바스크립트식 사고로 다시보는 프로그래밍 개념",
+          "description": "자바스크립트를 사용하는 경험이 쌓일수록 관련된 궁금증을 찾아볼수록 \"이렇게 생각하는 것이 적절하지 않았구나! 요렇게 생각하는 게 더 맞겠네!\"라고 깨달을 때가 많았어요. 이를 통해 형성된 자바스크립트식 사고에 대해서 정리해보려고 합니다. \n이 시리즈 영상을 통해 자바스크립트 개발에 필요한 프로그래밍 기본 개념을 다시 살펴보면서 자바스크립트가 모국어인 것처럼 자연스럽고  유창하게 자바스크립트 언어를 구사하는 개발자가 되시길 바랍니다. 🙏"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "bZAGBCf9yGPa_JxC7vx4AxC0iKg",
+      "id": "wwJMPhSUjgA",
+      "snippet": {
+        "publishedAt": "2022-03-06T13:34:53Z",
+        "channelId": "UC9hWQRe4QrUivXN3VO2iuMA",
+        "title": "프로그래밍 언어란? - 자바스크립트식 사고로 다시보는 프로그래밍 개념",
+        "description": "자바스크립트를 사용하는 경험이 쌓일수록 관련된 궁금증을 찾아볼수록 \"이렇게 생각하는 것이 적절하지 않았구나! 요렇게 생각하는 게 더 맞겠네!\"라고 깨달을 때가 많았어요. 이를 통해 형성된 자바스크립트식 사고에 대해서 정리해보려고 합니다. \n이 시리즈 영상을 통해 자바스크립트 개발에 필요한 프로그래밍 기본 개념을 다시 살펴보면서 자바스크립트가 모국어인 것처럼 자연스럽고  유창하게 자바스크립트 언어를 구사하는 개발자가 되시길 바랍니다. 🙏",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wwJMPhSUjgA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wwJMPhSUjgA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wwJMPhSUjgA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wwJMPhSUjgA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wwJMPhSUjgA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "코드종",
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "프로그래밍 언어란? - 자바스크립트식 사고로 다시보는 프로그래밍 개념",
+          "description": "자바스크립트를 사용하는 경험이 쌓일수록 관련된 궁금증을 찾아볼수록 \"이렇게 생각하는 것이 적절하지 않았구나! 요렇게 생각하는 게 더 맞겠네!\"라고 깨달을 때가 많았어요. 이를 통해 형성된 자바스크립트식 사고에 대해서 정리해보려고 합니다. \n이 시리즈 영상을 통해 자바스크립트 개발에 필요한 프로그래밍 기본 개념을 다시 살펴보면서 자바스크립트가 모국어인 것처럼 자연스럽고  유창하게 자바스크립트 언어를 구사하는 개발자가 되시길 바랍니다. 🙏"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT11M11S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "2128",
+        "likeCount": "80",
+        "favoriteCount": "0",
+        "commentCount": "21"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Knowledge"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "프로그래밍 언어란? - 자바스크립트식 사고로 다시보는 프로그래밍 개념",
+          "description": "자바스크립트를 사용하는 경험이 쌓일수록 관련된 궁금증을 찾아볼수록 \"이렇게 생각하는 것이 적절하지 않았구나! 요렇게 생각하는 게 더 맞겠네!\"라고 깨달을 때가 많았어요. 이를 통해 형성된 자바스크립트식 사고에 대해서 정리해보려고 합니다. \n이 시리즈 영상을 통해 자바스크립트 개발에 필요한 프로그래밍 기본 개념을 다시 살펴보면서 자바스크립트가 모국어인 것처럼 자연스럽고  유창하게 자바스크립트 언어를 구사하는 개발자가 되시길 바랍니다. 🙏"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "HSoVyICmxX-DaUCySZCcxdDaBgA",
+      "id": "sTMeRamEwwk",
+      "snippet": {
+        "publishedAt": "2022-02-27T09:33:57Z",
+        "channelId": "UC9hWQRe4QrUivXN3VO2iuMA",
+        "title": "코좀봐코 - 화살표 함수에서 간단히 객체 리턴할 때 왜 괄호()가 필요한 거죠?",
+        "description": "질문 링크 : https://class.codejong.kr/t/topic/379\n\n\"코드 좀 봐주세요. 코드종!\"\n\n내 코드를 누가 좀 봐서 피드백 줬으면 하나요? 코딩을 하다가 더 나은 방법은 없는지 찾고 계신가요?\n코드종에게 코드리뷰를 신청해보세요. 코드종이 코드리뷰해주는 새로운 시리즈를 시작합니다. \n\n신청 방법은 이 영상과 다음 링크에 자세히 설명되어 있습니다.\nhttps://class.codejong.kr/t/topic/364\n\n그럼 https://class.codejong.kr 에 코드 리뷰 신청하로 고고고!\n\n#javascript #자바스크립트 #함수 #function",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sTMeRamEwwk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sTMeRamEwwk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sTMeRamEwwk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sTMeRamEwwk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sTMeRamEwwk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "코드종",
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "코좀봐코 - 화살표 함수에서 간단히 객체 리턴할 때 왜 괄호()가 필요한 거죠?",
+          "description": "질문 링크 : https://class.codejong.kr/t/topic/379\n\n\"코드 좀 봐주세요. 코드종!\"\n\n내 코드를 누가 좀 봐서 피드백 줬으면 하나요? 코딩을 하다가 더 나은 방법은 없는지 찾고 계신가요?\n코드종에게 코드리뷰를 신청해보세요. 코드종이 코드리뷰해주는 새로운 시리즈를 시작합니다. \n\n신청 방법은 이 영상과 다음 링크에 자세히 설명되어 있습니다.\nhttps://class.codejong.kr/t/topic/364\n\n그럼 https://class.codejong.kr 에 코드 리뷰 신청하로 고고고!\n\n#javascript #자바스크립트 #함수 #function"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT5M26S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1368",
+        "likeCount": "56",
+        "favoriteCount": "0",
+        "commentCount": "4"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Knowledge"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "코좀봐코 - 화살표 함수에서 간단히 객체 리턴할 때 왜 괄호()가 필요한 거죠?",
+          "description": "질문 링크 : https://class.codejong.kr/t/topic/379\n\n\"코드 좀 봐주세요. 코드종!\"\n\n내 코드를 누가 좀 봐서 피드백 줬으면 하나요? 코딩을 하다가 더 나은 방법은 없는지 찾고 계신가요?\n코드종에게 코드리뷰를 신청해보세요. 코드종이 코드리뷰해주는 새로운 시리즈를 시작합니다. \n\n신청 방법은 이 영상과 다음 링크에 자세히 설명되어 있습니다.\nhttps://class.codejong.kr/t/topic/364\n\n그럼 https://class.codejong.kr 에 코드 리뷰 신청하로 고고고!\n\n#javascript #자바스크립트 #함수 #function"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "3FIqdIIPJnT5jxI643fNRRBYUrs",
+      "id": "zBmTqF0GpN4",
+      "snippet": {
+        "publishedAt": "2022-02-20T00:44:17Z",
+        "channelId": "UC9hWQRe4QrUivXN3VO2iuMA",
+        "title": "코좀봐코 - React에서의 타이머 part 2 : useIntervalValue Hook 만들어서 카운트다운 쉽게 구현하기",
+        "description": "질문 링크 : https://class.codejong.kr/t/react/371/4\n\n\"코드 좀 봐주세요. 코드종!\"\n\n내 코드를 누가 좀 봐서 피드백 줬으면 하나요? 코딩을 하다가 더 나은 방법은 없는지 찾고 계신가요?\n코드종에게 코드리뷰를 신청해보세요. 코드종이 코드리뷰해주는 새로운 시리즈를 시작합니다. \n\n신청 방법은 이 영상과 다음 링크에 자세히 설명되어 있습니다.\nhttps://class.codejong.kr/t/topic/364\n\n그럼 https://class.codejong.kr 에 코드 리뷰 신청하로 고고고!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zBmTqF0GpN4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zBmTqF0GpN4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zBmTqF0GpN4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zBmTqF0GpN4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zBmTqF0GpN4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "코드종",
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "코좀봐코 - React에서의 타이머 part 2 : useIntervalValue Hook 만들어서 카운트다운 쉽게 구현하기",
+          "description": "질문 링크 : https://class.codejong.kr/t/react/371/4\n\n\"코드 좀 봐주세요. 코드종!\"\n\n내 코드를 누가 좀 봐서 피드백 줬으면 하나요? 코딩을 하다가 더 나은 방법은 없는지 찾고 계신가요?\n코드종에게 코드리뷰를 신청해보세요. 코드종이 코드리뷰해주는 새로운 시리즈를 시작합니다. \n\n신청 방법은 이 영상과 다음 링크에 자세히 설명되어 있습니다.\nhttps://class.codejong.kr/t/topic/364\n\n그럼 https://class.codejong.kr 에 코드 리뷰 신청하로 고고고!"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT10M56S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1403",
+        "likeCount": "23",
+        "favoriteCount": "0",
+        "commentCount": "3"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Knowledge"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "코좀봐코 - React에서의 타이머 part 2 : useIntervalValue Hook 만들어서 카운트다운 쉽게 구현하기",
+          "description": "질문 링크 : https://class.codejong.kr/t/react/371/4\n\n\"코드 좀 봐주세요. 코드종!\"\n\n내 코드를 누가 좀 봐서 피드백 줬으면 하나요? 코딩을 하다가 더 나은 방법은 없는지 찾고 계신가요?\n코드종에게 코드리뷰를 신청해보세요. 코드종이 코드리뷰해주는 새로운 시리즈를 시작합니다. \n\n신청 방법은 이 영상과 다음 링크에 자세히 설명되어 있습니다.\nhttps://class.codejong.kr/t/topic/364\n\n그럼 https://class.codejong.kr 에 코드 리뷰 신청하로 고고고!"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Xe8C6UR_pU6knggv4fam6njFMXY",
+      "id": "2tUdyY5uBSw",
+      "snippet": {
+        "publishedAt": "2022-02-13T04:47:27Z",
+        "channelId": "UC9hWQRe4QrUivXN3VO2iuMA",
+        "title": "코좀봐코 - React에서의 타이머 part 1 : setInterval 말고 이것!",
+        "description": "\"코드 좀 봐주세요. 코드종!\"\n\n내 코드를 누가 좀 봐서 피드백 줬으면 하나요? 코딩을 하다가 더 나은 방법은 없는지 찾고 계신가요?\n코드종에게 코드리뷰를 신청해보세요. 코드종이 코드리뷰해주는 새로운 시리즈를 시작합니다. \n\n신청 방법은 이 영상과 다음 링크에 자세히 설명되어 있습니다.\nhttps://class.codejong.kr/t/topic/364\n\n그럼 https://class.codejong.kr 에 코드 리뷰 신청하로 고고고!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2tUdyY5uBSw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2tUdyY5uBSw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2tUdyY5uBSw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2tUdyY5uBSw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2tUdyY5uBSw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "코드종",
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "코좀봐코 - React에서의 타이머 part 1 : setInterval 말고 이것!",
+          "description": "\"코드 좀 봐주세요. 코드종!\"\n\n내 코드를 누가 좀 봐서 피드백 줬으면 하나요? 코딩을 하다가 더 나은 방법은 없는지 찾고 계신가요?\n코드종에게 코드리뷰를 신청해보세요. 코드종이 코드리뷰해주는 새로운 시리즈를 시작합니다. \n\n신청 방법은 이 영상과 다음 링크에 자세히 설명되어 있습니다.\nhttps://class.codejong.kr/t/topic/364\n\n그럼 https://class.codejong.kr 에 코드 리뷰 신청하로 고고고!"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT11M52S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "3951",
+        "likeCount": "85",
+        "favoriteCount": "0",
+        "commentCount": "12"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Knowledge"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "코좀봐코 - React에서의 타이머 part 1 : setInterval 말고 이것!",
+          "description": "\"코드 좀 봐주세요. 코드종!\"\n\n내 코드를 누가 좀 봐서 피드백 줬으면 하나요? 코딩을 하다가 더 나은 방법은 없는지 찾고 계신가요?\n코드종에게 코드리뷰를 신청해보세요. 코드종이 코드리뷰해주는 새로운 시리즈를 시작합니다. \n\n신청 방법은 이 영상과 다음 링크에 자세히 설명되어 있습니다.\nhttps://class.codejong.kr/t/topic/364\n\n그럼 https://class.codejong.kr 에 코드 리뷰 신청하로 고고고!"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "3JZ8qIfIfryDeOlsDSuVjY7v3x4",
+      "id": "WFqZDIXHSRI",
+      "snippet": {
+        "publishedAt": "2021-12-25T13:49:10Z",
+        "channelId": "UC9hWQRe4QrUivXN3VO2iuMA",
+        "title": "VS Code 괄호 짝 맞추기 순정 팁 (익스텐션 설치 없이) - 코드종의 숏!데브",
+        "description": "#Shorts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WFqZDIXHSRI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WFqZDIXHSRI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WFqZDIXHSRI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WFqZDIXHSRI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WFqZDIXHSRI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "코드종",
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "VS Code 괄호 짝 맞추기 순정 팁 (익스텐션 설치 없이) - 코드종의 숏!데브",
+          "description": "#Shorts"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT36S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "2946",
+        "likeCount": "99",
+        "favoriteCount": "0",
+        "commentCount": "14"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "VS Code 괄호 짝 맞추기 순정 팁 (익스텐션 설치 없이) - 코드종의 숏!데브",
+          "description": "#Shorts"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "8AwaNGIHGHfcUjN3MMQaH0ViVnI",
+      "id": "5N4sd03X7n4",
+      "snippet": {
+        "publishedAt": "2021-12-19T10:37:50Z",
+        "channelId": "UC9hWQRe4QrUivXN3VO2iuMA",
+        "title": "코드 리뷰 신청하세요. \"코드 좀 봐주세요 코드종\" 시리즈 안내",
+        "description": "내 코드를 누가 좀 봐서 피드백 줬으면 하나요? 코딩을 하다가 더 나은 방법은 없는지 찾고 계신가요?\n코드종에게 코드리뷰를 신청해보세요. 코드종이 코드리뷰해주는 새로운 시리즈를 시작합니다. \n\n신청 방법은 이 영상과 다음 링크에 자세히 설명되어 있습니다.\nhttps://class.codejong.kr/t/topic/364\n\n그럼 https://class.codejong.kr 에 코드 리뷰 신청하로 고고고!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5N4sd03X7n4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5N4sd03X7n4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5N4sd03X7n4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5N4sd03X7n4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5N4sd03X7n4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "코드종",
+        "tags": [
+          "코드리뷰",
+          "자바스크립트",
+          "코드종",
+          "리액트",
+          "react",
+          "javascript",
+          "react-native",
+          "리액트 네이티브",
+          "code review"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "코드 리뷰 신청하세요. \"코드 좀 봐주세요 코드종\" 시리즈 안내",
+          "description": "내 코드를 누가 좀 봐서 피드백 줬으면 하나요? 코딩을 하다가 더 나은 방법은 없는지 찾고 계신가요?\n코드종에게 코드리뷰를 신청해보세요. 코드종이 코드리뷰해주는 새로운 시리즈를 시작합니다. \n\n신청 방법은 이 영상과 다음 링크에 자세히 설명되어 있습니다.\nhttps://class.codejong.kr/t/topic/364\n\n그럼 https://class.codejong.kr 에 코드 리뷰 신청하로 고고고!"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT2M8S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1221",
+        "likeCount": "46",
+        "favoriteCount": "0",
+        "commentCount": "21"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "코드 리뷰 신청하세요. \"코드 좀 봐주세요 코드종\" 시리즈 안내",
+          "description": "내 코드를 누가 좀 봐서 피드백 줬으면 하나요? 코딩을 하다가 더 나은 방법은 없는지 찾고 계신가요?\n코드종에게 코드리뷰를 신청해보세요. 코드종이 코드리뷰해주는 새로운 시리즈를 시작합니다. \n\n신청 방법은 이 영상과 다음 링크에 자세히 설명되어 있습니다.\nhttps://class.codejong.kr/t/topic/364\n\n그럼 https://class.codejong.kr 에 코드 리뷰 신청하로 고고고!"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "FRUK57mKh3mkVQ9tVFo_4uF58V8",
+      "id": "kngOWhzPHzg",
+      "snippet": {
+        "publishedAt": "2019-04-01T03:25:42Z",
+        "channelId": "UC9hWQRe4QrUivXN3VO2iuMA",
+        "title": "자바스크립트 예외처리 4/4 - async/await의 예외",
+        "description": "\"(가칭) promise 완전정복!\" promise 패턴에 대한 보다 자세한 영상을 준비중입니다. promise에 대해 보다 자세히 알고 싶은 분들은 조금만 기다려주세요.\n\n이번 예외처리 4번째 영상으로 async 함수에서의 예외 처리하는 방법에 대해 알아봤습니다. 자바스크립트 예외처리와 관련하여 총 4개의 영상으로 나누어 설명했어요. ㅠ\n\n1/4 - 예외란 무엇인가? throw? : https://youtu.be/EBmIHrLTVdg\n2/4 - try catch, Error 객체 : https://youtu.be/wf6AlMj7TFA\n3/4 - promise에서의 예외처리 : https://youtu.be/RRc_iVHdDKk\n4/4 - async / await의 예외처리 : https://youtu.be/kngOWhzPHzg",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kngOWhzPHzg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kngOWhzPHzg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kngOWhzPHzg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kngOWhzPHzg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kngOWhzPHzg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "코드종",
+        "tags": [
+          "exception",
+          "자바스크립트",
+          "javascript",
+          "예외",
+          "catch",
+          "throw",
+          "async",
+          "await",
+          "codejong"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "자바스크립트 예외처리 4/4 - async/await의 예외",
+          "description": "\"(가칭) promise 완전정복!\" promise 패턴에 대한 보다 자세한 영상을 준비중입니다. promise에 대해 보다 자세히 알고 싶은 분들은 조금만 기다려주세요.\n\n이번 예외처리 4번째 영상으로 async 함수에서의 예외 처리하는 방법에 대해 알아봤습니다. 자바스크립트 예외처리와 관련하여 총 4개의 영상으로 나누어 설명했어요. ㅠ\n\n1/4 - 예외란 무엇인가? throw? : https://youtu.be/EBmIHrLTVdg\n2/4 - try catch, Error 객체 : https://youtu.be/wf6AlMj7TFA\n3/4 - promise에서의 예외처리 : https://youtu.be/RRc_iVHdDKk\n4/4 - async / await의 예외처리 : https://youtu.be/kngOWhzPHzg"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT11M40S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "6383",
+        "likeCount": "213",
+        "favoriteCount": "0",
+        "commentCount": "59"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Knowledge",
+          "https://en.wikipedia.org/wiki/Technology"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "자바스크립트 예외처리 4/4 - async/await의 예외",
+          "description": "\"(가칭) promise 완전정복!\" promise 패턴에 대한 보다 자세한 영상을 준비중입니다. promise에 대해 보다 자세히 알고 싶은 분들은 조금만 기다려주세요.\n\n이번 예외처리 4번째 영상으로 async 함수에서의 예외 처리하는 방법에 대해 알아봤습니다. 자바스크립트 예외처리와 관련하여 총 4개의 영상으로 나누어 설명했어요. ㅠ\n\n1/4 - 예외란 무엇인가? throw? : https://youtu.be/EBmIHrLTVdg\n2/4 - try catch, Error 객체 : https://youtu.be/wf6AlMj7TFA\n3/4 - promise에서의 예외처리 : https://youtu.be/RRc_iVHdDKk\n4/4 - async / await의 예외처리 : https://youtu.be/kngOWhzPHzg"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "DADrFqvDdI289LAuHpkZsG2s42Q",
+      "id": "RRc_iVHdDKk",
+      "snippet": {
+        "publishedAt": "2019-03-25T02:24:15Z",
+        "channelId": "UC9hWQRe4QrUivXN3VO2iuMA",
+        "title": "자바스크립트 예외처리 3/4 - promise의 catch함수",
+        "description": "\"(가칭) promise 완전정복!\" promise 패턴에 대한 보다 자세한 영상을 준비중입니다. promise에 대해 보다 자세히 알고 싶은 분들은 조금만 기다려주세요.\n\n이번 예외처리 세번째 영상에서는 promise에서 예외처리할 때 사용하는 catch함수에 대해 이야기합니다. 자바스크립트 예외처리와 관련하여 총 4개의 영상으로 나누어 설명합니다.\n\n1/4 - 예외란 무엇인가? throw? : https://youtu.be/EBmIHrLTVdg\n2/4 - try catch, Error 객체 : https://youtu.be/wf6AlMj7TFA\n3/4 - promise에서의 예외처리 : https://youtu.be/RRc_iVHdDKk\n4/4 - async / await의 예외처리 : https://youtu.be/kngOWhzPHzg",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RRc_iVHdDKk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RRc_iVHdDKk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RRc_iVHdDKk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RRc_iVHdDKk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RRc_iVHdDKk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "코드종",
+        "tags": [
+          "exception",
+          "javascript",
+          "js",
+          "예외처리",
+          "promise",
+          "프라미스",
+          "catch",
+          "자바스크립트",
+          "codejong",
+          "코드종"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "자바스크립트 예외처리 3/4 - promise의 catch함수",
+          "description": "\"(가칭) promise 완전정복!\" promise 패턴에 대한 보다 자세한 영상을 준비중입니다. promise에 대해 보다 자세히 알고 싶은 분들은 조금만 기다려주세요.\n\n이번 예외처리 세번째 영상에서는 promise에서 예외처리할 때 사용하는 catch함수에 대해 이야기합니다. 자바스크립트 예외처리와 관련하여 총 4개의 영상으로 나누어 설명합니다.\n\n1/4 - 예외란 무엇인가? throw? : https://youtu.be/EBmIHrLTVdg\n2/4 - try catch, Error 객체 : https://youtu.be/wf6AlMj7TFA\n3/4 - promise에서의 예외처리 : https://youtu.be/RRc_iVHdDKk\n4/4 - async / await의 예외처리 : https://youtu.be/kngOWhzPHzg"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT10M22S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "4914",
+        "likeCount": "139",
+        "favoriteCount": "0",
+        "commentCount": "21"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Knowledge"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "자바스크립트 예외처리 3/4 - promise의 catch함수",
+          "description": "\"(가칭) promise 완전정복!\" promise 패턴에 대한 보다 자세한 영상을 준비중입니다. promise에 대해 보다 자세히 알고 싶은 분들은 조금만 기다려주세요.\n\n이번 예외처리 세번째 영상에서는 promise에서 예외처리할 때 사용하는 catch함수에 대해 이야기합니다. 자바스크립트 예외처리와 관련하여 총 4개의 영상으로 나누어 설명합니다.\n\n1/4 - 예외란 무엇인가? throw? : https://youtu.be/EBmIHrLTVdg\n2/4 - try catch, Error 객체 : https://youtu.be/wf6AlMj7TFA\n3/4 - promise에서의 예외처리 : https://youtu.be/RRc_iVHdDKk\n4/4 - async / await의 예외처리 : https://youtu.be/kngOWhzPHzg"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "sYC90bckT1MDkD0YX1OtlaGfn7E",
+      "id": "wf6AlMj7TFA",
+      "snippet": {
+        "publishedAt": "2019-03-20T22:15:51Z",
+        "channelId": "UC9hWQRe4QrUivXN3VO2iuMA",
+        "title": "자바스크립트 예외처리  2/4 - try catch, Error 객체",
+        "description": "예외처리 두번째 영상에서는 try catch 구문과 Error 객체에 대해 이야기합니다. 자바스크립트 예외처리와 관련하여 총 4개의 영상으로 나누어 설명합니다.\n\n1/4 - 예외란 무엇인가? throw? : https://youtu.be/EBmIHrLTVdg\n2/4 - try catch, Error 객체 : https://youtu.be/wf6AlMj7TFA\n3/4 - promise에서의 예외처리 : https://youtu.be/RRc_iVHdDKk\n4/4 - async / await의 예외처리 : https://youtu.be/kngOWhzPHzg",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wf6AlMj7TFA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wf6AlMj7TFA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wf6AlMj7TFA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wf6AlMj7TFA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wf6AlMj7TFA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "코드종",
+        "tags": [
+          "exception",
+          "try catch",
+          "erorr",
+          "코드종",
+          "자바스크립트",
+          "javascript",
+          "예외처리",
+          "에러"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "자바스크립트 예외처리  2/4 - try catch, Error 객체",
+          "description": "예외처리 두번째 영상에서는 try catch 구문과 Error 객체에 대해 이야기합니다. 자바스크립트 예외처리와 관련하여 총 4개의 영상으로 나누어 설명합니다.\n\n1/4 - 예외란 무엇인가? throw? : https://youtu.be/EBmIHrLTVdg\n2/4 - try catch, Error 객체 : https://youtu.be/wf6AlMj7TFA\n3/4 - promise에서의 예외처리 : https://youtu.be/RRc_iVHdDKk\n4/4 - async / await의 예외처리 : https://youtu.be/kngOWhzPHzg"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT6M40S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "5075",
+        "likeCount": "139",
+        "favoriteCount": "0",
+        "commentCount": "13"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Knowledge",
+          "https://en.wikipedia.org/wiki/Technology"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "자바스크립트 예외처리  2/4 - try catch, Error 객체",
+          "description": "예외처리 두번째 영상에서는 try catch 구문과 Error 객체에 대해 이야기합니다. 자바스크립트 예외처리와 관련하여 총 4개의 영상으로 나누어 설명합니다.\n\n1/4 - 예외란 무엇인가? throw? : https://youtu.be/EBmIHrLTVdg\n2/4 - try catch, Error 객체 : https://youtu.be/wf6AlMj7TFA\n3/4 - promise에서의 예외처리 : https://youtu.be/RRc_iVHdDKk\n4/4 - async / await의 예외처리 : https://youtu.be/kngOWhzPHzg"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "eb78Ic6JAlHm_ZSdp4j4_QkPxLs",
+      "id": "EBmIHrLTVdg",
+      "snippet": {
+        "publishedAt": "2019-03-18T12:58:37Z",
+        "channelId": "UC9hWQRe4QrUivXN3VO2iuMA",
+        "title": "자바스크립트 예외처리  1/4 - 예외란 무엇인가? throw?",
+        "description": "자바스크립트 예외처리와 관련하여 총 4개의 영상으로 나누어 설명할 예정입니다. 우선 첫 번째 영상에서는 예외의 개념과 예외의 발생에 대한 기본적인 내용을  담고 있습니다.\n\n1/4 - 예외란 무엇인가? throw? : https://youtu.be/EBmIHrLTVdg\n2/4 - try catch, Error 객체 : https://youtu.be/wf6AlMj7TFA\n3/4 - promise에서의 예외처리 : https://youtu.be/RRc_iVHdDKk\n4/4 - async / await의 예외처리 : https://youtu.be/kngOWhzPHzg",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EBmIHrLTVdg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EBmIHrLTVdg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EBmIHrLTVdg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EBmIHrLTVdg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EBmIHrLTVdg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "코드종",
+        "tags": [
+          "exception",
+          "자바스크립트",
+          "예외처리",
+          "throw",
+          "catch",
+          "codejong"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "자바스크립트 예외처리  1/4 - 예외란 무엇인가? throw?",
+          "description": "자바스크립트 예외처리와 관련하여 총 4개의 영상으로 나누어 설명할 예정입니다. 우선 첫 번째 영상에서는 예외의 개념과 예외의 발생에 대한 기본적인 내용을  담고 있습니다.\n\n1/4 - 예외란 무엇인가? throw? : https://youtu.be/EBmIHrLTVdg\n2/4 - try catch, Error 객체 : https://youtu.be/wf6AlMj7TFA\n3/4 - promise에서의 예외처리 : https://youtu.be/RRc_iVHdDKk\n4/4 - async / await의 예외처리 : https://youtu.be/kngOWhzPHzg"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M26S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "5469",
+        "likeCount": "136",
+        "favoriteCount": "0",
+        "commentCount": "18"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Knowledge",
+          "https://en.wikipedia.org/wiki/Technology"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "자바스크립트 예외처리  1/4 - 예외란 무엇인가? throw?",
+          "description": "자바스크립트 예외처리와 관련하여 총 4개의 영상으로 나누어 설명할 예정입니다. 우선 첫 번째 영상에서는 예외의 개념과 예외의 발생에 대한 기본적인 내용을  담고 있습니다.\n\n1/4 - 예외란 무엇인가? throw? : https://youtu.be/EBmIHrLTVdg\n2/4 - try catch, Error 객체 : https://youtu.be/wf6AlMj7TFA\n3/4 - promise에서의 예외처리 : https://youtu.be/RRc_iVHdDKk\n4/4 - async / await의 예외처리 : https://youtu.be/kngOWhzPHzg"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ZKh9AMOwDdf4POQStzNf5pgiG7o",
+      "id": "SVxLx8-g3Q4",
+      "snippet": {
+        "publishedAt": "2018-10-17T14:28:16Z",
+        "channelId": "UC9hWQRe4QrUivXN3VO2iuMA",
+        "title": "리액트 네이티브 라이브 화상 강의 실례 (3분 버전)",
+        "description": "코드종의 클래스에서 진행하고 있는 라이브 화상 강의의 실제 모습을 보여드리기 위해 실제 영상의 일부를 편집해봤습니다. class.codejong.kr을 방문해보세요~\n\n#코드종클래스 #라이브강의",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SVxLx8-g3Q4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SVxLx8-g3Q4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SVxLx8-g3Q4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SVxLx8-g3Q4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SVxLx8-g3Q4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "코드종",
+        "tags": [
+          "코드종의 클래스"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "리액트 네이티브 라이브 화상 강의 실례 (3분 버전)",
+          "description": "코드종의 클래스에서 진행하고 있는 라이브 화상 강의의 실제 모습을 보여드리기 위해 실제 영상의 일부를 편집해봤습니다. class.codejong.kr을 방문해보세요~\n\n#코드종클래스 #라이브강의"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT2M58S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1226",
+        "likeCount": "11",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Knowledge",
+          "https://en.wikipedia.org/wiki/Technology"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "리액트 네이티브 라이브 화상 강의 실례 (3분 버전)",
+          "description": "코드종의 클래스에서 진행하고 있는 라이브 화상 강의의 실제 모습을 보여드리기 위해 실제 영상의 일부를 편집해봤습니다. class.codejong.kr을 방문해보세요~\n\n#코드종클래스 #라이브강의"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "TDkbD6bn0gTkJD8iN2o4BGS4qq4",
+      "id": "AAtDnz7pn9o",
+      "snippet": {
+        "publishedAt": "2018-10-17T00:14:58Z",
+        "channelId": "UC9hWQRe4QrUivXN3VO2iuMA",
+        "title": "ScreenBrush 소개 - 유튜브/화상강의 필수 애플리케이션",
+        "description": "유튜브 영상을 찍거나 화상강의 할 때 아주 유용하게 사용하고 있는  ScreenBrush를 소개합니다.\n\n#2분리뷰 #화상강의 #필수앱",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AAtDnz7pn9o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AAtDnz7pn9o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AAtDnz7pn9o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AAtDnz7pn9o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AAtDnz7pn9o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "코드종",
+        "tags": [
+          "2분리뷰",
+          "screenbrush",
+          "앱추천",
+          "codejong"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "ScreenBrush 소개 - 유튜브/화상강의 필수 애플리케이션",
+          "description": "유튜브 영상을 찍거나 화상강의 할 때 아주 유용하게 사용하고 있는  ScreenBrush를 소개합니다.\n\n#2분리뷰 #화상강의 #필수앱"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT2M12S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "2920",
+        "likeCount": "53",
+        "favoriteCount": "0",
+        "commentCount": "17"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Technology"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "ScreenBrush 소개 - 유튜브/화상강의 필수 애플리케이션",
+          "description": "유튜브 영상을 찍거나 화상강의 할 때 아주 유용하게 사용하고 있는  ScreenBrush를 소개합니다.\n\n#2분리뷰 #화상강의 #필수앱"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "CnbDWKa8oL-_-RNfSpHN1iLSx7c",
+      "id": "TZCiv_c5q8s",
+      "snippet": {
+        "publishedAt": "2018-10-09T23:06:33Z",
+        "channelId": "UC9hWQRe4QrUivXN3VO2iuMA",
+        "title": "게임 해킹으로 알아보는 throttle과 debounce",
+        "description": "- 게임 데모 및 소스 정보 : https://class.codejong.kr/t/throttle-debouce/65\n\nthrottle과 debounce을 이해하는 가장 좋은 방법은 게임을 해보면서 몸(?)으로 느끼는 것입니다. :)\n\n- 코드종의 라이브 클래스 :  https://class.codejong.kr\n- 페이스북 페이지 : https://bit.ly/2MbR9vh\n\n#debounce #throttle #게임해킹 #lodash.js",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TZCiv_c5q8s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TZCiv_c5q8s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TZCiv_c5q8s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TZCiv_c5q8s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TZCiv_c5q8s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "코드종",
+        "tags": [
+          "debounce",
+          "throttle",
+          "게임",
+          "해킹",
+          "hacking",
+          "game",
+          "lodash.js",
+          "codejong"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "게임 해킹으로 알아보는 throttle과 debounce",
+          "description": "- 게임 데모 및 소스 정보 : https://class.codejong.kr/t/throttle-debouce/65\n\nthrottle과 debounce을 이해하는 가장 좋은 방법은 게임을 해보면서 몸(?)으로 느끼는 것입니다. :)\n\n- 코드종의 라이브 클래스 :  https://class.codejong.kr\n- 페이스북 페이지 : https://bit.ly/2MbR9vh\n\n#debounce #throttle #게임해킹 #lodash.js"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT15M42S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "4712",
+        "likeCount": "102",
+        "favoriteCount": "0",
+        "commentCount": "12"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Knowledge",
+          "https://en.wikipedia.org/wiki/Technology"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "게임 해킹으로 알아보는 throttle과 debounce",
+          "description": "- 게임 데모 및 소스 정보 : https://class.codejong.kr/t/throttle-debouce/65\n\nthrottle과 debounce을 이해하는 가장 좋은 방법은 게임을 해보면서 몸(?)으로 느끼는 것입니다. :)\n\n- 코드종의 라이브 클래스 :  https://class.codejong.kr\n- 페이스북 페이지 : https://bit.ly/2MbR9vh\n\n#debounce #throttle #게임해킹 #lodash.js"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Fjoo9mBYW6OtFopJUdmHcGKoQBE",
+      "id": "JzXjB6L99N4",
+      "snippet": {
+        "publishedAt": "2018-10-04T07:44:01Z",
+        "channelId": "UC9hWQRe4QrUivXN3VO2iuMA",
+        "title": "자바스크립트 async / await? 나도 써보자, 기본 개념부터~",
+        "description": "async/await을 사용하면 좋다는데 아직 개념이 헷갈려서 쓰기 망설여지시나요? 그런 분들을 위해 한번 설명해봤습니다.\n\n- 코드종의 라이브 클래스 :  https://class.codejong.kr\n- 페이스북 페이지 : https://bit.ly/2MbR9vh\n- 콜백 함수의 동기적 실행과 비동기적 실행 : https://youtu.be/j0Viy3v97gY\n- Promise 기본 사용법 : https://youtu.be/CA5EDD4Hjz4\n- \"자바스크립트 헷갈리는 개념 바로 알기\" 시리즈 : https://goo.gl/PXuiDB\n\n#javascript #async #await #promise",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JzXjB6L99N4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JzXjB6L99N4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JzXjB6L99N4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JzXjB6L99N4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JzXjB6L99N4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "코드종",
+        "tags": [
+          "codejong",
+          "코드종",
+          "javascript",
+          "자바스크립트",
+          "async",
+          "await",
+          "promise"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "자바스크립트 async / await? 나도 써보자, 기본 개념부터~",
+          "description": "async/await을 사용하면 좋다는데 아직 개념이 헷갈려서 쓰기 망설여지시나요? 그런 분들을 위해 한번 설명해봤습니다.\n\n- 코드종의 라이브 클래스 :  https://class.codejong.kr\n- 페이스북 페이지 : https://bit.ly/2MbR9vh\n- 콜백 함수의 동기적 실행과 비동기적 실행 : https://youtu.be/j0Viy3v97gY\n- Promise 기본 사용법 : https://youtu.be/CA5EDD4Hjz4\n- \"자바스크립트 헷갈리는 개념 바로 알기\" 시리즈 : https://goo.gl/PXuiDB\n\n#javascript #async #await #promise"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT11M27S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "24916",
+        "likeCount": "564",
+        "favoriteCount": "0",
+        "commentCount": "83"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Knowledge",
+          "https://en.wikipedia.org/wiki/Technology"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "자바스크립트 async / await? 나도 써보자, 기본 개념부터~",
+          "description": "async/await을 사용하면 좋다는데 아직 개념이 헷갈려서 쓰기 망설여지시나요? 그런 분들을 위해 한번 설명해봤습니다.\n\n- 코드종의 라이브 클래스 :  https://class.codejong.kr\n- 페이스북 페이지 : https://bit.ly/2MbR9vh\n- 콜백 함수의 동기적 실행과 비동기적 실행 : https://youtu.be/j0Viy3v97gY\n- Promise 기본 사용법 : https://youtu.be/CA5EDD4Hjz4\n- \"자바스크립트 헷갈리는 개념 바로 알기\" 시리즈 : https://goo.gl/PXuiDB\n\n#javascript #async #await #promise"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "n8CGFbimhkzwjBzNeKeJiWojYD4",
+      "id": "oQ4kT8KhRY8",
+      "snippet": {
+        "publishedAt": "2018-09-08T06:02:33Z",
+        "channelId": "UC9hWQRe4QrUivXN3VO2iuMA",
+        "title": "그림으로 배우는 git #2 HEAD가 뭐죠? Branch와 Tag와의 차이는?",
+        "description": "[코드종의 라이브 화상 강의 안내 - 현재 모집 중] 역자 직강! React Native 신간을 코드종과 함께 5주만에 완벽소화해보세요.\n- 강의 안내 및 신청 : http://bit.ly/codejong-rn\n\ngit에 대한 두 번째 영상으로 git에 존재하는 3가지 포인터인 HEAD, Branch, Tag에 대해서 이야기 해봤습니다. :)\n궁금하신 사항은 언제든지 댓글로 남겨주세요~ 그럼 오늘도 즐거운 코딩하세요.\n\n- 페이스북 페이지 : https://bit.ly/2MbR9vh\n- \"자바스크립트 헷갈리는 개념 바로 알기\" 시리즈 : https://goo.gl/PXuiDB\n- \"그림으로 배우는 git\" 시리즈 : http://bit.ly/codejong-git",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oQ4kT8KhRY8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oQ4kT8KhRY8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oQ4kT8KhRY8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oQ4kT8KhRY8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oQ4kT8KhRY8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "코드종",
+        "tags": [
+          "git",
+          "깃",
+          "그림으로 배우는 git",
+          "HEAD",
+          "Branch",
+          "Tag"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "그림으로 배우는 git #2 HEAD가 뭐죠? Branch와 Tag와의 차이는?",
+          "description": "[코드종의 라이브 화상 강의 안내 - 현재 모집 중] 역자 직강! React Native 신간을 코드종과 함께 5주만에 완벽소화해보세요.\n- 강의 안내 및 신청 : http://bit.ly/codejong-rn\n\ngit에 대한 두 번째 영상으로 git에 존재하는 3가지 포인터인 HEAD, Branch, Tag에 대해서 이야기 해봤습니다. :)\n궁금하신 사항은 언제든지 댓글로 남겨주세요~ 그럼 오늘도 즐거운 코딩하세요.\n\n- 페이스북 페이지 : https://bit.ly/2MbR9vh\n- \"자바스크립트 헷갈리는 개념 바로 알기\" 시리즈 : https://goo.gl/PXuiDB\n- \"그림으로 배우는 git\" 시리즈 : http://bit.ly/codejong-git"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT9M39S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "11629",
+        "likeCount": "367",
+        "favoriteCount": "0",
+        "commentCount": "42"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Knowledge"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "그림으로 배우는 git #2 HEAD가 뭐죠? Branch와 Tag와의 차이는?",
+          "description": "[코드종의 라이브 화상 강의 안내 - 현재 모집 중] 역자 직강! React Native 신간을 코드종과 함께 5주만에 완벽소화해보세요.\n- 강의 안내 및 신청 : http://bit.ly/codejong-rn\n\ngit에 대한 두 번째 영상으로 git에 존재하는 3가지 포인터인 HEAD, Branch, Tag에 대해서 이야기 해봤습니다. :)\n궁금하신 사항은 언제든지 댓글로 남겨주세요~ 그럼 오늘도 즐거운 코딩하세요.\n\n- 페이스북 페이지 : https://bit.ly/2MbR9vh\n- \"자바스크립트 헷갈리는 개념 바로 알기\" 시리즈 : https://goo.gl/PXuiDB\n- \"그림으로 배우는 git\" 시리즈 : http://bit.ly/codejong-git"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "RKTdRCO2GwWhzjWg0qe1Bj1Y8y8",
+      "id": "CA5EDD4Hjz4",
+      "snippet": {
+        "publishedAt": "2018-08-27T22:24:11Z",
+        "channelId": "UC9hWQRe4QrUivXN3VO2iuMA",
+        "title": "자바스크립트 promise? 나도 써보자, 기본 개념부터~",
+        "description": "promise와  async/await을 사용하면 좋다는데 아직 개념이 헷갈려서 쓰기 망설여지시나요? 그런 분들을 위해 한번 설명해봤습니다.\n\n- 페이스북 페이지 : https://bit.ly/2MbR9vh\n- 콜백 함수의 동기적 실행과 비동기적 실행 : https://youtu.be/j0Viy3v97gY\n- \"자바스크립트 헷갈리는 개념 바로 알기\" 시리즈 : https://goo.gl/PXuiDB",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CA5EDD4Hjz4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CA5EDD4Hjz4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CA5EDD4Hjz4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CA5EDD4Hjz4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CA5EDD4Hjz4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "코드종",
+        "tags": [
+          "codejong",
+          "javascript",
+          "자바스크립트",
+          "프라미스",
+          "프로미스",
+          "promise",
+          "async",
+          "await",
+          "비동기"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "자바스크립트 promise? 나도 써보자, 기본 개념부터~",
+          "description": "promise와  async/await을 사용하면 좋다는데 아직 개념이 헷갈려서 쓰기 망설여지시나요? 그런 분들을 위해 한번 설명해봤습니다.\n\n- 페이스북 페이지 : https://bit.ly/2MbR9vh\n- 콜백 함수의 동기적 실행과 비동기적 실행 : https://youtu.be/j0Viy3v97gY\n- \"자바스크립트 헷갈리는 개념 바로 알기\" 시리즈 : https://goo.gl/PXuiDB"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT10M58S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "35754",
+        "likeCount": "614",
+        "favoriteCount": "0",
+        "commentCount": "63"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Knowledge",
+          "https://en.wikipedia.org/wiki/Technology"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "자바스크립트 promise? 나도 써보자, 기본 개념부터~",
+          "description": "promise와  async/await을 사용하면 좋다는데 아직 개념이 헷갈려서 쓰기 망설여지시나요? 그런 분들을 위해 한번 설명해봤습니다.\n\n- 페이스북 페이지 : https://bit.ly/2MbR9vh\n- 콜백 함수의 동기적 실행과 비동기적 실행 : https://youtu.be/j0Viy3v97gY\n- \"자바스크립트 헷갈리는 개념 바로 알기\" 시리즈 : https://goo.gl/PXuiDB"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "9MP_gQWyb1opgT_k67FXeCioO1Y",
+      "id": "4zjKltnIBug",
+      "snippet": {
+        "publishedAt": "2018-08-15T16:12:51Z",
+        "channelId": "UC9hWQRe4QrUivXN3VO2iuMA",
+        "title": "ES6 화살표 함수에 없는 3가지?",
+        "description": "자바스크립트 ES6에 추가된 화살표 함수(arrow function)은 기존 function에 비해 3가지가 없습니다. 이 3가지를 살펴보면서 arrow function의 특징을 이해할 수 있도록 설명해봤습니다.\n\n- 자바스크립트 클로저 설명 영상 : https://youtu.be/MbYShFxp-j0\n- 자바스크립트 this 설명 영상 :  https://youtu.be/PAr92molMHU",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4zjKltnIBug/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4zjKltnIBug/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4zjKltnIBug/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4zjKltnIBug/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4zjKltnIBug/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "코드종",
+        "tags": [
+          "arrow function",
+          "es6",
+          "화살표함수",
+          "JavaScript",
+          "자바스크립ㅌ"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "ES6 화살표 함수에 없는 3가지?",
+          "description": "자바스크립트 ES6에 추가된 화살표 함수(arrow function)은 기존 function에 비해 3가지가 없습니다. 이 3가지를 살펴보면서 arrow function의 특징을 이해할 수 있도록 설명해봤습니다.\n\n- 자바스크립트 클로저 설명 영상 : https://youtu.be/MbYShFxp-j0\n- 자바스크립트 this 설명 영상 :  https://youtu.be/PAr92molMHU"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT10M55S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "12311",
+        "likeCount": "337",
+        "favoriteCount": "0",
+        "commentCount": "56"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Knowledge",
+          "https://en.wikipedia.org/wiki/Technology"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "ES6 화살표 함수에 없는 3가지?",
+          "description": "자바스크립트 ES6에 추가된 화살표 함수(arrow function)은 기존 function에 비해 3가지가 없습니다. 이 3가지를 살펴보면서 arrow function의 특징을 이해할 수 있도록 설명해봤습니다.\n\n- 자바스크립트 클로저 설명 영상 : https://youtu.be/MbYShFxp-j0\n- 자바스크립트 this 설명 영상 :  https://youtu.be/PAr92molMHU"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "zGemOB5E3J1xXCr-bDpNnImeyL4",
+      "id": "PiQAwOxl52E",
+      "snippet": {
+        "publishedAt": "2018-08-11T04:53:21Z",
+        "channelId": "UC9hWQRe4QrUivXN3VO2iuMA",
+        "title": "그림으로 배우는 git #1 주요 용어 맛보기",
+        "description": "git에 대한 첫 번째 영상으로 git 관련 용어가 생소하신 분들을 위해 그림을 이용하여 설명해봤습니다. :)\n궁금하신 사항은 언제든지 댓글로 남겨주세요~ 오늘도 즐거운 코딩하세요.\n\n- 페이스북 페이지 : https://bit.ly/2MbR9vh\n- \"자바스크립트 헷갈리는 개념 바로 알기\" 시리즈 : https://goo.gl/PXuiDB",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PiQAwOxl52E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PiQAwOxl52E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PiQAwOxl52E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PiQAwOxl52E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PiQAwOxl52E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "코드종",
+        "tags": [
+          "git",
+          "개념이해",
+          "codejong",
+          "checkout",
+          "commit",
+          "branch",
+          "snapshot",
+          "repository"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "그림으로 배우는 git #1 주요 용어 맛보기",
+          "description": "git에 대한 첫 번째 영상으로 git 관련 용어가 생소하신 분들을 위해 그림을 이용하여 설명해봤습니다. :)\n궁금하신 사항은 언제든지 댓글로 남겨주세요~ 오늘도 즐거운 코딩하세요.\n\n- 페이스북 페이지 : https://bit.ly/2MbR9vh\n- \"자바스크립트 헷갈리는 개념 바로 알기\" 시리즈 : https://goo.gl/PXuiDB"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT10M45S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "14127",
+        "likeCount": "494",
+        "favoriteCount": "0",
+        "commentCount": "60"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Knowledge"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "그림으로 배우는 git #1 주요 용어 맛보기",
+          "description": "git에 대한 첫 번째 영상으로 git 관련 용어가 생소하신 분들을 위해 그림을 이용하여 설명해봤습니다. :)\n궁금하신 사항은 언제든지 댓글로 남겨주세요~ 오늘도 즐거운 코딩하세요.\n\n- 페이스북 페이지 : https://bit.ly/2MbR9vh\n- \"자바스크립트 헷갈리는 개념 바로 알기\" 시리즈 : https://goo.gl/PXuiDB"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "F7X5n7SI6rbxAE1Z5TX8uFE4s_c",
+      "id": "j0Viy3v97gY",
+      "snippet": {
+        "publishedAt": "2018-07-27T07:27:45Z",
+        "channelId": "UC9hWQRe4QrUivXN3VO2iuMA",
+        "title": "자바스크립트 개념잡기: 콜백 함수의 동기적 실행과 비동기적 실행",
+        "description": "자바스크립트 콜백의 동기적 실행과 비동기적 실행에 대해 설명해봤습니다.\n\n지난번에 setTimeout을 가지고 큐와 콜 스택에 대해서 이야기 했던 영상 : https://youtu.be/iNH4UQxZexs",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/j0Viy3v97gY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/j0Viy3v97gY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/j0Viy3v97gY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/j0Viy3v97gY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/j0Viy3v97gY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "코드종",
+        "tags": [
+          "자바스크립트",
+          "javascript",
+          "콜백함수",
+          "콜백",
+          "callback",
+          "동기",
+          "비동기"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "자바스크립트 개념잡기: 콜백 함수의 동기적 실행과 비동기적 실행",
+          "description": "자바스크립트 콜백의 동기적 실행과 비동기적 실행에 대해 설명해봤습니다.\n\n지난번에 setTimeout을 가지고 큐와 콜 스택에 대해서 이야기 했던 영상 : https://youtu.be/iNH4UQxZexs"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT12M5S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "25799",
+        "likeCount": "548",
+        "favoriteCount": "0",
+        "commentCount": "75"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Knowledge",
+          "https://en.wikipedia.org/wiki/Technology"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "자바스크립트 개념잡기: 콜백 함수의 동기적 실행과 비동기적 실행",
+          "description": "자바스크립트 콜백의 동기적 실행과 비동기적 실행에 대해 설명해봤습니다.\n\n지난번에 setTimeout을 가지고 큐와 콜 스택에 대해서 이야기 했던 영상 : https://youtu.be/iNH4UQxZexs"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "7FAPPFMh4CzR1vRhrp3San1fMeI",
+      "id": "iNH4UQxZexs",
+      "snippet": {
+        "publishedAt": "2018-07-17T23:13:44Z",
+        "channelId": "UC9hWQRe4QrUivXN3VO2iuMA",
+        "title": "자바스크립트 타이머는 지각쟁이? 그 이유는 싱글 콜 스택?",
+        "description": "자바스크립트의 타이머(setTimeout, setInterval)는 지정한 시간에 콜백 함수가 실행되는 것을 보장하지 못합니다. 이 이유를 정확히 알기 위해  자바스크립트가 싱글스레드로 동작하는 과정을 함께 설명해봤습니다.\n\n잘못된 내용이나 궁금한 사항이 있다면 주저마시고 댓글로 남겨주세요.\n감사합니다!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iNH4UQxZexs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iNH4UQxZexs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iNH4UQxZexs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iNH4UQxZexs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iNH4UQxZexs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "코드종",
+        "tags": [
+          "자바스크립트",
+          "javascript",
+          "js",
+          "codejong",
+          "싱글스레드",
+          "setTimeout"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "자바스크립트 타이머는 지각쟁이? 그 이유는 싱글 콜 스택?",
+          "description": "자바스크립트의 타이머(setTimeout, setInterval)는 지정한 시간에 콜백 함수가 실행되는 것을 보장하지 못합니다. 이 이유를 정확히 알기 위해  자바스크립트가 싱글스레드로 동작하는 과정을 함께 설명해봤습니다.\n\n잘못된 내용이나 궁금한 사항이 있다면 주저마시고 댓글로 남겨주세요.\n감사합니다!"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT11M55S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "8641",
+        "likeCount": "258",
+        "favoriteCount": "0",
+        "commentCount": "68"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Knowledge",
+          "https://en.wikipedia.org/wiki/Technology"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "자바스크립트 타이머는 지각쟁이? 그 이유는 싱글 콜 스택?",
+          "description": "자바스크립트의 타이머(setTimeout, setInterval)는 지정한 시간에 콜백 함수가 실행되는 것을 보장하지 못합니다. 이 이유를 정확히 알기 위해  자바스크립트가 싱글스레드로 동작하는 과정을 함께 설명해봤습니다.\n\n잘못된 내용이나 궁금한 사항이 있다면 주저마시고 댓글로 남겨주세요.\n감사합니다!"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "5FKJ-PKD8IAxQuUYIM63NxD7UQ0",
+      "id": "RZ3gXcI1MZY",
+      "snippet": {
+        "publishedAt": "2018-07-07T08:14:12Z",
+        "channelId": "UC9hWQRe4QrUivXN3VO2iuMA",
+        "title": "자바스크립트 대표적 클로저 실수를 let으로 해결?",
+        "description": "지난 \"자바스크립트 클로저?\" 영상에 달린 질문을 바탕으로 클로저의 대표적 실수와 이 문제가 let으로 해결이 되는 이유에 대해 설명해 봤습니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RZ3gXcI1MZY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RZ3gXcI1MZY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RZ3gXcI1MZY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RZ3gXcI1MZY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RZ3gXcI1MZY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "코드종",
+        "tags": [
+          "자바스크립ㅌ",
+          "javascript",
+          "클로저",
+          "let",
+          "var",
+          "코드종",
+          "codejong"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "자바스크립트 대표적 클로저 실수를 let으로 해결?",
+          "description": "지난 \"자바스크립트 클로저?\" 영상에 달린 질문을 바탕으로 클로저의 대표적 실수와 이 문제가 let으로 해결이 되는 이유에 대해 설명해 봤습니다."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT14M55S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "10811",
+        "likeCount": "321",
+        "favoriteCount": "0",
+        "commentCount": "58"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Knowledge",
+          "https://en.wikipedia.org/wiki/Technology"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "자바스크립트 대표적 클로저 실수를 let으로 해결?",
+          "description": "지난 \"자바스크립트 클로저?\" 영상에 달린 질문을 바탕으로 클로저의 대표적 실수와 이 문제가 let으로 해결이 되는 이유에 대해 설명해 봤습니다."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "_DMpAPxzgVUI0Clco_De48pnr44",
+      "id": "PAr92molMHU",
+      "snippet": {
+        "publishedAt": "2018-06-26T07:32:05Z",
+        "channelId": "UC9hWQRe4QrUivXN3VO2iuMA",
+        "title": "자바스크립트 this? 간단히 핵심만 파악하기",
+        "description": "자바스크립트를 개념중에 헷갈리는 대표주자 this에 대해 설명해봤습니다.\n\n- 클로저와 스코프 체인 설명 동영상 : https://youtu.be/MbYShFxp-j0\n- MDN this 설명 페이지 : https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Operators/this\n\n감사합니다!\n오늘도 즐거운 코딩하세요~",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PAr92molMHU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PAr92molMHU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PAr92molMHU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PAr92molMHU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PAr92molMHU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "코드종",
+        "tags": [
+          "javascript",
+          "this",
+          "자바스크립트",
+          "memoji",
+          "codejong"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "자바스크립트 this? 간단히 핵심만 파악하기",
+          "description": "자바스크립트를 개념중에 헷갈리는 대표주자 this에 대해 설명해봤습니다.\n\n- 클로저와 스코프 체인 설명 동영상 : https://youtu.be/MbYShFxp-j0\n- MDN this 설명 페이지 : https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Operators/this\n\n감사합니다!\n오늘도 즐거운 코딩하세요~"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT10M7S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "35754",
+        "likeCount": "918",
+        "favoriteCount": "0",
+        "commentCount": "131"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Knowledge",
+          "https://en.wikipedia.org/wiki/Technology"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "자바스크립트 this? 간단히 핵심만 파악하기",
+          "description": "자바스크립트를 개념중에 헷갈리는 대표주자 this에 대해 설명해봤습니다.\n\n- 클로저와 스코프 체인 설명 동영상 : https://youtu.be/MbYShFxp-j0\n- MDN this 설명 페이지 : https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Operators/this\n\n감사합니다!\n오늘도 즐거운 코딩하세요~"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "RxuNJleH93RbUwCYND8-X6UyWY8",
+      "id": "MbYShFxp-j0",
+      "snippet": {
+        "publishedAt": "2018-06-21T19:58:12Z",
+        "channelId": "UC9hWQRe4QrUivXN3VO2iuMA",
+        "title": "자바스크립트 클로저? 간단히 핵심만 파악하기",
+        "description": "자바스크립트를 개념중에 헷갈리는 대표주자 클로저와 스코프 체인에 대해 설명해봤습니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MbYShFxp-j0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MbYShFxp-j0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MbYShFxp-j0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MbYShFxp-j0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MbYShFxp-j0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "코드종",
+        "tags": [
+          "javascript",
+          "closure",
+          "자바스크립트",
+          "클로저",
+          "scope chain",
+          "스코프체인",
+          "memoji",
+          "codejong"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "자바스크립트 클로저? 간단히 핵심만 파악하기",
+          "description": "자바스크립트를 개념중에 헷갈리는 대표주자 클로저와 스코프 체인에 대해 설명해봤습니다."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT9M12S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "28791",
+        "likeCount": "572",
+        "favoriteCount": "0",
+        "commentCount": "107"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Knowledge"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "자바스크립트 클로저? 간단히 핵심만 파악하기",
+          "description": "자바스크립트를 개념중에 헷갈리는 대표주자 클로저와 스코프 체인에 대해 설명해봤습니다."
+        }
+      }
+    }
+  ]
+}

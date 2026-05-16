@@ -1,0 +1,999 @@
+{
+  "idx": 163,
+  "channel_id": "UCBr01MgWLoZyQGvLk7wzOBw",
+  "channel_title": "음주코딩",
+  "playlist_items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ipLw4VaD9G4nrWPDHB-GHsZIe1I",
+      "id": "VVVCcjAxTWdXTG9aeVFHdkxrN3d6T0J3LnAwam9VLWl3RUFB",
+      "snippet": {
+        "publishedAt": "2018-09-12T09:09:55Z",
+        "channelId": "UCBr01MgWLoZyQGvLk7wzOBw",
+        "title": "음주코딩 5회: 저는 AWS Lambda 이렇게 써봤습니다.",
+        "description": "이번 5화는 AWS Lambda를 실제 앱/웹 서비스에 적용한 경험을 나눠봤습니다.\n\n# 주요 내용 요약\n00:55 Lambda 사용 요금과 무료로 사용할 수 있는 양\n02:03 운천 님의 Lambda 적용 사례 : 브라우저 자동화\n04:00 Lambda 소스코드와 디펜던시 업로드 관련\n06:05 OS 환경에 마제 build해야하는 모듈은 Docker의 힘을 빌려서..\n07:16 종은 님의 Lambda 적용 사례 : 이미지 리사이징 on the fly\n- Image Handling on the fly\n  - 예전 버전 : https://github.com/amazon-archives/serverless-image-resizing\n  - 최신 버전 : https://github.com/awslabs/serverless-image-handler\n11:51 Lambda의 메모리 캐쉬? \n  - https://medium.com/@tjholowaychuk/aws-lambda-lifecycle-and-in-memory-caching-c9cd0844e072\n12:38 APEX  http://apex.run\n  - outsider 변정훈 님 블로그 : https://blog.outsider.ne.kr/1241\n\n# 기타 언급\n- YOBABY : https://yobaby.me/\n- 마잉버(My English Buddy)\n  - iOS : https://itunes.apple.com/gb/app/my-english-buddy/id1388705849?mt=8\n  - Android : https://play.google.com/store/apps/details?id=com.juwon.myenglishbuddy&hl=ko",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/p0joU-iwEAA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/p0joU-iwEAA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/p0joU-iwEAA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/p0joU-iwEAA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/p0joU-iwEAA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "음주코딩",
+        "playlistId": "UUBr01MgWLoZyQGvLk7wzOBw",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "p0joU-iwEAA"
+        },
+        "videoOwnerChannelTitle": "음주코딩",
+        "videoOwnerChannelId": "UCBr01MgWLoZyQGvLk7wzOBw"
+      },
+      "contentDetails": {
+        "videoId": "p0joU-iwEAA",
+        "videoPublishedAt": "2018-09-12T09:09:55Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "L3YZ3AE6z2m2gy0xiz1sbqLF8Ho",
+      "id": "VVVCcjAxTWdXTG9aeVFHdkxrN3d6T0J3LkMtYkdUYXlEQnJV",
+      "snippet": {
+        "publishedAt": "2018-08-22T02:11:36Z",
+        "channelId": "UCBr01MgWLoZyQGvLk7wzOBw",
+        "title": "음주코딩 4회: 개발자가 프리젠테이션 만드는 방법 - 코드로 만들기 vs 키노트로 만들기",
+        "description": "00:03 사모에드? 스피츠? 포메리안?\n00:14 Marp - 오픈소스 마크다운 프로젠테이션 도구\n00:31 bespoke.js를 이용하여 코드로 프리젠테이션 작성할 때의 단점 http://markdalgleish.com/projects/bespoke.js/\n02:18 Marp - gitHub을 뒤져 추가한 프리젠테이션 기능\nhttps://github.com/yomybaby/marp/releases/tag/v0.0.13-presentation-without-margin\n03:09 reveal.js로 프로젠테이션 만들다가 키노트로 갈아탄 이유 https://revealjs.com/\n04:52 Mac에서 클립보드로 화면 캡쳐하는 단축키: cmd + ctrl + shift + 4\n05:08 **셀프 간접 홍보** 리액트 네이티브 강의하는 명구와 주원이 \nhttps://academy.bloter.net/product/75155 (8월 31일까지 얼리버드 할인!)\n05:13 키노트로 만든 애니메이션 영상 https://youtu.be/kcIxD070LJg\n06:26 주원이의 리버스 엔지니어링? 따라서 만들어본 키노트 애니메이션",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/C-bGTayDBrU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/C-bGTayDBrU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/C-bGTayDBrU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/C-bGTayDBrU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/C-bGTayDBrU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "음주코딩",
+        "playlistId": "UUBr01MgWLoZyQGvLk7wzOBw",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "C-bGTayDBrU"
+        },
+        "videoOwnerChannelTitle": "음주코딩",
+        "videoOwnerChannelId": "UCBr01MgWLoZyQGvLk7wzOBw"
+      },
+      "contentDetails": {
+        "videoId": "C-bGTayDBrU",
+        "videoPublishedAt": "2018-08-22T02:11:36Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "nVmxb5WUVosCQbLMkWKUHx-NVoE",
+      "id": "VVVCcjAxTWdXTG9aeVFHdkxrN3d6T0J3LmpsU3RrbFNqQVRR",
+      "snippet": {
+        "publishedAt": "2018-08-13T02:20:06Z",
+        "channelId": "UCBr01MgWLoZyQGvLk7wzOBw",
+        "title": "음주코딩 3회: faker.js, framerX, vue-native, 주원이의 이야기 보따리",
+        "description": "3회는 정주원 님이 가져온 이야기 보따리로 구성되어있습니다. :)\n다음 주 월요일 또 만나요~ 3회 내용은 아래 목차를 참고해주세요.\n- 00:40 더미 데이터를 만들어 주는 faker.js\n- 01:48 맥 사전 바로 호출하는 방법 - 단어에 마우스를 오버시키고 cmd + ctrl + d\n- 02:04 faker.js의 hacker 기능?? (덕분에 영어공부) https://github.com/marak/Faker.js/\n- 03:35 framerX 소개 영상 https://framer.com/x\n- 05:06 Sencha Architect의 추억을 떠오르게 하는 framerX https://www.sencha.com/products/architect/\n- 05:27 제플린에서 ract-native 플러그인의 버그 https://zeplin.io/\n- 06:41 sketch에서 framer로 갈아타? 디자이너의 어려움? \n- 08:14 먼지가 되버린 정주원의 코인?\n- 09:28 react-native를 vue로 작성하는 vue-native https://vue-native.io/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jlStklSjATQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jlStklSjATQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jlStklSjATQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jlStklSjATQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jlStklSjATQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "음주코딩",
+        "playlistId": "UUBr01MgWLoZyQGvLk7wzOBw",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "jlStklSjATQ"
+        },
+        "videoOwnerChannelTitle": "음주코딩",
+        "videoOwnerChannelId": "UCBr01MgWLoZyQGvLk7wzOBw"
+      },
+      "contentDetails": {
+        "videoId": "jlStklSjATQ",
+        "videoPublishedAt": "2018-08-13T02:20:06Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "joyA2L2A5lPM2qlzpw7hTZ6uHs4",
+      "id": "VVVCcjAxTWdXTG9aeVFHdkxrN3d6T0J3LlBROVRNUEUxeUhz",
+      "snippet": {
+        "publishedAt": "2018-08-07T02:35:23Z",
+        "channelId": "UCBr01MgWLoZyQGvLk7wzOBw",
+        "title": "음주코딩님의 실시간 스트리밍",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PQ9TMPE1yHs/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PQ9TMPE1yHs/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PQ9TMPE1yHs/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PQ9TMPE1yHs/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PQ9TMPE1yHs/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "음주코딩",
+        "playlistId": "UUBr01MgWLoZyQGvLk7wzOBw",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "PQ9TMPE1yHs"
+        },
+        "videoOwnerChannelTitle": "음주코딩",
+        "videoOwnerChannelId": "UCBr01MgWLoZyQGvLk7wzOBw"
+      },
+      "contentDetails": {
+        "videoId": "PQ9TMPE1yHs",
+        "videoPublishedAt": "2018-08-07T02:35:23Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "MBWEMDPqHR0_KijfMHJB2zhTUlQ",
+      "id": "VVVCcjAxTWdXTG9aeVFHdkxrN3d6T0J3LjhaUGlUUkxOTWdz",
+      "snippet": {
+        "publishedAt": "2018-08-05T22:00:00Z",
+        "channelId": "UCBr01MgWLoZyQGvLk7wzOBw",
+        "title": "음주코딩 2회: 꼭 해야하는 테스트 코드 작성이 너무 싫은 이유",
+        "description": "무지하게 더웠던 그날, 테스트 코드와 BaaS에 대해 이야기 나눠봤어요. 시간별 내용은 아래 설명을 참고하세요 :)\n\n00:22 혈중 알코올 농도와 창의력 \nhttp://www.hani.co.kr/arti/society/society_general/738461.html\n\n00:59 ndb: 구글이 공개한 node 디버깅 도구\nhttps://github.com/GoogleChromeLabs/ndb\n\n05:29 편리한 chrome 개발자 도구에서의 break point\n\n06:10 테스트 코드 작성이 싫은 이유와 테스트 코드를 작성했을 때 좋은 이유\n\n10:18 parse-server의 dashboard에 해당하는 firestore의 도구는?\nhttps://firebase.google.com/docs/firestore/?hl=ko\nhttps://github.com/parse-community/parse-server\nhttps://github.com/parse-community/parse-dashboard\n\n11:42 firestore에서 관계형 데이터 다루는 어려움?\n\n16:33 서비스형 BaaS를 쓰다고 설치형 BaaS를 쓰면 종량제 핸드폰 요금제 쓰다가 무제한 요금제 쓰는 느낌적 느낌",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8ZPiTRLNMgs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8ZPiTRLNMgs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8ZPiTRLNMgs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8ZPiTRLNMgs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8ZPiTRLNMgs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "음주코딩",
+        "playlistId": "UUBr01MgWLoZyQGvLk7wzOBw",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8ZPiTRLNMgs"
+        },
+        "videoOwnerChannelTitle": "음주코딩",
+        "videoOwnerChannelId": "UCBr01MgWLoZyQGvLk7wzOBw"
+      },
+      "contentDetails": {
+        "videoId": "8ZPiTRLNMgs",
+        "videoPublishedAt": "2018-08-05T22:00:00Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "GmjVa8NPYv7pQtHh82-Z9hM4kUc",
+      "id": "VVVCcjAxTWdXTG9aeVFHdkxrN3d6T0J3Lk9HWG9kRTBYamZz",
+      "snippet": {
+        "publishedAt": "2018-07-29T04:40:16Z",
+        "channelId": "UCBr01MgWLoZyQGvLk7wzOBw",
+        "title": "음주코딩 1회: 리액트로 게임 가격비교 사이트 만들려는 명구",
+        "description": "React를 이용한 SPA(single page application)로 게임 가격비교 사이트를 만들려는 강명구 님이 next.js를 선택한 이야기를 나눠봤습니다. 주요 내용은 아래 메모를 참고하세요. 시간을 클릭하면 원하는 내용으로 이동할 수 있습니다.\n\n00:19 화면공유 시 유용한 Mac 방해금지 모든 간편 설정법 ( 우상단 알림 오이콘을 ontion + click)\n00:42 명구가 만들려는 게임 가격 관련 사이트 컨셉\n01:57 개발자들의 헤어스타일\n02:41 Steam과 PC방\n07:03 게임이 비싸다? 싸다? 불법다운르도는 고소미!\n07:38 NEXT.js : React를 이용해서 SPA를 만들려는데 next.js를 선택한 이유\n11:25 보일러 플레이트의 단점\n12:30 컴포넌트에 한정된 스타일 styled jsx\n15:02 Ant design 사용담\n17:15 앱과 서버코드까지 세트로 파는 사이트가 있다고?\n21:58 styled jsx에서 특정 컴포넌트에 스타일이 종속되는 원리",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OGXodE0Xjfs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OGXodE0Xjfs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OGXodE0Xjfs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OGXodE0Xjfs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OGXodE0Xjfs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "음주코딩",
+        "playlistId": "UUBr01MgWLoZyQGvLk7wzOBw",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "OGXodE0Xjfs"
+        },
+        "videoOwnerChannelTitle": "음주코딩",
+        "videoOwnerChannelId": "UCBr01MgWLoZyQGvLk7wzOBw"
+      },
+      "contentDetails": {
+        "videoId": "OGXodE0Xjfs",
+        "videoPublishedAt": "2018-07-29T04:40:16Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "UdHELCg2Jh0_Gfn7MqnQSZNH70A",
+      "id": "VVVCcjAxTWdXTG9aeVFHdkxrN3d6T0J3LnNKc3I0TGxoVzF3",
+      "snippet": {
+        "publishedAt": "2018-07-22T15:10:23Z",
+        "channelId": "UCBr01MgWLoZyQGvLk7wzOBw",
+        "title": "음주코딩 0회: Flutter로 앱 만드는 운천",
+        "description": "페이스북의 리액트 네이티브가 있다면 구글은 Flutter가 있다!\n구글이 공개한 크로스 플랫폼 Flutter로 앱을 만드는 운천이의 이야기\n\n- Flutter 공식 사이트 : http://flutter.io\n- Flutter 관련 참고 링크 : https://medium.com/@changjoopark/구글-플러터-flutter-를-시작하기까지-18c06cec95e3\n\n00:22\nFlutter state 관리 : https://proandroiddev.com/you-might-not-need-redux-the-flutter-edition-9c11eba006d7?gi=6ccb6db7f989\n\n02:44\n화상 서비스 이용 관련 에피소드\n\n04:58\n화상 서비스에 대한 이야기, 팀뷰어를 걱정하다.\n\n06:17\nAndroid studio에서 dart로 작성하는 flutter 앱\n\n07:22\nFlutter의 scoped_model\n\n13:03\nscope_model에서 나는 backbone.js의 냄새\n\n17:44\nflutter의 선언적 애니메이션과 브릿지\n\n20:59\nflutter로 만들고 있는 앱 소개 : 열정 품은 타이머\n\n26:26\nFirestore - BAAS\n\n35:34\n2018년도에 공부하지 말아야할 최악의 언어로 뽑힌 dart\nhttps://www.codementor.io/blog/worst-languages-to-learn-3phycr98zk\n\n38:00\nRedux를 사용한 실제 코드를 볼 수 있나요?\n\n43:12\nRedux : 하나의 액션이 여러 리듀서에서 처리가 필요한 경우",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sJsr4LlhW1w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sJsr4LlhW1w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sJsr4LlhW1w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sJsr4LlhW1w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sJsr4LlhW1w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "음주코딩",
+        "playlistId": "UUBr01MgWLoZyQGvLk7wzOBw",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "sJsr4LlhW1w"
+        },
+        "videoOwnerChannelTitle": "음주코딩",
+        "videoOwnerChannelId": "UCBr01MgWLoZyQGvLk7wzOBw"
+      },
+      "contentDetails": {
+        "videoId": "sJsr4LlhW1w",
+        "videoPublishedAt": "2018-07-22T15:10:23Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "video_details": [
+    {
+      "kind": "youtube#video",
+      "etag": "kxAyjDRmFj5NUHnnRxIfZCK9Bv8",
+      "id": "p0joU-iwEAA",
+      "snippet": {
+        "publishedAt": "2018-09-12T09:09:55Z",
+        "channelId": "UCBr01MgWLoZyQGvLk7wzOBw",
+        "title": "음주코딩 5회: 저는 AWS Lambda 이렇게 써봤습니다.",
+        "description": "이번 5화는 AWS Lambda를 실제 앱/웹 서비스에 적용한 경험을 나눠봤습니다.\n\n# 주요 내용 요약\n00:55 Lambda 사용 요금과 무료로 사용할 수 있는 양\n02:03 운천 님의 Lambda 적용 사례 : 브라우저 자동화\n04:00 Lambda 소스코드와 디펜던시 업로드 관련\n06:05 OS 환경에 마제 build해야하는 모듈은 Docker의 힘을 빌려서..\n07:16 종은 님의 Lambda 적용 사례 : 이미지 리사이징 on the fly\n- Image Handling on the fly\n  - 예전 버전 : https://github.com/amazon-archives/serverless-image-resizing\n  - 최신 버전 : https://github.com/awslabs/serverless-image-handler\n11:51 Lambda의 메모리 캐쉬? \n  - https://medium.com/@tjholowaychuk/aws-lambda-lifecycle-and-in-memory-caching-c9cd0844e072\n12:38 APEX  http://apex.run\n  - outsider 변정훈 님 블로그 : https://blog.outsider.ne.kr/1241\n\n# 기타 언급\n- YOBABY : https://yobaby.me/\n- 마잉버(My English Buddy)\n  - iOS : https://itunes.apple.com/gb/app/my-english-buddy/id1388705849?mt=8\n  - Android : https://play.google.com/store/apps/details?id=com.juwon.myenglishbuddy&hl=ko",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/p0joU-iwEAA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/p0joU-iwEAA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/p0joU-iwEAA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/p0joU-iwEAA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/p0joU-iwEAA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "음주코딩",
+        "tags": [
+          "아마존",
+          "AWS",
+          "람다",
+          "Laambda",
+          "serverless",
+          "micro"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "음주코딩 5회: 저는 AWS Lambda 이렇게 써봤습니다.",
+          "description": "이번 5화는 AWS Lambda를 실제 앱/웹 서비스에 적용한 경험을 나눠봤습니다.\n\n# 주요 내용 요약\n00:55 Lambda 사용 요금과 무료로 사용할 수 있는 양\n02:03 운천 님의 Lambda 적용 사례 : 브라우저 자동화\n04:00 Lambda 소스코드와 디펜던시 업로드 관련\n06:05 OS 환경에 마제 build해야하는 모듈은 Docker의 힘을 빌려서..\n07:16 종은 님의 Lambda 적용 사례 : 이미지 리사이징 on the fly\n- Image Handling on the fly\n  - 예전 버전 : https://github.com/amazon-archives/serverless-image-resizing\n  - 최신 버전 : https://github.com/awslabs/serverless-image-handler\n11:51 Lambda의 메모리 캐쉬? \n  - https://medium.com/@tjholowaychuk/aws-lambda-lifecycle-and-in-memory-caching-c9cd0844e072\n12:38 APEX  http://apex.run\n  - outsider 변정훈 님 블로그 : https://blog.outsider.ne.kr/1241\n\n# 기타 언급\n- YOBABY : https://yobaby.me/\n- 마잉버(My English Buddy)\n  - iOS : https://itunes.apple.com/gb/app/my-english-buddy/id1388705849?mt=8\n  - Android : https://play.google.com/store/apps/details?id=com.juwon.myenglishbuddy&hl=ko"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT16M36S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "3084",
+        "likeCount": "54",
+        "favoriteCount": "0",
+        "commentCount": "4"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Technology"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "음주코딩 5회: 저는 AWS Lambda 이렇게 써봤습니다.",
+          "description": "이번 5화는 AWS Lambda를 실제 앱/웹 서비스에 적용한 경험을 나눠봤습니다.\n\n# 주요 내용 요약\n00:55 Lambda 사용 요금과 무료로 사용할 수 있는 양\n02:03 운천 님의 Lambda 적용 사례 : 브라우저 자동화\n04:00 Lambda 소스코드와 디펜던시 업로드 관련\n06:05 OS 환경에 마제 build해야하는 모듈은 Docker의 힘을 빌려서..\n07:16 종은 님의 Lambda 적용 사례 : 이미지 리사이징 on the fly\n- Image Handling on the fly\n  - 예전 버전 : https://github.com/amazon-archives/serverless-image-resizing\n  - 최신 버전 : https://github.com/awslabs/serverless-image-handler\n11:51 Lambda의 메모리 캐쉬? \n  - https://medium.com/@tjholowaychuk/aws-lambda-lifecycle-and-in-memory-caching-c9cd0844e072\n12:38 APEX  http://apex.run\n  - outsider 변정훈 님 블로그 : https://blog.outsider.ne.kr/1241\n\n# 기타 언급\n- YOBABY : https://yobaby.me/\n- 마잉버(My English Buddy)\n  - iOS : https://itunes.apple.com/gb/app/my-english-buddy/id1388705849?mt=8\n  - Android : https://play.google.com/store/apps/details?id=com.juwon.myenglishbuddy&hl=ko"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "pnQJTHSd8J0uTLNJEtYUaz1NTJY",
+      "id": "C-bGTayDBrU",
+      "snippet": {
+        "publishedAt": "2018-08-22T02:11:36Z",
+        "channelId": "UCBr01MgWLoZyQGvLk7wzOBw",
+        "title": "음주코딩 4회: 개발자가 프리젠테이션 만드는 방법 - 코드로 만들기 vs 키노트로 만들기",
+        "description": "00:03 사모에드? 스피츠? 포메리안?\n00:14 Marp - 오픈소스 마크다운 프로젠테이션 도구\n00:31 bespoke.js를 이용하여 코드로 프리젠테이션 작성할 때의 단점 http://markdalgleish.com/projects/bespoke.js/\n02:18 Marp - gitHub을 뒤져 추가한 프리젠테이션 기능\nhttps://github.com/yomybaby/marp/releases/tag/v0.0.13-presentation-without-margin\n03:09 reveal.js로 프로젠테이션 만들다가 키노트로 갈아탄 이유 https://revealjs.com/\n04:52 Mac에서 클립보드로 화면 캡쳐하는 단축키: cmd + ctrl + shift + 4\n05:08 **셀프 간접 홍보** 리액트 네이티브 강의하는 명구와 주원이 \nhttps://academy.bloter.net/product/75155 (8월 31일까지 얼리버드 할인!)\n05:13 키노트로 만든 애니메이션 영상 https://youtu.be/kcIxD070LJg\n06:26 주원이의 리버스 엔지니어링? 따라서 만들어본 키노트 애니메이션",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/C-bGTayDBrU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/C-bGTayDBrU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/C-bGTayDBrU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/C-bGTayDBrU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/C-bGTayDBrU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "음주코딩",
+        "tags": [
+          "presentation",
+          "tool",
+          "키노트",
+          "마크다운",
+          "markdown",
+          "keynote",
+          "developer",
+          "개발자"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "음주코딩 4회: 개발자가 프리젠테이션 만드는 방법 - 코드로 만들기 vs 키노트로 만들기",
+          "description": "00:03 사모에드? 스피츠? 포메리안?\n00:14 Marp - 오픈소스 마크다운 프로젠테이션 도구\n00:31 bespoke.js를 이용하여 코드로 프리젠테이션 작성할 때의 단점 http://markdalgleish.com/projects/bespoke.js/\n02:18 Marp - gitHub을 뒤져 추가한 프리젠테이션 기능\nhttps://github.com/yomybaby/marp/releases/tag/v0.0.13-presentation-without-margin\n03:09 reveal.js로 프로젠테이션 만들다가 키노트로 갈아탄 이유 https://revealjs.com/\n04:52 Mac에서 클립보드로 화면 캡쳐하는 단축키: cmd + ctrl + shift + 4\n05:08 **셀프 간접 홍보** 리액트 네이티브 강의하는 명구와 주원이 \nhttps://academy.bloter.net/product/75155 (8월 31일까지 얼리버드 할인!)\n05:13 키노트로 만든 애니메이션 영상 https://youtu.be/kcIxD070LJg\n06:26 주원이의 리버스 엔지니어링? 따라서 만들어본 키노트 애니메이션"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT7M20S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "680",
+        "likeCount": "7",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Knowledge"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "음주코딩 4회: 개발자가 프리젠테이션 만드는 방법 - 코드로 만들기 vs 키노트로 만들기",
+          "description": "00:03 사모에드? 스피츠? 포메리안?\n00:14 Marp - 오픈소스 마크다운 프로젠테이션 도구\n00:31 bespoke.js를 이용하여 코드로 프리젠테이션 작성할 때의 단점 http://markdalgleish.com/projects/bespoke.js/\n02:18 Marp - gitHub을 뒤져 추가한 프리젠테이션 기능\nhttps://github.com/yomybaby/marp/releases/tag/v0.0.13-presentation-without-margin\n03:09 reveal.js로 프로젠테이션 만들다가 키노트로 갈아탄 이유 https://revealjs.com/\n04:52 Mac에서 클립보드로 화면 캡쳐하는 단축키: cmd + ctrl + shift + 4\n05:08 **셀프 간접 홍보** 리액트 네이티브 강의하는 명구와 주원이 \nhttps://academy.bloter.net/product/75155 (8월 31일까지 얼리버드 할인!)\n05:13 키노트로 만든 애니메이션 영상 https://youtu.be/kcIxD070LJg\n06:26 주원이의 리버스 엔지니어링? 따라서 만들어본 키노트 애니메이션"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "6TUs5bjq1GyCKSur_Eol6Lqhwxw",
+      "id": "jlStklSjATQ",
+      "snippet": {
+        "publishedAt": "2018-08-13T02:20:06Z",
+        "channelId": "UCBr01MgWLoZyQGvLk7wzOBw",
+        "title": "음주코딩 3회: faker.js, framerX, vue-native, 주원이의 이야기 보따리",
+        "description": "3회는 정주원 님이 가져온 이야기 보따리로 구성되어있습니다. :)\n다음 주 월요일 또 만나요~ 3회 내용은 아래 목차를 참고해주세요.\n- 00:40 더미 데이터를 만들어 주는 faker.js\n- 01:48 맥 사전 바로 호출하는 방법 - 단어에 마우스를 오버시키고 cmd + ctrl + d\n- 02:04 faker.js의 hacker 기능?? (덕분에 영어공부) https://github.com/marak/Faker.js/\n- 03:35 framerX 소개 영상 https://framer.com/x\n- 05:06 Sencha Architect의 추억을 떠오르게 하는 framerX https://www.sencha.com/products/architect/\n- 05:27 제플린에서 ract-native 플러그인의 버그 https://zeplin.io/\n- 06:41 sketch에서 framer로 갈아타? 디자이너의 어려움? \n- 08:14 먼지가 되버린 정주원의 코인?\n- 09:28 react-native를 vue로 작성하는 vue-native https://vue-native.io/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jlStklSjATQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jlStklSjATQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jlStklSjATQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jlStklSjATQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jlStklSjATQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "음주코딩",
+        "tags": [
+          "react-native",
+          "vue-native",
+          "framer",
+          "framerX",
+          "design",
+          "faker.js",
+          "mock-data"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "음주코딩 3회: faker.js, framerX, vue-native, 주원이의 이야기 보따리",
+          "description": "3회는 정주원 님이 가져온 이야기 보따리로 구성되어있습니다. :)\n다음 주 월요일 또 만나요~ 3회 내용은 아래 목차를 참고해주세요.\n- 00:40 더미 데이터를 만들어 주는 faker.js\n- 01:48 맥 사전 바로 호출하는 방법 - 단어에 마우스를 오버시키고 cmd + ctrl + d\n- 02:04 faker.js의 hacker 기능?? (덕분에 영어공부) https://github.com/marak/Faker.js/\n- 03:35 framerX 소개 영상 https://framer.com/x\n- 05:06 Sencha Architect의 추억을 떠오르게 하는 framerX https://www.sencha.com/products/architect/\n- 05:27 제플린에서 ract-native 플러그인의 버그 https://zeplin.io/\n- 06:41 sketch에서 framer로 갈아타? 디자이너의 어려움? \n- 08:14 먼지가 되버린 정주원의 코인?\n- 09:28 react-native를 vue로 작성하는 vue-native https://vue-native.io/"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT13M11S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "384",
+        "likeCount": "12",
+        "favoriteCount": "0",
+        "commentCount": "3"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Technology"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "음주코딩 3회: faker.js, framerX, vue-native, 주원이의 이야기 보따리",
+          "description": "3회는 정주원 님이 가져온 이야기 보따리로 구성되어있습니다. :)\n다음 주 월요일 또 만나요~ 3회 내용은 아래 목차를 참고해주세요.\n- 00:40 더미 데이터를 만들어 주는 faker.js\n- 01:48 맥 사전 바로 호출하는 방법 - 단어에 마우스를 오버시키고 cmd + ctrl + d\n- 02:04 faker.js의 hacker 기능?? (덕분에 영어공부) https://github.com/marak/Faker.js/\n- 03:35 framerX 소개 영상 https://framer.com/x\n- 05:06 Sencha Architect의 추억을 떠오르게 하는 framerX https://www.sencha.com/products/architect/\n- 05:27 제플린에서 ract-native 플러그인의 버그 https://zeplin.io/\n- 06:41 sketch에서 framer로 갈아타? 디자이너의 어려움? \n- 08:14 먼지가 되버린 정주원의 코인?\n- 09:28 react-native를 vue로 작성하는 vue-native https://vue-native.io/"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "L5w6p3p2LcgXNLAiScLKwmppbwA",
+      "id": "PQ9TMPE1yHs",
+      "snippet": {
+        "publishedAt": "2018-08-07T02:35:23Z",
+        "channelId": "UCBr01MgWLoZyQGvLk7wzOBw",
+        "title": "음주코딩님의 실시간 스트리밍",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PQ9TMPE1yHs/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PQ9TMPE1yHs/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PQ9TMPE1yHs/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PQ9TMPE1yHs/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PQ9TMPE1yHs/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "음주코딩",
+        "categoryId": "28",
+        "liveBroadcastContent": "upcoming",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "음주코딩님의 실시간 스트리밍",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "P0D",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "uploaded",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": false,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "0",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "음주코딩님의 실시간 스트리밍",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "qYLYq1l9yniPJbu8Jnvr2iZHeKM",
+      "id": "8ZPiTRLNMgs",
+      "snippet": {
+        "publishedAt": "2018-08-05T22:00:00Z",
+        "channelId": "UCBr01MgWLoZyQGvLk7wzOBw",
+        "title": "음주코딩 2회: 꼭 해야하는 테스트 코드 작성이 너무 싫은 이유",
+        "description": "무지하게 더웠던 그날, 테스트 코드와 BaaS에 대해 이야기 나눠봤어요. 시간별 내용은 아래 설명을 참고하세요 :)\n\n00:22 혈중 알코올 농도와 창의력 \nhttp://www.hani.co.kr/arti/society/society_general/738461.html\n\n00:59 ndb: 구글이 공개한 node 디버깅 도구\nhttps://github.com/GoogleChromeLabs/ndb\n\n05:29 편리한 chrome 개발자 도구에서의 break point\n\n06:10 테스트 코드 작성이 싫은 이유와 테스트 코드를 작성했을 때 좋은 이유\n\n10:18 parse-server의 dashboard에 해당하는 firestore의 도구는?\nhttps://firebase.google.com/docs/firestore/?hl=ko\nhttps://github.com/parse-community/parse-server\nhttps://github.com/parse-community/parse-dashboard\n\n11:42 firestore에서 관계형 데이터 다루는 어려움?\n\n16:33 서비스형 BaaS를 쓰다고 설치형 BaaS를 쓰면 종량제 핸드폰 요금제 쓰다가 무제한 요금제 쓰는 느낌적 느낌",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8ZPiTRLNMgs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8ZPiTRLNMgs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8ZPiTRLNMgs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8ZPiTRLNMgs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8ZPiTRLNMgs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "음주코딩",
+        "tags": [
+          "firestore",
+          "parse-server",
+          "jest",
+          "test",
+          "혈중알콜농도"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "음주코딩 2회: 꼭 해야하는 테스트 코드 작성이 너무 싫은 이유",
+          "description": "무지하게 더웠던 그날, 테스트 코드와 BaaS에 대해 이야기 나눠봤어요. 시간별 내용은 아래 설명을 참고하세요 :)\n\n00:22 혈중 알코올 농도와 창의력 \nhttp://www.hani.co.kr/arti/society/society_general/738461.html\n\n00:59 ndb: 구글이 공개한 node 디버깅 도구\nhttps://github.com/GoogleChromeLabs/ndb\n\n05:29 편리한 chrome 개발자 도구에서의 break point\n\n06:10 테스트 코드 작성이 싫은 이유와 테스트 코드를 작성했을 때 좋은 이유\n\n10:18 parse-server의 dashboard에 해당하는 firestore의 도구는?\nhttps://firebase.google.com/docs/firestore/?hl=ko\nhttps://github.com/parse-community/parse-server\nhttps://github.com/parse-community/parse-dashboard\n\n11:42 firestore에서 관계형 데이터 다루는 어려움?\n\n16:33 서비스형 BaaS를 쓰다고 설치형 BaaS를 쓰면 종량제 핸드폰 요금제 쓰다가 무제한 요금제 쓰는 느낌적 느낌"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT19M18S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "654",
+        "likeCount": "9",
+        "favoriteCount": "0",
+        "commentCount": "3"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Technology"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "음주코딩 2회: 꼭 해야하는 테스트 코드 작성이 너무 싫은 이유",
+          "description": "무지하게 더웠던 그날, 테스트 코드와 BaaS에 대해 이야기 나눠봤어요. 시간별 내용은 아래 설명을 참고하세요 :)\n\n00:22 혈중 알코올 농도와 창의력 \nhttp://www.hani.co.kr/arti/society/society_general/738461.html\n\n00:59 ndb: 구글이 공개한 node 디버깅 도구\nhttps://github.com/GoogleChromeLabs/ndb\n\n05:29 편리한 chrome 개발자 도구에서의 break point\n\n06:10 테스트 코드 작성이 싫은 이유와 테스트 코드를 작성했을 때 좋은 이유\n\n10:18 parse-server의 dashboard에 해당하는 firestore의 도구는?\nhttps://firebase.google.com/docs/firestore/?hl=ko\nhttps://github.com/parse-community/parse-server\nhttps://github.com/parse-community/parse-dashboard\n\n11:42 firestore에서 관계형 데이터 다루는 어려움?\n\n16:33 서비스형 BaaS를 쓰다고 설치형 BaaS를 쓰면 종량제 핸드폰 요금제 쓰다가 무제한 요금제 쓰는 느낌적 느낌"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "5kzhxgIGXbTlOV8P9OIBTSvxo3U",
+      "id": "OGXodE0Xjfs",
+      "snippet": {
+        "publishedAt": "2018-07-29T04:40:16Z",
+        "channelId": "UCBr01MgWLoZyQGvLk7wzOBw",
+        "title": "음주코딩 1회: 리액트로 게임 가격비교 사이트 만들려는 명구",
+        "description": "React를 이용한 SPA(single page application)로 게임 가격비교 사이트를 만들려는 강명구 님이 next.js를 선택한 이야기를 나눠봤습니다. 주요 내용은 아래 메모를 참고하세요. 시간을 클릭하면 원하는 내용으로 이동할 수 있습니다.\n\n00:19 화면공유 시 유용한 Mac 방해금지 모든 간편 설정법 ( 우상단 알림 오이콘을 ontion + click)\n00:42 명구가 만들려는 게임 가격 관련 사이트 컨셉\n01:57 개발자들의 헤어스타일\n02:41 Steam과 PC방\n07:03 게임이 비싸다? 싸다? 불법다운르도는 고소미!\n07:38 NEXT.js : React를 이용해서 SPA를 만들려는데 next.js를 선택한 이유\n11:25 보일러 플레이트의 단점\n12:30 컴포넌트에 한정된 스타일 styled jsx\n15:02 Ant design 사용담\n17:15 앱과 서버코드까지 세트로 파는 사이트가 있다고?\n21:58 styled jsx에서 특정 컴포넌트에 스타일이 종속되는 원리",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OGXodE0Xjfs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OGXodE0Xjfs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OGXodE0Xjfs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OGXodE0Xjfs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OGXodE0Xjfs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "음주코딩",
+        "tags": [
+          "react",
+          "spa",
+          "next.js",
+          "게임",
+          "가격비교"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "음주코딩 1회: 리액트로 게임 가격비교 사이트 만들려는 명구",
+          "description": "React를 이용한 SPA(single page application)로 게임 가격비교 사이트를 만들려는 강명구 님이 next.js를 선택한 이야기를 나눠봤습니다. 주요 내용은 아래 메모를 참고하세요. 시간을 클릭하면 원하는 내용으로 이동할 수 있습니다.\n\n00:19 화면공유 시 유용한 Mac 방해금지 모든 간편 설정법 ( 우상단 알림 오이콘을 ontion + click)\n00:42 명구가 만들려는 게임 가격 관련 사이트 컨셉\n01:57 개발자들의 헤어스타일\n02:41 Steam과 PC방\n07:03 게임이 비싸다? 싸다? 불법다운르도는 고소미!\n07:38 NEXT.js : React를 이용해서 SPA를 만들려는데 next.js를 선택한 이유\n11:25 보일러 플레이트의 단점\n12:30 컴포넌트에 한정된 스타일 styled jsx\n15:02 Ant design 사용담\n17:15 앱과 서버코드까지 세트로 파는 사이트가 있다고?\n21:58 styled jsx에서 특정 컴포넌트에 스타일이 종속되는 원리"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT24M1S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "539",
+        "likeCount": "9",
+        "favoriteCount": "0",
+        "commentCount": "7"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "음주코딩 1회: 리액트로 게임 가격비교 사이트 만들려는 명구",
+          "description": "React를 이용한 SPA(single page application)로 게임 가격비교 사이트를 만들려는 강명구 님이 next.js를 선택한 이야기를 나눠봤습니다. 주요 내용은 아래 메모를 참고하세요. 시간을 클릭하면 원하는 내용으로 이동할 수 있습니다.\n\n00:19 화면공유 시 유용한 Mac 방해금지 모든 간편 설정법 ( 우상단 알림 오이콘을 ontion + click)\n00:42 명구가 만들려는 게임 가격 관련 사이트 컨셉\n01:57 개발자들의 헤어스타일\n02:41 Steam과 PC방\n07:03 게임이 비싸다? 싸다? 불법다운르도는 고소미!\n07:38 NEXT.js : React를 이용해서 SPA를 만들려는데 next.js를 선택한 이유\n11:25 보일러 플레이트의 단점\n12:30 컴포넌트에 한정된 스타일 styled jsx\n15:02 Ant design 사용담\n17:15 앱과 서버코드까지 세트로 파는 사이트가 있다고?\n21:58 styled jsx에서 특정 컴포넌트에 스타일이 종속되는 원리"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "OJEjShIK_kiLpKfx7NHI8hlEjmI",
+      "id": "sJsr4LlhW1w",
+      "snippet": {
+        "publishedAt": "2018-07-22T15:10:23Z",
+        "channelId": "UCBr01MgWLoZyQGvLk7wzOBw",
+        "title": "음주코딩 0회: Flutter로 앱 만드는 운천",
+        "description": "페이스북의 리액트 네이티브가 있다면 구글은 Flutter가 있다!\n구글이 공개한 크로스 플랫폼 Flutter로 앱을 만드는 운천이의 이야기\n\n- Flutter 공식 사이트 : http://flutter.io\n- Flutter 관련 참고 링크 : https://medium.com/@changjoopark/구글-플러터-flutter-를-시작하기까지-18c06cec95e3\n\n00:22\nFlutter state 관리 : https://proandroiddev.com/you-might-not-need-redux-the-flutter-edition-9c11eba006d7?gi=6ccb6db7f989\n\n02:44\n화상 서비스 이용 관련 에피소드\n\n04:58\n화상 서비스에 대한 이야기, 팀뷰어를 걱정하다.\n\n06:17\nAndroid studio에서 dart로 작성하는 flutter 앱\n\n07:22\nFlutter의 scoped_model\n\n13:03\nscope_model에서 나는 backbone.js의 냄새\n\n17:44\nflutter의 선언적 애니메이션과 브릿지\n\n20:59\nflutter로 만들고 있는 앱 소개 : 열정 품은 타이머\n\n26:26\nFirestore - BAAS\n\n35:34\n2018년도에 공부하지 말아야할 최악의 언어로 뽑힌 dart\nhttps://www.codementor.io/blog/worst-languages-to-learn-3phycr98zk\n\n38:00\nRedux를 사용한 실제 코드를 볼 수 있나요?\n\n43:12\nRedux : 하나의 액션이 여러 리듀서에서 처리가 필요한 경우",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sJsr4LlhW1w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sJsr4LlhW1w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sJsr4LlhW1w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sJsr4LlhW1w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sJsr4LlhW1w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "음주코딩",
+        "tags": [
+          "음주코딩",
+          "코딩수다",
+          "Flutter",
+          "크로스 플랫폼",
+          "dart"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "음주코딩 0회: Flutter로 앱 만드는 운천",
+          "description": "페이스북의 리액트 네이티브가 있다면 구글은 Flutter가 있다!\n구글이 공개한 크로스 플랫폼 Flutter로 앱을 만드는 운천이의 이야기\n\n- Flutter 공식 사이트 : http://flutter.io\n- Flutter 관련 참고 링크 : https://medium.com/@changjoopark/구글-플러터-flutter-를-시작하기까지-18c06cec95e3\n\n00:22\nFlutter state 관리 : https://proandroiddev.com/you-might-not-need-redux-the-flutter-edition-9c11eba006d7?gi=6ccb6db7f989\n\n02:44\n화상 서비스 이용 관련 에피소드\n\n04:58\n화상 서비스에 대한 이야기, 팀뷰어를 걱정하다.\n\n06:17\nAndroid studio에서 dart로 작성하는 flutter 앱\n\n07:22\nFlutter의 scoped_model\n\n13:03\nscope_model에서 나는 backbone.js의 냄새\n\n17:44\nflutter의 선언적 애니메이션과 브릿지\n\n20:59\nflutter로 만들고 있는 앱 소개 : 열정 품은 타이머\n\n26:26\nFirestore - BAAS\n\n35:34\n2018년도에 공부하지 말아야할 최악의 언어로 뽑힌 dart\nhttps://www.codementor.io/blog/worst-languages-to-learn-3phycr98zk\n\n38:00\nRedux를 사용한 실제 코드를 볼 수 있나요?\n\n43:12\nRedux : 하나의 액션이 여러 리듀서에서 처리가 필요한 경우"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT50M2S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1955",
+        "likeCount": "22",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Technology"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "음주코딩 0회: Flutter로 앱 만드는 운천",
+          "description": "페이스북의 리액트 네이티브가 있다면 구글은 Flutter가 있다!\n구글이 공개한 크로스 플랫폼 Flutter로 앱을 만드는 운천이의 이야기\n\n- Flutter 공식 사이트 : http://flutter.io\n- Flutter 관련 참고 링크 : https://medium.com/@changjoopark/구글-플러터-flutter-를-시작하기까지-18c06cec95e3\n\n00:22\nFlutter state 관리 : https://proandroiddev.com/you-might-not-need-redux-the-flutter-edition-9c11eba006d7?gi=6ccb6db7f989\n\n02:44\n화상 서비스 이용 관련 에피소드\n\n04:58\n화상 서비스에 대한 이야기, 팀뷰어를 걱정하다.\n\n06:17\nAndroid studio에서 dart로 작성하는 flutter 앱\n\n07:22\nFlutter의 scoped_model\n\n13:03\nscope_model에서 나는 backbone.js의 냄새\n\n17:44\nflutter의 선언적 애니메이션과 브릿지\n\n20:59\nflutter로 만들고 있는 앱 소개 : 열정 품은 타이머\n\n26:26\nFirestore - BAAS\n\n35:34\n2018년도에 공부하지 말아야할 최악의 언어로 뽑힌 dart\nhttps://www.codementor.io/blog/worst-languages-to-learn-3phycr98zk\n\n38:00\nRedux를 사용한 실제 코드를 볼 수 있나요?\n\n43:12\nRedux : 하나의 액션이 여러 리듀서에서 처리가 필요한 경우"
+        }
+      }
+    }
+  ]
+}

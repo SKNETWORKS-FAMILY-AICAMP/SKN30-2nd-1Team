@@ -1,0 +1,140 @@
+{
+  "idx": 1782,
+  "channel_id": "UCUwQycwHeDEoZYHg9VmXEFg",
+  "channel_title": "Lee k",
+  "playlist_items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "bLLrlF5hdtu6ZN0mSsqrc8A6BPs",
+      "id": "VVVVd1F5Y3dIZURFb1pZSGc5Vm1YRUZnLlRpRklDWURoZF93",
+      "snippet": {
+        "publishedAt": "2017-09-22T10:38:55Z",
+        "channelId": "UCUwQycwHeDEoZYHg9VmXEFg",
+        "title": "분양착한애견님의 실시간 스트리밍",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TiFICYDhd_w/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TiFICYDhd_w/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TiFICYDhd_w/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TiFICYDhd_w/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TiFICYDhd_w/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Lee k",
+        "playlistId": "UUUwQycwHeDEoZYHg9VmXEFg",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "TiFICYDhd_w"
+        },
+        "videoOwnerChannelTitle": "Lee k",
+        "videoOwnerChannelId": "UCUwQycwHeDEoZYHg9VmXEFg"
+      },
+      "contentDetails": {
+        "videoId": "TiFICYDhd_w",
+        "videoPublishedAt": "2017-09-22T10:38:55Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "video_details": [
+    {
+      "kind": "youtube#video",
+      "etag": "7bxn7tscf5CvvOlmxuOY81Druf4",
+      "id": "TiFICYDhd_w",
+      "snippet": {
+        "publishedAt": "2017-09-22T10:38:55Z",
+        "channelId": "UCUwQycwHeDEoZYHg9VmXEFg",
+        "title": "분양착한애견님의 실시간 스트리밍",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TiFICYDhd_w/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TiFICYDhd_w/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TiFICYDhd_w/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TiFICYDhd_w/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TiFICYDhd_w/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Lee k",
+        "categoryId": "15",
+        "liveBroadcastContent": "upcoming",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "분양착한애견님의 실시간 스트리밍",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "P0D",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "uploaded",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "0",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "분양착한애견님의 실시간 스트리밍",
+          "description": ""
+        }
+      }
+    }
+  ]
+}

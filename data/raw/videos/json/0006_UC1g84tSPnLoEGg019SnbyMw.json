@@ -1,0 +1,155 @@
+{
+  "idx": 6,
+  "channel_id": "UC1g84tSPnLoEGg019SnbyMw",
+  "channel_title": "시깅잉",
+  "playlist_items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "myZC5L7lCZpelLXitcH8eQZwVAs",
+      "id": "VVUxZzg0dFNQbkxvRUdnMDE5U25ieU13LklpMFRtdDhsSThV",
+      "snippet": {
+        "publishedAt": "2018-04-29T16:26:56Z",
+        "channelId": "UC1g84tSPnLoEGg019SnbyMw",
+        "title": "[시깅잉] 스카이림 여행기1",
+        "description": "아프리카tv:http://afreecatv.com/wom8792\n많이 놀러와주세욧!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ii0Tmt8lI8U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ii0Tmt8lI8U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ii0Tmt8lI8U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ii0Tmt8lI8U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Ii0Tmt8lI8U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "시깅잉",
+        "playlistId": "UU1g84tSPnLoEGg019SnbyMw",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Ii0Tmt8lI8U"
+        },
+        "videoOwnerChannelTitle": "시깅잉",
+        "videoOwnerChannelId": "UC1g84tSPnLoEGg019SnbyMw"
+      },
+      "contentDetails": {
+        "videoId": "Ii0Tmt8lI8U",
+        "videoPublishedAt": "2018-04-29T16:26:56Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "video_details": [
+    {
+      "kind": "youtube#video",
+      "etag": "szsg20sJNio8Y_oLiavsGv0JbhU",
+      "id": "Ii0Tmt8lI8U",
+      "snippet": {
+        "publishedAt": "2018-04-29T16:26:56Z",
+        "channelId": "UC1g84tSPnLoEGg019SnbyMw",
+        "title": "[시깅잉] 스카이림 여행기1",
+        "description": "아프리카tv:http://afreecatv.com/wom8792\n많이 놀러와주세욧!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ii0Tmt8lI8U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ii0Tmt8lI8U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ii0Tmt8lI8U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ii0Tmt8lI8U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Ii0Tmt8lI8U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "시깅잉",
+        "tags": [
+          "스카이림",
+          "엘더스크롤",
+          "게임",
+          "게임방송",
+          "아프리카tv"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[시깅잉] 스카이림 여행기1",
+          "description": "아프리카tv:http://afreecatv.com/wom8792\n많이 놀러와주세욧!"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT55M46S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "725",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action-adventure_game",
+          "https://en.wikipedia.org/wiki/Action_game",
+          "https://en.wikipedia.org/wiki/Role-playing_video_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "[시깅잉] 스카이림 여행기1",
+          "description": "아프리카tv:http://afreecatv.com/wom8792\n많이 놀러와주세욧!"
+        }
+      }
+    }
+  ]
+}

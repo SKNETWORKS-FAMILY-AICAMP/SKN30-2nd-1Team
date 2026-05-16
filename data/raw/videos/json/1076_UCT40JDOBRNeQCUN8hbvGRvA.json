@@ -1,0 +1,402 @@
+{
+  "idx": 1076,
+  "channel_id": "UCT40JDOBRNeQCUN8hbvGRvA",
+  "channel_title": "김스타",
+  "playlist_items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fA9X6RO-xZspcNwH9aBbKZielz0",
+      "id": "VVVUNDBKRE9CUk5lUUNVTjhoYnZHUnZBLllsd2prc2cwZEdB",
+      "snippet": {
+        "publishedAt": "2017-06-04T07:11:20Z",
+        "channelId": "UCT40JDOBRNeQCUN8hbvGRvA",
+        "title": "유튜브 영상 로고 만들기 강좌",
+        "description": "포토샵 스타일 출처 탠닝스타일\n\n영상참고 레뚜님 (감사합니다 !)\n\n❤️영상을 잘 보셨다면 좋아요 + 댓글 + 구독 부탁드립니다 !❤️\n\n\n⚡️ Follow me ⚡️ 저를 팔로우해주세요!\n\n\n\n☁️ INSTAGRAM 인스타그램\nhttps://www.instagram.com/seooo_y02\n\n\n※이 영상을 재편집 또는 재업로드를 금지합니다.\n\n문의사항은 아레 이메일 주소를 통해서 ↓\n🌙  ksy43862@naver.com  🌙",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ylwjksg0dGA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ylwjksg0dGA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ylwjksg0dGA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ylwjksg0dGA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Ylwjksg0dGA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "김스타",
+        "playlistId": "UUT40JDOBRNeQCUN8hbvGRvA",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Ylwjksg0dGA"
+        },
+        "videoOwnerChannelTitle": "김스타",
+        "videoOwnerChannelId": "UCT40JDOBRNeQCUN8hbvGRvA"
+      },
+      "contentDetails": {
+        "videoId": "Ylwjksg0dGA",
+        "videoPublishedAt": "2017-06-04T07:11:20Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "nHJvJNECALA-eA2im_5u5GQ_EVI",
+      "id": "VVVUNDBKRE9CUk5lUUNVTjhoYnZHUnZBLi1lU1ZHTDhkYWRB",
+      "snippet": {
+        "publishedAt": "2017-01-03T10:34:41Z",
+        "channelId": "UCT40JDOBRNeQCUN8hbvGRvA",
+        "title": "들어와여!!!!!!",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-eSVGL8dadA/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-eSVGL8dadA/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-eSVGL8dadA/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-eSVGL8dadA/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-eSVGL8dadA/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "김스타",
+        "playlistId": "UUT40JDOBRNeQCUN8hbvGRvA",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-eSVGL8dadA"
+        },
+        "videoOwnerChannelTitle": "김스타",
+        "videoOwnerChannelId": "UCT40JDOBRNeQCUN8hbvGRvA"
+      },
+      "contentDetails": {
+        "videoId": "-eSVGL8dadA",
+        "videoPublishedAt": "2017-01-03T10:34:41Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "OgVBV0omIFR9Ocwf3XnsxYG8n8U",
+      "id": "VVVUNDBKRE9CUk5lUUNVTjhoYnZHUnZBLm9xeDhDb1BLaHIw",
+      "snippet": {
+        "publishedAt": "2016-11-23T13:19:55Z",
+        "channelId": "UCT40JDOBRNeQCUN8hbvGRvA",
+        "title": "같이 놀아용",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oqx8CoPKhr0/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oqx8CoPKhr0/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oqx8CoPKhr0/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oqx8CoPKhr0/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oqx8CoPKhr0/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "김스타",
+        "playlistId": "UUT40JDOBRNeQCUN8hbvGRvA",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "oqx8CoPKhr0"
+        },
+        "videoOwnerChannelTitle": "김스타",
+        "videoOwnerChannelId": "UCT40JDOBRNeQCUN8hbvGRvA"
+      },
+      "contentDetails": {
+        "videoId": "oqx8CoPKhr0",
+        "videoPublishedAt": "2016-11-23T13:19:55Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "video_details": [
+    {
+      "kind": "youtube#video",
+      "etag": "NwWOnrZxhUBkLr0J5ud4yjSPWFk",
+      "id": "Ylwjksg0dGA",
+      "snippet": {
+        "publishedAt": "2017-06-04T07:11:20Z",
+        "channelId": "UCT40JDOBRNeQCUN8hbvGRvA",
+        "title": "유튜브 영상 로고 만들기 강좌",
+        "description": "포토샵 스타일 출처 탠닝스타일\n\n영상참고 레뚜님 (감사합니다 !)\n\n❤️영상을 잘 보셨다면 좋아요 + 댓글 + 구독 부탁드립니다 !❤️\n\n\n⚡️ Follow me ⚡️ 저를 팔로우해주세요!\n\n\n\n☁️ INSTAGRAM 인스타그램\nhttps://www.instagram.com/seooo_y02\n\n\n※이 영상을 재편집 또는 재업로드를 금지합니다.\n\n문의사항은 아레 이메일 주소를 통해서 ↓\n🌙  ksy43862@naver.com  🌙",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ylwjksg0dGA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ylwjksg0dGA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ylwjksg0dGA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ylwjksg0dGA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Ylwjksg0dGA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "김스타",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "유튜브 영상 로고 만들기 강좌",
+          "description": "포토샵 스타일 출처 탠닝스타일\n\n영상참고 레뚜님 (감사합니다 !)\n\n❤️영상을 잘 보셨다면 좋아요 + 댓글 + 구독 부탁드립니다 !❤️\n\n\n⚡️ Follow me ⚡️ 저를 팔로우해주세요!\n\n\n\n☁️ INSTAGRAM 인스타그램\nhttps://www.instagram.com/seooo_y02\n\n\n※이 영상을 재편집 또는 재업로드를 금지합니다.\n\n문의사항은 아레 이메일 주소를 통해서 ↓\n🌙  ksy43862@naver.com  🌙"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT3M41S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "4809",
+        "likeCount": "48",
+        "favoriteCount": "0",
+        "commentCount": "13"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "유튜브 영상 로고 만들기 강좌",
+          "description": "포토샵 스타일 출처 탠닝스타일\n\n영상참고 레뚜님 (감사합니다 !)\n\n❤️영상을 잘 보셨다면 좋아요 + 댓글 + 구독 부탁드립니다 !❤️\n\n\n⚡️ Follow me ⚡️ 저를 팔로우해주세요!\n\n\n\n☁️ INSTAGRAM 인스타그램\nhttps://www.instagram.com/seooo_y02\n\n\n※이 영상을 재편집 또는 재업로드를 금지합니다.\n\n문의사항은 아레 이메일 주소를 통해서 ↓\n🌙  ksy43862@naver.com  🌙"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "f5Wa81_r5dwEIV7fZgjdWQ7LtOo",
+      "id": "-eSVGL8dadA",
+      "snippet": {
+        "publishedAt": "2017-01-03T10:34:41Z",
+        "channelId": "UCT40JDOBRNeQCUN8hbvGRvA",
+        "title": "들어와여!!!!!!",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-eSVGL8dadA/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-eSVGL8dadA/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-eSVGL8dadA/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-eSVGL8dadA/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-eSVGL8dadA/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "김스타",
+        "categoryId": "24",
+        "liveBroadcastContent": "upcoming",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "들어와여!!!!!!",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "P0D",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "uploaded",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "0",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "들어와여!!!!!!",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "MLSd9bbPT58rZh-D7omx1-h5Lx8",
+      "id": "oqx8CoPKhr0",
+      "snippet": {
+        "publishedAt": "2016-11-23T13:19:55Z",
+        "channelId": "UCT40JDOBRNeQCUN8hbvGRvA",
+        "title": "같이 놀아용",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oqx8CoPKhr0/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oqx8CoPKhr0/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oqx8CoPKhr0/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oqx8CoPKhr0/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oqx8CoPKhr0/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "김스타",
+        "categoryId": "22",
+        "liveBroadcastContent": "upcoming",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "같이 놀아용",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "P0D",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "uploaded",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "0",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "같이 놀아용",
+          "description": ""
+        }
+      }
+    }
+  ]
+}

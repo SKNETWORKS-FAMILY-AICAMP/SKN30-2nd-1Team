@@ -1,0 +1,570 @@
+{
+  "idx": 1484,
+  "channel_id": "UCjxEv_D-LnwF0xr0FnaKd0g",
+  "channel_title": "슈퍼 센야",
+  "playlist_items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "f1LHQJ-1wpfL1aFM_Yyui1ICipo",
+      "id": "VVVqeEV2X0QtTG53RjB4cjBGbmFLZDBnLkNEYzdpaFpWZ0tj",
+      "snippet": {
+        "publishedAt": "2021-09-01T23:00:03Z",
+        "channelId": "UCjxEv_D-LnwF0xr0FnaKd0g",
+        "title": "Senya는 트럭을 운전하고 배달 서비스를 합니다.",
+        "description": "Senya는 트럭을 운전하고 배달 서비스를 합니다.\nSubscribe: https://bit.ly/3wsEGqW",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CDc7ihZVgKc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CDc7ihZVgKc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CDc7ihZVgKc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CDc7ihZVgKc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CDc7ihZVgKc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "슈퍼 센야",
+        "playlistId": "UUjxEv_D-LnwF0xr0FnaKd0g",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CDc7ihZVgKc"
+        },
+        "videoOwnerChannelTitle": "슈퍼 센야",
+        "videoOwnerChannelId": "UCjxEv_D-LnwF0xr0FnaKd0g"
+      },
+      "contentDetails": {
+        "videoId": "CDc7ihZVgKc",
+        "videoPublishedAt": "2021-09-01T23:00:03Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "J7DvqagC3g23njH1uNkpHZ83O8g",
+      "id": "VVVqeEV2X0QtTG53RjB4cjBGbmFLZDBnLnJmNUlCekxEdGpr",
+      "snippet": {
+        "publishedAt": "2021-07-05T23:00:22Z",
+        "channelId": "UCjxEv_D-LnwF0xr0FnaKd0g",
+        "title": "Senya는 인어 공주를 돕습니다.",
+        "description": "Senya는 인어 공주를 돕습니다.\nSubscribe: https://bit.ly/3wsEGqW",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rf5IBzLDtjk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rf5IBzLDtjk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rf5IBzLDtjk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rf5IBzLDtjk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "슈퍼 센야",
+        "playlistId": "UUjxEv_D-LnwF0xr0FnaKd0g",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "rf5IBzLDtjk"
+        },
+        "videoOwnerChannelTitle": "슈퍼 센야",
+        "videoOwnerChannelId": "UCjxEv_D-LnwF0xr0FnaKd0g"
+      },
+      "contentDetails": {
+        "videoId": "rf5IBzLDtjk",
+        "videoPublishedAt": "2021-07-05T23:00:22Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "LmVneskHUZexoYq1fCIso-4EH34",
+      "id": "VVVqeEV2X0QtTG53RjB4cjBGbmFLZDBnLldRc2VnUHEwM3Q4",
+      "snippet": {
+        "publishedAt": "2021-07-03T23:00:10Z",
+        "channelId": "UCjxEv_D-LnwF0xr0FnaKd0g",
+        "title": "과자와 함께 Senya와 그의 기계",
+        "description": "과자와 함께 Senya와 그의 기계\nSubscribe: https://bit.ly/3wsEGqW",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WQsegPq03t8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WQsegPq03t8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WQsegPq03t8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WQsegPq03t8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WQsegPq03t8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "슈퍼 센야",
+        "playlistId": "UUjxEv_D-LnwF0xr0FnaKd0g",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WQsegPq03t8"
+        },
+        "videoOwnerChannelTitle": "슈퍼 센야",
+        "videoOwnerChannelId": "UCjxEv_D-LnwF0xr0FnaKd0g"
+      },
+      "contentDetails": {
+        "videoId": "WQsegPq03t8",
+        "videoPublishedAt": "2021-07-03T23:00:10Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "1ZXJhggOf4JZXx7OlRSkTOIF1Hg",
+      "id": "VVVqeEV2X0QtTG53RjB4cjBGbmFLZDBnLjg2NFNnNmhJSkw4",
+      "snippet": {
+        "publishedAt": "2021-07-01T23:00:02Z",
+        "channelId": "UCjxEv_D-LnwF0xr0FnaKd0g",
+        "title": "Senya가 아이스크림을 준비",
+        "description": "Senya가 아이스크림을 준비\nSubscribe: https://bit.ly/3wsEGqW",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/864Sg6hIJL8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/864Sg6hIJL8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/864Sg6hIJL8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/864Sg6hIJL8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "슈퍼 센야",
+        "playlistId": "UUjxEv_D-LnwF0xr0FnaKd0g",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "864Sg6hIJL8"
+        },
+        "videoOwnerChannelTitle": "슈퍼 센야",
+        "videoOwnerChannelId": "UCjxEv_D-LnwF0xr0FnaKd0g"
+      },
+      "contentDetails": {
+        "videoId": "864Sg6hIJL8",
+        "videoPublishedAt": "2021-07-01T23:00:02Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "video_details": [
+    {
+      "kind": "youtube#video",
+      "etag": "yprVv48VJvJaNplWcLVIBIjZLxc",
+      "id": "CDc7ihZVgKc",
+      "snippet": {
+        "publishedAt": "2021-09-01T23:00:03Z",
+        "channelId": "UCjxEv_D-LnwF0xr0FnaKd0g",
+        "title": "Senya는 트럭을 운전하고 배달 서비스를 합니다.",
+        "description": "Senya는 트럭을 운전하고 배달 서비스를 합니다.\nSubscribe: https://bit.ly/3wsEGqW",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CDc7ihZVgKc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CDc7ihZVgKc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CDc7ihZVgKc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CDc7ihZVgKc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CDc7ihZVgKc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "슈퍼 센야",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "Senya는 트럭을 운전하고 배달 서비스를 합니다.",
+          "description": "Senya는 트럭을 운전하고 배달 서비스를 합니다.\nSubscribe: https://bit.ly/3wsEGqW"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT5M31S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": true
+      },
+      "statistics": {
+        "viewCount": "42232",
+        "likeCount": "290",
+        "favoriteCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Hobby",
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "Senya는 트럭을 운전하고 배달 서비스를 합니다.",
+          "description": "Senya는 트럭을 운전하고 배달 서비스를 합니다.\nSubscribe: https://bit.ly/3wsEGqW"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "A1QAynVYm0TadTWP8_v3IyWNC4Q",
+      "id": "rf5IBzLDtjk",
+      "snippet": {
+        "publishedAt": "2021-07-05T23:00:22Z",
+        "channelId": "UCjxEv_D-LnwF0xr0FnaKd0g",
+        "title": "Senya는 인어 공주를 돕습니다.",
+        "description": "Senya는 인어 공주를 돕습니다.\nSubscribe: https://bit.ly/3wsEGqW",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rf5IBzLDtjk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rf5IBzLDtjk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rf5IBzLDtjk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rf5IBzLDtjk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "슈퍼 센야",
+        "tags": [
+          "Super Senya",
+          "kids video",
+          "kids game",
+          "아이",
+          "척 놀이",
+          "pretend play",
+          "어린이 역사",
+          "어린이를위한 규칙",
+          "키즈 비디오",
+          "가상 놀이",
+          "한국어로",
+          "놀다"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "Senya는 인어 공주를 돕습니다.",
+          "description": "Senya는 인어 공주를 돕습니다.\nSubscribe: https://bit.ly/3wsEGqW"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M58S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": true
+      },
+      "statistics": {
+        "viewCount": "65249",
+        "likeCount": "459",
+        "favoriteCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Entertainment"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "Senya는 인어 공주를 돕습니다.",
+          "description": "Senya는 인어 공주를 돕습니다.\nSubscribe: https://bit.ly/3wsEGqW"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "JaiDWVBUpk1_3C0hNPqw4knHRMw",
+      "id": "WQsegPq03t8",
+      "snippet": {
+        "publishedAt": "2021-07-03T23:00:10Z",
+        "channelId": "UCjxEv_D-LnwF0xr0FnaKd0g",
+        "title": "과자와 함께 Senya와 그의 기계",
+        "description": "과자와 함께 Senya와 그의 기계\nSubscribe: https://bit.ly/3wsEGqW",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WQsegPq03t8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WQsegPq03t8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WQsegPq03t8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WQsegPq03t8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WQsegPq03t8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "슈퍼 센야",
+        "tags": [
+          "Senya",
+          "want to play",
+          "game",
+          "kids game",
+          "어린이 장난감",
+          "척 놀이",
+          "아이들을위한 이야기",
+          "한국어로",
+          "어린이 놀이",
+          "가상 놀이",
+          "최고의 영상들"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "과자와 함께 Senya와 그의 기계",
+          "description": "과자와 함께 Senya와 그의 기계\nSubscribe: https://bit.ly/3wsEGqW"
+        },
+        "defaultAudioLanguage": "zh"
+      },
+      "contentDetails": {
+        "duration": "PT3M",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": true
+      },
+      "statistics": {
+        "viewCount": "62259",
+        "likeCount": "322",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Hobby",
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "과자와 함께 Senya와 그의 기계",
+          "description": "과자와 함께 Senya와 그의 기계\nSubscribe: https://bit.ly/3wsEGqW"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Cj4tSjLQCqmdibJA70X5PG-qRKg",
+      "id": "864Sg6hIJL8",
+      "snippet": {
+        "publishedAt": "2021-07-01T23:00:02Z",
+        "channelId": "UCjxEv_D-LnwF0xr0FnaKd0g",
+        "title": "Senya가 아이스크림을 준비",
+        "description": "Senya가 아이스크림을 준비\nSubscribe: https://bit.ly/3wsEGqW",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/864Sg6hIJL8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/864Sg6hIJL8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/864Sg6hIJL8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/864Sg6hIJL8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "슈퍼 센야",
+        "tags": [
+          "play date",
+          "kids entertainment",
+          "toys",
+          "어린이를위한 규칙",
+          "아이들을위한 이야기",
+          "최고의 영상들",
+          "어린이 장난감",
+          "재미 아이들을위 장난감"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "Senya가 아이스크림을 준비",
+          "description": "Senya가 아이스크림을 준비\nSubscribe: https://bit.ly/3wsEGqW"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT4M27S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": true
+      },
+      "statistics": {
+        "viewCount": "67903",
+        "likeCount": "386",
+        "favoriteCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Food",
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "Senya가 아이스크림을 준비",
+          "description": "Senya가 아이스크림을 준비\nSubscribe: https://bit.ly/3wsEGqW"
+        }
+      }
+    }
+  ]
+}

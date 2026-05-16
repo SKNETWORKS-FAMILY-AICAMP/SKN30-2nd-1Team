@@ -1,0 +1,130 @@
+{
+  "idx": 1978,
+  "channel_id": "UCfuyjLLFY7sfCWJNlB1R7cg",
+  "channel_title": "츄윙",
+  "playlist_items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "RdGk4MwrZQ49nhC6H5Hz01gxUQI",
+      "id": "VVVmdXlqTExGWTdzZkNXSk5sQjFSN2NnLlpadFhRTUdrR3o0",
+      "snippet": {
+        "publishedAt": "2023-05-05T13:27:14Z",
+        "channelId": "UCfuyjLLFY7sfCWJNlB1R7cg",
+        "title": "강해져서 돌아오겠습니다.",
+        "description": "츄윙 팬카페\nhttps://cafe.naver.com/chyuwing#",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZZtXQMGkGz4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZZtXQMGkGz4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZZtXQMGkGz4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZZtXQMGkGz4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "츄윙",
+        "playlistId": "UUfuyjLLFY7sfCWJNlB1R7cg",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ZZtXQMGkGz4"
+        },
+        "videoOwnerChannelTitle": "츄윙",
+        "videoOwnerChannelId": "UCfuyjLLFY7sfCWJNlB1R7cg"
+      },
+      "contentDetails": {
+        "videoId": "ZZtXQMGkGz4",
+        "videoPublishedAt": "2023-05-05T13:27:14Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "video_details": [
+    {
+      "kind": "youtube#video",
+      "etag": "4BsDpC-M3v64dB9s6xmiGU30y_k",
+      "id": "ZZtXQMGkGz4",
+      "snippet": {
+        "publishedAt": "2023-05-05T13:27:14Z",
+        "channelId": "UCfuyjLLFY7sfCWJNlB1R7cg",
+        "title": "강해져서 돌아오겠습니다.",
+        "description": "츄윙 팬카페\nhttps://cafe.naver.com/chyuwing#",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZZtXQMGkGz4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZZtXQMGkGz4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZZtXQMGkGz4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZZtXQMGkGz4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "츄윙",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "강해져서 돌아오겠습니다.",
+          "description": "츄윙 팬카페\nhttps://cafe.naver.com/chyuwing#"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT1M4S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1402",
+        "likeCount": "20",
+        "favoriteCount": "0",
+        "commentCount": "25"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "강해져서 돌아오겠습니다.",
+          "description": "츄윙 팬카페\nhttps://cafe.naver.com/chyuwing#"
+        }
+      }
+    }
+  ]
+}

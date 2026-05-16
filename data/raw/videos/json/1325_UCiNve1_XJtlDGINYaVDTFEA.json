@@ -1,0 +1,1181 @@
+{
+  "idx": 1325,
+  "channel_id": "UCiNve1_XJtlDGINYaVDTFEA",
+  "channel_title": "준잘",
+  "playlist_items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Wl82WUOBqdS50mdX74U8YEiKUAE",
+      "id": "VVVpTnZlMV9YSnRsREdJTllhVkRURkVBLmJXMkRLZElHN3pz",
+      "snippet": {
+        "publishedAt": "2024-08-29T09:24:42Z",
+        "channelId": "UCiNve1_XJtlDGINYaVDTFEA",
+        "title": "안녕하세요 3년 만입니다. 드디어..",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bW2DKdIG7zs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bW2DKdIG7zs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bW2DKdIG7zs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bW2DKdIG7zs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bW2DKdIG7zs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "준잘",
+        "playlistId": "UUiNve1_XJtlDGINYaVDTFEA",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "bW2DKdIG7zs"
+        },
+        "videoOwnerChannelTitle": "준잘",
+        "videoOwnerChannelId": "UCiNve1_XJtlDGINYaVDTFEA"
+      },
+      "contentDetails": {
+        "videoId": "bW2DKdIG7zs",
+        "videoPublishedAt": "2024-08-29T09:24:42Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "u6P9v_RBeJjtYWdkX4ug2GmEoHI",
+      "id": "VVVpTnZlMV9YSnRsREdJTllhVkRURkVBLjhjOGxWOEJhY0hF",
+      "snippet": {
+        "publishedAt": "2020-12-18T02:55:32Z",
+        "channelId": "UCiNve1_XJtlDGINYaVDTFEA",
+        "title": "8번째 재도전한 이모티콘 공개",
+        "description": "카카오 이모티콘에 8번째로 재도전한 이모티콘 공개합니다",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8c8lV8BacHE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8c8lV8BacHE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8c8lV8BacHE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8c8lV8BacHE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8c8lV8BacHE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "준잘",
+        "playlistId": "UUiNve1_XJtlDGINYaVDTFEA",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8c8lV8BacHE"
+        },
+        "videoOwnerChannelTitle": "준잘",
+        "videoOwnerChannelId": "UCiNve1_XJtlDGINYaVDTFEA"
+      },
+      "contentDetails": {
+        "videoId": "8c8lV8BacHE",
+        "videoPublishedAt": "2020-12-18T02:55:32Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-nDH1Z0Fz5Q5LJvs94wa7AUMTzc",
+      "id": "VVVpTnZlMV9YSnRsREdJTllhVkRURkVBLjRsSlJ5bUdvcms4",
+      "snippet": {
+        "publishedAt": "2020-04-15T03:00:00Z",
+        "channelId": "UCiNve1_XJtlDGINYaVDTFEA",
+        "title": "일곱번째 이모티콘 결과 공개! 카카오가 또...!(준잘 생방송)",
+        "description": "일곱 번째 카카오 이모티콘 심사 결과를 생방송을 통해서 공개했습니다\n실시간으로 공개했는데요 많은 분들이 생방송을 함께 해주셨습니다\n함께 해주신 모든 분들 다시 한번 감사드립니다\n더욱더 노력하는 준잘이 되겠습니다",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4lJRymGork8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4lJRymGork8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4lJRymGork8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4lJRymGork8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4lJRymGork8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "준잘",
+        "playlistId": "UUiNve1_XJtlDGINYaVDTFEA",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4lJRymGork8"
+        },
+        "videoOwnerChannelTitle": "준잘",
+        "videoOwnerChannelId": "UCiNve1_XJtlDGINYaVDTFEA"
+      },
+      "contentDetails": {
+        "videoId": "4lJRymGork8",
+        "videoPublishedAt": "2020-04-15T03:00:00Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Kf0JnYVSleCV_ZNVwzfIlWIRwhc",
+      "id": "VVVpTnZlMV9YSnRsREdJTllhVkRURkVBLnFZQ1RMQmx3WDJF",
+      "snippet": {
+        "publishedAt": "2020-04-03T04:00:17Z",
+        "channelId": "UCiNve1_XJtlDGINYaVDTFEA",
+        "title": "카카오 이모티콘 7번째 도전!! '알통이' 공개합니다[준잘 생방송]",
+        "description": "어느덧 7번째 카카오 이모티콘 도전이네요!\n캐릭터 이름은 '알통이'입니다\n과연 이번에는 승인받을 수 있을까요?\n생방송에 참여해 주시고 자리 지켜주신 분들 감사합니다\n이모티콘 합격 여부는 가능하면 실시간으로 보여드리도록 하겠습니다\n라이브 방송 많이 봐주세요~!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qYCTLBlwX2E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qYCTLBlwX2E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qYCTLBlwX2E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qYCTLBlwX2E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qYCTLBlwX2E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "준잘",
+        "playlistId": "UUiNve1_XJtlDGINYaVDTFEA",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "qYCTLBlwX2E"
+        },
+        "videoOwnerChannelTitle": "준잘",
+        "videoOwnerChannelId": "UCiNve1_XJtlDGINYaVDTFEA"
+      },
+      "contentDetails": {
+        "videoId": "qYCTLBlwX2E",
+        "videoPublishedAt": "2020-04-03T04:00:17Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2PKLsXfyLzK7WJgw-ur5xCVxe14",
+      "id": "VVVpTnZlMV9YSnRsREdJTllhVkRURkVBLjRpRk9OZERrdWxj",
+      "snippet": {
+        "publishedAt": "2019-10-07T11:55:00Z",
+        "channelId": "UCiNve1_XJtlDGINYaVDTFEA",
+        "title": "[이모티콘 만들기]여섯번째 이모티콘 도전 결과는??",
+        "description": "새로운 캐릭터로 이모티콘 만들기에 도전했습니다~!\n이모티콘의 컨셉에 맞게 새로운 캐릭터도 만들었는데요!\n여섯번째 이모티콘 과연 승인일까요? 미승인일까요?\n#이모티콘만들기 #카카오이모티콘",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4iFONdDkulc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4iFONdDkulc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4iFONdDkulc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4iFONdDkulc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4iFONdDkulc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "준잘",
+        "playlistId": "UUiNve1_XJtlDGINYaVDTFEA",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4iFONdDkulc"
+        },
+        "videoOwnerChannelTitle": "준잘",
+        "videoOwnerChannelId": "UCiNve1_XJtlDGINYaVDTFEA"
+      },
+      "contentDetails": {
+        "videoId": "4iFONdDkulc",
+        "videoPublishedAt": "2019-10-07T11:55:00Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "HEK-Xw33sD5dxJEkHaYa7ZC-P8Q",
+      "id": "VVVpTnZlMV9YSnRsREdJTllhVkRURkVBLl81TE9fR2ltTXQ4",
+      "snippet": {
+        "publishedAt": "2019-08-30T09:00:12Z",
+        "channelId": "UCiNve1_XJtlDGINYaVDTFEA",
+        "title": "이모티콘 만들기 1년만에 첫 합격!?(새로운 이모티콘 공개!!)",
+        "description": "이모티콘 만들기 컨텐츠를 만든지 벌써 1년이 지났습니다! 가장 최근에 제출한 이모티콘 숫자티콘 입니다! 과연 1년만에 드디어 합격했을까요? 영상을 통해서 확인해주세요~\n그리고 이번 영상부터 구독자 분께서 보내주시는 팬아트를 함께 올리려고 합니다!\n관심 있으신 분들은\njoonjal@naver.com\n위 메일로 그림 혹은 영상 보내주세요 많은 참여 부탁드립니다\n감사합니다!\n#이모티콘만들기 #이모티콘 #카톡이모티콘 #준잘 #팬아트 #포토샵 #캐릭터 #이모티콘그리기 #이모티콘제작 #이모티콘작가",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_5LO_GimMt8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_5LO_GimMt8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_5LO_GimMt8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_5LO_GimMt8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_5LO_GimMt8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "준잘",
+        "playlistId": "UUiNve1_XJtlDGINYaVDTFEA",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_5LO_GimMt8"
+        },
+        "videoOwnerChannelTitle": "준잘",
+        "videoOwnerChannelId": "UCiNve1_XJtlDGINYaVDTFEA"
+      },
+      "contentDetails": {
+        "videoId": "_5LO_GimMt8",
+        "videoPublishedAt": "2019-08-30T09:00:12Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "DViD7nzGJOljsmL08DDLafYtARI",
+      "id": "VVVpTnZlMV9YSnRsREdJTllhVkRURkVBLklHZEJNZUFNNFZF",
+      "snippet": {
+        "publishedAt": "2018-10-12T02:55:36Z",
+        "channelId": "UCiNve1_XJtlDGINYaVDTFEA",
+        "title": "[카카오톡 이모티콘]벌써 두 번째 이모티콘 제출!!! 과연 결과는??!!",
+        "description": "조언과 질문은 항상 환영이고요~좋아요와 구독도 꼭 부탁드립니다!!\n감사합니다^^",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IGdBMeAM4VE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IGdBMeAM4VE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IGdBMeAM4VE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IGdBMeAM4VE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IGdBMeAM4VE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "준잘",
+        "playlistId": "UUiNve1_XJtlDGINYaVDTFEA",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "IGdBMeAM4VE"
+        },
+        "videoOwnerChannelTitle": "준잘",
+        "videoOwnerChannelId": "UCiNve1_XJtlDGINYaVDTFEA"
+      },
+      "contentDetails": {
+        "videoId": "IGdBMeAM4VE",
+        "videoPublishedAt": "2018-10-12T02:55:36Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "MyZuziPwwa39LLJmX4Jtwy6CgK4",
+      "id": "VVVpTnZlMV9YSnRsREdJTllhVkRURkVBLkQyenIwdHlJc1dv",
+      "snippet": {
+        "publishedAt": "2018-08-03T15:18:21Z",
+        "channelId": "UCiNve1_XJtlDGINYaVDTFEA",
+        "title": "[카카오톡 이모티콘]일반인의 카톡 이모티콘 만들기!!",
+        "description": "캐릭터 애니메이션 전공자가 아니어도 이모티콘을 만들 수 있을까요? \n스케치부터 포토샵 애니메이션 작업, 카카오 이모티콘 스튜디오 제출과정 까지 이모티콘 만드는 방법을 담은 영상입니다!\n조언과 질문은 항상 환영이고요~좋아요와 구독도 꼭 부탁드립니다!!\n감사합니다^^",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/D2zr0tyIsWo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/D2zr0tyIsWo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/D2zr0tyIsWo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/D2zr0tyIsWo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/D2zr0tyIsWo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "준잘",
+        "playlistId": "UUiNve1_XJtlDGINYaVDTFEA",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "D2zr0tyIsWo"
+        },
+        "videoOwnerChannelTitle": "준잘",
+        "videoOwnerChannelId": "UCiNve1_XJtlDGINYaVDTFEA"
+      },
+      "contentDetails": {
+        "videoId": "D2zr0tyIsWo",
+        "videoPublishedAt": "2018-08-03T15:18:21Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "video_details": [
+    {
+      "kind": "youtube#video",
+      "etag": "EyxmUvbEarZMD7-76-MhqbKLdl4",
+      "id": "bW2DKdIG7zs",
+      "snippet": {
+        "publishedAt": "2024-08-29T09:24:42Z",
+        "channelId": "UCiNve1_XJtlDGINYaVDTFEA",
+        "title": "안녕하세요 3년 만입니다. 드디어..",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bW2DKdIG7zs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bW2DKdIG7zs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bW2DKdIG7zs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bW2DKdIG7zs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bW2DKdIG7zs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "준잘",
+        "tags": [
+          "이모티콘",
+          "캐릭터",
+          "준잘",
+          "토리앤코리",
+          "toriandkori",
+          "토리코리",
+          "torikori",
+          "luvtori",
+          "luvkori"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "안녕하세요 3년 만입니다. 드디어..",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT6M3S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "678",
+        "likeCount": "39",
+        "favoriteCount": "0",
+        "commentCount": "23"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "안녕하세요 3년 만입니다. 드디어..",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "sbw2aN9LGsl2QY9jDEWRKAY2srw",
+      "id": "8c8lV8BacHE",
+      "snippet": {
+        "publishedAt": "2020-12-18T02:55:32Z",
+        "channelId": "UCiNve1_XJtlDGINYaVDTFEA",
+        "title": "8번째 재도전한 이모티콘 공개",
+        "description": "카카오 이모티콘에 8번째로 재도전한 이모티콘 공개합니다",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8c8lV8BacHE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8c8lV8BacHE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8c8lV8BacHE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8c8lV8BacHE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8c8lV8BacHE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "준잘",
+        "tags": [
+          "카카오 이모티콘",
+          "이모티콘 만들기",
+          "준잘",
+          "포토샵"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "8번째 재도전한 이모티콘 공개",
+          "description": "카카오 이모티콘에 8번째로 재도전한 이모티콘 공개합니다"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT2M52S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "14513",
+        "likeCount": "289",
+        "favoriteCount": "0",
+        "commentCount": "92"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "8번째 재도전한 이모티콘 공개",
+          "description": "카카오 이모티콘에 8번째로 재도전한 이모티콘 공개합니다"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ExPjRasrbfYgxx5Hpn1_gwS5u_g",
+      "id": "4lJRymGork8",
+      "snippet": {
+        "publishedAt": "2020-04-15T03:00:00Z",
+        "channelId": "UCiNve1_XJtlDGINYaVDTFEA",
+        "title": "일곱번째 이모티콘 결과 공개! 카카오가 또...!(준잘 생방송)",
+        "description": "일곱 번째 카카오 이모티콘 심사 결과를 생방송을 통해서 공개했습니다\n실시간으로 공개했는데요 많은 분들이 생방송을 함께 해주셨습니다\n함께 해주신 모든 분들 다시 한번 감사드립니다\n더욱더 노력하는 준잘이 되겠습니다",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4lJRymGork8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4lJRymGork8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4lJRymGork8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4lJRymGork8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4lJRymGork8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "준잘",
+        "tags": [
+          "이모티콘 만들기",
+          "준잘",
+          "카카오 이모티콘 스튜디오",
+          "카카오 이모티콘 만들기",
+          "카카오 이모티콘",
+          "포토샵",
+          "photoshop",
+          "튜토리얼",
+          "tutorial",
+          "joonjal"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "일곱번째 이모티콘 결과 공개! 카카오가 또...!(준잘 생방송)",
+          "description": "일곱 번째 카카오 이모티콘 심사 결과를 생방송을 통해서 공개했습니다\n실시간으로 공개했는데요 많은 분들이 생방송을 함께 해주셨습니다\n함께 해주신 모든 분들 다시 한번 감사드립니다\n더욱더 노력하는 준잘이 되겠습니다"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M38S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "11573",
+        "likeCount": "240",
+        "favoriteCount": "0",
+        "commentCount": "83"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "일곱번째 이모티콘 결과 공개! 카카오가 또...!(준잘 생방송)",
+          "description": "일곱 번째 카카오 이모티콘 심사 결과를 생방송을 통해서 공개했습니다\n실시간으로 공개했는데요 많은 분들이 생방송을 함께 해주셨습니다\n함께 해주신 모든 분들 다시 한번 감사드립니다\n더욱더 노력하는 준잘이 되겠습니다"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "a5LUfHYbuKiqtbfoNb6mT9UxWmw",
+      "id": "qYCTLBlwX2E",
+      "snippet": {
+        "publishedAt": "2020-04-03T04:00:17Z",
+        "channelId": "UCiNve1_XJtlDGINYaVDTFEA",
+        "title": "카카오 이모티콘 7번째 도전!! '알통이' 공개합니다[준잘 생방송]",
+        "description": "어느덧 7번째 카카오 이모티콘 도전이네요!\n캐릭터 이름은 '알통이'입니다\n과연 이번에는 승인받을 수 있을까요?\n생방송에 참여해 주시고 자리 지켜주신 분들 감사합니다\n이모티콘 합격 여부는 가능하면 실시간으로 보여드리도록 하겠습니다\n라이브 방송 많이 봐주세요~!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qYCTLBlwX2E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qYCTLBlwX2E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qYCTLBlwX2E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qYCTLBlwX2E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qYCTLBlwX2E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "준잘",
+        "tags": [
+          "이모티콘 만들기",
+          "준잘",
+          "카카오 이모티콘 스튜디오",
+          "카카오 이모티콘 만들기",
+          "카카오 이모티콘",
+          "포토샵",
+          "photoshop",
+          "튜토리얼",
+          "tutorial",
+          "joonjal"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "카카오 이모티콘 7번째 도전!! '알통이' 공개합니다[준잘 생방송]",
+          "description": "어느덧 7번째 카카오 이모티콘 도전이네요!\n캐릭터 이름은 '알통이'입니다\n과연 이번에는 승인받을 수 있을까요?\n생방송에 참여해 주시고 자리 지켜주신 분들 감사합니다\n이모티콘 합격 여부는 가능하면 실시간으로 보여드리도록 하겠습니다\n라이브 방송 많이 봐주세요~!"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT5M14S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "7692",
+        "likeCount": "166",
+        "favoriteCount": "0",
+        "commentCount": "65"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "카카오 이모티콘 7번째 도전!! '알통이' 공개합니다[준잘 생방송]",
+          "description": "어느덧 7번째 카카오 이모티콘 도전이네요!\n캐릭터 이름은 '알통이'입니다\n과연 이번에는 승인받을 수 있을까요?\n생방송에 참여해 주시고 자리 지켜주신 분들 감사합니다\n이모티콘 합격 여부는 가능하면 실시간으로 보여드리도록 하겠습니다\n라이브 방송 많이 봐주세요~!"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Sqj4NU4wVLZlACbD_YgLNmj2cyk",
+      "id": "4iFONdDkulc",
+      "snippet": {
+        "publishedAt": "2019-10-07T11:55:00Z",
+        "channelId": "UCiNve1_XJtlDGINYaVDTFEA",
+        "title": "[이모티콘 만들기]여섯번째 이모티콘 도전 결과는??",
+        "description": "새로운 캐릭터로 이모티콘 만들기에 도전했습니다~!\n이모티콘의 컨셉에 맞게 새로운 캐릭터도 만들었는데요!\n여섯번째 이모티콘 과연 승인일까요? 미승인일까요?\n#이모티콘만들기 #카카오이모티콘",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4iFONdDkulc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4iFONdDkulc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4iFONdDkulc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4iFONdDkulc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4iFONdDkulc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "준잘",
+        "tags": [
+          "이모티콘 만들기",
+          "준잘",
+          "카카오 이모티콘 스튜디오",
+          "카카오 이모티콘 만들기",
+          "카카오 이모티콘",
+          "포토샵",
+          "photoshop",
+          "튜토리얼",
+          "tutorial",
+          "joonjal"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[이모티콘 만들기]여섯번째 이모티콘 도전 결과는??",
+          "description": "새로운 캐릭터로 이모티콘 만들기에 도전했습니다~!\n이모티콘의 컨셉에 맞게 새로운 캐릭터도 만들었는데요!\n여섯번째 이모티콘 과연 승인일까요? 미승인일까요?\n#이모티콘만들기 #카카오이모티콘"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M4S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "9639",
+        "likeCount": "166",
+        "favoriteCount": "0",
+        "commentCount": "46"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "[이모티콘 만들기]여섯번째 이모티콘 도전 결과는??",
+          "description": "새로운 캐릭터로 이모티콘 만들기에 도전했습니다~!\n이모티콘의 컨셉에 맞게 새로운 캐릭터도 만들었는데요!\n여섯번째 이모티콘 과연 승인일까요? 미승인일까요?\n#이모티콘만들기 #카카오이모티콘"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "CrKRm6Hh1ye6lYAlC5YqeC3eBzU",
+      "id": "_5LO_GimMt8",
+      "snippet": {
+        "publishedAt": "2019-08-30T09:00:12Z",
+        "channelId": "UCiNve1_XJtlDGINYaVDTFEA",
+        "title": "이모티콘 만들기 1년만에 첫 합격!?(새로운 이모티콘 공개!!)",
+        "description": "이모티콘 만들기 컨텐츠를 만든지 벌써 1년이 지났습니다! 가장 최근에 제출한 이모티콘 숫자티콘 입니다! 과연 1년만에 드디어 합격했을까요? 영상을 통해서 확인해주세요~\n그리고 이번 영상부터 구독자 분께서 보내주시는 팬아트를 함께 올리려고 합니다!\n관심 있으신 분들은\njoonjal@naver.com\n위 메일로 그림 혹은 영상 보내주세요 많은 참여 부탁드립니다\n감사합니다!\n#이모티콘만들기 #이모티콘 #카톡이모티콘 #준잘 #팬아트 #포토샵 #캐릭터 #이모티콘그리기 #이모티콘제작 #이모티콘작가",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_5LO_GimMt8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_5LO_GimMt8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_5LO_GimMt8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_5LO_GimMt8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_5LO_GimMt8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "준잘",
+        "tags": [
+          "이모티콘만들기",
+          "이모티콘",
+          "준잘",
+          "팬아트",
+          "이모티콘 준잘",
+          "준잘 이모티콘",
+          "카톡이모티콘",
+          "카카오톡 이모티콘 만들기",
+          "애니메이션",
+          "포토샵",
+          "animation",
+          "photoshop",
+          "character",
+          "캐릭터",
+          "캐릭터 애니메이션",
+          "드로잉",
+          "포토샵 그림",
+          "이모티콘 그리기",
+          "이모티콘 제작",
+          "이모티콘 작가"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "이모티콘 만들기 1년만에 첫 합격!?(새로운 이모티콘 공개!!)",
+          "description": "이모티콘 만들기 컨텐츠를 만든지 벌써 1년이 지났습니다! 가장 최근에 제출한 이모티콘 숫자티콘 입니다! 과연 1년만에 드디어 합격했을까요? 영상을 통해서 확인해주세요~\n그리고 이번 영상부터 구독자 분께서 보내주시는 팬아트를 함께 올리려고 합니다!\n관심 있으신 분들은\njoonjal@naver.com\n위 메일로 그림 혹은 영상 보내주세요 많은 참여 부탁드립니다\n감사합니다!\n#이모티콘만들기 #이모티콘 #카톡이모티콘 #준잘 #팬아트 #포토샵 #캐릭터 #이모티콘그리기 #이모티콘제작 #이모티콘작가"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M42S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "51956",
+        "likeCount": "504",
+        "favoriteCount": "0",
+        "commentCount": "143"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "이모티콘 만들기 1년만에 첫 합격!?(새로운 이모티콘 공개!!)",
+          "description": "이모티콘 만들기 컨텐츠를 만든지 벌써 1년이 지났습니다! 가장 최근에 제출한 이모티콘 숫자티콘 입니다! 과연 1년만에 드디어 합격했을까요? 영상을 통해서 확인해주세요~\n그리고 이번 영상부터 구독자 분께서 보내주시는 팬아트를 함께 올리려고 합니다!\n관심 있으신 분들은\njoonjal@naver.com\n위 메일로 그림 혹은 영상 보내주세요 많은 참여 부탁드립니다\n감사합니다!\n#이모티콘만들기 #이모티콘 #카톡이모티콘 #준잘 #팬아트 #포토샵 #캐릭터 #이모티콘그리기 #이모티콘제작 #이모티콘작가"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "xo2QXNmjf36D_kkdckPzqI_Z-XU",
+      "id": "IGdBMeAM4VE",
+      "snippet": {
+        "publishedAt": "2018-10-12T02:55:36Z",
+        "channelId": "UCiNve1_XJtlDGINYaVDTFEA",
+        "title": "[카카오톡 이모티콘]벌써 두 번째 이모티콘 제출!!! 과연 결과는??!!",
+        "description": "조언과 질문은 항상 환영이고요~좋아요와 구독도 꼭 부탁드립니다!!\n감사합니다^^",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IGdBMeAM4VE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IGdBMeAM4VE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IGdBMeAM4VE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IGdBMeAM4VE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IGdBMeAM4VE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "준잘",
+        "tags": [
+          "카카오톡",
+          "이모티콘",
+          "카톡",
+          "임티",
+          "카카오톡 이모티콘",
+          "합격",
+          "탈락",
+          "에프터 이펙트",
+          "포토샵",
+          "photoshop",
+          "after effects",
+          "제출",
+          "준잘",
+          "일러스트레이션",
+          "일러스트",
+          "일러스트레이터",
+          "이모티콘 그리기",
+          "이모티콘 만들기",
+          "캐릭터",
+          "애니메이션",
+          "캐릭터 애니메이션"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[카카오톡 이모티콘]벌써 두 번째 이모티콘 제출!!! 과연 결과는??!!",
+          "description": "조언과 질문은 항상 환영이고요~좋아요와 구독도 꼭 부탁드립니다!!\n감사합니다^^"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT2M51S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "4897",
+        "likeCount": "126",
+        "favoriteCount": "0",
+        "commentCount": "70"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "[카카오톡 이모티콘]벌써 두 번째 이모티콘 제출!!! 과연 결과는??!!",
+          "description": "조언과 질문은 항상 환영이고요~좋아요와 구독도 꼭 부탁드립니다!!\n감사합니다^^"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "PnmW_C9isv0KU3gP6TfHvhxz6f4",
+      "id": "D2zr0tyIsWo",
+      "snippet": {
+        "publishedAt": "2018-08-03T15:18:21Z",
+        "channelId": "UCiNve1_XJtlDGINYaVDTFEA",
+        "title": "[카카오톡 이모티콘]일반인의 카톡 이모티콘 만들기!!",
+        "description": "캐릭터 애니메이션 전공자가 아니어도 이모티콘을 만들 수 있을까요? \n스케치부터 포토샵 애니메이션 작업, 카카오 이모티콘 스튜디오 제출과정 까지 이모티콘 만드는 방법을 담은 영상입니다!\n조언과 질문은 항상 환영이고요~좋아요와 구독도 꼭 부탁드립니다!!\n감사합니다^^",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/D2zr0tyIsWo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/D2zr0tyIsWo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/D2zr0tyIsWo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/D2zr0tyIsWo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/D2zr0tyIsWo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "준잘",
+        "tags": [
+          "emoticon",
+          "Emoji",
+          "이모티콘",
+          "이모지",
+          "카카오톡",
+          "카톡",
+          "감정표현",
+          "포토샵",
+          "프레임바이프레임",
+          "애니메이션",
+          "디자인",
+          "캐릭터",
+          "design",
+          "charactor",
+          "2D",
+          "Animation",
+          "Drawing",
+          "드로잉",
+          "스케치",
+          "비전공자",
+          "업로드",
+          "제출",
+          "만들기",
+          "움직임"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[카카오톡 이모티콘]일반인의 카톡 이모티콘 만들기!!",
+          "description": "캐릭터 애니메이션 전공자가 아니어도 이모티콘을 만들 수 있을까요? \n스케치부터 포토샵 애니메이션 작업, 카카오 이모티콘 스튜디오 제출과정 까지 이모티콘 만드는 방법을 담은 영상입니다!\n조언과 질문은 항상 환영이고요~좋아요와 구독도 꼭 부탁드립니다!!\n감사합니다^^"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT5M21S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "335685",
+        "likeCount": "4344",
+        "favoriteCount": "0",
+        "commentCount": "390"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "[카카오톡 이모티콘]일반인의 카톡 이모티콘 만들기!!",
+          "description": "캐릭터 애니메이션 전공자가 아니어도 이모티콘을 만들 수 있을까요? \n스케치부터 포토샵 애니메이션 작업, 카카오 이모티콘 스튜디오 제출과정 까지 이모티콘 만드는 방법을 담은 영상입니다!\n조언과 질문은 항상 환영이고요~좋아요와 구독도 꼭 부탁드립니다!!\n감사합니다^^"
+        }
+      }
+    }
+  ]
+}

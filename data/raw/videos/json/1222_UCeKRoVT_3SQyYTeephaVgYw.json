@@ -1,0 +1,1199 @@
+{
+  "idx": 1222,
+  "channel_id": "UCeKRoVT_3SQyYTeephaVgYw",
+  "channel_title": "투투님",
+  "playlist_items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "buMS7tU11BCIje2dDL_NOIcqFWE",
+      "id": "VVVlS1JvVlRfM1NReVlUZWVwaGFWZ1l3LkpCSTVqcjdzTzZ3",
+      "snippet": {
+        "publishedAt": "2026-03-23T04:43:37Z",
+        "channelId": "UCeKRoVT_3SQyYTeephaVgYw",
+        "title": "투투 임",
+        "description": "ㅎㅇㅎㅇ",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JBI5jr7sO6w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JBI5jr7sO6w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JBI5jr7sO6w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JBI5jr7sO6w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JBI5jr7sO6w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "투투님",
+        "playlistId": "UUeKRoVT_3SQyYTeephaVgYw",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "JBI5jr7sO6w"
+        },
+        "videoOwnerChannelTitle": "투투님",
+        "videoOwnerChannelId": "UCeKRoVT_3SQyYTeephaVgYw"
+      },
+      "contentDetails": {
+        "videoId": "JBI5jr7sO6w",
+        "videoPublishedAt": "2026-03-23T04:43:37Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ec4Tta4C8UDaHgfdCiW2vJBeDjI",
+      "id": "VVVlS1JvVlRfM1NReVlUZWVwaGFWZ1l3LlU0T1NBb1NTbHFN",
+      "snippet": {
+        "publishedAt": "2026-03-22T16:28:44Z",
+        "channelId": "UCeKRoVT_3SQyYTeephaVgYw",
+        "title": "투투 임",
+        "description": "ㅎㅇㅎㅇ",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/U4OSAoSSlqM/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/U4OSAoSSlqM/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/U4OSAoSSlqM/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/U4OSAoSSlqM/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/U4OSAoSSlqM/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "투투님",
+        "playlistId": "UUeKRoVT_3SQyYTeephaVgYw",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "U4OSAoSSlqM"
+        },
+        "videoOwnerChannelTitle": "투투님",
+        "videoOwnerChannelId": "UCeKRoVT_3SQyYTeephaVgYw"
+      },
+      "contentDetails": {
+        "videoId": "U4OSAoSSlqM",
+        "videoPublishedAt": "2026-03-22T16:28:44Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "JjI3q4RFbdd5B1-hdqGn-7gsd38",
+      "id": "VVVlS1JvVlRfM1NReVlUZWVwaGFWZ1l3Ll9iSm5ULUlXeU1n",
+      "snippet": {
+        "publishedAt": "2026-03-17T17:05:51Z",
+        "channelId": "UCeKRoVT_3SQyYTeephaVgYw",
+        "title": "투투 임",
+        "description": "ㅎㅇㅎㅇ",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_bJnT-IWyMg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_bJnT-IWyMg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_bJnT-IWyMg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_bJnT-IWyMg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_bJnT-IWyMg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "투투님",
+        "playlistId": "UUeKRoVT_3SQyYTeephaVgYw",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_bJnT-IWyMg"
+        },
+        "videoOwnerChannelTitle": "투투님",
+        "videoOwnerChannelId": "UCeKRoVT_3SQyYTeephaVgYw"
+      },
+      "contentDetails": {
+        "videoId": "_bJnT-IWyMg",
+        "videoPublishedAt": "2026-03-17T17:05:51Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "YisVv3Ts21_gA1a9APme4abLmpY",
+      "id": "VVVlS1JvVlRfM1NReVlUZWVwaGFWZ1l3LkkyVXBOREJ4S0ZZ",
+      "snippet": {
+        "publishedAt": "2026-03-17T17:02:29Z",
+        "channelId": "UCeKRoVT_3SQyYTeephaVgYw",
+        "title": "투투 임",
+        "description": "ㅎㅇㅎㅇ",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/I2UpNDBxKFY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/I2UpNDBxKFY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/I2UpNDBxKFY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/I2UpNDBxKFY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/I2UpNDBxKFY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "투투님",
+        "playlistId": "UUeKRoVT_3SQyYTeephaVgYw",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "I2UpNDBxKFY"
+        },
+        "videoOwnerChannelTitle": "투투님",
+        "videoOwnerChannelId": "UCeKRoVT_3SQyYTeephaVgYw"
+      },
+      "contentDetails": {
+        "videoId": "I2UpNDBxKFY",
+        "videoPublishedAt": "2026-03-17T17:02:29Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "NK-B1gPgHcAHWFbqq_zUr04vccY",
+      "id": "VVVlS1JvVlRfM1NReVlUZWVwaGFWZ1l3Lmx6dE13YkdEMG9Z",
+      "snippet": {
+        "publishedAt": "2025-02-20T14:24:39Z",
+        "channelId": "UCeKRoVT_3SQyYTeephaVgYw",
+        "title": "그저 친구와 놀기 위해서 집에서 탈출하는 게임",
+        "description": "schoolboy runaway\n\n여러분은 탈출하지 마십쇼.,.\n-------------------------------------------­-----------\r\n인스타 - twotwo_minsu\n문의 - 22tjb22@gmail.com\n\n\n\n#스팀게임 #종합게임 #인디게임",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lztMwbGD0oY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lztMwbGD0oY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lztMwbGD0oY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lztMwbGD0oY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lztMwbGD0oY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "투투님",
+        "playlistId": "UUeKRoVT_3SQyYTeephaVgYw",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "lztMwbGD0oY"
+        },
+        "videoOwnerChannelTitle": "투투님",
+        "videoOwnerChannelId": "UCeKRoVT_3SQyYTeephaVgYw"
+      },
+      "contentDetails": {
+        "videoId": "lztMwbGD0oY",
+        "videoPublishedAt": "2025-02-20T14:24:39Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "rak7NN7XhIhDo7svEjxupgJA9D0",
+      "id": "VVVlS1JvVlRfM1NReVlUZWVwaGFWZ1l3LndfOTBabWJzRjdn",
+      "snippet": {
+        "publishedAt": "2025-02-14T14:14:21Z",
+        "channelId": "UCeKRoVT_3SQyYTeephaVgYw",
+        "title": "그저 지하세계가 나올 때까지 땅만 파면되는 게임 ⛏🥄",
+        "description": "a game about digging a hole\n\n나는 땅만 판 것 뿐인데...\n-------------------------------------------­-----------\r\n인스타 - twotwo_minsu\n문의 - 22tjb22@gmail.com\n\n\n\n#스팀게임 #종합게임 #인디게임",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/w_90ZmbsF7g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/w_90ZmbsF7g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/w_90ZmbsF7g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/w_90ZmbsF7g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/w_90ZmbsF7g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "투투님",
+        "playlistId": "UUeKRoVT_3SQyYTeephaVgYw",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "w_90ZmbsF7g"
+        },
+        "videoOwnerChannelTitle": "투투님",
+        "videoOwnerChannelId": "UCeKRoVT_3SQyYTeephaVgYw"
+      },
+      "contentDetails": {
+        "videoId": "w_90ZmbsF7g",
+        "videoPublishedAt": "2025-02-14T14:14:21Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "snL9-dyHPNriYMtP3O8_jgCZULo",
+      "id": "VVVlS1JvVlRfM1NReVlUZWVwaGFWZ1l3Ljl4WHRWenBrbGZ3",
+      "snippet": {
+        "publishedAt": "2025-02-11T09:05:44Z",
+        "channelId": "UCeKRoVT_3SQyYTeephaVgYw",
+        "title": "그저 쓰레기통에 쓰레기를 버리기만 하면 되는 게임 🗑️",
+        "description": "간단한쓰레기버리는게임\n\n지구를 지켜보아요..\n-------------------------------------------­-----------\r\n인스타 - twotwo_minsu\n문의 - 22tjb22@gmail.com\n\n\n\n#스팀게임 #종합게임 #인디게임",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9xXtVzpklfw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9xXtVzpklfw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9xXtVzpklfw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9xXtVzpklfw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9xXtVzpklfw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "투투님",
+        "playlistId": "UUeKRoVT_3SQyYTeephaVgYw",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9xXtVzpklfw"
+        },
+        "videoOwnerChannelTitle": "투투님",
+        "videoOwnerChannelId": "UCeKRoVT_3SQyYTeephaVgYw"
+      },
+      "contentDetails": {
+        "videoId": "9xXtVzpklfw",
+        "videoPublishedAt": "2025-02-11T09:05:44Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "5_l2A09Y9E47D6AGbubDBozfIhQ",
+      "id": "VVVlS1JvVlRfM1NReVlUZWVwaGFWZ1l3Lm1tdUJWZjg1LXpZ",
+      "snippet": {
+        "publishedAt": "2024-05-29T11:04:58Z",
+        "channelId": "UCeKRoVT_3SQyYTeephaVgYw",
+        "title": "챗GPT에게 자백을 받아내는 게임 (반전 미쳤다😮)",
+        "description": "두근두근 ai (doki doki ai)\n\nAI야.. 친하게 지내자..\n-------------------------------------------­-----------\r\n구독하기링크 - http://goo.gl/N9Opy8\n\n\n\n#투투님 #투투 #스팀게임 #종합게임 #재밌는게임",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mmuBVf85-zY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mmuBVf85-zY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mmuBVf85-zY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mmuBVf85-zY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mmuBVf85-zY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "투투님",
+        "playlistId": "UUeKRoVT_3SQyYTeephaVgYw",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "mmuBVf85-zY"
+        },
+        "videoOwnerChannelTitle": "투투님",
+        "videoOwnerChannelId": "UCeKRoVT_3SQyYTeephaVgYw"
+      },
+      "contentDetails": {
+        "videoId": "mmuBVf85-zY",
+        "videoPublishedAt": "2024-05-29T11:04:58Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "video_details": [
+    {
+      "kind": "youtube#video",
+      "etag": "HFVNixoz6yaGdB2SclEEAdp__tM",
+      "id": "JBI5jr7sO6w",
+      "snippet": {
+        "publishedAt": "2026-03-23T04:43:37Z",
+        "channelId": "UCeKRoVT_3SQyYTeephaVgYw",
+        "title": "투투 임",
+        "description": "ㅎㅇㅎㅇ",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JBI5jr7sO6w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JBI5jr7sO6w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JBI5jr7sO6w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JBI5jr7sO6w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JBI5jr7sO6w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "투투님",
+        "tags": [
+          "투투",
+          "마인크래프트",
+          "게임",
+          "웃긴동영상",
+          "무서운동영상",
+          "종합게임",
+          "웃긴게임"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "투투 임",
+          "description": "ㅎㅇㅎㅇ"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT1H33M16S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": false,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "18",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "2"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "투투 임",
+          "description": "ㅎㅇㅎㅇ"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "8WicL_JgPn0DoqNZtr_5NaAo9TQ",
+      "id": "U4OSAoSSlqM",
+      "snippet": {
+        "publishedAt": "2026-03-22T16:28:44Z",
+        "channelId": "UCeKRoVT_3SQyYTeephaVgYw",
+        "title": "투투 임",
+        "description": "ㅎㅇㅎㅇ",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/U4OSAoSSlqM/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/U4OSAoSSlqM/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/U4OSAoSSlqM/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/U4OSAoSSlqM/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/U4OSAoSSlqM/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "투투님",
+        "tags": [
+          "투투",
+          "마인크래프트",
+          "게임",
+          "웃긴동영상",
+          "무서운동영상",
+          "종합게임",
+          "웃긴게임"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "upcoming",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "투투 임",
+          "description": "ㅎㅇㅎㅇ"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "P0D",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "uploaded",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": false,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "0",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "투투 임",
+          "description": "ㅎㅇㅎㅇ"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "4ZF1lbNNb__nAC-l8th2Xocrzl0",
+      "id": "_bJnT-IWyMg",
+      "snippet": {
+        "publishedAt": "2026-03-17T17:05:51Z",
+        "channelId": "UCeKRoVT_3SQyYTeephaVgYw",
+        "title": "투투 임",
+        "description": "ㅎㅇㅎㅇ",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_bJnT-IWyMg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_bJnT-IWyMg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_bJnT-IWyMg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_bJnT-IWyMg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_bJnT-IWyMg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "투투님",
+        "tags": [
+          "투투",
+          "마인크래프트",
+          "게임",
+          "웃긴동영상",
+          "무서운동영상",
+          "종합게임",
+          "웃긴게임"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "투투 임",
+          "description": "ㅎㅇㅎㅇ"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT15M48S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": false,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "283",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "투투 임",
+          "description": "ㅎㅇㅎㅇ"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "87MXAZcbXmKhoQ_j-rGzkK_-mLU",
+      "id": "I2UpNDBxKFY",
+      "snippet": {
+        "publishedAt": "2026-03-17T17:02:29Z",
+        "channelId": "UCeKRoVT_3SQyYTeephaVgYw",
+        "title": "투투 임",
+        "description": "ㅎㅇㅎㅇ",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/I2UpNDBxKFY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/I2UpNDBxKFY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/I2UpNDBxKFY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/I2UpNDBxKFY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/I2UpNDBxKFY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "투투님",
+        "tags": [
+          "투투",
+          "마인크래프트",
+          "게임",
+          "웃긴동영상",
+          "무서운동영상",
+          "종합게임",
+          "웃긴게임"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "투투 임",
+          "description": "ㅎㅇㅎㅇ"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT1M13S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": false,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "40",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "투투 임",
+          "description": "ㅎㅇㅎㅇ"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "PbX9e2oRw8N_mHzZOFGc7NmDr48",
+      "id": "lztMwbGD0oY",
+      "snippet": {
+        "publishedAt": "2025-02-20T14:24:39Z",
+        "channelId": "UCeKRoVT_3SQyYTeephaVgYw",
+        "title": "그저 친구와 놀기 위해서 집에서 탈출하는 게임",
+        "description": "schoolboy runaway\n\n여러분은 탈출하지 마십쇼.,.\n-------------------------------------------­-----------\r\n인스타 - twotwo_minsu\n문의 - 22tjb22@gmail.com\n\n\n\n#스팀게임 #종합게임 #인디게임",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lztMwbGD0oY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lztMwbGD0oY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lztMwbGD0oY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lztMwbGD0oY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lztMwbGD0oY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "투투님",
+        "tags": [
+          "투투",
+          "공포게임",
+          "스팀게임",
+          "인디게임",
+          "투투님",
+          "재밌는게임",
+          "반전게임",
+          "웃긴영상",
+          "웃긴동영상",
+          "신박한게임",
+          "간단한쓰레기버리기게임",
+          "땅파는게임",
+          "광질게임",
+          "마인크래프트",
+          "디깅어홀",
+          "어게임오브",
+          "a game about digging a hole",
+          "밥먹으면서",
+          "밥먹을때",
+          "밥 먹을 때 보는 영상",
+          "종합게임",
+          "게임유튜버"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "그저 친구와 놀기 위해서 집에서 탈출하는 게임",
+          "description": "schoolboy runaway\n\n여러분은 탈출하지 마십쇼.,.\n-------------------------------------------­-----------\r\n인스타 - twotwo_minsu\n문의 - 22tjb22@gmail.com\n\n\n\n#스팀게임 #종합게임 #인디게임"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT46M3S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": false,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "62",
+        "likeCount": "3",
+        "favoriteCount": "0",
+        "commentCount": "3"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action-adventure_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "그저 친구와 놀기 위해서 집에서 탈출하는 게임",
+          "description": "schoolboy runaway\n\n여러분은 탈출하지 마십쇼.,.\n-------------------------------------------­-----------\r\n인스타 - twotwo_minsu\n문의 - 22tjb22@gmail.com\n\n\n\n#스팀게임 #종합게임 #인디게임"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "dcoPI9wIGFPQJ0H3mLVlYe-xA40",
+      "id": "w_90ZmbsF7g",
+      "snippet": {
+        "publishedAt": "2025-02-14T14:14:21Z",
+        "channelId": "UCeKRoVT_3SQyYTeephaVgYw",
+        "title": "그저 지하세계가 나올 때까지 땅만 파면되는 게임 ⛏🥄",
+        "description": "a game about digging a hole\n\n나는 땅만 판 것 뿐인데...\n-------------------------------------------­-----------\r\n인스타 - twotwo_minsu\n문의 - 22tjb22@gmail.com\n\n\n\n#스팀게임 #종합게임 #인디게임",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/w_90ZmbsF7g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/w_90ZmbsF7g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/w_90ZmbsF7g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/w_90ZmbsF7g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/w_90ZmbsF7g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "투투님",
+        "tags": [
+          "투투",
+          "공포게임",
+          "스팀게임",
+          "인디게임",
+          "투투님",
+          "재밌는게임",
+          "반전게임",
+          "웃긴영상",
+          "웃긴동영상",
+          "신박한게임",
+          "간단한쓰레기버리기게임",
+          "땅파는게임",
+          "광질게임",
+          "마인크래프트",
+          "디깅어홀",
+          "어게임오브",
+          "a game about digging a hole",
+          "밥먹으면서",
+          "밥먹을때",
+          "밥 먹을 때 보는 영상",
+          "종합게임",
+          "게임유튜버"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "그저 지하세계가 나올 때까지 땅만 파면되는 게임 ⛏🥄",
+          "description": "a game about digging a hole\n\n나는 땅만 판 것 뿐인데...\n-------------------------------------------­-----------\r\n인스타 - twotwo_minsu\n문의 - 22tjb22@gmail.com\n\n\n\n#스팀게임 #종합게임 #인디게임"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT43M9S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": false,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "74",
+        "likeCount": "4",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action-adventure_game",
+          "https://en.wikipedia.org/wiki/Role-playing_video_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "그저 지하세계가 나올 때까지 땅만 파면되는 게임 ⛏🥄",
+          "description": "a game about digging a hole\n\n나는 땅만 판 것 뿐인데...\n-------------------------------------------­-----------\r\n인스타 - twotwo_minsu\n문의 - 22tjb22@gmail.com\n\n\n\n#스팀게임 #종합게임 #인디게임"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Hq7egkJomeD7-fxCIM4Brs_mVMA",
+      "id": "9xXtVzpklfw",
+      "snippet": {
+        "publishedAt": "2025-02-11T09:05:44Z",
+        "channelId": "UCeKRoVT_3SQyYTeephaVgYw",
+        "title": "그저 쓰레기통에 쓰레기를 버리기만 하면 되는 게임 🗑️",
+        "description": "간단한쓰레기버리는게임\n\n지구를 지켜보아요..\n-------------------------------------------­-----------\r\n인스타 - twotwo_minsu\n문의 - 22tjb22@gmail.com\n\n\n\n#스팀게임 #종합게임 #인디게임",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9xXtVzpklfw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9xXtVzpklfw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9xXtVzpklfw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9xXtVzpklfw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9xXtVzpklfw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "투투님",
+        "tags": [
+          "투투",
+          "공포게임",
+          "스팀게임",
+          "인디게임",
+          "투투님",
+          "재밌는게임",
+          "반전게임",
+          "웃긴영상",
+          "웃긴동영상",
+          "신박한게임",
+          "간단한쓰레기버리기게임"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "그저 쓰레기통에 쓰레기를 버리기만 하면 되는 게임 🗑️",
+          "description": "간단한쓰레기버리는게임\n\n지구를 지켜보아요..\n-------------------------------------------­-----------\r\n인스타 - twotwo_minsu\n문의 - 22tjb22@gmail.com\n\n\n\n#스팀게임 #종합게임 #인디게임"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT37M10S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": false,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "69",
+        "likeCount": "4",
+        "favoriteCount": "0",
+        "commentCount": "2"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "그저 쓰레기통에 쓰레기를 버리기만 하면 되는 게임 🗑️",
+          "description": "간단한쓰레기버리는게임\n\n지구를 지켜보아요..\n-------------------------------------------­-----------\r\n인스타 - twotwo_minsu\n문의 - 22tjb22@gmail.com\n\n\n\n#스팀게임 #종합게임 #인디게임"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "JiP00Tsa5ZpAU81-Nd_A2cxMR4E",
+      "id": "mmuBVf85-zY",
+      "snippet": {
+        "publishedAt": "2024-05-29T11:04:58Z",
+        "channelId": "UCeKRoVT_3SQyYTeephaVgYw",
+        "title": "챗GPT에게 자백을 받아내는 게임 (반전 미쳤다😮)",
+        "description": "두근두근 ai (doki doki ai)\n\nAI야.. 친하게 지내자..\n-------------------------------------------­-----------\r\n구독하기링크 - http://goo.gl/N9Opy8\n\n\n\n#투투님 #투투 #스팀게임 #종합게임 #재밌는게임",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mmuBVf85-zY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mmuBVf85-zY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mmuBVf85-zY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mmuBVf85-zY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mmuBVf85-zY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "투투님",
+        "tags": [
+          "투투",
+          "공포게임",
+          "스팀게임",
+          "인디게임",
+          "투투님",
+          "재밌는게임",
+          "반전게임",
+          "웃긴영상",
+          "웃긴동영상",
+          "신박한게임"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "챗GPT에게 자백을 받아내는 게임 (반전 미쳤다😮)",
+          "description": "두근두근 ai (doki doki ai)\n\nAI야.. 친하게 지내자..\n-------------------------------------------­-----------\r\n구독하기링크 - http://goo.gl/N9Opy8\n\n\n\n#투투님 #투투 #스팀게임 #종합게임 #재밌는게임"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT23M52S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": false,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "122",
+        "likeCount": "5",
+        "favoriteCount": "0",
+        "commentCount": "4"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "챗GPT에게 자백을 받아내는 게임 (반전 미쳤다😮)",
+          "description": "두근두근 ai (doki doki ai)\n\nAI야.. 친하게 지내자..\n-------------------------------------------­-----------\r\n구독하기링크 - http://goo.gl/N9Opy8\n\n\n\n#투투님 #투투 #스팀게임 #종합게임 #재밌는게임"
+        }
+      }
+    }
+  ]
+}
