@@ -1,0 +1,3575 @@
+[
+  {
+    "kind": "youtube#channel",
+    "etag": "noT_ongkHq-OJn3OXcijN3G4ggI",
+    "id": "UCXgiZ-MFDEhDdcpjyxJpOnA",
+    "snippet": {
+      "title": "마고마녀의 생활 속 비방",
+      "description": "생활 속 재료로 쉽게 따라 할 수 있는 생활 속 비방~\n\n",
+      "customUrl": "@마고마녀의생활속비방",
+      "publishedAt": "2020-06-20T05:25:18.635985Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/qhzJKSIqiTRunJg6gq1P7D2M0SAqZdhYo79jSjxinho511MJn0lcGfV2REEUvy2eUQ0CSgZ5=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/qhzJKSIqiTRunJg6gq1P7D2M0SAqZdhYo79jSjxinho511MJn0lcGfV2REEUvy2eUQ0CSgZ5=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/qhzJKSIqiTRunJg6gq1P7D2M0SAqZdhYo79jSjxinho511MJn0lcGfV2REEUvy2eUQ0CSgZ5=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "마고마녀의 생활 속 비방",
+        "description": "생활 속 재료로 쉽게 따라 할 수 있는 생활 속 비방~\n\n"
+      },
+      "country": "KR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUXgiZ-MFDEhDdcpjyxJpOnA"
+      }
+    },
+    "statistics": {
+      "viewCount": "3131751",
+      "subscriberCount": "13400",
+      "hiddenSubscriberCount": false,
+      "videoCount": "142"
+    },
+    "topicDetails": {},
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified",
+      "madeForKids": false
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "마고마녀의 생활 속 비방",
+        "description": "생활 속 재료로 쉽게 따라 할 수 있는 생활 속 비방~\n\n",
+        "keywords": "\"생활 속 비방\"",
+        "country": "KR"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/6aEv8kXoBmQxKnBKhtTkcKw6FiBS26QwxfWzw-FeFN41HPQ7wy_lB7Z-UmE8sUFqbcqr3EiA3vQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "y__DCZYv92Gt8kpXJ4VnEkeKzjE",
+    "id": "UCRHbU_urWsx4mvSd-pokgMA",
+    "snippet": {
+      "title": "MOCCA무비",
+      "description": "\"이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\"\ndeilly86@naver.com",
+      "customUrl": "@moccamovie",
+      "publishedAt": "2015-06-17T11:11:03Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/x-188YljFyyXRjWkQTeKPgg9wXDUF-YnhXmW6vonwDV35efL63QUc_EuRapEvbhMw-NBWjYX-A=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/x-188YljFyyXRjWkQTeKPgg9wXDUF-YnhXmW6vonwDV35efL63QUc_EuRapEvbhMw-NBWjYX-A=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/x-188YljFyyXRjWkQTeKPgg9wXDUF-YnhXmW6vonwDV35efL63QUc_EuRapEvbhMw-NBWjYX-A=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "MOCCA무비",
+        "description": "\"이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\"\ndeilly86@naver.com"
+      },
+      "country": "KR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UURHbU_urWsx4mvSd-pokgMA"
+      }
+    },
+    "statistics": {
+      "viewCount": "776140",
+      "subscriberCount": "13200",
+      "hiddenSubscriberCount": false,
+      "videoCount": "36"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/019_rr",
+        "/m/02wbm"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+        "https://en.wikipedia.org/wiki/Food"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified",
+      "madeForKids": false
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "MOCCA무비",
+        "description": "\"이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.\"\ndeilly86@naver.com",
+        "keywords": "영어 영어교육 영화",
+        "country": "KR"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/8K0RTZ5gjju8Z_2f4VDqwLy5bc5owcJ9fvjTq5W94EPG9XVy93oQ8uFbvSKHsKZ4euDfYbbC"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "TWRpe8B8uxLkBGxJwk_gcxRbRBQ",
+    "id": "UC3G3_b0Cl9NsxzhyrcwnhjA",
+    "snippet": {
+      "title": "이큐토이 : EQ TOYS kinetic and songs for kids",
+      "description": "안녕하세요!! 이큐토이(EQ TOYS : kinetic and songs for kids)입니다.\n\n'이큐토이'는 키네틱 샌드와 다양한 장난감을 통해 어린이 여러분들과 함께 즐기길 희망하는 채널입니다.\n새로운 상상력을 자극하여 재미있게 배우며 즐길 수 있는 '이큐토이'!\n\n구독해주시고 즐거운시간 보내세요^^!\n감사합니다!",
+      "customUrl": "@eqtoyskineticandsongsforki2845",
+      "publishedAt": "2019-09-10T00:56:10Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_nDJMvZtxbrIEEeKABLV7JqtoS6FLORDCFe8kEPL3i7jg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_nDJMvZtxbrIEEeKABLV7JqtoS6FLORDCFe8kEPL3i7jg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_nDJMvZtxbrIEEeKABLV7JqtoS6FLORDCFe8kEPL3i7jg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "이큐토이 : EQ TOYS kinetic and songs for kids",
+        "description": "안녕하세요!! 이큐토이(EQ TOYS : kinetic and songs for kids)입니다.\n\n'이큐토이'는 키네틱 샌드와 다양한 장난감을 통해 어린이 여러분들과 함께 즐기길 희망하는 채널입니다.\n새로운 상상력을 자극하여 재미있게 배우며 즐길 수 있는 '이큐토이'!\n\n구독해주시고 즐거운시간 보내세요^^!\n감사합니다!"
+      },
+      "country": "KR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU3G3_b0Cl9NsxzhyrcwnhjA"
+      }
+    },
+    "statistics": {
+      "viewCount": "5500819",
+      "subscriberCount": "12500",
+      "hiddenSubscriberCount": false,
+      "videoCount": "11"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/019_rr",
+        "/m/03glg"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+        "https://en.wikipedia.org/wiki/Hobby"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "이큐토이 : EQ TOYS kinetic and songs for kids",
+        "description": "안녕하세요!! 이큐토이(EQ TOYS : kinetic and songs for kids)입니다.\n\n'이큐토이'는 키네틱 샌드와 다양한 장난감을 통해 어린이 여러분들과 함께 즐기길 희망하는 채널입니다.\n새로운 상상력을 자극하여 재미있게 배우며 즐길 수 있는 '이큐토이'!\n\n구독해주시고 즐거운시간 보내세요^^!\n감사합니다!",
+        "keywords": "키네틱샌드 토이채널 어린이채널 \"어린이 음악\" \"어린이 동요\" \"키네틱 샌드\" 슬라임 플레이도우 키즈콘텐츠 장난감 \"어린이 교육\" 교육발달 \"toy toc toc\" 페파피그 이큐토이 토이톡톡 토이채널 토이푸딩",
+        "country": "KR"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "ffHb05COx9Zp64BEMEdCOJ8n4bk",
+    "id": "UCBkRGDvJWV83y0rtbNM0g4Q",
+    "snippet": {
+      "title": "스골",
+      "description": "마인크래프트하는 스티브골든",
+      "customUrl": "@stevegoldenshin",
+      "publishedAt": "2017-02-10T02:40:31Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ZRBW7FlD22CLeGBy44bj5RVcL0tVOIdImAXV7GTsv1nMGt6sypr9yPLj0PlDeM_8AqsEFQYrCQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ZRBW7FlD22CLeGBy44bj5RVcL0tVOIdImAXV7GTsv1nMGt6sypr9yPLj0PlDeM_8AqsEFQYrCQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ZRBW7FlD22CLeGBy44bj5RVcL0tVOIdImAXV7GTsv1nMGt6sypr9yPLj0PlDeM_8AqsEFQYrCQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "스골",
+        "description": "마인크래프트하는 스티브골든"
+      },
+      "country": "KR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUBkRGDvJWV83y0rtbNM0g4Q"
+      }
+    },
+    "statistics": {
+      "viewCount": "6548316",
+      "subscriberCount": "12900",
+      "hiddenSubscriberCount": false,
+      "videoCount": "296"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/02ntfj",
+        "/m/0bzvm2",
+        "/m/0403l3g",
+        "/m/025zzc"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Action-adventure_game",
+        "https://en.wikipedia.org/wiki/Video_game_culture",
+        "https://en.wikipedia.org/wiki/Role-playing_video_game",
+        "https://en.wikipedia.org/wiki/Action_game"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "스골",
+        "description": "마인크래프트하는 스티브골든",
+        "keywords": "마인크래프트 \"마인크래프트 생존\" \"하드코어 생존\" \"100일 챌린지\" \"마크 건축\" \"마크 모드\" \"트랩 제작\" \"위더 잡기\" \"크리퍼 대처법\" \"네더 공략\" \"엔드 공략\" \"레이드 방어\" \"보스 몹\" PVP \"집 짓기\" \"마을 꾸미기\" 멀티플레이 \"서버 플레이\" 스카이블록 베드워즈 \"마크 시작\" \"마크 공략\" \"마크 가이드\" \"마크 팁\" \"첫날 하는 법\" \"다이아 캐는 법\" \"마크 실험\" \"마크 리뷰\" \"재밌는 버그\" \"마크 시드\" \"숨겨진 기능\" \"마크 꼼수\" 시네마틱 \"마크 합방\"",
+        "unsubscribedTrailer": "acJZM9Nj0r0",
+        "country": "KR"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "1u_B6TlkCJ3LZpV8k6OlJQWlPs8",
+    "id": "UCDhE36AqtHoTNZX351Yp2LA",
+    "snippet": {
+      "title": "백발 중개사",
+      "description": "",
+      "customUrl": "@백발중개사",
+      "publishedAt": "2013-09-10T00:32:13Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_lCDST4DIN38PxaABjPwtYpQKRQzgnbJ9Bbj6kKsZI37HU=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_lCDST4DIN38PxaABjPwtYpQKRQzgnbJ9Bbj6kKsZI37HU=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_lCDST4DIN38PxaABjPwtYpQKRQzgnbJ9Bbj6kKsZI37HU=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "백발 중개사",
+        "description": ""
+      },
+      "country": "KR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUDhE36AqtHoTNZX351Yp2LA"
+      }
+    },
+    "statistics": {
+      "viewCount": "1781330",
+      "subscriberCount": "13200",
+      "hiddenSubscriberCount": false,
+      "videoCount": "234"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/01k8wb"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Knowledge"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified",
+      "madeForKids": false
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "백발 중개사",
+        "keywords": "공인중개사 부동산 중개업 빌딩매매 건물매매 다가구주택 부동산매매 중랑구빌딩매매 중랑구부동산",
+        "unsubscribedTrailer": "3-iBvgDNzqg",
+        "country": "KR"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/aAHHGTrItOFvui_1P-IJ-GrULOO9znjVsG5_Irhnd9xQziVfqPD89afUqT6RSn0N7vCzYp23"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "2yrqZIQZwJK4gSxEwBz5H4RKfeU",
+    "id": "UCcRo0YoBP3_I_E0EagWd3dg",
+    "snippet": {
+      "title": "대출을보다",
+      "description": "모든 대출 정보 한 눈에 보기쉽게, 대출을보다",
+      "customUrl": "@view_cash",
+      "publishedAt": "2014-10-06T01:50:41Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/1goh9NHbUuWrL-I7gbVBOKNlNFhoxoFhkJ-sXHHFQNkU4GJRXAkGjzcHWVfrtYH4eWc_FSvfEms=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/1goh9NHbUuWrL-I7gbVBOKNlNFhoxoFhkJ-sXHHFQNkU4GJRXAkGjzcHWVfrtYH4eWc_FSvfEms=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/1goh9NHbUuWrL-I7gbVBOKNlNFhoxoFhkJ-sXHHFQNkU4GJRXAkGjzcHWVfrtYH4eWc_FSvfEms=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "대출을보다",
+        "description": "모든 대출 정보 한 눈에 보기쉽게, 대출을보다"
+      },
+      "country": "KR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUcRo0YoBP3_I_E0EagWd3dg"
+      }
+    },
+    "statistics": {
+      "viewCount": "257080",
+      "subscriberCount": "13300",
+      "hiddenSubscriberCount": false,
+      "videoCount": "74"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/02wbm",
+        "/m/019_rr"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Food",
+        "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified",
+      "madeForKids": false
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "대출을보다",
+        "description": "모든 대출 정보 한 눈에 보기쉽게, 대출을보다",
+        "country": "KR"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/H_7zAc8v0L_Me-nPFi3dI3dJ3w9g4zgkluMWAB8dv3Hk6Mza3zUYtr2SsWjO2lVewdZBOtAI540"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "_UJo027UEVk-FriCqymQBIpX1Ss",
+    "id": "UCPnmfKhCKNuFGWkX7PUoycA",
+    "snippet": {
+      "title": "CHELA 첼라",
+      "description": "CHELA's Archive\n첼라 저장소\n",
+      "customUrl": "@chelaarchive",
+      "publishedAt": "2017-10-12T02:52:51Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kk0xJHaCXfWfyfCSS9DGQFPE2N_XwIV1d6Oo1SJO7Zlw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kk0xJHaCXfWfyfCSS9DGQFPE2N_XwIV1d6Oo1SJO7Zlw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kk0xJHaCXfWfyfCSS9DGQFPE2N_XwIV1d6Oo1SJO7Zlw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "CHELA 첼라",
+        "description": "CHELA's Archive\n첼라 저장소\n"
+      },
+      "country": "KR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUPnmfKhCKNuFGWkX7PUoycA"
+      }
+    },
+    "statistics": {
+      "viewCount": "1993714",
+      "subscriberCount": "12700",
+      "hiddenSubscriberCount": false,
+      "videoCount": "103"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/019_rr"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified",
+      "madeForKids": false
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "CHELA 첼라",
+        "description": "CHELA's Archive\n첼라 저장소\n",
+        "keywords": "뷰티 포니 첼라 겨울쿨톤 쿨톤 메이크업",
+        "country": "KR"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/EDIy5MgB_-epbNsxBFSGKHVYkGT7WMW4R8qBwAw6xdFPWBpIT3KJSmaN1kxayB11ELIs9oq7Kw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "UnDAv0e-LGrvX0r48MEyJodLACg",
+    "id": "UCVK1HfrfjuaIMefc0uWXZZQ",
+    "snippet": {
+      "title": "디어유Dearyou",
+      "description": "소중한 당신을 위한 디저트, 디어유 입니다 = )",
+      "customUrl": "@dear__you",
+      "publishedAt": "2015-08-13T19:42:59Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_mRTcblsBxG7AZ0AvJDWIfG16JwYItttYmmz9mEfehgmJg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_mRTcblsBxG7AZ0AvJDWIfG16JwYItttYmmz9mEfehgmJg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_mRTcblsBxG7AZ0AvJDWIfG16JwYItttYmmz9mEfehgmJg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "디어유Dearyou",
+        "description": "소중한 당신을 위한 디저트, 디어유 입니다 = )"
+      },
+      "country": "KR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUVK1HfrfjuaIMefc0uWXZZQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "2240976",
+      "subscriberCount": "13100",
+      "hiddenSubscriberCount": false,
+      "videoCount": "115"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/02wbm",
+        "/m/019_rr"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Food",
+        "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "디어유Dearyou",
+        "description": "소중한 당신을 위한 디저트, 디어유 입니다 = )",
+        "keywords": "디어유 dearyou 베이킹 푸드크리에이터 디저트 먹방 리뷰 baking \"how to\" dessert 롤케이크 \"캐릭터 롤케이크\"",
+        "country": "KR"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/2ceZGA3WJgWP-gG7CQ39PIIR14bbZtjxpr1KKVSchzc6G4c154Rl_iDCKIcNUo9SXxlYOfPkSg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "eAo_tCqVXKLuD2HKOfEt4OEx6-g",
+    "id": "UCdR25rxov2JgmhUT5WAqZ2g",
+    "snippet": {
+      "title": "노래하는 영서",
+      "description": "",
+      "customUrl": "@10west",
+      "publishedAt": "2015-09-15T17:17:13Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_n-42p1eemVHtcKKC-iGf4nOSfeTpHMMq5_lva8ybTbzA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_n-42p1eemVHtcKKC-iGf4nOSfeTpHMMq5_lva8ybTbzA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_n-42p1eemVHtcKKC-iGf4nOSfeTpHMMq5_lva8ybTbzA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "노래하는 영서",
+        "description": ""
+      },
+      "country": "KR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUdR25rxov2JgmhUT5WAqZ2g"
+      }
+    },
+    "statistics": {
+      "viewCount": "1864125",
+      "subscriberCount": "13000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "78"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/064t9",
+        "/m/04rlf",
+        "/m/028sqc"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Pop_music",
+        "https://en.wikipedia.org/wiki/Music",
+        "https://en.wikipedia.org/wiki/Music_of_Asia"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "노래하는 영서",
+        "unsubscribedTrailer": "izyU12a7FCM",
+        "country": "KR"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/vMXtdDkAS0sGy2OEA6txsD-yRMACh9WWk7H-Esx2wZ_OanCjQNGgM0I7pYHHFUs8jqaWpUlpmh4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "4jVALjuv-sccEZ-1Ce_J4Wr7Dko",
+    "id": "UCUGR-MnPTcXiAErvOovurAw",
+    "snippet": {
+      "title": "리스준Lease Jun",
+      "description": "자동차 영업사원의 일상 생활 과 자동차 소식 과 저렴하게 구입하는 팁 을 알려드립니다.\n\nL7EWM5@AICOMPANY",
+      "customUrl": "@leasejun",
+      "publishedAt": "2018-08-03T01:04:17Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_ls5-5WjcEoF7Q0Hsxpb8dRT5KIpsl7KdkHov9D4qauDTI=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_ls5-5WjcEoF7Q0Hsxpb8dRT5KIpsl7KdkHov9D4qauDTI=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_ls5-5WjcEoF7Q0Hsxpb8dRT5KIpsl7KdkHov9D4qauDTI=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "리스준Lease Jun",
+        "description": "자동차 영업사원의 일상 생활 과 자동차 소식 과 저렴하게 구입하는 팁 을 알려드립니다.\n\nL7EWM5@AICOMPANY"
+      },
+      "country": "KR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUUGR-MnPTcXiAErvOovurAw"
+      }
+    },
+    "statistics": {
+      "viewCount": "8708495",
+      "subscriberCount": "13300",
+      "hiddenSubscriberCount": false,
+      "videoCount": "1177"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/019_rr",
+        "/m/07yv9"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+        "https://en.wikipedia.org/wiki/Vehicle"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified",
+      "madeForKids": false
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "리스준Lease Jun",
+        "description": "자동차 영업사원의 일상 생활 과 자동차 소식 과 저렴하게 구입하는 팁 을 알려드립니다.\n\nL7EWM5@AICOMPANY",
+        "keywords": "자동차 BMW프로모션 아우디프로모션 벤츠프로모션 리스준 리스준자동차 수입차 bmw 벤츠 아우디 운용리스 자동차리스 자동차렌트 자동차할부",
+        "unsubscribedTrailer": "7J4Zv3k9iv0",
+        "country": "KR"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/k9ir9sIjerOXGBcD7YyBcZV_rWJ6VkihY53WTzHZcYHe-1OKQbMj3rqHXdeBUcYw8rvLjBOT"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "pA9Q2S3CSrQ49CIpr5qzNRjy6dI",
+    "id": "UCCxieNW5m3t04dJDe-ThREA",
+    "snippet": {
+      "title": "코몽의 로블록스",
+      "description": "아기 공룡 코몽! 지금 구독하세요!!\n\n( 가끔 영상들이 재미를 위해 편집이나 상황극으로 연출하기도 합니다! )\n\n모든 문의 : komongedit@gmail.com\n",
+      "customUrl": "@코몽로블",
+      "publishedAt": "2025-06-07T16:06:47.889314Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/gHTvQ_N-N4BaYMDfs2ATCqKvSeskz_-PUH3p3OmLcHi9fOIE7FbwQrYbRElTznF_dqvMEFUqdg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/gHTvQ_N-N4BaYMDfs2ATCqKvSeskz_-PUH3p3OmLcHi9fOIE7FbwQrYbRElTznF_dqvMEFUqdg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/gHTvQ_N-N4BaYMDfs2ATCqKvSeskz_-PUH3p3OmLcHi9fOIE7FbwQrYbRElTznF_dqvMEFUqdg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "코몽의 로블록스",
+        "description": "아기 공룡 코몽! 지금 구독하세요!!\n\n( 가끔 영상들이 재미를 위해 편집이나 상황극으로 연출하기도 합니다! )\n\n모든 문의 : komongedit@gmail.com\n"
+      },
+      "country": "KR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUCxieNW5m3t04dJDe-ThREA"
+      }
+    },
+    "statistics": {
+      "viewCount": "5120943",
+      "subscriberCount": "32700",
+      "hiddenSubscriberCount": false,
+      "videoCount": "59"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/025zzc",
+        "/m/0bzvm2",
+        "/m/0403l3g"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Action_game",
+        "https://en.wikipedia.org/wiki/Video_game_culture",
+        "https://en.wikipedia.org/wiki/Role-playing_video_game"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified",
+      "madeForKids": false
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "코몽의 로블록스",
+        "description": "아기 공룡 코몽! 지금 구독하세요!!\n\n( 가끔 영상들이 재미를 위해 편집이나 상황극으로 연출하기도 합니다! )\n\n모든 문의 : komongedit@gmail.com\n",
+        "keywords": "로블록스 로블 roblox 코몽 게임",
+        "unsubscribedTrailer": "Yroxd3pMkXI",
+        "country": "KR"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/GyevGpAMSRTJDXmvwXpTzu5ECdY64XdUvXa3KTL5bs2ndfs41VeVb4KbysjlagtzE4Uy14WPYaY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "30hAQO8z5GtQT-Ziw8WTYKuYJ4s",
+    "id": "UCIrD0-exA-IKApBZ3xY3CzA",
+    "snippet": {
+      "title": "슈카TV",
+      "description": "전국 어디서나 1588-3784\n\n사진으로 확인 할 수 없는부분까지 확인하고 싶은 분,\n자세하고 쉬운 설명이 필요하신 분,\n\n슈카TV (슈카티비)가 영상으로 더 자세히 설명해 드립니다. \n\n▷영상과 함께하는, 슈카TV (슈카티비)\n인터넷으로 자세하게 보고 갔지만, \n막상 방문했을 때 사진과 다른 점을 발견한 적이 있으셨나요??\n매장에 갔는데 해당 매물이 없었던 때가 있었나요?\n\n슈카TV (슈카티비)는 해당 매물을 직접 촬영하기 때문에 허위매물 0%를 보장합니다.\n또한 영상을 통해 더욱 자세한 자료를 제공하여\n보다 빠른 구매가 이루어 지도록 도와드립니다.",
+      "customUrl": "@stylesucartv",
+      "publishedAt": "2015-11-23T08:25:35Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_lQnyC1NrQB-5P1r4vI6e0RkESCS-lyFFUoSZZQoCoragI=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_lQnyC1NrQB-5P1r4vI6e0RkESCS-lyFFUoSZZQoCoragI=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_lQnyC1NrQB-5P1r4vI6e0RkESCS-lyFFUoSZZQoCoragI=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "슈카TV",
+        "description": "전국 어디서나 1588-3784\n\n사진으로 확인 할 수 없는부분까지 확인하고 싶은 분,\n자세하고 쉬운 설명이 필요하신 분,\n\n슈카TV (슈카티비)가 영상으로 더 자세히 설명해 드립니다. \n\n▷영상과 함께하는, 슈카TV (슈카티비)\n인터넷으로 자세하게 보고 갔지만, \n막상 방문했을 때 사진과 다른 점을 발견한 적이 있으셨나요??\n매장에 갔는데 해당 매물이 없었던 때가 있었나요?\n\n슈카TV (슈카티비)는 해당 매물을 직접 촬영하기 때문에 허위매물 0%를 보장합니다.\n또한 영상을 통해 더욱 자세한 자료를 제공하여\n보다 빠른 구매가 이루어 지도록 도와드립니다."
+      },
+      "country": "KR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUIrD0-exA-IKApBZ3xY3CzA"
+      }
+    },
+    "statistics": {
+      "viewCount": "7667846",
+      "subscriberCount": "12900",
+      "hiddenSubscriberCount": false,
+      "videoCount": "629"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/07yv9",
+        "/m/019_rr"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Vehicle",
+        "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified",
+      "madeForKids": false
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "슈카TV",
+        "description": "전국 어디서나 1588-3784\n\n사진으로 확인 할 수 없는부분까지 확인하고 싶은 분,\n자세하고 쉬운 설명이 필요하신 분,\n\n슈카TV (슈카티비)가 영상으로 더 자세히 설명해 드립니다. \n\n▷영상과 함께하는, 슈카TV (슈카티비)\n인터넷으로 자세하게 보고 갔지만, \n막상 방문했을 때 사진과 다른 점을 발견한 적이 있으셨나요??\n매장에 갔는데 해당 매물이 없었던 때가 있었나요?\n\n슈카TV (슈카티비)는 해당 매물을 직접 촬영하기 때문에 허위매물 0%를 보장합니다.\n또한 영상을 통해 더욱 자세한 자료를 제공하여\n보다 빠른 구매가 이루어 지도록 도와드립니다.",
+        "keywords": "자동차 중고차 중고 중고자동차 현대 벤츠 기아 자동차리뷰 bmw 조이모터스 이조이모터스 슈퍼카 수퍼카 차 신차 오픈카자동차 슈카TV 슈카 슈카티브이 포르쉐 BMW 아우디 Audi 현대자동차 기아자동차현대차 기아차 페라리 람보르기니 신뢰딜러 딜러 믿을수있는딜러 중고차딜러 신뢰매물 홈쇼핑 중고차홈쇼핑 스타트업 AMG 신형그랜져 에스컬레이드 캐딜락 벤틀리 고품격 럭셔리 suv Sucar sucartv",
+        "trackingAnalyticsAccountId": "UA-70837452-1",
+        "unsubscribedTrailer": "qYJPk2q31s4",
+        "country": "KR"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/CqD5-lCTJtZJpxKkrJve1gwshYJGIxzp2YxjBnt8wcrPTZxDYp5crNJzhBZp6NmrZXesXOkz"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "ZYj1o5PwGZfNwB6syWsBhCJWVR4",
+    "id": "UCEq-cZwjoO8HzD8Iw5sEN3g",
+    "snippet": {
+      "title": "리예준",
+      "description": "리예 준 연년생 남매의 기분좋은 하루🌞\n\n📧 Contact : shiiptta@gmail.com\n",
+      "customUrl": "@riyejunn",
+      "publishedAt": "2020-12-19T11:08:07.853072Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/xHDjMqqmW193Q0LkfXt4mvoQQd4oTc_N7I3f6wr_Nhbqz7f1Ix5ExagcQ34dUYupfJv_7RUF=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/xHDjMqqmW193Q0LkfXt4mvoQQd4oTc_N7I3f6wr_Nhbqz7f1Ix5ExagcQ34dUYupfJv_7RUF=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/xHDjMqqmW193Q0LkfXt4mvoQQd4oTc_N7I3f6wr_Nhbqz7f1Ix5ExagcQ34dUYupfJv_7RUF=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "defaultLanguage": "ko",
+      "localized": {
+        "title": "리예준",
+        "description": "리예 준 연년생 남매의 기분좋은 하루🌞\n\n📧 Contact : shiiptta@gmail.com\n"
+      },
+      "country": "KR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUEq-cZwjoO8HzD8Iw5sEN3g"
+      }
+    },
+    "statistics": {
+      "viewCount": "2594510",
+      "subscriberCount": "13000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "1022"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/019_rr"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified",
+      "madeForKids": false
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "리예준",
+        "description": "리예 준 연년생 남매의 기분좋은 하루🌞\n\n📧 Contact : shiiptta@gmail.com\n",
+        "keywords": "남매 \"부부 브이로그\" 민지영 권순현 korea 리예준 riye jun riyejun",
+        "defaultLanguage": "ko",
+        "country": "KR"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/-aevPc3itldUbRjfEk_1rmw8BHi4aweY05RbiDNSMd2lDpEqkOM1qoQlSCx-VpuNiTtWqYDdfJc"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "Wn3TkNuqhmUyCOrRvFW7Zaa6T2c",
+    "id": "UCx5dsCeyO-Ou66d4ka_ciuQ",
+    "snippet": {
+      "title": "발길",
+      "description": "미지속으로...",
+      "customUrl": "@발길-p4g",
+      "publishedAt": "2017-02-09T14:22:13Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_lhQNUCcGmDrpfwBXDQsDzTeFRmEbxNK4NPKfJFuv1iQw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_lhQNUCcGmDrpfwBXDQsDzTeFRmEbxNK4NPKfJFuv1iQw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_lhQNUCcGmDrpfwBXDQsDzTeFRmEbxNK4NPKfJFuv1iQw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "발길",
+        "description": "미지속으로..."
+      },
+      "country": "KR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUx5dsCeyO-Ou66d4ka_ciuQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "4054792",
+      "subscriberCount": "13000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "81"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/g/120yrv6h",
+        "/m/019_rr",
+        "/m/03glg"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Tourism",
+        "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+        "https://en.wikipedia.org/wiki/Hobby"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified",
+      "madeForKids": false
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "발길",
+        "description": "미지속으로...",
+        "keywords": "백패킹 부쉬크래프트 캠핑 오지캠핑",
+        "unsubscribedTrailer": "dfU-L_xmhZE",
+        "country": "KR"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/92TmYHanwd4FCwbzOjFXGMFcMTZFNj9c0qE0tHY5TP0nfqypbo6L5KFnJ-d4rMvnrCE8_Ggmro0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "gYHzzUMdszbMtsdc7H7sRIOJWZE",
+    "id": "UCgkAQ_vrUSYT1YeKSiEUsZQ",
+    "snippet": {
+      "title": "당구선수 김진아",
+      "description": " 당구선수 김진아의 youtube ! \n구독과 좋아요 알림설정 부탁드려요 🥰\n LPBA professional kim jin ah\n- 하나카드원큐페이\n- 메라키큐\n- 안프로홀딩스\n- 싸이렉스페이\n \n\n\n후원하기 \n- 숏츠 영상 슈퍼땡스 작성해주세요 😁",
+      "customUrl": "@wlsdk1109",
+      "publishedAt": "2012-09-12T23:06:49Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/_c967JpQ-s-0s0m0a7x-5jdy6IZbMchvMh-84uP9RPmCCXymQdW3CN-YJ71mqu1vTUz9BfiI=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/_c967JpQ-s-0s0m0a7x-5jdy6IZbMchvMh-84uP9RPmCCXymQdW3CN-YJ71mqu1vTUz9BfiI=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/_c967JpQ-s-0s0m0a7x-5jdy6IZbMchvMh-84uP9RPmCCXymQdW3CN-YJ71mqu1vTUz9BfiI=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "당구선수 김진아",
+        "description": " 당구선수 김진아의 youtube ! \n구독과 좋아요 알림설정 부탁드려요 🥰\n LPBA professional kim jin ah\n- 하나카드원큐페이\n- 메라키큐\n- 안프로홀딩스\n- 싸이렉스페이\n \n\n\n후원하기 \n- 숏츠 영상 슈퍼땡스 작성해주세요 😁"
+      },
+      "country": "KR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUgkAQ_vrUSYT1YeKSiEUsZQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "3137488",
+      "subscriberCount": "13300",
+      "hiddenSubscriberCount": false,
+      "videoCount": "67"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/019_rr"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified",
+      "madeForKids": false
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "당구선수 김진아",
+        "description": " 당구선수 김진아의 youtube ! \n구독과 좋아요 알림설정 부탁드려요 🥰\n LPBA professional kim jin ah\n- 하나카드원큐페이\n- 메라키큐\n- 안프로홀딩스\n- 싸이렉스페이\n \n\n\n후원하기 \n- 숏츠 영상 슈퍼땡스 작성해주세요 😁",
+        "keywords": "당구 포켓볼 당구선수 여자당구선수 당구김진아 당구선수김진아 3쿠션 billiards billiard 당구레슨 당구강의 당구채널 브이로그 당구해커 빌리퀸 큐미스 조이빌리아드 쫑프로 김진아 4구 피아비 스롱피아비",
+        "unsubscribedTrailer": "_2oHMgdpZyQ",
+        "country": "KR"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/tUqg-h1HW6ms90C8P9u6XBmTWw7CV7JnMPJDmLD0KDFV63i6jraBymnpPX9LsMqAW6CKIrzqlA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "zABe-qGKuOn8hbbw5Pv9-FdfLZk",
+    "id": "UC_mNAsYufAjHVhL0XJ7ouNw",
+    "snippet": {
+      "title": "뮤직키즈",
+      "description": "뮤직키즈  오신걸 환영합니다.\n동요와 반주 그리고 따라 부를 수 있는 영상을 제공합니다.",
+      "customUrl": "@musickidscokr",
+      "publishedAt": "2015-04-19T00:57:05Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/vWCp7hnG2LCmQPjEYVsiAJwaaBrJ2TMQFi4n_ICAO-lB3gR8nu5G5eX4UvnWbydcstVqqqun=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/vWCp7hnG2LCmQPjEYVsiAJwaaBrJ2TMQFi4n_ICAO-lB3gR8nu5G5eX4UvnWbydcstVqqqun=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/vWCp7hnG2LCmQPjEYVsiAJwaaBrJ2TMQFi4n_ICAO-lB3gR8nu5G5eX4UvnWbydcstVqqqun=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "defaultLanguage": "ko",
+      "localized": {
+        "title": "뮤직키즈",
+        "description": "뮤직키즈  오신걸 환영합니다.\n동요와 반주 그리고 따라 부를 수 있는 영상을 제공합니다."
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU_mNAsYufAjHVhL0XJ7ouNw"
+      }
+    },
+    "statistics": {
+      "viewCount": "14929448",
+      "subscriberCount": "14500",
+      "hiddenSubscriberCount": false,
+      "videoCount": "843"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/04rlf"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Music"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified",
+      "madeForKids": true
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "뮤직키즈",
+        "description": "뮤직키즈  오신걸 환영합니다.\n동요와 반주 그리고 따라 부를 수 있는 영상을 제공합니다.",
+        "unsubscribedTrailer": "cXynCvz26oU",
+        "defaultLanguage": "ko"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/prxxUvUzOnj_CmGqPdcyVKSthmH3nM3LTFlB4uIP0UJReCW2LveXTXnvuaalBF7pv1jNhNEZOw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "vICV2fHoNtc3kdB1aUljqcob9VE",
+    "id": "UC3xppFtrHIDwzLC06Xx6CaQ",
+    "snippet": {
+      "title": "SONS",
+      "description": "드러머 손득일의 공간입니다",
+      "customUrl": "@sons_dr",
+      "publishedAt": "2013-10-28T04:20:27Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_mCTJIiP4ExY_jDhRGAwZxbEX5o6XWYoEcKd0tadia5k3g=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_mCTJIiP4ExY_jDhRGAwZxbEX5o6XWYoEcKd0tadia5k3g=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_mCTJIiP4ExY_jDhRGAwZxbEX5o6XWYoEcKd0tadia5k3g=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "SONS",
+        "description": "드러머 손득일의 공간입니다"
+      },
+      "country": "KR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU3xppFtrHIDwzLC06Xx6CaQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "4964602",
+      "subscriberCount": "14200",
+      "hiddenSubscriberCount": false,
+      "videoCount": "942"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/02mscn",
+        "/m/04rlf",
+        "/m/06bvp"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Christian_music",
+        "https://en.wikipedia.org/wiki/Music",
+        "https://en.wikipedia.org/wiki/Religion"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified",
+      "madeForKids": false
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "SONS",
+        "description": "드러머 손득일의 공간입니다",
+        "keywords": "드럼 \"드럼 연주\" \"드럼 커버\" \"드럼 레슨\" 드러머 \"드럼 배우기\" \"드럼 음악\" drum drummer \"drum cover\" \"drum lesson\" \"그루브 드럼\" \"재즈 드럼\" \"펑크 드럼\" \"락 드럼\" \"세션 드럼\" \"groove drum\" \"jazz drum\" \"funk drum\" \"rock drum\" \"session drummer\" 손득일 \"sons 채널\" \"드럼 세션\" \"드럼 녹음\" \"드러머 협업\" \"drum recording\"",
+        "country": "KR"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/lITc5w7b_5WLujwJZ4oAjNNPNG1JnGuALwJztUzdeEmNAzs4rc5mxPLUzjaQnTY4t6kQ1Ja0OtU"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "Z7ZxEFI2CRgPNcLUu7B1Of9OCL8",
+    "id": "UC_9GNjQb06LIJXP8dseUJRg",
+    "snippet": {
+      "title": "MOM ENJOY",
+      "description": "구독하기 https://bit.ly/2Y3VKCx\n\n신비아파트 귀신들로 재미있는 상황이나 놀이하는 채널 입니다. \n\n시청해주시는 모든 시청자분들께 감사드립니다.\n\n비즈니스 문의: rabbitcom01@gmail.com \n항상 볼거리가 있는 채널이 될 수 있도록 노력 하겠습니다.",
+      "customUrl": "@momenjoy4146",
+      "publishedAt": "2019-04-24T14:11:08Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_lv8QPLmDXPZS_5u3p8KMISz7EgJpHUutnK_s51_SGtWw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_lv8QPLmDXPZS_5u3p8KMISz7EgJpHUutnK_s51_SGtWw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_lv8QPLmDXPZS_5u3p8KMISz7EgJpHUutnK_s51_SGtWw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "defaultLanguage": "ko",
+      "localized": {
+        "title": "MOM ENJOY",
+        "description": "구독하기 https://bit.ly/2Y3VKCx\n\n신비아파트 귀신들로 재미있는 상황이나 놀이하는 채널 입니다. \n\n시청해주시는 모든 시청자분들께 감사드립니다.\n\n비즈니스 문의: rabbitcom01@gmail.com \n항상 볼거리가 있는 채널이 될 수 있도록 노력 하겠습니다."
+      },
+      "country": "KR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU_9GNjQb06LIJXP8dseUJRg"
+      }
+    },
+    "statistics": {
+      "viewCount": "8278919",
+      "subscriberCount": "12600",
+      "hiddenSubscriberCount": false,
+      "videoCount": "159"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/02jjt",
+        "/m/03glg",
+        "/m/019_rr"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Entertainment",
+        "https://en.wikipedia.org/wiki/Hobby",
+        "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified",
+      "madeForKids": true
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "MOM ENJOY",
+        "description": "구독하기 https://bit.ly/2Y3VKCx\n\n신비아파트 귀신들로 재미있는 상황이나 놀이하는 채널 입니다. \n\n시청해주시는 모든 시청자분들께 감사드립니다.\n\n비즈니스 문의: rabbitcom01@gmail.com \n항상 볼거리가 있는 채널이 될 수 있도록 노력 하겠습니다.",
+        "keywords": "신비아파트 신비 흑진귀 뽀로로 포비 크롱 금비 지하국대적 두억시니 뽀로로하우스 상황극 브롤스타즈",
+        "unsubscribedTrailer": "cntdZVhnBRk",
+        "defaultLanguage": "ko",
+        "country": "KR"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/vNF2NWWYB56yi4abaCsFUQOY-1kN1pdOCjsUKgwun_AaKqmUfizflX68wY_0tdaq9iZvF-TR9g"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "746My734IeniQKFcd_DfGf5lfgg",
+    "id": "UCgNGrMX0NpWD4Y14cpmYbUg",
+    "snippet": {
+      "title": "CPS Journal",
+      "description": "정의롭게 공정하게\n문의 1833-6325\nE-mail cpsjournal@naver.com",
+      "customUrl": "@cpsjournal",
+      "publishedAt": "2016-11-10T08:58:02Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/RXAKWEzhqKpE8mig4rtAhaPp-Efug5kp6P5S1916Pn6ofCEZ8mnoGTM3Jo5xGdMj6AVBJpcR=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/RXAKWEzhqKpE8mig4rtAhaPp-Efug5kp6P5S1916Pn6ofCEZ8mnoGTM3Jo5xGdMj6AVBJpcR=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/RXAKWEzhqKpE8mig4rtAhaPp-Efug5kp6P5S1916Pn6ofCEZ8mnoGTM3Jo5xGdMj6AVBJpcR=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "CPS Journal",
+        "description": "정의롭게 공정하게\n문의 1833-6325\nE-mail cpsjournal@naver.com"
+      },
+      "country": "KR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUgNGrMX0NpWD4Y14cpmYbUg"
+      }
+    },
+    "statistics": {
+      "viewCount": "0",
+      "subscriberCount": "13000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "0"
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "CPS Journal",
+        "description": "정의롭게 공정하게\n문의 1833-6325\nE-mail cpsjournal@naver.com",
+        "country": "KR"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/dyTCeke_KZLZGbV29yAnJxGAXOodVvTpePx_R8_Bt4x5vC8xAVe4z3PkEv-1_7SEh4k8DTSzmw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "BAmeJK2u-ligbqPYnMgnlZzwlVA",
+    "id": "UCwoTyvVftpt2t8sD6FtpavA",
+    "snippet": {
+      "title": "Alex Warren",
+      "description": "",
+      "customUrl": "@alexwarren8147",
+      "publishedAt": "2022-10-05T15:33:51.173991Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/P59W5M0Lt2KrhcI42iK5QYqkkLNPdGnqv5PhXNzr4TP-sWFd8e1b6Oz-vUiY8aQ2Mu1Tz5pIJA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/P59W5M0Lt2KrhcI42iK5QYqkkLNPdGnqv5PhXNzr4TP-sWFd8e1b6Oz-vUiY8aQ2Mu1Tz5pIJA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/P59W5M0Lt2KrhcI42iK5QYqkkLNPdGnqv5PhXNzr4TP-sWFd8e1b6Oz-vUiY8aQ2Mu1Tz5pIJA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Alex Warren",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUwoTyvVftpt2t8sD6FtpavA"
+      }
+    },
+    "statistics": {
+      "viewCount": "202707031",
+      "subscriberCount": "18800",
+      "hiddenSubscriberCount": false,
+      "videoCount": "70"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/04rlf",
+        "/m/064t9",
+        "/m/05rwpb"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Music",
+        "https://en.wikipedia.org/wiki/Pop_music",
+        "https://en.wikipedia.org/wiki/Independent_music"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Alex Warren",
+        "unsubscribedTrailer": "Xn10ddcGF54"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "hrLQLyg_XV8UUYANlQhmkBh-N_0",
+    "id": "UCuAyL2xikvBzOOz9RXUd4rQ",
+    "snippet": {
+      "title": "Doyeon Tube [도연튜브]",
+      "description": "오드아이(Odd eye)소녀 도연이의\n즐거운 일상생활~♥♥♥",
+      "customUrl": "@doyeontube14",
+      "publishedAt": "2018-12-17T13:50:43Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_lOB1USlsbEAMCD4b7_twQOckYeLnqJEetNOYNtt63qaw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_lOB1USlsbEAMCD4b7_twQOckYeLnqJEetNOYNtt63qaw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_lOB1USlsbEAMCD4b7_twQOckYeLnqJEetNOYNtt63qaw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Doyeon Tube [도연튜브]",
+        "description": "오드아이(Odd eye)소녀 도연이의\n즐거운 일상생활~♥♥♥"
+      },
+      "country": "KR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUuAyL2xikvBzOOz9RXUd4rQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "1876609",
+      "subscriberCount": "12700",
+      "hiddenSubscriberCount": false,
+      "videoCount": "65"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/02wbm",
+        "/m/019_rr",
+        "/m/03glg"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Food",
+        "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+        "https://en.wikipedia.org/wiki/Hobby"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Doyeon Tube [도연튜브]",
+        "description": "오드아이(Odd eye)소녀 도연이의\n즐거운 일상생활~♥♥♥",
+        "country": "KR"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/6U1mg5p9hddXHN1shW-e9E-bZpd9xOiSIJLH0PQDZ6B1AsNfj-YGZZeqTZ_nCofm1TlgPQ2BUQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "9juI0XiztzS3FNxveYKQ1FaFUTk",
+    "id": "UCjfKgwkCH4R9TB_GgzxTPIw",
+    "snippet": {
+      "title": "질라이낚시TV",
+      "description": "바다낚시를 좋아하는 신세계입니다^^반가워요\n릴찌낚시를 전문으로 하는 평범한 낚시꾼입니다.\n감성돔,벵에돔 위주로 낚시를 합니다.바다낚시를 다니면서 에피소드와 초보분들을 위해 영상을 제작할 예정입니다.\n많이부족해도 많은관심 부탁드려요^^\n협찬및 광고는 카톡아이디 jungsb21\n이메일 seungbogj19@gmail.com\n장난은 사절입니동^^\n문의사항이나 궁금한점있으면 톡주세요^^",
+      "customUrl": "@tv-bo6qx",
+      "publishedAt": "2018-04-23T00:34:17Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_lMirtn39lLwV4SkBKvrkBltzVR_hrBu8YsURQBlgfTPYg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_lMirtn39lLwV4SkBKvrkBltzVR_hrBu8YsURQBlgfTPYg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_lMirtn39lLwV4SkBKvrkBltzVR_hrBu8YsURQBlgfTPYg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "질라이낚시TV",
+        "description": "바다낚시를 좋아하는 신세계입니다^^반가워요\n릴찌낚시를 전문으로 하는 평범한 낚시꾼입니다.\n감성돔,벵에돔 위주로 낚시를 합니다.바다낚시를 다니면서 에피소드와 초보분들을 위해 영상을 제작할 예정입니다.\n많이부족해도 많은관심 부탁드려요^^\n협찬및 광고는 카톡아이디 jungsb21\n이메일 seungbogj19@gmail.com\n장난은 사절입니동^^\n문의사항이나 궁금한점있으면 톡주세요^^"
+      },
+      "country": "KR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUjfKgwkCH4R9TB_GgzxTPIw"
+      }
+    },
+    "statistics": {
+      "viewCount": "3567271",
+      "subscriberCount": "12600",
+      "hiddenSubscriberCount": false,
+      "videoCount": "159"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/019_rr",
+        "/m/03glg",
+        "/m/068hy"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+        "https://en.wikipedia.org/wiki/Hobby",
+        "https://en.wikipedia.org/wiki/Pet"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified",
+      "madeForKids": false
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "질라이낚시TV",
+        "description": "바다낚시를 좋아하는 신세계입니다^^반가워요\n릴찌낚시를 전문으로 하는 평범한 낚시꾼입니다.\n감성돔,벵에돔 위주로 낚시를 합니다.바다낚시를 다니면서 에피소드와 초보분들을 위해 영상을 제작할 예정입니다.\n많이부족해도 많은관심 부탁드려요^^\n협찬및 광고는 카톡아이디 jungsb21\n이메일 seungbogj19@gmail.com\n장난은 사절입니동^^\n문의사항이나 궁금한점있으면 톡주세요^^",
+        "keywords": "질라이낚시tv 바다낚시 감성돔낚시 벵에돔낚시 전유동 반유동 초보낚시 부부조사 감성돔 반유동낚시 전유동낚시 질라이낚시TV 초보낚시 막대찌낚시 갯바위낚시 찌낚시 잠길찌낚시 수심체크방법 감성돔견제방법 원줄감는법 스플에원줄감는법 감성돔미끼 살감시 \"벵에돔 발포찌\" \"벵에돔 목줄찌\" \"감성돔 경단\" \"본류대 감성돔낚시\" \"감성돔 잡는 방법\" 대물감성돔 갯바위낚시 찌낚시 대물감성돔",
+        "unsubscribedTrailer": "6QH_RlKc7qI",
+        "country": "KR"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/J-6QGzAAQttgo2_KjnF0qzdkpwSY8IVG2h0v4bKkIUNfuat1cA8vXgzhktfUgZq32mXcD6SkAdk"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "AptwERbXH_B1MNSuBq_NrTbK1-s",
+    "id": "UCmFa4gpKhDqRQFikt6GHySg",
+    "snippet": {
+      "title": "총사령관 진종오",
+      "description": "안녕하세요 총사령관 진종오 채널에 오신 여러분들을 환영합니다 ^^\n\n본 채널은 올림픽 사격 금메달리스트 진종오의 모든 것을 볼 수 있는 채널입니다.\n사격선수로써 사격 종목의 지식과 퍼포먼스 및 인간 진종오의 면모를 가감없이 보여드리겠습니다!\n\n많은 관심 부탁드리며, 구독과 좋아요 빵빵하게 해주세요!\n빵빵빵빵빵빵 🔫\n\n*비지니스 문의 : nr@brion.co.kr",
+      "customUrl": "@총사령관진종오",
+      "publishedAt": "2020-04-20T02:50:06.364497Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_n4aD2wchc-EKlFL1PYw6mm4j3JQPYDVCPYnNAIHGf3=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_n4aD2wchc-EKlFL1PYw6mm4j3JQPYDVCPYnNAIHGf3=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_n4aD2wchc-EKlFL1PYw6mm4j3JQPYDVCPYnNAIHGf3=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "총사령관 진종오",
+        "description": "안녕하세요 총사령관 진종오 채널에 오신 여러분들을 환영합니다 ^^\n\n본 채널은 올림픽 사격 금메달리스트 진종오의 모든 것을 볼 수 있는 채널입니다.\n사격선수로써 사격 종목의 지식과 퍼포먼스 및 인간 진종오의 면모를 가감없이 보여드리겠습니다!\n\n많은 관심 부탁드리며, 구독과 좋아요 빵빵하게 해주세요!\n빵빵빵빵빵빵 🔫\n\n*비지니스 문의 : nr@brion.co.kr"
+      },
+      "country": "KR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUmFa4gpKhDqRQFikt6GHySg"
+      }
+    },
+    "statistics": {
+      "viewCount": "840752",
+      "subscriberCount": "13300",
+      "hiddenSubscriberCount": false,
+      "videoCount": "52"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/019_rr"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "총사령관 진종오",
+        "description": "안녕하세요 총사령관 진종오 채널에 오신 여러분들을 환영합니다 ^^\n\n본 채널은 올림픽 사격 금메달리스트 진종오의 모든 것을 볼 수 있는 채널입니다.\n사격선수로써 사격 종목의 지식과 퍼포먼스 및 인간 진종오의 면모를 가감없이 보여드리겠습니다!\n\n많은 관심 부탁드리며, 구독과 좋아요 빵빵하게 해주세요!\n빵빵빵빵빵빵 🔫\n\n*비지니스 문의 : nr@brion.co.kr",
+        "keywords": "사격 총 진종오 권총 올림픽 스포츠",
+        "unsubscribedTrailer": "sXPpymnF3Lo",
+        "country": "KR"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/02TwNLTS4e9WrpUcQVOKa_LSbOjvGV1P7XnQQEwZS7zm8WM6Axz-PEcvMhj3cmMI0ljVW1zA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "qam3zPXC8Mw53BCyiFdWec5jTBk",
+    "id": "UCeKRoVT_3SQyYTeephaVgYw",
+    "snippet": {
+      "title": "투투님",
+      "description": "",
+      "customUrl": "@22wdwd",
+      "publishedAt": "2012-07-02T11:59:49Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/Z2DUmlAIUTbMNuTUyPjftYK1xC07Mnk_2YOEAN2Jx04_6P1CR3ccpwDQprliWBNyd_EPy2olhBs=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/Z2DUmlAIUTbMNuTUyPjftYK1xC07Mnk_2YOEAN2Jx04_6P1CR3ccpwDQprliWBNyd_EPy2olhBs=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/Z2DUmlAIUTbMNuTUyPjftYK1xC07Mnk_2YOEAN2Jx04_6P1CR3ccpwDQprliWBNyd_EPy2olhBs=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "투투님",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUeKRoVT_3SQyYTeephaVgYw"
+      }
+    },
+    "statistics": {
+      "viewCount": "668",
+      "subscriberCount": "13000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "7"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/02ntfj",
+        "/m/0bzvm2"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Action-adventure_game",
+        "https://en.wikipedia.org/wiki/Video_game_culture"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "투투님",
+        "keywords": "투투/투투의 마인크래프트/마인크래프트/게임/인디게임/"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/coe025kUq7kvZv5dn5-7LY6TF-Fz0FrYVXbKgZ9yql5i19EZf8HdBB9FCdoPExGi3C6nI1MY-_I"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "fOw5zkMy_r5OXRoCbyYSmIkat9Y",
+    "id": "UCF97-7A3Xh1WyYw7NawzvoQ",
+    "snippet": {
+      "title": "빵츄",
+      "description": "",
+      "customUrl": "@빵츄",
+      "publishedAt": "2014-12-24T12:52:13Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_mXbyRllIyehysPALIM566nE19ftml6XAhfSjkSFp-8U1k=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_mXbyRllIyehysPALIM566nE19ftml6XAhfSjkSFp-8U1k=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_mXbyRllIyehysPALIM566nE19ftml6XAhfSjkSFp-8U1k=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "빵츄",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUF97-7A3Xh1WyYw7NawzvoQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "1906275",
+      "subscriberCount": "13100",
+      "hiddenSubscriberCount": false,
+      "videoCount": "36"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/02wbm",
+        "/m/019_rr"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Food",
+        "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "빵츄",
+        "unsubscribedTrailer": "ld82xQYvpDA"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/wNYqqEyBSQHkVW9TF36v40fTES2UimuIza0sJjQ8rpLY148TuCBmWnDhhRFF_BLtqQW-hU5CxA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "AA3zL2pu5N0Bqtv5FbYAg4GYYBA",
+    "id": "UCkFLNvHy1VatowFacKDZsAQ",
+    "snippet": {
+      "title": "cherishK ASMR",
+      "description": "Since 2013.10.13\nASMR 만드는 cherish입니다 :)\n제 영상이 여러분들의 지친 하루에 쉼이 될 수 있길 바라요.",
+      "customUrl": "@cherishk",
+      "publishedAt": "2013-10-12T15:10:08Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/Xcvjw-0b7H77TehCHObfutXYSFs0SJCyZ_3V6-J9WlddZRKq1duEh7QCRPbgT8wwYKQZcTFWZw4=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/Xcvjw-0b7H77TehCHObfutXYSFs0SJCyZ_3V6-J9WlddZRKq1duEh7QCRPbgT8wwYKQZcTFWZw4=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/Xcvjw-0b7H77TehCHObfutXYSFs0SJCyZ_3V6-J9WlddZRKq1duEh7QCRPbgT8wwYKQZcTFWZw4=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "cherishK ASMR",
+        "description": "Since 2013.10.13\nASMR 만드는 cherish입니다 :)\n제 영상이 여러분들의 지친 하루에 쉼이 될 수 있길 바라요."
+      },
+      "country": "KR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUkFLNvHy1VatowFacKDZsAQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "2964717",
+      "subscriberCount": "12500",
+      "hiddenSubscriberCount": false,
+      "videoCount": "346"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/019_rr"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified",
+      "madeForKids": false
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "cherishK ASMR",
+        "description": "Since 2013.10.13\nASMR 만드는 cherish입니다 :)\n제 영상이 여러분들의 지친 하루에 쉼이 될 수 있길 바라요.",
+        "keywords": "asmr 체리쉬ASMR \"ASMR 한국어\" \"ASMR KOREAN\" 시각적팅글 \"FAST TAPPING\" tapping",
+        "country": "KR"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/cCsJclWjpIue-erOiofiBbYvKDNBuqe1qJyjZKn3teidDA2_ihbZSI0SFqjA_8eaM6iSzi7W3g"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "RmqGp6AA3ZUDkoAZScr8apQneyg",
+    "id": "UCcLDggzNPzEvczF3-w7Y0sQ",
+    "snippet": {
+      "title": "Sion Dimen",
+      "description": "",
+      "customUrl": "@siondimen9400",
+      "publishedAt": "2015-06-25T11:49:47Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kmoJoOxckpr5bkZN_TYaS9nPEe3apzu0_HaqtWBqO8bQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kmoJoOxckpr5bkZN_TYaS9nPEe3apzu0_HaqtWBqO8bQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kmoJoOxckpr5bkZN_TYaS9nPEe3apzu0_HaqtWBqO8bQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Sion Dimen",
+        "description": ""
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUcLDggzNPzEvczF3-w7Y0sQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "9679696",
+      "subscriberCount": "13100",
+      "hiddenSubscriberCount": false,
+      "videoCount": "42"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/02jjt",
+        "/m/09kqc",
+        "/m/02vxn"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Entertainment",
+        "https://en.wikipedia.org/wiki/Humour",
+        "https://en.wikipedia.org/wiki/Film"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Sion Dimen"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "FFAGeqOz_YiIhdQJeM2iT91VRWg",
+    "id": "UCNKmQkO1zhCwsIqqrh7pSAg",
+    "snippet": {
+      "title": "사윤",
+      "description": "안녕하세요? 저는 카카오에서 개발자로 재직한 뒤\n퇴사 후 1인개발자로 즐겁게 살고있습니다.\n부트캠프 정보모음 사이트 부트텐트를 운영중이고\n개발자 공부나 취업 등 관련 질문주시면 \n제가 아는 선에서 답변드리고 있습니다.\n또 1인개발 관련 정보공유도 많이 하도록 하겠습니다.\n인스타도 놀러오세요😊 @sayun.studio",
+      "customUrl": "@sayunstudio",
+      "publishedAt": "2017-08-09T03:48:49Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_nrRuEpxJ3eUqZlHd8weopYvHNS7QeDr9XVaAB-CDfdlg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_nrRuEpxJ3eUqZlHd8weopYvHNS7QeDr9XVaAB-CDfdlg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_nrRuEpxJ3eUqZlHd8weopYvHNS7QeDr9XVaAB-CDfdlg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "사윤",
+        "description": "안녕하세요? 저는 카카오에서 개발자로 재직한 뒤\n퇴사 후 1인개발자로 즐겁게 살고있습니다.\n부트캠프 정보모음 사이트 부트텐트를 운영중이고\n개발자 공부나 취업 등 관련 질문주시면 \n제가 아는 선에서 답변드리고 있습니다.\n또 1인개발 관련 정보공유도 많이 하도록 하겠습니다.\n인스타도 놀러오세요😊 @sayun.studio"
+      },
+      "country": "KR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUNKmQkO1zhCwsIqqrh7pSAg"
+      }
+    },
+    "statistics": {
+      "viewCount": "718262",
+      "subscriberCount": "12500",
+      "hiddenSubscriberCount": false,
+      "videoCount": "41"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/07c1v",
+        "/m/01k8wb",
+        "/m/019_rr"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Technology",
+        "https://en.wikipedia.org/wiki/Knowledge",
+        "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "사윤",
+        "description": "안녕하세요? 저는 카카오에서 개발자로 재직한 뒤\n퇴사 후 1인개발자로 즐겁게 살고있습니다.\n부트캠프 정보모음 사이트 부트텐트를 운영중이고\n개발자 공부나 취업 등 관련 질문주시면 \n제가 아는 선에서 답변드리고 있습니다.\n또 1인개발 관련 정보공유도 많이 하도록 하겠습니다.\n인스타도 놀러오세요😊 @sayun.studio",
+        "keywords": "개발자취업 비개발자취업 부트캠프 코딩 수익형웹사이트 웹개발 수익형앱개발 개발자창업 1인개발 1인창업 개발자퇴사 대기업퇴사 스타트업브이로그 창업브이로그 사업브이로그 창업일기 개발자유튜버 개발유튜버 자기계발 갓생 개발자브이로그 1인기업",
+        "country": "KR"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/vo6H0J0z2kYGp82Ai6MXvb8QTZArdkQgpga2XaAHxdBqtZNwbm05KKClhx2dJQVe8LrecGYK3w"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "EVzC21X6W0zRoG9abOQ_ikYi09k",
+    "id": "UC_KJKVx2iaRHdKKvwIrvu4A",
+    "snippet": {
+      "title": "SolelyWorks",
+      "description": "안녕하세요. 저는 페이퍼플라워와 양모 공예를 비롯한 다양한 작업을 하는 공예작가입니다. \n\n이 채널에서는 섬세한 손작업의 과정과 제작 노하우를 공유합니다.\n자연을 담은 종이꽃부터 따뜻한 감성을 전하는 양모 작업까지, \n정성을 다해 만든 작품을 소개하고 실용적인 제작 팁을 전해드립니다.\n\n오랜 경험을 바탕으로, \n꽃과 작업을 사랑하시는 분이라면 누구나 편하게 따라 할 수 있도록 설명하며 작업을 공유하고자 합니다.\n작고 섬세해서 긴 시간을 사용해야하는 수작업을 통해\n보람된 인내심과 성취감을을 느끼게 되는 작업의 즐거움을 여러분과 함께 나누고 싶습니다.\n\nSolelyWorks E-mail : madebymade.solely@gmail.com\n@solely.madebymade\nzizi1985.blog.me",
+      "customUrl": "@solelymadebymade",
+      "publishedAt": "2016-04-09T18:04:27Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_ms-SoAaQChltyVEGgW5KtwEEujHVb3E4gVQqHx1-0XmKA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_ms-SoAaQChltyVEGgW5KtwEEujHVb3E4gVQqHx1-0XmKA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_ms-SoAaQChltyVEGgW5KtwEEujHVb3E4gVQqHx1-0XmKA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "SolelyWorks",
+        "description": "안녕하세요. 저는 페이퍼플라워와 양모 공예를 비롯한 다양한 작업을 하는 공예작가입니다. \n\n이 채널에서는 섬세한 손작업의 과정과 제작 노하우를 공유합니다.\n자연을 담은 종이꽃부터 따뜻한 감성을 전하는 양모 작업까지, \n정성을 다해 만든 작품을 소개하고 실용적인 제작 팁을 전해드립니다.\n\n오랜 경험을 바탕으로, \n꽃과 작업을 사랑하시는 분이라면 누구나 편하게 따라 할 수 있도록 설명하며 작업을 공유하고자 합니다.\n작고 섬세해서 긴 시간을 사용해야하는 수작업을 통해\n보람된 인내심과 성취감을을 느끼게 되는 작업의 즐거움을 여러분과 함께 나누고 싶습니다.\n\nSolelyWorks E-mail : madebymade.solely@gmail.com\n@solely.madebymade\nzizi1985.blog.me"
+      },
+      "country": "KR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU_KJKVx2iaRHdKKvwIrvu4A"
+      }
+    },
+    "statistics": {
+      "viewCount": "1273128",
+      "subscriberCount": "13500",
+      "hiddenSubscriberCount": false,
+      "videoCount": "62"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/03glg",
+        "/m/019_rr"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Hobby",
+        "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified",
+      "madeForKids": false
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "SolelyWorks",
+        "description": "안녕하세요. 저는 페이퍼플라워와 양모 공예를 비롯한 다양한 작업을 하는 공예작가입니다. \n\n이 채널에서는 섬세한 손작업의 과정과 제작 노하우를 공유합니다.\n자연을 담은 종이꽃부터 따뜻한 감성을 전하는 양모 작업까지, \n정성을 다해 만든 작품을 소개하고 실용적인 제작 팁을 전해드립니다.\n\n오랜 경험을 바탕으로, \n꽃과 작업을 사랑하시는 분이라면 누구나 편하게 따라 할 수 있도록 설명하며 작업을 공유하고자 합니다.\n작고 섬세해서 긴 시간을 사용해야하는 수작업을 통해\n보람된 인내심과 성취감을을 느끼게 되는 작업의 즐거움을 여러분과 함께 나누고 싶습니다.\n\nSolelyWorks E-mail : madebymade.solely@gmail.com\n@solely.madebymade\nzizi1985.blog.me",
+        "keywords": "Crepe paper flowers DIY",
+        "country": "KR"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/WK__Z--vRgNQW3urKIwerLaxhjWyBcR9zo2W9lLmyHeWDaRVv6h2BFBSLSjemNg_MvbwxuYZ8A"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "uQpYzFfK9D6URJXE59ZbeTAYeaw",
+    "id": "UCIANp29DJYfHP1qyRf7MWRQ",
+    "snippet": {
+      "title": "감자공주의 동화나라",
+      "description": "즐겁게 이야기를 듣다가 스르르~ 꿈나라로 꿀잠 여행 떠나는 채널이에요.\n\n🥔감자공주 양미선 이모는🌺 동화구연가이지 키즈컨텐츠 크리에이터예요.\n감자공주 이모의 재미난 동화들은 윌라, 밀리의 서재, 스토리텔, 교보문고, yes24, 알라딘, 리디북스, 카카오페이지와 국내외 모든 전자도서관에서 만나실 수 있고요, \n멜론, 플로(FLO), 지니뮤직, Youtube Music, Spotify 등 모든 음원 사이트에서도 음반으로 즐기실 수 있답니다.\n네이버 오디오클립, 팟빵, 애플Podcast에서도 만나실 수 있어요. LG U+ 아이들나라 '책 읽어주는 TV'에도 출연하고 있답니다.\n\n엄마가 읽어주는 안전하고 따뜻한 동화!\n감자공주 이모가 들려주는 즐겁고 재미난 이야기 속으로 떠나 볼까요? 출발~~~^^\n\n감자공주이모의 정확한 발음과 풍부한 연기는 우리 친구들의 동화 듣기를 더욱 즐겁게 해 드릴 거에요.  \n자기 전에 틀어주시고 편안히 휴식하세요~  감자공주이모는 15살 아들, 11살 딸을 키우고 있어요. \n엄마의 마음도 같이 나누고 서로 위로해요~\n\n즐거운 협업과 제안을 환영합니다! 언제든지  iomou@naver.com 으로 메일주세요. \n읽고 보여주는 모든 동화는 해당 출판사의 허락을 받았습니다.\n감자공주 창작동화의 모든 저작권은 양미선에게 있습니다. \n\n---------🥝🥥🍇🍈🍉🍎🥭🍍🍒🍑🍊🫐🍓🍆🥒🥑----------------\nProfile  감자공주이모 양미선 \n색동회 동화구연대회 대상 / 글사랑 동화구연대회 대상 / 전국재능동화구연대회 금상 수상\n현재 재능동화구연협회 정회원 LG U+ 엘지유플러스 아이들나라 _ 책 읽어주는 TV 출연\n한일국제회의통역사 , EBS TV일본어회화 진행자 및 집필, '일본어회화 무작정따라하기(길벗이지톡) ' ,\n '일본어, 이렇게 해도 안되면 내가 성을 간다(다락원)' 등 일본어교재 다수 출판, 일본어 온라인강의 다수 출연 \n한국외대 통역번역대학원 한일과 국제회의통역전공 졸업\n\n\n\n",
+      "customUrl": "@yangmison",
+      "publishedAt": "2013-04-03T01:38:11Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/pBvEJ1jvcJChJ9wlcmk6_lBPbvvxuYKmrc2UWnsqZE7q9MN_Mq4PYvG7DdbPZokWewTvzfZD=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/pBvEJ1jvcJChJ9wlcmk6_lBPbvvxuYKmrc2UWnsqZE7q9MN_Mq4PYvG7DdbPZokWewTvzfZD=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/pBvEJ1jvcJChJ9wlcmk6_lBPbvvxuYKmrc2UWnsqZE7q9MN_Mq4PYvG7DdbPZokWewTvzfZD=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "감자공주의 동화나라",
+        "description": "즐겁게 이야기를 듣다가 스르르~ 꿈나라로 꿀잠 여행 떠나는 채널이에요.\n\n🥔감자공주 양미선 이모는🌺 동화구연가이지 키즈컨텐츠 크리에이터예요.\n감자공주 이모의 재미난 동화들은 윌라, 밀리의 서재, 스토리텔, 교보문고, yes24, 알라딘, 리디북스, 카카오페이지와 국내외 모든 전자도서관에서 만나실 수 있고요, \n멜론, 플로(FLO), 지니뮤직, Youtube Music, Spotify 등 모든 음원 사이트에서도 음반으로 즐기실 수 있답니다.\n네이버 오디오클립, 팟빵, 애플Podcast에서도 만나실 수 있어요. LG U+ 아이들나라 '책 읽어주는 TV'에도 출연하고 있답니다.\n\n엄마가 읽어주는 안전하고 따뜻한 동화!\n감자공주 이모가 들려주는 즐겁고 재미난 이야기 속으로 떠나 볼까요? 출발~~~^^\n\n감자공주이모의 정확한 발음과 풍부한 연기는 우리 친구들의 동화 듣기를 더욱 즐겁게 해 드릴 거에요.  \n자기 전에 틀어주시고 편안히 휴식하세요~  감자공주이모는 15살 아들, 11살 딸을 키우고 있어요. \n엄마의 마음도 같이 나누고 서로 위로해요~\n\n즐거운 협업과 제안을 환영합니다! 언제든지  iomou@naver.com 으로 메일주세요. \n읽고 보여주는 모든 동화는 해당 출판사의 허락을 받았습니다.\n감자공주 창작동화의 모든 저작권은 양미선에게 있습니다. \n\n---------🥝🥥🍇🍈🍉🍎🥭🍍🍒🍑🍊🫐🍓🍆🥒🥑----------------\nProfile  감자공주이모 양미선 \n색동회 동화구연대회 대상 / 글사랑 동화구연대회 대상 / 전국재능동화구연대회 금상 수상\n현재 재능동화구연협회 정회원 LG U+ 엘지유플러스 아이들나라 _ 책 읽어주는 TV 출연\n한일국제회의통역사 , EBS TV일본어회화 진행자 및 집필, '일본어회화 무작정따라하기(길벗이지톡) ' ,\n '일본어, 이렇게 해도 안되면 내가 성을 간다(다락원)' 등 일본어교재 다수 출판, 일본어 온라인강의 다수 출연 \n한국외대 통역번역대학원 한일과 국제회의통역전공 졸업\n\n\n\n"
+      },
+      "country": "KR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUIANp29DJYfHP1qyRf7MWRQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "3375600",
+      "subscriberCount": "14700",
+      "hiddenSubscriberCount": false,
+      "videoCount": "236"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/019_rr",
+        "/m/02vxn",
+        "/m/02jjt"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+        "https://en.wikipedia.org/wiki/Film",
+        "https://en.wikipedia.org/wiki/Entertainment"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "감자공주의 동화나라",
+        "description": "즐겁게 이야기를 듣다가 스르르~ 꿈나라로 꿀잠 여행 떠나는 채널이에요.\n\n🥔감자공주 양미선 이모는🌺 동화구연가이지 키즈컨텐츠 크리에이터예요.\n감자공주 이모의 재미난 동화들은 윌라, 밀리의 서재, 스토리텔, 교보문고, yes24, 알라딘, 리디북스, 카카오페이지와 국내외 모든 전자도서관에서 만나실 수 있고요, \n멜론, 플로(FLO), 지니뮤직, Youtube Music, Spotify 등 모든 음원 사이트에서도 음반으로 즐기실 수 있답니다.\n네이버 오디오클립, 팟빵, 애플Podcast에서도 만나실 수 있어요. LG U+ 아이들나라 '책 읽어주는 TV'에도 출연하고 있답니다.\n\n엄마가 읽어주는 안전하고 따뜻한 동화!\n감자공주 이모가 들려주는 즐겁고 재미난 이야기 속으로 떠나 볼까요? 출발~~~^^\n\n감자공주이모의 정확한 발음과 풍부한 연기는 우리 친구들의 동화 듣기를 더욱 즐겁게 해 드릴 거에요.  \n자기 전에 틀어주시고 편안히 휴식하세요~  감자공주이모는 15살 아들, 11살 딸을 키우고 있어요. \n엄마의 마음도 같이 나누고 서로 위로해요~\n\n즐거운 협업과 제안을 환영합니다! 언제든지  iomou@naver.com 으로 메일주세요. \n읽고 보여주는 모든 동화는 해당 출판사의 허락을 받았습니다.\n감자공주 창작동화의 모든 저작권은 양미선에게 있습니다. \n\n---------🥝🥥🍇🍈🍉🍎🥭🍍🍒🍑🍊🫐🍓🍆🥒🥑----------------\nProfile  감자공주이모 양미선 \n색동회 동화구연대회 대상 / 글사랑 동화구연대회 대상 / 전국재능동화구연대회 금상 수상\n현재 재능동화구연협회 정회원 LG U+ 엘지유플러스 아이들나라 _ 책 읽어주는 TV 출연\n한일국제회의통역사 , EBS TV일본어회화 진행자 및 집필, '일본어회화 무작정따라하기(길벗이지톡) ' ,\n '일본어, 이렇게 해도 안되면 내가 성을 간다(다락원)' 등 일본어교재 다수 출판, 일본어 온라인강의 다수 출연 \n한국외대 통역번역대학원 한일과 국제회의통역전공 졸업\n\n\n\n",
+        "keywords": "감자공주 동화나라 양미선 구연동화 책읽어주기 동화책 자장가동화 그림책 잠자리동화 무료자장가 동화구연 동화구연가 감자공주의동화나라 \"감자공주의 자장가동화\"",
+        "unsubscribedTrailer": "9CmmTSJh0DU",
+        "country": "KR"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/QEhp1E_ITB33wKUX4fARjFeTdCun5mlEgUoCqO0hgtiNgBFo9WZSUACGD_rGaq-rtbu6233H"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "1zN_iYr23jKLmNRoDD7HSti4cuI",
+    "id": "UCK5hD8LUbX7eCmgou1VC77A",
+    "snippet": {
+      "title": "스파이걸스spy girls",
+      "description": "예쁘지는 않지만 사랑스러운 앤가영 X  걸크러쉬 반전 매력 멍지니\n우리는 노래를 만들고 부르는 크리에이터 간첩소녀입니다. \n메인 컨텐츠는 비정기적으로 자작곡 영상, 또는 작곡 브이로그 등이 올라와요 :) \n서브 컨텐츠로는 매주 월요일 저녁 8시 라이브 [앤가영의 시조방송]이 있습니다.\n구독하시고 자주 놀러오세요!\n\n비즈니스 문의 spygirls0905@naver.com",
+      "customUrl": "@unitspygirls",
+      "publishedAt": "2013-11-29T13:34:49Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_mfYPnTG7lojAlR4yxvQlqS0QFmQI5KQvoCEFc0Qp9hOfk=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_mfYPnTG7lojAlR4yxvQlqS0QFmQI5KQvoCEFc0Qp9hOfk=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_mfYPnTG7lojAlR4yxvQlqS0QFmQI5KQvoCEFc0Qp9hOfk=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "defaultLanguage": "ko",
+      "localized": {
+        "title": "스파이걸스spy girls",
+        "description": "예쁘지는 않지만 사랑스러운 앤가영 X  걸크러쉬 반전 매력 멍지니\n우리는 노래를 만들고 부르는 크리에이터 간첩소녀입니다. \n메인 컨텐츠는 비정기적으로 자작곡 영상, 또는 작곡 브이로그 등이 올라와요 :) \n서브 컨텐츠로는 매주 월요일 저녁 8시 라이브 [앤가영의 시조방송]이 있습니다.\n구독하시고 자주 놀러오세요!\n\n비즈니스 문의 spygirls0905@naver.com"
+      },
+      "country": "KR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUK5hD8LUbX7eCmgou1VC77A"
+      }
+    },
+    "statistics": {
+      "viewCount": "1594243",
+      "subscriberCount": "12700",
+      "hiddenSubscriberCount": false,
+      "videoCount": "445"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/028sqc",
+        "/m/04rlf",
+        "/m/019_rr"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Music_of_Asia",
+        "https://en.wikipedia.org/wiki/Music",
+        "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified",
+      "madeForKids": false
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "스파이걸스spy girls",
+        "description": "예쁘지는 않지만 사랑스러운 앤가영 X  걸크러쉬 반전 매력 멍지니\n우리는 노래를 만들고 부르는 크리에이터 간첩소녀입니다. \n메인 컨텐츠는 비정기적으로 자작곡 영상, 또는 작곡 브이로그 등이 올라와요 :) \n서브 컨텐츠로는 매주 월요일 저녁 8시 라이브 [앤가영의 시조방송]이 있습니다.\n구독하시고 자주 놀러오세요!\n\n비즈니스 문의 spygirls0905@naver.com",
+        "keywords": "음악 kpop 노래 보컬 커버 듀엣 \"듣기 좋은 음악\" mr",
+        "unsubscribedTrailer": "ivLt_wqjYYc",
+        "defaultLanguage": "ko",
+        "country": "KR"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/3QP4iSEUzoVWaHvJyKcZcIEhR1oXzU5Is7uKUWidcKjsUVu84reFub6C8-iEDEGLtlH71l_I"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "smmYtUN-eMR9SsdJDEHYv9R8nyU",
+    "id": "UCM6l5YDSJtJKEioIcaxinrw",
+    "snippet": {
+      "title": "아쿵다쿵",
+      "description": "아쿵다쿵은 \"야외활동 / 우주여행 / 뮤지컬 / 캠핑놀이 / 탐정놀이 / 해외여행 / 재롱잔치 / 놀이동산 / 직업탐구 / 스포츠\" 편으로 각각 다른 분위기의 스토리텔링을 가진 테마로 이루어진 배경과 음악으로 구성되었으며,  아이들에게 반복적으로 보여주는 다양한 볼거리와 흥미로운  콘텐츠들이 자연스럽게 아이들에게 학습이 될 수 있도록 제작하였으며 율동은 동작을 따라할 수 있도록 제작하였습니다. \n\n  http://www.aniedu.co.kr",
+      "customUrl": "@akungdakung",
+      "publishedAt": "2014-09-22T03:17:13Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/vOkbgoa11CWG4J4Bm1wCmUJxKM7mL0F5ntjI3_amtiVyel9p_OlUr4qLGqOrtrwKb80mF4fUlM0=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/vOkbgoa11CWG4J4Bm1wCmUJxKM7mL0F5ntjI3_amtiVyel9p_OlUr4qLGqOrtrwKb80mF4fUlM0=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/vOkbgoa11CWG4J4Bm1wCmUJxKM7mL0F5ntjI3_amtiVyel9p_OlUr4qLGqOrtrwKb80mF4fUlM0=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "아쿵다쿵",
+        "description": "아쿵다쿵은 \"야외활동 / 우주여행 / 뮤지컬 / 캠핑놀이 / 탐정놀이 / 해외여행 / 재롱잔치 / 놀이동산 / 직업탐구 / 스포츠\" 편으로 각각 다른 분위기의 스토리텔링을 가진 테마로 이루어진 배경과 음악으로 구성되었으며,  아이들에게 반복적으로 보여주는 다양한 볼거리와 흥미로운  콘텐츠들이 자연스럽게 아이들에게 학습이 될 수 있도록 제작하였으며 율동은 동작을 따라할 수 있도록 제작하였습니다. \n\n  http://www.aniedu.co.kr"
+      },
+      "country": "KR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUM6l5YDSJtJKEioIcaxinrw"
+      }
+    },
+    "statistics": {
+      "viewCount": "10148288",
+      "subscriberCount": "12600",
+      "hiddenSubscriberCount": false,
+      "videoCount": "66"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/04rlf"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Music"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified",
+      "madeForKids": true
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "아쿵다쿵",
+        "description": "아쿵다쿵은 \"야외활동 / 우주여행 / 뮤지컬 / 캠핑놀이 / 탐정놀이 / 해외여행 / 재롱잔치 / 놀이동산 / 직업탐구 / 스포츠\" 편으로 각각 다른 분위기의 스토리텔링을 가진 테마로 이루어진 배경과 음악으로 구성되었으며,  아이들에게 반복적으로 보여주는 다양한 볼거리와 흥미로운  콘텐츠들이 자연스럽게 아이들에게 학습이 될 수 있도록 제작하였으며 율동은 동작을 따라할 수 있도록 제작하였습니다. \n\n  http://www.aniedu.co.kr",
+        "keywords": "동요 리듬 율동 율동동요 유아 유아동요 키즈 키즈동요 유아율동 키즈율동 kids 유아노래 키즈노래 노래 율동노래",
+        "country": "KR"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/VuYt9Pobso4rR3Edh5rZ_rPql6vkWVkvEc9ImLQj0ZxFr60NyIat9RjiyBvOzA16O7mAcN6-eg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "ezeQ1jLOOi9tQuOM94vevxXlT4E",
+    "id": "UCEH32Ysxv7rbMHRyoEWj9SQ",
+    "snippet": {
+      "title": "shy shy",
+      "description": "작은 움직임 하나에도 공식이 있는 플라잉요가\n기술과 안전, 둘 다 잡는 지도자 shyshy✨",
+      "customUrl": "@shyshy",
+      "publishedAt": "2012-11-14T04:44:12Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/y7jN-q0Tuqlwcd5b_1EJYpUMzbgiygpX92PHLFtl1lxNRTO1ansc7pZgh_g9Useg1FaCCzRvRg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/y7jN-q0Tuqlwcd5b_1EJYpUMzbgiygpX92PHLFtl1lxNRTO1ansc7pZgh_g9Useg1FaCCzRvRg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/y7jN-q0Tuqlwcd5b_1EJYpUMzbgiygpX92PHLFtl1lxNRTO1ansc7pZgh_g9Useg1FaCCzRvRg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "shy shy",
+        "description": "작은 움직임 하나에도 공식이 있는 플라잉요가\n기술과 안전, 둘 다 잡는 지도자 shyshy✨"
+      },
+      "country": "KR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUEH32Ysxv7rbMHRyoEWj9SQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "6426357",
+      "subscriberCount": "13300",
+      "hiddenSubscriberCount": false,
+      "videoCount": "1611"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/027x7n",
+        "/m/019_rr",
+        "/m/03glg"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Physical_fitness",
+        "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+        "https://en.wikipedia.org/wiki/Hobby"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "shy shy",
+        "description": "작은 움직임 하나에도 공식이 있는 플라잉요가\n기술과 안전, 둘 다 잡는 지도자 shyshy✨",
+        "keywords": "flyingyoga",
+        "unsubscribedTrailer": "YJ3-AwsKbsA",
+        "country": "KR"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/U05DJHQl-6pjGdqVPZmjp7DE1mmBs3oBQdhW10Wi07qxpjQgBrLEv2D_B7BIuAIaDWCky9Kcnw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "lGs2DMY2Nbn-ZSaukxyS3-QKRRk",
+    "id": "UCYgrRATUmOshphFMbIguI5g",
+    "snippet": {
+      "title": "JOYCHU",
+      "description": "조이츄, 두부와 함께 하는 장난감놀이:)\n우리 같이 놀아요~",
+      "customUrl": "@joychu843",
+      "publishedAt": "2016-05-13T08:00:58Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_l3FT5gumBpCIZz2tO03YlX1ij9WD_PqcyR5f9_Rw_LrQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_l3FT5gumBpCIZz2tO03YlX1ij9WD_PqcyR5f9_Rw_LrQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_l3FT5gumBpCIZz2tO03YlX1ij9WD_PqcyR5f9_Rw_LrQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "JOYCHU",
+        "description": "조이츄, 두부와 함께 하는 장난감놀이:)\n우리 같이 놀아요~"
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUYgrRATUmOshphFMbIguI5g"
+      }
+    },
+    "statistics": {
+      "viewCount": "7772755",
+      "subscriberCount": "12700",
+      "hiddenSubscriberCount": false,
+      "videoCount": "103"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/019_rr",
+        "/m/03glg"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+        "https://en.wikipedia.org/wiki/Hobby"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "JOYCHU",
+        "description": "조이츄, 두부와 함께 하는 장난감놀이:)\n우리 같이 놀아요~",
+        "keywords": "토이 키즈 toy kids play",
+        "unsubscribedTrailer": "B-ZJeKq9Wn4"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/W0OClMdczJKSZFTknvFlOybaU7H0NGhHDLfXEYsR080vjiHb3ACnMM7z5oQSTwckW4dH_d6gxDY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "_4K15h9eq72O4Ypm_inoo37LsAQ",
+    "id": "UCUy-xhXb-ch-DY6GzqazNmQ",
+    "snippet": {
+      "title": "포메디언",
+      "description": "개그맨 김준호, 김대희, 권재관, 박영진이 4명의 남자가 만들어 가는 코메디 살리기 프로젝트!\n포메디언!! 이것이 찐 웃음이다!!",
+      "customUrl": "@포메디언",
+      "publishedAt": "2021-01-06T04:56:38.394201Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kEkcQiZTOo60uLNvtQ13W5N7QMgQ_ydmRL0KLuPqQavA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kEkcQiZTOo60uLNvtQ13W5N7QMgQ_ydmRL0KLuPqQavA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kEkcQiZTOo60uLNvtQ13W5N7QMgQ_ydmRL0KLuPqQavA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "포메디언",
+        "description": "개그맨 김준호, 김대희, 권재관, 박영진이 4명의 남자가 만들어 가는 코메디 살리기 프로젝트!\n포메디언!! 이것이 찐 웃음이다!!"
+      },
+      "country": "KR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUUy-xhXb-ch-DY6GzqazNmQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "1315218",
+      "subscriberCount": "12500",
+      "hiddenSubscriberCount": false,
+      "videoCount": "26"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/02jjt",
+        "/m/02vxn"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Entertainment",
+        "https://en.wikipedia.org/wiki/Film"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified",
+      "madeForKids": false
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "포메디언",
+        "description": "개그맨 김준호, 김대희, 권재관, 박영진이 4명의 남자가 만들어 가는 코메디 살리기 프로젝트!\n포메디언!! 이것이 찐 웃음이다!!",
+        "keywords": "개그맨 김준호 김대희 권재관 박영진 코미디빅리그 코빅 개콘 얼간김준호 꼰대희 재관둥이 코미디 개그 웃긴영상 몰카 몰래카메라 fourmedian",
+        "unsubscribedTrailer": "1kYHN-FljIA",
+        "country": "KR"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/Ax2wSr1TUWOzbYVUmwbzHn8f1P_XtQcpkWczR636aWN0ERw2t0Q7m7YxALMAztS5E2lHFRhvLw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "CCe4DvF4xaEKmg9voS2jRRhro2U",
+    "id": "UCnLjWg9ANKGpsW2e1DdR87A",
+    "snippet": {
+      "title": "부캐선발대회",
+      "description": "본격 본캐 파괴쇼\n🏆부캐선발대회🏆\n\n엄격한 심사 기준📌\n🎯관종력\n🎯빙의력\n🎯신박력\n\n(⚠️본캐 소환, 현타, 캐붕 주의)\n\n매주 목/일요일 오후6시\n\n부캐선발대회 인스타그램🔗 https://www.instagram.com/bookae_official/?hl=ko\n",
+      "customUrl": "@부캐선발대회",
+      "publishedAt": "2020-09-23T01:34:59.153176Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_n2L0UhhKvpiP3cOxdcl9GuBBjpITkaXO94zgEmbV5fvA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_n2L0UhhKvpiP3cOxdcl9GuBBjpITkaXO94zgEmbV5fvA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_n2L0UhhKvpiP3cOxdcl9GuBBjpITkaXO94zgEmbV5fvA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "부캐선발대회",
+        "description": "본격 본캐 파괴쇼\n🏆부캐선발대회🏆\n\n엄격한 심사 기준📌\n🎯관종력\n🎯빙의력\n🎯신박력\n\n(⚠️본캐 소환, 현타, 캐붕 주의)\n\n매주 목/일요일 오후6시\n\n부캐선발대회 인스타그램🔗 https://www.instagram.com/bookae_official/?hl=ko\n"
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUnLjWg9ANKGpsW2e1DdR87A"
+      }
+    },
+    "statistics": {
+      "viewCount": "9094438",
+      "subscriberCount": "12700",
+      "hiddenSubscriberCount": false,
+      "videoCount": "55"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/0f2f9",
+        "/m/02jjt",
+        "/m/028sqc",
+        "/m/04rlf"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Television_program",
+        "https://en.wikipedia.org/wiki/Entertainment",
+        "https://en.wikipedia.org/wiki/Music_of_Asia",
+        "https://en.wikipedia.org/wiki/Music"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "부캐선발대회",
+        "description": "본격 본캐 파괴쇼\n🏆부캐선발대회🏆\n\n엄격한 심사 기준📌\n🎯관종력\n🎯빙의력\n🎯신박력\n\n(⚠️본캐 소환, 현타, 캐붕 주의)\n\n매주 목/일요일 오후6시\n\n부캐선발대회 인스타그램🔗 https://www.instagram.com/bookae_official/?hl=ko\n",
+        "keywords": "부캐 부캐스타 부캐릭터 부캐선발대회 show Entertainment Kpop 케이팝 mnet Culture music Gag",
+        "unsubscribedTrailer": "3scjyb3poNI"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/xx4z-foo6hV4-lWhG0Txvt9cw4mU7uwNJfqOO9e3TFwfLCoFposWb5rXdJCMkLhbzb5MzbvYZQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "ImZT6kwGE4KgyHyFQMk_Kcn9SFs",
+    "id": "UC5I-OkVoAS2YwYrqtZPWJiQ",
+    "snippet": {
+      "title": "대나무숲(NTN_bamboo)",
+      "description": "",
+      "customUrl": "@ntn_bamboo",
+      "publishedAt": "2011-12-22T08:45:12Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/Lk7LcB8Cey-pNQ6yV95bDT3e8KyjI1asEO3dLxhs9pQqbLnKcHYp3npbuq4pi9amrEOOz5LOILs=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/Lk7LcB8Cey-pNQ6yV95bDT3e8KyjI1asEO3dLxhs9pQqbLnKcHYp3npbuq4pi9amrEOOz5LOILs=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/Lk7LcB8Cey-pNQ6yV95bDT3e8KyjI1asEO3dLxhs9pQqbLnKcHYp3npbuq4pi9amrEOOz5LOILs=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "대나무숲(NTN_bamboo)",
+        "description": ""
+      },
+      "country": "KR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU5I-OkVoAS2YwYrqtZPWJiQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "7755732",
+      "subscriberCount": "12500",
+      "hiddenSubscriberCount": false,
+      "videoCount": "1156"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/04rlf",
+        "/m/028sqc",
+        "/m/064t9",
+        "/m/02jjt"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Music",
+        "https://en.wikipedia.org/wiki/Music_of_Asia",
+        "https://en.wikipedia.org/wiki/Pop_music",
+        "https://en.wikipedia.org/wiki/Entertainment"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "대나무숲(NTN_bamboo)",
+        "country": "KR"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "5lgHbQTzk1PjjPJKRqh34KsDdMo",
+    "id": "UC44rXlMWz9MGlIcPMJPWHzw",
+    "snippet": {
+      "title": "사우루",
+      "description": "룡룡룡율율율",
+      "customUrl": "@sauru1215",
+      "publishedAt": "2015-10-13T02:16:19Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/4ZsIXf0wdbnbB644Q5FtUwEQuPlbLwHuXTfYKr8CCMflHqLtBtBV3YoRJ9Dn7ubxHU8H-XkXjQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/4ZsIXf0wdbnbB644Q5FtUwEQuPlbLwHuXTfYKr8CCMflHqLtBtBV3YoRJ9Dn7ubxHU8H-XkXjQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/4ZsIXf0wdbnbB644Q5FtUwEQuPlbLwHuXTfYKr8CCMflHqLtBtBV3YoRJ9Dn7ubxHU8H-XkXjQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "사우루",
+        "description": "룡룡룡율율율"
+      },
+      "country": "KR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU44rXlMWz9MGlIcPMJPWHzw"
+      }
+    },
+    "statistics": {
+      "viewCount": "10660033",
+      "subscriberCount": "12900",
+      "hiddenSubscriberCount": false,
+      "videoCount": "363"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/019_rr",
+        "/m/03glg"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+        "https://en.wikipedia.org/wiki/Hobby"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "사우루",
+        "description": "룡룡룡율율율",
+        "keywords": "운전 자동차 Drive Car 스피드",
+        "country": "KR"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/Wh0b2vJAI03e6rVuz6yG7r_PppjuBqlg5VAcspLlVK1lo__8ojzFSiMEYvU__TieyER11Tkv"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "2GyFrhlO7Brl7SUTDcuvszIJNfs",
+    "id": "UC0GatB0FUdjNYKNaFqZhPKw",
+    "snippet": {
+      "title": "노아주다",
+      "description": "놓아주다",
+      "customUrl": "@noahjooda",
+      "publishedAt": "2012-10-13T01:05:49Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/qJZSJzP5a_b1WeLeg4bGS9-hrVFmv82WTvJjZk7VNqibCZo-kc7L_wIcvF417k9SFn1NHcli6g=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/qJZSJzP5a_b1WeLeg4bGS9-hrVFmv82WTvJjZk7VNqibCZo-kc7L_wIcvF417k9SFn1NHcli6g=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/qJZSJzP5a_b1WeLeg4bGS9-hrVFmv82WTvJjZk7VNqibCZo-kc7L_wIcvF417k9SFn1NHcli6g=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "노아주다",
+        "description": "놓아주다"
+      },
+      "country": "KR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU0GatB0FUdjNYKNaFqZhPKw"
+      }
+    },
+    "statistics": {
+      "viewCount": "30407405",
+      "subscriberCount": "14100",
+      "hiddenSubscriberCount": false,
+      "videoCount": "41"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/064t9",
+        "/m/0glt670",
+        "/m/04rlf",
+        "/m/028sqc"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Pop_music",
+        "https://en.wikipedia.org/wiki/Hip_hop_music",
+        "https://en.wikipedia.org/wiki/Music",
+        "https://en.wikipedia.org/wiki/Music_of_Asia"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "노아주다",
+        "description": "놓아주다",
+        "keywords": "힙합 랩 노래 엔터테인먼트 hiphop rapper singer entertainer",
+        "unsubscribedTrailer": "SRO_z9EwXic",
+        "country": "KR"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "cgpu89GVT44pP6qsWq63P5f8Si8",
+    "id": "UCu-fHhm21b4GPqM8uxluNiA",
+    "snippet": {
+      "title": "[골프 응급실] KPGA Tour pro 조종연 ",
+      "description": "J GOLF ACADEMY & 골프 응급실\nKPGA  TOUR PRO 조종연",
+      "customUrl": "@kpgatourpro6715",
+      "publishedAt": "2017-10-03T10:23:35Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/eEct8KORbDGuHUkKKg_yDek6StyrxuIUA4uQyB75jtyzJgsBGYZ8ptuPDc2aapy4FqpU_EdJ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/eEct8KORbDGuHUkKKg_yDek6StyrxuIUA4uQyB75jtyzJgsBGYZ8ptuPDc2aapy4FqpU_EdJ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/eEct8KORbDGuHUkKKg_yDek6StyrxuIUA4uQyB75jtyzJgsBGYZ8ptuPDc2aapy4FqpU_EdJ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "[골프 응급실] KPGA Tour pro 조종연 ",
+        "description": "J GOLF ACADEMY & 골프 응급실\nKPGA  TOUR PRO 조종연"
+      },
+      "country": "KR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUu-fHhm21b4GPqM8uxluNiA"
+      }
+    },
+    "statistics": {
+      "viewCount": "2402791",
+      "subscriberCount": "12500",
+      "hiddenSubscriberCount": false,
+      "videoCount": "228"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/06ntj",
+        "/m/037hz",
+        "/m/019_rr"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Sport",
+        "https://en.wikipedia.org/wiki/Golf",
+        "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified",
+      "madeForKids": false
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "[골프 응급실] KPGA Tour pro 조종연 ",
+        "description": "J GOLF ACADEMY & 골프 응급실\nKPGA  TOUR PRO 조종연",
+        "keywords": "골프",
+        "unsubscribedTrailer": "LkFlvMKV38Q",
+        "country": "KR"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/zJQ-IILgM-VKwqOfr11clFhaEFkH-WA5gfTtrqivc4r5FkVC8xbHsn2GvoVxDA59K_lq_1jOmQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "g25Jl74_i418z2zLivJou2T4XxA",
+    "id": "UC3jdc1C84tuGwOs4dY9_qQQ",
+    "snippet": {
+      "title": "포기브",
+      "description": "게임 유튜브 포기브 채널 입니다 !\n\n여러가지 의견등등 은   fourgive4@naver.com  이곳으로!!!\n\n구독 & 댓글 & 좋아요 부탁드리구요! 항상 감사합니다",
+      "customUrl": "@포기브",
+      "publishedAt": "2016-09-26T15:29:54Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_m_CXpRxy3fwwSWR_G3Zuw0hd1CcvLi0nTcWYCEss1gmBU=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_m_CXpRxy3fwwSWR_G3Zuw0hd1CcvLi0nTcWYCEss1gmBU=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_m_CXpRxy3fwwSWR_G3Zuw0hd1CcvLi0nTcWYCEss1gmBU=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "포기브",
+        "description": "게임 유튜브 포기브 채널 입니다 !\n\n여러가지 의견등등 은   fourgive4@naver.com  이곳으로!!!\n\n구독 & 댓글 & 좋아요 부탁드리구요! 항상 감사합니다"
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU3jdc1C84tuGwOs4dY9_qQQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "3577886",
+      "subscriberCount": "12600",
+      "hiddenSubscriberCount": false,
+      "videoCount": "55"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/0403l3g",
+        "/m/025zzc",
+        "/m/0bzvm2",
+        "/m/02ntfj"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Role-playing_video_game",
+        "https://en.wikipedia.org/wiki/Action_game",
+        "https://en.wikipedia.org/wiki/Video_game_culture",
+        "https://en.wikipedia.org/wiki/Action-adventure_game"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified",
+      "madeForKids": false
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "포기브",
+        "description": "게임 유튜브 포기브 채널 입니다 !\n\n여러가지 의견등등 은   fourgive4@naver.com  이곳으로!!!\n\n구독 & 댓글 & 좋아요 부탁드리구요! 항상 감사합니다",
+        "keywords": "게임 오버워치",
+        "unsubscribedTrailer": "chUxEQM7QQA"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/SHUOrkRcCxuYWf0ADcK7NL96lpsa0nkPZqs87tcDO20wIi6y7_TWJHrLi4POCIXc-wEXdBPwvg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "X0aFFCu9BH4F40jhCJBBvolEH8Q",
+    "id": "UCunO4Exe8b_ivzxglctLZYA",
+    "snippet": {
+      "title": "에헤이천의현",
+      "description": "강호순, 오원춘, 장자연, 천안함, 세월호, 쌍용차.\n그 현장에 있던 18년차 기자, 천의현입니다.\n어느덧 40대 남자가 되어 거시기 합니다.\n특별할 거 없지만 적당히 살아보고 지내본 저와 사람 사는 이야기 나누고, \n필요하다면 시대적 메시지를 함께 해석해보고 비빌 언덕을 만들어 보시는 건 어떠할지요.\n다만, 에세이 아니고 에헤이.\n",
+      "customUrl": "@aehey1000",
+      "publishedAt": "2024-01-19T00:43:44.86992Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/-BP_TtWRoXN1k86wWTLL5aQKbtQFCyeFOrn-5JOt8AyPtqjIXPtiXXV5lNGvdKfSEuEyf0dcMw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/-BP_TtWRoXN1k86wWTLL5aQKbtQFCyeFOrn-5JOt8AyPtqjIXPtiXXV5lNGvdKfSEuEyf0dcMw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/-BP_TtWRoXN1k86wWTLL5aQKbtQFCyeFOrn-5JOt8AyPtqjIXPtiXXV5lNGvdKfSEuEyf0dcMw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "defaultLanguage": "ko",
+      "localized": {
+        "title": "에헤이천의현",
+        "description": "강호순, 오원춘, 장자연, 천안함, 세월호, 쌍용차.\n그 현장에 있던 18년차 기자, 천의현입니다.\n어느덧 40대 남자가 되어 거시기 합니다.\n특별할 거 없지만 적당히 살아보고 지내본 저와 사람 사는 이야기 나누고, \n필요하다면 시대적 메시지를 함께 해석해보고 비빌 언덕을 만들어 보시는 건 어떠할지요.\n다만, 에세이 아니고 에헤이.\n"
+      },
+      "country": "KR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUunO4Exe8b_ivzxglctLZYA"
+      }
+    },
+    "statistics": {
+      "viewCount": "5600346",
+      "subscriberCount": "12900",
+      "hiddenSubscriberCount": false,
+      "videoCount": "18"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/05qt0",
+        "/m/098wr"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Politics",
+        "https://en.wikipedia.org/wiki/Society"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified",
+      "madeForKids": false
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "에헤이천의현",
+        "description": "강호순, 오원춘, 장자연, 천안함, 세월호, 쌍용차.\n그 현장에 있던 18년차 기자, 천의현입니다.\n어느덧 40대 남자가 되어 거시기 합니다.\n특별할 거 없지만 적당히 살아보고 지내본 저와 사람 사는 이야기 나누고, \n필요하다면 시대적 메시지를 함께 해석해보고 비빌 언덕을 만들어 보시는 건 어떠할지요.\n다만, 에세이 아니고 에헤이.\n",
+        "keywords": "경기장 뉴데일리 정치부 사회부 문화부 체육부 뉴데일리경기 시사 이슈 현장 사건현장 신문 신문사 뉴스 정치 사회 문화 체육 현장보고 시사뉴스 이슈분석 사건사고 신문기사 정치뉴스 사회이슈 문화이야기 체육소식 현장취재 뉴스현장 뉴스를만나다 시사토크 정치토론 사회문화 체육경기 뉴데일리이슈 정치부뉴스 문화부소식 체육부소식 경기장소식 현장리포트 신문사소식 사회적이슈 정치적논의",
+        "unsubscribedTrailer": "pBjTHABYFPA",
+        "defaultLanguage": "ko",
+        "country": "KR"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/GFkGkNEFIq4TuH2OA0nfP6-_DftzcbzwJyUECYWE4YCBqoAg8-4yJ5LX-d44EdBLqvO107D-2w"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "IAOM5qPK7nFbIBWyJlvokJYNNFs",
+    "id": "UClzMD_K9XrBv7sbw_1HMUwA",
+    "snippet": {
+      "title": "미댕이",
+      "description": "영화배우 , Creative Muse \n소통은 라이키와 트위터에서 할게요\n",
+      "customUrl": "@eunmicii",
+      "publishedAt": "2015-12-25T10:06:04Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/hEi1g8dXlL8o29REH0x8qwYCRutyQKcdSiQP8MrfKghVLC-jcd9qudQ4KpR7HzGpJvplB4k46w=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/hEi1g8dXlL8o29REH0x8qwYCRutyQKcdSiQP8MrfKghVLC-jcd9qudQ4KpR7HzGpJvplB4k46w=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/hEi1g8dXlL8o29REH0x8qwYCRutyQKcdSiQP8MrfKghVLC-jcd9qudQ4KpR7HzGpJvplB4k46w=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "미댕이",
+        "description": "영화배우 , Creative Muse \n소통은 라이키와 트위터에서 할게요\n"
+      },
+      "country": "KR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUlzMD_K9XrBv7sbw_1HMUwA"
+      }
+    },
+    "statistics": {
+      "viewCount": "5759568",
+      "subscriberCount": "13100",
+      "hiddenSubscriberCount": false,
+      "videoCount": "446"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/037hz",
+        "/m/06ntj",
+        "/m/019_rr"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Golf",
+        "https://en.wikipedia.org/wiki/Sport",
+        "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "미댕이",
+        "description": "영화배우 , Creative Muse \n소통은 라이키와 트위터에서 할게요\n",
+        "country": "KR"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/ieaJSouSykl2Fzv184DfZLG2gqRjo1QXsM7incQJsH7mFZRH0llnjTA9j2JRT8XdDIHluGSSNg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "cHf9WFZU7-BJE4uGo5gOZUM1o4M",
+    "id": "UC2sipe2_MfWXEvXGHSvfx8g",
+    "snippet": {
+      "title": "최혜영 골프 choigolf",
+      "description": "어렵거나 실속 없는 영상들은 이제 그만~\n보기만 해도 실력이 느는 레슨이 있다?\n골프가 더 쉽고 재미있어지는 비결!\n\n아시안 최초 미 LPGA MASTER, \n티칭 프로 최혜영의 알짜배기 골프 레슨!",
+      "customUrl": "@choigolf_",
+      "publishedAt": "2014-04-19T04:50:27Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kWJcYBfjwjsxZIXLP13dtvn7J3HBWYbvBZG4WI82irYT8=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kWJcYBfjwjsxZIXLP13dtvn7J3HBWYbvBZG4WI82irYT8=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kWJcYBfjwjsxZIXLP13dtvn7J3HBWYbvBZG4WI82irYT8=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "최혜영 골프 choigolf",
+        "description": "어렵거나 실속 없는 영상들은 이제 그만~\n보기만 해도 실력이 느는 레슨이 있다?\n골프가 더 쉽고 재미있어지는 비결!\n\n아시안 최초 미 LPGA MASTER, \n티칭 프로 최혜영의 알짜배기 골프 레슨!"
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU2sipe2_MfWXEvXGHSvfx8g"
+      }
+    },
+    "statistics": {
+      "viewCount": "8107377",
+      "subscriberCount": "12600",
+      "hiddenSubscriberCount": false,
+      "videoCount": "952"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/037hz",
+        "/m/06ntj",
+        "/m/019_rr"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Golf",
+        "https://en.wikipedia.org/wiki/Sport",
+        "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified",
+      "madeForKids": false
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "최혜영 골프 choigolf",
+        "description": "어렵거나 실속 없는 영상들은 이제 그만~\n보기만 해도 실력이 느는 레슨이 있다?\n골프가 더 쉽고 재미있어지는 비결!\n\n아시안 최초 미 LPGA MASTER, \n티칭 프로 최혜영의 알짜배기 골프 레슨!",
+        "keywords": "최혜영 프로 최혜영골프 초이골프 choigolf \"choi golf\" 골프강의 골프동영상 골프강의 반대로하는 골프레슨 골프 최혜영의 \"최혜영 프로\" \"최혜영 골프\"",
+        "unsubscribedTrailer": "Evy_uqw-qdY"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/v-aTvAH3192SApCNvqYoRPpOKSpGl9jQ77r0rDmKrvUavrfYqIXHYxlz2HUjZ5RoZo2Umzm1br0"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "yDbf1HCYmy3V73mQ3EdlPtqGEjI",
+    "id": "UCZcXGcPNC9-k5qRtOtJwWDg",
+    "snippet": {
+      "title": "시디즈 SIDIZ ",
+      "description": "PROGRESSIVE SITTING EXPERIENCE\n최상의 '앉음(Sitting Experience)'을 통해 더 열정적이고 발전하는 삶을 이끌어 냅니다.\n\n\n",
+      "customUrl": "@sidiz_official",
+      "publishedAt": "2013-01-22T01:20:01Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/bs7q3QcDa3khSvAw0aScHhynNlJk7_472mkXY1KPIAc9w98z8pAcHIJ7zer8nUX525wHlOuBGYo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/bs7q3QcDa3khSvAw0aScHhynNlJk7_472mkXY1KPIAc9w98z8pAcHIJ7zer8nUX525wHlOuBGYo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/bs7q3QcDa3khSvAw0aScHhynNlJk7_472mkXY1KPIAc9w98z8pAcHIJ7zer8nUX525wHlOuBGYo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "시디즈 SIDIZ ",
+        "description": "PROGRESSIVE SITTING EXPERIENCE\n최상의 '앉음(Sitting Experience)'을 통해 더 열정적이고 발전하는 삶을 이끌어 냅니다.\n\n\n"
+      },
+      "country": "KR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUZcXGcPNC9-k5qRtOtJwWDg"
+      }
+    },
+    "statistics": {
+      "viewCount": "110321519",
+      "subscriberCount": "12400",
+      "hiddenSubscriberCount": false,
+      "videoCount": "234"
+    },
+    "topicDetails": {},
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "시디즈 SIDIZ ",
+        "description": "PROGRESSIVE SITTING EXPERIENCE\n최상의 '앉음(Sitting Experience)'을 통해 더 열정적이고 발전하는 삶을 이끌어 냅니다.\n\n\n",
+        "keywords": "시디즈 SIDIZ chair officechair chairforkids chaircompany SIDIZT50 SIDIZT80 시디즈T50 시디즈T80 시디즈링고 시디즈아띠 시디즈T25 시디즈탭플러스 시디즈마블 SIDIZMARVEL SIDIZT25 SIDIZT40 SIDIZatti SIDIZringo SIDIZTabplus",
+        "unsubscribedTrailer": "yr2D0Wb_89o",
+        "country": "KR"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/_yRA6j6flfcK1izOIeLaW2bGxjzuKh8kJdWXjxL7aX5wljVtg2LDswo47GeZMzgEi8J3YU7wUg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "EOR2EqhNLl7ER0yLi7IBxdHq5_k",
+    "id": "UCTXofGqOIh_4Zr7ILOnLV7w",
+    "snippet": {
+      "title": "제나는 키크다!",
+      "description": "제나는 키크다! *⁀➷🇰🇷🇹🇭\n제나는 \"키\"즈. \"크\"리에이터. \"다\"! ❤️\n\n―\n\n안녕하세요, 저는 김제나입니다.\n제나는 한국인 아빠🇰🇷와 태국인 엄마🇹🇭와 함께 해요.\n여러분은 지금 미래의 최고 셀럽을 만나보고 계십니다. 😘\n\n좋아요! 구독! 댓글은 언제나 대환영 :)\n감사합니다!     💛\n(◍•ᴗ•◍)✧* 💜\n\n#제나\n#김제나\n#제나는키크다\n#대한민국\n#태국",
+      "customUrl": "@jenahkim",
+      "publishedAt": "2019-01-07T10:57:32Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/JLoskPqSEbBjy_2QRV2LUwG4dvnwAHdMHQCwNOjZ_BX9w9B9zpOEX2gwEeoq0lRysHu3XLwLSQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/JLoskPqSEbBjy_2QRV2LUwG4dvnwAHdMHQCwNOjZ_BX9w9B9zpOEX2gwEeoq0lRysHu3XLwLSQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/JLoskPqSEbBjy_2QRV2LUwG4dvnwAHdMHQCwNOjZ_BX9w9B9zpOEX2gwEeoq0lRysHu3XLwLSQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "defaultLanguage": "ko",
+      "localized": {
+        "title": "제나는 키크다!",
+        "description": "제나는 키크다! *⁀➷🇰🇷🇹🇭\n제나는 \"키\"즈. \"크\"리에이터. \"다\"! ❤️\n\n―\n\n안녕하세요, 저는 김제나입니다.\n제나는 한국인 아빠🇰🇷와 태국인 엄마🇹🇭와 함께 해요.\n여러분은 지금 미래의 최고 셀럽을 만나보고 계십니다. 😘\n\n좋아요! 구독! 댓글은 언제나 대환영 :)\n감사합니다!     💛\n(◍•ᴗ•◍)✧* 💜\n\n#제나\n#김제나\n#제나는키크다\n#대한민국\n#태국"
+      },
+      "country": "KR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUTXofGqOIh_4Zr7ILOnLV7w"
+      }
+    },
+    "statistics": {
+      "viewCount": "0",
+      "subscriberCount": "13100",
+      "hiddenSubscriberCount": false,
+      "videoCount": "0"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/019_rr"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "제나는 키크다!",
+        "description": "제나는 키크다! *⁀➷🇰🇷🇹🇭\n제나는 \"키\"즈. \"크\"리에이터. \"다\"! ❤️\n\n―\n\n안녕하세요, 저는 김제나입니다.\n제나는 한국인 아빠🇰🇷와 태국인 엄마🇹🇭와 함께 해요.\n여러분은 지금 미래의 최고 셀럽을 만나보고 계십니다. 😘\n\n좋아요! 구독! 댓글은 언제나 대환영 :)\n감사합니다!     💛\n(◍•ᴗ•◍)✧* 💜\n\n#제나\n#김제나\n#제나는키크다\n#대한민국\n#태국",
+        "keywords": "제나 제나는키크다 키즈모델 혼혈키즈모델 연예인 Jenah \"Kids Model\" \"Half Korean\" \"Half Thai\" \"Next K-Pop Star\"",
+        "unsubscribedTrailer": "_I5aAaQtk08",
+        "defaultLanguage": "ko",
+        "country": "KR"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/itIWRPIi8bvpY54yiBcLp8-TqloJJBlHszsIgxx4dhZPzq69HhjU8t6DXwQ7wRpAQVuwONITHw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "H9h_vlF8mJ_kra5KxybUjQoJPSY",
+    "id": "UCQAhNNIa1ptq72bpHDAB2dQ",
+    "snippet": {
+      "title": "로보카폴리 안전스쿨",
+      "description": "우리 아이 안전 배움터, 로보카폴리 안전스쿨에 오신 걸 환영합니다.\n\n로보카폴리 안전스쿨에서는 교통 안전 수칙과 소방 안전 수칙,\n생활 속에서 발생하는 다양한 위험 상황에 대처하는 방법과 질병 예방 수칙까지,\n우리 아이에게 꼭 필요한 안전 상식을 쉽고 재미있게 배울 수 있어요.\n\n모두들 로보카폴리 구조대와 함께 놀면서 배울 준비 되었나요?\n자 그럼, 다같이 로보카폴리 안전스쿨으로 출동해요!",
+      "customUrl": "@로보카폴리안전스쿨",
+      "publishedAt": "2020-05-25T08:48:14.159286Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_k-5si9F4N5AtQA0nUnMt6HmkTVJiaanUYzUp_3BqyeVA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_k-5si9F4N5AtQA0nUnMt6HmkTVJiaanUYzUp_3BqyeVA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_k-5si9F4N5AtQA0nUnMt6HmkTVJiaanUYzUp_3BqyeVA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "로보카폴리 안전스쿨",
+        "description": "우리 아이 안전 배움터, 로보카폴리 안전스쿨에 오신 걸 환영합니다.\n\n로보카폴리 안전스쿨에서는 교통 안전 수칙과 소방 안전 수칙,\n생활 속에서 발생하는 다양한 위험 상황에 대처하는 방법과 질병 예방 수칙까지,\n우리 아이에게 꼭 필요한 안전 상식을 쉽고 재미있게 배울 수 있어요.\n\n모두들 로보카폴리 구조대와 함께 놀면서 배울 준비 되었나요?\n자 그럼, 다같이 로보카폴리 안전스쿨으로 출동해요!"
+      },
+      "country": "KR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUQAhNNIa1ptq72bpHDAB2dQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "7147397",
+      "subscriberCount": "13300",
+      "hiddenSubscriberCount": false,
+      "videoCount": "108"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/02jjt",
+        "/m/02vxn"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Entertainment",
+        "https://en.wikipedia.org/wiki/Film"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified",
+      "madeForKids": true
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "로보카폴리 안전스쿨",
+        "description": "우리 아이 안전 배움터, 로보카폴리 안전스쿨에 오신 걸 환영합니다.\n\n로보카폴리 안전스쿨에서는 교통 안전 수칙과 소방 안전 수칙,\n생활 속에서 발생하는 다양한 위험 상황에 대처하는 방법과 질병 예방 수칙까지,\n우리 아이에게 꼭 필요한 안전 상식을 쉽고 재미있게 배울 수 있어요.\n\n모두들 로보카폴리 구조대와 함께 놀면서 배울 준비 되었나요?\n자 그럼, 다같이 로보카폴리 안전스쿨으로 출동해요!",
+        "keywords": "로보카폴리 폴리 애니메이션 동요 \"폴리 안전\" 유아교육 키즈교육 프리스쿨 유아 키즈 에듀테인먼트 안전교육 안전상식 안전수칙 유치원 어린이집 로봇 로봇카 로봇캅 로보캅 로보캅폴리 로봇캅폴리 구조대 robot robotcar",
+        "unsubscribedTrailer": "woxESi3saZw",
+        "country": "KR"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/PH1RimQSsWx-XgLJUbuxZ28BAofsofTlDf990Dd9ufxfrlWRd-imnXWk7YthPfJauKRazvrf"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "YS_2BsU0arR1TNC8Vztpcq8R42I",
+    "id": "UCAk27pprEI7lagYqlU2v19g",
+    "snippet": {
+      "title": "Chinese Dj Miera -年最劲爆的",
+      "description": "#Chinesedj #chinaremix2023#Dj Miera\n⁜ 欢迎来到 \"Chinese Dj Miera -年最劲爆的\"\n👉非常感謝收看。不要忘記點贊，評論這個視頻\n👉請訂閱我的頻道按通知鈴每天聽輕鬆的音樂\n----------------------------------------------------------------------------------------------------------\n❖ 本頻道分享好聽,高音質,無雜音的原創/翻唱Cover/remix歌曲。歡迎留言點歌。\n❖ 如果喜歡頻道內的音樂，請記得訂閱跟分享讓更多人聽到好聽的音樂喔！謝謝！\n※該歌曲版權為歌手本人及其音樂公司所有，這個頻道再次重新混音，若喜歡此歌手音樂請支持正版，如版權方認為該影片有侵權一事，請與我們聯絡，本頻道將徹底刪除影片。\n鏈接到我通過 Gmail : phamthanh11334@gmail.com\n感谢您一直以来对我们的陪伴和理解\n",
+      "customUrl": "@chinesemier",
+      "publishedAt": "2020-10-06T08:35:22.768108Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/8-aOvDuGdsQ0f-CHu93OCpMfXY6kmSAcyHJvleNK7Z0fSOKDLWW5K5rTHAKdBUusXkG_Iopo__s=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/8-aOvDuGdsQ0f-CHu93OCpMfXY6kmSAcyHJvleNK7Z0fSOKDLWW5K5rTHAKdBUusXkG_Iopo__s=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/8-aOvDuGdsQ0f-CHu93OCpMfXY6kmSAcyHJvleNK7Z0fSOKDLWW5K5rTHAKdBUusXkG_Iopo__s=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "defaultLanguage": "ko",
+      "localized": {
+        "title": "Chinese Dj Miera -年最劲爆的",
+        "description": "#Chinesedj #chinaremix2023#Dj Miera\n⁜ 欢迎来到 \"Chinese Dj Miera -年最劲爆的\"\n👉非常感謝收看。不要忘記點贊，評論這個視頻\n👉請訂閱我的頻道按通知鈴每天聽輕鬆的音樂\n----------------------------------------------------------------------------------------------------------\n❖ 本頻道分享好聽,高音質,無雜音的原創/翻唱Cover/remix歌曲。歡迎留言點歌。\n❖ 如果喜歡頻道內的音樂，請記得訂閱跟分享讓更多人聽到好聽的音樂喔！謝謝！\n※該歌曲版權為歌手本人及其音樂公司所有，這個頻道再次重新混音，若喜歡此歌手音樂請支持正版，如版權方認為該影片有侵權一事，請與我們聯絡，本頻道將徹底刪除影片。\n鏈接到我通過 Gmail : phamthanh11334@gmail.com\n感谢您一直以来对我们的陪伴和理解\n"
+      },
+      "country": "TW"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUAk27pprEI7lagYqlU2v19g"
+      }
+    },
+    "statistics": {
+      "viewCount": "127096",
+      "subscriberCount": "12900",
+      "hiddenSubscriberCount": false,
+      "videoCount": "91"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/02lkt",
+        "/m/04rlf",
+        "/m/028sqc"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Electronic_music",
+        "https://en.wikipedia.org/wiki/Music",
+        "https://en.wikipedia.org/wiki/Music_of_Asia"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified",
+      "madeForKids": false
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Chinese Dj Miera -年最劲爆的",
+        "description": "#Chinesedj #chinaremix2023#Dj Miera\n⁜ 欢迎来到 \"Chinese Dj Miera -年最劲爆的\"\n👉非常感謝收看。不要忘記點贊，評論這個視頻\n👉請訂閱我的頻道按通知鈴每天聽輕鬆的音樂\n----------------------------------------------------------------------------------------------------------\n❖ 本頻道分享好聽,高音質,無雜音的原創/翻唱Cover/remix歌曲。歡迎留言點歌。\n❖ 如果喜歡頻道內的音樂，請記得訂閱跟分享讓更多人聽到好聽的音樂喔！謝謝！\n※該歌曲版權為歌手本人及其音樂公司所有，這個頻道再次重新混音，若喜歡此歌手音樂請支持正版，如版權方認為該影片有侵權一事，請與我們聯絡，本頻道將徹底刪除影片。\n鏈接到我通過 Gmail : phamthanh11334@gmail.com\n感谢您一直以来对我们的陪伴和理解\n",
+        "keywords": "2023抖音合集 抖音DJ版合辑 抖音爆红歌曲DJ版 DJ抖音合集 \"DJ 循环播放\" \"抖音2023 remix\" dj抖音 抖音歌曲2023最火dj 慢摇串烧 \"chinese dj remix\" 中文舞曲 2023最火歌曲dj慢摇 \"chinese dj\" 舞曲 慢摇 慢搖 舞曲串烧2023 \"慢摇2022 remix\" 2023抖音新歌dj \"慢摇2023 remix 抖音\" 2023舞曲 dj2023 慢搖20223remix \"2023 慢摇\" dj 慢摇2023 \"dj歌曲 超劲爆2023\" 中文慢搖 中文dj \"chinese dj 2023高清新2023夜店混音\" \"chinese dj 2022 高清新2022夜店混音\" \"Chinese Dj Remix\" chinese",
+        "unsubscribedTrailer": "eEw1IP9sE_g",
+        "defaultLanguage": "ko",
+        "country": "TW"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "h-K8aBur8UDQbCiteo3C26rliQY",
+    "id": "UCRZ80QXzy5ccs6t3bMbfxzA",
+    "snippet": {
+      "title": "Tivo Toy Art",
+      "description": "Welcome to 'Learn Color ♥ Drawing' channel!\nWe have pictures that children can easily follow !! And to be able to study color play\nHave a happy day with 'Learn Color ♥ Drawing'  every day ! Thank U ^^ !",
+      "customUrl": "@tivotoyart1279",
+      "publishedAt": "2017-05-20T03:57:00Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_mNgswY9-Qq6wcO-1wagbiLi33mKlZRNkXacrboreDDMQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_mNgswY9-Qq6wcO-1wagbiLi33mKlZRNkXacrboreDDMQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_mNgswY9-Qq6wcO-1wagbiLi33mKlZRNkXacrboreDDMQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Tivo Toy Art",
+        "description": "Welcome to 'Learn Color ♥ Drawing' channel!\nWe have pictures that children can easily follow !! And to be able to study color play\nHave a happy day with 'Learn Color ♥ Drawing'  every day ! Thank U ^^ !"
+      },
+      "country": "KR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UURZ80QXzy5ccs6t3bMbfxzA"
+      }
+    },
+    "statistics": {
+      "viewCount": "881966",
+      "subscriberCount": "12700",
+      "hiddenSubscriberCount": false,
+      "videoCount": "32"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/019_rr",
+        "/m/03glg"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+        "https://en.wikipedia.org/wiki/Hobby"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Tivo Toy Art",
+        "description": "Welcome to 'Learn Color ♥ Drawing' channel!\nWe have pictures that children can easily follow !! And to be able to study color play\nHave a happy day with 'Learn Color ♥ Drawing'  every day ! Thank U ^^ !",
+        "keywords": "toy kid art",
+        "country": "KR"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/UAbBIQm3sAkh6oAM6ciM-m9TBP7Z78M6L2B981G_Z2z7zcRuQuRhxj6_ZVr1vbVOOg-exvWi"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "4t2aOl_EXoJnYCAGG0ZVs_7op7w",
+    "id": "UCRL4H6MJcxfTDoOUimJB88Q",
+    "snippet": {
+      "title": "TV모자람",
+      "description": "모자람 네일 TV는, 누구나 고급스러운 셀프 네일을 즐길 수 있는, 유튜브 채널 입니다.\n모자람이 알려주는, 전혀 모자라지 않은 셀프네일 방법과 꿀팁!!\n누구나 따라 할 수 있으니, 좌절말고 열정만 가지고 오세요.\n\n매주 목요일 PM12:00 마다, 새로운 영상이 업로드 되니, \n매주 목요일 오후 12시!! 기대 많이해주시고, 많이 놀러와주세요^^\n\n/*- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -*/\n\n*광고 및 기타 문의: mojaram219@gmail.com\n*Instagram: http://instagram.com/mojaram219\n*Facebook: http://facebook.com/mojaram",
+      "customUrl": "@tv-ti1tl",
+      "publishedAt": "2015-09-08T08:16:49Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_lKPyt7hKF9FouAfnrW-fY1r6ZnbUXCgIL14OaPqNkz1KI=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_lKPyt7hKF9FouAfnrW-fY1r6ZnbUXCgIL14OaPqNkz1KI=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_lKPyt7hKF9FouAfnrW-fY1r6ZnbUXCgIL14OaPqNkz1KI=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "TV모자람",
+        "description": "모자람 네일 TV는, 누구나 고급스러운 셀프 네일을 즐길 수 있는, 유튜브 채널 입니다.\n모자람이 알려주는, 전혀 모자라지 않은 셀프네일 방법과 꿀팁!!\n누구나 따라 할 수 있으니, 좌절말고 열정만 가지고 오세요.\n\n매주 목요일 PM12:00 마다, 새로운 영상이 업로드 되니, \n매주 목요일 오후 12시!! 기대 많이해주시고, 많이 놀러와주세요^^\n\n/*- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -*/\n\n*광고 및 기타 문의: mojaram219@gmail.com\n*Instagram: http://instagram.com/mojaram219\n*Facebook: http://facebook.com/mojaram"
+      },
+      "country": "KR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UURL4H6MJcxfTDoOUimJB88Q"
+      }
+    },
+    "statistics": {
+      "viewCount": "1578036",
+      "subscriberCount": "12900",
+      "hiddenSubscriberCount": false,
+      "videoCount": "38"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/019_rr",
+        "/m/03glg"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+        "https://en.wikipedia.org/wiki/Hobby"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "TV모자람",
+        "description": "모자람 네일 TV는, 누구나 고급스러운 셀프 네일을 즐길 수 있는, 유튜브 채널 입니다.\n모자람이 알려주는, 전혀 모자라지 않은 셀프네일 방법과 꿀팁!!\n누구나 따라 할 수 있으니, 좌절말고 열정만 가지고 오세요.\n\n매주 목요일 PM12:00 마다, 새로운 영상이 업로드 되니, \n매주 목요일 오후 12시!! 기대 많이해주시고, 많이 놀러와주세요^^\n\n/*- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -*/\n\n*광고 및 기타 문의: mojaram219@gmail.com\n*Instagram: http://instagram.com/mojaram219\n*Facebook: http://facebook.com/mojaram",
+        "keywords": "셀프네일아트 네일아트 젤네일 셀프네일",
+        "unsubscribedTrailer": "gsSeGuEF8Co",
+        "country": "KR"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/k7RklUqw24j6XSuziXiFdDJNEE2T60vb2CbqCKWgLq_oofDFRhlOl8C9hpFaAiahvQmr55fZYw"
+      }
+    }
+  }
+]
