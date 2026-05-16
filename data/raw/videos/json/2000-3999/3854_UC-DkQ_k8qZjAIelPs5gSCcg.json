@@ -1,0 +1,295 @@
+{
+  "idx": 3854,
+  "channel_id": "UC-DkQ_k8qZjAIelPs5gSCcg",
+  "channel_title": "데일리뮤직Daily Music",
+  "playlist_items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "S1MzbV4jPIgU70UtwYy70zHnbGQ",
+      "id": "VVUtRGtRX2s4cVpqQUllbFBzNWdTQ2NnLmROOWxHS2t0b3NV",
+      "snippet": {
+        "publishedAt": "2021-04-28T06:54:42Z",
+        "channelId": "UC-DkQ_k8qZjAIelPs5gSCcg",
+        "title": "8,90년대생들이 IU - Celebrity 들었을 때 공감ㅋㅋㅋㅋㅋ #Shorts",
+        "description": "뭐...뭐야?! 나만 이렇게 들렸어???!\n\nContact(작업문의) : b2donkey@naver.com\n\n#Shorts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dN9lGKktosU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dN9lGKktosU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dN9lGKktosU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dN9lGKktosU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dN9lGKktosU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "데일리뮤직Daily Music",
+        "playlistId": "UU-DkQ_k8qZjAIelPs5gSCcg",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dN9lGKktosU"
+        },
+        "videoOwnerChannelTitle": "데일리뮤직Daily Music",
+        "videoOwnerChannelId": "UC-DkQ_k8qZjAIelPs5gSCcg"
+      },
+      "contentDetails": {
+        "videoId": "dN9lGKktosU",
+        "videoPublishedAt": "2021-04-28T06:54:42Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "A4zdAdtB1xsqMPrcc92ie33ZnNQ",
+      "id": "VVUtRGtRX2s4cVpqQUllbFBzNWdTQ2NnLlEyVlNSZW9ucGlV",
+      "snippet": {
+        "publishedAt": "2018-02-12T11:18:03Z",
+        "channelId": "UC-DkQ_k8qZjAIelPs5gSCcg",
+        "title": "Daily Music 데일리뮤직님의 실시간 스트리밍",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Q2VSReonpiU/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Q2VSReonpiU/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Q2VSReonpiU/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Q2VSReonpiU/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Q2VSReonpiU/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "데일리뮤직Daily Music",
+        "playlistId": "UU-DkQ_k8qZjAIelPs5gSCcg",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Q2VSReonpiU"
+        },
+        "videoOwnerChannelTitle": "데일리뮤직Daily Music",
+        "videoOwnerChannelId": "UC-DkQ_k8qZjAIelPs5gSCcg"
+      },
+      "contentDetails": {
+        "videoId": "Q2VSReonpiU",
+        "videoPublishedAt": "2018-02-12T11:18:03Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "video_details": [
+    {
+      "kind": "youtube#video",
+      "etag": "4ITtyCuDXpor9Rad-buVsUoXR7E",
+      "id": "dN9lGKktosU",
+      "snippet": {
+        "publishedAt": "2021-04-28T06:54:42Z",
+        "channelId": "UC-DkQ_k8qZjAIelPs5gSCcg",
+        "title": "8,90년대생들이 IU - Celebrity 들었을 때 공감ㅋㅋㅋㅋㅋ #Shorts",
+        "description": "뭐...뭐야?! 나만 이렇게 들렸어???!\n\nContact(작업문의) : b2donkey@naver.com\n\n#Shorts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dN9lGKktosU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dN9lGKktosU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dN9lGKktosU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dN9lGKktosU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dN9lGKktosU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "데일리뮤직Daily Music",
+        "tags": [
+          "음악리뷰",
+          "데일리",
+          "데일리음악리뷰",
+          "데일리뮤직",
+          "작곡",
+          "화성학",
+          "실용작곡",
+          "실용화성학",
+          "아이유",
+          "셀러브리티",
+          "celebrity",
+          "iu celebrity",
+          "celebrity 인연",
+          "셀러브리티 인연",
+          "celebrity 이선희",
+          "celebrity 윤민수",
+          "celebrity 불후의명곡"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "8,90년대생들이 IU - Celebrity 들었을 때 공감ㅋㅋㅋㅋㅋ #Shorts",
+          "description": "뭐...뭐야?! 나만 이렇게 들렸어???!\n\nContact(작업문의) : b2donkey@naver.com\n\n#Shorts"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT29S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "3299034",
+        "likeCount": "55825",
+        "favoriteCount": "0",
+        "commentCount": "1660"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Music_of_Asia"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "8,90년대생들이 IU - Celebrity 들었을 때 공감ㅋㅋㅋㅋㅋ #Shorts",
+          "description": "뭐...뭐야?! 나만 이렇게 들렸어???!\n\nContact(작업문의) : b2donkey@naver.com\n\n#Shorts"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "WWPH3uf2yFVWs5lxzZN8HBiU07c",
+      "id": "Q2VSReonpiU",
+      "snippet": {
+        "publishedAt": "2018-02-12T11:18:03Z",
+        "channelId": "UC-DkQ_k8qZjAIelPs5gSCcg",
+        "title": "Daily Music 데일리뮤직님의 실시간 스트리밍",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Q2VSReonpiU/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Q2VSReonpiU/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Q2VSReonpiU/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Q2VSReonpiU/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Q2VSReonpiU/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "데일리뮤직Daily Music",
+        "categoryId": "10",
+        "liveBroadcastContent": "upcoming",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "Daily Music 데일리뮤직님의 실시간 스트리밍",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "P0D",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "uploaded",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "0",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "Daily Music 데일리뮤직님의 실시간 스트리밍",
+          "description": ""
+        }
+      }
+    }
+  ]
+}

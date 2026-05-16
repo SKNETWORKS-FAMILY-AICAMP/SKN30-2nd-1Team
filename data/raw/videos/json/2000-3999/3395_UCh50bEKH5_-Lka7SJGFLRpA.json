@@ -1,0 +1,148 @@
+{
+  "idx": 3395,
+  "channel_id": "UCh50bEKH5_-Lka7SJGFLRpA",
+  "channel_title": "thirteentheaven",
+  "playlist_items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "p2Dl-Gagl2iVJLBr93D5Wirw1yQ",
+      "id": "VVVoNTBiRUtINV8tTGthN1NKR0ZMUnBBLjRScXhsVmtxNmVZ",
+      "snippet": {
+        "publishedAt": "2025-10-27T13:22:18Z",
+        "channelId": "UCh50bEKH5_-Lka7SJGFLRpA",
+        "title": "Playboi Carti, Yung Bans - 4tspoon (thirteentheaven remix)",
+        "description": "@thirteentheaven @thirteentheaven @thirteentheaven @thirteentheaven @thirteentheaven @thirteentheaven @thirteentheaven @thirteentheaven @thirteentheaven @thirteentheaven @thirteentheaven @thirteentheaven @thirteentheaven",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4RqxlVkq6eY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4RqxlVkq6eY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4RqxlVkq6eY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4RqxlVkq6eY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4RqxlVkq6eY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "thirteentheaven",
+        "playlistId": "UUh50bEKH5_-Lka7SJGFLRpA",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4RqxlVkq6eY"
+        },
+        "videoOwnerChannelTitle": "thirteentheaven",
+        "videoOwnerChannelId": "UCh50bEKH5_-Lka7SJGFLRpA"
+      },
+      "contentDetails": {
+        "videoId": "4RqxlVkq6eY",
+        "videoPublishedAt": "2025-10-27T13:22:18Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "video_details": [
+    {
+      "kind": "youtube#video",
+      "etag": "i51Wgid5GxbFFPTXwHifJwYD-PU",
+      "id": "4RqxlVkq6eY",
+      "snippet": {
+        "publishedAt": "2025-10-27T13:22:18Z",
+        "channelId": "UCh50bEKH5_-Lka7SJGFLRpA",
+        "title": "Playboi Carti, Yung Bans - 4tspoon (thirteentheaven remix)",
+        "description": "@thirteentheaven @thirteentheaven @thirteentheaven @thirteentheaven @thirteentheaven @thirteentheaven @thirteentheaven @thirteentheaven @thirteentheaven @thirteentheaven @thirteentheaven @thirteentheaven @thirteentheaven",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4RqxlVkq6eY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4RqxlVkq6eY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4RqxlVkq6eY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4RqxlVkq6eY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4RqxlVkq6eY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "thirteentheaven",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "Playboi Carti, Yung Bans - 4tspoon (thirteentheaven remix)",
+          "description": "@thirteentheaven @thirteentheaven @thirteentheaven @thirteentheaven @thirteentheaven @thirteentheaven @thirteentheaven @thirteentheaven @thirteentheaven @thirteentheaven @thirteentheaven @thirteentheaven @thirteentheaven"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT2M49S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1061",
+        "likeCount": "11",
+        "favoriteCount": "0",
+        "commentCount": "7"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Electronic_music",
+          "https://en.wikipedia.org/wiki/Hip_hop_music",
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Pop_music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "Playboi Carti, Yung Bans - 4tspoon (thirteentheaven remix)",
+          "description": "@thirteentheaven @thirteentheaven @thirteentheaven @thirteentheaven @thirteentheaven @thirteentheaven @thirteentheaven @thirteentheaven @thirteentheaven @thirteentheaven @thirteentheaven @thirteentheaven @thirteentheaven"
+        }
+      }
+    }
+  ]
+}

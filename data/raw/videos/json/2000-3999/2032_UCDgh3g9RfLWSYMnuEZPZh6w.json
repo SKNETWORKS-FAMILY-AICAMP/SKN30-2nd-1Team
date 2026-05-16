@@ -1,0 +1,147 @@
+{
+  "idx": 2032,
+  "channel_id": "UCDgh3g9RfLWSYMnuEZPZh6w",
+  "channel_title": "섭트립 Seop Trip",
+  "playlist_items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "gUxMwRIw0zhgg_KlAytZ7PGMHWk",
+      "id": "VVVEZ2gzZzlSZkxXU1lNbnVFWlBaaDZ3Ljd2cGtYZHZ2LVFF",
+      "snippet": {
+        "publishedAt": "2026-01-05T17:57:04Z",
+        "channelId": "UCDgh3g9RfLWSYMnuEZPZh6w",
+        "title": "랭킹월드 라이브 스트리밍 중",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7vpkXdvv-QE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7vpkXdvv-QE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7vpkXdvv-QE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7vpkXdvv-QE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7vpkXdvv-QE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "섭트립 Seop Trip",
+        "playlistId": "UUDgh3g9RfLWSYMnuEZPZh6w",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7vpkXdvv-QE"
+        },
+        "videoOwnerChannelTitle": "섭트립 Seop Trip",
+        "videoOwnerChannelId": "UCDgh3g9RfLWSYMnuEZPZh6w"
+      },
+      "contentDetails": {
+        "videoId": "7vpkXdvv-QE",
+        "videoPublishedAt": "2026-01-05T17:57:04Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "video_details": [
+    {
+      "kind": "youtube#video",
+      "etag": "-rx_3w2xzo1red9KCkDNoL5ktO4",
+      "id": "7vpkXdvv-QE",
+      "snippet": {
+        "publishedAt": "2026-01-05T17:57:04Z",
+        "channelId": "UCDgh3g9RfLWSYMnuEZPZh6w",
+        "title": "랭킹월드 라이브 스트리밍 중",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7vpkXdvv-QE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7vpkXdvv-QE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7vpkXdvv-QE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7vpkXdvv-QE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7vpkXdvv-QE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "섭트립 Seop Trip",
+        "tags": [
+          "랭킹",
+          "이슈",
+          "군대",
+          "밀리터리",
+          "역사"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "랭킹월드 라이브 스트리밍 중",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT2M27S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "17",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "랭킹월드 라이브 스트리밍 중",
+          "description": ""
+        }
+      }
+    }
+  ]
+}

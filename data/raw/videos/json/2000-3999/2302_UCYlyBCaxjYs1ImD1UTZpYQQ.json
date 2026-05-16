@@ -1,0 +1,629 @@
+{
+  "idx": 2302,
+  "channel_id": "UCYlyBCaxjYs1ImD1UTZpYQQ",
+  "channel_title": "송원신의 인생존망",
+  "playlist_items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "TYv3VZwQEONAjRJkxyleFcArDJ8",
+      "id": "VVVZbHlCQ2F4allzMUltRDFVVFpwWVFRLlVOZEVrOUJkWlF3",
+      "snippet": {
+        "publishedAt": "2021-06-06T13:58:01Z",
+        "channelId": "UCYlyBCaxjYs1ImD1UTZpYQQ",
+        "title": "송원신의 인생존망님의 실시간 스트림",
+        "description": "[즐거운 하루 되세요~ ]",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UNdEk9BdZQw/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UNdEk9BdZQw/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UNdEk9BdZQw/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UNdEk9BdZQw/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UNdEk9BdZQw/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "송원신의 인생존망",
+        "playlistId": "UUYlyBCaxjYs1ImD1UTZpYQQ",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "UNdEk9BdZQw"
+        },
+        "videoOwnerChannelTitle": "송원신의 인생존망",
+        "videoOwnerChannelId": "UCYlyBCaxjYs1ImD1UTZpYQQ"
+      },
+      "contentDetails": {
+        "videoId": "UNdEk9BdZQw",
+        "videoPublishedAt": "2021-06-06T13:58:01Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "msJTrhiwSDDn0b5HZavGAB2yw5A",
+      "id": "VVVZbHlCQ2F4allzMUltRDFVVFpwWVFRLlpJNktMdzhfZlFz",
+      "snippet": {
+        "publishedAt": "2020-04-07T09:00:51Z",
+        "channelId": "UCYlyBCaxjYs1ImD1UTZpYQQ",
+        "title": "나도 유튜브나 해볼까...?무슨 소리 하시는 거예요?유튜버가 쉬워보여요?[유튜버&편집자 김보미씨]",
+        "description": "보미씨 즐거운 인터뷰 감사합니다...^^\n보미님 영상은 \"금호마린테크\"에서 보실 수 있습니다~\n낚시에 관심 있는 분들은 많이 구독해주세요~!!\n[구독자 여러분 즐거운 하루 되세요~ ]",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZI6KLw8_fQs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZI6KLw8_fQs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZI6KLw8_fQs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZI6KLw8_fQs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZI6KLw8_fQs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "송원신의 인생존망",
+        "playlistId": "UUYlyBCaxjYs1ImD1UTZpYQQ",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ZI6KLw8_fQs"
+        },
+        "videoOwnerChannelTitle": "송원신의 인생존망",
+        "videoOwnerChannelId": "UCYlyBCaxjYs1ImD1UTZpYQQ"
+      },
+      "contentDetails": {
+        "videoId": "ZI6KLw8_fQs",
+        "videoPublishedAt": "2020-04-07T09:00:51Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "JKxrOA1vmz74oe7Puqg4r9f_ms4",
+      "id": "VVVZbHlCQ2F4allzMUltRDFVVFpwWVFRLlQyRlR1RFAxMmhn",
+      "snippet": {
+        "publishedAt": "2020-04-03T10:00:14Z",
+        "channelId": "UCYlyBCaxjYs1ImD1UTZpYQQ",
+        "title": "형은 개그맨해서 얼마나 벌어?[개그맨 김찬혁씨]",
+        "description": "앞으로 열심히 하겠습니다!\n[구독 감사합니다 좋아요 사랑입니다]",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/T2FTuDP12hg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/T2FTuDP12hg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/T2FTuDP12hg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/T2FTuDP12hg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/T2FTuDP12hg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "송원신의 인생존망",
+        "playlistId": "UUYlyBCaxjYs1ImD1UTZpYQQ",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "T2FTuDP12hg"
+        },
+        "videoOwnerChannelTitle": "송원신의 인생존망",
+        "videoOwnerChannelId": "UCYlyBCaxjYs1ImD1UTZpYQQ"
+      },
+      "contentDetails": {
+        "videoId": "T2FTuDP12hg",
+        "videoPublishedAt": "2020-04-03T10:00:14Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "oQeGtp5OpwBwJJPD9zSHOaEjSIY",
+      "id": "VVVZbHlCQ2F4allzMUltRDFVVFpwWVFRLlBsRVkxR2VUTlFr",
+      "snippet": {
+        "publishedAt": "2018-02-04T13:11:38Z",
+        "channelId": "UCYlyBCaxjYs1ImD1UTZpYQQ",
+        "title": "빽신 Back sin님의 실시간 스트리밍",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PlEY1GeTNQk/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PlEY1GeTNQk/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PlEY1GeTNQk/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PlEY1GeTNQk/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PlEY1GeTNQk/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "송원신의 인생존망",
+        "playlistId": "UUYlyBCaxjYs1ImD1UTZpYQQ",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "PlEY1GeTNQk"
+        },
+        "videoOwnerChannelTitle": "송원신의 인생존망",
+        "videoOwnerChannelId": "UCYlyBCaxjYs1ImD1UTZpYQQ"
+      },
+      "contentDetails": {
+        "videoId": "PlEY1GeTNQk",
+        "videoPublishedAt": "2018-02-04T13:11:38Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "video_details": [
+    {
+      "kind": "youtube#video",
+      "etag": "03qpN3Hq0YXT4qCbwsSSmIjw4SE",
+      "id": "UNdEk9BdZQw",
+      "snippet": {
+        "publishedAt": "2021-06-06T13:58:01Z",
+        "channelId": "UCYlyBCaxjYs1ImD1UTZpYQQ",
+        "title": "송원신의 인생존망님의 실시간 스트림",
+        "description": "[즐거운 하루 되세요~ ]",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UNdEk9BdZQw/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UNdEk9BdZQw/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UNdEk9BdZQw/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UNdEk9BdZQw/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UNdEk9BdZQw/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "송원신의 인생존망",
+        "tags": [
+          "직업",
+          "직업관",
+          "송원신",
+          "일반인",
+          "연예인",
+          "직업소개",
+          "촬영",
+          "PD"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "upcoming",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "송원신의 인생존망님의 실시간 스트림",
+          "description": "[즐거운 하루 되세요~ ]"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "P0D",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "uploaded",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "0",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "송원신의 인생존망님의 실시간 스트림",
+          "description": "[즐거운 하루 되세요~ ]"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "rDBLHDH5QU3H3Eo0zZ0Ra8w5890",
+      "id": "ZI6KLw8_fQs",
+      "snippet": {
+        "publishedAt": "2020-04-07T09:00:51Z",
+        "channelId": "UCYlyBCaxjYs1ImD1UTZpYQQ",
+        "title": "나도 유튜브나 해볼까...?무슨 소리 하시는 거예요?유튜버가 쉬워보여요?[유튜버&편집자 김보미씨]",
+        "description": "보미씨 즐거운 인터뷰 감사합니다...^^\n보미님 영상은 \"금호마린테크\"에서 보실 수 있습니다~\n낚시에 관심 있는 분들은 많이 구독해주세요~!!\n[구독자 여러분 즐거운 하루 되세요~ ]",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZI6KLw8_fQs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZI6KLw8_fQs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZI6KLw8_fQs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZI6KLw8_fQs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZI6KLw8_fQs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "송원신의 인생존망",
+        "tags": [
+          "직업",
+          "직업관",
+          "송원신",
+          "일반인",
+          "연예인",
+          "직업소개",
+          "촬영",
+          "PD"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "나도 유튜브나 해볼까...?무슨 소리 하시는 거예요?유튜버가 쉬워보여요?[유튜버&편집자 김보미씨]",
+          "description": "보미씨 즐거운 인터뷰 감사합니다...^^\n보미님 영상은 \"금호마린테크\"에서 보실 수 있습니다~\n낚시에 관심 있는 분들은 많이 구독해주세요~!!\n[구독자 여러분 즐거운 하루 되세요~ ]"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT12M19S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "25718",
+        "likeCount": "125",
+        "favoriteCount": "0",
+        "commentCount": "12"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Hobby",
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "나도 유튜브나 해볼까...?무슨 소리 하시는 거예요?유튜버가 쉬워보여요?[유튜버&편집자 김보미씨]",
+          "description": "보미씨 즐거운 인터뷰 감사합니다...^^\n보미님 영상은 \"금호마린테크\"에서 보실 수 있습니다~\n낚시에 관심 있는 분들은 많이 구독해주세요~!!\n[구독자 여러분 즐거운 하루 되세요~ ]"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "yn5vx2oaLfWhuf_d-iOyA20UKyg",
+      "id": "T2FTuDP12hg",
+      "snippet": {
+        "publishedAt": "2020-04-03T10:00:14Z",
+        "channelId": "UCYlyBCaxjYs1ImD1UTZpYQQ",
+        "title": "형은 개그맨해서 얼마나 벌어?[개그맨 김찬혁씨]",
+        "description": "앞으로 열심히 하겠습니다!\n[구독 감사합니다 좋아요 사랑입니다]",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/T2FTuDP12hg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/T2FTuDP12hg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/T2FTuDP12hg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/T2FTuDP12hg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/T2FTuDP12hg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "송원신의 인생존망",
+        "tags": [
+          "쿠쿠크루",
+          "자동차의모든것",
+          "젠틀낚시",
+          "송원신",
+          "김종래",
+          "김선우",
+          "자동차의모든것[car&man]",
+          "캠핑카",
+          "캠핑카tv",
+          "캠핑박스",
+          "포터",
+          "트럭캠퍼",
+          "화물캠퍼",
+          "카라반",
+          "올레캠핑카",
+          "제주도",
+          "올레",
+          "에스모티브",
+          "캠핑고고",
+          "더카라반",
+          "캠핑제국",
+          "래춘씨캠핑카생존기",
+          "버스캠핑카",
+          "확장형캠핑카",
+          "캠핑카생활",
+          "캠핑카가격",
+          "짚시맨캠핑카",
+          "렉스턴스포츠캠핑카",
+          "제일모빌",
+          "카운티캠핑카",
+          "르노마스터",
+          "카니발캠핑카",
+          "스타렉스캠핑카",
+          "스타렉스",
+          "시티벤캠핑카",
+          "솔라티캠핑카",
+          "미니카라반",
+          "자작캠핑카",
+          "캠핑카여행",
+          "코치맨캠핑카",
+          "소형카라반",
+          "캠핑카만들기",
+          "캠핑카자작",
+          "캠핑카제작",
+          "가성비",
+          "레져카라반",
+          "캠핑카박람회",
+          "낚시캠핑",
+          "노지캠핑",
+          "스노우타이어",
+          "이승현",
+          "디젤자동차",
+          "트럭",
+          "dpf",
+          "인젝터",
+          "방충망",
+          "컨트롤박스",
+          "환풍기",
+          "맥스휀",
+          "파리",
+          "여행",
+          "남자",
+          "해외여행"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "형은 개그맨해서 얼마나 벌어?[개그맨 김찬혁씨]",
+          "description": "앞으로 열심히 하겠습니다!\n[구독 감사합니다 좋아요 사랑입니다]"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M16S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "13855",
+        "likeCount": "174",
+        "favoriteCount": "0",
+        "commentCount": "48"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Entertainment"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "형은 개그맨해서 얼마나 벌어?[개그맨 김찬혁씨]",
+          "description": "앞으로 열심히 하겠습니다!\n[구독 감사합니다 좋아요 사랑입니다]"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "hryQnWHiWn3-OoUhvrH3xbvnmt0",
+      "id": "PlEY1GeTNQk",
+      "snippet": {
+        "publishedAt": "2018-02-04T13:11:38Z",
+        "channelId": "UCYlyBCaxjYs1ImD1UTZpYQQ",
+        "title": "빽신 Back sin님의 실시간 스트리밍",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PlEY1GeTNQk/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PlEY1GeTNQk/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PlEY1GeTNQk/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PlEY1GeTNQk/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PlEY1GeTNQk/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "송원신의 인생존망",
+        "categoryId": "22",
+        "liveBroadcastContent": "upcoming",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "빽신 Back sin님의 실시간 스트리밍",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "P0D",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "uploaded",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "0",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "빽신 Back sin님의 실시간 스트리밍",
+          "description": ""
+        }
+      }
+    }
+  ]
+}

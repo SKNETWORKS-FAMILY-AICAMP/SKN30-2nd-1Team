@@ -1,0 +1,2662 @@
+{
+  "idx": 2640,
+  "channel_id": "UCFLEjHbgyXqUKWBRn7F9rHg",
+  "channel_title": "깡패시사",
+  "playlist_items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "MON7-3av8UAiSYiTNDTHQ37Zzek",
+      "id": "VVVGTEVqSGJneVhxVUtXQlJuN0Y5ckhnLlV5TTNpUDBIOVFr",
+      "snippet": {
+        "publishedAt": "2020-12-28T09:00:08Z",
+        "channelId": "UCFLEjHbgyXqUKWBRn7F9rHg",
+        "title": "문재인 \"급했나?\" 조력자 등장",
+        "description": "비상사태",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UyM3iP0H9Qk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UyM3iP0H9Qk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UyM3iP0H9Qk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UyM3iP0H9Qk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "깡패시사",
+        "playlistId": "UUFLEjHbgyXqUKWBRn7F9rHg",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "UyM3iP0H9Qk"
+        },
+        "videoOwnerChannelTitle": "깡패시사",
+        "videoOwnerChannelId": "UCFLEjHbgyXqUKWBRn7F9rHg"
+      },
+      "contentDetails": {
+        "videoId": "UyM3iP0H9Qk",
+        "videoPublishedAt": "2020-12-28T09:00:08Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "SZ5wq963yiDALP70uLdKahoRTIY",
+      "id": "VVVGTEVqSGJneVhxVUtXQlJuN0Y5ckhnLl9LUkUxRTRYNVVz",
+      "snippet": {
+        "publishedAt": "2020-12-24T09:00:13Z",
+        "channelId": "UCFLEjHbgyXqUKWBRn7F9rHg",
+        "title": "\"말장난은 이제그만\"",
+        "description": "비상사태",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_KRE1E4X5Us/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_KRE1E4X5Us/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_KRE1E4X5Us/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_KRE1E4X5Us/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "깡패시사",
+        "playlistId": "UUFLEjHbgyXqUKWBRn7F9rHg",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_KRE1E4X5Us"
+        },
+        "videoOwnerChannelTitle": "깡패시사",
+        "videoOwnerChannelId": "UCFLEjHbgyXqUKWBRn7F9rHg"
+      },
+      "contentDetails": {
+        "videoId": "_KRE1E4X5Us",
+        "videoPublishedAt": "2020-12-24T09:00:13Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2rGJ_1Jj2Y1IgPpUoixnH92JU_k",
+      "id": "VVVGTEVqSGJneVhxVUtXQlJuN0Y5ckhnLlgxMGU3QW5LNnpz",
+      "snippet": {
+        "publishedAt": "2020-12-22T09:00:09Z",
+        "channelId": "UCFLEjHbgyXqUKWBRn7F9rHg",
+        "title": "\"그동안 죄송했습니다   \"",
+        "description": "비상사태",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/X10e7AnK6zs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/X10e7AnK6zs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/X10e7AnK6zs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/X10e7AnK6zs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "깡패시사",
+        "playlistId": "UUFLEjHbgyXqUKWBRn7F9rHg",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "X10e7AnK6zs"
+        },
+        "videoOwnerChannelTitle": "깡패시사",
+        "videoOwnerChannelId": "UCFLEjHbgyXqUKWBRn7F9rHg"
+      },
+      "contentDetails": {
+        "videoId": "X10e7AnK6zs",
+        "videoPublishedAt": "2020-12-22T09:00:09Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "FfUUYf2bZTyhO7nhbbAhAJ81HGs",
+      "id": "VVVGTEVqSGJneVhxVUtXQlJuN0Y5ckhnLndZNXVORHJSajlZ",
+      "snippet": {
+        "publishedAt": "2020-09-03T09:30:08Z",
+        "channelId": "UCFLEjHbgyXqUKWBRn7F9rHg",
+        "title": "숨기고 싶었던 \"결말 공개\" 갈때까지 갔다",
+        "description": "#깡패시사#비상사태\n\n동영상 공유는 동영상 업로드에 큰 도움이 됩니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wY5uNDrRj9Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wY5uNDrRj9Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wY5uNDrRj9Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wY5uNDrRj9Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "깡패시사",
+        "playlistId": "UUFLEjHbgyXqUKWBRn7F9rHg",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wY5uNDrRj9Y"
+        },
+        "videoOwnerChannelTitle": "깡패시사",
+        "videoOwnerChannelId": "UCFLEjHbgyXqUKWBRn7F9rHg"
+      },
+      "contentDetails": {
+        "videoId": "wY5uNDrRj9Y",
+        "videoPublishedAt": "2020-09-03T09:30:08Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8Bm7Bqnu1ls2T-41uRviLgYA8s8",
+      "id": "VVVGTEVqSGJneVhxVUtXQlJuN0Y5ckhnLnNmcDZmcUZqRmZJ",
+      "snippet": {
+        "publishedAt": "2020-09-02T09:00:36Z",
+        "channelId": "UCFLEjHbgyXqUKWBRn7F9rHg",
+        "title": "대한민국이 모르는 \"계획이 있었다\"",
+        "description": "#깡패시사#미국트럼프#북한김정은\n\n동영상 공유는 동영상 업로드에 큰 도움이 됩니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sfp6fqFjFfI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sfp6fqFjFfI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sfp6fqFjFfI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sfp6fqFjFfI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "깡패시사",
+        "playlistId": "UUFLEjHbgyXqUKWBRn7F9rHg",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "sfp6fqFjFfI"
+        },
+        "videoOwnerChannelTitle": "깡패시사",
+        "videoOwnerChannelId": "UCFLEjHbgyXqUKWBRn7F9rHg"
+      },
+      "contentDetails": {
+        "videoId": "sfp6fqFjFfI",
+        "videoPublishedAt": "2020-09-02T09:00:36Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "HDWwlCV4ZZ1xgRV6jDKUF3kKtq0",
+      "id": "VVVGTEVqSGJneVhxVUtXQlJuN0Y5ckhnLnpocFBCcGV6OGJ3",
+      "snippet": {
+        "publishedAt": "2020-07-01T10:00:19Z",
+        "channelId": "UCFLEjHbgyXqUKWBRn7F9rHg",
+        "title": "\"참을만큼 참았어\" 충격..!! 이번에는 잘못건드렸다.",
+        "description": "동영상 공유 및 좋아요,구독하기는 영상 업로드에 도움이 됩니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zhpPBpez8bw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zhpPBpez8bw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zhpPBpez8bw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zhpPBpez8bw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "깡패시사",
+        "playlistId": "UUFLEjHbgyXqUKWBRn7F9rHg",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zhpPBpez8bw"
+        },
+        "videoOwnerChannelTitle": "깡패시사",
+        "videoOwnerChannelId": "UCFLEjHbgyXqUKWBRn7F9rHg"
+      },
+      "contentDetails": {
+        "videoId": "zhpPBpez8bw",
+        "videoPublishedAt": "2020-07-01T10:00:19Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "kPTfVSy9h0m0CVu31gVyYORYVGQ",
+      "id": "VVVGTEVqSGJneVhxVUtXQlJuN0Y5ckhnLkFYZzZOUE1DUTJj",
+      "snippet": {
+        "publishedAt": "2020-04-24T10:00:04Z",
+        "channelId": "UCFLEjHbgyXqUKWBRn7F9rHg",
+        "title": "대한민국 문재인정부의 \"상처\" 그 비밀이 밝혀진다.",
+        "description": "비밀",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AXg6NPMCQ2c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AXg6NPMCQ2c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AXg6NPMCQ2c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AXg6NPMCQ2c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "깡패시사",
+        "playlistId": "UUFLEjHbgyXqUKWBRn7F9rHg",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "AXg6NPMCQ2c"
+        },
+        "videoOwnerChannelTitle": "깡패시사",
+        "videoOwnerChannelId": "UCFLEjHbgyXqUKWBRn7F9rHg"
+      },
+      "contentDetails": {
+        "videoId": "AXg6NPMCQ2c",
+        "videoPublishedAt": "2020-04-24T10:00:04Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "n39Cyg6vdAb512LKAXZSkhYgrJo",
+      "id": "VVVGTEVqSGJneVhxVUtXQlJuN0Y5ckhnLks5NjRHNFFvUG5R",
+      "snippet": {
+        "publishedAt": "2020-04-21T10:30:05Z",
+        "channelId": "UCFLEjHbgyXqUKWBRn7F9rHg",
+        "title": "\"새로운 실세등장\" 제발 한번만 도와주세요",
+        "description": "등장",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/K964G4QoPnQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/K964G4QoPnQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/K964G4QoPnQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/K964G4QoPnQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "깡패시사",
+        "playlistId": "UUFLEjHbgyXqUKWBRn7F9rHg",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "K964G4QoPnQ"
+        },
+        "videoOwnerChannelTitle": "깡패시사",
+        "videoOwnerChannelId": "UCFLEjHbgyXqUKWBRn7F9rHg"
+      },
+      "contentDetails": {
+        "videoId": "K964G4QoPnQ",
+        "videoPublishedAt": "2020-04-21T10:30:05Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "YXsHST9MoguMgjCOhPwufZCNZSU",
+      "id": "VVVGTEVqSGJneVhxVUtXQlJuN0Y5ckhnLmpDNlVOSGM1OEUw",
+      "snippet": {
+        "publishedAt": "2020-04-19T09:15:02Z",
+        "channelId": "UCFLEjHbgyXqUKWBRn7F9rHg",
+        "title": "윤석열 \"제대로 화났다\" 진짜는 지금부터!!",
+        "description": "비상사태",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jC6UNHc58E0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jC6UNHc58E0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jC6UNHc58E0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jC6UNHc58E0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "깡패시사",
+        "playlistId": "UUFLEjHbgyXqUKWBRn7F9rHg",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "jC6UNHc58E0"
+        },
+        "videoOwnerChannelTitle": "깡패시사",
+        "videoOwnerChannelId": "UCFLEjHbgyXqUKWBRn7F9rHg"
+      },
+      "contentDetails": {
+        "videoId": "jC6UNHc58E0",
+        "videoPublishedAt": "2020-04-19T09:15:02Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4roFQK12uxNV61_Rsih0gZgeTBo",
+      "id": "VVVGTEVqSGJneVhxVUtXQlJuN0Y5ckhnLjdGeFBaR0gxNldn",
+      "snippet": {
+        "publishedAt": "2020-04-17T10:00:06Z",
+        "channelId": "UCFLEjHbgyXqUKWBRn7F9rHg",
+        "title": "북한 김정은 이상행동시작",
+        "description": "비상사태",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7FxPZGH16Wg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7FxPZGH16Wg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7FxPZGH16Wg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7FxPZGH16Wg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "깡패시사",
+        "playlistId": "UUFLEjHbgyXqUKWBRn7F9rHg",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7FxPZGH16Wg"
+        },
+        "videoOwnerChannelTitle": "깡패시사",
+        "videoOwnerChannelId": "UCFLEjHbgyXqUKWBRn7F9rHg"
+      },
+      "contentDetails": {
+        "videoId": "7FxPZGH16Wg",
+        "videoPublishedAt": "2020-04-17T10:00:06Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "phhW_zDPal7FEmnCbhjHJkMgeEM",
+      "id": "VVVGTEVqSGJneVhxVUtXQlJuN0Y5ckhnLnRITHl3OHJkS2ln",
+      "snippet": {
+        "publishedAt": "2020-04-16T10:00:34Z",
+        "channelId": "UCFLEjHbgyXqUKWBRn7F9rHg",
+        "title": "문재인 정부도 예상하지 못했던 \"최후일격” 비상사태!! 무서운일이 벌어지고있다.",
+        "description": "비상사태",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tHLyw8rdKig/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tHLyw8rdKig/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tHLyw8rdKig/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tHLyw8rdKig/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "깡패시사",
+        "playlistId": "UUFLEjHbgyXqUKWBRn7F9rHg",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "tHLyw8rdKig"
+        },
+        "videoOwnerChannelTitle": "깡패시사",
+        "videoOwnerChannelId": "UCFLEjHbgyXqUKWBRn7F9rHg"
+      },
+      "contentDetails": {
+        "videoId": "tHLyw8rdKig",
+        "videoPublishedAt": "2020-04-16T10:00:34Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "BYxTwYeGpv4SESTohe3srHsrBJ0",
+      "id": "VVVGTEVqSGJneVhxVUtXQlJuN0Y5ckhnLjdQRWlKeEhYT0pZ",
+      "snippet": {
+        "publishedAt": "2019-03-18T10:30:00Z",
+        "channelId": "UCFLEjHbgyXqUKWBRn7F9rHg",
+        "title": "북한 김정은 \"더이상 참을수없어\" 비상사태!! 북한 내부에 수상한 움직임이 감지됐다.",
+        "description": "감지",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7PEiJxHXOJY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7PEiJxHXOJY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7PEiJxHXOJY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7PEiJxHXOJY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "깡패시사",
+        "playlistId": "UUFLEjHbgyXqUKWBRn7F9rHg",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7PEiJxHXOJY"
+        },
+        "videoOwnerChannelTitle": "깡패시사",
+        "videoOwnerChannelId": "UCFLEjHbgyXqUKWBRn7F9rHg"
+      },
+      "contentDetails": {
+        "videoId": "7PEiJxHXOJY",
+        "videoPublishedAt": "2019-03-18T10:30:00Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "SPfyY-yBBdiImDO1NhRkw-5ADns",
+      "id": "VVVGTEVqSGJneVhxVUtXQlJuN0Y5ckhnLndfQWlaTm9VYzVF",
+      "snippet": {
+        "publishedAt": "2019-03-17T10:00:11Z",
+        "channelId": "UCFLEjHbgyXqUKWBRn7F9rHg",
+        "title": "문재인 정부 드디어 터졌다. 충격적인 \"지지율의 진실\" 대한민국에 무서운일이 벌어지고있다.",
+        "description": "진실",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/w_AiZNoUc5E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/w_AiZNoUc5E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/w_AiZNoUc5E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/w_AiZNoUc5E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "깡패시사",
+        "playlistId": "UUFLEjHbgyXqUKWBRn7F9rHg",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "w_AiZNoUc5E"
+        },
+        "videoOwnerChannelTitle": "깡패시사",
+        "videoOwnerChannelId": "UCFLEjHbgyXqUKWBRn7F9rHg"
+      },
+      "contentDetails": {
+        "videoId": "w_AiZNoUc5E",
+        "videoPublishedAt": "2019-03-17T10:00:11Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "i55ryhRJnuVtlslgohUyA0jDXl8",
+      "id": "VVVGTEVqSGJneVhxVUtXQlJuN0Y5ckhnLlJhM2wyb25lS1NN",
+      "snippet": {
+        "publishedAt": "2019-03-15T10:00:07Z",
+        "channelId": "UCFLEjHbgyXqUKWBRn7F9rHg",
+        "title": "북한 김정은의 \"위험한 목적\" 드러나. 최후발악!! 미국 트럼프는 역시 누구와는달랐다.",
+        "description": "목적",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ra3l2oneKSM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ra3l2oneKSM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ra3l2oneKSM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ra3l2oneKSM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "깡패시사",
+        "playlistId": "UUFLEjHbgyXqUKWBRn7F9rHg",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Ra3l2oneKSM"
+        },
+        "videoOwnerChannelTitle": "깡패시사",
+        "videoOwnerChannelId": "UCFLEjHbgyXqUKWBRn7F9rHg"
+      },
+      "contentDetails": {
+        "videoId": "Ra3l2oneKSM",
+        "videoPublishedAt": "2019-03-15T10:00:07Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2T50iOJLYmbRMQ4QalOocxDXdZA",
+      "id": "VVVGTEVqSGJneVhxVUtXQlJuN0Y5ckhnLnpUNXJ1VERHNTI4",
+      "snippet": {
+        "publishedAt": "2019-03-14T10:00:10Z",
+        "channelId": "UCFLEjHbgyXqUKWBRn7F9rHg",
+        "title": "문재인 정부 큰일났다 \"강력한 한방\" 이번에는 잘못건드렸다.",
+        "description": "홈런",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zT5ruTDG528/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zT5ruTDG528/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zT5ruTDG528/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zT5ruTDG528/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "깡패시사",
+        "playlistId": "UUFLEjHbgyXqUKWBRn7F9rHg",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zT5ruTDG528"
+        },
+        "videoOwnerChannelTitle": "깡패시사",
+        "videoOwnerChannelId": "UCFLEjHbgyXqUKWBRn7F9rHg"
+      },
+      "contentDetails": {
+        "videoId": "zT5ruTDG528",
+        "videoPublishedAt": "2019-03-14T10:00:10Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "LxiWDUgeeDhWL1PAHJ1tdrfxeUU",
+      "id": "VVVGTEVqSGJneVhxVUtXQlJuN0Y5ckhnLkF0cWV1NjdUcktv",
+      "snippet": {
+        "publishedAt": "2019-03-13T10:00:00Z",
+        "channelId": "UCFLEjHbgyXqUKWBRn7F9rHg",
+        "title": "북한 김정은이 \"미쳤다\" 최악의 변화!! 북한 내부가 무너지고있다.",
+        "description": "변화",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Atqeu67TrKo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Atqeu67TrKo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Atqeu67TrKo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Atqeu67TrKo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "깡패시사",
+        "playlistId": "UUFLEjHbgyXqUKWBRn7F9rHg",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Atqeu67TrKo"
+        },
+        "videoOwnerChannelTitle": "깡패시사",
+        "videoOwnerChannelId": "UCFLEjHbgyXqUKWBRn7F9rHg"
+      },
+      "contentDetails": {
+        "videoId": "Atqeu67TrKo",
+        "videoPublishedAt": "2019-03-13T10:00:00Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "N8VHzKGzsoskjSTkHWTycH-26Hk",
+      "id": "VVVGTEVqSGJneVhxVUtXQlJuN0Y5ckhnLjVGUndJRmtsQWJV",
+      "snippet": {
+        "publishedAt": "2019-03-12T10:30:02Z",
+        "channelId": "UCFLEjHbgyXqUKWBRn7F9rHg",
+        "title": "미국 트럼프 \"강력한 한방\" 벼랑끝에 몰린 북한 김정은!! 그동안 참을만큼 참았다.",
+        "description": "한방",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5FRwIFklAbU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5FRwIFklAbU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5FRwIFklAbU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5FRwIFklAbU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "깡패시사",
+        "playlistId": "UUFLEjHbgyXqUKWBRn7F9rHg",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "5FRwIFklAbU"
+        },
+        "videoOwnerChannelTitle": "깡패시사",
+        "videoOwnerChannelId": "UCFLEjHbgyXqUKWBRn7F9rHg"
+      },
+      "contentDetails": {
+        "videoId": "5FRwIFklAbU",
+        "videoPublishedAt": "2019-03-12T10:30:02Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "9HFSjS-nDQjAjyWQSwi6X4M8-Aw",
+      "id": "VVVGTEVqSGJneVhxVUtXQlJuN0Y5ckhnLlp2cnNlWGJvUVpR",
+      "snippet": {
+        "publishedAt": "2019-02-20T10:00:10Z",
+        "channelId": "UCFLEjHbgyXqUKWBRn7F9rHg",
+        "title": "🔵문재인 정부를 향한 \"합리적 의심\" 드디어 터졌다. 초대형 프로젝트🔵",
+        "description": "초대형",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZvrseXboQZQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZvrseXboQZQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZvrseXboQZQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZvrseXboQZQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "깡패시사",
+        "playlistId": "UUFLEjHbgyXqUKWBRn7F9rHg",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ZvrseXboQZQ"
+        },
+        "videoOwnerChannelTitle": "깡패시사",
+        "videoOwnerChannelId": "UCFLEjHbgyXqUKWBRn7F9rHg"
+      },
+      "contentDetails": {
+        "videoId": "ZvrseXboQZQ",
+        "videoPublishedAt": "2019-02-20T10:00:10Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "44UZDVe4rMGOM7Oi_N_SZ7BsfME",
+      "id": "VVVGTEVqSGJneVhxVUtXQlJuN0Y5ckhnLmlnXzNJVk9CR2hJ",
+      "snippet": {
+        "publishedAt": "2019-02-17T11:00:10Z",
+        "channelId": "UCFLEjHbgyXqUKWBRn7F9rHg",
+        "title": "🔵문재인 정부가 놓친 \"한가지\" 이정도일줄은 몰랐다.🔵",
+        "description": "한가지",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ig_3IVOBGhI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ig_3IVOBGhI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ig_3IVOBGhI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ig_3IVOBGhI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "깡패시사",
+        "playlistId": "UUFLEjHbgyXqUKWBRn7F9rHg",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ig_3IVOBGhI"
+        },
+        "videoOwnerChannelTitle": "깡패시사",
+        "videoOwnerChannelId": "UCFLEjHbgyXqUKWBRn7F9rHg"
+      },
+      "contentDetails": {
+        "videoId": "ig_3IVOBGhI",
+        "videoPublishedAt": "2019-02-17T11:00:10Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "tqkRlM-sRu4Lj9gyLOl8fVy-J7o",
+      "id": "VVVGTEVqSGJneVhxVUtXQlJuN0Y5ckhnLmxxdlAtUnAzS2JJ",
+      "snippet": {
+        "publishedAt": "2019-02-12T10:00:05Z",
+        "channelId": "UCFLEjHbgyXqUKWBRn7F9rHg",
+        "title": "🔵북한 김정은 \"조력자 등장\"으로 북한 내부에 무서운일이 벌어졌다.🔵",
+        "description": "이상징후",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lqvP-Rp3KbI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lqvP-Rp3KbI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lqvP-Rp3KbI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lqvP-Rp3KbI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "깡패시사",
+        "playlistId": "UUFLEjHbgyXqUKWBRn7F9rHg",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "lqvP-Rp3KbI"
+        },
+        "videoOwnerChannelTitle": "깡패시사",
+        "videoOwnerChannelId": "UCFLEjHbgyXqUKWBRn7F9rHg"
+      },
+      "contentDetails": {
+        "videoId": "lqvP-Rp3KbI",
+        "videoPublishedAt": "2019-02-12T10:00:05Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "oGEcU0YqrRYPbe0-TbCDeN0F838",
+      "id": "VVVGTEVqSGJneVhxVUtXQlJuN0Y5ckhnLnB4VFpBZGRxTWtB",
+      "snippet": {
+        "publishedAt": "2019-02-11T06:00:02Z",
+        "channelId": "UCFLEjHbgyXqUKWBRn7F9rHg",
+        "title": "🔵김경수의 \"옥중메세지\"에 문재인 정부 긴장 시작🔵",
+        "description": "전달",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pxTZAddqMkA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pxTZAddqMkA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pxTZAddqMkA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pxTZAddqMkA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "깡패시사",
+        "playlistId": "UUFLEjHbgyXqUKWBRn7F9rHg",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "pxTZAddqMkA"
+        },
+        "videoOwnerChannelTitle": "깡패시사",
+        "videoOwnerChannelId": "UCFLEjHbgyXqUKWBRn7F9rHg"
+      },
+      "contentDetails": {
+        "videoId": "pxTZAddqMkA",
+        "videoPublishedAt": "2019-02-11T06:00:02Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "video_details": [
+    {
+      "kind": "youtube#video",
+      "etag": "KyD0RhVvaH_60zqlZFq5x3MhJ7g",
+      "id": "UyM3iP0H9Qk",
+      "snippet": {
+        "publishedAt": "2020-12-28T09:00:08Z",
+        "channelId": "UCFLEjHbgyXqUKWBRn7F9rHg",
+        "title": "문재인 \"급했나?\" 조력자 등장",
+        "description": "비상사태",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UyM3iP0H9Qk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UyM3iP0H9Qk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UyM3iP0H9Qk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UyM3iP0H9Qk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "깡패시사",
+        "categoryId": "25",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "문재인 \"급했나?\" 조력자 등장",
+          "description": "비상사태"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT8M36S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "2058",
+        "likeCount": "78",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Politics"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "문재인 \"급했나?\" 조력자 등장",
+          "description": "비상사태"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "hbqHCqJTVG1U0k8q70kbwoU3hU8",
+      "id": "_KRE1E4X5Us",
+      "snippet": {
+        "publishedAt": "2020-12-24T09:00:13Z",
+        "channelId": "UCFLEjHbgyXqUKWBRn7F9rHg",
+        "title": "\"말장난은 이제그만\"",
+        "description": "비상사태",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_KRE1E4X5Us/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_KRE1E4X5Us/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_KRE1E4X5Us/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_KRE1E4X5Us/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "깡패시사",
+        "categoryId": "25",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "\"말장난은 이제그만\"",
+          "description": "비상사태"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT8M30S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "815",
+        "likeCount": "51",
+        "favoriteCount": "0",
+        "commentCount": "10"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "\"말장난은 이제그만\"",
+          "description": "비상사태"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "QbEggLwImqZYUL0xLpxtTk0mHHI",
+      "id": "X10e7AnK6zs",
+      "snippet": {
+        "publishedAt": "2020-12-22T09:00:09Z",
+        "channelId": "UCFLEjHbgyXqUKWBRn7F9rHg",
+        "title": "\"그동안 죄송했습니다   \"",
+        "description": "비상사태",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/X10e7AnK6zs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/X10e7AnK6zs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/X10e7AnK6zs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/X10e7AnK6zs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "깡패시사",
+        "categoryId": "25",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "\"그동안 죄송했습니다   \"",
+          "description": "비상사태"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT6M52S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1429",
+        "likeCount": "75",
+        "favoriteCount": "0",
+        "commentCount": "2"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "\"그동안 죄송했습니다   \"",
+          "description": "비상사태"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Ybxocf6wWareucdJJON54xhbkjY",
+      "id": "wY5uNDrRj9Y",
+      "snippet": {
+        "publishedAt": "2020-09-03T09:30:08Z",
+        "channelId": "UCFLEjHbgyXqUKWBRn7F9rHg",
+        "title": "숨기고 싶었던 \"결말 공개\" 갈때까지 갔다",
+        "description": "#깡패시사#비상사태\n\n동영상 공유는 동영상 업로드에 큰 도움이 됩니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wY5uNDrRj9Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wY5uNDrRj9Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wY5uNDrRj9Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wY5uNDrRj9Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "깡패시사",
+        "categoryId": "25",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "숨기고 싶었던 \"결말 공개\" 갈때까지 갔다",
+          "description": "#깡패시사#비상사태\n\n동영상 공유는 동영상 업로드에 큰 도움이 됩니다."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT8M15S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1818",
+        "likeCount": "81",
+        "favoriteCount": "0",
+        "commentCount": "5"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Politics",
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "숨기고 싶었던 \"결말 공개\" 갈때까지 갔다",
+          "description": "#깡패시사#비상사태\n\n동영상 공유는 동영상 업로드에 큰 도움이 됩니다."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "cTWHyxVC-KmoXCgsdwgWvJ9lQuw",
+      "id": "sfp6fqFjFfI",
+      "snippet": {
+        "publishedAt": "2020-09-02T09:00:36Z",
+        "channelId": "UCFLEjHbgyXqUKWBRn7F9rHg",
+        "title": "대한민국이 모르는 \"계획이 있었다\"",
+        "description": "#깡패시사#미국트럼프#북한김정은\n\n동영상 공유는 동영상 업로드에 큰 도움이 됩니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sfp6fqFjFfI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sfp6fqFjFfI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sfp6fqFjFfI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sfp6fqFjFfI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "깡패시사",
+        "categoryId": "25",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "대한민국이 모르는 \"계획이 있었다\"",
+          "description": "#깡패시사#미국트럼프#북한김정은\n\n동영상 공유는 동영상 업로드에 큰 도움이 됩니다."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT8M7S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "3204",
+        "likeCount": "143",
+        "favoriteCount": "0",
+        "commentCount": "6"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Politics",
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "대한민국이 모르는 \"계획이 있었다\"",
+          "description": "#깡패시사#미국트럼프#북한김정은\n\n동영상 공유는 동영상 업로드에 큰 도움이 됩니다."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "2cQ-38zahZ6d40Rc_puzwklz5w8",
+      "id": "zhpPBpez8bw",
+      "snippet": {
+        "publishedAt": "2020-07-01T10:00:19Z",
+        "channelId": "UCFLEjHbgyXqUKWBRn7F9rHg",
+        "title": "\"참을만큼 참았어\" 충격..!! 이번에는 잘못건드렸다.",
+        "description": "동영상 공유 및 좋아요,구독하기는 영상 업로드에 도움이 됩니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zhpPBpez8bw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zhpPBpez8bw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zhpPBpez8bw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zhpPBpez8bw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "깡패시사",
+        "categoryId": "25",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "\"참을만큼 참았어\" 충격..!! 이번에는 잘못건드렸다.",
+          "description": "동영상 공유 및 좋아요,구독하기는 영상 업로드에 도움이 됩니다."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT10M3S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "2328",
+        "likeCount": "91",
+        "favoriteCount": "0",
+        "commentCount": "8"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Politics",
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "\"참을만큼 참았어\" 충격..!! 이번에는 잘못건드렸다.",
+          "description": "동영상 공유 및 좋아요,구독하기는 영상 업로드에 도움이 됩니다."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "F0L5P9LwurhvEYpF3FwkfRxvxFg",
+      "id": "AXg6NPMCQ2c",
+      "snippet": {
+        "publishedAt": "2020-04-24T10:00:04Z",
+        "channelId": "UCFLEjHbgyXqUKWBRn7F9rHg",
+        "title": "대한민국 문재인정부의 \"상처\" 그 비밀이 밝혀진다.",
+        "description": "비밀",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AXg6NPMCQ2c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AXg6NPMCQ2c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AXg6NPMCQ2c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AXg6NPMCQ2c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "깡패시사",
+        "categoryId": "25",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "대한민국 문재인정부의 \"상처\" 그 비밀이 밝혀진다.",
+          "description": "비밀"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT10M32S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "2942",
+        "likeCount": "194",
+        "favoriteCount": "0",
+        "commentCount": "7"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Politics",
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "대한민국 문재인정부의 \"상처\" 그 비밀이 밝혀진다.",
+          "description": "비밀"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "l8cEfjnVkfkMGHXUbWPU473UlEc",
+      "id": "K964G4QoPnQ",
+      "snippet": {
+        "publishedAt": "2020-04-21T10:30:05Z",
+        "channelId": "UCFLEjHbgyXqUKWBRn7F9rHg",
+        "title": "\"새로운 실세등장\" 제발 한번만 도와주세요",
+        "description": "등장",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/K964G4QoPnQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/K964G4QoPnQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/K964G4QoPnQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/K964G4QoPnQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "깡패시사",
+        "categoryId": "25",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "\"새로운 실세등장\" 제발 한번만 도와주세요",
+          "description": "등장"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT10M1S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "7504",
+        "likeCount": "275",
+        "favoriteCount": "0",
+        "commentCount": "11"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "\"새로운 실세등장\" 제발 한번만 도와주세요",
+          "description": "등장"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "3_EbXakatYWVL2geJw5twmFisSk",
+      "id": "jC6UNHc58E0",
+      "snippet": {
+        "publishedAt": "2020-04-19T09:15:02Z",
+        "channelId": "UCFLEjHbgyXqUKWBRn7F9rHg",
+        "title": "윤석열 \"제대로 화났다\" 진짜는 지금부터!!",
+        "description": "비상사태",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jC6UNHc58E0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jC6UNHc58E0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jC6UNHc58E0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jC6UNHc58E0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "깡패시사",
+        "categoryId": "25",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "윤석열 \"제대로 화났다\" 진짜는 지금부터!!",
+          "description": "비상사태"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT10M11S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "3914",
+        "likeCount": "284",
+        "favoriteCount": "0",
+        "commentCount": "8"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Politics",
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "윤석열 \"제대로 화났다\" 진짜는 지금부터!!",
+          "description": "비상사태"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "HXJVsJqFONSlxMjowSCbiSmXeAM",
+      "id": "7FxPZGH16Wg",
+      "snippet": {
+        "publishedAt": "2020-04-17T10:00:06Z",
+        "channelId": "UCFLEjHbgyXqUKWBRn7F9rHg",
+        "title": "북한 김정은 이상행동시작",
+        "description": "비상사태",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7FxPZGH16Wg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7FxPZGH16Wg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7FxPZGH16Wg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7FxPZGH16Wg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "깡패시사",
+        "categoryId": "25",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "북한 김정은 이상행동시작",
+          "description": "비상사태"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT10M5S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "7915",
+        "likeCount": "389",
+        "favoriteCount": "0",
+        "commentCount": "11"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Politics",
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "북한 김정은 이상행동시작",
+          "description": "비상사태"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "eHBz4zOfX575_Kbp7FNrFWQDqng",
+      "id": "tHLyw8rdKig",
+      "snippet": {
+        "publishedAt": "2020-04-16T10:00:34Z",
+        "channelId": "UCFLEjHbgyXqUKWBRn7F9rHg",
+        "title": "문재인 정부도 예상하지 못했던 \"최후일격” 비상사태!! 무서운일이 벌어지고있다.",
+        "description": "비상사태",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tHLyw8rdKig/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tHLyw8rdKig/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tHLyw8rdKig/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tHLyw8rdKig/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "깡패시사",
+        "categoryId": "25",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "문재인 정부도 예상하지 못했던 \"최후일격” 비상사태!! 무서운일이 벌어지고있다.",
+          "description": "비상사태"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT10M3S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "19762",
+        "likeCount": "1102",
+        "favoriteCount": "0",
+        "commentCount": "46"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Politics",
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "문재인 정부도 예상하지 못했던 \"최후일격” 비상사태!! 무서운일이 벌어지고있다.",
+          "description": "비상사태"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "twJPKSc_EqSJAcctj1IwTBbxbgg",
+      "id": "7PEiJxHXOJY",
+      "snippet": {
+        "publishedAt": "2019-03-18T10:30:00Z",
+        "channelId": "UCFLEjHbgyXqUKWBRn7F9rHg",
+        "title": "북한 김정은 \"더이상 참을수없어\" 비상사태!! 북한 내부에 수상한 움직임이 감지됐다.",
+        "description": "감지",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7PEiJxHXOJY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7PEiJxHXOJY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7PEiJxHXOJY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7PEiJxHXOJY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "깡패시사",
+        "categoryId": "25",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "북한 김정은 \"더이상 참을수없어\" 비상사태!! 북한 내부에 수상한 움직임이 감지됐다.",
+          "description": "감지"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT12M9S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "88030",
+        "likeCount": "1868",
+        "favoriteCount": "0",
+        "commentCount": "36"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Politics",
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "북한 김정은 \"더이상 참을수없어\" 비상사태!! 북한 내부에 수상한 움직임이 감지됐다.",
+          "description": "감지"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "H4kLg5mACBBfg14FU88DQbp7BRA",
+      "id": "w_AiZNoUc5E",
+      "snippet": {
+        "publishedAt": "2019-03-17T10:00:11Z",
+        "channelId": "UCFLEjHbgyXqUKWBRn7F9rHg",
+        "title": "문재인 정부 드디어 터졌다. 충격적인 \"지지율의 진실\" 대한민국에 무서운일이 벌어지고있다.",
+        "description": "진실",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/w_AiZNoUc5E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/w_AiZNoUc5E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/w_AiZNoUc5E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/w_AiZNoUc5E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "깡패시사",
+        "categoryId": "25",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "문재인 정부 드디어 터졌다. 충격적인 \"지지율의 진실\" 대한민국에 무서운일이 벌어지고있다.",
+          "description": "진실"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT10M21S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "144385",
+        "likeCount": "5895",
+        "favoriteCount": "0",
+        "commentCount": "230"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Politics",
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "문재인 정부 드디어 터졌다. 충격적인 \"지지율의 진실\" 대한민국에 무서운일이 벌어지고있다.",
+          "description": "진실"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "7ZWDrrSmxJaaESW7Rfj9cAJOv9w",
+      "id": "Ra3l2oneKSM",
+      "snippet": {
+        "publishedAt": "2019-03-15T10:00:07Z",
+        "channelId": "UCFLEjHbgyXqUKWBRn7F9rHg",
+        "title": "북한 김정은의 \"위험한 목적\" 드러나. 최후발악!! 미국 트럼프는 역시 누구와는달랐다.",
+        "description": "목적",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ra3l2oneKSM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ra3l2oneKSM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ra3l2oneKSM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ra3l2oneKSM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "깡패시사",
+        "categoryId": "25",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "북한 김정은의 \"위험한 목적\" 드러나. 최후발악!! 미국 트럼프는 역시 누구와는달랐다.",
+          "description": "목적"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT10M11S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "12128",
+        "likeCount": "262",
+        "favoriteCount": "0",
+        "commentCount": "10"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Politics",
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "북한 김정은의 \"위험한 목적\" 드러나. 최후발악!! 미국 트럼프는 역시 누구와는달랐다.",
+          "description": "목적"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "zkyUlYIk_fnHunyqqnA_dwDsLSg",
+      "id": "zT5ruTDG528",
+      "snippet": {
+        "publishedAt": "2019-03-14T10:00:10Z",
+        "channelId": "UCFLEjHbgyXqUKWBRn7F9rHg",
+        "title": "문재인 정부 큰일났다 \"강력한 한방\" 이번에는 잘못건드렸다.",
+        "description": "홈런",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zT5ruTDG528/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zT5ruTDG528/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zT5ruTDG528/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zT5ruTDG528/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "깡패시사",
+        "categoryId": "25",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "문재인 정부 큰일났다 \"강력한 한방\" 이번에는 잘못건드렸다.",
+          "description": "홈런"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT10M10S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "225879",
+        "likeCount": "6053",
+        "favoriteCount": "0",
+        "commentCount": "219"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Politics",
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "문재인 정부 큰일났다 \"강력한 한방\" 이번에는 잘못건드렸다.",
+          "description": "홈런"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "f2Be3WTcnDYKcE9-qYCBlXzWShg",
+      "id": "Atqeu67TrKo",
+      "snippet": {
+        "publishedAt": "2019-03-13T10:00:00Z",
+        "channelId": "UCFLEjHbgyXqUKWBRn7F9rHg",
+        "title": "북한 김정은이 \"미쳤다\" 최악의 변화!! 북한 내부가 무너지고있다.",
+        "description": "변화",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Atqeu67TrKo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Atqeu67TrKo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Atqeu67TrKo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Atqeu67TrKo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "깡패시사",
+        "categoryId": "25",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "북한 김정은이 \"미쳤다\" 최악의 변화!! 북한 내부가 무너지고있다.",
+          "description": "변화"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT9M13S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "115560",
+        "likeCount": "1749",
+        "favoriteCount": "0",
+        "commentCount": "37"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Politics",
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "북한 김정은이 \"미쳤다\" 최악의 변화!! 북한 내부가 무너지고있다.",
+          "description": "변화"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "j9foMfx0_RqFtiIlbQqyYR_niT8",
+      "id": "5FRwIFklAbU",
+      "snippet": {
+        "publishedAt": "2019-03-12T10:30:02Z",
+        "channelId": "UCFLEjHbgyXqUKWBRn7F9rHg",
+        "title": "미국 트럼프 \"강력한 한방\" 벼랑끝에 몰린 북한 김정은!! 그동안 참을만큼 참았다.",
+        "description": "한방",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5FRwIFklAbU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5FRwIFklAbU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5FRwIFklAbU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5FRwIFklAbU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "깡패시사",
+        "categoryId": "25",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "미국 트럼프 \"강력한 한방\" 벼랑끝에 몰린 북한 김정은!! 그동안 참을만큼 참았다.",
+          "description": "한방"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT10M20S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "2218",
+        "likeCount": "115",
+        "favoriteCount": "0",
+        "commentCount": "8"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Politics",
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "미국 트럼프 \"강력한 한방\" 벼랑끝에 몰린 북한 김정은!! 그동안 참을만큼 참았다.",
+          "description": "한방"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "_UBSxs1fWSAqSz5x_zWypsqp35c",
+      "id": "ZvrseXboQZQ",
+      "snippet": {
+        "publishedAt": "2019-02-20T10:00:10Z",
+        "channelId": "UCFLEjHbgyXqUKWBRn7F9rHg",
+        "title": "🔵문재인 정부를 향한 \"합리적 의심\" 드디어 터졌다. 초대형 프로젝트🔵",
+        "description": "초대형",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZvrseXboQZQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZvrseXboQZQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZvrseXboQZQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZvrseXboQZQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "깡패시사",
+        "categoryId": "25",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "🔵문재인 정부를 향한 \"합리적 의심\" 드디어 터졌다. 초대형 프로젝트🔵",
+          "description": "초대형"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT9M52S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "4209",
+        "likeCount": "157",
+        "favoriteCount": "0",
+        "commentCount": "11"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Politics",
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "🔵문재인 정부를 향한 \"합리적 의심\" 드디어 터졌다. 초대형 프로젝트🔵",
+          "description": "초대형"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "fcSh9wVXtvRyJFAtXz5RIb-b5R4",
+      "id": "ig_3IVOBGhI",
+      "snippet": {
+        "publishedAt": "2019-02-17T11:00:10Z",
+        "channelId": "UCFLEjHbgyXqUKWBRn7F9rHg",
+        "title": "🔵문재인 정부가 놓친 \"한가지\" 이정도일줄은 몰랐다.🔵",
+        "description": "한가지",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ig_3IVOBGhI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ig_3IVOBGhI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ig_3IVOBGhI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ig_3IVOBGhI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "깡패시사",
+        "categoryId": "25",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "🔵문재인 정부가 놓친 \"한가지\" 이정도일줄은 몰랐다.🔵",
+          "description": "한가지"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT9M20S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "8800",
+        "likeCount": "292",
+        "favoriteCount": "0",
+        "commentCount": "14"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Politics",
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "🔵문재인 정부가 놓친 \"한가지\" 이정도일줄은 몰랐다.🔵",
+          "description": "한가지"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "XfZJnQYn--5FrfWpZBMgIWbXSFA",
+      "id": "lqvP-Rp3KbI",
+      "snippet": {
+        "publishedAt": "2019-02-12T10:00:05Z",
+        "channelId": "UCFLEjHbgyXqUKWBRn7F9rHg",
+        "title": "🔵북한 김정은 \"조력자 등장\"으로 북한 내부에 무서운일이 벌어졌다.🔵",
+        "description": "이상징후",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lqvP-Rp3KbI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lqvP-Rp3KbI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lqvP-Rp3KbI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lqvP-Rp3KbI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "깡패시사",
+        "categoryId": "25",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "🔵북한 김정은 \"조력자 등장\"으로 북한 내부에 무서운일이 벌어졌다.🔵",
+          "description": "이상징후"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT5M25S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "192173",
+        "likeCount": "2298",
+        "favoriteCount": "0",
+        "commentCount": "81"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Politics",
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "🔵북한 김정은 \"조력자 등장\"으로 북한 내부에 무서운일이 벌어졌다.🔵",
+          "description": "이상징후"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "8wMgaeO7SomFtQuXrIQPWbJo6iA",
+      "id": "pxTZAddqMkA",
+      "snippet": {
+        "publishedAt": "2019-02-11T06:00:02Z",
+        "channelId": "UCFLEjHbgyXqUKWBRn7F9rHg",
+        "title": "🔵김경수의 \"옥중메세지\"에 문재인 정부 긴장 시작🔵",
+        "description": "전달",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pxTZAddqMkA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pxTZAddqMkA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pxTZAddqMkA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pxTZAddqMkA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "깡패시사",
+        "categoryId": "25",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "🔵김경수의 \"옥중메세지\"에 문재인 정부 긴장 시작🔵",
+          "description": "전달"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT7M50S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "15410",
+        "likeCount": "513",
+        "favoriteCount": "0",
+        "commentCount": "29"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Politics",
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "🔵김경수의 \"옥중메세지\"에 문재인 정부 긴장 시작🔵",
+          "description": "전달"
+        }
+      }
+    }
+  ]
+}

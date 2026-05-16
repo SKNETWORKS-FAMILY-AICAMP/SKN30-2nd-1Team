@@ -1,0 +1,4220 @@
+{
+  "idx": 2091,
+  "channel_id": "UCaA8e6V5BXmuIpaeI4wXvvw",
+  "channel_title": "꿀디TV",
+  "playlist_items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "LfBl93Joxjn0D7LTrAWCxuAPzWg",
+      "id": "VVVhQThlNlY1QlhtdUlwYWVJNHdYdnZ3LlZ5dzVmRW9BVDE0",
+      "snippet": {
+        "publishedAt": "2024-08-11T19:53:35Z",
+        "channelId": "UCaA8e6V5BXmuIpaeI4wXvvw",
+        "title": "소드오브콘발라리아 80년대 감성 SRPG 공략",
+        "description": "This stream is created with #PRISMLiveStudio",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Vyw5fEoAT14/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Vyw5fEoAT14/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Vyw5fEoAT14/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "꿀디TV",
+        "playlistId": "UUaA8e6V5BXmuIpaeI4wXvvw",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Vyw5fEoAT14"
+        },
+        "videoOwnerChannelTitle": "꿀디TV",
+        "videoOwnerChannelId": "UCaA8e6V5BXmuIpaeI4wXvvw"
+      },
+      "contentDetails": {
+        "videoId": "Vyw5fEoAT14",
+        "videoPublishedAt": "2024-08-11T19:53:35Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_d9l8ebTJK_Mi6X4IBBCm-N0ktw",
+      "id": "VVVhQThlNlY1QlhtdUlwYWVJNHdYdnZ3Ll9RX1ZnbmUydHdj",
+      "snippet": {
+        "publishedAt": "2024-08-11T06:18:08Z",
+        "channelId": "UCaA8e6V5BXmuIpaeI4wXvvw",
+        "title": "소드오브콘발라리아 80년대 감성 SRPG 공략",
+        "description": "This stream is created with #PRISMLiveStudio",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_Q_Vgne2twc/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_Q_Vgne2twc/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_Q_Vgne2twc/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "꿀디TV",
+        "playlistId": "UUaA8e6V5BXmuIpaeI4wXvvw",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_Q_Vgne2twc"
+        },
+        "videoOwnerChannelTitle": "꿀디TV",
+        "videoOwnerChannelId": "UCaA8e6V5BXmuIpaeI4wXvvw"
+      },
+      "contentDetails": {
+        "videoId": "_Q_Vgne2twc",
+        "videoPublishedAt": "2024-08-11T06:18:08Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "1A_bYbVJK1svzsunSnuPyoVYjec",
+      "id": "VVVhQThlNlY1QlhtdUlwYWVJNHdYdnZ3LjY5VlE1d3ZIQnU4",
+      "snippet": {
+        "publishedAt": "2024-08-04T22:42:02Z",
+        "channelId": "UCaA8e6V5BXmuIpaeI4wXvvw",
+        "title": "소드오브콘발라리아 무과금 베이라 스타트",
+        "description": "This stream is created with #PRISMLiveStudio",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/69VQ5wvHBu8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/69VQ5wvHBu8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/69VQ5wvHBu8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "꿀디TV",
+        "playlistId": "UUaA8e6V5BXmuIpaeI4wXvvw",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "69VQ5wvHBu8"
+        },
+        "videoOwnerChannelTitle": "꿀디TV",
+        "videoOwnerChannelId": "UCaA8e6V5BXmuIpaeI4wXvvw"
+      },
+      "contentDetails": {
+        "videoId": "69VQ5wvHBu8",
+        "videoPublishedAt": "2024-08-04T22:42:02Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ni2TpUXSJ48GHisPlMgnLUq5usM",
+      "id": "VVVhQThlNlY1QlhtdUlwYWVJNHdYdnZ3LllmSnlYalNKdVlZ",
+      "snippet": {
+        "publishedAt": "2024-08-04T10:07:57Z",
+        "channelId": "UCaA8e6V5BXmuIpaeI4wXvvw",
+        "title": "소드오브콘발라리아 운명의소용돌이 심층조사 클리어 방법",
+        "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YfJyXjSJuYY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YfJyXjSJuYY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YfJyXjSJuYY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YfJyXjSJuYY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YfJyXjSJuYY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "꿀디TV",
+        "playlistId": "UUaA8e6V5BXmuIpaeI4wXvvw",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "YfJyXjSJuYY"
+        },
+        "videoOwnerChannelTitle": "꿀디TV",
+        "videoOwnerChannelId": "UCaA8e6V5BXmuIpaeI4wXvvw"
+      },
+      "contentDetails": {
+        "videoId": "YfJyXjSJuYY",
+        "videoPublishedAt": "2024-08-04T10:07:57Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "OvA8EB2AvYjtR_j2MS0w1pmHg_c",
+      "id": "VVVhQThlNlY1QlhtdUlwYWVJNHdYdnZ3LmNsbHJQVHNVeUdR",
+      "snippet": {
+        "publishedAt": "2024-07-24T09:00:35Z",
+        "channelId": "UCaA8e6V5BXmuIpaeI4wXvvw",
+        "title": "갓레이드 계정레벨 빠르게 올리는 방법!?",
+        "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cllrPTsUyGQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cllrPTsUyGQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cllrPTsUyGQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cllrPTsUyGQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cllrPTsUyGQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "꿀디TV",
+        "playlistId": "UUaA8e6V5BXmuIpaeI4wXvvw",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "cllrPTsUyGQ"
+        },
+        "videoOwnerChannelTitle": "꿀디TV",
+        "videoOwnerChannelId": "UCaA8e6V5BXmuIpaeI4wXvvw"
+      },
+      "contentDetails": {
+        "videoId": "cllrPTsUyGQ",
+        "videoPublishedAt": "2024-07-24T09:00:35Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "qz4U5MGO_aYeI5f5IHA2xvSe61A",
+      "id": "VVVhQThlNlY1QlhtdUlwYWVJNHdYdnZ3Lkl5THlaaGxHa2tr",
+      "snippet": {
+        "publishedAt": "2024-07-21T07:35:19Z",
+        "channelId": "UCaA8e6V5BXmuIpaeI4wXvvw",
+        "title": "갓레이드 그냥 패면 절대 안죽는 비다르 공략법!!",
+        "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IyLyZhlGkkk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IyLyZhlGkkk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IyLyZhlGkkk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IyLyZhlGkkk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IyLyZhlGkkk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "꿀디TV",
+        "playlistId": "UUaA8e6V5BXmuIpaeI4wXvvw",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "IyLyZhlGkkk"
+        },
+        "videoOwnerChannelTitle": "꿀디TV",
+        "videoOwnerChannelId": "UCaA8e6V5BXmuIpaeI4wXvvw"
+      },
+      "contentDetails": {
+        "videoId": "IyLyZhlGkkk",
+        "videoPublishedAt": "2024-07-21T07:35:19Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ZVmmxB7eXL_eWL-PuhnF2OjtIfo",
+      "id": "VVVhQThlNlY1QlhtdUlwYWVJNHdYdnZ3LlB0QmllemQxNmNZ",
+      "snippet": {
+        "publishedAt": "2024-07-17T09:00:21Z",
+        "channelId": "UCaA8e6V5BXmuIpaeI4wXvvw",
+        "title": "갓레이드 영웅등급표 준비해보았습니다.",
+        "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PtBiezd16cY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PtBiezd16cY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PtBiezd16cY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PtBiezd16cY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PtBiezd16cY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "꿀디TV",
+        "playlistId": "UUaA8e6V5BXmuIpaeI4wXvvw",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "PtBiezd16cY"
+        },
+        "videoOwnerChannelTitle": "꿀디TV",
+        "videoOwnerChannelId": "UCaA8e6V5BXmuIpaeI4wXvvw"
+      },
+      "contentDetails": {
+        "videoId": "PtBiezd16cY",
+        "videoPublishedAt": "2024-07-17T09:00:21Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "yrOCbWkOIR_eSX3uIrLTwMoP_B4",
+      "id": "VVVhQThlNlY1QlhtdUlwYWVJNHdYdnZ3Lk5TUUFTVzFaTlhZ",
+      "snippet": {
+        "publishedAt": "2024-07-14T10:32:11Z",
+        "channelId": "UCaA8e6V5BXmuIpaeI4wXvvw",
+        "title": "이번에는 친업 정수리 탈모오나ㅜㅜ아빠 비켜",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NSQASW1ZNXY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NSQASW1ZNXY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NSQASW1ZNXY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NSQASW1ZNXY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NSQASW1ZNXY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "꿀디TV",
+        "playlistId": "UUaA8e6V5BXmuIpaeI4wXvvw",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NSQASW1ZNXY"
+        },
+        "videoOwnerChannelTitle": "꿀디TV",
+        "videoOwnerChannelId": "UCaA8e6V5BXmuIpaeI4wXvvw"
+      },
+      "contentDetails": {
+        "videoId": "NSQASW1ZNXY",
+        "videoPublishedAt": "2024-07-14T10:32:11Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "E0qFcc2ReA6sdKYmRM9LUMY6OKc",
+      "id": "VVVhQThlNlY1QlhtdUlwYWVJNHdYdnZ3Lkp1Q1NZNVVrX2pB",
+      "snippet": {
+        "publishedAt": "2024-07-13T04:00:12Z",
+        "channelId": "UCaA8e6V5BXmuIpaeI4wXvvw",
+        "title": "통곡의벽을 넘어볼까요? 캠페인 혼돈 6-3 클리어 도전",
+        "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JuCSY5Uk_jA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JuCSY5Uk_jA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JuCSY5Uk_jA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JuCSY5Uk_jA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JuCSY5Uk_jA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "꿀디TV",
+        "playlistId": "UUaA8e6V5BXmuIpaeI4wXvvw",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "JuCSY5Uk_jA"
+        },
+        "videoOwnerChannelTitle": "꿀디TV",
+        "videoOwnerChannelId": "UCaA8e6V5BXmuIpaeI4wXvvw"
+      },
+      "contentDetails": {
+        "videoId": "JuCSY5Uk_jA",
+        "videoPublishedAt": "2024-07-13T04:00:12Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3heaEsWPBHRZStmY_m0Z53Btc04",
+      "id": "VVVhQThlNlY1QlhtdUlwYWVJNHdYdnZ3Lnh0NzFhQmZMSUl3",
+      "snippet": {
+        "publishedAt": "2024-07-10T09:00:55Z",
+        "channelId": "UCaA8e6V5BXmuIpaeI4wXvvw",
+        "title": "저주 받은 내 계정...이런 영웅을 키우게 될 줄이야...ㅠㅠ",
+        "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xt71aBfLIIw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xt71aBfLIIw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xt71aBfLIIw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xt71aBfLIIw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xt71aBfLIIw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "꿀디TV",
+        "playlistId": "UUaA8e6V5BXmuIpaeI4wXvvw",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "xt71aBfLIIw"
+        },
+        "videoOwnerChannelTitle": "꿀디TV",
+        "videoOwnerChannelId": "UCaA8e6V5BXmuIpaeI4wXvvw"
+      },
+      "contentDetails": {
+        "videoId": "xt71aBfLIIw",
+        "videoPublishedAt": "2024-07-10T09:00:55Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "gMNpuYdTkNy6YjmoUzXIZ7iFEaw",
+      "id": "VVVhQThlNlY1QlhtdUlwYWVJNHdYdnZ3LkhkbklQVGYwSDZr",
+      "snippet": {
+        "publishedAt": "2024-07-07T12:47:56Z",
+        "channelId": "UCaA8e6V5BXmuIpaeI4wXvvw",
+        "title": "오크 최강 딜러는 누구일까...?",
+        "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HdnIPTf0H6k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HdnIPTf0H6k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HdnIPTf0H6k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HdnIPTf0H6k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HdnIPTf0H6k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "꿀디TV",
+        "playlistId": "UUaA8e6V5BXmuIpaeI4wXvvw",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "HdnIPTf0H6k"
+        },
+        "videoOwnerChannelTitle": "꿀디TV",
+        "videoOwnerChannelId": "UCaA8e6V5BXmuIpaeI4wXvvw"
+      },
+      "contentDetails": {
+        "videoId": "HdnIPTf0H6k",
+        "videoPublishedAt": "2024-07-07T12:47:56Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "9hR6Tnb8BC7S4DIejzC7Fdyjkhs",
+      "id": "VVVhQThlNlY1QlhtdUlwYWVJNHdYdnZ3LlM1Smx4UVh5dV9z",
+      "snippet": {
+        "publishedAt": "2024-06-30T08:19:43Z",
+        "channelId": "UCaA8e6V5BXmuIpaeI4wXvvw",
+        "title": "필수 영웅 밴시 분신술 활용하기ㅋㅋㅋ",
+        "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/S5JlxQXyu_s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/S5JlxQXyu_s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/S5JlxQXyu_s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/S5JlxQXyu_s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/S5JlxQXyu_s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "꿀디TV",
+        "playlistId": "UUaA8e6V5BXmuIpaeI4wXvvw",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "S5JlxQXyu_s"
+        },
+        "videoOwnerChannelTitle": "꿀디TV",
+        "videoOwnerChannelId": "UCaA8e6V5BXmuIpaeI4wXvvw"
+      },
+      "contentDetails": {
+        "videoId": "S5JlxQXyu_s",
+        "videoPublishedAt": "2024-06-30T08:19:43Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "O5cq5LBOaC5kduFUETQP8skHyr8",
+      "id": "VVVhQThlNlY1QlhtdUlwYWVJNHdYdnZ3LmlLeFdsWU1xWXlR",
+      "snippet": {
+        "publishedAt": "2024-06-27T11:56:25Z",
+        "channelId": "UCaA8e6V5BXmuIpaeI4wXvvw",
+        "title": "갓레이드 캠페인 무한자동사냥이 가능하다구??",
+        "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iKxWlYMqYyQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iKxWlYMqYyQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iKxWlYMqYyQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iKxWlYMqYyQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iKxWlYMqYyQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "꿀디TV",
+        "playlistId": "UUaA8e6V5BXmuIpaeI4wXvvw",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "iKxWlYMqYyQ"
+        },
+        "videoOwnerChannelTitle": "꿀디TV",
+        "videoOwnerChannelId": "UCaA8e6V5BXmuIpaeI4wXvvw"
+      },
+      "contentDetails": {
+        "videoId": "iKxWlYMqYyQ",
+        "videoPublishedAt": "2024-06-27T11:56:25Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "d2KGXAAsNPsrVq-YTAq4BJRRxHM",
+      "id": "VVVhQThlNlY1QlhtdUlwYWVJNHdYdnZ3LmxicGRpaV9OMGZF",
+      "snippet": {
+        "publishedAt": "2024-06-22T08:24:35Z",
+        "channelId": "UCaA8e6V5BXmuIpaeI4wXvvw",
+        "title": "신화 영웅 브륀힐드 + 절대 신 로키!!",
+        "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lbpdii_N0fE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lbpdii_N0fE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lbpdii_N0fE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lbpdii_N0fE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lbpdii_N0fE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "꿀디TV",
+        "playlistId": "UUaA8e6V5BXmuIpaeI4wXvvw",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "lbpdii_N0fE"
+        },
+        "videoOwnerChannelTitle": "꿀디TV",
+        "videoOwnerChannelId": "UCaA8e6V5BXmuIpaeI4wXvvw"
+      },
+      "contentDetails": {
+        "videoId": "lbpdii_N0fE",
+        "videoPublishedAt": "2024-06-22T08:24:35Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "KO3pKRW87NjH8g3LU0gLUkShdrk",
+      "id": "VVVhQThlNlY1QlhtdUlwYWVJNHdYdnZ3LlpRSjFZR2c5MFdv",
+      "snippet": {
+        "publishedAt": "2024-06-16T11:36:24Z",
+        "channelId": "UCaA8e6V5BXmuIpaeI4wXvvw",
+        "title": "30대 후반 아재의 흔한 풀업",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZQJ1YGg90Wo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZQJ1YGg90Wo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZQJ1YGg90Wo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZQJ1YGg90Wo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZQJ1YGg90Wo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "꿀디TV",
+        "playlistId": "UUaA8e6V5BXmuIpaeI4wXvvw",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ZQJ1YGg90Wo"
+        },
+        "videoOwnerChannelTitle": "꿀디TV",
+        "videoOwnerChannelId": "UCaA8e6V5BXmuIpaeI4wXvvw"
+      },
+      "contentDetails": {
+        "videoId": "ZQJ1YGg90Wo",
+        "videoPublishedAt": "2024-06-16T11:36:24Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "w5_RVrqK1J3oNZqGdiIN4SZNGgE",
+      "id": "VVVhQThlNlY1QlhtdUlwYWVJNHdYdnZ3LlJEa05OMHhoZGg4",
+      "snippet": {
+        "publishedAt": "2024-06-16T07:23:44Z",
+        "channelId": "UCaA8e6V5BXmuIpaeI4wXvvw",
+        "title": "신 영웅 레미엘 스킬 활용하여 2회 부활 아레나 깨부수기",
+        "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RDkNN0xhdh8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RDkNN0xhdh8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RDkNN0xhdh8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RDkNN0xhdh8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RDkNN0xhdh8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "꿀디TV",
+        "playlistId": "UUaA8e6V5BXmuIpaeI4wXvvw",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "RDkNN0xhdh8"
+        },
+        "videoOwnerChannelTitle": "꿀디TV",
+        "videoOwnerChannelId": "UCaA8e6V5BXmuIpaeI4wXvvw"
+      },
+      "contentDetails": {
+        "videoId": "RDkNN0xhdh8",
+        "videoPublishedAt": "2024-06-16T07:23:44Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "AYvGl-og-Hdm7zSbu-drjsGImcA",
+      "id": "VVVhQThlNlY1QlhtdUlwYWVJNHdYdnZ3LmFTZGhiSmVDWmtj",
+      "snippet": {
+        "publishedAt": "2024-06-10T09:00:03Z",
+        "channelId": "UCaA8e6V5BXmuIpaeI4wXvvw",
+        "title": "최고의 갑옷을 뽑아보자! 타르타로스 불사갑옷 뽑기",
+        "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aSdhbJeCZkc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aSdhbJeCZkc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aSdhbJeCZkc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aSdhbJeCZkc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aSdhbJeCZkc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "꿀디TV",
+        "playlistId": "UUaA8e6V5BXmuIpaeI4wXvvw",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "aSdhbJeCZkc"
+        },
+        "videoOwnerChannelTitle": "꿀디TV",
+        "videoOwnerChannelId": "UCaA8e6V5BXmuIpaeI4wXvvw"
+      },
+      "contentDetails": {
+        "videoId": "aSdhbJeCZkc",
+        "videoPublishedAt": "2024-06-10T09:00:03Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zVTynIpYxVtXxoc0N7VZGEqJhf4",
+      "id": "VVVhQThlNlY1QlhtdUlwYWVJNHdYdnZ3LnlYYVJ1QmgzMzVr",
+      "snippet": {
+        "publishedAt": "2024-06-07T08:36:32Z",
+        "channelId": "UCaA8e6V5BXmuIpaeI4wXvvw",
+        "title": "어렵게 준비했습니다...신화영웅 합성 무려 7회...계정의 운명은...?",
+        "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yXaRuBh335k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yXaRuBh335k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yXaRuBh335k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yXaRuBh335k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yXaRuBh335k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "꿀디TV",
+        "playlistId": "UUaA8e6V5BXmuIpaeI4wXvvw",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "yXaRuBh335k"
+        },
+        "videoOwnerChannelTitle": "꿀디TV",
+        "videoOwnerChannelId": "UCaA8e6V5BXmuIpaeI4wXvvw"
+      },
+      "contentDetails": {
+        "videoId": "yXaRuBh335k",
+        "videoPublishedAt": "2024-06-07T08:36:32Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "QEexpxtrzOFVt5dauwWAeqB0JtE",
+      "id": "VVVhQThlNlY1QlhtdUlwYWVJNHdYdnZ3LjBKT0IyaFlaSThF",
+      "snippet": {
+        "publishedAt": "2024-05-20T03:30:00Z",
+        "channelId": "UCaA8e6V5BXmuIpaeI4wXvvw",
+        "title": "끝없는 영웅의 성장...영웅 각성 하기!",
+        "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0JOB2hYZI8E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0JOB2hYZI8E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0JOB2hYZI8E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0JOB2hYZI8E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0JOB2hYZI8E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "꿀디TV",
+        "playlistId": "UUaA8e6V5BXmuIpaeI4wXvvw",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0JOB2hYZI8E"
+        },
+        "videoOwnerChannelTitle": "꿀디TV",
+        "videoOwnerChannelId": "UCaA8e6V5BXmuIpaeI4wXvvw"
+      },
+      "contentDetails": {
+        "videoId": "0JOB2hYZI8E",
+        "videoPublishedAt": "2024-05-20T03:30:00Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "HGaTDFJ3AlbyJxuW8xajl5BG8bI",
+      "id": "VVVhQThlNlY1QlhtdUlwYWVJNHdYdnZ3LndvTFNKazRwVVdV",
+      "snippet": {
+        "publishedAt": "2024-05-19T11:10:00Z",
+        "channelId": "UCaA8e6V5BXmuIpaeI4wXvvw",
+        "title": "고대 신 아레스 활용으로 지옥 난이도 올클 도전!!",
+        "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/woLSJk4pUWU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/woLSJk4pUWU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/woLSJk4pUWU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/woLSJk4pUWU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/woLSJk4pUWU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "꿀디TV",
+        "playlistId": "UUaA8e6V5BXmuIpaeI4wXvvw",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "woLSJk4pUWU"
+        },
+        "videoOwnerChannelTitle": "꿀디TV",
+        "videoOwnerChannelId": "UCaA8e6V5BXmuIpaeI4wXvvw"
+      },
+      "contentDetails": {
+        "videoId": "woLSJk4pUWU",
+        "videoPublishedAt": "2024-05-19T11:10:00Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ATk68EQJoTZgn_TfF34QGOZXia0",
+      "id": "VVVhQThlNlY1QlhtdUlwYWVJNHdYdnZ3LlBhaTFhRGhJMU1Z",
+      "snippet": {
+        "publishedAt": "2024-05-17T08:00:23Z",
+        "channelId": "UCaA8e6V5BXmuIpaeI4wXvvw",
+        "title": "갓레이드 마스터리 작업 꿀팁! 약간의 다이아 필요ㅠㅠ",
+        "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Pai1aDhI1MY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Pai1aDhI1MY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Pai1aDhI1MY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Pai1aDhI1MY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Pai1aDhI1MY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "꿀디TV",
+        "playlistId": "UUaA8e6V5BXmuIpaeI4wXvvw",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Pai1aDhI1MY"
+        },
+        "videoOwnerChannelTitle": "꿀디TV",
+        "videoOwnerChannelId": "UCaA8e6V5BXmuIpaeI4wXvvw"
+      },
+      "contentDetails": {
+        "videoId": "Pai1aDhI1MY",
+        "videoPublishedAt": "2024-05-17T08:00:23Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "W2m1lTw7wrqMalictvRvfqqHaic",
+      "id": "VVVhQThlNlY1QlhtdUlwYWVJNHdYdnZ3Lldzd2dnX1ZSOW5j",
+      "snippet": {
+        "publishedAt": "2024-05-15T09:19:30Z",
+        "channelId": "UCaA8e6V5BXmuIpaeI4wXvvw",
+        "title": "갓레이드 혜자 이벤트! 아이템 교환 우선 순위 알려드립니다",
+        "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Wswgg_VR9nc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Wswgg_VR9nc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Wswgg_VR9nc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Wswgg_VR9nc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Wswgg_VR9nc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "꿀디TV",
+        "playlistId": "UUaA8e6V5BXmuIpaeI4wXvvw",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Wswgg_VR9nc"
+        },
+        "videoOwnerChannelTitle": "꿀디TV",
+        "videoOwnerChannelId": "UCaA8e6V5BXmuIpaeI4wXvvw"
+      },
+      "contentDetails": {
+        "videoId": "Wswgg_VR9nc",
+        "videoPublishedAt": "2024-05-15T09:19:30Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "D2KpcoGeBDRNMEm3vjhiqm5FIj4",
+      "id": "VVVhQThlNlY1QlhtdUlwYWVJNHdYdnZ3Lm82aXh3dEdJc2c0",
+      "snippet": {
+        "publishedAt": "2024-05-12T10:39:56Z",
+        "channelId": "UCaA8e6V5BXmuIpaeI4wXvvw",
+        "title": "이것이 바로 하데스다...",
+        "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/o6ixwtGIsg4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/o6ixwtGIsg4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/o6ixwtGIsg4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/o6ixwtGIsg4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/o6ixwtGIsg4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "꿀디TV",
+        "playlistId": "UUaA8e6V5BXmuIpaeI4wXvvw",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "o6ixwtGIsg4"
+        },
+        "videoOwnerChannelTitle": "꿀디TV",
+        "videoOwnerChannelId": "UCaA8e6V5BXmuIpaeI4wXvvw"
+      },
+      "contentDetails": {
+        "videoId": "o6ixwtGIsg4",
+        "videoPublishedAt": "2024-05-12T10:39:56Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "xtD3XZLDf0hKkCuJ475yuzMThCQ",
+      "id": "VVVhQThlNlY1QlhtdUlwYWVJNHdYdnZ3LnprUGhzYUR2THRV",
+      "snippet": {
+        "publishedAt": "2024-05-05T12:46:45Z",
+        "channelId": "UCaA8e6V5BXmuIpaeI4wXvvw",
+        "title": "영웅뽑기 10회권 공유합니다! 유효기간 5월9일까지...두 번째 신화 영웅, 절대 신 뽑기",
+        "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zkPhsaDvLtU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zkPhsaDvLtU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zkPhsaDvLtU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zkPhsaDvLtU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zkPhsaDvLtU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "꿀디TV",
+        "playlistId": "UUaA8e6V5BXmuIpaeI4wXvvw",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zkPhsaDvLtU"
+        },
+        "videoOwnerChannelTitle": "꿀디TV",
+        "videoOwnerChannelId": "UCaA8e6V5BXmuIpaeI4wXvvw"
+      },
+      "contentDetails": {
+        "videoId": "zkPhsaDvLtU",
+        "videoPublishedAt": "2024-05-05T12:46:45Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "isogMHdtnTctdJnFjVc91AozQMw",
+      "id": "VVVhQThlNlY1QlhtdUlwYWVJNHdYdnZ3LkdrNVVwdHc2d3pN",
+      "snippet": {
+        "publishedAt": "2024-04-29T07:00:07Z",
+        "channelId": "UCaA8e6V5BXmuIpaeI4wXvvw",
+        "title": "전설 최강 힐러 신성 사제",
+        "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Gk5Uptw6wzM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Gk5Uptw6wzM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Gk5Uptw6wzM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Gk5Uptw6wzM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Gk5Uptw6wzM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "꿀디TV",
+        "playlistId": "UUaA8e6V5BXmuIpaeI4wXvvw",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Gk5Uptw6wzM"
+        },
+        "videoOwnerChannelTitle": "꿀디TV",
+        "videoOwnerChannelId": "UCaA8e6V5BXmuIpaeI4wXvvw"
+      },
+      "contentDetails": {
+        "videoId": "Gk5Uptw6wzM",
+        "videoPublishedAt": "2024-04-29T07:00:07Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4dehgv9nFIWVA47syXDAfIu_2ao",
+      "id": "VVVhQThlNlY1QlhtdUlwYWVJNHdYdnZ3LlltZXNmbG81UDBF",
+      "snippet": {
+        "publishedAt": "2024-04-28T01:00:15Z",
+        "channelId": "UCaA8e6V5BXmuIpaeI4wXvvw",
+        "title": "에스더 리뷰! 요거 뽑으면 게임이 편해집니다.",
+        "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ymesflo5P0E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ymesflo5P0E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ymesflo5P0E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ymesflo5P0E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Ymesflo5P0E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "꿀디TV",
+        "playlistId": "UUaA8e6V5BXmuIpaeI4wXvvw",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Ymesflo5P0E"
+        },
+        "videoOwnerChannelTitle": "꿀디TV",
+        "videoOwnerChannelId": "UCaA8e6V5BXmuIpaeI4wXvvw"
+      },
+      "contentDetails": {
+        "videoId": "Ymesflo5P0E",
+        "videoPublishedAt": "2024-04-28T01:00:15Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Qzigw4EUGLT1cjzojTzK0aji0DE",
+      "id": "VVVhQThlNlY1QlhtdUlwYWVJNHdYdnZ3LjRfSkFRcWZ1XzBV",
+      "snippet": {
+        "publishedAt": "2024-04-27T06:50:59Z",
+        "channelId": "UCaA8e6V5BXmuIpaeI4wXvvw",
+        "title": "첫 신화 영웅 합성`-`",
+        "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4_JAQqfu_0U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4_JAQqfu_0U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4_JAQqfu_0U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4_JAQqfu_0U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4_JAQqfu_0U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "꿀디TV",
+        "playlistId": "UUaA8e6V5BXmuIpaeI4wXvvw",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4_JAQqfu_0U"
+        },
+        "videoOwnerChannelTitle": "꿀디TV",
+        "videoOwnerChannelId": "UCaA8e6V5BXmuIpaeI4wXvvw"
+      },
+      "contentDetails": {
+        "videoId": "4_JAQqfu_0U",
+        "videoPublishedAt": "2024-04-27T06:50:59Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "OzP0E5_beQE0rihhkxYp7MpAj-E",
+      "id": "VVVhQThlNlY1QlhtdUlwYWVJNHdYdnZ3Li1ZcWc2MnU2NHlB",
+      "snippet": {
+        "publishedAt": "2024-04-24T07:00:00Z",
+        "channelId": "UCaA8e6V5BXmuIpaeI4wXvvw",
+        "title": "갓레이드 절대 신 제우스",
+        "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-Yqg62u64yA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-Yqg62u64yA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-Yqg62u64yA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-Yqg62u64yA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-Yqg62u64yA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "꿀디TV",
+        "playlistId": "UUaA8e6V5BXmuIpaeI4wXvvw",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-Yqg62u64yA"
+        },
+        "videoOwnerChannelTitle": "꿀디TV",
+        "videoOwnerChannelId": "UCaA8e6V5BXmuIpaeI4wXvvw"
+      },
+      "contentDetails": {
+        "videoId": "-Yqg62u64yA",
+        "videoPublishedAt": "2024-04-24T07:00:00Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "e2VSaf8amYkoHKhU5JDzxLIwZ8w",
+      "id": "VVVhQThlNlY1QlhtdUlwYWVJNHdYdnZ3Lnk4SDZIam1SQUNr",
+      "snippet": {
+        "publishedAt": "2024-04-21T07:49:43Z",
+        "channelId": "UCaA8e6V5BXmuIpaeI4wXvvw",
+        "title": "갓레이드 절대 신 소환~~",
+        "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/y8H6HjmRACk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/y8H6HjmRACk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/y8H6HjmRACk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/y8H6HjmRACk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/y8H6HjmRACk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "꿀디TV",
+        "playlistId": "UUaA8e6V5BXmuIpaeI4wXvvw",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "y8H6HjmRACk"
+        },
+        "videoOwnerChannelTitle": "꿀디TV",
+        "videoOwnerChannelId": "UCaA8e6V5BXmuIpaeI4wXvvw"
+      },
+      "contentDetails": {
+        "videoId": "y8H6HjmRACk",
+        "videoPublishedAt": "2024-04-21T07:49:43Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "sS6EzrpwuU8cancefshBGLD5a3s",
+      "id": "VVVhQThlNlY1QlhtdUlwYWVJNHdYdnZ3LmZkYTdkeGxKVmdB",
+      "snippet": {
+        "publishedAt": "2024-04-14T09:04:24Z",
+        "channelId": "UCaA8e6V5BXmuIpaeI4wXvvw",
+        "title": "갓레이드 무료 절대등급 신 포세이돈 캠페인 활용",
+        "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fda7dxlJVgA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fda7dxlJVgA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fda7dxlJVgA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fda7dxlJVgA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fda7dxlJVgA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "꿀디TV",
+        "playlistId": "UUaA8e6V5BXmuIpaeI4wXvvw",
+        "position": 29,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fda7dxlJVgA"
+        },
+        "videoOwnerChannelTitle": "꿀디TV",
+        "videoOwnerChannelId": "UCaA8e6V5BXmuIpaeI4wXvvw"
+      },
+      "contentDetails": {
+        "videoId": "fda7dxlJVgA",
+        "videoPublishedAt": "2024-04-14T09:04:24Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "video_details": [
+    {
+      "kind": "youtube#video",
+      "etag": "0Mm5aaBPwCiSMNEpxSEerP4Amp8",
+      "id": "Vyw5fEoAT14",
+      "snippet": {
+        "publishedAt": "2024-08-11T19:53:35Z",
+        "channelId": "UCaA8e6V5BXmuIpaeI4wXvvw",
+        "title": "소드오브콘발라리아 80년대 감성 SRPG 공략",
+        "description": "This stream is created with #PRISMLiveStudio",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Vyw5fEoAT14/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Vyw5fEoAT14/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Vyw5fEoAT14/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "꿀디TV",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "소드오브콘발라리아 80년대 감성 SRPG 공략",
+          "description": "This stream is created with #PRISMLiveStudio"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT1H17M37S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": false,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "66",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Role-playing_video_game",
+          "https://en.wikipedia.org/wiki/Strategy_video_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "소드오브콘발라리아 80년대 감성 SRPG 공략",
+          "description": "This stream is created with #PRISMLiveStudio"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "1aHMp-9-rPh3SeLLGI5TgjZH_3o",
+      "id": "_Q_Vgne2twc",
+      "snippet": {
+        "publishedAt": "2024-08-11T06:18:08Z",
+        "channelId": "UCaA8e6V5BXmuIpaeI4wXvvw",
+        "title": "소드오브콘발라리아 80년대 감성 SRPG 공략",
+        "description": "This stream is created with #PRISMLiveStudio",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_Q_Vgne2twc/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_Q_Vgne2twc/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_Q_Vgne2twc/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "꿀디TV",
+        "categoryId": "20",
+        "liveBroadcastContent": "upcoming",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "소드오브콘발라리아 80년대 감성 SRPG 공략",
+          "description": "This stream is created with #PRISMLiveStudio"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "P0D",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "uploaded",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": false,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "0",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "소드오브콘발라리아 80년대 감성 SRPG 공략",
+          "description": "This stream is created with #PRISMLiveStudio"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "p8V1Kg2yiIMkmrVECexkObqihPg",
+      "id": "69VQ5wvHBu8",
+      "snippet": {
+        "publishedAt": "2024-08-04T22:42:02Z",
+        "channelId": "UCaA8e6V5BXmuIpaeI4wXvvw",
+        "title": "소드오브콘발라리아 무과금 베이라 스타트",
+        "description": "This stream is created with #PRISMLiveStudio",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/69VQ5wvHBu8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/69VQ5wvHBu8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/69VQ5wvHBu8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "꿀디TV",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "소드오브콘발라리아 무과금 베이라 스타트",
+          "description": "This stream is created with #PRISMLiveStudio"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT1H48M40S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": false,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "292",
+        "likeCount": "4",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action_game",
+          "https://en.wikipedia.org/wiki/Role-playing_video_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "소드오브콘발라리아 무과금 베이라 스타트",
+          "description": "This stream is created with #PRISMLiveStudio"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "C2dtu5G0LGlrVn2epRZOi0jMON0",
+      "id": "YfJyXjSJuYY",
+      "snippet": {
+        "publishedAt": "2024-08-04T10:07:57Z",
+        "channelId": "UCaA8e6V5BXmuIpaeI4wXvvw",
+        "title": "소드오브콘발라리아 운명의소용돌이 심층조사 클리어 방법",
+        "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YfJyXjSJuYY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YfJyXjSJuYY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YfJyXjSJuYY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YfJyXjSJuYY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YfJyXjSJuYY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "꿀디TV",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "소드오브콘발라리아 운명의소용돌이 심층조사 클리어 방법",
+          "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT5M6S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "8587",
+        "likeCount": "122",
+        "favoriteCount": "0",
+        "commentCount": "29"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action_game",
+          "https://en.wikipedia.org/wiki/Role-playing_video_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "소드오브콘발라리아 운명의소용돌이 심층조사 클리어 방법",
+          "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "hF-pAfivjSa7Y5YYRgaZQaipFVc",
+      "id": "cllrPTsUyGQ",
+      "snippet": {
+        "publishedAt": "2024-07-24T09:00:35Z",
+        "channelId": "UCaA8e6V5BXmuIpaeI4wXvvw",
+        "title": "갓레이드 계정레벨 빠르게 올리는 방법!?",
+        "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cllrPTsUyGQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cllrPTsUyGQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cllrPTsUyGQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cllrPTsUyGQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cllrPTsUyGQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "꿀디TV",
+        "tags": [
+          "GODSRAID",
+          "갓 레이드"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "갓레이드 계정레벨 빠르게 올리는 방법!?",
+          "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT2M31S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "572",
+        "likeCount": "4",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action_game",
+          "https://en.wikipedia.org/wiki/Role-playing_video_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "갓레이드 계정레벨 빠르게 올리는 방법!?",
+          "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "3Z3I11ogQhGHSs5Be1SIIeSZNVg",
+      "id": "IyLyZhlGkkk",
+      "snippet": {
+        "publishedAt": "2024-07-21T07:35:19Z",
+        "channelId": "UCaA8e6V5BXmuIpaeI4wXvvw",
+        "title": "갓레이드 그냥 패면 절대 안죽는 비다르 공략법!!",
+        "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IyLyZhlGkkk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IyLyZhlGkkk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IyLyZhlGkkk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IyLyZhlGkkk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IyLyZhlGkkk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "꿀디TV",
+        "tags": [
+          "GODSRAID",
+          "갓 레이드",
+          "천공 군도",
+          "천공군도"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "갓레이드 그냥 패면 절대 안죽는 비다르 공략법!!",
+          "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT5M31S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "877",
+        "likeCount": "5",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action-adventure_game",
+          "https://en.wikipedia.org/wiki/Action_game",
+          "https://en.wikipedia.org/wiki/Role-playing_video_game",
+          "https://en.wikipedia.org/wiki/Strategy_video_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "갓레이드 그냥 패면 절대 안죽는 비다르 공략법!!",
+          "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "MSQvM2zcbfsYskh_6oAxzgaIIH0",
+      "id": "PtBiezd16cY",
+      "snippet": {
+        "publishedAt": "2024-07-17T09:00:21Z",
+        "channelId": "UCaA8e6V5BXmuIpaeI4wXvvw",
+        "title": "갓레이드 영웅등급표 준비해보았습니다.",
+        "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PtBiezd16cY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PtBiezd16cY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PtBiezd16cY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PtBiezd16cY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PtBiezd16cY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "꿀디TV",
+        "tags": [
+          "GODSRAID",
+          "갓레이드",
+          "등급표",
+          "갓 레이드"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "갓레이드 영웅등급표 준비해보았습니다.",
+          "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT5M56S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "2957",
+        "likeCount": "12",
+        "favoriteCount": "0",
+        "commentCount": "4"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Role-playing_video_game",
+          "https://en.wikipedia.org/wiki/Strategy_video_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "갓레이드 영웅등급표 준비해보았습니다.",
+          "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "YNUkiRnUZorp_JXCfrvSQNMzIrc",
+      "id": "NSQASW1ZNXY",
+      "snippet": {
+        "publishedAt": "2024-07-14T10:32:11Z",
+        "channelId": "UCaA8e6V5BXmuIpaeI4wXvvw",
+        "title": "이번에는 친업 정수리 탈모오나ㅜㅜ아빠 비켜",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NSQASW1ZNXY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NSQASW1ZNXY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NSQASW1ZNXY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NSQASW1ZNXY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NSQASW1ZNXY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "꿀디TV",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "이번에는 친업 정수리 탈모오나ㅜㅜ아빠 비켜",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT17S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "639",
+        "likeCount": "5",
+        "favoriteCount": "0",
+        "commentCount": "2"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Physical_fitness"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "이번에는 친업 정수리 탈모오나ㅜㅜ아빠 비켜",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "r3387ODP-dIsQ-1yB3gGi3ZkLK0",
+      "id": "JuCSY5Uk_jA",
+      "snippet": {
+        "publishedAt": "2024-07-13T04:00:12Z",
+        "channelId": "UCaA8e6V5BXmuIpaeI4wXvvw",
+        "title": "통곡의벽을 넘어볼까요? 캠페인 혼돈 6-3 클리어 도전",
+        "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JuCSY5Uk_jA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JuCSY5Uk_jA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JuCSY5Uk_jA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JuCSY5Uk_jA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JuCSY5Uk_jA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "꿀디TV",
+        "tags": [
+          "GODSRAID",
+          "갓 레이드",
+          "혼돈6-3",
+          "6-3"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "통곡의벽을 넘어볼까요? 캠페인 혼돈 6-3 클리어 도전",
+          "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT8M45S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "235",
+        "likeCount": "3",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action_game",
+          "https://en.wikipedia.org/wiki/Role-playing_video_game",
+          "https://en.wikipedia.org/wiki/Strategy_video_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "통곡의벽을 넘어볼까요? 캠페인 혼돈 6-3 클리어 도전",
+          "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "KZNJxoUCos1nb8jTLFF-rc-IoHY",
+      "id": "xt71aBfLIIw",
+      "snippet": {
+        "publishedAt": "2024-07-10T09:00:55Z",
+        "channelId": "UCaA8e6V5BXmuIpaeI4wXvvw",
+        "title": "저주 받은 내 계정...이런 영웅을 키우게 될 줄이야...ㅠㅠ",
+        "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xt71aBfLIIw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xt71aBfLIIw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xt71aBfLIIw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xt71aBfLIIw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xt71aBfLIIw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "꿀디TV",
+        "tags": [
+          "GODSRAID",
+          "갓 레이드",
+          "갓레이드",
+          "사리엘"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "저주 받은 내 계정...이런 영웅을 키우게 될 줄이야...ㅠㅠ",
+          "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT9M13S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "240",
+        "likeCount": "5",
+        "favoriteCount": "0",
+        "commentCount": "2"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action-adventure_game",
+          "https://en.wikipedia.org/wiki/Action_game",
+          "https://en.wikipedia.org/wiki/Role-playing_video_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "저주 받은 내 계정...이런 영웅을 키우게 될 줄이야...ㅠㅠ",
+          "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "KV6ZveRjg5CSCtmK9XGtY-uvOfo",
+      "id": "HdnIPTf0H6k",
+      "snippet": {
+        "publishedAt": "2024-07-07T12:47:56Z",
+        "channelId": "UCaA8e6V5BXmuIpaeI4wXvvw",
+        "title": "오크 최강 딜러는 누구일까...?",
+        "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HdnIPTf0H6k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HdnIPTf0H6k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HdnIPTf0H6k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HdnIPTf0H6k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HdnIPTf0H6k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "꿀디TV",
+        "tags": [
+          "GODSRAID",
+          "갓레이드",
+          "오크챔피언"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "오크 최강 딜러는 누구일까...?",
+          "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT4M1S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "163",
+        "likeCount": "3",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action_game",
+          "https://en.wikipedia.org/wiki/Role-playing_video_game",
+          "https://en.wikipedia.org/wiki/Strategy_video_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "오크 최강 딜러는 누구일까...?",
+          "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "2sktq3ma65zKstbxr-zEjFIMz5k",
+      "id": "S5JlxQXyu_s",
+      "snippet": {
+        "publishedAt": "2024-06-30T08:19:43Z",
+        "channelId": "UCaA8e6V5BXmuIpaeI4wXvvw",
+        "title": "필수 영웅 밴시 분신술 활용하기ㅋㅋㅋ",
+        "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/S5JlxQXyu_s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/S5JlxQXyu_s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/S5JlxQXyu_s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/S5JlxQXyu_s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/S5JlxQXyu_s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "꿀디TV",
+        "tags": [
+          "GODSRAID",
+          "갓레이드"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "필수 영웅 밴시 분신술 활용하기ㅋㅋㅋ",
+          "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT4M41S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "831",
+        "likeCount": "3",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Role-playing_video_game",
+          "https://en.wikipedia.org/wiki/Strategy_video_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "필수 영웅 밴시 분신술 활용하기ㅋㅋㅋ",
+          "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "fqjsRiV3C5eEAtmoBlJWxMdJuKk",
+      "id": "iKxWlYMqYyQ",
+      "snippet": {
+        "publishedAt": "2024-06-27T11:56:25Z",
+        "channelId": "UCaA8e6V5BXmuIpaeI4wXvvw",
+        "title": "갓레이드 캠페인 무한자동사냥이 가능하다구??",
+        "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iKxWlYMqYyQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iKxWlYMqYyQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iKxWlYMqYyQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iKxWlYMqYyQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iKxWlYMqYyQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "꿀디TV",
+        "tags": [
+          "GODSRAID",
+          "갓레이드",
+          "갓 레이드"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "갓레이드 캠페인 무한자동사냥이 가능하다구??",
+          "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT2M26S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1651",
+        "likeCount": "6",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action_game",
+          "https://en.wikipedia.org/wiki/Role-playing_video_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "갓레이드 캠페인 무한자동사냥이 가능하다구??",
+          "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "qaGzt7xT3H-FKxuXBJSp5vjt_3I",
+      "id": "lbpdii_N0fE",
+      "snippet": {
+        "publishedAt": "2024-06-22T08:24:35Z",
+        "channelId": "UCaA8e6V5BXmuIpaeI4wXvvw",
+        "title": "신화 영웅 브륀힐드 + 절대 신 로키!!",
+        "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lbpdii_N0fE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lbpdii_N0fE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lbpdii_N0fE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lbpdii_N0fE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lbpdii_N0fE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "꿀디TV",
+        "tags": [
+          "GODSRAID",
+          "갓레이드",
+          "갓 레이드"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "신화 영웅 브륀힐드 + 절대 신 로키!!",
+          "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M29S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "457",
+        "likeCount": "3",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action-adventure_game",
+          "https://en.wikipedia.org/wiki/Action_game",
+          "https://en.wikipedia.org/wiki/Role-playing_video_game",
+          "https://en.wikipedia.org/wiki/Strategy_video_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "신화 영웅 브륀힐드 + 절대 신 로키!!",
+          "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "-G8fW_Y8rTtfi6CfQ0PszpEiAOo",
+      "id": "ZQJ1YGg90Wo",
+      "snippet": {
+        "publishedAt": "2024-06-16T11:36:24Z",
+        "channelId": "UCaA8e6V5BXmuIpaeI4wXvvw",
+        "title": "30대 후반 아재의 흔한 풀업",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZQJ1YGg90Wo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZQJ1YGg90Wo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZQJ1YGg90Wo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZQJ1YGg90Wo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZQJ1YGg90Wo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "꿀디TV",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "30대 후반 아재의 흔한 풀업",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT16S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "5928",
+        "likeCount": "22",
+        "favoriteCount": "0",
+        "commentCount": "32"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+          "https://en.wikipedia.org/wiki/Physical_fitness"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "30대 후반 아재의 흔한 풀업",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Ulyc39_Xeyh8SxRMXeV0SnlJnTo",
+      "id": "RDkNN0xhdh8",
+      "snippet": {
+        "publishedAt": "2024-06-16T07:23:44Z",
+        "channelId": "UCaA8e6V5BXmuIpaeI4wXvvw",
+        "title": "신 영웅 레미엘 스킬 활용하여 2회 부활 아레나 깨부수기",
+        "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RDkNN0xhdh8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RDkNN0xhdh8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RDkNN0xhdh8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RDkNN0xhdh8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RDkNN0xhdh8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "꿀디TV",
+        "tags": [
+          "GODSRAID",
+          "갓레이드",
+          "갓 레이드"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "신 영웅 레미엘 스킬 활용하여 2회 부활 아레나 깨부수기",
+          "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M50S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "141",
+        "likeCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Role-playing_video_game",
+          "https://en.wikipedia.org/wiki/Strategy_video_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "신 영웅 레미엘 스킬 활용하여 2회 부활 아레나 깨부수기",
+          "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "fVqEWJXKRS1PeSzp6lAg6V3yXlE",
+      "id": "aSdhbJeCZkc",
+      "snippet": {
+        "publishedAt": "2024-06-10T09:00:03Z",
+        "channelId": "UCaA8e6V5BXmuIpaeI4wXvvw",
+        "title": "최고의 갑옷을 뽑아보자! 타르타로스 불사갑옷 뽑기",
+        "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aSdhbJeCZkc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aSdhbJeCZkc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aSdhbJeCZkc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aSdhbJeCZkc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aSdhbJeCZkc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "꿀디TV",
+        "tags": [
+          "GODSRAID",
+          "갓레이드",
+          "갓 레이드"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "최고의 갑옷을 뽑아보자! 타르타로스 불사갑옷 뽑기",
+          "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT1M39S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "386",
+        "likeCount": "3",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action-adventure_game",
+          "https://en.wikipedia.org/wiki/Action_game",
+          "https://en.wikipedia.org/wiki/Role-playing_video_game",
+          "https://en.wikipedia.org/wiki/Strategy_video_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "최고의 갑옷을 뽑아보자! 타르타로스 불사갑옷 뽑기",
+          "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "dfP3f0qSMB3XzynEB7FF2oAaSs4",
+      "id": "yXaRuBh335k",
+      "snippet": {
+        "publishedAt": "2024-06-07T08:36:32Z",
+        "channelId": "UCaA8e6V5BXmuIpaeI4wXvvw",
+        "title": "어렵게 준비했습니다...신화영웅 합성 무려 7회...계정의 운명은...?",
+        "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yXaRuBh335k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yXaRuBh335k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yXaRuBh335k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yXaRuBh335k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yXaRuBh335k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "꿀디TV",
+        "tags": [
+          "GODSRAID",
+          "신화",
+          "에스더",
+          "레미엘",
+          "갓 레이드",
+          "갓레이드"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "어렵게 준비했습니다...신화영웅 합성 무려 7회...계정의 운명은...?",
+          "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT1M43S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "662",
+        "likeCount": "5",
+        "favoriteCount": "0",
+        "commentCount": "3"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action_game",
+          "https://en.wikipedia.org/wiki/Role-playing_video_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "어렵게 준비했습니다...신화영웅 합성 무려 7회...계정의 운명은...?",
+          "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "JWLFLpqquJMZqtqxGH8ZGaE3Ewo",
+      "id": "0JOB2hYZI8E",
+      "snippet": {
+        "publishedAt": "2024-05-20T03:30:00Z",
+        "channelId": "UCaA8e6V5BXmuIpaeI4wXvvw",
+        "title": "끝없는 영웅의 성장...영웅 각성 하기!",
+        "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0JOB2hYZI8E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0JOB2hYZI8E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0JOB2hYZI8E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0JOB2hYZI8E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0JOB2hYZI8E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "꿀디TV",
+        "tags": [
+          "GODSRAID",
+          "GODS RAID",
+          "갓레이드"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "끝없는 영웅의 성장...영웅 각성 하기!",
+          "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT4M41S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "216",
+        "likeCount": "4",
+        "favoriteCount": "0",
+        "commentCount": "5"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Role-playing_video_game",
+          "https://en.wikipedia.org/wiki/Strategy_video_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "끝없는 영웅의 성장...영웅 각성 하기!",
+          "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "b5gcTP5Kl7tgEfeP3rYZNPquWco",
+      "id": "woLSJk4pUWU",
+      "snippet": {
+        "publishedAt": "2024-05-19T11:10:00Z",
+        "channelId": "UCaA8e6V5BXmuIpaeI4wXvvw",
+        "title": "고대 신 아레스 활용으로 지옥 난이도 올클 도전!!",
+        "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/woLSJk4pUWU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/woLSJk4pUWU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/woLSJk4pUWU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/woLSJk4pUWU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/woLSJk4pUWU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "꿀디TV",
+        "tags": [
+          "GODSRAID",
+          "갓레이드",
+          "GODS RAID"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "고대 신 아레스 활용으로 지옥 난이도 올클 도전!!",
+          "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT14M21S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "396",
+        "likeCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action_game",
+          "https://en.wikipedia.org/wiki/Role-playing_video_game",
+          "https://en.wikipedia.org/wiki/Strategy_video_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "고대 신 아레스 활용으로 지옥 난이도 올클 도전!!",
+          "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "WSmCViZPZr7BKPzrO29-qhA438U",
+      "id": "Pai1aDhI1MY",
+      "snippet": {
+        "publishedAt": "2024-05-17T08:00:23Z",
+        "channelId": "UCaA8e6V5BXmuIpaeI4wXvvw",
+        "title": "갓레이드 마스터리 작업 꿀팁! 약간의 다이아 필요ㅠㅠ",
+        "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Pai1aDhI1MY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Pai1aDhI1MY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Pai1aDhI1MY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Pai1aDhI1MY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Pai1aDhI1MY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "꿀디TV",
+        "tags": [
+          "GODSRAID",
+          "갓레이드"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "갓레이드 마스터리 작업 꿀팁! 약간의 다이아 필요ㅠㅠ",
+          "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT4M12S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "237",
+        "likeCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "2"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action-adventure_game",
+          "https://en.wikipedia.org/wiki/Action_game",
+          "https://en.wikipedia.org/wiki/Role-playing_video_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "갓레이드 마스터리 작업 꿀팁! 약간의 다이아 필요ㅠㅠ",
+          "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "QJkBJUhffDZOSaIXVFNDeIiWXkw",
+      "id": "Wswgg_VR9nc",
+      "snippet": {
+        "publishedAt": "2024-05-15T09:19:30Z",
+        "channelId": "UCaA8e6V5BXmuIpaeI4wXvvw",
+        "title": "갓레이드 혜자 이벤트! 아이템 교환 우선 순위 알려드립니다",
+        "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Wswgg_VR9nc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Wswgg_VR9nc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Wswgg_VR9nc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Wswgg_VR9nc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Wswgg_VR9nc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "꿀디TV",
+        "tags": [
+          "GODSRAID",
+          "갓레이드"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "갓레이드 혜자 이벤트! 아이템 교환 우선 순위 알려드립니다",
+          "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT4M54S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "370",
+        "likeCount": "3",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action-adventure_game",
+          "https://en.wikipedia.org/wiki/Action_game",
+          "https://en.wikipedia.org/wiki/Role-playing_video_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "갓레이드 혜자 이벤트! 아이템 교환 우선 순위 알려드립니다",
+          "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "I5V-MYif4xeXRWEiQHFkZmHHhT0",
+      "id": "o6ixwtGIsg4",
+      "snippet": {
+        "publishedAt": "2024-05-12T10:39:56Z",
+        "channelId": "UCaA8e6V5BXmuIpaeI4wXvvw",
+        "title": "이것이 바로 하데스다...",
+        "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/o6ixwtGIsg4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/o6ixwtGIsg4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/o6ixwtGIsg4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/o6ixwtGIsg4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/o6ixwtGIsg4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "꿀디TV",
+        "tags": [
+          "GODSRAID",
+          "갓레이드",
+          "하데스"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "이것이 바로 하데스다...",
+          "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT7M54S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "326",
+        "likeCount": "4",
+        "favoriteCount": "0",
+        "commentCount": "4"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action-adventure_game",
+          "https://en.wikipedia.org/wiki/Action_game",
+          "https://en.wikipedia.org/wiki/Role-playing_video_game",
+          "https://en.wikipedia.org/wiki/Strategy_video_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "이것이 바로 하데스다...",
+          "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "W8sSUypFSAIdEFVkMciw_v7AWW0",
+      "id": "zkPhsaDvLtU",
+      "snippet": {
+        "publishedAt": "2024-05-05T12:46:45Z",
+        "channelId": "UCaA8e6V5BXmuIpaeI4wXvvw",
+        "title": "영웅뽑기 10회권 공유합니다! 유효기간 5월9일까지...두 번째 신화 영웅, 절대 신 뽑기",
+        "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zkPhsaDvLtU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zkPhsaDvLtU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zkPhsaDvLtU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zkPhsaDvLtU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zkPhsaDvLtU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "꿀디TV",
+        "tags": [
+          "GODSRAID",
+          "갓레이드"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "영웅뽑기 10회권 공유합니다! 유효기간 5월9일까지...두 번째 신화 영웅, 절대 신 뽑기",
+          "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT4M20S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "157",
+        "likeCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action_game",
+          "https://en.wikipedia.org/wiki/Role-playing_video_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "영웅뽑기 10회권 공유합니다! 유효기간 5월9일까지...두 번째 신화 영웅, 절대 신 뽑기",
+          "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "wyLDIA1fmkSVStOCUaToNHDj4WI",
+      "id": "Gk5Uptw6wzM",
+      "snippet": {
+        "publishedAt": "2024-04-29T07:00:07Z",
+        "channelId": "UCaA8e6V5BXmuIpaeI4wXvvw",
+        "title": "전설 최강 힐러 신성 사제",
+        "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Gk5Uptw6wzM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Gk5Uptw6wzM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Gk5Uptw6wzM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Gk5Uptw6wzM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Gk5Uptw6wzM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "꿀디TV",
+        "tags": [
+          "GODSRAID",
+          "갓레이드",
+          "갓 레이드",
+          "신성사제"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "전설 최강 힐러 신성 사제",
+          "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT4M59S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "147",
+        "likeCount": "3",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action_game",
+          "https://en.wikipedia.org/wiki/Role-playing_video_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "전설 최강 힐러 신성 사제",
+          "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "JEkhvbgpfZyHh9Wlm01neDSYpfs",
+      "id": "Ymesflo5P0E",
+      "snippet": {
+        "publishedAt": "2024-04-28T01:00:15Z",
+        "channelId": "UCaA8e6V5BXmuIpaeI4wXvvw",
+        "title": "에스더 리뷰! 요거 뽑으면 게임이 편해집니다.",
+        "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ymesflo5P0E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ymesflo5P0E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ymesflo5P0E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ymesflo5P0E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Ymesflo5P0E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "꿀디TV",
+        "tags": [
+          "GODSRAID",
+          "갓레이드",
+          "갓 레이드",
+          "에스더"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "에스더 리뷰! 요거 뽑으면 게임이 편해집니다.",
+          "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT6M52S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "912",
+        "likeCount": "4",
+        "favoriteCount": "0",
+        "commentCount": "6"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action-adventure_game",
+          "https://en.wikipedia.org/wiki/Action_game",
+          "https://en.wikipedia.org/wiki/Role-playing_video_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "에스더 리뷰! 요거 뽑으면 게임이 편해집니다.",
+          "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "B44oTnhPNDBjYs4TYD-oTSalLtk",
+      "id": "4_JAQqfu_0U",
+      "snippet": {
+        "publishedAt": "2024-04-27T06:50:59Z",
+        "channelId": "UCaA8e6V5BXmuIpaeI4wXvvw",
+        "title": "첫 신화 영웅 합성`-`",
+        "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4_JAQqfu_0U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4_JAQqfu_0U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4_JAQqfu_0U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4_JAQqfu_0U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4_JAQqfu_0U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "꿀디TV",
+        "tags": [
+          "GODSRAID",
+          "갓레이드",
+          "갓 레이드",
+          "브륀힐드",
+          "에스더"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "첫 신화 영웅 합성`-`",
+          "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT5M33S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "112",
+        "likeCount": "3",
+        "favoriteCount": "0",
+        "commentCount": "3"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action_game",
+          "https://en.wikipedia.org/wiki/Role-playing_video_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "첫 신화 영웅 합성`-`",
+          "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "YAr-PgdhhFh50vBYl0FpabUA-TA",
+      "id": "-Yqg62u64yA",
+      "snippet": {
+        "publishedAt": "2024-04-24T07:00:00Z",
+        "channelId": "UCaA8e6V5BXmuIpaeI4wXvvw",
+        "title": "갓레이드 절대 신 제우스",
+        "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-Yqg62u64yA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-Yqg62u64yA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-Yqg62u64yA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-Yqg62u64yA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-Yqg62u64yA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "꿀디TV",
+        "tags": [
+          "GODSRAID"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "갓레이드 절대 신 제우스",
+          "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT6M48S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "102",
+        "likeCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action_game",
+          "https://en.wikipedia.org/wiki/Role-playing_video_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "갓레이드 절대 신 제우스",
+          "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "4a3P3xCEZeU8DW3pS3ZbWEl4s5U",
+      "id": "y8H6HjmRACk",
+      "snippet": {
+        "publishedAt": "2024-04-21T07:49:43Z",
+        "channelId": "UCaA8e6V5BXmuIpaeI4wXvvw",
+        "title": "갓레이드 절대 신 소환~~",
+        "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/y8H6HjmRACk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/y8H6HjmRACk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/y8H6HjmRACk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/y8H6HjmRACk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/y8H6HjmRACk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "꿀디TV",
+        "tags": [
+          "GODS RAID",
+          "제우스",
+          "아테나",
+          "하데스"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "갓레이드 절대 신 소환~~",
+          "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT6M10S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "187",
+        "likeCount": "4",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action-adventure_game",
+          "https://en.wikipedia.org/wiki/Action_game",
+          "https://en.wikipedia.org/wiki/Role-playing_video_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "갓레이드 절대 신 소환~~",
+          "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "lHyP2JFcf5Jol5Ip_3M2ndNhfsg",
+      "id": "fda7dxlJVgA",
+      "snippet": {
+        "publishedAt": "2024-04-14T09:04:24Z",
+        "channelId": "UCaA8e6V5BXmuIpaeI4wXvvw",
+        "title": "갓레이드 무료 절대등급 신 포세이돈 캠페인 활용",
+        "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fda7dxlJVgA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fda7dxlJVgA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fda7dxlJVgA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fda7dxlJVgA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fda7dxlJVgA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "꿀디TV",
+        "tags": [
+          "GODSRAID",
+          "고대신"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "갓레이드 무료 절대등급 신 포세이돈 캠페인 활용",
+          "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M25S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "182",
+        "likeCount": "7",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action_game",
+          "https://en.wikipedia.org/wiki/Role-playing_video_game",
+          "https://en.wikipedia.org/wiki/Strategy_video_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "갓레이드 무료 절대등급 신 포세이돈 캠페인 활용",
+          "description": "공식 유튜브 채널 링크 : https://www.youtube.com/@GodsRaid\n고유 다운로드 링크 : https://app.adjust.com/1bn9zgpk"
+        }
+      }
+    }
+  ]
+}

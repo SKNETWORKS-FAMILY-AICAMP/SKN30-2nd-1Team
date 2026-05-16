@@ -1,0 +1,5390 @@
+{
+  "idx": 2162,
+  "channel_id": "UC6nhdyk1BRSD_AcFra1Imyw",
+  "channel_title": "OBang",
+  "playlist_items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "AKIzK2_zc1kcxyYvoVv3cPdhaH0",
+      "id": "VVU2bmhkeWsxQlJTRF9BY0ZyYTFJbXl3LlhReWt5U2ZmTVNr",
+      "snippet": {
+        "publishedAt": "2022-07-14T09:09:05Z",
+        "channelId": "UC6nhdyk1BRSD_AcFra1Imyw",
+        "title": "그대로 그렇게 - 이명훈",
+        "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XQykySffMSk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XQykySffMSk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XQykySffMSk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XQykySffMSk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XQykySffMSk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "OBang",
+        "playlistId": "UU6nhdyk1BRSD_AcFra1Imyw",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "XQykySffMSk"
+        },
+        "videoOwnerChannelTitle": "OBang",
+        "videoOwnerChannelId": "UC6nhdyk1BRSD_AcFra1Imyw"
+      },
+      "contentDetails": {
+        "videoId": "XQykySffMSk",
+        "videoPublishedAt": "2022-07-14T09:09:05Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "YRtvKIXtiBjyOEYd2LYMNh7erMQ",
+      "id": "VVU2bmhkeWsxQlJTRF9BY0ZyYTFJbXl3LnR3RDVmV24yQ0VN",
+      "snippet": {
+        "publishedAt": "2022-07-10T01:14:13Z",
+        "channelId": "UC6nhdyk1BRSD_AcFra1Imyw",
+        "title": "난 바람 넌 눈물 - 백미현",
+        "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/twD5fWn2CEM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/twD5fWn2CEM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/twD5fWn2CEM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/twD5fWn2CEM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/twD5fWn2CEM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "OBang",
+        "playlistId": "UU6nhdyk1BRSD_AcFra1Imyw",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "twD5fWn2CEM"
+        },
+        "videoOwnerChannelTitle": "OBang",
+        "videoOwnerChannelId": "UC6nhdyk1BRSD_AcFra1Imyw"
+      },
+      "contentDetails": {
+        "videoId": "twD5fWn2CEM",
+        "videoPublishedAt": "2022-07-10T01:14:13Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "c4WGGmKN-HXkQzRYHks16Od7QTk",
+      "id": "VVU2bmhkeWsxQlJTRF9BY0ZyYTFJbXl3Lmp5N2xKV21RWS1N",
+      "snippet": {
+        "publishedAt": "2022-07-05T08:47:07Z",
+        "channelId": "UC6nhdyk1BRSD_AcFra1Imyw",
+        "title": "너 나 좋아해 나 너 좋아해 - 현이와 덕이",
+        "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jy7lJWmQY-M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jy7lJWmQY-M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jy7lJWmQY-M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jy7lJWmQY-M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jy7lJWmQY-M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "OBang",
+        "playlistId": "UU6nhdyk1BRSD_AcFra1Imyw",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "jy7lJWmQY-M"
+        },
+        "videoOwnerChannelTitle": "OBang",
+        "videoOwnerChannelId": "UC6nhdyk1BRSD_AcFra1Imyw"
+      },
+      "contentDetails": {
+        "videoId": "jy7lJWmQY-M",
+        "videoPublishedAt": "2022-07-05T08:47:07Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "AO_2-WsBbqE9s8z9-Tokaq-lS70",
+      "id": "VVU2bmhkeWsxQlJTRF9BY0ZyYTFJbXl3LlVDNXVteDA2eGdn",
+      "snippet": {
+        "publishedAt": "2022-07-01T09:33:04Z",
+        "channelId": "UC6nhdyk1BRSD_AcFra1Imyw",
+        "title": "어서 말을 해 - 유익종",
+        "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UC5umx06xgg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UC5umx06xgg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UC5umx06xgg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UC5umx06xgg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UC5umx06xgg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "OBang",
+        "playlistId": "UU6nhdyk1BRSD_AcFra1Imyw",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "UC5umx06xgg"
+        },
+        "videoOwnerChannelTitle": "OBang",
+        "videoOwnerChannelId": "UC6nhdyk1BRSD_AcFra1Imyw"
+      },
+      "contentDetails": {
+        "videoId": "UC5umx06xgg",
+        "videoPublishedAt": "2022-07-01T09:33:04Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "h4h663aNb-YZAtnsFYyqmULJ5iM",
+      "id": "VVU2bmhkeWsxQlJTRF9BY0ZyYTFJbXl3Lk9FU2U0ZVFBUmVN",
+      "snippet": {
+        "publishedAt": "2022-06-20T00:14:12Z",
+        "channelId": "UC6nhdyk1BRSD_AcFra1Imyw",
+        "title": "추억속으로가는 음악여행 - 2집",
+        "description": "영상소스 출처\nhttps://www.youtube.com/user/antoni0515\n\n영상소스 출처\nhttps://www.youtube.com/c/편안한쉼터김대정\n\n추억속으로가는 음악여행 2집\n\n01. 가슴앓이 - 양하영\n02. 겨울비는 내리고 - 김범룡\n03. 나 어떡해 - 샌드페플즈\n04. 내가 - 김학래, 임철우\n05. 내게도 사랑이 - 함중아\n06. 달무리 - 영사운드\n07. 물같은 사랑  최혜영\n08. 미소를 띄우며 나를 보낸 그모습 처럼 - 이은하\n09. 바다에 누워 - 높은음자리 \n10. 바람 바람 바람 - 김범룡  \n11. 조약돌 - 박상규 \n12. 진실이야 - 제제 \n13. 짚시여인 - 이치현과 벗님들\n14. 토요일은 밤이 좋아 - 김종찬 \n15. 화요일에 비가 내리면 - 박미경",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OESe4eQAReM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OESe4eQAReM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OESe4eQAReM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OESe4eQAReM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OESe4eQAReM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "OBang",
+        "playlistId": "UU6nhdyk1BRSD_AcFra1Imyw",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "OESe4eQAReM"
+        },
+        "videoOwnerChannelTitle": "OBang",
+        "videoOwnerChannelId": "UC6nhdyk1BRSD_AcFra1Imyw"
+      },
+      "contentDetails": {
+        "videoId": "OESe4eQAReM",
+        "videoPublishedAt": "2022-06-20T00:14:12Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_oTCtB9xgtlsHfLT21e6PBE9hmo",
+      "id": "VVU2bmhkeWsxQlJTRF9BY0ZyYTFJbXl3Lm5GRE10VEhoRlV3",
+      "snippet": {
+        "publishedAt": "2022-05-25T10:51:39Z",
+        "channelId": "UC6nhdyk1BRSD_AcFra1Imyw",
+        "title": "화요일에 비가 내리면 - 박미경",
+        "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nFDMtTHhFUw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nFDMtTHhFUw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nFDMtTHhFUw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nFDMtTHhFUw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nFDMtTHhFUw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "OBang",
+        "playlistId": "UU6nhdyk1BRSD_AcFra1Imyw",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "nFDMtTHhFUw"
+        },
+        "videoOwnerChannelTitle": "OBang",
+        "videoOwnerChannelId": "UC6nhdyk1BRSD_AcFra1Imyw"
+      },
+      "contentDetails": {
+        "videoId": "nFDMtTHhFUw",
+        "videoPublishedAt": "2022-05-25T10:51:39Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ujwKdzGwoqRuEoOGBVCsK78J2ds",
+      "id": "VVU2bmhkeWsxQlJTRF9BY0ZyYTFJbXl3LllGeDhqTVk5RndB",
+      "snippet": {
+        "publishedAt": "2022-05-25T10:46:49Z",
+        "channelId": "UC6nhdyk1BRSD_AcFra1Imyw",
+        "title": "토요일은 밤이 좋아 - 김종찬",
+        "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YFx8jMY9FwA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YFx8jMY9FwA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YFx8jMY9FwA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YFx8jMY9FwA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YFx8jMY9FwA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "OBang",
+        "playlistId": "UU6nhdyk1BRSD_AcFra1Imyw",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "YFx8jMY9FwA"
+        },
+        "videoOwnerChannelTitle": "OBang",
+        "videoOwnerChannelId": "UC6nhdyk1BRSD_AcFra1Imyw"
+      },
+      "contentDetails": {
+        "videoId": "YFx8jMY9FwA",
+        "videoPublishedAt": "2022-05-25T10:46:49Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Tp4D863iU1ahky_6TnpOjNYUO1g",
+      "id": "VVU2bmhkeWsxQlJTRF9BY0ZyYTFJbXl3LnJiaXJyVFl0TFNV",
+      "snippet": {
+        "publishedAt": "2022-05-25T10:19:13Z",
+        "channelId": "UC6nhdyk1BRSD_AcFra1Imyw",
+        "title": "미소를 띄우며 나를 보낸 그모습 처럼 - 이은하",
+        "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rbirrTYtLSU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rbirrTYtLSU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rbirrTYtLSU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rbirrTYtLSU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rbirrTYtLSU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "OBang",
+        "playlistId": "UU6nhdyk1BRSD_AcFra1Imyw",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "rbirrTYtLSU"
+        },
+        "videoOwnerChannelTitle": "OBang",
+        "videoOwnerChannelId": "UC6nhdyk1BRSD_AcFra1Imyw"
+      },
+      "contentDetails": {
+        "videoId": "rbirrTYtLSU",
+        "videoPublishedAt": "2022-05-25T10:19:13Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "FNgB724jzNtnka-W7TeHuA31MEs",
+      "id": "VVU2bmhkeWsxQlJTRF9BY0ZyYTFJbXl3LmV4dHlhZlNtZ1Zn",
+      "snippet": {
+        "publishedAt": "2022-05-25T10:08:36Z",
+        "channelId": "UC6nhdyk1BRSD_AcFra1Imyw",
+        "title": "진실이야 - 제제",
+        "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/extyafSmgVg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/extyafSmgVg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/extyafSmgVg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/extyafSmgVg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/extyafSmgVg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "OBang",
+        "playlistId": "UU6nhdyk1BRSD_AcFra1Imyw",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "extyafSmgVg"
+        },
+        "videoOwnerChannelTitle": "OBang",
+        "videoOwnerChannelId": "UC6nhdyk1BRSD_AcFra1Imyw"
+      },
+      "contentDetails": {
+        "videoId": "extyafSmgVg",
+        "videoPublishedAt": "2022-05-25T10:08:36Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "yiRnjOIWPvg0wDlfMtzg8kShvxk",
+      "id": "VVU2bmhkeWsxQlJTRF9BY0ZyYTFJbXl3Ljh3NVVKRFpMRnM4",
+      "snippet": {
+        "publishedAt": "2022-05-25T10:03:33Z",
+        "channelId": "UC6nhdyk1BRSD_AcFra1Imyw",
+        "title": "짚시여인 - 이치현과 벗님들",
+        "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8w5UJDZLFs8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8w5UJDZLFs8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8w5UJDZLFs8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8w5UJDZLFs8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8w5UJDZLFs8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "OBang",
+        "playlistId": "UU6nhdyk1BRSD_AcFra1Imyw",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8w5UJDZLFs8"
+        },
+        "videoOwnerChannelTitle": "OBang",
+        "videoOwnerChannelId": "UC6nhdyk1BRSD_AcFra1Imyw"
+      },
+      "contentDetails": {
+        "videoId": "8w5UJDZLFs8",
+        "videoPublishedAt": "2022-05-25T10:03:33Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "9SxGCzul6uVSIw57YhaETQHKUAU",
+      "id": "VVU2bmhkeWsxQlJTRF9BY0ZyYTFJbXl3Lk9lR3Q0M1FIcnI0",
+      "snippet": {
+        "publishedAt": "2022-05-25T07:59:24Z",
+        "channelId": "UC6nhdyk1BRSD_AcFra1Imyw",
+        "title": "바다에 누워 - 높은 음자리",
+        "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OeGt43QHrr4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OeGt43QHrr4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OeGt43QHrr4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OeGt43QHrr4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OeGt43QHrr4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "OBang",
+        "playlistId": "UU6nhdyk1BRSD_AcFra1Imyw",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "OeGt43QHrr4"
+        },
+        "videoOwnerChannelTitle": "OBang",
+        "videoOwnerChannelId": "UC6nhdyk1BRSD_AcFra1Imyw"
+      },
+      "contentDetails": {
+        "videoId": "OeGt43QHrr4",
+        "videoPublishedAt": "2022-05-25T07:59:24Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Gu6Os0x9aj06yXbKNB6HS7cl6cs",
+      "id": "VVU2bmhkeWsxQlJTRF9BY0ZyYTFJbXl3LmNlOXBkVFVvZ21v",
+      "snippet": {
+        "publishedAt": "2022-05-23T08:08:30Z",
+        "channelId": "UC6nhdyk1BRSD_AcFra1Imyw",
+        "title": "빗물 - 채은옥",
+        "description": "영상소스 출처\nhttps://www.youtube.com/user/antoni0515",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ce9pdTUogmo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ce9pdTUogmo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ce9pdTUogmo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ce9pdTUogmo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ce9pdTUogmo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "OBang",
+        "playlistId": "UU6nhdyk1BRSD_AcFra1Imyw",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ce9pdTUogmo"
+        },
+        "videoOwnerChannelTitle": "OBang",
+        "videoOwnerChannelId": "UC6nhdyk1BRSD_AcFra1Imyw"
+      },
+      "contentDetails": {
+        "videoId": "ce9pdTUogmo",
+        "videoPublishedAt": "2022-05-23T08:08:30Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3qVcL8DRQ-QryEy7dYS4RwI5MqE",
+      "id": "VVU2bmhkeWsxQlJTRF9BY0ZyYTFJbXl3LkZ0enlTTVlvM2Vn",
+      "snippet": {
+        "publishedAt": "2022-05-22T05:02:19Z",
+        "channelId": "UC6nhdyk1BRSD_AcFra1Imyw",
+        "title": "바람 바람 바람 - 김범룡",
+        "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FtzySMYo3eg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FtzySMYo3eg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FtzySMYo3eg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FtzySMYo3eg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FtzySMYo3eg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "OBang",
+        "playlistId": "UU6nhdyk1BRSD_AcFra1Imyw",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "FtzySMYo3eg"
+        },
+        "videoOwnerChannelTitle": "OBang",
+        "videoOwnerChannelId": "UC6nhdyk1BRSD_AcFra1Imyw"
+      },
+      "contentDetails": {
+        "videoId": "FtzySMYo3eg",
+        "videoPublishedAt": "2022-05-22T05:02:19Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "wE5wpTNit8zNM-aO8GDwaa2mQes",
+      "id": "VVU2bmhkeWsxQlJTRF9BY0ZyYTFJbXl3LmlJV3UzbkVyZzNr",
+      "snippet": {
+        "publishedAt": "2022-05-21T05:45:42Z",
+        "channelId": "UC6nhdyk1BRSD_AcFra1Imyw",
+        "title": "물같은 사랑 - 최혜영",
+        "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iIWu3nErg3k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iIWu3nErg3k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iIWu3nErg3k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iIWu3nErg3k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iIWu3nErg3k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "OBang",
+        "playlistId": "UU6nhdyk1BRSD_AcFra1Imyw",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "iIWu3nErg3k"
+        },
+        "videoOwnerChannelTitle": "OBang",
+        "videoOwnerChannelId": "UC6nhdyk1BRSD_AcFra1Imyw"
+      },
+      "contentDetails": {
+        "videoId": "iIWu3nErg3k",
+        "videoPublishedAt": "2022-05-21T05:45:42Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "qgQyn8GVIOzu72gZzM7H4lIEinE",
+      "id": "VVU2bmhkeWsxQlJTRF9BY0ZyYTFJbXl3Lk1yVWFyX0lzb3dn",
+      "snippet": {
+        "publishedAt": "2022-05-19T01:21:29Z",
+        "channelId": "UC6nhdyk1BRSD_AcFra1Imyw",
+        "title": "달무리 - 영사운드",
+        "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MrUar_Isowg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MrUar_Isowg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MrUar_Isowg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MrUar_Isowg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MrUar_Isowg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "OBang",
+        "playlistId": "UU6nhdyk1BRSD_AcFra1Imyw",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "MrUar_Isowg"
+        },
+        "videoOwnerChannelTitle": "OBang",
+        "videoOwnerChannelId": "UC6nhdyk1BRSD_AcFra1Imyw"
+      },
+      "contentDetails": {
+        "videoId": "MrUar_Isowg",
+        "videoPublishedAt": "2022-05-19T01:21:29Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3KSuIh8r68pa1VVb3ehPs8RATRQ",
+      "id": "VVU2bmhkeWsxQlJTRF9BY0ZyYTFJbXl3LjB5dlJ0Vk5vUldB",
+      "snippet": {
+        "publishedAt": "2022-05-16T09:13:37Z",
+        "channelId": "UC6nhdyk1BRSD_AcFra1Imyw",
+        "title": "내게도 사랑이 - 함중아",
+        "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0yvRtVNoRWA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0yvRtVNoRWA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0yvRtVNoRWA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0yvRtVNoRWA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0yvRtVNoRWA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "OBang",
+        "playlistId": "UU6nhdyk1BRSD_AcFra1Imyw",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0yvRtVNoRWA"
+        },
+        "videoOwnerChannelTitle": "OBang",
+        "videoOwnerChannelId": "UC6nhdyk1BRSD_AcFra1Imyw"
+      },
+      "contentDetails": {
+        "videoId": "0yvRtVNoRWA",
+        "videoPublishedAt": "2022-05-16T09:13:37Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "GaM-Glweg1LkV4xPKRUvw4YnSK0",
+      "id": "VVU2bmhkeWsxQlJTRF9BY0ZyYTFJbXl3LmZfUGFhUE15Qmpr",
+      "snippet": {
+        "publishedAt": "2022-05-14T23:06:44Z",
+        "channelId": "UC6nhdyk1BRSD_AcFra1Imyw",
+        "title": "내가 - 김학래, 임철우",
+        "description": "영상소스\nhttps://www.youtube.com/user/antoni0515",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/f_PaaPMyBjk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/f_PaaPMyBjk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/f_PaaPMyBjk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/f_PaaPMyBjk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/f_PaaPMyBjk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "OBang",
+        "playlistId": "UU6nhdyk1BRSD_AcFra1Imyw",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "f_PaaPMyBjk"
+        },
+        "videoOwnerChannelTitle": "OBang",
+        "videoOwnerChannelId": "UC6nhdyk1BRSD_AcFra1Imyw"
+      },
+      "contentDetails": {
+        "videoId": "f_PaaPMyBjk",
+        "videoPublishedAt": "2022-05-14T23:06:44Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ZauWKpY-xGwWY8AYHW-yyett6uY",
+      "id": "VVU2bmhkeWsxQlJTRF9BY0ZyYTFJbXl3LlZ5dHE1V045OEZj",
+      "snippet": {
+        "publishedAt": "2022-05-13T10:27:36Z",
+        "channelId": "UC6nhdyk1BRSD_AcFra1Imyw",
+        "title": "나 어떡해 - 샌드페플즈",
+        "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Vytq5WN98Fc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Vytq5WN98Fc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Vytq5WN98Fc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Vytq5WN98Fc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Vytq5WN98Fc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "OBang",
+        "playlistId": "UU6nhdyk1BRSD_AcFra1Imyw",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Vytq5WN98Fc"
+        },
+        "videoOwnerChannelTitle": "OBang",
+        "videoOwnerChannelId": "UC6nhdyk1BRSD_AcFra1Imyw"
+      },
+      "contentDetails": {
+        "videoId": "Vytq5WN98Fc",
+        "videoPublishedAt": "2022-05-13T10:27:36Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "YXlnqAmDv9kIx__vBbKnovCJXjE",
+      "id": "VVU2bmhkeWsxQlJTRF9BY0ZyYTFJbXl3Lmp5UWpmaktvUF9F",
+      "snippet": {
+        "publishedAt": "2022-05-11T06:32:17Z",
+        "channelId": "UC6nhdyk1BRSD_AcFra1Imyw",
+        "title": "겨울비는 내리고 - 김범룡",
+        "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jyQjfjKoP_E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jyQjfjKoP_E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jyQjfjKoP_E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jyQjfjKoP_E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jyQjfjKoP_E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "OBang",
+        "playlistId": "UU6nhdyk1BRSD_AcFra1Imyw",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "jyQjfjKoP_E"
+        },
+        "videoOwnerChannelTitle": "OBang",
+        "videoOwnerChannelId": "UC6nhdyk1BRSD_AcFra1Imyw"
+      },
+      "contentDetails": {
+        "videoId": "jyQjfjKoP_E",
+        "videoPublishedAt": "2022-05-11T06:32:17Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "OpFPgsgGfmkH1jHJDSDQ9JBGaok",
+      "id": "VVU2bmhkeWsxQlJTRF9BY0ZyYTFJbXl3LmFXc0JIN0ZVM01n",
+      "snippet": {
+        "publishedAt": "2022-05-09T23:59:53Z",
+        "channelId": "UC6nhdyk1BRSD_AcFra1Imyw",
+        "title": "가슴앓이 - 양하영",
+        "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aWsBH7FU3Mg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aWsBH7FU3Mg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aWsBH7FU3Mg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aWsBH7FU3Mg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aWsBH7FU3Mg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "OBang",
+        "playlistId": "UU6nhdyk1BRSD_AcFra1Imyw",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "aWsBH7FU3Mg"
+        },
+        "videoOwnerChannelTitle": "OBang",
+        "videoOwnerChannelId": "UC6nhdyk1BRSD_AcFra1Imyw"
+      },
+      "contentDetails": {
+        "videoId": "aWsBH7FU3Mg",
+        "videoPublishedAt": "2022-05-09T23:59:53Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fe5oIJHMHrII85n89M9RGVXshq0",
+      "id": "VVU2bmhkeWsxQlJTRF9BY0ZyYTFJbXl3LnBDdTJKZEp5RU1V",
+      "snippet": {
+        "publishedAt": "2022-04-29T10:00:30Z",
+        "channelId": "UC6nhdyk1BRSD_AcFra1Imyw",
+        "title": "추억속으로가는 음악여행 - 1집",
+        "description": "영상소스\nhttps://www.youtube.com/user/antoni0515\n영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정\n\n추억속으로가는 음악여행 1집\n01. 가버린 친구에게 바침 - 휘버스\n02. 그집앞 - 이재성\n03. 기차와 소나무 - 이규석\n04. 꿈에 - 조덕배\n05. 내일 - 김수철\n06. 내일로 가는 마차 - 이재성\n07. 너 - 이종영\n08. 동행 - 최성수\n09. 등불 - 영사운드\n10. 슬픔의 심로 - 김학래\n11. 찾잔 - 노고지리\n12. 촛불잔치 - 이재성\n13. 해후 - 최성수\n14. 홀로된 사랑 - 여운\n15. 희나리 - 구창모",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pCu2JdJyEMU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pCu2JdJyEMU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pCu2JdJyEMU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pCu2JdJyEMU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pCu2JdJyEMU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "OBang",
+        "playlistId": "UU6nhdyk1BRSD_AcFra1Imyw",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "pCu2JdJyEMU"
+        },
+        "videoOwnerChannelTitle": "OBang",
+        "videoOwnerChannelId": "UC6nhdyk1BRSD_AcFra1Imyw"
+      },
+      "contentDetails": {
+        "videoId": "pCu2JdJyEMU",
+        "videoPublishedAt": "2022-04-29T10:00:30Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mfj1I8g8jWR0KliL6LH1dOf6Sdo",
+      "id": "VVU2bmhkeWsxQlJTRF9BY0ZyYTFJbXl3Ll93RjdCeElrU0Z3",
+      "snippet": {
+        "publishedAt": "2022-04-28T10:04:24Z",
+        "channelId": "UC6nhdyk1BRSD_AcFra1Imyw",
+        "title": "등불 - 영사운드",
+        "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_wF7BxIkSFw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_wF7BxIkSFw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_wF7BxIkSFw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_wF7BxIkSFw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_wF7BxIkSFw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "OBang",
+        "playlistId": "UU6nhdyk1BRSD_AcFra1Imyw",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_wF7BxIkSFw"
+        },
+        "videoOwnerChannelTitle": "OBang",
+        "videoOwnerChannelId": "UC6nhdyk1BRSD_AcFra1Imyw"
+      },
+      "contentDetails": {
+        "videoId": "_wF7BxIkSFw",
+        "videoPublishedAt": "2022-04-28T10:04:24Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "w0PLvf2ueHzq6DYRGFfZk4gqmTk",
+      "id": "VVU2bmhkeWsxQlJTRF9BY0ZyYTFJbXl3Lm1XQkVqdURjMEJZ",
+      "snippet": {
+        "publishedAt": "2022-04-28T10:03:04Z",
+        "channelId": "UC6nhdyk1BRSD_AcFra1Imyw",
+        "title": "기차와 소나무 - 이규석",
+        "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mWBEjuDc0BY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mWBEjuDc0BY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mWBEjuDc0BY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mWBEjuDc0BY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mWBEjuDc0BY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "OBang",
+        "playlistId": "UU6nhdyk1BRSD_AcFra1Imyw",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "mWBEjuDc0BY"
+        },
+        "videoOwnerChannelTitle": "OBang",
+        "videoOwnerChannelId": "UC6nhdyk1BRSD_AcFra1Imyw"
+      },
+      "contentDetails": {
+        "videoId": "mWBEjuDc0BY",
+        "videoPublishedAt": "2022-04-28T10:03:04Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "JaPSwGJdf8MvH7vu1Lrc5Rsi-VY",
+      "id": "VVU2bmhkeWsxQlJTRF9BY0ZyYTFJbXl3Lmg5TS0wVWVxNmF3",
+      "snippet": {
+        "publishedAt": "2022-04-28T10:01:53Z",
+        "channelId": "UC6nhdyk1BRSD_AcFra1Imyw",
+        "title": "희나리 - 구창모",
+        "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/h9M-0Ueq6aw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/h9M-0Ueq6aw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/h9M-0Ueq6aw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/h9M-0Ueq6aw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/h9M-0Ueq6aw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "OBang",
+        "playlistId": "UU6nhdyk1BRSD_AcFra1Imyw",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "h9M-0Ueq6aw"
+        },
+        "videoOwnerChannelTitle": "OBang",
+        "videoOwnerChannelId": "UC6nhdyk1BRSD_AcFra1Imyw"
+      },
+      "contentDetails": {
+        "videoId": "h9M-0Ueq6aw",
+        "videoPublishedAt": "2022-04-28T10:01:53Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3LkNy4CwbONbX_SJ_8GV_qusKl8",
+      "id": "VVU2bmhkeWsxQlJTRF9BY0ZyYTFJbXl3LjdmY0RQczRfcW1n",
+      "snippet": {
+        "publishedAt": "2022-04-28T10:00:21Z",
+        "channelId": "UC6nhdyk1BRSD_AcFra1Imyw",
+        "title": "꿈에 - 조덕배",
+        "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7fcDPs4_qmg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7fcDPs4_qmg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7fcDPs4_qmg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7fcDPs4_qmg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7fcDPs4_qmg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "OBang",
+        "playlistId": "UU6nhdyk1BRSD_AcFra1Imyw",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7fcDPs4_qmg"
+        },
+        "videoOwnerChannelTitle": "OBang",
+        "videoOwnerChannelId": "UC6nhdyk1BRSD_AcFra1Imyw"
+      },
+      "contentDetails": {
+        "videoId": "7fcDPs4_qmg",
+        "videoPublishedAt": "2022-04-28T10:00:21Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "1tYs4Hj0JVIL-dvJpyUpLZanDK0",
+      "id": "VVU2bmhkeWsxQlJTRF9BY0ZyYTFJbXl3LlBLc1JwNlhWb2Rj",
+      "snippet": {
+        "publishedAt": "2022-04-26T23:52:11Z",
+        "channelId": "UC6nhdyk1BRSD_AcFra1Imyw",
+        "title": "홀로된 사랑 - 여운",
+        "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PKsRp6XVodc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PKsRp6XVodc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PKsRp6XVodc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PKsRp6XVodc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PKsRp6XVodc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "OBang",
+        "playlistId": "UU6nhdyk1BRSD_AcFra1Imyw",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "PKsRp6XVodc"
+        },
+        "videoOwnerChannelTitle": "OBang",
+        "videoOwnerChannelId": "UC6nhdyk1BRSD_AcFra1Imyw"
+      },
+      "contentDetails": {
+        "videoId": "PKsRp6XVodc",
+        "videoPublishedAt": "2022-04-26T23:52:11Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ks-xyQ3zXX6n-kDxfQqH9osJMoM",
+      "id": "VVU2bmhkeWsxQlJTRF9BY0ZyYTFJbXl3LlJhYjBTNHVLV3pj",
+      "snippet": {
+        "publishedAt": "2022-04-25T00:41:54Z",
+        "channelId": "UC6nhdyk1BRSD_AcFra1Imyw",
+        "title": "너 - 이종영",
+        "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Rab0S4uKWzc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Rab0S4uKWzc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Rab0S4uKWzc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Rab0S4uKWzc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Rab0S4uKWzc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "OBang",
+        "playlistId": "UU6nhdyk1BRSD_AcFra1Imyw",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Rab0S4uKWzc"
+        },
+        "videoOwnerChannelTitle": "OBang",
+        "videoOwnerChannelId": "UC6nhdyk1BRSD_AcFra1Imyw"
+      },
+      "contentDetails": {
+        "videoId": "Rab0S4uKWzc",
+        "videoPublishedAt": "2022-04-25T00:41:54Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "vG5AAVoUvyXvpJ_IiqD_wcgXBbM",
+      "id": "VVU2bmhkeWsxQlJTRF9BY0ZyYTFJbXl3LnFKczdLRktVcVdB",
+      "snippet": {
+        "publishedAt": "2022-04-24T00:28:43Z",
+        "channelId": "UC6nhdyk1BRSD_AcFra1Imyw",
+        "title": "슬픔의 심로 - 김학래",
+        "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qJs7KFKUqWA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qJs7KFKUqWA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qJs7KFKUqWA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qJs7KFKUqWA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qJs7KFKUqWA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "OBang",
+        "playlistId": "UU6nhdyk1BRSD_AcFra1Imyw",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "qJs7KFKUqWA"
+        },
+        "videoOwnerChannelTitle": "OBang",
+        "videoOwnerChannelId": "UC6nhdyk1BRSD_AcFra1Imyw"
+      },
+      "contentDetails": {
+        "videoId": "qJs7KFKUqWA",
+        "videoPublishedAt": "2022-04-24T00:28:43Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3IzoFJ9KvNhvyPYG1bCtGsvXyuQ",
+      "id": "VVU2bmhkeWsxQlJTRF9BY0ZyYTFJbXl3LmNOaDhiVUlxR1BV",
+      "snippet": {
+        "publishedAt": "2022-04-23T03:45:59Z",
+        "channelId": "UC6nhdyk1BRSD_AcFra1Imyw",
+        "title": "분노의 질주  - 더 세븐",
+        "description": "분노의 질주 : 더 세븐 OST\n폴 워커 추모곡 \"See You Again\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cNh8bUIqGPU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cNh8bUIqGPU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cNh8bUIqGPU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cNh8bUIqGPU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "OBang",
+        "playlistId": "UU6nhdyk1BRSD_AcFra1Imyw",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "cNh8bUIqGPU"
+        },
+        "videoOwnerChannelTitle": "OBang",
+        "videoOwnerChannelId": "UC6nhdyk1BRSD_AcFra1Imyw"
+      },
+      "contentDetails": {
+        "videoId": "cNh8bUIqGPU",
+        "videoPublishedAt": "2022-04-23T03:45:59Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "HEDhvbLCcUjnQh24XSHWCeIw6bs",
+      "id": "VVU2bmhkeWsxQlJTRF9BY0ZyYTFJbXl3LnhTNWhGeTlXVDdR",
+      "snippet": {
+        "publishedAt": "2022-04-22T23:04:41Z",
+        "channelId": "UC6nhdyk1BRSD_AcFra1Imyw",
+        "title": "가버린 친구에게 바침 - 휘버스",
+        "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xS5hFy9WT7Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xS5hFy9WT7Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xS5hFy9WT7Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xS5hFy9WT7Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xS5hFy9WT7Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "OBang",
+        "playlistId": "UU6nhdyk1BRSD_AcFra1Imyw",
+        "position": 29,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "xS5hFy9WT7Q"
+        },
+        "videoOwnerChannelTitle": "OBang",
+        "videoOwnerChannelId": "UC6nhdyk1BRSD_AcFra1Imyw"
+      },
+      "contentDetails": {
+        "videoId": "xS5hFy9WT7Q",
+        "videoPublishedAt": "2022-04-22T23:04:41Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "TfuM-dnyWO0BcOy8Drb3b9PwTiU",
+      "id": "VVU2bmhkeWsxQlJTRF9BY0ZyYTFJbXl3LkpCUWI4b2Z5UlJB",
+      "snippet": {
+        "publishedAt": "2022-04-21T22:14:54Z",
+        "channelId": "UC6nhdyk1BRSD_AcFra1Imyw",
+        "title": "찾잔 - 노고지리",
+        "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JBQb8ofyRRA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JBQb8ofyRRA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JBQb8ofyRRA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JBQb8ofyRRA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JBQb8ofyRRA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "OBang",
+        "playlistId": "UU6nhdyk1BRSD_AcFra1Imyw",
+        "position": 30,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "JBQb8ofyRRA"
+        },
+        "videoOwnerChannelTitle": "OBang",
+        "videoOwnerChannelId": "UC6nhdyk1BRSD_AcFra1Imyw"
+      },
+      "contentDetails": {
+        "videoId": "JBQb8ofyRRA",
+        "videoPublishedAt": "2022-04-21T22:14:54Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "HmxBXIj5eeNwSZQGQYtAnEhCHJs",
+      "id": "VVU2bmhkeWsxQlJTRF9BY0ZyYTFJbXl3LjNEZXQzX0V2YkFv",
+      "snippet": {
+        "publishedAt": "2022-04-21T22:10:09Z",
+        "channelId": "UC6nhdyk1BRSD_AcFra1Imyw",
+        "title": "해후 - 최성수",
+        "description": "영상소스\nhttps://www.youtube.com/user/antoni0515",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3Det3_EvbAo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3Det3_EvbAo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3Det3_EvbAo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3Det3_EvbAo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3Det3_EvbAo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "OBang",
+        "playlistId": "UU6nhdyk1BRSD_AcFra1Imyw",
+        "position": 31,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "3Det3_EvbAo"
+        },
+        "videoOwnerChannelTitle": "OBang",
+        "videoOwnerChannelId": "UC6nhdyk1BRSD_AcFra1Imyw"
+      },
+      "contentDetails": {
+        "videoId": "3Det3_EvbAo",
+        "videoPublishedAt": "2022-04-21T22:10:09Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "tt6pHok03fuwQqOIR6WPX8Ph3nw",
+      "id": "VVU2bmhkeWsxQlJTRF9BY0ZyYTFJbXl3LlRISFF6VFV4Zjd3",
+      "snippet": {
+        "publishedAt": "2022-04-20T23:33:57Z",
+        "channelId": "UC6nhdyk1BRSD_AcFra1Imyw",
+        "title": "동행 - 최성수",
+        "description": "영상소스\nhttps://www.youtube.com/user/antoni0515",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/THHQzTUxf7w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/THHQzTUxf7w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/THHQzTUxf7w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/THHQzTUxf7w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/THHQzTUxf7w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "OBang",
+        "playlistId": "UU6nhdyk1BRSD_AcFra1Imyw",
+        "position": 32,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "THHQzTUxf7w"
+        },
+        "videoOwnerChannelTitle": "OBang",
+        "videoOwnerChannelId": "UC6nhdyk1BRSD_AcFra1Imyw"
+      },
+      "contentDetails": {
+        "videoId": "THHQzTUxf7w",
+        "videoPublishedAt": "2022-04-20T23:33:57Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "psEpn1yA6-dqCPmJxgoNNCt2wuI",
+      "id": "VVU2bmhkeWsxQlJTRF9BY0ZyYTFJbXl3LnNBSldFay1seG1B",
+      "snippet": {
+        "publishedAt": "2022-04-20T00:27:59Z",
+        "channelId": "UC6nhdyk1BRSD_AcFra1Imyw",
+        "title": "내일 - 김수철",
+        "description": "영상소스\nhttps://www.youtube.com/user/antoni0515",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sAJWEk-lxmA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sAJWEk-lxmA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sAJWEk-lxmA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sAJWEk-lxmA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sAJWEk-lxmA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "OBang",
+        "playlistId": "UU6nhdyk1BRSD_AcFra1Imyw",
+        "position": 33,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "sAJWEk-lxmA"
+        },
+        "videoOwnerChannelTitle": "OBang",
+        "videoOwnerChannelId": "UC6nhdyk1BRSD_AcFra1Imyw"
+      },
+      "contentDetails": {
+        "videoId": "sAJWEk-lxmA",
+        "videoPublishedAt": "2022-04-20T00:27:59Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3qdQSYODcK0JcvhZJJ-GAKsKdrc",
+      "id": "VVU2bmhkeWsxQlJTRF9BY0ZyYTFJbXl3LjNhTmtNMDJHZjVJ",
+      "snippet": {
+        "publishedAt": "2022-04-19T07:31:40Z",
+        "channelId": "UC6nhdyk1BRSD_AcFra1Imyw",
+        "title": "촛불잔치 - 이재성",
+        "description": "영상소스\nhttps://www.youtube.com/user/antoni0515",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3aNkM02Gf5I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3aNkM02Gf5I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3aNkM02Gf5I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3aNkM02Gf5I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3aNkM02Gf5I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "OBang",
+        "playlistId": "UU6nhdyk1BRSD_AcFra1Imyw",
+        "position": 34,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "3aNkM02Gf5I"
+        },
+        "videoOwnerChannelTitle": "OBang",
+        "videoOwnerChannelId": "UC6nhdyk1BRSD_AcFra1Imyw"
+      },
+      "contentDetails": {
+        "videoId": "3aNkM02Gf5I",
+        "videoPublishedAt": "2022-04-19T07:31:40Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "PCItG-pfwTIcybvwltZxRSD2Oyw",
+      "id": "VVU2bmhkeWsxQlJTRF9BY0ZyYTFJbXl3LjdfRDBwOGl2LTYw",
+      "snippet": {
+        "publishedAt": "2022-04-19T07:04:58Z",
+        "channelId": "UC6nhdyk1BRSD_AcFra1Imyw",
+        "title": "그집앞 - 이재성",
+        "description": "영상소스\nhttps://www.youtube.com/user/antoni0515",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7_D0p8iv-60/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7_D0p8iv-60/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7_D0p8iv-60/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7_D0p8iv-60/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7_D0p8iv-60/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "OBang",
+        "playlistId": "UU6nhdyk1BRSD_AcFra1Imyw",
+        "position": 35,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7_D0p8iv-60"
+        },
+        "videoOwnerChannelTitle": "OBang",
+        "videoOwnerChannelId": "UC6nhdyk1BRSD_AcFra1Imyw"
+      },
+      "contentDetails": {
+        "videoId": "7_D0p8iv-60",
+        "videoPublishedAt": "2022-04-19T07:04:58Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "snkOTdlbBa1Ufte8EIhkQcjV3jU",
+      "id": "VVU2bmhkeWsxQlJTRF9BY0ZyYTFJbXl3LnZPbjVoQktyVFFj",
+      "snippet": {
+        "publishedAt": "2022-04-19T01:37:04Z",
+        "channelId": "UC6nhdyk1BRSD_AcFra1Imyw",
+        "title": "내일로 가는 마차 - 이재성",
+        "description": "영상소스\nhttps://www.youtube.com/user/antoni0515",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vOn5hBKrTQc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vOn5hBKrTQc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vOn5hBKrTQc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vOn5hBKrTQc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vOn5hBKrTQc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "OBang",
+        "playlistId": "UU6nhdyk1BRSD_AcFra1Imyw",
+        "position": 36,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "vOn5hBKrTQc"
+        },
+        "videoOwnerChannelTitle": "OBang",
+        "videoOwnerChannelId": "UC6nhdyk1BRSD_AcFra1Imyw"
+      },
+      "contentDetails": {
+        "videoId": "vOn5hBKrTQc",
+        "videoPublishedAt": "2022-04-19T01:37:04Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "video_details": [
+    {
+      "kind": "youtube#video",
+      "etag": "fRhQBzwNf4Rht8GrjExdZLIHFmo",
+      "id": "XQykySffMSk",
+      "snippet": {
+        "publishedAt": "2022-07-14T09:09:05Z",
+        "channelId": "UC6nhdyk1BRSD_AcFra1Imyw",
+        "title": "그대로 그렇게 - 이명훈",
+        "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XQykySffMSk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XQykySffMSk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XQykySffMSk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XQykySffMSk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XQykySffMSk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "OBang",
+        "tags": [
+          "그대로 그렇게",
+          "이명훈",
+          "7080",
+          "추어속으로"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "그대로 그렇게 - 이명훈",
+          "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT4M29S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "816",
+        "likeCount": "8",
+        "favoriteCount": "0",
+        "commentCount": "2"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Music_of_Asia"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "그대로 그렇게 - 이명훈",
+          "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "YNac7BJaxzw4pd7_acf3Esje4s0",
+      "id": "twD5fWn2CEM",
+      "snippet": {
+        "publishedAt": "2022-07-10T01:14:13Z",
+        "channelId": "UC6nhdyk1BRSD_AcFra1Imyw",
+        "title": "난 바람 넌 눈물 - 백미현",
+        "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/twD5fWn2CEM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/twD5fWn2CEM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/twD5fWn2CEM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/twD5fWn2CEM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/twD5fWn2CEM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "OBang",
+        "tags": [
+          "난 바람 넌 눈물",
+          "백미현",
+          "7080",
+          "추억속으로"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "난 바람 넌 눈물 - 백미현",
+          "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M45S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "554",
+        "likeCount": "4",
+        "favoriteCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Music_of_Asia"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "난 바람 넌 눈물 - 백미현",
+          "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "oz-lG2LEdM6kOUat7AzyXir3WPs",
+      "id": "jy7lJWmQY-M",
+      "snippet": {
+        "publishedAt": "2022-07-05T08:47:07Z",
+        "channelId": "UC6nhdyk1BRSD_AcFra1Imyw",
+        "title": "너 나 좋아해 나 너 좋아해 - 현이와 덕이",
+        "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jy7lJWmQY-M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jy7lJWmQY-M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jy7lJWmQY-M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jy7lJWmQY-M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jy7lJWmQY-M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "OBang",
+        "tags": [
+          "너 나 좋아해 나 너 좋아해",
+          "현이와 덕이",
+          "7080",
+          "추억속으로"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "너 나 좋아해 나 너 좋아해 - 현이와 덕이",
+          "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT2M37S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "302",
+        "likeCount": "4",
+        "favoriteCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Music_of_Asia",
+          "https://en.wikipedia.org/wiki/Pop_music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "너 나 좋아해 나 너 좋아해 - 현이와 덕이",
+          "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "DsK6KF5hxs4-LuNKU9gjNOejkJ8",
+      "id": "UC5umx06xgg",
+      "snippet": {
+        "publishedAt": "2022-07-01T09:33:04Z",
+        "channelId": "UC6nhdyk1BRSD_AcFra1Imyw",
+        "title": "어서 말을 해 - 유익종",
+        "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UC5umx06xgg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UC5umx06xgg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UC5umx06xgg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UC5umx06xgg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UC5umx06xgg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "OBang",
+        "tags": [
+          "어서말을해",
+          "유익종",
+          "7080",
+          "추억속으로"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "어서 말을 해 - 유익종",
+          "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M8S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "283",
+        "likeCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Music_of_Asia",
+          "https://en.wikipedia.org/wiki/Pop_music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "어서 말을 해 - 유익종",
+          "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "zimvwg3a4JJRkX2lw7baS2mddLs",
+      "id": "OESe4eQAReM",
+      "snippet": {
+        "publishedAt": "2022-06-20T00:14:12Z",
+        "channelId": "UC6nhdyk1BRSD_AcFra1Imyw",
+        "title": "추억속으로가는 음악여행 - 2집",
+        "description": "영상소스 출처\nhttps://www.youtube.com/user/antoni0515\n\n영상소스 출처\nhttps://www.youtube.com/c/편안한쉼터김대정\n\n추억속으로가는 음악여행 2집\n\n01. 가슴앓이 - 양하영\n02. 겨울비는 내리고 - 김범룡\n03. 나 어떡해 - 샌드페플즈\n04. 내가 - 김학래, 임철우\n05. 내게도 사랑이 - 함중아\n06. 달무리 - 영사운드\n07. 물같은 사랑  최혜영\n08. 미소를 띄우며 나를 보낸 그모습 처럼 - 이은하\n09. 바다에 누워 - 높은음자리 \n10. 바람 바람 바람 - 김범룡  \n11. 조약돌 - 박상규 \n12. 진실이야 - 제제 \n13. 짚시여인 - 이치현과 벗님들\n14. 토요일은 밤이 좋아 - 김종찬 \n15. 화요일에 비가 내리면 - 박미경",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OESe4eQAReM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OESe4eQAReM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OESe4eQAReM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OESe4eQAReM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OESe4eQAReM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "OBang",
+        "tags": [
+          "추억속으로가는 음악여행 2집",
+          "7080",
+          "추억속으로"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "추억속으로가는 음악여행 - 2집",
+          "description": "영상소스 출처\nhttps://www.youtube.com/user/antoni0515\n\n영상소스 출처\nhttps://www.youtube.com/c/편안한쉼터김대정\n\n추억속으로가는 음악여행 2집\n\n01. 가슴앓이 - 양하영\n02. 겨울비는 내리고 - 김범룡\n03. 나 어떡해 - 샌드페플즈\n04. 내가 - 김학래, 임철우\n05. 내게도 사랑이 - 함중아\n06. 달무리 - 영사운드\n07. 물같은 사랑  최혜영\n08. 미소를 띄우며 나를 보낸 그모습 처럼 - 이은하\n09. 바다에 누워 - 높은음자리 \n10. 바람 바람 바람 - 김범룡  \n11. 조약돌 - 박상규 \n12. 진실이야 - 제제 \n13. 짚시여인 - 이치현과 벗님들\n14. 토요일은 밤이 좋아 - 김종찬 \n15. 화요일에 비가 내리면 - 박미경"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT52M27S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "2639",
+        "likeCount": "12",
+        "favoriteCount": "0",
+        "commentCount": "4"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Music_of_Asia"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "추억속으로가는 음악여행 - 2집",
+          "description": "영상소스 출처\nhttps://www.youtube.com/user/antoni0515\n\n영상소스 출처\nhttps://www.youtube.com/c/편안한쉼터김대정\n\n추억속으로가는 음악여행 2집\n\n01. 가슴앓이 - 양하영\n02. 겨울비는 내리고 - 김범룡\n03. 나 어떡해 - 샌드페플즈\n04. 내가 - 김학래, 임철우\n05. 내게도 사랑이 - 함중아\n06. 달무리 - 영사운드\n07. 물같은 사랑  최혜영\n08. 미소를 띄우며 나를 보낸 그모습 처럼 - 이은하\n09. 바다에 누워 - 높은음자리 \n10. 바람 바람 바람 - 김범룡  \n11. 조약돌 - 박상규 \n12. 진실이야 - 제제 \n13. 짚시여인 - 이치현과 벗님들\n14. 토요일은 밤이 좋아 - 김종찬 \n15. 화요일에 비가 내리면 - 박미경"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "iErB5aSiDqhiWsY05grotosa4D0",
+      "id": "nFDMtTHhFUw",
+      "snippet": {
+        "publishedAt": "2022-05-25T10:51:39Z",
+        "channelId": "UC6nhdyk1BRSD_AcFra1Imyw",
+        "title": "화요일에 비가 내리면 - 박미경",
+        "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nFDMtTHhFUw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nFDMtTHhFUw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nFDMtTHhFUw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nFDMtTHhFUw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nFDMtTHhFUw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "OBang",
+        "tags": [
+          "화요일에 비가 내리면",
+          "박미경",
+          "7080",
+          "추억속으로"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "화요일에 비가 내리면 - 박미경",
+          "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M50S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "268",
+        "likeCount": "5",
+        "favoriteCount": "0",
+        "commentCount": "2"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Music_of_Asia"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "화요일에 비가 내리면 - 박미경",
+          "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Hd2euTd_xELLNeQKkuv-i8gnTVc",
+      "id": "YFx8jMY9FwA",
+      "snippet": {
+        "publishedAt": "2022-05-25T10:46:49Z",
+        "channelId": "UC6nhdyk1BRSD_AcFra1Imyw",
+        "title": "토요일은 밤이 좋아 - 김종찬",
+        "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YFx8jMY9FwA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YFx8jMY9FwA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YFx8jMY9FwA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YFx8jMY9FwA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YFx8jMY9FwA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "OBang",
+        "tags": [
+          "토요일은 밤이 좋아",
+          "김종찬",
+          "7080",
+          "추억속으로"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "토요일은 밤이 좋아 - 김종찬",
+          "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M13S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "265",
+        "likeCount": "4",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Music_of_Asia",
+          "https://en.wikipedia.org/wiki/Pop_music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "토요일은 밤이 좋아 - 김종찬",
+          "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "WRN3PNOMkxG2GNOosM74ZaJYDTI",
+      "id": "rbirrTYtLSU",
+      "snippet": {
+        "publishedAt": "2022-05-25T10:19:13Z",
+        "channelId": "UC6nhdyk1BRSD_AcFra1Imyw",
+        "title": "미소를 띄우며 나를 보낸 그모습 처럼 - 이은하",
+        "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rbirrTYtLSU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rbirrTYtLSU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rbirrTYtLSU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rbirrTYtLSU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rbirrTYtLSU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "OBang",
+        "tags": [
+          "미소를 띄우며 나를 보낸 그모습 처럼",
+          "이은하",
+          "7080",
+          "추억속으로"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "미소를 띄우며 나를 보낸 그모습 처럼 - 이은하",
+          "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M43S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "208",
+        "likeCount": "3",
+        "favoriteCount": "0",
+        "commentCount": "2"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Music_of_Asia",
+          "https://en.wikipedia.org/wiki/Pop_music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "미소를 띄우며 나를 보낸 그모습 처럼 - 이은하",
+          "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "vF_7T87ECZ-33y4m6l49aZmIisY",
+      "id": "extyafSmgVg",
+      "snippet": {
+        "publishedAt": "2022-05-25T10:08:36Z",
+        "channelId": "UC6nhdyk1BRSD_AcFra1Imyw",
+        "title": "진실이야 - 제제",
+        "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/extyafSmgVg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/extyafSmgVg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/extyafSmgVg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/extyafSmgVg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/extyafSmgVg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "OBang",
+        "tags": [
+          "진실이야",
+          "제제",
+          "7080",
+          "추억속으로"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "진실이야 - 제제",
+          "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M12S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1134",
+        "likeCount": "11",
+        "favoriteCount": "0",
+        "commentCount": "2"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Music_of_Asia",
+          "https://en.wikipedia.org/wiki/Pop_music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "진실이야 - 제제",
+          "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "QySzE3IOYJfa44bE_eyi4NDxwLc",
+      "id": "8w5UJDZLFs8",
+      "snippet": {
+        "publishedAt": "2022-05-25T10:03:33Z",
+        "channelId": "UC6nhdyk1BRSD_AcFra1Imyw",
+        "title": "짚시여인 - 이치현과 벗님들",
+        "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8w5UJDZLFs8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8w5UJDZLFs8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8w5UJDZLFs8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8w5UJDZLFs8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8w5UJDZLFs8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "OBang",
+        "tags": [
+          "짚시여인",
+          "이치현과 벗님들",
+          "7080",
+          "추억속으로"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "짚시여인 - 이치현과 벗님들",
+          "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M24S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "763",
+        "likeCount": "8",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Music_of_Asia"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "짚시여인 - 이치현과 벗님들",
+          "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ud9qBlL-WRrNfTFPC4IvBuw37iE",
+      "id": "OeGt43QHrr4",
+      "snippet": {
+        "publishedAt": "2022-05-25T07:59:24Z",
+        "channelId": "UC6nhdyk1BRSD_AcFra1Imyw",
+        "title": "바다에 누워 - 높은 음자리",
+        "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OeGt43QHrr4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OeGt43QHrr4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OeGt43QHrr4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OeGt43QHrr4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OeGt43QHrr4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "OBang",
+        "tags": [
+          "바다에 누워",
+          "높은 음자리",
+          "7080",
+          "추억속으로"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "바다에 누워 - 높은 음자리",
+          "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M18S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "202",
+        "likeCount": "4",
+        "favoriteCount": "0",
+        "commentCount": "2"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Music_of_Asia",
+          "https://en.wikipedia.org/wiki/Pop_music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "바다에 누워 - 높은 음자리",
+          "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "b420BcIKCPiFaKKAu9eFrw1jyLs",
+      "id": "ce9pdTUogmo",
+      "snippet": {
+        "publishedAt": "2022-05-23T08:08:30Z",
+        "channelId": "UC6nhdyk1BRSD_AcFra1Imyw",
+        "title": "빗물 - 채은옥",
+        "description": "영상소스 출처\nhttps://www.youtube.com/user/antoni0515",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ce9pdTUogmo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ce9pdTUogmo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ce9pdTUogmo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ce9pdTUogmo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ce9pdTUogmo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "OBang",
+        "tags": [
+          "빗물",
+          "채은옥",
+          "7080",
+          "추억속으로"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "빗물 - 채은옥",
+          "description": "영상소스 출처\nhttps://www.youtube.com/user/antoni0515"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M36S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "455",
+        "likeCount": "8",
+        "favoriteCount": "0",
+        "commentCount": "4"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Music_of_Asia",
+          "https://en.wikipedia.org/wiki/Pop_music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "빗물 - 채은옥",
+          "description": "영상소스 출처\nhttps://www.youtube.com/user/antoni0515"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "CWqb66NIgMvFer1SOEy0KzGuMps",
+      "id": "FtzySMYo3eg",
+      "snippet": {
+        "publishedAt": "2022-05-22T05:02:19Z",
+        "channelId": "UC6nhdyk1BRSD_AcFra1Imyw",
+        "title": "바람 바람 바람 - 김범룡",
+        "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FtzySMYo3eg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FtzySMYo3eg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FtzySMYo3eg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FtzySMYo3eg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FtzySMYo3eg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "OBang",
+        "tags": [
+          "바람 바람 바람",
+          "김범룡",
+          "7080",
+          "추억속으로"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "바람 바람 바람 - 김범룡",
+          "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M19S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "368",
+        "likeCount": "5",
+        "favoriteCount": "0",
+        "commentCount": "2"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Music_of_Asia"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "바람 바람 바람 - 김범룡",
+          "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ME1ENVL-PSkwR3yaTalwVpexXSU",
+      "id": "iIWu3nErg3k",
+      "snippet": {
+        "publishedAt": "2022-05-21T05:45:42Z",
+        "channelId": "UC6nhdyk1BRSD_AcFra1Imyw",
+        "title": "물같은 사랑 - 최혜영",
+        "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iIWu3nErg3k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iIWu3nErg3k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iIWu3nErg3k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iIWu3nErg3k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iIWu3nErg3k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "OBang",
+        "tags": [
+          "물같은 사랑",
+          "최혜영",
+          "7080",
+          "추억속으로"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "물같은 사랑 - 최혜영",
+          "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M29S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "504",
+        "likeCount": "6",
+        "favoriteCount": "0",
+        "commentCount": "2"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Music_of_Asia"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "물같은 사랑 - 최혜영",
+          "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Ai1E6o4sMNserARpJDlky3Jk8rw",
+      "id": "MrUar_Isowg",
+      "snippet": {
+        "publishedAt": "2022-05-19T01:21:29Z",
+        "channelId": "UC6nhdyk1BRSD_AcFra1Imyw",
+        "title": "달무리 - 영사운드",
+        "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MrUar_Isowg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MrUar_Isowg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MrUar_Isowg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MrUar_Isowg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MrUar_Isowg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "OBang",
+        "tags": [
+          "달무리",
+          "영 사운드",
+          "7080",
+          "추억속으로",
+          "밀양",
+          "초동면",
+          "오방리"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "달무리 - 영사운드",
+          "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M21S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "448",
+        "likeCount": "9",
+        "favoriteCount": "0",
+        "commentCount": "4"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Music_of_Asia",
+          "https://en.wikipedia.org/wiki/Pop_music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "달무리 - 영사운드",
+          "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "2I_Oas9GTGyjSbPX0jhsna6iqUE",
+      "id": "0yvRtVNoRWA",
+      "snippet": {
+        "publishedAt": "2022-05-16T09:13:37Z",
+        "channelId": "UC6nhdyk1BRSD_AcFra1Imyw",
+        "title": "내게도 사랑이 - 함중아",
+        "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0yvRtVNoRWA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0yvRtVNoRWA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0yvRtVNoRWA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0yvRtVNoRWA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0yvRtVNoRWA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "OBang",
+        "tags": [
+          "내게도 사랑이",
+          "함중아",
+          "7080",
+          "추억속으로",
+          "밀양",
+          "초동면",
+          "오방리"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "내게도 사랑이 - 함중아",
+          "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT2M46S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "435",
+        "likeCount": "6",
+        "favoriteCount": "0",
+        "commentCount": "2"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Music_of_Asia"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "내게도 사랑이 - 함중아",
+          "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "OBvfGQC1bCHdW655D3KBB18q2VQ",
+      "id": "f_PaaPMyBjk",
+      "snippet": {
+        "publishedAt": "2022-05-14T23:06:44Z",
+        "channelId": "UC6nhdyk1BRSD_AcFra1Imyw",
+        "title": "내가 - 김학래, 임철우",
+        "description": "영상소스\nhttps://www.youtube.com/user/antoni0515",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/f_PaaPMyBjk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/f_PaaPMyBjk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/f_PaaPMyBjk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/f_PaaPMyBjk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/f_PaaPMyBjk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "OBang",
+        "tags": [
+          "내가",
+          "김학래",
+          "7080",
+          "추억속으로",
+          "밀양",
+          "초동면",
+          "오방리"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "내가 - 김학래, 임철우",
+          "description": "영상소스\nhttps://www.youtube.com/user/antoni0515"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M56S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "645",
+        "likeCount": "5",
+        "favoriteCount": "0",
+        "commentCount": "2"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Music_of_Asia",
+          "https://en.wikipedia.org/wiki/Rock_music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "내가 - 김학래, 임철우",
+          "description": "영상소스\nhttps://www.youtube.com/user/antoni0515"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "IbmMJnVBxGJA372Sn4_LGlSR_QE",
+      "id": "Vytq5WN98Fc",
+      "snippet": {
+        "publishedAt": "2022-05-13T10:27:36Z",
+        "channelId": "UC6nhdyk1BRSD_AcFra1Imyw",
+        "title": "나 어떡해 - 샌드페플즈",
+        "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Vytq5WN98Fc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Vytq5WN98Fc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Vytq5WN98Fc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Vytq5WN98Fc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Vytq5WN98Fc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "OBang",
+        "tags": [
+          "나 어떻해",
+          "샌드페플즈",
+          "7080",
+          "추억속으로",
+          "밀양",
+          "초동면",
+          "오방리"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "나 어떡해 - 샌드페플즈",
+          "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT4M20S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "308",
+        "likeCount": "6",
+        "favoriteCount": "0",
+        "commentCount": "4"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Music_of_Asia",
+          "https://en.wikipedia.org/wiki/Pop_music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "나 어떡해 - 샌드페플즈",
+          "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "VeSk0qfcwn94LVFLLKjoEpW02dw",
+      "id": "jyQjfjKoP_E",
+      "snippet": {
+        "publishedAt": "2022-05-11T06:32:17Z",
+        "channelId": "UC6nhdyk1BRSD_AcFra1Imyw",
+        "title": "겨울비는 내리고 - 김범룡",
+        "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jyQjfjKoP_E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jyQjfjKoP_E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jyQjfjKoP_E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jyQjfjKoP_E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jyQjfjKoP_E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "OBang",
+        "tags": [
+          "겨울비는 내리고",
+          "김범룡",
+          "7080",
+          "추억속으로",
+          "밀양",
+          "초동면",
+          "오방리"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "겨울비는 내리고 - 김범룡",
+          "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M56S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "224",
+        "likeCount": "7",
+        "favoriteCount": "0",
+        "commentCount": "3"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Music_of_Asia"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "겨울비는 내리고 - 김범룡",
+          "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "04l7O9RQLiNutBkMFTJfEvave2o",
+      "id": "aWsBH7FU3Mg",
+      "snippet": {
+        "publishedAt": "2022-05-09T23:59:53Z",
+        "channelId": "UC6nhdyk1BRSD_AcFra1Imyw",
+        "title": "가슴앓이 - 양하영",
+        "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aWsBH7FU3Mg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aWsBH7FU3Mg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aWsBH7FU3Mg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aWsBH7FU3Mg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aWsBH7FU3Mg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "OBang",
+        "tags": [
+          "가슴앓이",
+          "양하영",
+          "한마음",
+          "7080",
+          "추억속으로",
+          "밀양",
+          "초동면",
+          "오방리"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "가슴앓이 - 양하영",
+          "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M38S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "362",
+        "likeCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "2"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Music_of_Asia",
+          "https://en.wikipedia.org/wiki/Pop_music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "가슴앓이 - 양하영",
+          "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "B3PUASzKLUuk38zBiDBi4LuKspY",
+      "id": "pCu2JdJyEMU",
+      "snippet": {
+        "publishedAt": "2022-04-29T10:00:30Z",
+        "channelId": "UC6nhdyk1BRSD_AcFra1Imyw",
+        "title": "추억속으로가는 음악여행 - 1집",
+        "description": "영상소스\nhttps://www.youtube.com/user/antoni0515\n영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정\n\n추억속으로가는 음악여행 1집\n01. 가버린 친구에게 바침 - 휘버스\n02. 그집앞 - 이재성\n03. 기차와 소나무 - 이규석\n04. 꿈에 - 조덕배\n05. 내일 - 김수철\n06. 내일로 가는 마차 - 이재성\n07. 너 - 이종영\n08. 동행 - 최성수\n09. 등불 - 영사운드\n10. 슬픔의 심로 - 김학래\n11. 찾잔 - 노고지리\n12. 촛불잔치 - 이재성\n13. 해후 - 최성수\n14. 홀로된 사랑 - 여운\n15. 희나리 - 구창모",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pCu2JdJyEMU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pCu2JdJyEMU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pCu2JdJyEMU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pCu2JdJyEMU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pCu2JdJyEMU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "OBang",
+        "tags": [
+          "가버린 친구에게 바침",
+          "휘버스",
+          "그집앞",
+          "기차와 소나무",
+          "꿈에",
+          "등불",
+          "홀로된 사랑",
+          "내일로가는 마차",
+          "동행",
+          "해후",
+          "내일",
+          "희나리",
+          "슬픔의 심로",
+          "찾잔",
+          "너",
+          "촛불잔치",
+          "8080",
+          "추억속으로 가는 음악 여행",
+          "초동면",
+          "오방리"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "추억속으로가는 음악여행 - 1집",
+          "description": "영상소스\nhttps://www.youtube.com/user/antoni0515\n영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정\n\n추억속으로가는 음악여행 1집\n01. 가버린 친구에게 바침 - 휘버스\n02. 그집앞 - 이재성\n03. 기차와 소나무 - 이규석\n04. 꿈에 - 조덕배\n05. 내일 - 김수철\n06. 내일로 가는 마차 - 이재성\n07. 너 - 이종영\n08. 동행 - 최성수\n09. 등불 - 영사운드\n10. 슬픔의 심로 - 김학래\n11. 찾잔 - 노고지리\n12. 촛불잔치 - 이재성\n13. 해후 - 최성수\n14. 홀로된 사랑 - 여운\n15. 희나리 - 구창모"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT58M29S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "2831",
+        "likeCount": "25",
+        "favoriteCount": "0",
+        "commentCount": "3"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Music_of_Asia",
+          "https://en.wikipedia.org/wiki/Pop_music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "추억속으로가는 음악여행 - 1집",
+          "description": "영상소스\nhttps://www.youtube.com/user/antoni0515\n영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정\n\n추억속으로가는 음악여행 1집\n01. 가버린 친구에게 바침 - 휘버스\n02. 그집앞 - 이재성\n03. 기차와 소나무 - 이규석\n04. 꿈에 - 조덕배\n05. 내일 - 김수철\n06. 내일로 가는 마차 - 이재성\n07. 너 - 이종영\n08. 동행 - 최성수\n09. 등불 - 영사운드\n10. 슬픔의 심로 - 김학래\n11. 찾잔 - 노고지리\n12. 촛불잔치 - 이재성\n13. 해후 - 최성수\n14. 홀로된 사랑 - 여운\n15. 희나리 - 구창모"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "8KpOTs-3Wewe5xFH8IuvckD4wIQ",
+      "id": "_wF7BxIkSFw",
+      "snippet": {
+        "publishedAt": "2022-04-28T10:04:24Z",
+        "channelId": "UC6nhdyk1BRSD_AcFra1Imyw",
+        "title": "등불 - 영사운드",
+        "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_wF7BxIkSFw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_wF7BxIkSFw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_wF7BxIkSFw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_wF7BxIkSFw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_wF7BxIkSFw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "OBang",
+        "tags": [
+          "등불",
+          "영사운드",
+          "7080",
+          "추억속으로",
+          "밀양",
+          "초동면",
+          "오방리"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "등불 - 영사운드",
+          "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT4M4S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "295",
+        "likeCount": "6",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Music_of_Asia",
+          "https://en.wikipedia.org/wiki/Pop_music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "등불 - 영사운드",
+          "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "IhP1AGiKtymhQj_bCu4upF44Ud8",
+      "id": "mWBEjuDc0BY",
+      "snippet": {
+        "publishedAt": "2022-04-28T10:03:04Z",
+        "channelId": "UC6nhdyk1BRSD_AcFra1Imyw",
+        "title": "기차와 소나무 - 이규석",
+        "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mWBEjuDc0BY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mWBEjuDc0BY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mWBEjuDc0BY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mWBEjuDc0BY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mWBEjuDc0BY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "OBang",
+        "tags": [
+          "기차와 소나무",
+          "이규석",
+          "7080",
+          "추억속으로",
+          "밀양",
+          "초동면",
+          "오방리"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "기차와 소나무 - 이규석",
+          "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M52S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "371",
+        "likeCount": "4",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Music_of_Asia",
+          "https://en.wikipedia.org/wiki/Pop_music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "기차와 소나무 - 이규석",
+          "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "j8UCmoTnLTfKz7xnLiQtCYQ6W4Y",
+      "id": "h9M-0Ueq6aw",
+      "snippet": {
+        "publishedAt": "2022-04-28T10:01:53Z",
+        "channelId": "UC6nhdyk1BRSD_AcFra1Imyw",
+        "title": "희나리 - 구창모",
+        "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/h9M-0Ueq6aw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/h9M-0Ueq6aw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/h9M-0Ueq6aw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/h9M-0Ueq6aw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/h9M-0Ueq6aw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "OBang",
+        "tags": [
+          "희나리",
+          "구창모",
+          "7080",
+          "추억속으로",
+          "음악여행",
+          "밀양",
+          "초동면",
+          "오방리"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "희나리 - 구창모",
+          "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT4M6S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "250",
+        "likeCount": "3",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Music_of_Asia",
+          "https://en.wikipedia.org/wiki/Pop_music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "희나리 - 구창모",
+          "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "I35YbGJ23k7oRspubjUmRjV-CCk",
+      "id": "7fcDPs4_qmg",
+      "snippet": {
+        "publishedAt": "2022-04-28T10:00:21Z",
+        "channelId": "UC6nhdyk1BRSD_AcFra1Imyw",
+        "title": "꿈에 - 조덕배",
+        "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7fcDPs4_qmg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7fcDPs4_qmg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7fcDPs4_qmg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7fcDPs4_qmg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7fcDPs4_qmg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "OBang",
+        "tags": [
+          "꿈에",
+          "조덕배",
+          "7080",
+          "추억속으로",
+          "밀양",
+          "초동면",
+          "오방리"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "꿈에 - 조덕배",
+          "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT4M53S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "185",
+        "likeCount": "5",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Music_of_Asia"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "꿈에 - 조덕배",
+          "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "DhQDQ4Hb56A8rRv4QQzusesYjZk",
+      "id": "PKsRp6XVodc",
+      "snippet": {
+        "publishedAt": "2022-04-26T23:52:11Z",
+        "channelId": "UC6nhdyk1BRSD_AcFra1Imyw",
+        "title": "홀로된 사랑 - 여운",
+        "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PKsRp6XVodc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PKsRp6XVodc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PKsRp6XVodc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PKsRp6XVodc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PKsRp6XVodc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "OBang",
+        "tags": [
+          "홀로된사랑",
+          "여운",
+          "7080",
+          "추억속으로",
+          "밀양",
+          "초동면",
+          "오방리"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "홀로된 사랑 - 여운",
+          "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M40S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "283",
+        "likeCount": "6",
+        "favoriteCount": "0",
+        "commentCount": "2"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Music_of_Asia",
+          "https://en.wikipedia.org/wiki/Pop_music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "홀로된 사랑 - 여운",
+          "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "dIIgmS2_eD7hWTdEaiWcGTfTWoY",
+      "id": "Rab0S4uKWzc",
+      "snippet": {
+        "publishedAt": "2022-04-25T00:41:54Z",
+        "channelId": "UC6nhdyk1BRSD_AcFra1Imyw",
+        "title": "너 - 이종영",
+        "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Rab0S4uKWzc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Rab0S4uKWzc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Rab0S4uKWzc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Rab0S4uKWzc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Rab0S4uKWzc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "OBang",
+        "tags": [
+          "너",
+          "이종영",
+          "7080",
+          "추억속으로",
+          "밀양",
+          "초동면",
+          "오방리"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "너 - 이종영",
+          "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M46S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "304",
+        "likeCount": "3",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Music_of_Asia"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "너 - 이종영",
+          "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Pt185NJtMnMoVVd9GK6WUfroxrc",
+      "id": "qJs7KFKUqWA",
+      "snippet": {
+        "publishedAt": "2022-04-24T00:28:43Z",
+        "channelId": "UC6nhdyk1BRSD_AcFra1Imyw",
+        "title": "슬픔의 심로 - 김학래",
+        "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qJs7KFKUqWA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qJs7KFKUqWA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qJs7KFKUqWA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qJs7KFKUqWA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qJs7KFKUqWA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "OBang",
+        "tags": [
+          "슬픔의 심로",
+          "김학래",
+          "7080",
+          "추억속으로",
+          "밀양",
+          "초동면",
+          "오방리"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "슬픔의 심로 - 김학래",
+          "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M35S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "328",
+        "likeCount": "8",
+        "favoriteCount": "0",
+        "commentCount": "2"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Music_of_Asia",
+          "https://en.wikipedia.org/wiki/Rock_music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "슬픔의 심로 - 김학래",
+          "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "qlh67AzB-Po0DW-R8CINuKuHf7g",
+      "id": "cNh8bUIqGPU",
+      "snippet": {
+        "publishedAt": "2022-04-23T03:45:59Z",
+        "channelId": "UC6nhdyk1BRSD_AcFra1Imyw",
+        "title": "분노의 질주  - 더 세븐",
+        "description": "분노의 질주 : 더 세븐 OST\n폴 워커 추모곡 \"See You Again\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cNh8bUIqGPU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cNh8bUIqGPU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cNh8bUIqGPU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cNh8bUIqGPU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "OBang",
+        "tags": [
+          "분노의 질주",
+          "분노의 질주7",
+          "폴워커",
+          "폴 워커 추모곡",
+          "See You Again",
+          "더 세븐 OST"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "분노의 질주  - 더 세븐",
+          "description": "분노의 질주 : 더 세븐 OST\n폴 워커 추모곡 \"See You Again\""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT5M7S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "148",
+        "likeCount": "5",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Pop_music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "분노의 질주  - 더 세븐",
+          "description": "분노의 질주 : 더 세븐 OST\n폴 워커 추모곡 \"See You Again\""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "qp56nA8RHZhTaz7Wqoo4vyTGfco",
+      "id": "xS5hFy9WT7Q",
+      "snippet": {
+        "publishedAt": "2022-04-22T23:04:41Z",
+        "channelId": "UC6nhdyk1BRSD_AcFra1Imyw",
+        "title": "가버린 친구에게 바침 - 휘버스",
+        "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xS5hFy9WT7Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xS5hFy9WT7Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xS5hFy9WT7Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xS5hFy9WT7Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xS5hFy9WT7Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "OBang",
+        "tags": [
+          "가버린 친구에게 바침",
+          "휘버스",
+          "7080",
+          "추억속으로",
+          "밀양",
+          "초동면",
+          "오방리"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "가버린 친구에게 바침 - 휘버스",
+          "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M43S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "934",
+        "likeCount": "8",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Music_of_Asia"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "가버린 친구에게 바침 - 휘버스",
+          "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "m-b-rHCxmvL_Ob-OVinPwO8QMvk",
+      "id": "JBQb8ofyRRA",
+      "snippet": {
+        "publishedAt": "2022-04-21T22:14:54Z",
+        "channelId": "UC6nhdyk1BRSD_AcFra1Imyw",
+        "title": "찾잔 - 노고지리",
+        "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JBQb8ofyRRA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JBQb8ofyRRA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JBQb8ofyRRA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JBQb8ofyRRA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JBQb8ofyRRA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "OBang",
+        "tags": [
+          "찾잔",
+          "노고지리",
+          "7080",
+          "추억속으로",
+          "밀양",
+          "초동면",
+          "오방리"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "찾잔 - 노고지리",
+          "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M38S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "446",
+        "likeCount": "7",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Music_of_Asia",
+          "https://en.wikipedia.org/wiki/Pop_music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "찾잔 - 노고지리",
+          "description": "영상소스\nhttps://www.youtube.com/c/편안한쉼터김대정"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "XNRrtyRDyo5FfKoTDxt3nWPMVW4",
+      "id": "3Det3_EvbAo",
+      "snippet": {
+        "publishedAt": "2022-04-21T22:10:09Z",
+        "channelId": "UC6nhdyk1BRSD_AcFra1Imyw",
+        "title": "해후 - 최성수",
+        "description": "영상소스\nhttps://www.youtube.com/user/antoni0515",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3Det3_EvbAo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3Det3_EvbAo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3Det3_EvbAo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3Det3_EvbAo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3Det3_EvbAo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "OBang",
+        "tags": [
+          "해후",
+          "최성수",
+          "7080",
+          "추억속으로",
+          "밀양",
+          "초동면",
+          "오방리"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "해후 - 최성수",
+          "description": "영상소스\nhttps://www.youtube.com/user/antoni0515"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT4M37S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "772",
+        "likeCount": "3",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Music_of_Asia",
+          "https://en.wikipedia.org/wiki/Pop_music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "해후 - 최성수",
+          "description": "영상소스\nhttps://www.youtube.com/user/antoni0515"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "fn7YfIIsAqOVAEPM0B2luMfcPtg",
+      "id": "THHQzTUxf7w",
+      "snippet": {
+        "publishedAt": "2022-04-20T23:33:57Z",
+        "channelId": "UC6nhdyk1BRSD_AcFra1Imyw",
+        "title": "동행 - 최성수",
+        "description": "영상소스\nhttps://www.youtube.com/user/antoni0515",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/THHQzTUxf7w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/THHQzTUxf7w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/THHQzTUxf7w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/THHQzTUxf7w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/THHQzTUxf7w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "OBang",
+        "tags": [
+          "동행",
+          "최성수",
+          "초동면",
+          "오방리",
+          "밀양",
+          "7080",
+          "추억속으로"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "동행 - 최성수",
+          "description": "영상소스\nhttps://www.youtube.com/user/antoni0515"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M43S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "497",
+        "likeCount": "7",
+        "favoriteCount": "0",
+        "commentCount": "3"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Music_of_Asia",
+          "https://en.wikipedia.org/wiki/Pop_music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "동행 - 최성수",
+          "description": "영상소스\nhttps://www.youtube.com/user/antoni0515"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "r6VuwTcGDhDLQny9PXMqCKg09sE",
+      "id": "sAJWEk-lxmA",
+      "snippet": {
+        "publishedAt": "2022-04-20T00:27:59Z",
+        "channelId": "UC6nhdyk1BRSD_AcFra1Imyw",
+        "title": "내일 - 김수철",
+        "description": "영상소스\nhttps://www.youtube.com/user/antoni0515",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sAJWEk-lxmA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sAJWEk-lxmA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sAJWEk-lxmA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sAJWEk-lxmA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sAJWEk-lxmA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "OBang",
+        "tags": [
+          "내일",
+          "김수철",
+          "7080",
+          "추억속으로",
+          "초동면",
+          "오방리",
+          "밀양"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "내일 - 김수철",
+          "description": "영상소스\nhttps://www.youtube.com/user/antoni0515"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M41S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "349",
+        "likeCount": "5",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Music_of_Asia",
+          "https://en.wikipedia.org/wiki/Pop_music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "내일 - 김수철",
+          "description": "영상소스\nhttps://www.youtube.com/user/antoni0515"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Af9Y98e1zcLggkaCrepMMXnAHpY",
+      "id": "3aNkM02Gf5I",
+      "snippet": {
+        "publishedAt": "2022-04-19T07:31:40Z",
+        "channelId": "UC6nhdyk1BRSD_AcFra1Imyw",
+        "title": "촛불잔치 - 이재성",
+        "description": "영상소스\nhttps://www.youtube.com/user/antoni0515",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3aNkM02Gf5I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3aNkM02Gf5I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3aNkM02Gf5I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3aNkM02Gf5I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3aNkM02Gf5I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "OBang",
+        "tags": [
+          "초동면",
+          "오방리",
+          "촛불잔치",
+          "이재성",
+          "7080",
+          "추억속으로"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "촛불잔치 - 이재성",
+          "description": "영상소스\nhttps://www.youtube.com/user/antoni0515"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M16S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1375",
+        "likeCount": "7",
+        "favoriteCount": "0",
+        "commentCount": "2"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Electronic_music",
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Music_of_Asia"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "촛불잔치 - 이재성",
+          "description": "영상소스\nhttps://www.youtube.com/user/antoni0515"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "j59gb_JVBD0Pv9i9Ay-MWtLGjIQ",
+      "id": "7_D0p8iv-60",
+      "snippet": {
+        "publishedAt": "2022-04-19T07:04:58Z",
+        "channelId": "UC6nhdyk1BRSD_AcFra1Imyw",
+        "title": "그집앞 - 이재성",
+        "description": "영상소스\nhttps://www.youtube.com/user/antoni0515",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7_D0p8iv-60/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7_D0p8iv-60/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7_D0p8iv-60/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7_D0p8iv-60/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7_D0p8iv-60/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "OBang",
+        "tags": [
+          "초동면",
+          "오방리",
+          "그집앞",
+          "이재성",
+          "7080",
+          "추억속으로"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "그집앞 - 이재성",
+          "description": "영상소스\nhttps://www.youtube.com/user/antoni0515"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT4M15S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "286",
+        "likeCount": "6",
+        "favoriteCount": "0",
+        "commentCount": "7"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Music_of_Asia",
+          "https://en.wikipedia.org/wiki/Pop_music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "그집앞 - 이재성",
+          "description": "영상소스\nhttps://www.youtube.com/user/antoni0515"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "M0xMuybf7qMLR7Ph1IDer7fJ7ko",
+      "id": "vOn5hBKrTQc",
+      "snippet": {
+        "publishedAt": "2022-04-19T01:37:04Z",
+        "channelId": "UC6nhdyk1BRSD_AcFra1Imyw",
+        "title": "내일로 가는 마차 - 이재성",
+        "description": "영상소스\nhttps://www.youtube.com/user/antoni0515",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vOn5hBKrTQc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vOn5hBKrTQc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vOn5hBKrTQc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vOn5hBKrTQc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vOn5hBKrTQc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "OBang",
+        "tags": [
+          "초동면",
+          "오방리",
+          "이재성",
+          "내일로 가는 마차",
+          "7080",
+          "추억속으로"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "내일로 가는 마차 - 이재성",
+          "description": "영상소스\nhttps://www.youtube.com/user/antoni0515"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M46S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "712",
+        "likeCount": "10",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Music_of_Asia"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "내일로 가는 마차 - 이재성",
+          "description": "영상소스\nhttps://www.youtube.com/user/antoni0515"
+        }
+      }
+    }
+  ]
+}

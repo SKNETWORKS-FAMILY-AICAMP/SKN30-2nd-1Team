@@ -1,0 +1,1957 @@
+{
+  "idx": 3546,
+  "channel_id": "UCZVrCjdAZ6cERcaffS5i3rA",
+  "channel_title": "톰과나 tomandme",
+  "playlist_items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "54ms5Y-pIYOZzphQONTH4rgP-18",
+      "id": "VVVaVnJDamRBWjZjRVJjYWZmUzVpM3JBLjk0eVB4QU04YXdj",
+      "snippet": {
+        "publishedAt": "2020-02-20T09:00:13Z",
+        "channelId": "UCZVrCjdAZ6cERcaffS5i3rA",
+        "title": "지브리같은 프랑스 깡시골 VLOG🇫🇷프랑스어X 여행X 친구X로 90일살아남기! 90days in France  「앤지in프랑스」",
+        "description": "CONTACT |\ntomandme4@gmail.com\n\nINSTAGRAM | @tomandme4\nhttps://www.instagram.com/tomandme4/\n\nMUSIC |\nhttps://www.youtube.com/watch?v=J8hgUxmBxyc\nhttps://www.youtube.com/watch?v=6zH-D8XOcZY\n\nCAMERA |\nSony 미러리스 a5000 | Canon G7x mark 2\n\nPROGRAM |\nFinal Cut Pro\n\n#프랑스브이로그 #프랑스일상 #여행",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/94yPxAM8awc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/94yPxAM8awc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/94yPxAM8awc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/94yPxAM8awc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/94yPxAM8awc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "톰과나 tomandme",
+        "playlistId": "UUZVrCjdAZ6cERcaffS5i3rA",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "94yPxAM8awc"
+        },
+        "videoOwnerChannelTitle": "톰과나 tomandme",
+        "videoOwnerChannelId": "UCZVrCjdAZ6cERcaffS5i3rA"
+      },
+      "contentDetails": {
+        "videoId": "94yPxAM8awc",
+        "videoPublishedAt": "2020-02-20T09:00:13Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "b2l0PEKrhredgMdrPU4Guf7oesM",
+      "id": "VVVaVnJDamRBWjZjRVJjYWZmUzVpM3JBLk9CU2RscThUSjhR",
+      "snippet": {
+        "publishedAt": "2020-02-08T11:30:11Z",
+        "channelId": "UCZVrCjdAZ6cERcaffS5i3rA",
+        "title": "프랑스여행말고 프랑스봉사🇫🇷21살혼자 프랑스90일 살아보기 90days in France 「앤지in프랑스」",
+        "description": "CONTACT |\ntomandme4@gmail.com\n\nINSTAGRAM | @tomandme4\nhttps://www.instagram.com/tomandme4/\n\nCAMERA |\nSony 미러리스 a5000 | Canon G7x mark 2\n\nPROGRAM |\nFinal Cut Pro\n\n#프랑스브이로그 #프랑스일상 #혼자여행",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OBSdlq8TJ8Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OBSdlq8TJ8Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OBSdlq8TJ8Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OBSdlq8TJ8Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OBSdlq8TJ8Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "톰과나 tomandme",
+        "playlistId": "UUZVrCjdAZ6cERcaffS5i3rA",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "OBSdlq8TJ8Q"
+        },
+        "videoOwnerChannelTitle": "톰과나 tomandme",
+        "videoOwnerChannelId": "UCZVrCjdAZ6cERcaffS5i3rA"
+      },
+      "contentDetails": {
+        "videoId": "OBSdlq8TJ8Q",
+        "videoPublishedAt": "2020-02-08T11:30:11Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "xDolHxWet7ILiIHHGjK24j8tTc0",
+      "id": "VVVaVnJDamRBWjZjRVJjYWZmUzVpM3JBLkQ1b01UMXFzeWRJ",
+      "snippet": {
+        "publishedAt": "2019-09-21T09:00:12Z",
+        "channelId": "UCZVrCjdAZ6cERcaffS5i3rA",
+        "title": "🔥딱10초불렀는데 커버요청폭주🔥지브리OST - 원령공주 Princess Mononoke cover",
+        "description": "아래 앤지의 사운드 클라우드에서 100회 한정 무료다운&무한재생 하실 수 있어요!⭐️\nhttps://soundcloud.com/tom-me-928831613/angie-ost-mononoke-hime/s-6dfrx\n\n전 영상에서 10초정도 흥얼거린 곡을 커버 해달라는 댓글이 많이 보여서 평소에 가장 좋아하는 지브리 애니메이션인 원령공주 OST를 불러봤어요😘\n\n촬영한 곳은 프랑스의 한 작은 시골마을이에요! :-)\n숲이라 더 노래에 몰입할 수 있었네요👍🏻\n그럼 곧 프랑스 브이로그로 찾아뵐게요❤️\n\n-\n\nCONTACT |\ntomandme4@gmail.com\n\nINSTAGRAM | @tomandme4\nhttps://www.instagram.com/tomandme4/\n\nMUSIC |\npiano by Sangeo of Music\nhttps://youtu.be/FVV9BFY94Gw\n\nCAMERA |\nSony 미러리스 a5000 | Canon G7x mark 2\n\nPROGRAM |\nFinal Cut Pro",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/D5oMT1qsydI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/D5oMT1qsydI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/D5oMT1qsydI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/D5oMT1qsydI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/D5oMT1qsydI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "톰과나 tomandme",
+        "playlistId": "UUZVrCjdAZ6cERcaffS5i3rA",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "D5oMT1qsydI"
+        },
+        "videoOwnerChannelTitle": "톰과나 tomandme",
+        "videoOwnerChannelId": "UCZVrCjdAZ6cERcaffS5i3rA"
+      },
+      "contentDetails": {
+        "videoId": "D5oMT1qsydI",
+        "videoPublishedAt": "2019-09-21T09:00:12Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "MzMJ69A-2ZNNX0cIyxOByIhvhsk",
+      "id": "VVVaVnJDamRBWjZjRVJjYWZmUzVpM3JBLmp2NFdUREhUaHc4",
+      "snippet": {
+        "publishedAt": "2018-12-19T10:58:48Z",
+        "channelId": "UCZVrCjdAZ6cERcaffS5i3rA",
+        "title": "열여덟살의 나홀로호주스토리🇦🇺 나의 365일을 담은 인생영화 feat. 호주 어학연수 후기",
+        "description": "CONTACT |\ntomandme4@gmail.com\n\nINSTAGRAM |\n@tomandme4\n\nMUSIC |\nLAKEY INSPIRED - Holding On\nhttps://soundcloud.com/lakeyinspired\n\nCAMERA |\nRX100M5 | Sony 미러리스 a5000\n\nPROGRAM |\nVegas pro 12\n\n#호주어학연수 #호주vlog #다이어리",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jv4WTDHThw8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jv4WTDHThw8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jv4WTDHThw8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jv4WTDHThw8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jv4WTDHThw8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "톰과나 tomandme",
+        "playlistId": "UUZVrCjdAZ6cERcaffS5i3rA",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "jv4WTDHThw8"
+        },
+        "videoOwnerChannelTitle": "톰과나 tomandme",
+        "videoOwnerChannelId": "UCZVrCjdAZ6cERcaffS5i3rA"
+      },
+      "contentDetails": {
+        "videoId": "jv4WTDHThw8",
+        "videoPublishedAt": "2018-12-19T10:58:48Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "5Q7J2GVEUs4_q4Ka-6QdJt8RFG8",
+      "id": "VVVaVnJDamRBWjZjRVJjYWZmUzVpM3JBLlNVVUtrTklvak9F",
+      "snippet": {
+        "publishedAt": "2018-09-30T06:00:38Z",
+        "channelId": "UCZVrCjdAZ6cERcaffS5i3rA",
+        "title": "전교꼴등 18살이 디자이너로 취업할 수 있었던 이유와 퇴사 후 외국으로 떠난 계기?",
+        "description": "CONTACT |\ntomandme4@gmail.com\n\nINSTAGRAM |\n@tomandme4\n\nMUSIC |\nES_Before Chill - Yomoti\nES_What's In It For Me (Instrumental Version) - Gloria Tells\nES_Piece Of Streets - Molife\n\nCAMERA |\nRX100M5\n\nPROGRAM |\nVegas pro 12",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SUUKkNIojOE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SUUKkNIojOE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SUUKkNIojOE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SUUKkNIojOE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SUUKkNIojOE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "톰과나 tomandme",
+        "playlistId": "UUZVrCjdAZ6cERcaffS5i3rA",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "SUUKkNIojOE"
+        },
+        "videoOwnerChannelTitle": "톰과나 tomandme",
+        "videoOwnerChannelId": "UCZVrCjdAZ6cERcaffS5i3rA"
+      },
+      "contentDetails": {
+        "videoId": "SUUKkNIojOE",
+        "videoPublishedAt": "2018-09-30T06:00:38Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_phA6siwNpkiDeObGqCH9UKueeM",
+      "id": "VVVaVnJDamRBWjZjRVJjYWZmUzVpM3JBLmZLV0FZT3dHVHU0",
+      "snippet": {
+        "publishedAt": "2018-09-20T10:11:14Z",
+        "channelId": "UCZVrCjdAZ6cERcaffS5i3rA",
+        "title": "애인에게 직접 불러줬었던 감성포텐 명곡 Somewhere Only We Know Full Ver ☁",
+        "description": "CONTACT |\ntomandme4@gmail.com\n\nINSTAGRAM |\n@tomandme4\n\nMUSIC |\nSomewhere Only We Know (Lily Allen version) -\n Guitar Chords and Tabs / Takashi Terada\nhttps://www.youtube.com/watch?v=XQsHT...\n\nCAMERA |\nSony 미러리스 a5000\n\nPROGRAM |\nVegas pro 12",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fKWAYOwGTu4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fKWAYOwGTu4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fKWAYOwGTu4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fKWAYOwGTu4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fKWAYOwGTu4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "톰과나 tomandme",
+        "playlistId": "UUZVrCjdAZ6cERcaffS5i3rA",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fKWAYOwGTu4"
+        },
+        "videoOwnerChannelTitle": "톰과나 tomandme",
+        "videoOwnerChannelId": "UCZVrCjdAZ6cERcaffS5i3rA"
+      },
+      "contentDetails": {
+        "videoId": "fKWAYOwGTu4",
+        "videoPublishedAt": "2018-09-20T10:11:14Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2IDT1H_5Xah1XjRDw2NFShfr3no",
+      "id": "VVVaVnJDamRBWjZjRVJjYWZmUzVpM3JBLjFMVVU2SmFjRm9B",
+      "snippet": {
+        "publishedAt": "2018-09-07T15:27:51Z",
+        "channelId": "UCZVrCjdAZ6cERcaffS5i3rA",
+        "title": "일본 KFC 치킨 먹방",
+        "description": "CONTACT |\r\ntomandme4@gmail.com\r\n\r\nINSTAGRAM |\r\n@tomandme4\r\n\r\nMUSIC |\r\nLAKEY INSPIRED - Island / Moving On\r\nhttps://soundcloud.com/lakeyinspired\r\n\r\nINTRO MUSIC |\r\nLAKEY INSPIRED - Going up\r\nhttps://soundcloud.com/lakeyinspired\r\n\r\nCAMERA |\r\nRX100M5 | Sony 미러리스 a5000\r\n\r\nPROGRAM |\r\nVegas pro 12",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1LUU6JacFoA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1LUU6JacFoA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1LUU6JacFoA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1LUU6JacFoA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1LUU6JacFoA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "톰과나 tomandme",
+        "playlistId": "UUZVrCjdAZ6cERcaffS5i3rA",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1LUU6JacFoA"
+        },
+        "videoOwnerChannelTitle": "톰과나 tomandme",
+        "videoOwnerChannelId": "UCZVrCjdAZ6cERcaffS5i3rA"
+      },
+      "contentDetails": {
+        "videoId": "1LUU6JacFoA",
+        "videoPublishedAt": "2018-09-07T15:27:51Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "IHVLK52HaQsDzUJI1ptXJOFAzXk",
+      "id": "VVVaVnJDamRBWjZjRVJjYWZmUzVpM3JBLldzOUdaMjFDMVo4",
+      "snippet": {
+        "publishedAt": "2018-07-15T02:45:00Z",
+        "channelId": "UCZVrCjdAZ6cERcaffS5i3rA",
+        "title": "공부 없이 3개국어를 할 수 있었던 이유💡영어 회화 일본어 회화 극복 꿀팁 대방출!",
+        "description": "CONTACT |\ntomandme4@gmail.com\n\nINSTAGRAM |\n@tomandme4\n\nMUSIC |\nLAKEY INSPIRED - This Feeling / Good Morning\nhttps://soundcloud.com/lakeyinspired\n\nJoakim Karud - By The Croft\nhttps://soundcloud.com/joakimkarud/cl...\n\nFollow him on twitter: twitter.com/joakimkarud\n\nJoakim Karud music on Spotify: open.spotify.com/artist/0iAOXvEDIMaAWPP5Ur0fYF\n\niTunes: itunes.apple.com/artist/joakim-karud/id429649160\n\nSubscribe to Joakim Karud's  music: www.patreon.com/joakimkarud\n\nNodame Video cut\nhttps://youtu.be/ed2wj60Holc\n\nINTRO MUSIC |\nLAKEY INSPIRED - Going up\nhttps://soundcloud.com/lakeyinspired\n\nCAMERA |\nRX100M5 | Sony 미러리스 a5000\n\nPROGRAM |\nVegas pro 12",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ws9GZ21C1Z8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ws9GZ21C1Z8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ws9GZ21C1Z8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ws9GZ21C1Z8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Ws9GZ21C1Z8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "톰과나 tomandme",
+        "playlistId": "UUZVrCjdAZ6cERcaffS5i3rA",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Ws9GZ21C1Z8"
+        },
+        "videoOwnerChannelTitle": "톰과나 tomandme",
+        "videoOwnerChannelId": "UCZVrCjdAZ6cERcaffS5i3rA"
+      },
+      "contentDetails": {
+        "videoId": "Ws9GZ21C1Z8",
+        "videoPublishedAt": "2018-07-15T02:45:00Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "lM9y4JebmpKSamUMSbZjXhl8xes",
+      "id": "VVVaVnJDamRBWjZjRVJjYWZmUzVpM3JBLkRJNGZVZTROZ1RF",
+      "snippet": {
+        "publishedAt": "2018-06-13T02:15:35Z",
+        "channelId": "UCZVrCjdAZ6cERcaffS5i3rA",
+        "title": "일주일만에 딴 일본 워킹홀리데이 합격 비결 QnA 🇯🇵 일본어 자격증 없이 한번에?!",
+        "description": "CONTACT |\ntomandme4@gmail.com\n\nINSTAGRAM |\n@tomandme4\n\nMUSIC |\nApollo Produced It - \n*FREE* LoFi/Chill Type Beat \"Lonely Nights\" (Prod. Apollo Beats)\nhttps://soundcloud.com/prodapollobeats/free-lofichill-type-beat-lonely-nights-prod-by-milli88-beats\n\nINTRO MUSIC |\nLAKEY INSPIRED - Going up\nhttps://soundcloud.com/lakeyinspired\n\nCAMERA |\nRX100M5  | Sony 미러리스 a5000\n\nPROGRAM |\nVegas pro 12",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DI4fUe4NgTE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DI4fUe4NgTE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DI4fUe4NgTE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DI4fUe4NgTE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DI4fUe4NgTE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "톰과나 tomandme",
+        "playlistId": "UUZVrCjdAZ6cERcaffS5i3rA",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "DI4fUe4NgTE"
+        },
+        "videoOwnerChannelTitle": "톰과나 tomandme",
+        "videoOwnerChannelId": "UCZVrCjdAZ6cERcaffS5i3rA"
+      },
+      "contentDetails": {
+        "videoId": "DI4fUe4NgTE",
+        "videoPublishedAt": "2018-06-13T02:15:35Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "UYE4Ve8BPvo0E8Zhp-FKXVSuI0I",
+      "id": "VVVaVnJDamRBWjZjRVJjYWZmUzVpM3JBLnlkanNWeUdac1Y0",
+      "snippet": {
+        "publishedAt": "2018-06-06T10:20:23Z",
+        "channelId": "UCZVrCjdAZ6cERcaffS5i3rA",
+        "title": "장거리 애인에게 불러줬었던 달달한 명곡 Lost in Japan full ver 선물로 드려요🌈",
+        "description": "CONTACT |\ntomandme4@gmail.com\n\nINSTAGRAM |\n@tomandme4\n\nMUSIC |\nSHAWN MENDES - LOST IN JAPAN\nINSTRUMENTAL by \nPostmo Production\nhttps://youtu.be/gw2J2MDwrZE\n\nCAMERA |\nSony 미러리스 a5000\n\nPROGRAM |\nVegas pro 12",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ydjsVyGZsV4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ydjsVyGZsV4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ydjsVyGZsV4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ydjsVyGZsV4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ydjsVyGZsV4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "톰과나 tomandme",
+        "playlistId": "UUZVrCjdAZ6cERcaffS5i3rA",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ydjsVyGZsV4"
+        },
+        "videoOwnerChannelTitle": "톰과나 tomandme",
+        "videoOwnerChannelId": "UCZVrCjdAZ6cERcaffS5i3rA"
+      },
+      "contentDetails": {
+        "videoId": "ydjsVyGZsV4",
+        "videoPublishedAt": "2018-06-06T10:20:23Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "oyiUmfyInZHXxY7uMlrAl-0vF_g",
+      "id": "VVVaVnJDamRBWjZjRVJjYWZmUzVpM3JBLjF6ZWwtMHYzVkE0",
+      "snippet": {
+        "publishedAt": "2018-03-15T00:40:16Z",
+        "channelId": "UCZVrCjdAZ6cERcaffS5i3rA",
+        "title": "겁없는 19살의 호주 어학연수 후기 🐨🇦🇺✨ | 드디어 QnA 그리고 약간의 호주 VLOG",
+        "description": "어학연수 출발 당시 빠른 98년생으로 \n고등학교 졸업을 마친 나이 열아홉,\n국제 나이로 열여덟이었고\n호주를 다녀온 지금은 스무살입니다 ! \n한국나이로는 스물한살인거져\n\n저 왜 저렇게 눈썹 꿈틀거릴까여..신났나...\n아무튼 안녕 여러분 ! 👐🏻\n드디어 들고 오는 호주 어학연수 QnA입니다!\n이렇게 길게 말하는 영상은 처음이라\n부족함이 많고 놓친 부분도 있겠지만\n여러분들이 인스타 메세지와 덧글 남겨주신걸 최대한\n간추려서  답변 드리려고 노력했어요 !\n질문 주신 모든 분들 감사합니다 🙇🏻‍♀️\n그리고 속속에 제가 아끼고 좋아하는 호주 일상 영상도\n넣었으니 같이 힐링해요 🌿\n\n혹시 제가 놓친 부분이 있다면 덧글로 남겨주세요!\n답글로 답변 드릴게요 :)\n아참 전영상에서 립제품 많이 물어보시던데\n*이번에 사용한 제품은 마몽드 크리미 틴트 벨벳코랄입니다*💋\n\nback ground music | Lakey Inspired - Beachdayz/Me2\n https://soundcloud.com/lakeyinspired",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1zel-0v3VA4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1zel-0v3VA4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1zel-0v3VA4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1zel-0v3VA4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1zel-0v3VA4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "톰과나 tomandme",
+        "playlistId": "UUZVrCjdAZ6cERcaffS5i3rA",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1zel-0v3VA4"
+        },
+        "videoOwnerChannelTitle": "톰과나 tomandme",
+        "videoOwnerChannelId": "UCZVrCjdAZ6cERcaffS5i3rA"
+      },
+      "contentDetails": {
+        "videoId": "1zel-0v3VA4",
+        "videoPublishedAt": "2018-03-15T00:40:16Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "7Pu83DsW1841fPm0_DfCRubTjiU",
+      "id": "VVVaVnJDamRBWjZjRVJjYWZmUzVpM3JBLm13aXVaNTNIRHMw",
+      "snippet": {
+        "publishedAt": "2018-03-02T07:09:36Z",
+        "channelId": "UCZVrCjdAZ6cERcaffS5i3rA",
+        "title": "톰과 나韓日カップル Tom & me님의 실시간 스트리밍",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mwiuZ53HDs0/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mwiuZ53HDs0/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mwiuZ53HDs0/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mwiuZ53HDs0/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mwiuZ53HDs0/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "톰과나 tomandme",
+        "playlistId": "UUZVrCjdAZ6cERcaffS5i3rA",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "mwiuZ53HDs0"
+        },
+        "videoOwnerChannelTitle": "톰과나 tomandme",
+        "videoOwnerChannelId": "UCZVrCjdAZ6cERcaffS5i3rA"
+      },
+      "contentDetails": {
+        "videoId": "mwiuZ53HDs0",
+        "videoPublishedAt": "2018-03-02T07:09:36Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "video_details": [
+    {
+      "kind": "youtube#video",
+      "etag": "3haTyJePuzuGrXdkwNc7gJ_PcyE",
+      "id": "94yPxAM8awc",
+      "snippet": {
+        "publishedAt": "2020-02-20T09:00:13Z",
+        "channelId": "UCZVrCjdAZ6cERcaffS5i3rA",
+        "title": "지브리같은 프랑스 깡시골 VLOG🇫🇷프랑스어X 여행X 친구X로 90일살아남기! 90days in France  「앤지in프랑스」",
+        "description": "CONTACT |\ntomandme4@gmail.com\n\nINSTAGRAM | @tomandme4\nhttps://www.instagram.com/tomandme4/\n\nMUSIC |\nhttps://www.youtube.com/watch?v=J8hgUxmBxyc\nhttps://www.youtube.com/watch?v=6zH-D8XOcZY\n\nCAMERA |\nSony 미러리스 a5000 | Canon G7x mark 2\n\nPROGRAM |\nFinal Cut Pro\n\n#프랑스브이로그 #프랑스일상 #여행",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/94yPxAM8awc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/94yPxAM8awc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/94yPxAM8awc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/94yPxAM8awc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/94yPxAM8awc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "톰과나 tomandme",
+        "tags": [
+          "국제커플",
+          "국제연애",
+          "일본여행",
+          "일본",
+          "일본인남자친구",
+          "일본혼자여행",
+          "자유여행",
+          "여행",
+          "혼자여행",
+          "영어",
+          "일본어",
+          "영어공부법",
+          "회화",
+          "일상브이로그",
+          "일상vlog",
+          "먹방",
+          "vlog",
+          "데일리브이로그"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "지브리같은 프랑스 깡시골 VLOG🇫🇷프랑스어X 여행X 친구X로 90일살아남기! 90days in France  「앤지in프랑스」",
+          "description": "CONTACT |\ntomandme4@gmail.com\n\nINSTAGRAM | @tomandme4\nhttps://www.instagram.com/tomandme4/\n\nMUSIC |\nhttps://www.youtube.com/watch?v=J8hgUxmBxyc\nhttps://www.youtube.com/watch?v=6zH-D8XOcZY\n\nCAMERA |\nSony 미러리스 a5000 | Canon G7x mark 2\n\nPROGRAM |\nFinal Cut Pro\n\n#프랑스브이로그 #프랑스일상 #여행"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT13M32S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "182889",
+        "likeCount": "5078",
+        "favoriteCount": "0",
+        "commentCount": "407"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+          "https://en.wikipedia.org/wiki/Tourism"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en": {
+          "title": "[TAIZÉ VLOG2] Life in TAIZÉ as a Permanent Volunteer",
+          "description": "CONTACT |\ntomandme4@gmail.com\n\nINSTAGRAM | @tomandme4\nhttps://www.instagram.com/tomandme4/\n\nMUSIC |\nhttps://www.youtube.com/watch?v=J8hgUxmBxyc\nhttps://www.youtube.com/watch?v=6zH-D8XOcZY\n\nCAMERA |\nSony 미러리스 a5000 | Canon G7x mark 2\n\nPROGRAM |\nFinal Cut Pro"
+        },
+        "ko": {
+          "title": "지브리같은 프랑스 깡시골 VLOG🇫🇷프랑스어X 여행X 친구X로 90일살아남기! 90days in France  「앤지in프랑스」",
+          "description": "CONTACT |\ntomandme4@gmail.com\n\nINSTAGRAM | @tomandme4\nhttps://www.instagram.com/tomandme4/\n\nMUSIC |\nhttps://www.youtube.com/watch?v=J8hgUxmBxyc\nhttps://www.youtube.com/watch?v=6zH-D8XOcZY\n\nCAMERA |\nSony 미러리스 a5000 | Canon G7x mark 2\n\nPROGRAM |\nFinal Cut Pro\n\n#프랑스브이로그 #프랑스일상 #여행"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "5eoiMItJ8N0VU0K5uq787q02CYQ",
+      "id": "OBSdlq8TJ8Q",
+      "snippet": {
+        "publishedAt": "2020-02-08T11:30:11Z",
+        "channelId": "UCZVrCjdAZ6cERcaffS5i3rA",
+        "title": "프랑스여행말고 프랑스봉사🇫🇷21살혼자 프랑스90일 살아보기 90days in France 「앤지in프랑스」",
+        "description": "CONTACT |\ntomandme4@gmail.com\n\nINSTAGRAM | @tomandme4\nhttps://www.instagram.com/tomandme4/\n\nCAMERA |\nSony 미러리스 a5000 | Canon G7x mark 2\n\nPROGRAM |\nFinal Cut Pro\n\n#프랑스브이로그 #프랑스일상 #혼자여행",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OBSdlq8TJ8Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OBSdlq8TJ8Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OBSdlq8TJ8Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OBSdlq8TJ8Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OBSdlq8TJ8Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "톰과나 tomandme",
+        "tags": [
+          "국제커플",
+          "국제연애",
+          "일본여행",
+          "일본",
+          "일본인남자친구",
+          "일본혼자여행",
+          "자유여행",
+          "여행",
+          "혼자여행",
+          "영어",
+          "일본어",
+          "영어공부법",
+          "회화",
+          "일상브이로그",
+          "일상vlog",
+          "먹방",
+          "vlog",
+          "데일리브이로그"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "프랑스여행말고 프랑스봉사🇫🇷21살혼자 프랑스90일 살아보기 90days in France 「앤지in프랑스」",
+          "description": "CONTACT |\ntomandme4@gmail.com\n\nINSTAGRAM | @tomandme4\nhttps://www.instagram.com/tomandme4/\n\nCAMERA |\nSony 미러리스 a5000 | Canon G7x mark 2\n\nPROGRAM |\nFinal Cut Pro\n\n#프랑스브이로그 #프랑스일상 #혼자여행"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT12M5S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "226662",
+        "likeCount": "7953",
+        "favoriteCount": "0",
+        "commentCount": "680"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+          "https://en.wikipedia.org/wiki/Tourism"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ja": {
+          "title": "フランス旅行❌フランスボランティア⭕️ ひとりで挑戦.!!!!",
+          "description": "CONTACT |\ntomandme4@gmail.com\n\nINSTAGRAM | @tomandme4\nhttps://www.instagram.com/tomandme4/\n\nCAMERA |\nSony 미러리스 a5000 | Canon G7x mark 2\n\nPROGRAM |\nFinal Cut Pro"
+        },
+        "en": {
+          "title": "[TAIZÉ VLOG] Most Beautiful place EVER!!",
+          "description": "CONTACT |\ntomandme4@gmail.com\n\nINSTAGRAM | @tomandme4\nhttps://www.instagram.com/tomandme4/\n\nCAMERA |\nSony 미러리스 a5000 | Canon G7x mark 2\n\nPROGRAM |\nFinal Cut Pro"
+        },
+        "ko": {
+          "title": "프랑스여행말고 프랑스봉사🇫🇷21살혼자 프랑스90일 살아보기 90days in France 「앤지in프랑스」",
+          "description": "CONTACT |\ntomandme4@gmail.com\n\nINSTAGRAM | @tomandme4\nhttps://www.instagram.com/tomandme4/\n\nCAMERA |\nSony 미러리스 a5000 | Canon G7x mark 2\n\nPROGRAM |\nFinal Cut Pro\n\n#프랑스브이로그 #프랑스일상 #혼자여행"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "IiX7D1w7jkvZ7JvbmYvgzYltmx0",
+      "id": "D5oMT1qsydI",
+      "snippet": {
+        "publishedAt": "2019-09-21T09:00:12Z",
+        "channelId": "UCZVrCjdAZ6cERcaffS5i3rA",
+        "title": "🔥딱10초불렀는데 커버요청폭주🔥지브리OST - 원령공주 Princess Mononoke cover",
+        "description": "아래 앤지의 사운드 클라우드에서 100회 한정 무료다운&무한재생 하실 수 있어요!⭐️\nhttps://soundcloud.com/tom-me-928831613/angie-ost-mononoke-hime/s-6dfrx\n\n전 영상에서 10초정도 흥얼거린 곡을 커버 해달라는 댓글이 많이 보여서 평소에 가장 좋아하는 지브리 애니메이션인 원령공주 OST를 불러봤어요😘\n\n촬영한 곳은 프랑스의 한 작은 시골마을이에요! :-)\n숲이라 더 노래에 몰입할 수 있었네요👍🏻\n그럼 곧 프랑스 브이로그로 찾아뵐게요❤️\n\n-\n\nCONTACT |\ntomandme4@gmail.com\n\nINSTAGRAM | @tomandme4\nhttps://www.instagram.com/tomandme4/\n\nMUSIC |\npiano by Sangeo of Music\nhttps://youtu.be/FVV9BFY94Gw\n\nCAMERA |\nSony 미러리스 a5000 | Canon G7x mark 2\n\nPROGRAM |\nFinal Cut Pro",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/D5oMT1qsydI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/D5oMT1qsydI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/D5oMT1qsydI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/D5oMT1qsydI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/D5oMT1qsydI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "톰과나 tomandme",
+        "tags": [
+          "국제커플",
+          "국제연애",
+          "일본여행",
+          "일본",
+          "일본인남자친구",
+          "일본혼자여행",
+          "자유여행",
+          "여행",
+          "혼자여행",
+          "영어",
+          "일본어",
+          "영어공부법",
+          "회화",
+          "일상브이로그",
+          "일상vlog",
+          "먹방",
+          "vlog",
+          "데일리브이로그",
+          "지브리",
+          "지브리OST",
+          "원령공주",
+          "모노노케히메",
+          "mononokehime",
+          "princess mononoke",
+          "지브리노래커버",
+          "ghibli"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "🔥딱10초불렀는데 커버요청폭주🔥지브리OST - 원령공주 Princess Mononoke cover",
+          "description": "아래 앤지의 사운드 클라우드에서 100회 한정 무료다운&무한재생 하실 수 있어요!⭐️\nhttps://soundcloud.com/tom-me-928831613/angie-ost-mononoke-hime/s-6dfrx\n\n전 영상에서 10초정도 흥얼거린 곡을 커버 해달라는 댓글이 많이 보여서 평소에 가장 좋아하는 지브리 애니메이션인 원령공주 OST를 불러봤어요😘\n\n촬영한 곳은 프랑스의 한 작은 시골마을이에요! :-)\n숲이라 더 노래에 몰입할 수 있었네요👍🏻\n그럼 곧 프랑스 브이로그로 찾아뵐게요❤️\n\n-\n\nCONTACT |\ntomandme4@gmail.com\n\nINSTAGRAM | @tomandme4\nhttps://www.instagram.com/tomandme4/\n\nMUSIC |\npiano by Sangeo of Music\nhttps://youtu.be/FVV9BFY94Gw\n\nCAMERA |\nSony 미러리스 a5000 | Canon G7x mark 2\n\nPROGRAM |\nFinal Cut Pro"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M44S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "567239",
+        "likeCount": "13673",
+        "favoriteCount": "0",
+        "commentCount": "427"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en": {
+          "title": "🌳Studio Ghibli🌳Princess Mononoke Song Cover Full ver",
+          "description": "CONTACT |\ntomandme4@gmail.com\n\nINSTAGRAM | @tomandme4\nhttps://www.instagram.com/tomandme4/\n\nMUSIC |\npiano by Sangeo of Music\nhttps://youtu.be/FVV9BFY94Gw\n\nCAMERA |\nSony 미러리스 a5000 | Canon G7x mark 2\n\nPROGRAM |\nFinal Cut Pro"
+        },
+        "ko": {
+          "title": "🔥딱10초불렀는데 커버요청폭주🔥지브리OST - 원령공주 Princess Mononoke cover",
+          "description": "아래 앤지의 사운드 클라우드에서 100회 한정 무료다운&무한재생 하실 수 있어요!⭐️\nhttps://soundcloud.com/tom-me-928831613/angie-ost-mononoke-hime/s-6dfrx\n\n전 영상에서 10초정도 흥얼거린 곡을 커버 해달라는 댓글이 많이 보여서 평소에 가장 좋아하는 지브리 애니메이션인 원령공주 OST를 불러봤어요😘\n\n촬영한 곳은 프랑스의 한 작은 시골마을이에요! :-)\n숲이라 더 노래에 몰입할 수 있었네요👍🏻\n그럼 곧 프랑스 브이로그로 찾아뵐게요❤️\n\n-\n\nCONTACT |\ntomandme4@gmail.com\n\nINSTAGRAM | @tomandme4\nhttps://www.instagram.com/tomandme4/\n\nMUSIC |\npiano by Sangeo of Music\nhttps://youtu.be/FVV9BFY94Gw\n\nCAMERA |\nSony 미러리스 a5000 | Canon G7x mark 2\n\nPROGRAM |\nFinal Cut Pro"
+        },
+        "ja": {
+          "title": "もののけ姫・米良美一 韓国人が歌ってみた!! Studio Ghibli Princess Mononoke Cover",
+          "description": "CONTACT |\ntomandme4@gmail.com\n\nINSTAGRAM | @tomandme4\nhttps://www.instagram.com/tomandme4/\n\nMUSIC |\npiano by Sangeo of Music\nhttps://youtu.be/FVV9BFY94Gw\n\nCAMERA |\nSony 미러리스 a5000 | Canon G7x mark 2\n\nPROGRAM |\nFinal Cut Pro"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "KV3O09viqbG0J2p-X3MzPyCzNjc",
+      "id": "jv4WTDHThw8",
+      "snippet": {
+        "publishedAt": "2018-12-19T10:58:48Z",
+        "channelId": "UCZVrCjdAZ6cERcaffS5i3rA",
+        "title": "열여덟살의 나홀로호주스토리🇦🇺 나의 365일을 담은 인생영화 feat. 호주 어학연수 후기",
+        "description": "CONTACT |\ntomandme4@gmail.com\n\nINSTAGRAM |\n@tomandme4\n\nMUSIC |\nLAKEY INSPIRED - Holding On\nhttps://soundcloud.com/lakeyinspired\n\nCAMERA |\nRX100M5 | Sony 미러리스 a5000\n\nPROGRAM |\nVegas pro 12\n\n#호주어학연수 #호주vlog #다이어리",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jv4WTDHThw8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jv4WTDHThw8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jv4WTDHThw8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jv4WTDHThw8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jv4WTDHThw8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "톰과나 tomandme",
+        "tags": [
+          "국제커플",
+          "국제연애",
+          "일본여행",
+          "일본",
+          "일본인남자친구",
+          "일본혼자여행",
+          "자유여행",
+          "여행",
+          "혼자여행",
+          "영어",
+          "일본어",
+          "영어공부법",
+          "회화",
+          "일상브이로그",
+          "일상vlog",
+          "먹방",
+          "vlog",
+          "데일리브이로그",
+          "여고생혼자",
+          "여자혼자",
+          "어학연수",
+          "호주",
+          "시드니",
+          "호주시드니",
+          "호주여행",
+          "시드니여행",
+          "여자혼자여행",
+          "유학",
+          "워킹홀리데이",
+          "호주워킹홀리데이",
+          "워홀후기",
+          "인종차별"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "열여덟살의 나홀로호주스토리🇦🇺 나의 365일을 담은 인생영화 feat. 호주 어학연수 후기",
+          "description": "CONTACT |\ntomandme4@gmail.com\n\nINSTAGRAM |\n@tomandme4\n\nMUSIC |\nLAKEY INSPIRED - Holding On\nhttps://soundcloud.com/lakeyinspired\n\nCAMERA |\nRX100M5 | Sony 미러리스 a5000\n\nPROGRAM |\nVegas pro 12\n\n#호주어학연수 #호주vlog #다이어리"
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT20M2S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "291671",
+        "likeCount": "7720",
+        "favoriteCount": "0",
+        "commentCount": "451"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ja": {
+          "title": "【留学】18歳の時に1人でオーストラリアに365日生活した日記",
+          "description": "CONTACT |\ntomandme4@gmail.com\n\nINSTAGRAM |\n@tomandme4\n\nMUSIC |\nLAKEY INSPIRED - Holding On\nhttps://soundcloud.com/lakeyinspired\n\nCAMERA |\nRX100M5 | Sony 미러리스 a5000\n\nPROGRAM |\nVegas pro 12"
+        },
+        "ko": {
+          "title": "열여덟살의 나홀로호주스토리🇦🇺 나의 365일을 담은 인생영화 feat. 호주 어학연수 후기",
+          "description": "CONTACT |\ntomandme4@gmail.com\n\nINSTAGRAM |\n@tomandme4\n\nMUSIC |\nLAKEY INSPIRED - Holding On\nhttps://soundcloud.com/lakeyinspired\n\nCAMERA |\nRX100M5 | Sony 미러리스 a5000\n\nPROGRAM |\nVegas pro 12\n\n#호주어학연수 #호주vlog #다이어리"
+        },
+        "en": {
+          "title": "ENG SUB | My Diary in Sydney 🇦🇺 when I was 18years old",
+          "description": "CONTACT |\ntomandme4@gmail.com\n\nINSTAGRAM |\n@tomandme4\n\nMUSIC |\nLAKEY INSPIRED - Holding On\nhttps://soundcloud.com/lakeyinspired\n\nCAMERA |\nRX100M5 | Sony 미러리스 a5000\n\nPROGRAM |\nVegas pro 12"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "E9ZWjpkahu3mAyHi0cO5H0PUfq8",
+      "id": "SUUKkNIojOE",
+      "snippet": {
+        "publishedAt": "2018-09-30T06:00:38Z",
+        "channelId": "UCZVrCjdAZ6cERcaffS5i3rA",
+        "title": "전교꼴등 18살이 디자이너로 취업할 수 있었던 이유와 퇴사 후 외국으로 떠난 계기?",
+        "description": "CONTACT |\ntomandme4@gmail.com\n\nINSTAGRAM |\n@tomandme4\n\nMUSIC |\nES_Before Chill - Yomoti\nES_What's In It For Me (Instrumental Version) - Gloria Tells\nES_Piece Of Streets - Molife\n\nCAMERA |\nRX100M5\n\nPROGRAM |\nVegas pro 12",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SUUKkNIojOE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SUUKkNIojOE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SUUKkNIojOE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SUUKkNIojOE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SUUKkNIojOE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "톰과나 tomandme",
+        "tags": [
+          "국제커플",
+          "국제연애",
+          "일본여행",
+          "일본",
+          "일본인남자친구",
+          "일본혼자여행",
+          "자유여행",
+          "여행",
+          "혼자여행",
+          "영어",
+          "일본어",
+          "영어공부법",
+          "회화",
+          "일상브이로그",
+          "일상vlog",
+          "먹방",
+          "vlog",
+          "데일리브이로그",
+          "고딩",
+          "전교꼴등",
+          "공부자극",
+          "인생자극",
+          "디자이너",
+          "취업",
+          "퇴사",
+          "브이로그",
+          "회사생활",
+          "인턴"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "전교꼴등 18살이 디자이너로 취업할 수 있었던 이유와 퇴사 후 외국으로 떠난 계기?",
+          "description": "CONTACT |\ntomandme4@gmail.com\n\nINSTAGRAM |\n@tomandme4\n\nMUSIC |\nES_Before Chill - Yomoti\nES_What's In It For Me (Instrumental Version) - Gloria Tells\nES_Piece Of Streets - Molife\n\nCAMERA |\nRX100M5\n\nPROGRAM |\nVegas pro 12"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT27M30S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "371318",
+        "likeCount": "9677",
+        "favoriteCount": "0",
+        "commentCount": "788"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Hobby",
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "전교꼴등 18살이 디자이너로 취업할 수 있었던 이유와 퇴사 후 외국으로 떠난 계기?",
+          "description": "CONTACT |\ntomandme4@gmail.com\n\nINSTAGRAM |\n@tomandme4\n\nMUSIC |\nES_Before Chill - Yomoti\nES_What's In It For Me (Instrumental Version) - Gloria Tells\nES_Piece Of Streets - Molife\n\nCAMERA |\nRX100M5\n\nPROGRAM |\nVegas pro 12"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "8qdh19RwnLcOVHFRq6ct6OirUY0",
+      "id": "fKWAYOwGTu4",
+      "snippet": {
+        "publishedAt": "2018-09-20T10:11:14Z",
+        "channelId": "UCZVrCjdAZ6cERcaffS5i3rA",
+        "title": "애인에게 직접 불러줬었던 감성포텐 명곡 Somewhere Only We Know Full Ver ☁",
+        "description": "CONTACT |\ntomandme4@gmail.com\n\nINSTAGRAM |\n@tomandme4\n\nMUSIC |\nSomewhere Only We Know (Lily Allen version) -\n Guitar Chords and Tabs / Takashi Terada\nhttps://www.youtube.com/watch?v=XQsHT...\n\nCAMERA |\nSony 미러리스 a5000\n\nPROGRAM |\nVegas pro 12",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fKWAYOwGTu4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fKWAYOwGTu4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fKWAYOwGTu4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fKWAYOwGTu4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fKWAYOwGTu4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "톰과나 tomandme",
+        "tags": [
+          "국제커플",
+          "국제연애",
+          "일본여행",
+          "일본",
+          "일본인남자친구",
+          "일본혼자여행",
+          "자유여행",
+          "여행",
+          "혼자여행",
+          "영어",
+          "일본어",
+          "영어공부법",
+          "회화",
+          "일상브이로그",
+          "일상vlog",
+          "먹방",
+          "vlog",
+          "데일리브이로그",
+          "음악",
+          "노래",
+          "커버",
+          "노래커버",
+          "somewhereonlyweknow"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "애인에게 직접 불러줬었던 감성포텐 명곡 Somewhere Only We Know Full Ver ☁",
+          "description": "CONTACT |\ntomandme4@gmail.com\n\nINSTAGRAM |\n@tomandme4\n\nMUSIC |\nSomewhere Only We Know (Lily Allen version) -\n Guitar Chords and Tabs / Takashi Terada\nhttps://www.youtube.com/watch?v=XQsHT...\n\nCAMERA |\nSony 미러리스 a5000\n\nPROGRAM |\nVegas pro 12"
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT4M",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "233625",
+        "likeCount": "7463",
+        "favoriteCount": "0",
+        "commentCount": "641"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Pop_music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ja": {
+          "title": "日韓カップル | 'Somewhere Only We Know Cover 私たちしか知らない場所'歌ってみた!",
+          "description": "CONTACT |\ntomandme4@gmail.com\n\nINSTAGRAM |\n@tomandme4\n\nMUSIC |\nSomewhere Only We Know (Lily Allen version) -\n Guitar Chords and Tabs / Takashi Terada\nhttps://www.youtube.com/watch?v=XQsHT...\n\nCAMERA |\nSony 미러리스 a5000\n\nPROGRAM |\nVegas pro 12"
+        },
+        "en": {
+          "title": "Somewhere Only We Know Cover by Angie - lily allen",
+          "description": "CONTACT |\ntomandme4@gmail.com\n\nINSTAGRAM |\n@tomandme4\n\nMUSIC |\nSomewhere Only We Know (Lily Allen version) -\n Guitar Chords and Tabs / Takashi Terada\nhttps://www.youtube.com/watch?v=XQsHT...\n\nCAMERA |\nSony 미러리스 a5000\n\nPROGRAM |\nVegas pro 12"
+        },
+        "ko": {
+          "title": "애인에게 직접 불러줬었던 감성포텐 명곡 Somewhere Only We Know Full Ver ☁",
+          "description": "CONTACT |\ntomandme4@gmail.com\n\nINSTAGRAM |\n@tomandme4\n\nMUSIC |\nSomewhere Only We Know (Lily Allen version) -\n Guitar Chords and Tabs / Takashi Terada\nhttps://www.youtube.com/watch?v=XQsHT...\n\nCAMERA |\nSony 미러리스 a5000\n\nPROGRAM |\nVegas pro 12"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "LQjCrK8BThMbn2HeKmLprwhcqMI",
+      "id": "1LUU6JacFoA",
+      "snippet": {
+        "publishedAt": "2018-09-07T15:27:51Z",
+        "channelId": "UCZVrCjdAZ6cERcaffS5i3rA",
+        "title": "일본 KFC 치킨 먹방",
+        "description": "CONTACT |\r\ntomandme4@gmail.com\r\n\r\nINSTAGRAM |\r\n@tomandme4\r\n\r\nMUSIC |\r\nLAKEY INSPIRED - Island / Moving On\r\nhttps://soundcloud.com/lakeyinspired\r\n\r\nINTRO MUSIC |\r\nLAKEY INSPIRED - Going up\r\nhttps://soundcloud.com/lakeyinspired\r\n\r\nCAMERA |\r\nRX100M5 | Sony 미러리스 a5000\r\n\r\nPROGRAM |\r\nVegas pro 12",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1LUU6JacFoA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1LUU6JacFoA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1LUU6JacFoA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1LUU6JacFoA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1LUU6JacFoA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "톰과나 tomandme",
+        "tags": [
+          "국제커플",
+          "국제연애",
+          "일본여행",
+          "일본",
+          "일본인남자친구",
+          "일본혼자여행",
+          "자유여행",
+          "여행",
+          "혼자여행",
+          "영어",
+          "일본어",
+          "영어공부법",
+          "회화",
+          "일상브이로그",
+          "일상vlog",
+          "먹방",
+          "vlog",
+          "데일리브이로그"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "일본 KFC 치킨 먹방",
+          "description": "CONTACT |\r\ntomandme4@gmail.com\r\n\r\nINSTAGRAM |\r\n@tomandme4\r\n\r\nMUSIC |\r\nLAKEY INSPIRED - Island / Moving On\r\nhttps://soundcloud.com/lakeyinspired\r\n\r\nINTRO MUSIC |\r\nLAKEY INSPIRED - Going up\r\nhttps://soundcloud.com/lakeyinspired\r\n\r\nCAMERA |\r\nRX100M5 | Sony 미러리스 a5000\r\n\r\nPROGRAM |\r\nVegas pro 12"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT2H16M10S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "143509",
+        "likeCount": "1804",
+        "favoriteCount": "0",
+        "commentCount": "129"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Food",
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "일본 KFC 치킨 먹방",
+          "description": "CONTACT |\r\ntomandme4@gmail.com\r\n\r\nINSTAGRAM |\r\n@tomandme4\r\n\r\nMUSIC |\r\nLAKEY INSPIRED - Island / Moving On\r\nhttps://soundcloud.com/lakeyinspired\r\n\r\nINTRO MUSIC |\r\nLAKEY INSPIRED - Going up\r\nhttps://soundcloud.com/lakeyinspired\r\n\r\nCAMERA |\r\nRX100M5 | Sony 미러리스 a5000\r\n\r\nPROGRAM |\r\nVegas pro 12"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "FFYPa2Ie4YLYeypEmOmarwnlaRc",
+      "id": "Ws9GZ21C1Z8",
+      "snippet": {
+        "publishedAt": "2018-07-15T02:45:00Z",
+        "channelId": "UCZVrCjdAZ6cERcaffS5i3rA",
+        "title": "공부 없이 3개국어를 할 수 있었던 이유💡영어 회화 일본어 회화 극복 꿀팁 대방출!",
+        "description": "CONTACT |\ntomandme4@gmail.com\n\nINSTAGRAM |\n@tomandme4\n\nMUSIC |\nLAKEY INSPIRED - This Feeling / Good Morning\nhttps://soundcloud.com/lakeyinspired\n\nJoakim Karud - By The Croft\nhttps://soundcloud.com/joakimkarud/cl...\n\nFollow him on twitter: twitter.com/joakimkarud\n\nJoakim Karud music on Spotify: open.spotify.com/artist/0iAOXvEDIMaAWPP5Ur0fYF\n\niTunes: itunes.apple.com/artist/joakim-karud/id429649160\n\nSubscribe to Joakim Karud's  music: www.patreon.com/joakimkarud\n\nNodame Video cut\nhttps://youtu.be/ed2wj60Holc\n\nINTRO MUSIC |\nLAKEY INSPIRED - Going up\nhttps://soundcloud.com/lakeyinspired\n\nCAMERA |\nRX100M5 | Sony 미러리스 a5000\n\nPROGRAM |\nVegas pro 12",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ws9GZ21C1Z8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ws9GZ21C1Z8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ws9GZ21C1Z8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ws9GZ21C1Z8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Ws9GZ21C1Z8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "톰과나 tomandme",
+        "tags": [
+          "국제커플",
+          "국제연애",
+          "일본여행",
+          "일본",
+          "일본인남자친구",
+          "일본혼자여행",
+          "자유여행",
+          "여행",
+          "혼자여행",
+          "영어",
+          "일본어",
+          "영어공부법",
+          "회화",
+          "일상브이로그",
+          "일상vlog",
+          "먹방",
+          "vlog",
+          "데일리브이로그",
+          "영어회화",
+          "일본어회화",
+          "쉐도잉",
+          "3개국어"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "공부 없이 3개국어를 할 수 있었던 이유💡영어 회화 일본어 회화 극복 꿀팁 대방출!",
+          "description": "CONTACT |\ntomandme4@gmail.com\n\nINSTAGRAM |\n@tomandme4\n\nMUSIC |\nLAKEY INSPIRED - This Feeling / Good Morning\nhttps://soundcloud.com/lakeyinspired\n\nJoakim Karud - By The Croft\nhttps://soundcloud.com/joakimkarud/cl...\n\nFollow him on twitter: twitter.com/joakimkarud\n\nJoakim Karud music on Spotify: open.spotify.com/artist/0iAOXvEDIMaAWPP5Ur0fYF\n\niTunes: itunes.apple.com/artist/joakim-karud/id429649160\n\nSubscribe to Joakim Karud's  music: www.patreon.com/joakimkarud\n\nNodame Video cut\nhttps://youtu.be/ed2wj60Holc\n\nINTRO MUSIC |\nLAKEY INSPIRED - Going up\nhttps://soundcloud.com/lakeyinspired\n\nCAMERA |\nRX100M5 | Sony 미러리스 a5000\n\nPROGRAM |\nVegas pro 12"
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT18M51S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "743922",
+        "likeCount": "17480",
+        "favoriteCount": "0",
+        "commentCount": "823"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ja": {
+          "title": "２０歳で３ヶ国語を話せる秘密　言語を身につけたい方必見",
+          "description": "CONTACT |\ntomandme4@gmail.com\n\nINSTAGRAM |\n@tomandme4\n\nMUSIC |\nLAKEY INSPIRED - This Feeling / Good Morning\nhttps://soundcloud.com/lakeyinspired\n\nJoakim Karud - By The Croft\nhttps://soundcloud.com/joakimkarud/cl...\n\nFollow him on twitter: twitter.com/joakimkarud\n\nJoakim Karud music on Spotify: open.spotify.com/artist/0iAOXvEDIMaAWPP5Ur0fYF\n\niTunes: itunes.apple.com/artist/joakim-karud/id429649160\n\nSubscribe to Joakim Karud's  music: www.patreon.com/joakimkarud\n\nNodame Video cut\nhttps://youtu.be/ed2wj60Holc\n\nINTRO MUSIC |\nLAKEY INSPIRED - Going up\nhttps://soundcloud.com/lakeyinspired\n\nCAMERA |\nRX100M5 | Sony 미러리스 a5000\n\nPROGRAM |\nVegas pro 12"
+        },
+        "ko": {
+          "title": "공부 없이 3개국어를 할 수 있었던 이유💡영어 회화 일본어 회화 극복 꿀팁 대방출!",
+          "description": "CONTACT |\ntomandme4@gmail.com\n\nINSTAGRAM |\n@tomandme4\n\nMUSIC |\nLAKEY INSPIRED - This Feeling / Good Morning\nhttps://soundcloud.com/lakeyinspired\n\nJoakim Karud - By The Croft\nhttps://soundcloud.com/joakimkarud/cl...\n\nFollow him on twitter: twitter.com/joakimkarud\n\nJoakim Karud music on Spotify: open.spotify.com/artist/0iAOXvEDIMaAWPP5Ur0fYF\n\niTunes: itunes.apple.com/artist/joakim-karud/id429649160\n\nSubscribe to Joakim Karud's  music: www.patreon.com/joakimkarud\n\nNodame Video cut\nhttps://youtu.be/ed2wj60Holc\n\nINTRO MUSIC |\nLAKEY INSPIRED - Going up\nhttps://soundcloud.com/lakeyinspired\n\nCAMERA |\nRX100M5 | Sony 미러리스 a5000\n\nPROGRAM |\nVegas pro 12"
+        },
+        "en": {
+          "title": "How I Became Trilingual in Twenty | 8 Tips for learning a new language",
+          "description": "CONTACT |\ntomandme4@gmail.com\n\nINSTAGRAM |\n@tomandme4\n\nMUSIC |\nLAKEY INSPIRED - This Feeling / Good Morning\nhttps://soundcloud.com/lakeyinspired\n\nJoakim Karud - By The Croft\nhttps://soundcloud.com/joakimkarud/cl...\n\nFollow him on twitter: twitter.com/joakimkarud\n\nJoakim Karud music on Spotify: open.spotify.com/artist/0iAOXvEDIMaAWPP5Ur0fYF\n\niTunes: itunes.apple.com/artist/joakim-karud/id429649160\n\nSubscribe to Joakim Karud's  music: www.patreon.com/joakimkarud\n\nNodame Video cut\nhttps://youtu.be/ed2wj60Holc\n\nINTRO MUSIC |\nLAKEY INSPIRED - Going up\nhttps://soundcloud.com/lakeyinspired\n\nCAMERA |\nRX100M5 | Sony 미러리스 a5000\n\nPROGRAM |\nVegas pro 12"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "AEEcT0gjTeVZ59pFRJSTwBgVgT8",
+      "id": "DI4fUe4NgTE",
+      "snippet": {
+        "publishedAt": "2018-06-13T02:15:35Z",
+        "channelId": "UCZVrCjdAZ6cERcaffS5i3rA",
+        "title": "일주일만에 딴 일본 워킹홀리데이 합격 비결 QnA 🇯🇵 일본어 자격증 없이 한번에?!",
+        "description": "CONTACT |\ntomandme4@gmail.com\n\nINSTAGRAM |\n@tomandme4\n\nMUSIC |\nApollo Produced It - \n*FREE* LoFi/Chill Type Beat \"Lonely Nights\" (Prod. Apollo Beats)\nhttps://soundcloud.com/prodapollobeats/free-lofichill-type-beat-lonely-nights-prod-by-milli88-beats\n\nINTRO MUSIC |\nLAKEY INSPIRED - Going up\nhttps://soundcloud.com/lakeyinspired\n\nCAMERA |\nRX100M5  | Sony 미러리스 a5000\n\nPROGRAM |\nVegas pro 12",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DI4fUe4NgTE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DI4fUe4NgTE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DI4fUe4NgTE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DI4fUe4NgTE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DI4fUe4NgTE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "톰과나 tomandme",
+        "tags": [
+          "일본워킹홀리데이",
+          "일본워홀",
+          "워홀",
+          "일본어학연수",
+          "어학연수",
+          "일본여행",
+          "여행",
+          "일본",
+          "한국일본",
+          "오사카",
+          "국제커플",
+          "국제연애"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "일주일만에 딴 일본 워킹홀리데이 합격 비결 QnA 🇯🇵 일본어 자격증 없이 한번에?!",
+          "description": "CONTACT |\ntomandme4@gmail.com\n\nINSTAGRAM |\n@tomandme4\n\nMUSIC |\nApollo Produced It - \n*FREE* LoFi/Chill Type Beat \"Lonely Nights\" (Prod. Apollo Beats)\nhttps://soundcloud.com/prodapollobeats/free-lofichill-type-beat-lonely-nights-prod-by-milli88-beats\n\nINTRO MUSIC |\nLAKEY INSPIRED - Going up\nhttps://soundcloud.com/lakeyinspired\n\nCAMERA |\nRX100M5  | Sony 미러리스 a5000\n\nPROGRAM |\nVegas pro 12"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT12M47S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "251538",
+        "likeCount": "5698",
+        "favoriteCount": "0",
+        "commentCount": "454"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "일주일만에 딴 일본 워킹홀리데이 합격 비결 QnA 🇯🇵 일본어 자격증 없이 한번에?!",
+          "description": "CONTACT |\ntomandme4@gmail.com\n\nINSTAGRAM |\n@tomandme4\n\nMUSIC |\nApollo Produced It - \n*FREE* LoFi/Chill Type Beat \"Lonely Nights\" (Prod. Apollo Beats)\nhttps://soundcloud.com/prodapollobeats/free-lofichill-type-beat-lonely-nights-prod-by-milli88-beats\n\nINTRO MUSIC |\nLAKEY INSPIRED - Going up\nhttps://soundcloud.com/lakeyinspired\n\nCAMERA |\nRX100M5  | Sony 미러리스 a5000\n\nPROGRAM |\nVegas pro 12"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "UPnfdtNeCioAxRofPSCCmY7ym_0",
+      "id": "ydjsVyGZsV4",
+      "snippet": {
+        "publishedAt": "2018-06-06T10:20:23Z",
+        "channelId": "UCZVrCjdAZ6cERcaffS5i3rA",
+        "title": "장거리 애인에게 불러줬었던 달달한 명곡 Lost in Japan full ver 선물로 드려요🌈",
+        "description": "CONTACT |\ntomandme4@gmail.com\n\nINSTAGRAM |\n@tomandme4\n\nMUSIC |\nSHAWN MENDES - LOST IN JAPAN\nINSTRUMENTAL by \nPostmo Production\nhttps://youtu.be/gw2J2MDwrZE\n\nCAMERA |\nSony 미러리스 a5000\n\nPROGRAM |\nVegas pro 12",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ydjsVyGZsV4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ydjsVyGZsV4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ydjsVyGZsV4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ydjsVyGZsV4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ydjsVyGZsV4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "톰과나 tomandme",
+        "tags": [
+          "국제커플",
+          "노래",
+          "일반인노래",
+          "lostinjapan",
+          "숀멘데스",
+          "Shawn Mendes - Lost in japan cover",
+          "국제연애",
+          "일상",
+          "집순이",
+          "브이로그",
+          "커버",
+          "노래커버",
+          "여자노래커버",
+          "외국노래커버",
+          "coversong"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "장거리 애인에게 불러줬었던 달달한 명곡 Lost in Japan full ver 선물로 드려요🌈",
+          "description": "CONTACT |\ntomandme4@gmail.com\n\nINSTAGRAM |\n@tomandme4\n\nMUSIC |\nSHAWN MENDES - LOST IN JAPAN\nINSTRUMENTAL by \nPostmo Production\nhttps://youtu.be/gw2J2MDwrZE\n\nCAMERA |\nSony 미러리스 a5000\n\nPROGRAM |\nVegas pro 12"
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT2M35S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "593427",
+        "likeCount": "14621",
+        "favoriteCount": "0",
+        "commentCount": "1166"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Music_of_Asia",
+          "https://en.wikipedia.org/wiki/Pop_music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ja": {
+          "title": "日韓カップル | 'Lost in Japan Cover FULL ver",
+          "description": "CONTACT |\ntomandme4@gmail.com\n\nINSTAGRAM |\n@tomandme4\n\nMUSIC |\nSHAWN MENDES - LOST IN JAPAN\nINSTRUMENTAL by \nPostmo Production\nhttps://youtu.be/gw2J2MDwrZE\n\nCAMERA |\nSony 미러리스 a5000\n\nPROGRAM |\nVegas pro 12"
+        },
+        "en": {
+          "title": "Dear my lover far away | Shawn Mendes - Lost in japan cover",
+          "description": "CONTACT |\ntomandme4@gmail.com\n\nINSTAGRAM |\n@tomandme4\n\nMUSIC |\nSHAWN MENDES - LOST IN JAPAN\nINSTRUMENTAL by \nPostmo Production\nhttps://youtu.be/gw2J2MDwrZE\n\nCAMERA |\nSony 미러리스 a5000\n\nPROGRAM |\nVegas pro 12"
+        },
+        "ko": {
+          "title": "장거리 애인에게 불러줬었던 달달한 명곡 Lost in Japan full ver 선물로 드려요🌈",
+          "description": "CONTACT |\ntomandme4@gmail.com\n\nINSTAGRAM |\n@tomandme4\n\nMUSIC |\nSHAWN MENDES - LOST IN JAPAN\nINSTRUMENTAL by \nPostmo Production\nhttps://youtu.be/gw2J2MDwrZE\n\nCAMERA |\nSony 미러리스 a5000\n\nPROGRAM |\nVegas pro 12"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "8SJ-9Oc3m9Cp-7WfnkdDtudzPUI",
+      "id": "1zel-0v3VA4",
+      "snippet": {
+        "publishedAt": "2018-03-15T00:40:16Z",
+        "channelId": "UCZVrCjdAZ6cERcaffS5i3rA",
+        "title": "겁없는 19살의 호주 어학연수 후기 🐨🇦🇺✨ | 드디어 QnA 그리고 약간의 호주 VLOG",
+        "description": "어학연수 출발 당시 빠른 98년생으로 \n고등학교 졸업을 마친 나이 열아홉,\n국제 나이로 열여덟이었고\n호주를 다녀온 지금은 스무살입니다 ! \n한국나이로는 스물한살인거져\n\n저 왜 저렇게 눈썹 꿈틀거릴까여..신났나...\n아무튼 안녕 여러분 ! 👐🏻\n드디어 들고 오는 호주 어학연수 QnA입니다!\n이렇게 길게 말하는 영상은 처음이라\n부족함이 많고 놓친 부분도 있겠지만\n여러분들이 인스타 메세지와 덧글 남겨주신걸 최대한\n간추려서  답변 드리려고 노력했어요 !\n질문 주신 모든 분들 감사합니다 🙇🏻‍♀️\n그리고 속속에 제가 아끼고 좋아하는 호주 일상 영상도\n넣었으니 같이 힐링해요 🌿\n\n혹시 제가 놓친 부분이 있다면 덧글로 남겨주세요!\n답글로 답변 드릴게요 :)\n아참 전영상에서 립제품 많이 물어보시던데\n*이번에 사용한 제품은 마몽드 크리미 틴트 벨벳코랄입니다*💋\n\nback ground music | Lakey Inspired - Beachdayz/Me2\n https://soundcloud.com/lakeyinspired",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1zel-0v3VA4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1zel-0v3VA4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1zel-0v3VA4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1zel-0v3VA4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1zel-0v3VA4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "톰과나 tomandme",
+        "tags": [
+          "호주",
+          "어학연수",
+          "유학",
+          "호주시드니",
+          "미국어학연수",
+          "영어",
+          "해외",
+          "비자",
+          "여고생",
+          "톰과나",
+          "국제커플",
+          "국제연애",
+          "일본",
+          "외국인친구",
+          "유학후기",
+          "어학연수후기",
+          "호주어학연수",
+          "여자혼자여행",
+          "한일커플",
+          "일본남자",
+          "외국인남친",
+          "외국남자",
+          "호주남자",
+          "미국남자",
+          "여행",
+          "여자여행",
+          "여행에미치다",
+          "日韓カップル"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "겁없는 19살의 호주 어학연수 후기 🐨🇦🇺✨ | 드디어 QnA 그리고 약간의 호주 VLOG",
+          "description": "어학연수 출발 당시 빠른 98년생으로 \n고등학교 졸업을 마친 나이 열아홉,\n국제 나이로 열여덟이었고\n호주를 다녀온 지금은 스무살입니다 ! \n한국나이로는 스물한살인거져\n\n저 왜 저렇게 눈썹 꿈틀거릴까여..신났나...\n아무튼 안녕 여러분 ! 👐🏻\n드디어 들고 오는 호주 어학연수 QnA입니다!\n이렇게 길게 말하는 영상은 처음이라\n부족함이 많고 놓친 부분도 있겠지만\n여러분들이 인스타 메세지와 덧글 남겨주신걸 최대한\n간추려서  답변 드리려고 노력했어요 !\n질문 주신 모든 분들 감사합니다 🙇🏻‍♀️\n그리고 속속에 제가 아끼고 좋아하는 호주 일상 영상도\n넣었으니 같이 힐링해요 🌿\n\n혹시 제가 놓친 부분이 있다면 덧글로 남겨주세요!\n답글로 답변 드릴게요 :)\n아참 전영상에서 립제품 많이 물어보시던데\n*이번에 사용한 제품은 마몽드 크리미 틴트 벨벳코랄입니다*💋\n\nback ground music | Lakey Inspired - Beachdayz/Me2\n https://soundcloud.com/lakeyinspired"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT15M21S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "294742",
+        "likeCount": "5835",
+        "favoriteCount": "0",
+        "commentCount": "522"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "겁없는 19살의 호주 어학연수 후기 🐨🇦🇺✨ | 드디어 QnA 그리고 약간의 호주 VLOG",
+          "description": "어학연수 출발 당시 빠른 98년생으로 \n고등학교 졸업을 마친 나이 열아홉,\n국제 나이로 열여덟이었고\n호주를 다녀온 지금은 스무살입니다 ! \n한국나이로는 스물한살인거져\n\n저 왜 저렇게 눈썹 꿈틀거릴까여..신났나...\n아무튼 안녕 여러분 ! 👐🏻\n드디어 들고 오는 호주 어학연수 QnA입니다!\n이렇게 길게 말하는 영상은 처음이라\n부족함이 많고 놓친 부분도 있겠지만\n여러분들이 인스타 메세지와 덧글 남겨주신걸 최대한\n간추려서  답변 드리려고 노력했어요 !\n질문 주신 모든 분들 감사합니다 🙇🏻‍♀️\n그리고 속속에 제가 아끼고 좋아하는 호주 일상 영상도\n넣었으니 같이 힐링해요 🌿\n\n혹시 제가 놓친 부분이 있다면 덧글로 남겨주세요!\n답글로 답변 드릴게요 :)\n아참 전영상에서 립제품 많이 물어보시던데\n*이번에 사용한 제품은 마몽드 크리미 틴트 벨벳코랄입니다*💋\n\nback ground music | Lakey Inspired - Beachdayz/Me2\n https://soundcloud.com/lakeyinspired"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "qd6mIKFPWoXR0Zqg-bLatDZy7ls",
+      "id": "mwiuZ53HDs0",
+      "snippet": {
+        "publishedAt": "2018-03-02T07:09:36Z",
+        "channelId": "UCZVrCjdAZ6cERcaffS5i3rA",
+        "title": "톰과 나韓日カップル Tom & me님의 실시간 스트리밍",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mwiuZ53HDs0/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mwiuZ53HDs0/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mwiuZ53HDs0/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mwiuZ53HDs0/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mwiuZ53HDs0/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "톰과나 tomandme",
+        "categoryId": "24",
+        "liveBroadcastContent": "upcoming",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "톰과 나韓日カップル Tom & me님의 실시간 스트리밍",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "P0D",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "uploaded",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "0",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "톰과 나韓日カップル Tom & me님의 실시간 스트리밍",
+          "description": ""
+        }
+      }
+    }
+  ]
+}

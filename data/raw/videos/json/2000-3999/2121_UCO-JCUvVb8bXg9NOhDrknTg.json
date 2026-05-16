@@ -1,0 +1,140 @@
+{
+  "idx": 2121,
+  "channel_id": "UCO-JCUvVb8bXg9NOhDrknTg",
+  "channel_title": "뽀글이",
+  "playlist_items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "DxpnG8XADqD6XF9UNFk8gkniKJc",
+      "id": "VVVPLUpDVXZWYjhiWGc5Tk9oRHJrblRnLk5PQk03VnJHV3pr",
+      "snippet": {
+        "publishedAt": "2022-04-04T09:00:09Z",
+        "channelId": "UCO-JCUvVb8bXg9NOhDrknTg",
+        "title": "구글에서 특별한 미션가방을 주셨다...",
+        "description": "#Google Play Games #베타 #언박싱\n〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓\n신청 링크:https://play.google.com/googleplaygames\n〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓\n뽀글이의 일상이 궁금해!? 인스타에 \"BBOGEUL2\"검색!\n\n개인 문의:coollight78@naver.com\n비지니스 문의:ad@lolq.co.kr\n\n'좋아요''구독'  버튼을 눌러주세요.큰 힘이 됩니다.\n〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓\n[BGM]\nhttps://www.youtube.com/user/GwooA\n〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NOBM7VrGWzk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NOBM7VrGWzk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NOBM7VrGWzk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NOBM7VrGWzk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NOBM7VrGWzk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뽀글이",
+        "playlistId": "UUO-JCUvVb8bXg9NOhDrknTg",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NOBM7VrGWzk"
+        },
+        "videoOwnerChannelTitle": "뽀글이",
+        "videoOwnerChannelId": "UCO-JCUvVb8bXg9NOhDrknTg"
+      },
+      "contentDetails": {
+        "videoId": "NOBM7VrGWzk",
+        "videoPublishedAt": "2022-04-04T09:00:09Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "video_details": [
+    {
+      "kind": "youtube#video",
+      "etag": "zYCQMTG4IW9LHNFvEZ_Qr5KNHeE",
+      "id": "NOBM7VrGWzk",
+      "snippet": {
+        "publishedAt": "2022-04-04T09:00:09Z",
+        "channelId": "UCO-JCUvVb8bXg9NOhDrknTg",
+        "title": "구글에서 특별한 미션가방을 주셨다...",
+        "description": "#Google Play Games #베타 #언박싱\n〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓\n신청 링크:https://play.google.com/googleplaygames\n〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓\n뽀글이의 일상이 궁금해!? 인스타에 \"BBOGEUL2\"검색!\n\n개인 문의:coollight78@naver.com\n비지니스 문의:ad@lolq.co.kr\n\n'좋아요''구독'  버튼을 눌러주세요.큰 힘이 됩니다.\n〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓\n[BGM]\nhttps://www.youtube.com/user/GwooA\n〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NOBM7VrGWzk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NOBM7VrGWzk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NOBM7VrGWzk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NOBM7VrGWzk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NOBM7VrGWzk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뽀글이",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "구글에서 특별한 미션가방을 주셨다...",
+          "description": "#Google Play Games #베타 #언박싱\n〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓\n신청 링크:https://play.google.com/googleplaygames\n〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓\n뽀글이의 일상이 궁금해!? 인스타에 \"BBOGEUL2\"검색!\n\n개인 문의:coollight78@naver.com\n비지니스 문의:ad@lolq.co.kr\n\n'좋아요''구독'  버튼을 눌러주세요.큰 힘이 됩니다.\n〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓\n[BGM]\nhttps://www.youtube.com/user/GwooA\n〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT5M57S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "7202",
+        "likeCount": "190",
+        "favoriteCount": "0",
+        "commentCount": "26"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "구글에서 특별한 미션가방을 주셨다...",
+          "description": "#Google Play Games #베타 #언박싱\n〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓\n신청 링크:https://play.google.com/googleplaygames\n〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓\n뽀글이의 일상이 궁금해!? 인스타에 \"BBOGEUL2\"검색!\n\n개인 문의:coollight78@naver.com\n비지니스 문의:ad@lolq.co.kr\n\n'좋아요''구독'  버튼을 눌러주세요.큰 힘이 됩니다.\n〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓\n[BGM]\nhttps://www.youtube.com/user/GwooA\n〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓"
+        }
+      }
+    }
+  ]
+}

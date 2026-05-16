@@ -1,0 +1,3142 @@
+{
+  "idx": 2153,
+  "channel_id": "UCvA8ZzgMzBeSny-fLz6WWZA",
+  "channel_title": "롤큐플레이 LOLQPLAY",
+  "playlist_items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "g8Sm3tDjqaJy-9UX1K1dnDZRrso",
+      "id": "VVV2QThaemdNekJlU255LWZMejZXV1pBLjZyRXZHNVJhYXhn",
+      "snippet": {
+        "publishedAt": "2026-05-08T08:00:12Z",
+        "channelId": "UCvA8ZzgMzBeSny-fLz6WWZA",
+        "title": "출처 : 김조승 채널 👉@김조승",
+        "description": "롤큐 소속 크리에이터의 영상이 업로드됩니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6rEvG5Raaxg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6rEvG5Raaxg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6rEvG5Raaxg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6rEvG5Raaxg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6rEvG5Raaxg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "롤큐플레이 LOLQPLAY",
+        "playlistId": "UUvA8ZzgMzBeSny-fLz6WWZA",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "6rEvG5Raaxg"
+        },
+        "videoOwnerChannelTitle": "롤큐플레이 LOLQPLAY",
+        "videoOwnerChannelId": "UCvA8ZzgMzBeSny-fLz6WWZA"
+      },
+      "contentDetails": {
+        "videoId": "6rEvG5Raaxg",
+        "videoPublishedAt": "2026-05-08T08:00:12Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Da30oRQEHPu9vOEhCSRJw7T13K0",
+      "id": "VVV2QThaemdNekJlU255LWZMejZXV1pBLlJWZ09HU0xJT01F",
+      "snippet": {
+        "publishedAt": "2026-05-04T08:00:22Z",
+        "channelId": "UCvA8ZzgMzBeSny-fLz6WWZA",
+        "title": "출처 : 소나깅 채널 👉@소나깅",
+        "description": "롤큐 소속 크리에이터의 영상이 업로드됩니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RVgOGSLIOME/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RVgOGSLIOME/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RVgOGSLIOME/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RVgOGSLIOME/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RVgOGSLIOME/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "롤큐플레이 LOLQPLAY",
+        "playlistId": "UUvA8ZzgMzBeSny-fLz6WWZA",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "RVgOGSLIOME"
+        },
+        "videoOwnerChannelTitle": "롤큐플레이 LOLQPLAY",
+        "videoOwnerChannelId": "UCvA8ZzgMzBeSny-fLz6WWZA"
+      },
+      "contentDetails": {
+        "videoId": "RVgOGSLIOME",
+        "videoPublishedAt": "2026-05-04T08:00:22Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "bpR3wllHoDKmrfn4hDs4yn1y60k",
+      "id": "VVV2QThaemdNekJlU255LWZMejZXV1pBLkd4bllqQk5RMDVF",
+      "snippet": {
+        "publishedAt": "2026-04-28T08:00:24Z",
+        "channelId": "UCvA8ZzgMzBeSny-fLz6WWZA",
+        "title": "출처 : 겜뱃 채널 👉@겜뱃",
+        "description": "롤큐 소속 크리에이터의 영상이 업로드됩니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GxnYjBNQ05E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GxnYjBNQ05E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GxnYjBNQ05E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GxnYjBNQ05E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GxnYjBNQ05E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "롤큐플레이 LOLQPLAY",
+        "playlistId": "UUvA8ZzgMzBeSny-fLz6WWZA",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "GxnYjBNQ05E"
+        },
+        "videoOwnerChannelTitle": "롤큐플레이 LOLQPLAY",
+        "videoOwnerChannelId": "UCvA8ZzgMzBeSny-fLz6WWZA"
+      },
+      "contentDetails": {
+        "videoId": "GxnYjBNQ05E",
+        "videoPublishedAt": "2026-04-28T08:00:24Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "vbpmPV-MuYOjD36RUVb5EME8sJ8",
+      "id": "VVV2QThaemdNekJlU255LWZMejZXV1pBLjlrYXpJZUoya00w",
+      "snippet": {
+        "publishedAt": "2026-04-25T13:00:12Z",
+        "channelId": "UCvA8ZzgMzBeSny-fLz6WWZA",
+        "title": "출처 : 현타쿠 채널 👉@현타쿠",
+        "description": "롤큐 소속 크리에이터의 영상이 업로드됩니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9kazIeJ2kM0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9kazIeJ2kM0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9kazIeJ2kM0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9kazIeJ2kM0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9kazIeJ2kM0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "롤큐플레이 LOLQPLAY",
+        "playlistId": "UUvA8ZzgMzBeSny-fLz6WWZA",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9kazIeJ2kM0"
+        },
+        "videoOwnerChannelTitle": "롤큐플레이 LOLQPLAY",
+        "videoOwnerChannelId": "UCvA8ZzgMzBeSny-fLz6WWZA"
+      },
+      "contentDetails": {
+        "videoId": "9kazIeJ2kM0",
+        "videoPublishedAt": "2026-04-25T13:00:12Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8947Xix9RXBMjDxmVKdDcprKe5Y",
+      "id": "VVV2QThaemdNekJlU255LWZMejZXV1pBLjN0RjhUZjFUV2hV",
+      "snippet": {
+        "publishedAt": "2026-04-15T08:00:03Z",
+        "channelId": "UCvA8ZzgMzBeSny-fLz6WWZA",
+        "title": "출처 : 라스 마인크래프트 채널 👉@라스",
+        "description": "롤큐 소속 크리에이터의 영상이 업로드됩니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3tF8Tf1TWhU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3tF8Tf1TWhU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3tF8Tf1TWhU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3tF8Tf1TWhU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3tF8Tf1TWhU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "롤큐플레이 LOLQPLAY",
+        "playlistId": "UUvA8ZzgMzBeSny-fLz6WWZA",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "3tF8Tf1TWhU"
+        },
+        "videoOwnerChannelTitle": "롤큐플레이 LOLQPLAY",
+        "videoOwnerChannelId": "UCvA8ZzgMzBeSny-fLz6WWZA"
+      },
+      "contentDetails": {
+        "videoId": "3tF8Tf1TWhU",
+        "videoPublishedAt": "2026-04-15T08:00:03Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "atUM9vmBMcJwX8dd9JNqC4J5f08",
+      "id": "VVV2QThaemdNekJlU255LWZMejZXV1pBLkhyZ0FnUXFNcU1F",
+      "snippet": {
+        "publishedAt": "2026-04-14T08:00:28Z",
+        "channelId": "UCvA8ZzgMzBeSny-fLz6WWZA",
+        "title": "출처 : 제황 채널 👉@제황님",
+        "description": "롤큐 소속 크리에이터의 영상이 업로드됩니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HrgAgQqMqME/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HrgAgQqMqME/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HrgAgQqMqME/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HrgAgQqMqME/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HrgAgQqMqME/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "롤큐플레이 LOLQPLAY",
+        "playlistId": "UUvA8ZzgMzBeSny-fLz6WWZA",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "HrgAgQqMqME"
+        },
+        "videoOwnerChannelTitle": "롤큐플레이 LOLQPLAY",
+        "videoOwnerChannelId": "UCvA8ZzgMzBeSny-fLz6WWZA"
+      },
+      "contentDetails": {
+        "videoId": "HrgAgQqMqME",
+        "videoPublishedAt": "2026-04-14T08:00:28Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "N5nDd62kzjscX_LUE7EBL6wZGY0",
+      "id": "VVV2QThaemdNekJlU255LWZMejZXV1pBLjdPQi1IaERXQTVn",
+      "snippet": {
+        "publishedAt": "2026-04-13T08:00:08Z",
+        "channelId": "UCvA8ZzgMzBeSny-fLz6WWZA",
+        "title": "출처 : 녹캣 채널 👉@녹캣",
+        "description": "롤큐 소속 크리에이터의 영상이 업로드됩니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7OB-HhDWA5g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7OB-HhDWA5g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7OB-HhDWA5g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7OB-HhDWA5g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7OB-HhDWA5g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "롤큐플레이 LOLQPLAY",
+        "playlistId": "UUvA8ZzgMzBeSny-fLz6WWZA",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7OB-HhDWA5g"
+        },
+        "videoOwnerChannelTitle": "롤큐플레이 LOLQPLAY",
+        "videoOwnerChannelId": "UCvA8ZzgMzBeSny-fLz6WWZA"
+      },
+      "contentDetails": {
+        "videoId": "7OB-HhDWA5g",
+        "videoPublishedAt": "2026-04-13T08:00:08Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "snlRywpKmIZfMEE0GM_S-JJOuuc",
+      "id": "VVV2QThaemdNekJlU255LWZMejZXV1pBLjlVZk1yR0xuNmtR",
+      "snippet": {
+        "publishedAt": "2026-04-12T13:00:15Z",
+        "channelId": "UCvA8ZzgMzBeSny-fLz6WWZA",
+        "title": "출처 : 조밈 채널 👉@조밈",
+        "description": "롤큐 소속 크리에이터의 영상이 업로드됩니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9UfMrGLn6kQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9UfMrGLn6kQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9UfMrGLn6kQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9UfMrGLn6kQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9UfMrGLn6kQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "롤큐플레이 LOLQPLAY",
+        "playlistId": "UUvA8ZzgMzBeSny-fLz6WWZA",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9UfMrGLn6kQ"
+        },
+        "videoOwnerChannelTitle": "롤큐플레이 LOLQPLAY",
+        "videoOwnerChannelId": "UCvA8ZzgMzBeSny-fLz6WWZA"
+      },
+      "contentDetails": {
+        "videoId": "9UfMrGLn6kQ",
+        "videoPublishedAt": "2026-04-12T13:00:15Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "DgXL35UJpYlKXVajhS7G8mwaF-8",
+      "id": "VVV2QThaemdNekJlU255LWZMejZXV1pBLlZQT1FkRUxTTXRR",
+      "snippet": {
+        "publishedAt": "2026-04-11T08:00:26Z",
+        "channelId": "UCvA8ZzgMzBeSny-fLz6WWZA",
+        "title": "출처 : 로탱 채널 👉@로탱",
+        "description": "롤큐 소속 크리에이터의 영상이 업로드됩니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VPOQdELSMtQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VPOQdELSMtQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VPOQdELSMtQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VPOQdELSMtQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VPOQdELSMtQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "롤큐플레이 LOLQPLAY",
+        "playlistId": "UUvA8ZzgMzBeSny-fLz6WWZA",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VPOQdELSMtQ"
+        },
+        "videoOwnerChannelTitle": "롤큐플레이 LOLQPLAY",
+        "videoOwnerChannelId": "UCvA8ZzgMzBeSny-fLz6WWZA"
+      },
+      "contentDetails": {
+        "videoId": "VPOQdELSMtQ",
+        "videoPublishedAt": "2026-04-11T08:00:26Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8q5YX-MQdJwrjoya5VhDH05csVo",
+      "id": "VVV2QThaemdNekJlU255LWZMejZXV1pBLmU3Z2M5ZC1IMDd3",
+      "snippet": {
+        "publishedAt": "2026-04-10T08:00:49Z",
+        "channelId": "UCvA8ZzgMzBeSny-fLz6WWZA",
+        "title": "출처 : 김알파의 게임세상 채널 👉@김알파",
+        "description": "롤큐 소속 크리에이터의 영상이 업로드됩니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/e7gc9d-H07w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/e7gc9d-H07w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/e7gc9d-H07w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/e7gc9d-H07w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/e7gc9d-H07w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "롤큐플레이 LOLQPLAY",
+        "playlistId": "UUvA8ZzgMzBeSny-fLz6WWZA",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "e7gc9d-H07w"
+        },
+        "videoOwnerChannelTitle": "롤큐플레이 LOLQPLAY",
+        "videoOwnerChannelId": "UCvA8ZzgMzBeSny-fLz6WWZA"
+      },
+      "contentDetails": {
+        "videoId": "e7gc9d-H07w",
+        "videoPublishedAt": "2026-04-10T08:00:49Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fGvXLl82cbRUBIZfR_RwSHF71pc",
+      "id": "VVV2QThaemdNekJlU255LWZMejZXV1pBLnh3Vmc1dlI3bmZR",
+      "snippet": {
+        "publishedAt": "2026-04-09T08:01:04Z",
+        "channelId": "UCvA8ZzgMzBeSny-fLz6WWZA",
+        "title": "출처 : 엄마안부 채널 👉@Ummaanboo",
+        "description": "롤큐 소속 크리에이터의 영상이 업로드됩니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xwVg5vR7nfQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xwVg5vR7nfQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xwVg5vR7nfQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xwVg5vR7nfQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xwVg5vR7nfQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "롤큐플레이 LOLQPLAY",
+        "playlistId": "UUvA8ZzgMzBeSny-fLz6WWZA",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "xwVg5vR7nfQ"
+        },
+        "videoOwnerChannelTitle": "롤큐플레이 LOLQPLAY",
+        "videoOwnerChannelId": "UCvA8ZzgMzBeSny-fLz6WWZA"
+      },
+      "contentDetails": {
+        "videoId": "xwVg5vR7nfQ",
+        "videoPublishedAt": "2026-04-09T08:01:04Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Oc8_jJAk-GiHslbchw-5yM9Pj5g",
+      "id": "VVV2QThaemdNekJlU255LWZMejZXV1pBLmE1RGphdERnYzZv",
+      "snippet": {
+        "publishedAt": "2026-04-08T08:00:00Z",
+        "channelId": "UCvA8ZzgMzBeSny-fLz6WWZA",
+        "title": "출처 : 쿠냐 채널 👉@딸기토끼쿠냐",
+        "description": "롤큐 소속 크리에이터의 영상이 업로드됩니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/a5DjatDgc6o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/a5DjatDgc6o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/a5DjatDgc6o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/a5DjatDgc6o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/a5DjatDgc6o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "롤큐플레이 LOLQPLAY",
+        "playlistId": "UUvA8ZzgMzBeSny-fLz6WWZA",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "a5DjatDgc6o"
+        },
+        "videoOwnerChannelTitle": "롤큐플레이 LOLQPLAY",
+        "videoOwnerChannelId": "UCvA8ZzgMzBeSny-fLz6WWZA"
+      },
+      "contentDetails": {
+        "videoId": "a5DjatDgc6o",
+        "videoPublishedAt": "2026-04-08T08:00:00Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_Fy3luWA7tNrrKXWrNt3BRsjono",
+      "id": "VVV2QThaemdNekJlU255LWZMejZXV1pBLm4tZDltSkF4eURv",
+      "snippet": {
+        "publishedAt": "2026-04-07T08:00:48Z",
+        "channelId": "UCvA8ZzgMzBeSny-fLz6WWZA",
+        "title": "출처 : 루밍밍 채널 👉@루밍밍",
+        "description": "롤큐 소속 크리에이터의 영상이 업로드됩니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/n-d9mJAxyDo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/n-d9mJAxyDo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/n-d9mJAxyDo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/n-d9mJAxyDo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/n-d9mJAxyDo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "롤큐플레이 LOLQPLAY",
+        "playlistId": "UUvA8ZzgMzBeSny-fLz6WWZA",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "n-d9mJAxyDo"
+        },
+        "videoOwnerChannelTitle": "롤큐플레이 LOLQPLAY",
+        "videoOwnerChannelId": "UCvA8ZzgMzBeSny-fLz6WWZA"
+      },
+      "contentDetails": {
+        "videoId": "n-d9mJAxyDo",
+        "videoPublishedAt": "2026-04-07T08:00:48Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zK6A9djXmZLCZFSmcYfGalSDlfI",
+      "id": "VVV2QThaemdNekJlU255LWZMejZXV1pBLlFER3pXY3JvNGZN",
+      "snippet": {
+        "publishedAt": "2026-04-06T08:00:32Z",
+        "channelId": "UCvA8ZzgMzBeSny-fLz6WWZA",
+        "title": "출처 : 견뭉 채널 👉@견뭉",
+        "description": "롤큐 소속 크리에이터의 영상이 업로드됩니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QDGzWcro4fM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QDGzWcro4fM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QDGzWcro4fM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QDGzWcro4fM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QDGzWcro4fM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "롤큐플레이 LOLQPLAY",
+        "playlistId": "UUvA8ZzgMzBeSny-fLz6WWZA",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "QDGzWcro4fM"
+        },
+        "videoOwnerChannelTitle": "롤큐플레이 LOLQPLAY",
+        "videoOwnerChannelId": "UCvA8ZzgMzBeSny-fLz6WWZA"
+      },
+      "contentDetails": {
+        "videoId": "QDGzWcro4fM",
+        "videoPublishedAt": "2026-04-06T08:00:32Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "kviNEj5CCPe9zZ0hP3UK4mmU-OY",
+      "id": "VVV2QThaemdNekJlU255LWZMejZXV1pBLmFEYXJtblFSUi1B",
+      "snippet": {
+        "publishedAt": "2026-04-05T08:00:00Z",
+        "channelId": "UCvA8ZzgMzBeSny-fLz6WWZA",
+        "title": "출처 : 조우 채널 👉@조우01",
+        "description": "롤큐 소속 크리에이터의 영상이 업로드됩니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aDarmnQRR-A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aDarmnQRR-A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aDarmnQRR-A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aDarmnQRR-A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aDarmnQRR-A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "롤큐플레이 LOLQPLAY",
+        "playlistId": "UUvA8ZzgMzBeSny-fLz6WWZA",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "aDarmnQRR-A"
+        },
+        "videoOwnerChannelTitle": "롤큐플레이 LOLQPLAY",
+        "videoOwnerChannelId": "UCvA8ZzgMzBeSny-fLz6WWZA"
+      },
+      "contentDetails": {
+        "videoId": "aDarmnQRR-A",
+        "videoPublishedAt": "2026-04-05T08:00:00Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "0581w0w7wWkAA--3BrbRtZ9-_dI",
+      "id": "VVV2QThaemdNekJlU255LWZMejZXV1pBLkR2eG5uc2pZT2FR",
+      "snippet": {
+        "publishedAt": "2026-04-04T08:00:11Z",
+        "channelId": "UCvA8ZzgMzBeSny-fLz6WWZA",
+        "title": "출처 : 호쿰이 Ho_kumee 채널 👉@호쿰이",
+        "description": "롤큐 소속 크리에이터의 영상이 업로드됩니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DvxnnsjYOaQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DvxnnsjYOaQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DvxnnsjYOaQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DvxnnsjYOaQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DvxnnsjYOaQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "롤큐플레이 LOLQPLAY",
+        "playlistId": "UUvA8ZzgMzBeSny-fLz6WWZA",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "DvxnnsjYOaQ"
+        },
+        "videoOwnerChannelTitle": "롤큐플레이 LOLQPLAY",
+        "videoOwnerChannelId": "UCvA8ZzgMzBeSny-fLz6WWZA"
+      },
+      "contentDetails": {
+        "videoId": "DvxnnsjYOaQ",
+        "videoPublishedAt": "2026-04-04T08:00:11Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "qpZOUUcclZPAVufI1ufawZcUEWw",
+      "id": "VVV2QThaemdNekJlU255LWZMejZXV1pBLmpSV1c1cF96SS1R",
+      "snippet": {
+        "publishedAt": "2026-04-03T08:00:49Z",
+        "channelId": "UCvA8ZzgMzBeSny-fLz6WWZA",
+        "title": "출처 : 항다리 (훈석) 채널 👉@hoonkki",
+        "description": "롤큐 소속 크리에이터의 영상이 업로드됩니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jRWW5p_zI-Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jRWW5p_zI-Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jRWW5p_zI-Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jRWW5p_zI-Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jRWW5p_zI-Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "롤큐플레이 LOLQPLAY",
+        "playlistId": "UUvA8ZzgMzBeSny-fLz6WWZA",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "jRWW5p_zI-Q"
+        },
+        "videoOwnerChannelTitle": "롤큐플레이 LOLQPLAY",
+        "videoOwnerChannelId": "UCvA8ZzgMzBeSny-fLz6WWZA"
+      },
+      "contentDetails": {
+        "videoId": "jRWW5p_zI-Q",
+        "videoPublishedAt": "2026-04-03T08:00:49Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "VfiexJsWs-8bGs4NF-MSloQxIuw",
+      "id": "VVV2QThaemdNekJlU255LWZMejZXV1pBLklwb09mLS14dnBv",
+      "snippet": {
+        "publishedAt": "2026-04-02T08:00:14Z",
+        "channelId": "UCvA8ZzgMzBeSny-fLz6WWZA",
+        "title": "출처 : 제틀런 채널 👉@제틀런",
+        "description": "롤큐 소속 크리에이터의 영상이 업로드됩니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IpoOf--xvpo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IpoOf--xvpo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IpoOf--xvpo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IpoOf--xvpo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IpoOf--xvpo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "롤큐플레이 LOLQPLAY",
+        "playlistId": "UUvA8ZzgMzBeSny-fLz6WWZA",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "IpoOf--xvpo"
+        },
+        "videoOwnerChannelTitle": "롤큐플레이 LOLQPLAY",
+        "videoOwnerChannelId": "UCvA8ZzgMzBeSny-fLz6WWZA"
+      },
+      "contentDetails": {
+        "videoId": "IpoOf--xvpo",
+        "videoPublishedAt": "2026-04-02T08:00:14Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "jd5DBoJWYi8rWU_qHGRnZwYk7G4",
+      "id": "VVV2QThaemdNekJlU255LWZMejZXV1pBLkRJQkM1M2lfQzVZ",
+      "snippet": {
+        "publishedAt": "2026-04-02T08:00:10Z",
+        "channelId": "UCvA8ZzgMzBeSny-fLz6WWZA",
+        "title": "출처 : 싸모스 채널 👉@싸모스",
+        "description": "롤큐 소속 크리에이터의 영상이 업로드됩니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DIBC53i_C5Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DIBC53i_C5Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DIBC53i_C5Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DIBC53i_C5Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DIBC53i_C5Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "롤큐플레이 LOLQPLAY",
+        "playlistId": "UUvA8ZzgMzBeSny-fLz6WWZA",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "DIBC53i_C5Y"
+        },
+        "videoOwnerChannelTitle": "롤큐플레이 LOLQPLAY",
+        "videoOwnerChannelId": "UCvA8ZzgMzBeSny-fLz6WWZA"
+      },
+      "contentDetails": {
+        "videoId": "DIBC53i_C5Y",
+        "videoPublishedAt": "2026-04-02T08:00:10Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "qbkDgPYmN-vTCfJxZHa0tf97s2o",
+      "id": "VVV2QThaemdNekJlU255LWZMejZXV1pBLjJsdVJNMTB1ZFFR",
+      "snippet": {
+        "publishedAt": "2026-04-02T08:00:02Z",
+        "channelId": "UCvA8ZzgMzBeSny-fLz6WWZA",
+        "title": "출처 : 최강선장 마추 채널 👉@마추로블록스",
+        "description": "롤큐 소속 크리에이터의 영상이 업로드됩니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2luRM10udQQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2luRM10udQQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2luRM10udQQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2luRM10udQQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2luRM10udQQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "롤큐플레이 LOLQPLAY",
+        "playlistId": "UUvA8ZzgMzBeSny-fLz6WWZA",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2luRM10udQQ"
+        },
+        "videoOwnerChannelTitle": "롤큐플레이 LOLQPLAY",
+        "videoOwnerChannelId": "UCvA8ZzgMzBeSny-fLz6WWZA"
+      },
+      "contentDetails": {
+        "videoId": "2luRM10udQQ",
+        "videoPublishedAt": "2026-04-02T08:00:02Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3s0Yku6bKoMrKz_-xKiCDv-gDsw",
+      "id": "VVV2QThaemdNekJlU255LWZMejZXV1pBLnVhLUtjYkpZUHhB",
+      "snippet": {
+        "publishedAt": "2026-03-31T08:00:42Z",
+        "channelId": "UCvA8ZzgMzBeSny-fLz6WWZA",
+        "title": "출처 : 빗시 채널 👉@빗시",
+        "description": "롤큐 소속 크리에이터의 영상이 업로드됩니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ua-KcbJYPxA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ua-KcbJYPxA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ua-KcbJYPxA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ua-KcbJYPxA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ua-KcbJYPxA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "롤큐플레이 LOLQPLAY",
+        "playlistId": "UUvA8ZzgMzBeSny-fLz6WWZA",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ua-KcbJYPxA"
+        },
+        "videoOwnerChannelTitle": "롤큐플레이 LOLQPLAY",
+        "videoOwnerChannelId": "UCvA8ZzgMzBeSny-fLz6WWZA"
+      },
+      "contentDetails": {
+        "videoId": "ua-KcbJYPxA",
+        "videoPublishedAt": "2026-03-31T08:00:42Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "video_details": [
+    {
+      "kind": "youtube#video",
+      "etag": "wDJbNilIKw8CWLeoppNedIVaWPc",
+      "id": "6rEvG5Raaxg",
+      "snippet": {
+        "publishedAt": "2026-05-08T08:00:12Z",
+        "channelId": "UCvA8ZzgMzBeSny-fLz6WWZA",
+        "title": "출처 : 김조승 채널 👉@김조승",
+        "description": "롤큐 소속 크리에이터의 영상이 업로드됩니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6rEvG5Raaxg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6rEvG5Raaxg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6rEvG5Raaxg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6rEvG5Raaxg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6rEvG5Raaxg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "롤큐플레이 LOLQPLAY",
+        "tags": [
+          "버츄얼",
+          "버튜버",
+          "크리에이터",
+          "우왁굳",
+          "이세돌",
+          "저스트채팅",
+          "V튜버"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "출처 : 김조승 채널 👉@김조승",
+          "description": "롤큐 소속 크리에이터의 영상이 업로드됩니다."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT43S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1372",
+        "likeCount": "9",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en-US": {
+          "title": "Source: Kim Jo-seung Channel 👉@KimJoSeung",
+          "description": "Videos by creators affiliated with RollQ will be uploaded."
+        },
+        "ko": {
+          "title": "출처 : 김조승 채널 👉@김조승",
+          "description": "롤큐 소속 크리에이터의 영상이 업로드됩니다."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "uK6gQebEkoDpB9j1OGMmg6Y7_wM",
+      "id": "RVgOGSLIOME",
+      "snippet": {
+        "publishedAt": "2026-05-04T08:00:22Z",
+        "channelId": "UCvA8ZzgMzBeSny-fLz6WWZA",
+        "title": "출처 : 소나깅 채널 👉@소나깅",
+        "description": "롤큐 소속 크리에이터의 영상이 업로드됩니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RVgOGSLIOME/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RVgOGSLIOME/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RVgOGSLIOME/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RVgOGSLIOME/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RVgOGSLIOME/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "롤큐플레이 LOLQPLAY",
+        "tags": [
+          "버츄얼",
+          "버튜버",
+          "크리에이터",
+          "우왁굳",
+          "이세돌",
+          "저스트채팅",
+          "V튜버"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "출처 : 소나깅 채널 👉@소나깅",
+          "description": "롤큐 소속 크리에이터의 영상이 업로드됩니다."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT20S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "8607",
+        "likeCount": "52",
+        "favoriteCount": "0",
+        "commentCount": "8"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en-US": {
+          "title": "Source: Sonaging Channel 👉@Sonaging",
+          "description": "Videos by creators affiliated with RollQ will be uploaded."
+        },
+        "ko": {
+          "title": "출처 : 소나깅 채널 👉@소나깅",
+          "description": "롤큐 소속 크리에이터의 영상이 업로드됩니다."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ihgvZhe4bEAzfVMiOsTJAPhD9vI",
+      "id": "GxnYjBNQ05E",
+      "snippet": {
+        "publishedAt": "2026-04-28T08:00:24Z",
+        "channelId": "UCvA8ZzgMzBeSny-fLz6WWZA",
+        "title": "출처 : 겜뱃 채널 👉@겜뱃",
+        "description": "롤큐 소속 크리에이터의 영상이 업로드됩니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GxnYjBNQ05E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GxnYjBNQ05E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GxnYjBNQ05E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GxnYjBNQ05E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GxnYjBNQ05E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "롤큐플레이 LOLQPLAY",
+        "tags": [
+          "버츄얼",
+          "버튜버",
+          "크리에이터",
+          "우왁굳",
+          "이세돌",
+          "저스트채팅",
+          "V튜버"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "출처 : 겜뱃 채널 👉@겜뱃",
+          "description": "롤큐 소속 크리에이터의 영상이 업로드됩니다."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT34S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "3008",
+        "likeCount": "23",
+        "favoriteCount": "0",
+        "commentCount": "2"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "출처 : 겜뱃 채널 👉@겜뱃",
+          "description": "롤큐 소속 크리에이터의 영상이 업로드됩니다."
+        },
+        "en-US": {
+          "title": "Source: Gambat Channel 👉@Gambat",
+          "description": "Videos by creators affiliated with RollQ will be uploaded."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "dHOiagv861p-LASAcitYlqDp7q0",
+      "id": "9kazIeJ2kM0",
+      "snippet": {
+        "publishedAt": "2026-04-25T13:00:12Z",
+        "channelId": "UCvA8ZzgMzBeSny-fLz6WWZA",
+        "title": "출처 : 현타쿠 채널 👉@현타쿠",
+        "description": "롤큐 소속 크리에이터의 영상이 업로드됩니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9kazIeJ2kM0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9kazIeJ2kM0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9kazIeJ2kM0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9kazIeJ2kM0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9kazIeJ2kM0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "롤큐플레이 LOLQPLAY",
+        "tags": [
+          "버츄얼",
+          "버튜버",
+          "크리에이터",
+          "우왁굳",
+          "이세돌",
+          "저스트채팅",
+          "V튜버"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "출처 : 현타쿠 채널 👉@현타쿠",
+          "description": "롤큐 소속 크리에이터의 영상이 업로드됩니다."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT20S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "9298",
+        "likeCount": "18",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "출처 : 현타쿠 채널 👉@현타쿠",
+          "description": "롤큐 소속 크리에이터의 영상이 업로드됩니다."
+        },
+        "en-US": {
+          "title": "Source: Hyuntaku Channel 👉@Hyuntaku",
+          "description": "Videos by creators affiliated with RollQ will be uploaded."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "OEQVotmkMnTrQ-thZbyH3Kfcxxs",
+      "id": "3tF8Tf1TWhU",
+      "snippet": {
+        "publishedAt": "2026-04-15T08:00:03Z",
+        "channelId": "UCvA8ZzgMzBeSny-fLz6WWZA",
+        "title": "출처 : 라스 마인크래프트 채널 👉@라스",
+        "description": "롤큐 소속 크리에이터의 영상이 업로드됩니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3tF8Tf1TWhU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3tF8Tf1TWhU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3tF8Tf1TWhU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3tF8Tf1TWhU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3tF8Tf1TWhU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "롤큐플레이 LOLQPLAY",
+        "tags": [
+          "버츄얼",
+          "버튜버",
+          "크리에이터",
+          "우왁굳",
+          "이세돌",
+          "저스트채팅",
+          "V튜버"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "출처 : 라스 마인크래프트 채널 👉@라스",
+          "description": "롤큐 소속 크리에이터의 영상이 업로드됩니다."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT41S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "19111",
+        "likeCount": "227",
+        "favoriteCount": "0",
+        "commentCount": "2"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action-adventure_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en-US": {
+          "title": "Source: Las Minecraft Channel 👉@Las",
+          "description": "Videos by creators affiliated with RollQ will be uploaded."
+        },
+        "ko": {
+          "title": "출처 : 라스 마인크래프트 채널 👉@라스",
+          "description": "롤큐 소속 크리에이터의 영상이 업로드됩니다."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "74oVMrrAbt0YGn_OayCqQZTH8w0",
+      "id": "HrgAgQqMqME",
+      "snippet": {
+        "publishedAt": "2026-04-14T08:00:28Z",
+        "channelId": "UCvA8ZzgMzBeSny-fLz6WWZA",
+        "title": "출처 : 제황 채널 👉@제황님",
+        "description": "롤큐 소속 크리에이터의 영상이 업로드됩니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HrgAgQqMqME/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HrgAgQqMqME/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HrgAgQqMqME/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HrgAgQqMqME/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HrgAgQqMqME/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "롤큐플레이 LOLQPLAY",
+        "tags": [
+          "버츄얼",
+          "버튜버",
+          "크리에이터",
+          "우왁굳",
+          "이세돌",
+          "저스트채팅",
+          "V튜버"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "출처 : 제황 채널 👉@제황님",
+          "description": "롤큐 소속 크리에이터의 영상이 업로드됩니다."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT37S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "2557",
+        "likeCount": "11",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "출처 : 제황 채널 👉@제황님",
+          "description": "롤큐 소속 크리에이터의 영상이 업로드됩니다."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "C7Zjh5sPs0ia7xv23rV7-_Sl1SA",
+      "id": "7OB-HhDWA5g",
+      "snippet": {
+        "publishedAt": "2026-04-13T08:00:08Z",
+        "channelId": "UCvA8ZzgMzBeSny-fLz6WWZA",
+        "title": "출처 : 녹캣 채널 👉@녹캣",
+        "description": "롤큐 소속 크리에이터의 영상이 업로드됩니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7OB-HhDWA5g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7OB-HhDWA5g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7OB-HhDWA5g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7OB-HhDWA5g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7OB-HhDWA5g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "롤큐플레이 LOLQPLAY",
+        "tags": [
+          "버츄얼",
+          "버튜버",
+          "크리에이터",
+          "우왁굳",
+          "이세돌",
+          "저스트채팅",
+          "V튜버"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "출처 : 녹캣 채널 👉@녹캣",
+          "description": "롤큐 소속 크리에이터의 영상이 업로드됩니다."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT44S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "2078",
+        "likeCount": "18",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Role-playing_video_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en-US": {
+          "title": "Source: Nokcat Channel 👉@Nokcat",
+          "description": "Videos by creators affiliated with RollQ will be uploaded."
+        },
+        "ko": {
+          "title": "출처 : 녹캣 채널 👉@녹캣",
+          "description": "롤큐 소속 크리에이터의 영상이 업로드됩니다."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "6SF2I8GH2bBHzjiqCT265S66xVo",
+      "id": "9UfMrGLn6kQ",
+      "snippet": {
+        "publishedAt": "2026-04-12T13:00:15Z",
+        "channelId": "UCvA8ZzgMzBeSny-fLz6WWZA",
+        "title": "출처 : 조밈 채널 👉@조밈",
+        "description": "롤큐 소속 크리에이터의 영상이 업로드됩니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9UfMrGLn6kQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9UfMrGLn6kQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9UfMrGLn6kQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9UfMrGLn6kQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9UfMrGLn6kQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "롤큐플레이 LOLQPLAY",
+        "tags": [
+          "버츄얼",
+          "버튜버",
+          "크리에이터",
+          "우왁굳",
+          "이세돌",
+          "저스트채팅",
+          "V튜버"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "출처 : 조밈 채널 👉@조밈",
+          "description": "롤큐 소속 크리에이터의 영상이 업로드됩니다."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT17S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "8091",
+        "likeCount": "52",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Role-playing_video_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "출처 : 조밈 채널 👉@조밈",
+          "description": "롤큐 소속 크리에이터의 영상이 업로드됩니다."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "OsK40vbc693r1O9QtGPkj06KbBU",
+      "id": "VPOQdELSMtQ",
+      "snippet": {
+        "publishedAt": "2026-04-11T08:00:26Z",
+        "channelId": "UCvA8ZzgMzBeSny-fLz6WWZA",
+        "title": "출처 : 로탱 채널 👉@로탱",
+        "description": "롤큐 소속 크리에이터의 영상이 업로드됩니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VPOQdELSMtQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VPOQdELSMtQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VPOQdELSMtQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VPOQdELSMtQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VPOQdELSMtQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "롤큐플레이 LOLQPLAY",
+        "tags": [
+          "버츄얼",
+          "버튜버",
+          "크리에이터",
+          "우왁굳",
+          "이세돌",
+          "저스트채팅",
+          "V튜버"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "출처 : 로탱 채널 👉@로탱",
+          "description": "롤큐 소속 크리에이터의 영상이 업로드됩니다."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT46S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "20892",
+        "likeCount": "333",
+        "favoriteCount": "0",
+        "commentCount": "7"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Role-playing_video_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en-US": {
+          "title": "Source: Rotang Channel 👉@Rotang",
+          "description": "Videos by creators affiliated with RollQ will be uploaded."
+        },
+        "ko": {
+          "title": "출처 : 로탱 채널 👉@로탱",
+          "description": "롤큐 소속 크리에이터의 영상이 업로드됩니다."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "dX6zAzaenNq8dryAGpo4Djt0t7c",
+      "id": "e7gc9d-H07w",
+      "snippet": {
+        "publishedAt": "2026-04-10T08:00:49Z",
+        "channelId": "UCvA8ZzgMzBeSny-fLz6WWZA",
+        "title": "출처 : 김알파의 게임세상 채널 👉@김알파",
+        "description": "롤큐 소속 크리에이터의 영상이 업로드됩니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/e7gc9d-H07w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/e7gc9d-H07w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/e7gc9d-H07w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/e7gc9d-H07w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/e7gc9d-H07w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "롤큐플레이 LOLQPLAY",
+        "tags": [
+          "버츄얼",
+          "버튜버",
+          "크리에이터",
+          "우왁굳",
+          "이세돌",
+          "저스트채팅",
+          "V튜버"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "출처 : 김알파의 게임세상 채널 👉@김알파",
+          "description": "롤큐 소속 크리에이터의 영상이 업로드됩니다."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT46S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "10086",
+        "likeCount": "215",
+        "favoriteCount": "0",
+        "commentCount": "2"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action-adventure_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en-US": {
+          "title": "Source: Kim Alpha's Game World Channel 👉@KimAlpha",
+          "description": "Videos by creators affiliated with RollQ will be uploaded."
+        },
+        "ko": {
+          "title": "출처 : 김알파의 게임세상 채널 👉@김알파",
+          "description": "롤큐 소속 크리에이터의 영상이 업로드됩니다."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "fn8WkJrCBq5Rgz0waRJTzuNTafo",
+      "id": "xwVg5vR7nfQ",
+      "snippet": {
+        "publishedAt": "2026-04-09T08:01:04Z",
+        "channelId": "UCvA8ZzgMzBeSny-fLz6WWZA",
+        "title": "출처 : 엄마안부 채널 👉@Ummaanboo",
+        "description": "롤큐 소속 크리에이터의 영상이 업로드됩니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xwVg5vR7nfQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xwVg5vR7nfQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xwVg5vR7nfQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xwVg5vR7nfQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xwVg5vR7nfQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "롤큐플레이 LOLQPLAY",
+        "tags": [
+          "버츄얼",
+          "버튜버",
+          "크리에이터",
+          "우왁굳",
+          "이세돌",
+          "저스트채팅",
+          "V튜버"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "출처 : 엄마안부 채널 👉@Ummaanboo",
+          "description": "롤큐 소속 크리에이터의 영상이 업로드됩니다."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT50S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1093",
+        "likeCount": "10",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en-US": {
+          "title": "Source: Mom's Greetings Channel 👉@Ummaanboo",
+          "description": "Videos by creators affiliated with RollQ will be uploaded."
+        },
+        "ko": {
+          "title": "출처 : 엄마안부 채널 👉@Ummaanboo",
+          "description": "롤큐 소속 크리에이터의 영상이 업로드됩니다."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "rogicErXhDaXjplvdlRQNJM5Fqs",
+      "id": "a5DjatDgc6o",
+      "snippet": {
+        "publishedAt": "2026-04-08T08:00:00Z",
+        "channelId": "UCvA8ZzgMzBeSny-fLz6WWZA",
+        "title": "출처 : 쿠냐 채널 👉@딸기토끼쿠냐",
+        "description": "롤큐 소속 크리에이터의 영상이 업로드됩니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/a5DjatDgc6o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/a5DjatDgc6o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/a5DjatDgc6o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/a5DjatDgc6o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/a5DjatDgc6o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "롤큐플레이 LOLQPLAY",
+        "tags": [
+          "버츄얼",
+          "버튜버",
+          "크리에이터",
+          "우왁굳",
+          "이세돌",
+          "저스트채팅",
+          "V튜버"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "출처 : 쿠냐 채널 👉@딸기토끼쿠냐",
+          "description": "롤큐 소속 크리에이터의 영상이 업로드됩니다."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT39S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "8133",
+        "likeCount": "196",
+        "favoriteCount": "0",
+        "commentCount": "4"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en-US": {
+          "title": "Source: Kunya Channel 👉@StrawberryRabbitKunya",
+          "description": "Videos by creators affiliated with RollQ will be uploaded."
+        },
+        "ko": {
+          "title": "출처 : 쿠냐 채널 👉@딸기토끼쿠냐",
+          "description": "롤큐 소속 크리에이터의 영상이 업로드됩니다."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "11Uu-z7SveSesJoAg2HJdAuoEaE",
+      "id": "n-d9mJAxyDo",
+      "snippet": {
+        "publishedAt": "2026-04-07T08:00:48Z",
+        "channelId": "UCvA8ZzgMzBeSny-fLz6WWZA",
+        "title": "출처 : 루밍밍 채널 👉@루밍밍",
+        "description": "롤큐 소속 크리에이터의 영상이 업로드됩니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/n-d9mJAxyDo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/n-d9mJAxyDo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/n-d9mJAxyDo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/n-d9mJAxyDo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/n-d9mJAxyDo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "롤큐플레이 LOLQPLAY",
+        "tags": [
+          "버츄얼",
+          "버튜버",
+          "크리에이터",
+          "우왁굳",
+          "이세돌",
+          "저스트채팅",
+          "V튜버"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "출처 : 루밍밍 채널 👉@루밍밍",
+          "description": "롤큐 소속 크리에이터의 영상이 업로드됩니다."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT26S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "4470",
+        "likeCount": "34",
+        "favoriteCount": "0",
+        "commentCount": "4"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en-US": {
+          "title": "Source: Roomingming Channel 👉@Roomingming",
+          "description": "Videos by creators affiliated with RollQ will be uploaded."
+        },
+        "ko": {
+          "title": "출처 : 루밍밍 채널 👉@루밍밍",
+          "description": "롤큐 소속 크리에이터의 영상이 업로드됩니다."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "cSkX_nRPobBTjxlnN8Nuo1kn-Lg",
+      "id": "QDGzWcro4fM",
+      "snippet": {
+        "publishedAt": "2026-04-06T08:00:32Z",
+        "channelId": "UCvA8ZzgMzBeSny-fLz6WWZA",
+        "title": "출처 : 견뭉 채널 👉@견뭉",
+        "description": "롤큐 소속 크리에이터의 영상이 업로드됩니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QDGzWcro4fM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QDGzWcro4fM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QDGzWcro4fM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QDGzWcro4fM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QDGzWcro4fM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "롤큐플레이 LOLQPLAY",
+        "tags": [
+          "버츄얼",
+          "버튜버",
+          "크리에이터",
+          "우왁굳",
+          "이세돌",
+          "저스트채팅",
+          "V튜버"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "출처 : 견뭉 채널 👉@견뭉",
+          "description": "롤큐 소속 크리에이터의 영상이 업로드됩니다."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT33S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "13446",
+        "likeCount": "220",
+        "favoriteCount": "0",
+        "commentCount": "3"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Role-playing_video_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "출처 : 견뭉 채널 👉@견뭉",
+          "description": "롤큐 소속 크리에이터의 영상이 업로드됩니다."
+        },
+        "en-US": {
+          "title": "Source: Gyeonmung Channel 👉@Gyeonmung",
+          "description": "Videos by creators affiliated with RollQ will be uploaded."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "tlVVGglaueI1YQOoz9AwMFPwpos",
+      "id": "aDarmnQRR-A",
+      "snippet": {
+        "publishedAt": "2026-04-05T08:00:00Z",
+        "channelId": "UCvA8ZzgMzBeSny-fLz6WWZA",
+        "title": "출처 : 조우 채널 👉@조우01",
+        "description": "롤큐 소속 크리에이터의 영상이 업로드됩니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aDarmnQRR-A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aDarmnQRR-A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aDarmnQRR-A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aDarmnQRR-A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aDarmnQRR-A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "롤큐플레이 LOLQPLAY",
+        "tags": [
+          "버츄얼",
+          "버튜버",
+          "크리에이터",
+          "우왁굳",
+          "이세돌",
+          "저스트채팅",
+          "V튜버"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "출처 : 조우 채널 👉@조우01",
+          "description": "롤큐 소속 크리에이터의 영상이 업로드됩니다."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT46S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "4217",
+        "likeCount": "37",
+        "favoriteCount": "0",
+        "commentCount": "2"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action_game",
+          "https://en.wikipedia.org/wiki/Role-playing_video_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en-US": {
+          "title": "Source: Jowoo Channel 👉@Jowoo01",
+          "description": "Videos by creators affiliated with RollQ will be uploaded."
+        },
+        "ko": {
+          "title": "출처 : 조우 채널 👉@조우01",
+          "description": "롤큐 소속 크리에이터의 영상이 업로드됩니다."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "a5XuXzKJFax3TIgRxHu0lBdn3oY",
+      "id": "DvxnnsjYOaQ",
+      "snippet": {
+        "publishedAt": "2026-04-04T08:00:11Z",
+        "channelId": "UCvA8ZzgMzBeSny-fLz6WWZA",
+        "title": "출처 : 호쿰이 Ho_kumee 채널 👉@호쿰이",
+        "description": "롤큐 소속 크리에이터의 영상이 업로드됩니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DvxnnsjYOaQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DvxnnsjYOaQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DvxnnsjYOaQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DvxnnsjYOaQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DvxnnsjYOaQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "롤큐플레이 LOLQPLAY",
+        "tags": [
+          "버츄얼",
+          "버튜버",
+          "크리에이터",
+          "우왁굳",
+          "이세돌",
+          "저스트채팅",
+          "V튜버"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "출처 : 호쿰이 Ho_kumee 채널 👉@호쿰이",
+          "description": "롤큐 소속 크리에이터의 영상이 업로드됩니다."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT48S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1290",
+        "likeCount": "6",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en-US": {
+          "title": "Source: Ho_kumee Channel 👉@Ho_kumee",
+          "description": "Videos by creators affiliated with RollQ will be uploaded."
+        },
+        "ko": {
+          "title": "출처 : 호쿰이 Ho_kumee 채널 👉@호쿰이",
+          "description": "롤큐 소속 크리에이터의 영상이 업로드됩니다."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "87TsVLcGmrkQ_JKcgbn-pyxqTz0",
+      "id": "jRWW5p_zI-Q",
+      "snippet": {
+        "publishedAt": "2026-04-03T08:00:49Z",
+        "channelId": "UCvA8ZzgMzBeSny-fLz6WWZA",
+        "title": "출처 : 항다리 (훈석) 채널 👉@hoonkki",
+        "description": "롤큐 소속 크리에이터의 영상이 업로드됩니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jRWW5p_zI-Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jRWW5p_zI-Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jRWW5p_zI-Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jRWW5p_zI-Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jRWW5p_zI-Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "롤큐플레이 LOLQPLAY",
+        "tags": [
+          "버츄얼",
+          "버튜버",
+          "크리에이터",
+          "우왁굳",
+          "이세돌",
+          "저스트채팅",
+          "V튜버"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "출처 : 항다리 (훈석) 채널 👉@hoonkki",
+          "description": "롤큐 소속 크리에이터의 영상이 업로드됩니다."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT35S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "8833",
+        "likeCount": "111",
+        "favoriteCount": "0",
+        "commentCount": "3"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en-US": {
+          "title": "Source: Hangdari (Hoonseok) Channel 👉@hoonkki",
+          "description": "Videos by creators affiliated with RollQ will be uploaded."
+        },
+        "ko": {
+          "title": "출처 : 항다리 (훈석) 채널 👉@hoonkki",
+          "description": "롤큐 소속 크리에이터의 영상이 업로드됩니다."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "7cmehsCjdJf1B4X32CKnpLBHDpg",
+      "id": "IpoOf--xvpo",
+      "snippet": {
+        "publishedAt": "2026-04-02T08:00:14Z",
+        "channelId": "UCvA8ZzgMzBeSny-fLz6WWZA",
+        "title": "출처 : 제틀런 채널 👉@제틀런",
+        "description": "롤큐 소속 크리에이터의 영상이 업로드됩니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IpoOf--xvpo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IpoOf--xvpo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IpoOf--xvpo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IpoOf--xvpo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IpoOf--xvpo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "롤큐플레이 LOLQPLAY",
+        "tags": [
+          "버츄얼",
+          "버튜버",
+          "크리에이터",
+          "우왁굳",
+          "이세돌",
+          "저스트채팅",
+          "V튜버"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "출처 : 제틀런 채널 👉@제틀런",
+          "description": "롤큐 소속 크리에이터의 영상이 업로드됩니다."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT48S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1115",
+        "likeCount": "11",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en-US": {
+          "title": "Source: Zetlerun Channel 👉@Zetlerun",
+          "description": "Videos by creators affiliated with RollQ will be uploaded."
+        },
+        "ko": {
+          "title": "출처 : 제틀런 채널 👉@제틀런",
+          "description": "롤큐 소속 크리에이터의 영상이 업로드됩니다."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "WnENasbcusQgyfDI9iuaQfwV6qg",
+      "id": "DIBC53i_C5Y",
+      "snippet": {
+        "publishedAt": "2026-04-02T08:00:10Z",
+        "channelId": "UCvA8ZzgMzBeSny-fLz6WWZA",
+        "title": "출처 : 싸모스 채널 👉@싸모스",
+        "description": "롤큐 소속 크리에이터의 영상이 업로드됩니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DIBC53i_C5Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DIBC53i_C5Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DIBC53i_C5Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DIBC53i_C5Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DIBC53i_C5Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "롤큐플레이 LOLQPLAY",
+        "tags": [
+          "버츄얼",
+          "버튜버",
+          "크리에이터",
+          "우왁굳",
+          "이세돌",
+          "저스트채팅",
+          "V튜버"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "출처 : 싸모스 채널 👉@싸모스",
+          "description": "롤큐 소속 크리에이터의 영상이 업로드됩니다."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT26S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "13366",
+        "likeCount": "230",
+        "favoriteCount": "0",
+        "commentCount": "29"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "출처 : 싸모스 채널 👉@싸모스",
+          "description": "롤큐 소속 크리에이터의 영상이 업로드됩니다."
+        },
+        "en-US": {
+          "title": "Source: Ssamos Channel 👉@Ssamos",
+          "description": "Videos by creators affiliated with RollQ will be uploaded."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "C60qPoegMoQamWCcFLEFApQKdf4",
+      "id": "2luRM10udQQ",
+      "snippet": {
+        "publishedAt": "2026-04-02T08:00:02Z",
+        "channelId": "UCvA8ZzgMzBeSny-fLz6WWZA",
+        "title": "출처 : 최강선장 마추 채널 👉@마추로블록스",
+        "description": "롤큐 소속 크리에이터의 영상이 업로드됩니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2luRM10udQQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2luRM10udQQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2luRM10udQQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2luRM10udQQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2luRM10udQQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "롤큐플레이 LOLQPLAY",
+        "tags": [
+          "버츄얼",
+          "버튜버",
+          "크리에이터",
+          "우왁굳",
+          "이세돌",
+          "저스트채팅",
+          "V튜버"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "출처 : 최강선장 마추 채널 👉@마추로블록스",
+          "description": "롤큐 소속 크리에이터의 영상이 업로드됩니다."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT35S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "5965",
+        "likeCount": "80",
+        "favoriteCount": "0",
+        "commentCount": "4"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "출처 : 최강선장 마추 채널 👉@마추로블록스",
+          "description": "롤큐 소속 크리에이터의 영상이 업로드됩니다."
+        },
+        "en-US": {
+          "title": "Source: Captain Machu Channel 👉@MachuRoblox",
+          "description": "Videos by creators affiliated with RollQ will be uploaded."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "MT42RHiCf13vbm8CApUN2zUCXqY",
+      "id": "ua-KcbJYPxA",
+      "snippet": {
+        "publishedAt": "2026-03-31T08:00:42Z",
+        "channelId": "UCvA8ZzgMzBeSny-fLz6WWZA",
+        "title": "출처 : 빗시 채널 👉@빗시",
+        "description": "롤큐 소속 크리에이터의 영상이 업로드됩니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ua-KcbJYPxA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ua-KcbJYPxA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ua-KcbJYPxA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ua-KcbJYPxA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ua-KcbJYPxA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "롤큐플레이 LOLQPLAY",
+        "tags": [
+          "버츄얼",
+          "버튜버",
+          "크리에이터",
+          "우왁굳",
+          "이세돌",
+          "저스트채팅",
+          "V튜버"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "출처 : 빗시 채널 👉@빗시",
+          "description": "롤큐 소속 크리에이터의 영상이 업로드됩니다."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT50S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "3710",
+        "likeCount": "28",
+        "favoriteCount": "0",
+        "commentCount": "3"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action_game",
+          "https://en.wikipedia.org/wiki/Role-playing_video_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en-US": {
+          "title": "Source: Bitsy Channel 👉@Bitsy",
+          "description": "Videos by creators affiliated with RollQ will be uploaded."
+        },
+        "ko": {
+          "title": "출처 : 빗시 채널 👉@빗시",
+          "description": "롤큐 소속 크리에이터의 영상이 업로드됩니다."
+        }
+      }
+    }
+  ]
+}

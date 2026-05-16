@@ -1,0 +1,1753 @@
+{
+  "idx": 2535,
+  "channel_id": "UCgD1uzdi8Gr6Q2eWp7iyCJg",
+  "channel_title": "박학다솔",
+  "playlist_items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "1wTpmExBSArB4FN4TF3NIuw9ZNw",
+      "id": "VVVnRDF1emRpOEdyNlEyZVdwN2l5Q0pnLk9OWVV1ZDlHd2V3",
+      "snippet": {
+        "publishedAt": "2022-12-06T09:00:22Z",
+        "channelId": "UCgD1uzdi8Gr6Q2eWp7iyCJg",
+        "title": "월드컵 8강 진출 좌절 그 이후....ㄷㄷㄷ",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ONYUud9Gwew/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ONYUud9Gwew/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ONYUud9Gwew/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ONYUud9Gwew/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "박학다솔",
+        "playlistId": "UUgD1uzdi8Gr6Q2eWp7iyCJg",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ONYUud9Gwew"
+        },
+        "videoOwnerChannelTitle": "박학다솔",
+        "videoOwnerChannelId": "UCgD1uzdi8Gr6Q2eWp7iyCJg"
+      },
+      "contentDetails": {
+        "videoId": "ONYUud9Gwew",
+        "videoPublishedAt": "2022-12-06T09:00:22Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "XEi4gm81B7rHh0SwQnDo2ojDfns",
+      "id": "VVVnRDF1emRpOEdyNlEyZVdwN2l5Q0pnLmx1cjdpZGktSWdB",
+      "snippet": {
+        "publishedAt": "2022-11-15T09:00:25Z",
+        "channelId": "UCgD1uzdi8Gr6Q2eWp7iyCJg",
+        "title": "우왁굳... 대박 .......",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lur7idi-IgA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lur7idi-IgA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lur7idi-IgA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lur7idi-IgA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "박학다솔",
+        "playlistId": "UUgD1uzdi8Gr6Q2eWp7iyCJg",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "lur7idi-IgA"
+        },
+        "videoOwnerChannelTitle": "박학다솔",
+        "videoOwnerChannelId": "UCgD1uzdi8Gr6Q2eWp7iyCJg"
+      },
+      "contentDetails": {
+        "videoId": "lur7idi-IgA",
+        "videoPublishedAt": "2022-11-15T09:00:25Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3-s8BFAHPsGVBFWkd5yG0QFBVuw",
+      "id": "VVVnRDF1emRpOEdyNlEyZVdwN2l5Q0pnLlU4eTNlYUhUdkVR",
+      "snippet": {
+        "publishedAt": "2022-11-02T08:30:08Z",
+        "channelId": "UCgD1uzdi8Gr6Q2eWp7iyCJg",
+        "title": "이태원 참사 그이후....",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/U8y3eaHTvEQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/U8y3eaHTvEQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/U8y3eaHTvEQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "박학다솔",
+        "playlistId": "UUgD1uzdi8Gr6Q2eWp7iyCJg",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "U8y3eaHTvEQ"
+        },
+        "videoOwnerChannelTitle": "박학다솔",
+        "videoOwnerChannelId": "UCgD1uzdi8Gr6Q2eWp7iyCJg"
+      },
+      "contentDetails": {
+        "videoId": "U8y3eaHTvEQ",
+        "videoPublishedAt": "2022-11-02T08:30:08Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "IFhLuAP-7W4PsqHTq1QXhkWh_a0",
+      "id": "VVVnRDF1emRpOEdyNlEyZVdwN2l5Q0pnLjhUV2lHeF94Q3Rj",
+      "snippet": {
+        "publishedAt": "2022-10-17T09:26:16Z",
+        "channelId": "UCgD1uzdi8Gr6Q2eWp7iyCJg",
+        "title": "리얼 미쳐버린 여경 ㅋㅋ",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8TWiGx_xCtc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8TWiGx_xCtc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8TWiGx_xCtc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "박학다솔",
+        "playlistId": "UUgD1uzdi8Gr6Q2eWp7iyCJg",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8TWiGx_xCtc"
+        },
+        "videoOwnerChannelTitle": "박학다솔",
+        "videoOwnerChannelId": "UCgD1uzdi8Gr6Q2eWp7iyCJg"
+      },
+      "contentDetails": {
+        "videoId": "8TWiGx_xCtc",
+        "videoPublishedAt": "2022-10-17T09:26:16Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "FaJncNaCenglWPkqwkfsTPL4aPA",
+      "id": "VVVnRDF1emRpOEdyNlEyZVdwN2l5Q0pnLkpHV25xc0NNdmZR",
+      "snippet": {
+        "publishedAt": "2022-10-14T09:01:12Z",
+        "channelId": "UCgD1uzdi8Gr6Q2eWp7iyCJg",
+        "title": "이여자 드디어 망했네요",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JGWnqsCMvfQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JGWnqsCMvfQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JGWnqsCMvfQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JGWnqsCMvfQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "박학다솔",
+        "playlistId": "UUgD1uzdi8Gr6Q2eWp7iyCJg",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "JGWnqsCMvfQ"
+        },
+        "videoOwnerChannelTitle": "박학다솔",
+        "videoOwnerChannelId": "UCgD1uzdi8Gr6Q2eWp7iyCJg"
+      },
+      "contentDetails": {
+        "videoId": "JGWnqsCMvfQ",
+        "videoPublishedAt": "2022-10-14T09:01:12Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "5pBwF1vz4iRneafeWwq8WYNsxVk",
+      "id": "VVVnRDF1emRpOEdyNlEyZVdwN2l5Q0pnLk9LZWNZOE5iM3F3",
+      "snippet": {
+        "publishedAt": "2022-10-06T09:00:09Z",
+        "channelId": "UCgD1uzdi8Gr6Q2eWp7iyCJg",
+        "title": "전효성 싱글벙글 최신근황 ㅋㅋㅋ",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OKecY8Nb3qw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OKecY8Nb3qw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OKecY8Nb3qw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "박학다솔",
+        "playlistId": "UUgD1uzdi8Gr6Q2eWp7iyCJg",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "OKecY8Nb3qw"
+        },
+        "videoOwnerChannelTitle": "박학다솔",
+        "videoOwnerChannelId": "UCgD1uzdi8Gr6Q2eWp7iyCJg"
+      },
+      "contentDetails": {
+        "videoId": "OKecY8Nb3qw",
+        "videoPublishedAt": "2022-10-06T09:00:09Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "UkBZrgvcNMo8ox1wuf8OhVt7LQk",
+      "id": "VVVnRDF1emRpOEdyNlEyZVdwN2l5Q0pnLlVtYTRidzRPN0tF",
+      "snippet": {
+        "publishedAt": "2022-10-02T08:00:16Z",
+        "channelId": "UCgD1uzdi8Gr6Q2eWp7iyCJg",
+        "title": "대박............!!",
+        "description": "FM 여성들에게는 설거지론이 없던 시절이 진정한 낙원이었습니다",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Uma4bw4O7KE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Uma4bw4O7KE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Uma4bw4O7KE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "박학다솔",
+        "playlistId": "UUgD1uzdi8Gr6Q2eWp7iyCJg",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Uma4bw4O7KE"
+        },
+        "videoOwnerChannelTitle": "박학다솔",
+        "videoOwnerChannelId": "UCgD1uzdi8Gr6Q2eWp7iyCJg"
+      },
+      "contentDetails": {
+        "videoId": "Uma4bw4O7KE",
+        "videoPublishedAt": "2022-10-02T08:00:16Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "AHJ8zPu6xncB5h3bpFKWbDJPKDk",
+      "id": "VVVnRDF1emRpOEdyNlEyZVdwN2l5Q0pnLjFfSzNjWVR2TWp3",
+      "snippet": {
+        "publishedAt": "2022-09-27T09:00:00Z",
+        "channelId": "UCgD1uzdi8Gr6Q2eWp7iyCJg",
+        "title": "주르르..... 대박.........",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1_K3cYTvMjw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1_K3cYTvMjw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1_K3cYTvMjw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "박학다솔",
+        "playlistId": "UUgD1uzdi8Gr6Q2eWp7iyCJg",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1_K3cYTvMjw"
+        },
+        "videoOwnerChannelTitle": "박학다솔",
+        "videoOwnerChannelId": "UCgD1uzdi8Gr6Q2eWp7iyCJg"
+      },
+      "contentDetails": {
+        "videoId": "1_K3cYTvMjw",
+        "videoPublishedAt": "2022-09-27T09:00:00Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2TtDBWmotio_1kn1osefCZMXmmA",
+      "id": "VVVnRDF1emRpOEdyNlEyZVdwN2l5Q0pnLjRZbUdETUVaWnJj",
+      "snippet": {
+        "publishedAt": "2022-09-22T09:00:12Z",
+        "channelId": "UCgD1uzdi8Gr6Q2eWp7iyCJg",
+        "title": "보겸 게이야.....",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4YmGDMEZZrc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4YmGDMEZZrc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4YmGDMEZZrc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4YmGDMEZZrc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4YmGDMEZZrc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "박학다솔",
+        "playlistId": "UUgD1uzdi8Gr6Q2eWp7iyCJg",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4YmGDMEZZrc"
+        },
+        "videoOwnerChannelTitle": "박학다솔",
+        "videoOwnerChannelId": "UCgD1uzdi8Gr6Q2eWp7iyCJg"
+      },
+      "contentDetails": {
+        "videoId": "4YmGDMEZZrc",
+        "videoPublishedAt": "2022-09-22T09:00:12Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "N5KWU4eol3QpsPU--QWHN14NyPo",
+      "id": "VVVnRDF1emRpOEdyNlEyZVdwN2l5Q0pnLkt0X2dBcmY0S2dr",
+      "snippet": {
+        "publishedAt": "2022-09-20T08:00:13Z",
+        "channelId": "UCgD1uzdi8Gr6Q2eWp7iyCJg",
+        "title": "전효성 충격 근황.........",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Kt_gArf4Kgk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Kt_gArf4Kgk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Kt_gArf4Kgk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "박학다솔",
+        "playlistId": "UUgD1uzdi8Gr6Q2eWp7iyCJg",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Kt_gArf4Kgk"
+        },
+        "videoOwnerChannelTitle": "박학다솔",
+        "videoOwnerChannelId": "UCgD1uzdi8Gr6Q2eWp7iyCJg"
+      },
+      "contentDetails": {
+        "videoId": "Kt_gArf4Kgk",
+        "videoPublishedAt": "2022-09-20T08:00:13Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "hN-_reU8eQpkFCzuIiTdUX5-YbI",
+      "id": "VVVnRDF1emRpOEdyNlEyZVdwN2l5Q0pnLmZKTzBWSGd2bnJv",
+      "snippet": {
+        "publishedAt": "2022-09-16T09:00:11Z",
+        "channelId": "UCgD1uzdi8Gr6Q2eWp7iyCJg",
+        "title": "인어공주 영화가 또다시 난리난 이유 ㄷㄷ",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fJO0VHgvnro/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fJO0VHgvnro/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fJO0VHgvnro/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "박학다솔",
+        "playlistId": "UUgD1uzdi8Gr6Q2eWp7iyCJg",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fJO0VHgvnro"
+        },
+        "videoOwnerChannelTitle": "박학다솔",
+        "videoOwnerChannelId": "UCgD1uzdi8Gr6Q2eWp7iyCJg"
+      },
+      "contentDetails": {
+        "videoId": "fJO0VHgvnro",
+        "videoPublishedAt": "2022-09-16T09:00:11Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "v3a-NTyV-6MQ1fexyTMmGFNfVjw",
+      "id": "VVVnRDF1emRpOEdyNlEyZVdwN2l5Q0pnLjQ5Mk5TVEQ2YklF",
+      "snippet": {
+        "publishedAt": "2022-09-08T03:30:24Z",
+        "channelId": "UCgD1uzdi8Gr6Q2eWp7iyCJg",
+        "title": "대박이네...........",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/492NSTD6bIE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/492NSTD6bIE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/492NSTD6bIE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "박학다솔",
+        "playlistId": "UUgD1uzdi8Gr6Q2eWp7iyCJg",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "492NSTD6bIE"
+        },
+        "videoOwnerChannelTitle": "박학다솔",
+        "videoOwnerChannelId": "UCgD1uzdi8Gr6Q2eWp7iyCJg"
+      },
+      "contentDetails": {
+        "videoId": "492NSTD6bIE",
+        "videoPublishedAt": "2022-09-08T03:30:24Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-aKJxdYh_gWbxX9OQy6NkV15V7k",
+      "id": "VVVnRDF1emRpOEdyNlEyZVdwN2l5Q0pnLkhIbjFyUHBpTWlN",
+      "snippet": {
+        "publishedAt": "2022-09-06T09:00:15Z",
+        "channelId": "UCgD1uzdi8Gr6Q2eWp7iyCJg",
+        "title": "더이상 참지 않습니다",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HHn1rPpiMiM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HHn1rPpiMiM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HHn1rPpiMiM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HHn1rPpiMiM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "박학다솔",
+        "playlistId": "UUgD1uzdi8Gr6Q2eWp7iyCJg",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "HHn1rPpiMiM"
+        },
+        "videoOwnerChannelTitle": "박학다솔",
+        "videoOwnerChannelId": "UCgD1uzdi8Gr6Q2eWp7iyCJg"
+      },
+      "contentDetails": {
+        "videoId": "HHn1rPpiMiM",
+        "videoPublishedAt": "2022-09-06T09:00:15Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "video_details": [
+    {
+      "kind": "youtube#video",
+      "etag": "lWoDTADfPHL1EyNRAFcahVucNU8",
+      "id": "ONYUud9Gwew",
+      "snippet": {
+        "publishedAt": "2022-12-06T09:00:22Z",
+        "channelId": "UCgD1uzdi8Gr6Q2eWp7iyCJg",
+        "title": "월드컵 8강 진출 좌절 그 이후....ㄷㄷㄷ",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ONYUud9Gwew/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ONYUud9Gwew/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ONYUud9Gwew/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ONYUud9Gwew/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "박학다솔",
+        "tags": [
+          "월드컵",
+          "한국브라질",
+          "16강",
+          "8강",
+          "한국일본",
+          "조규성",
+          "황희찬",
+          "손흥민",
+          "축구",
+          "월드컵결과",
+          "월드컵여시",
+          "월드컵여초"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "월드컵 8강 진출 좌절 그 이후....ㄷㄷㄷ",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT4M6S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "2870",
+        "likeCount": "25",
+        "favoriteCount": "0",
+        "commentCount": "8"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Association_football",
+          "https://en.wikipedia.org/wiki/Sport"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "월드컵 8강 진출 좌절 그 이후....ㄷㄷㄷ",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "19NsZe_ZOjOgHTCLHethdU7c-wg",
+      "id": "lur7idi-IgA",
+      "snippet": {
+        "publishedAt": "2022-11-15T09:00:25Z",
+        "channelId": "UCgD1uzdi8Gr6Q2eWp7iyCJg",
+        "title": "우왁굳... 대박 .......",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lur7idi-IgA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lur7idi-IgA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lur7idi-IgA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lur7idi-IgA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "박학다솔",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "우왁굳... 대박 .......",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M53S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "5431",
+        "likeCount": "57",
+        "favoriteCount": "0",
+        "commentCount": "18"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "우왁굳... 대박 .......",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "YiqUivlL6nW5pfoXggHOXm8-iTk",
+      "id": "U8y3eaHTvEQ",
+      "snippet": {
+        "publishedAt": "2022-11-02T08:30:08Z",
+        "channelId": "UCgD1uzdi8Gr6Q2eWp7iyCJg",
+        "title": "이태원 참사 그이후....",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/U8y3eaHTvEQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/U8y3eaHTvEQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/U8y3eaHTvEQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "박학다솔",
+        "tags": [
+          "이태원",
+          "이태원참사",
+          "이태원사고",
+          "여시",
+          "김여시",
+          "김은희",
+          "뻑가",
+          "할로윈",
+          "할로윈파티",
+          "할로윈사고",
+          "이태원사망",
+          "이태원희생자",
+          "여초"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "이태원 참사 그이후....",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT4M54S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "2383",
+        "likeCount": "61",
+        "favoriteCount": "0",
+        "commentCount": "21"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "이태원 참사 그이후....",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Qkf6vLDV85lfFZsmBRHwAr2O17Q",
+      "id": "8TWiGx_xCtc",
+      "snippet": {
+        "publishedAt": "2022-10-17T09:26:16Z",
+        "channelId": "UCgD1uzdi8Gr6Q2eWp7iyCJg",
+        "title": "리얼 미쳐버린 여경 ㅋㅋ",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8TWiGx_xCtc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8TWiGx_xCtc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8TWiGx_xCtc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "박학다솔",
+        "tags": [
+          "여경",
+          "경찰",
+          "은희pd",
+          "뻑가",
+          "이슈왕",
+          "기자김은희",
+          "남경",
+          "경찰시험",
+          "김여시",
+          "여시"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "리얼 미쳐버린 여경 ㅋㅋ",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT5M56S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "2737",
+        "likeCount": "89",
+        "favoriteCount": "0",
+        "commentCount": "14"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "리얼 미쳐버린 여경 ㅋㅋ",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Wsd8jDqUVx3x_QtI1Kjp8Zx1pYI",
+      "id": "JGWnqsCMvfQ",
+      "snippet": {
+        "publishedAt": "2022-10-14T09:01:12Z",
+        "channelId": "UCgD1uzdi8Gr6Q2eWp7iyCJg",
+        "title": "이여자 드디어 망했네요",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JGWnqsCMvfQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JGWnqsCMvfQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JGWnqsCMvfQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JGWnqsCMvfQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "박학다솔",
+        "tags": [
+          "김여시",
+          "여시",
+          "지하철폭행녀",
+          "60대폭행녀",
+          "20대폭행녀",
+          "지하철폭행",
+          "폭행녀근황",
+          "20대폭행녀근황",
+          "은희pd",
+          "뻑가",
+          "김은희",
+          "이슈왕"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "이여자 드디어 망했네요",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M3S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "2726",
+        "likeCount": "167",
+        "favoriteCount": "0",
+        "commentCount": "24"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "이여자 드디어 망했네요",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "z0rEO0caZ3WzOtjSWmC5KtBi7ss",
+      "id": "OKecY8Nb3qw",
+      "snippet": {
+        "publishedAt": "2022-10-06T09:00:09Z",
+        "channelId": "UCgD1uzdi8Gr6Q2eWp7iyCJg",
+        "title": "전효성 싱글벙글 최신근황 ㅋㅋㅋ",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OKecY8Nb3qw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OKecY8Nb3qw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OKecY8Nb3qw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "박학다솔",
+        "tags": [
+          "가수",
+          "전효성",
+          "전효성근황",
+          "전효성컴백",
+          "바다빛이야기를찾아와",
+          "가수전효성",
+          "아이돌",
+          "idol",
+          "시크릿",
+          "시크릿멤버",
+          "정은지"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "전효성 싱글벙글 최신근황 ㅋㅋㅋ",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT6M10S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "3881",
+        "likeCount": "115",
+        "favoriteCount": "0",
+        "commentCount": "16"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "전효성 싱글벙글 최신근황 ㅋㅋㅋ",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "KarLESzwY-pBzKPQFgxGOeIEctE",
+      "id": "Uma4bw4O7KE",
+      "snippet": {
+        "publishedAt": "2022-10-02T08:00:16Z",
+        "channelId": "UCgD1uzdi8Gr6Q2eWp7iyCJg",
+        "title": "대박............!!",
+        "description": "FM 여성들에게는 설거지론이 없던 시절이 진정한 낙원이었습니다",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Uma4bw4O7KE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Uma4bw4O7KE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Uma4bw4O7KE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "박학다솔",
+        "tags": [
+          "은희pd",
+          "이슈왕",
+          "설거지",
+          "설거지론",
+          "오은영",
+          "오은영리포트",
+          "오은영레포트",
+          "퐁퐁",
+          "퐁퐁남",
+          "영상",
+          "김여시",
+          "신상",
+          "데이트",
+          "데이트비용",
+          "뻑가"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "대박............!!",
+          "description": "FM 여성들에게는 설거지론이 없던 시절이 진정한 낙원이었습니다"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT4M16S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1495",
+        "likeCount": "67",
+        "favoriteCount": "0",
+        "commentCount": "5"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "대박............!!",
+          "description": "FM 여성들에게는 설거지론이 없던 시절이 진정한 낙원이었습니다"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "rZcg_22rZgdsze_BsX0_8B0Zlhk",
+      "id": "1_K3cYTvMjw",
+      "snippet": {
+        "publishedAt": "2022-09-27T09:00:00Z",
+        "channelId": "UCgD1uzdi8Gr6Q2eWp7iyCJg",
+        "title": "주르르..... 대박.........",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1_K3cYTvMjw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1_K3cYTvMjw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1_K3cYTvMjw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "박학다솔",
+        "tags": [
+          "이세계의아이돌",
+          "이세돌",
+          "이세계아이돌",
+          "주르르논란",
+          "주르르군대",
+          "이세돌군대",
+          "우왁굳",
+          "우왁굳주르르",
+          "김윾머",
+          "김여시",
+          "군대",
+          "군대논란",
+          "주르르정체",
+          "아이네",
+          "징버거",
+          "릴파",
+          "고세구",
+          "비챤",
+          "주르르군대비하",
+          "군대비하",
+          "이슈왕",
+          "은희PD",
+          "주르르참을수없어욧",
+          "주르르사과문",
+          "주르르",
+          "버튜버",
+          "버츄얼유튜버",
+          "버튜버이세돌"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "주르르..... 대박.........",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT4M15S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "25786",
+        "likeCount": "70",
+        "favoriteCount": "0",
+        "commentCount": "76"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "주르르..... 대박.........",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "W_hi-QKfv3mcLUClASNah8nUiNk",
+      "id": "4YmGDMEZZrc",
+      "snippet": {
+        "publishedAt": "2022-09-22T09:00:12Z",
+        "channelId": "UCgD1uzdi8Gr6Q2eWp7iyCJg",
+        "title": "보겸 게이야.....",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4YmGDMEZZrc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4YmGDMEZZrc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4YmGDMEZZrc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4YmGDMEZZrc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4YmGDMEZZrc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "박학다솔",
+        "tags": [
+          "유튜버",
+          "보겸",
+          "보겸근황",
+          "보겸윤지선",
+          "윤지선",
+          "보이루",
+          "유튜버보겸",
+          "보겸성형",
+          "보겸영상"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "보겸 게이야.....",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M50S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1287",
+        "likeCount": "48",
+        "favoriteCount": "0",
+        "commentCount": "7"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "보겸 게이야.....",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "dYfVpKBHKajcryzUgvToJKsT0ws",
+      "id": "Kt_gArf4Kgk",
+      "snippet": {
+        "publishedAt": "2022-09-20T08:00:13Z",
+        "channelId": "UCgD1uzdi8Gr6Q2eWp7iyCJg",
+        "title": "전효성 충격 근황.........",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Kt_gArf4Kgk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Kt_gArf4Kgk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Kt_gArf4Kgk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "박학다솔",
+        "tags": [
+          "가수",
+          "전효성",
+          "전효성근황",
+          "전효성컴백",
+          "바다빛이야기를찾아와",
+          "가수전효성",
+          "아이돌",
+          "idol",
+          "시크릿",
+          "시크릿멤버",
+          "정은지"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "전효성 충격 근황.........",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT5M57S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "8773",
+        "likeCount": "207",
+        "favoriteCount": "0",
+        "commentCount": "39"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "전효성 충격 근황.........",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "zRo4zHrEGFGOxb639beigdtiqjk",
+      "id": "fJO0VHgvnro",
+      "snippet": {
+        "publishedAt": "2022-09-16T09:00:11Z",
+        "channelId": "UCgD1uzdi8Gr6Q2eWp7iyCJg",
+        "title": "인어공주 영화가 또다시 난리난 이유 ㄷㄷ",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fJO0VHgvnro/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fJO0VHgvnro/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fJO0VHgvnro/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "박학다솔",
+        "tags": [
+          "인어공주",
+          "할리베일리",
+          "인어공주실사판",
+          "인어공주예고편",
+          "디즈니",
+          "disney",
+          "mermaid",
+          "인어공주영화"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "인어공주 영화가 또다시 난리난 이유 ㄷㄷ",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M32S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "2473",
+        "likeCount": "74",
+        "favoriteCount": "0",
+        "commentCount": "19"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Entertainment",
+          "https://en.wikipedia.org/wiki/Film"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "인어공주 영화가 또다시 난리난 이유 ㄷㄷ",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "PJX4ztYAcDpUuYisfQhrLLZs0yc",
+      "id": "492NSTD6bIE",
+      "snippet": {
+        "publishedAt": "2022-09-08T03:30:24Z",
+        "channelId": "UCgD1uzdi8Gr6Q2eWp7iyCJg",
+        "title": "대박이네...........",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/492NSTD6bIE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/492NSTD6bIE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/492NSTD6bIE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "박학다솔",
+        "tags": [
+          "강남비키니녀",
+          "이태원비키니녀",
+          "강남오토바이녀",
+          "비키니",
+          "오토바이",
+          "강남비키니녀근황",
+          "강남비키니녀경찰조사",
+          "비키니녀 웨딩드레스",
+          "은희pd",
+          "대박",
+          "비키니라이딩",
+          "악플",
+          "강남비키니녀악플",
+          "뻑가",
+          "은희pd 강남비키니",
+          "박학다솔 강남비키니녀"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "대박이네...........",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M47S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "3376",
+        "likeCount": "73",
+        "favoriteCount": "0",
+        "commentCount": "13"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "대박이네...........",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "_TjKIBGPzkCm1j668YT5S1zcbpI",
+      "id": "HHn1rPpiMiM",
+      "snippet": {
+        "publishedAt": "2022-09-06T09:00:15Z",
+        "channelId": "UCgD1uzdi8Gr6Q2eWp7iyCJg",
+        "title": "더이상 참지 않습니다",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HHn1rPpiMiM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HHn1rPpiMiM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HHn1rPpiMiM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HHn1rPpiMiM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "박학다솔",
+        "tags": [
+          "Iamsolo",
+          "9기영숙",
+          "9기광수",
+          "옥순사주",
+          "의사",
+          "여자사주",
+          "연애궁합",
+          "궁합",
+          "9기영숙광수",
+          "9기영숙결혼",
+          "9기영숙옥순",
+          "황가희",
+          "9기영숙근황",
+          "9기영숙과거",
+          "영숙광수결혼",
+          "영숙결혼설",
+          "9기영숙결혼가능성",
+          "9기영숙광수결혼",
+          "영숙옥순",
+          "여성시대",
+          "악플러",
+          "악플",
+          "악플읽기",
+          "악플고소",
+          "영숙악플",
+          "9기영숙악플",
+          "나는솔로악플",
+          "나는solo",
+          "나는솔로9기영숙",
+          "나는솔로"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "더이상 참지 않습니다",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M19S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "2228",
+        "likeCount": "32",
+        "favoriteCount": "0",
+        "commentCount": "7"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "더이상 참지 않습니다",
+          "description": ""
+        }
+      }
+    }
+  ]
+}

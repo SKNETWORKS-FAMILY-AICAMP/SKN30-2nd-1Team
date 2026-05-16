@@ -1,0 +1,666 @@
+{
+  "idx": 2733,
+  "channel_id": "UCNekNaiMPsTzBhmawcpPh8g",
+  "channel_title": "글과 책",
+  "playlist_items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "clGxYvEaZKXSlHPlV2hhz5SA-7Y",
+      "id": "VVVOZWtOYWlNUHNUekJobWF3Y3BQaDhnLl8yT3JFWmxVWVVz",
+      "snippet": {
+        "publishedAt": "2024-01-28T23:42:37Z",
+        "channelId": "UCNekNaiMPsTzBhmawcpPh8g",
+        "title": "세금 이게 맞나.. #shorts #잘나가는서과장 #사는동안한번은팔아봐라",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_2OrEZlUYUs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_2OrEZlUYUs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_2OrEZlUYUs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_2OrEZlUYUs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_2OrEZlUYUs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "글과 책",
+        "playlistId": "UUNekNaiMPsTzBhmawcpPh8g",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_2OrEZlUYUs"
+        },
+        "videoOwnerChannelTitle": "글과 책",
+        "videoOwnerChannelId": "UCNekNaiMPsTzBhmawcpPh8g"
+      },
+      "contentDetails": {
+        "videoId": "_2OrEZlUYUs",
+        "videoPublishedAt": "2024-01-28T23:42:37Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2VkpV9y3GIphbggF-OY9c7QsC1k",
+      "id": "VVVOZWtOYWlNUHNUekJobWF3Y3BQaDhnLkV6a3V2YmNNQ0dJ",
+      "snippet": {
+        "publishedAt": "2024-01-19T03:08:11Z",
+        "channelId": "UCNekNaiMPsTzBhmawcpPh8g",
+        "title": "스노우 필터 끼고 봐라 영홬ㅋㅋㅋㅋ #shorts",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EzkuvbcMCGI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EzkuvbcMCGI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EzkuvbcMCGI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EzkuvbcMCGI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EzkuvbcMCGI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "글과 책",
+        "playlistId": "UUNekNaiMPsTzBhmawcpPh8g",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "EzkuvbcMCGI"
+        },
+        "videoOwnerChannelTitle": "글과 책",
+        "videoOwnerChannelId": "UCNekNaiMPsTzBhmawcpPh8g"
+      },
+      "contentDetails": {
+        "videoId": "EzkuvbcMCGI",
+        "videoPublishedAt": "2024-01-19T03:08:11Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "b_jGfDwfVjzoUC6rt04_gw_yy9Q",
+      "id": "VVVOZWtOYWlNUHNUekJobWF3Y3BQaDhnLmUyZFNjTnM4bjlF",
+      "snippet": {
+        "publishedAt": "2024-01-17T07:32:32Z",
+        "channelId": "UCNekNaiMPsTzBhmawcpPh8g",
+        "title": "외모지상주의 김태리 #shorts",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/e2dScNs8n9E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/e2dScNs8n9E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/e2dScNs8n9E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/e2dScNs8n9E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/e2dScNs8n9E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "글과 책",
+        "playlistId": "UUNekNaiMPsTzBhmawcpPh8g",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "e2dScNs8n9E"
+        },
+        "videoOwnerChannelTitle": "글과 책",
+        "videoOwnerChannelId": "UCNekNaiMPsTzBhmawcpPh8g"
+      },
+      "contentDetails": {
+        "videoId": "e2dScNs8n9E",
+        "videoPublishedAt": "2024-01-17T07:32:32Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-IrhnHhxk7ku1TM70_ULjhZPe7k",
+      "id": "VVVOZWtOYWlNUHNUekJobWF3Y3BQaDhnLnRJbWVJemZzdDg0",
+      "snippet": {
+        "publishedAt": "2024-01-16T02:00:10Z",
+        "channelId": "UCNekNaiMPsTzBhmawcpPh8g",
+        "title": "훈련소 처음 들어갔을 때 #shorts",
+        "description": "외계+인 2부 절찬 상영중",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tImeIzfst84/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tImeIzfst84/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tImeIzfst84/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tImeIzfst84/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tImeIzfst84/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "글과 책",
+        "playlistId": "UUNekNaiMPsTzBhmawcpPh8g",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "tImeIzfst84"
+        },
+        "videoOwnerChannelTitle": "글과 책",
+        "videoOwnerChannelId": "UCNekNaiMPsTzBhmawcpPh8g"
+      },
+      "contentDetails": {
+        "videoId": "tImeIzfst84",
+        "videoPublishedAt": "2024-01-16T02:00:10Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "EjOiQ137Iyenl5zc8qDKVUwM4m8",
+      "id": "VVVOZWtOYWlNUHNUekJobWF3Y3BQaDhnLmhlSE9MdWpkczhR",
+      "snippet": {
+        "publishedAt": "2017-03-06T14:25:38Z",
+        "channelId": "UCNekNaiMPsTzBhmawcpPh8g",
+        "title": "TV퐁듀와퍼님의 실시간 스트리밍",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/heHOLujds8Q/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/heHOLujds8Q/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/heHOLujds8Q/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/heHOLujds8Q/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/heHOLujds8Q/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "글과 책",
+        "playlistId": "UUNekNaiMPsTzBhmawcpPh8g",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "heHOLujds8Q"
+        },
+        "videoOwnerChannelTitle": "글과 책",
+        "videoOwnerChannelId": "UCNekNaiMPsTzBhmawcpPh8g"
+      },
+      "contentDetails": {
+        "videoId": "heHOLujds8Q",
+        "videoPublishedAt": "2017-03-06T14:25:38Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "video_details": [
+    {
+      "kind": "youtube#video",
+      "etag": "mT2Q2i3mWHX9gsUpxs4AqPOsKdc",
+      "id": "_2OrEZlUYUs",
+      "snippet": {
+        "publishedAt": "2024-01-28T23:42:37Z",
+        "channelId": "UCNekNaiMPsTzBhmawcpPh8g",
+        "title": "세금 이게 맞나.. #shorts #잘나가는서과장 #사는동안한번은팔아봐라",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_2OrEZlUYUs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_2OrEZlUYUs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_2OrEZlUYUs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_2OrEZlUYUs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_2OrEZlUYUs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "글과 책",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "세금 이게 맞나.. #shorts #잘나가는서과장 #사는동안한번은팔아봐라",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT35S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": false,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "508",
+        "favoriteCount": "0",
+        "commentCount": "3"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "세금 이게 맞나.. #shorts #잘나가는서과장 #사는동안한번은팔아봐라",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "48D793JauiOwWaJ-NfRNowu0vh0",
+      "id": "EzkuvbcMCGI",
+      "snippet": {
+        "publishedAt": "2024-01-19T03:08:11Z",
+        "channelId": "UCNekNaiMPsTzBhmawcpPh8g",
+        "title": "스노우 필터 끼고 봐라 영홬ㅋㅋㅋㅋ #shorts",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EzkuvbcMCGI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EzkuvbcMCGI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EzkuvbcMCGI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EzkuvbcMCGI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EzkuvbcMCGI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "글과 책",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "스노우 필터 끼고 봐라 영홬ㅋㅋㅋㅋ #shorts",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT36S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": false,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "373",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Entertainment",
+          "https://en.wikipedia.org/wiki/Film"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "스노우 필터 끼고 봐라 영홬ㅋㅋㅋㅋ #shorts",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "6xULjiGgkX5eLjrNBDOhRzCby04",
+      "id": "e2dScNs8n9E",
+      "snippet": {
+        "publishedAt": "2024-01-17T07:32:32Z",
+        "channelId": "UCNekNaiMPsTzBhmawcpPh8g",
+        "title": "외모지상주의 김태리 #shorts",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/e2dScNs8n9E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/e2dScNs8n9E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/e2dScNs8n9E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/e2dScNs8n9E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/e2dScNs8n9E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "글과 책",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "외모지상주의 김태리 #shorts",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT49S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": false,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "2640",
+        "favoriteCount": "0",
+        "commentCount": "2"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "외모지상주의 김태리 #shorts",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "WnfeYvjz4rx_VbI1AUH8W7H-Trg",
+      "id": "tImeIzfst84",
+      "snippet": {
+        "publishedAt": "2024-01-16T02:00:10Z",
+        "channelId": "UCNekNaiMPsTzBhmawcpPh8g",
+        "title": "훈련소 처음 들어갔을 때 #shorts",
+        "description": "외계+인 2부 절찬 상영중",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tImeIzfst84/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tImeIzfst84/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tImeIzfst84/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tImeIzfst84/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tImeIzfst84/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "글과 책",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "훈련소 처음 들어갔을 때 #shorts",
+          "description": "외계+인 2부 절찬 상영중"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT12S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": false,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "2778",
+        "favoriteCount": "0",
+        "commentCount": "4"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "훈련소 처음 들어갔을 때 #shorts",
+          "description": "외계+인 2부 절찬 상영중"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Oajf-hT3_RRElLCa7XOp6bCfHDs",
+      "id": "heHOLujds8Q",
+      "snippet": {
+        "publishedAt": "2017-03-06T14:25:38Z",
+        "channelId": "UCNekNaiMPsTzBhmawcpPh8g",
+        "title": "TV퐁듀와퍼님의 실시간 스트리밍",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/heHOLujds8Q/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/heHOLujds8Q/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/heHOLujds8Q/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/heHOLujds8Q/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/heHOLujds8Q/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "글과 책",
+        "categoryId": "22",
+        "liveBroadcastContent": "upcoming",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "TV퐁듀와퍼님의 실시간 스트리밍",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "P0D",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "uploaded",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1",
+        "likeCount": "19",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "TV퐁듀와퍼님의 실시간 스트리밍",
+          "description": ""
+        }
+      }
+    }
+  ]
+}
