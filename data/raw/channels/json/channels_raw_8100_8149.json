@@ -1,0 +1,3791 @@
+[
+  {
+    "kind": "youtube#channel",
+    "etag": "umBN7d1S6hSHGZllLJ7MVRHLEao",
+    "id": "UCQi67q4kGdmnJaRzX81uK5g",
+    "snippet": {
+      "title": "YG ENTERTAINMENT",
+      "description": "Welcome to YG Entertainment",
+      "customUrl": "@ygentertainment",
+      "publishedAt": "2008-01-18T02:22:00Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_ncnsFrs9NNi0n9retd_cyfFkZO0ICOOQ_q1f7lG1wFSlo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_ncnsFrs9NNi0n9retd_cyfFkZO0ICOOQ_q1f7lG1wFSlo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_ncnsFrs9NNi0n9retd_cyfFkZO0ICOOQ_q1f7lG1wFSlo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "YG ENTERTAINMENT",
+        "description": "Welcome to YG Entertainment"
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUQi67q4kGdmnJaRzX81uK5g"
+      }
+    },
+    "statistics": {
+      "viewCount": "2498401304",
+      "subscriberCount": "8470000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "562"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/064t9",
+        "/m/028sqc",
+        "/m/0f2f9",
+        "/m/02jjt",
+        "/m/04rlf"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Pop_music",
+        "https://en.wikipedia.org/wiki/Music_of_Asia",
+        "https://en.wikipedia.org/wiki/Television_program",
+        "https://en.wikipedia.org/wiki/Entertainment",
+        "https://en.wikipedia.org/wiki/Music"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified",
+      "madeForKids": false
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "YG ENTERTAINMENT",
+        "description": "Welcome to YG Entertainment",
+        "trackingAnalyticsAccountId": "UA-40059621-12",
+        "unsubscribedTrailer": "6z37Xv9dTT4"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/U8WTQCh8UUraPr2eExCBUat4IJwQtAIJFwZcQ56uKnNpnN7UOVruzS7RYDnAv_Ufit3T09zC"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "BRdd2BPnLq50ACbHjNleCqvMyxY",
+    "id": "UCPde4guD9yFBRzkxk2PatoA",
+    "snippet": {
+      "title": "ALL THE K-POP",
+      "description": "Welcome to ALL THE K-POP\n\nWe provide content from original K-POP shows [Show Champion] and [Weekly Idol] ✨\nCome and enjoy some of the best moments of your all-time favorite k-pop singers 💕\n\n▶EVERY WEDNESDAY\n[SHOW CHAMPION] Live 5:00 PM, KST \n[WEEKLY IDOL] Simulcast 6:20 PM, KST\n\n✅ 비즈니스 문의 : youtube@mbcplus.com\n",
+      "customUrl": "@allthekpop",
+      "publishedAt": "2012-04-26T01:33:27Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/KmtLGIgpEOIRca9yfl8WzQedKkkooLw7kszl0ieVBfq7aq9u6PmFLdMIYAF2FcDONszSl1JZbA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/KmtLGIgpEOIRca9yfl8WzQedKkkooLw7kszl0ieVBfq7aq9u6PmFLdMIYAF2FcDONszSl1JZbA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/KmtLGIgpEOIRca9yfl8WzQedKkkooLw7kszl0ieVBfq7aq9u6PmFLdMIYAF2FcDONszSl1JZbA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "defaultLanguage": "ko",
+      "localized": {
+        "title": "ALL THE K-POP",
+        "description": "Welcome to ALL THE K-POP\n\nWe provide content from original K-POP shows [Show Champion] and [Weekly Idol] ✨\nCome and enjoy some of the best moments of your all-time favorite k-pop singers 💕\n\n▶EVERY WEDNESDAY\n[SHOW CHAMPION] Live 5:00 PM, KST \n[WEEKLY IDOL] Simulcast 6:20 PM, KST\n\n✅ 비즈니스 문의 : youtube@mbcplus.com\n"
+      },
+      "country": "KR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUPde4guD9yFBRzkxk2PatoA"
+      }
+    },
+    "statistics": {
+      "viewCount": "5106446991",
+      "subscriberCount": "6950000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "37790"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/0f2f9",
+        "/m/04rlf",
+        "/m/028sqc",
+        "/m/064t9"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Television_program",
+        "https://en.wikipedia.org/wiki/Music",
+        "https://en.wikipedia.org/wiki/Music_of_Asia",
+        "https://en.wikipedia.org/wiki/Pop_music"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified",
+      "madeForKids": false
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "ALL THE K-POP",
+        "description": "Welcome to ALL THE K-POP\n\nWe provide content from original K-POP shows [Show Champion] and [Weekly Idol] ✨\nCome and enjoy some of the best moments of your all-time favorite k-pop singers 💕\n\n▶EVERY WEDNESDAY\n[SHOW CHAMPION] Live 5:00 PM, KST \n[WEEKLY IDOL] Simulcast 6:20 PM, KST\n\n✅ 비즈니스 문의 : youtube@mbcplus.com\n",
+        "keywords": "k-pop \"weekly idol\" \"show champion\" bts seventeen idol",
+        "trackingAnalyticsAccountId": "UA-141920270-1",
+        "unsubscribedTrailer": "e4IUAHQf5IE",
+        "defaultLanguage": "ko",
+        "country": "KR"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/ys7gXurjAtJoNufAImdlXdF2YdHdIds8wlvQi6MrgtsZ6TUbp6lFLXD_IiWIuCjlK4LJnkYDtw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "FVj9zzWWuD85zt4UB-4iaGGDwzY",
+    "id": "UCWuLbEABJ8AmK7H_2bA8Y-w",
+    "snippet": {
+      "title": "BEATPELLA HOUSE",
+      "description": "WING [Phenomenon] OUT NOW!\n✉ contact@aeylmusic.com\n\nBEATPELLA HOUSE 비트펠라하우스\nYella.E / WING / Hellcat / Huckle / Hiss \n",
+      "customUrl": "@beatpellahouse",
+      "publishedAt": "2022-10-07T09:50:14.251464Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/vqP6FIYhcOahQcjWY46fJ-qlp1PY00t4Z1PRmI6M6SIiRkZF19adKVgNmZtYLha8YuNFFcXqBQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/vqP6FIYhcOahQcjWY46fJ-qlp1PY00t4Z1PRmI6M6SIiRkZF19adKVgNmZtYLha8YuNFFcXqBQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/vqP6FIYhcOahQcjWY46fJ-qlp1PY00t4Z1PRmI6M6SIiRkZF19adKVgNmZtYLha8YuNFFcXqBQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "BEATPELLA HOUSE",
+        "description": "WING [Phenomenon] OUT NOW!\n✉ contact@aeylmusic.com\n\nBEATPELLA HOUSE 비트펠라하우스\nYella.E / WING / Hellcat / Huckle / Hiss \n"
+      },
+      "country": "KR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUWuLbEABJ8AmK7H_2bA8Y-w"
+      }
+    },
+    "statistics": {
+      "viewCount": "5779267891",
+      "subscriberCount": "7670000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "2522"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/04rlf",
+        "/m/02jjt",
+        "/m/028sqc"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Music",
+        "https://en.wikipedia.org/wiki/Entertainment",
+        "https://en.wikipedia.org/wiki/Music_of_Asia"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified",
+      "madeForKids": false
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "BEATPELLA HOUSE",
+        "description": "WING [Phenomenon] OUT NOW!\n✉ contact@aeylmusic.com\n\nBEATPELLA HOUSE 비트펠라하우스\nYella.E / WING / Hellcat / Huckle / Hiss \n",
+        "keywords": "BEATPELLAHOUSE BEATPELLA 비트펠라 비트펠라하우스 BEATBOX ACAPELLA 비트박스 아카펠라 beatboxing hiss wing hellcat huckle yella.e beatboxchallenge \"beatbox challenge\" \"emoji beatbox challenge\" challenge shorts",
+        "unsubscribedTrailer": "eDcLqMp7idQ",
+        "country": "KR"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/leDTuYsk5TgAQ0xSvIUyfM6etcYyjxw4otDwUjLDPNIjkYNIm4lQufHbyWo17anrvx2OdF4-rA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "b1POM1yg_as9R2mQctgjLJvnpH8",
+    "id": "UCMki_UkHb4qSc0qyEcOHHJw",
+    "snippet": {
+      "title": "NewJeans",
+      "description": "NewJeans Official YouTube\nNewJeans 공식 유튜브 채널",
+      "customUrl": "@newjeans_official",
+      "publishedAt": "2022-07-07T08:51:57.173469Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/LJXS4gAz-_rkoqcgixJplCAwOLQXRNTYnGhyZQoJMZ2Uyp_akqREktZnvxbmmbES_UDp9hTT9y8=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/LJXS4gAz-_rkoqcgixJplCAwOLQXRNTYnGhyZQoJMZ2Uyp_akqREktZnvxbmmbES_UDp9hTT9y8=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/LJXS4gAz-_rkoqcgixJplCAwOLQXRNTYnGhyZQoJMZ2Uyp_akqREktZnvxbmmbES_UDp9hTT9y8=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "NewJeans",
+        "description": "NewJeans Official YouTube\nNewJeans 공식 유튜브 채널"
+      },
+      "country": "KR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUMki_UkHb4qSc0qyEcOHHJw"
+      }
+    },
+    "statistics": {
+      "viewCount": "5082041387",
+      "subscriberCount": "8370000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "752"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/028sqc",
+        "/m/02jjt",
+        "/m/019_rr",
+        "/m/032tl",
+        "/m/04rlf"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Music_of_Asia",
+        "https://en.wikipedia.org/wiki/Entertainment",
+        "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+        "https://en.wikipedia.org/wiki/Fashion",
+        "https://en.wikipedia.org/wiki/Music"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified",
+      "madeForKids": false
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "NewJeans",
+        "description": "NewJeans Official YouTube\nNewJeans 공식 유튜브 채널",
+        "keywords": "NewJeans 뉴진스 민지 하니 다니엘 해린 혜인 \"뉴진스 민지\" \"뉴진스 하니\" \"뉴진스 다니엘\" \"뉴진스 해린\" \"뉴진스 혜인\" MINJI HANNI HAERIN HYEIN \"NewJeans MINJI\" \"NewJeans HANNI\" \"NewJeans HAERIN\" \"NewJeans HYEIN\" DANIELLE \"NewJeans DANIELLE\"",
+        "unsubscribedTrailer": "A4S8zl50AdM",
+        "country": "KR"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/ny88wvr9f6AyWK0vFucCOFfAs9VubZXepiH3SWbknd1cp0IPaH4XUDtWzXC583Mr0UhFopzySQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "8jhyK6DKVUMmyK02-4xpgda7Nh0",
+    "id": "UCFL1sCAksD6_7JIZwwHcwjQ",
+    "snippet": {
+      "title": "JTBC Entertainment",
+      "description": "\"Youtube 팬 여러분과 함께 만들어가는 JTBC Entertainment 채널\"\n다채로운 즐거움 JTBC 의 공식 Entertainment 채널 입니다.\n\n\n▶ Homepage : http://www.jtbc.co.kr\n▶ Youtube : http://www.youtube.com/jtbcentertainment\n▶ Facebook : https://www.facebook.com/JTBClove\n▶ Twitter : https://twitter.com/jtbclove\n▶ INSTAGRAM : https://www.instagram.com/jtbc.insta",
+      "customUrl": "@jtbcentertainment",
+      "publishedAt": "2012-10-04T05:06:44Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/vsTOwrvjlLIGUg0YB0jFlMCuLLGF-mHZoa5EJMzAicIVPo8fFiUzwQY_82LZSqPVYGOaa18N1A=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/vsTOwrvjlLIGUg0YB0jFlMCuLLGF-mHZoa5EJMzAicIVPo8fFiUzwQY_82LZSqPVYGOaa18N1A=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/vsTOwrvjlLIGUg0YB0jFlMCuLLGF-mHZoa5EJMzAicIVPo8fFiUzwQY_82LZSqPVYGOaa18N1A=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "defaultLanguage": "ko",
+      "localized": {
+        "title": "JTBC Entertainment",
+        "description": "\"Youtube 팬 여러분과 함께 만들어가는 JTBC Entertainment 채널\"\n다채로운 즐거움 JTBC 의 공식 Entertainment 채널 입니다.\n\n\n▶ Homepage : http://www.jtbc.co.kr\n▶ Youtube : http://www.youtube.com/jtbcentertainment\n▶ Facebook : https://www.facebook.com/JTBClove\n▶ Twitter : https://twitter.com/jtbclove\n▶ INSTAGRAM : https://www.instagram.com/jtbc.insta"
+      },
+      "country": "KR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUFL1sCAksD6_7JIZwwHcwjQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "14265718832",
+      "subscriberCount": "8200000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "94576"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/0f2f9",
+        "/m/02jjt"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Television_program",
+        "https://en.wikipedia.org/wiki/Entertainment"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified",
+      "madeForKids": false
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "JTBC Entertainment",
+        "description": "\"Youtube 팬 여러분과 함께 만들어가는 JTBC Entertainment 채널\"\n다채로운 즐거움 JTBC 의 공식 Entertainment 채널 입니다.\n\n\n▶ Homepage : http://www.jtbc.co.kr\n▶ Youtube : http://www.youtube.com/jtbcentertainment\n▶ Facebook : https://www.facebook.com/JTBClove\n▶ Twitter : https://twitter.com/jtbclove\n▶ INSTAGRAM : https://www.instagram.com/jtbc.insta",
+        "keywords": "\"Knowing bros\" \"Let's eat together\" \"JTBC NOW\" jtbc 예능 예능프로그램 tvshow 아는형님 냉장고를부탁해 한끼줍쇼 비긴어게인 jtbc예능 엔터테인먼트",
+        "trackingAnalyticsAccountId": "UA-153080606-1",
+        "unsubscribedTrailer": "dXobqoA3Ujk",
+        "defaultLanguage": "ko",
+        "country": "KR"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/8kJiSOltUL1kgwuuAvs-WB-vdnMi0_fWcBNrxfWTgR67Z-ZjhYcd_QgS-sViD5fdJMONEkO2"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "kuFpQOxD9ZRjZIEfBXVEE1DTilY",
+    "id": "UCRE-097LGtx_Zo7LrHvkycA",
+    "snippet": {
+      "title": "JISOO",
+      "description": "",
+      "customUrl": "@sooyaaa__",
+      "publishedAt": "2022-11-11T08:52:30.10569Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/kHhDPnOv3d7FyTlis1nRYaLIv6D-uPFIuby5R5eXAKcOjRXXDfBUXH1v2hQbNU3ahK07yWBrbw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/kHhDPnOv3d7FyTlis1nRYaLIv6D-uPFIuby5R5eXAKcOjRXXDfBUXH1v2hQbNU3ahK07yWBrbw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/kHhDPnOv3d7FyTlis1nRYaLIv6D-uPFIuby5R5eXAKcOjRXXDfBUXH1v2hQbNU3ahK07yWBrbw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "JISOO",
+        "description": ""
+      },
+      "country": "KR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UURE-097LGtx_Zo7LrHvkycA"
+      }
+    },
+    "statistics": {
+      "viewCount": "956834043",
+      "subscriberCount": "8840000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "135"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/019_rr",
+        "/m/04rlf",
+        "/m/028sqc",
+        "/m/064t9",
+        "/m/02jjt"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+        "https://en.wikipedia.org/wiki/Music",
+        "https://en.wikipedia.org/wiki/Music_of_Asia",
+        "https://en.wikipedia.org/wiki/Pop_music",
+        "https://en.wikipedia.org/wiki/Entertainment"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified",
+      "madeForKids": false
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "JISOO",
+        "keywords": "지수 블핑 블랙핑크​ JISOO BLACKPINK K-po​p 와이지 YG \"YG Entertainment\" BLINK 블링크 BLISSOO 블리수 김지수",
+        "unsubscribedTrailer": "EN1tMeXQii0",
+        "country": "KR"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/zYCBa0NckwUZ1GkdedNcvMNjGETYKYZctZ4BE8QKUiU1AoTFm9rfKt7xHcTSE4gEzyTUxIdp"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "IIGT-uWZxpISEC1xVxcnkUXVcIk",
+    "id": "UCDuoZoikGpBAlX4BZBDdGtw",
+    "snippet": {
+      "title": "미니팡TV",
+      "description": "📖미니팡 공식채널📖\n(주)에스에이엠지에서 운영하는 어린이 \"동요·학습놀이·교육\" 브랜드 채널\n미니특공대 캐릭터와 함께하는 다양한 어린이 콘텐츠를 시청하실 수 있어요~!\n\n📖미니팡의 즐거운 콘텐츠 시리즈!\n🎤율동·동요 : 미니특공대와 함께 부르는 미니팡 동요♬\n🎵율동댄스 : 미니특공대와 함께 추는 율동뮤비♬\n📚학습놀이 : 2D 플래시 애니로 제작된 컬러놀이, 모양놀이, 표현놀이, 게임놀이!\n👆터치놀이 : 영상화면에 손가락을 올려볼까요? 새로운 형식의 시청자 체험영상\n🎉3D캐릭터 학습놀이 : 유아들의 눈을 사로잡는 맞춤 학습영상 3D Play!\n\n✨공식 유튜브 채널 구독을 👉꾹👈 눌러주세요✨\n📖미니팡TV English : https://bit.ly/3QBNS5C\n📖미니팡TV España : https://bit.ly/3BJ7HSY\n🖍️키즈팡TV : https://bit.ly/3BeA8In\n🦖슈퍼다이노TV : https://bit.ly/3RYWQLk\n👶리틀베이비코코 : https://bit.ly/42Smnfp\n👶리틀베이비코코 English : https://bit.ly/3zhXrAr\n\n© SAMG. All Rights Reserved.\n",
+      "customUrl": "@minipangtv_kor",
+      "publishedAt": "2016-07-26T09:20:42Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_k9ooTKGnoVZIUyD-IGesAWAion7m4dMTAjiz1jDlyD46Q=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_k9ooTKGnoVZIUyD-IGesAWAion7m4dMTAjiz1jDlyD46Q=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_k9ooTKGnoVZIUyD-IGesAWAion7m4dMTAjiz1jDlyD46Q=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "defaultLanguage": "ko",
+      "localized": {
+        "title": "미니팡TV",
+        "description": "📖미니팡 공식채널📖\n(주)에스에이엠지에서 운영하는 어린이 \"동요·학습놀이·교육\" 브랜드 채널\n미니특공대 캐릭터와 함께하는 다양한 어린이 콘텐츠를 시청하실 수 있어요~!\n\n📖미니팡의 즐거운 콘텐츠 시리즈!\n🎤율동·동요 : 미니특공대와 함께 부르는 미니팡 동요♬\n🎵율동댄스 : 미니특공대와 함께 추는 율동뮤비♬\n📚학습놀이 : 2D 플래시 애니로 제작된 컬러놀이, 모양놀이, 표현놀이, 게임놀이!\n👆터치놀이 : 영상화면에 손가락을 올려볼까요? 새로운 형식의 시청자 체험영상\n🎉3D캐릭터 학습놀이 : 유아들의 눈을 사로잡는 맞춤 학습영상 3D Play!\n\n✨공식 유튜브 채널 구독을 👉꾹👈 눌러주세요✨\n📖미니팡TV English : https://bit.ly/3QBNS5C\n📖미니팡TV España : https://bit.ly/3BJ7HSY\n🖍️키즈팡TV : https://bit.ly/3BeA8In\n🦖슈퍼다이노TV : https://bit.ly/3RYWQLk\n👶리틀베이비코코 : https://bit.ly/42Smnfp\n👶리틀베이비코코 English : https://bit.ly/3zhXrAr\n\n© SAMG. All Rights Reserved.\n"
+      },
+      "country": "KR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUDuoZoikGpBAlX4BZBDdGtw"
+      }
+    },
+    "statistics": {
+      "viewCount": "4439017818",
+      "subscriberCount": "6650000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "1051"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/02vxn",
+        "/m/02jjt"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Film",
+        "https://en.wikipedia.org/wiki/Entertainment"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified",
+      "madeForKids": true
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "미니팡TV",
+        "description": "📖미니팡 공식채널📖\n(주)에스에이엠지에서 운영하는 어린이 \"동요·학습놀이·교육\" 브랜드 채널\n미니특공대 캐릭터와 함께하는 다양한 어린이 콘텐츠를 시청하실 수 있어요~!\n\n📖미니팡의 즐거운 콘텐츠 시리즈!\n🎤율동·동요 : 미니특공대와 함께 부르는 미니팡 동요♬\n🎵율동댄스 : 미니특공대와 함께 추는 율동뮤비♬\n📚학습놀이 : 2D 플래시 애니로 제작된 컬러놀이, 모양놀이, 표현놀이, 게임놀이!\n👆터치놀이 : 영상화면에 손가락을 올려볼까요? 새로운 형식의 시청자 체험영상\n🎉3D캐릭터 학습놀이 : 유아들의 눈을 사로잡는 맞춤 학습영상 3D Play!\n\n✨공식 유튜브 채널 구독을 👉꾹👈 눌러주세요✨\n📖미니팡TV English : https://bit.ly/3QBNS5C\n📖미니팡TV España : https://bit.ly/3BJ7HSY\n🖍️키즈팡TV : https://bit.ly/3BeA8In\n🦖슈퍼다이노TV : https://bit.ly/3RYWQLk\n👶리틀베이비코코 : https://bit.ly/42Smnfp\n👶리틀베이비코코 English : https://bit.ly/3zhXrAr\n\n© SAMG. All Rights Reserved.\n",
+        "keywords": "\"율동 동요\" 놀이 \"키즈 콘텐츠\" 미니특공대",
+        "unsubscribedTrailer": "F8TujMn0Txs",
+        "defaultLanguage": "ko",
+        "country": "KR"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/MmZrsDYlp99t3PLN_4lGKd0ElXCm3KIxlZuFOmnHRNPKGY8KG62469ZIhKXpem7X41hAOSTKLw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "cic1P-qz9OmjenRTGtBfux1vQJ8",
+    "id": "UCQ2O-iftmnlfrBuNsUUTofQ",
+    "snippet": {
+      "title": "채널십오야",
+      "description": "채널십오야는 한가위 달처럼 따스하고 풍성한 콘텐츠가 가득한 창작소입니다. 다양한 창작자들의 알찬 콘텐츠를 기대해주세요🥚💖 #사랑합니다구독감사합니다\n\n- 광고/출연/제휴/홍보 문의 eggppl@eggiscoming.com\n- 자료사용 문의 eggzip@eggiscoming.com \n- 마케팅/커머스/기타 문의 egg@eggiscoming.com\n**각 팀별 문의 유형이 맞지 않은 메일의 경우, 답변이 어려울 수 있습니다.\n",
+      "customUrl": "@15ya_egg",
+      "publishedAt": "2019-05-15T19:43:51Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/iKz6OMmWDbyN7Yi5AN6E-pKw-d9em-C9UVYvClL2A4EmUdHL1qlrxs4WL20QJF8ym0QBXD9EcQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/iKz6OMmWDbyN7Yi5AN6E-pKw-d9em-C9UVYvClL2A4EmUdHL1qlrxs4WL20QJF8ym0QBXD9EcQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/iKz6OMmWDbyN7Yi5AN6E-pKw-d9em-C9UVYvClL2A4EmUdHL1qlrxs4WL20QJF8ym0QBXD9EcQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "defaultLanguage": "ko",
+      "localized": {
+        "title": "채널십오야",
+        "description": "채널십오야는 한가위 달처럼 따스하고 풍성한 콘텐츠가 가득한 창작소입니다. 다양한 창작자들의 알찬 콘텐츠를 기대해주세요🥚💖 #사랑합니다구독감사합니다\n\n- 광고/출연/제휴/홍보 문의 eggppl@eggiscoming.com\n- 자료사용 문의 eggzip@eggiscoming.com \n- 마케팅/커머스/기타 문의 egg@eggiscoming.com\n**각 팀별 문의 유형이 맞지 않은 메일의 경우, 답변이 어려울 수 있습니다.\n"
+      },
+      "country": "KR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUQ2O-iftmnlfrBuNsUUTofQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "3183879548",
+      "subscriberCount": "7520000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "2316"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/02jjt",
+        "/m/02vxn"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Entertainment",
+        "https://en.wikipedia.org/wiki/Film"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified",
+      "madeForKids": false
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "채널십오야",
+        "description": "채널십오야는 한가위 달처럼 따스하고 풍성한 콘텐츠가 가득한 창작소입니다. 다양한 창작자들의 알찬 콘텐츠를 기대해주세요🥚💖 #사랑합니다구독감사합니다\n\n- 광고/출연/제휴/홍보 문의 eggppl@eggiscoming.com\n- 자료사용 문의 eggzip@eggiscoming.com \n- 마케팅/커머스/기타 문의 egg@eggiscoming.com\n**각 팀별 문의 유형이 맞지 않은 메일의 경우, 답변이 어려울 수 있습니다.\n",
+        "keywords": "채널나나나 나영석 나pd 신서유기 강식당 NJTW 라끼남 아이슬란드간세끼 마포멋쟁이 삼시네세끼 슬기로운의사생활 의사생활 슬의 신원호 이우정 hospitalplaylist 이식당 어깨춤 슬기로운캠핑생활 출장십오야 출장 십오야 악마는정남이를입는다 채널십오야 출오야 지구오락실 지락실 뿅뿅지구오락실 지락실2 지구오락실2 토롱이 나나투어 서진이네 콩콩팥팥 nanatour 뉴욕뉴욕 \"이서진의 뉴욕뉴욕\" newyork 나불나불",
+        "unsubscribedTrailer": "NSewg8T4dZE",
+        "defaultLanguage": "ko",
+        "country": "KR"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/p0itJ9H1ZYM3boFukZcIqysLiLZjswFTWaRaFiCpZajd80VXNev5T8214WoavJZ9yhaRpsmGMw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "HxTiLhtetSs6GejzwjVW-5nhbRs",
+    "id": "UCqVDpXKLmKeBU_yyt_QkItQ",
+    "snippet": {
+      "title": "YouTube Originals",
+      "description": "Discover original series and movies from today's hottest talent.\n\nYouTube is no longer reviewing or accepting pitches for new YouTube Original projects, and will not reply to any messages sent to this address in relation to potential projects. For existing partners with already-launched projects, we will do our best to get back to you as soon as possible\n\n\n\n",
+      "customUrl": "@youtubeoriginals",
+      "publishedAt": "2016-01-19T20:09:24Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/AY7LzYJtGsVrFuf42r6WkfrvgfvUIthlGH9yfr2WO2FYL-966OcFQIWjnj3zFSiud2CPYDCT=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/AY7LzYJtGsVrFuf42r6WkfrvgfvUIthlGH9yfr2WO2FYL-966OcFQIWjnj3zFSiud2CPYDCT=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/AY7LzYJtGsVrFuf42r6WkfrvgfvUIthlGH9yfr2WO2FYL-966OcFQIWjnj3zFSiud2CPYDCT=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "YouTube Originals",
+        "description": "Discover original series and movies from today's hottest talent.\n\nYouTube is no longer reviewing or accepting pitches for new YouTube Original projects, and will not reply to any messages sent to this address in relation to potential projects. For existing partners with already-launched projects, we will do our best to get back to you as soon as possible\n\n\n\n"
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUqVDpXKLmKeBU_yyt_QkItQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "589052208",
+      "subscriberCount": "6640000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "375"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/019_rr",
+        "/m/02jjt",
+        "/m/0f2f9"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+        "https://en.wikipedia.org/wiki/Entertainment",
+        "https://en.wikipedia.org/wiki/Television_program"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "YouTube Originals",
+        "description": "Discover original series and movies from today's hottest talent.\n\nYouTube is no longer reviewing or accepting pitches for new YouTube Original projects, and will not reply to any messages sent to this address in relation to potential projects. For existing partners with already-launched projects, we will do our best to get back to you as soon as possible\n\n\n\n",
+        "unsubscribedTrailer": "bcyaE290apE"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/Q2spdf_IbZ0wJeYIXYwAuYyUI95rWUJqeif8LtMLWYdxH2vdlwd4cOLG0HqBliCAIffWmcejDA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "BTrC4xrACFQmvaATk9OKXrV20k4",
+    "id": "UCx4IY_sYVTL6RQu30Cprm8A",
+    "snippet": {
+      "title": "미니특공대TV",
+      "description": "💥미니특공대 공식채널💥\n작은 동물들을 수호하는 비밀스런 영웅에서\n외계인으로부터 지구를 지키는 세상 모두의 히어로! 미니특공대!\n그레이트 코인을 수호하고 이 우주를 지켜내자! 🦖최강공룡 미니특공대 출동!\n\n✨공식 유튜브 채널 구독을 👉꾹👈 눌러주세요✨\n🖍️키즈팡TV: https://bit.ly/3BeA8In\n📖미니팡TV: https://bit.ly/3LjMwvh\n🤖메탈카드봇TV: https://bit.ly/3ZcPHeF\n🎖️히어로토이TV: https://bit.ly/3eQchHy\n\n✨다양한 이벤트 소식은 공식 인스타그램에서 볼 수 있어요✨\n💥미니특공대 인스타그램: https://bit.ly/3dh4W3m\n🤖메탈카드봇 인스타그램: https://bit.ly/3C2aSGq\n\n✨SAMG의 장난감들은 공식 스토어에서 만나볼 수 있어요✨\n🎁더티니핑 스토어 https://theteenieping.com/\n\n✨미니특공대 볼트를 지금 바로 만나러 가요✨\n💥미니특공대의 모든 시리즈를 볼 수 있는 곳 #이모션캐슬시네마\n키즈 동영상 서비스 「이모션캐슬 시네마」에서 아이들이 좋아하는\n다양한 시리즈와 영화, 놀이영상 등을 마음껏 시청할 수 있어요!\n🕍이모션캐슬 시네마: https://cinema.emotioncastle.com\n\n© SAMG/EBS. All Rights Reserved.\n",
+      "customUrl": "@miniforcetv_kor",
+      "publishedAt": "2016-07-26T09:19:43Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ltRvG1n36cfdiJTjg12VYexXF2gjwn6b0JHHoqNzZl7I-yUisY4RYuqgk-HXhQVRZCak4XreaQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ltRvG1n36cfdiJTjg12VYexXF2gjwn6b0JHHoqNzZl7I-yUisY4RYuqgk-HXhQVRZCak4XreaQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ltRvG1n36cfdiJTjg12VYexXF2gjwn6b0JHHoqNzZl7I-yUisY4RYuqgk-HXhQVRZCak4XreaQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "defaultLanguage": "ko",
+      "localized": {
+        "title": "미니특공대TV",
+        "description": "💥미니특공대 공식채널💥\n작은 동물들을 수호하는 비밀스런 영웅에서\n외계인으로부터 지구를 지키는 세상 모두의 히어로! 미니특공대!\n그레이트 코인을 수호하고 이 우주를 지켜내자! 🦖최강공룡 미니특공대 출동!\n\n✨공식 유튜브 채널 구독을 👉꾹👈 눌러주세요✨\n🖍️키즈팡TV: https://bit.ly/3BeA8In\n📖미니팡TV: https://bit.ly/3LjMwvh\n🤖메탈카드봇TV: https://bit.ly/3ZcPHeF\n🎖️히어로토이TV: https://bit.ly/3eQchHy\n\n✨다양한 이벤트 소식은 공식 인스타그램에서 볼 수 있어요✨\n💥미니특공대 인스타그램: https://bit.ly/3dh4W3m\n🤖메탈카드봇 인스타그램: https://bit.ly/3C2aSGq\n\n✨SAMG의 장난감들은 공식 스토어에서 만나볼 수 있어요✨\n🎁더티니핑 스토어 https://theteenieping.com/\n\n✨미니특공대 볼트를 지금 바로 만나러 가요✨\n💥미니특공대의 모든 시리즈를 볼 수 있는 곳 #이모션캐슬시네마\n키즈 동영상 서비스 「이모션캐슬 시네마」에서 아이들이 좋아하는\n다양한 시리즈와 영화, 놀이영상 등을 마음껏 시청할 수 있어요!\n🕍이모션캐슬 시네마: https://cinema.emotioncastle.com\n\n© SAMG/EBS. All Rights Reserved.\n"
+      },
+      "country": "KR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUx4IY_sYVTL6RQu30Cprm8A"
+      }
+    },
+    "statistics": {
+      "viewCount": "5107507427",
+      "subscriberCount": "8710000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "1963"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/02jjt",
+        "/m/02vxn"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Entertainment",
+        "https://en.wikipedia.org/wiki/Film"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified",
+      "madeForKids": true
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "미니특공대TV",
+        "description": "💥미니특공대 공식채널💥\n작은 동물들을 수호하는 비밀스런 영웅에서\n외계인으로부터 지구를 지키는 세상 모두의 히어로! 미니특공대!\n그레이트 코인을 수호하고 이 우주를 지켜내자! 🦖최강공룡 미니특공대 출동!\n\n✨공식 유튜브 채널 구독을 👉꾹👈 눌러주세요✨\n🖍️키즈팡TV: https://bit.ly/3BeA8In\n📖미니팡TV: https://bit.ly/3LjMwvh\n🤖메탈카드봇TV: https://bit.ly/3ZcPHeF\n🎖️히어로토이TV: https://bit.ly/3eQchHy\n\n✨다양한 이벤트 소식은 공식 인스타그램에서 볼 수 있어요✨\n💥미니특공대 인스타그램: https://bit.ly/3dh4W3m\n🤖메탈카드봇 인스타그램: https://bit.ly/3C2aSGq\n\n✨SAMG의 장난감들은 공식 스토어에서 만나볼 수 있어요✨\n🎁더티니핑 스토어 https://theteenieping.com/\n\n✨미니특공대 볼트를 지금 바로 만나러 가요✨\n💥미니특공대의 모든 시리즈를 볼 수 있는 곳 #이모션캐슬시네마\n키즈 동영상 서비스 「이모션캐슬 시네마」에서 아이들이 좋아하는\n다양한 시리즈와 영화, 놀이영상 등을 마음껏 시청할 수 있어요!\n🕍이모션캐슬 시네마: https://cinema.emotioncastle.com\n\n© SAMG/EBS. All Rights Reserved.\n",
+        "keywords": "미니특공대 삼지애니메이션 \"최강전사 미니특공대\" 볼트 새미 루시 맥스",
+        "unsubscribedTrailer": "k3Ev9-X9S5c",
+        "defaultLanguage": "ko",
+        "country": "KR"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/kxZ-cRlMUagtaKYjnOh6oPyPwjxgodKN47sBgZ1QeTKTtY89aTEC0cx5jTb-9mQnxQ3TlCdJyQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "uV4ejMO85mwGFB6iu_jylphVDr0",
+    "id": "UCnHCaT79--qqZKBSWoJq_NA",
+    "snippet": {
+      "title": "With Kids Playground [위드키즈 놀이터]",
+      "description": "Wiith Kids Playground [위드키즈 놀이터] 채널은?\n\n★ 아빠와 함께 아들인 예준이가 만들어 가는 키즈 채널입니다\n★ 예준이와 아빠가 함께 장난감 놀이를 하며 도전하고 경험하고, 서로 대화하고 학습하며 같은 시간을 공유하는 재미있는 영상을 만들려고 노력하고 있습니다.\n★ 구독 + 좋아요 + 댓글 + 공유 해주시면 With Kids Playground [위드키즈 놀이터] 채널에 큰 힘이 된답니다 ^^\n\n★ We Make Kids Video Channel My son, Ye Jun With Daddy\n★ This Channel is About Kids Playing Mostly at Outdoor Indoor Playground, Amusement Theme Park for Family and Kids Funny Video\n★ Family Fun Playtime With Indoor Playground Play Area for Kids! This play Area for children had kids mini cars on the playground. Play fun in Toddler play center with toys! \n★ Please Subscribe+Like + Comment+share our channel and give us extra ENERGY and FEEDBACK to share on the Channel!",
+      "customUrl": "@withkidsplayground7769",
+      "publishedAt": "2017-01-04T15:11:02Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kpD2z_ZG-ya1XOwPUnrn0N7OC8ZRxbL25L1dau8w0ScA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kpD2z_ZG-ya1XOwPUnrn0N7OC8ZRxbL25L1dau8w0ScA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kpD2z_ZG-ya1XOwPUnrn0N7OC8ZRxbL25L1dau8w0ScA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "defaultLanguage": "ko",
+      "localized": {
+        "title": "With Kids Playground [위드키즈 놀이터]",
+        "description": "Wiith Kids Playground [위드키즈 놀이터] 채널은?\n\n★ 아빠와 함께 아들인 예준이가 만들어 가는 키즈 채널입니다\n★ 예준이와 아빠가 함께 장난감 놀이를 하며 도전하고 경험하고, 서로 대화하고 학습하며 같은 시간을 공유하는 재미있는 영상을 만들려고 노력하고 있습니다.\n★ 구독 + 좋아요 + 댓글 + 공유 해주시면 With Kids Playground [위드키즈 놀이터] 채널에 큰 힘이 된답니다 ^^\n\n★ We Make Kids Video Channel My son, Ye Jun With Daddy\n★ This Channel is About Kids Playing Mostly at Outdoor Indoor Playground, Amusement Theme Park for Family and Kids Funny Video\n★ Family Fun Playtime With Indoor Playground Play Area for Kids! This play Area for children had kids mini cars on the playground. Play fun in Toddler play center with toys! \n★ Please Subscribe+Like + Comment+share our channel and give us extra ENERGY and FEEDBACK to share on the Channel!"
+      },
+      "country": "KR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUnHCaT79--qqZKBSWoJq_NA"
+      }
+    },
+    "statistics": {
+      "viewCount": "2654701978",
+      "subscriberCount": "6940000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "674"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/019_rr",
+        "/m/03glg"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+        "https://en.wikipedia.org/wiki/Hobby"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified",
+      "madeForKids": true
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "With Kids Playground [위드키즈 놀이터]",
+        "description": "Wiith Kids Playground [위드키즈 놀이터] 채널은?\n\n★ 아빠와 함께 아들인 예준이가 만들어 가는 키즈 채널입니다\n★ 예준이와 아빠가 함께 장난감 놀이를 하며 도전하고 경험하고, 서로 대화하고 학습하며 같은 시간을 공유하는 재미있는 영상을 만들려고 노력하고 있습니다.\n★ 구독 + 좋아요 + 댓글 + 공유 해주시면 With Kids Playground [위드키즈 놀이터] 채널에 큰 힘이 된답니다 ^^\n\n★ We Make Kids Video Channel My son, Ye Jun With Daddy\n★ This Channel is About Kids Playing Mostly at Outdoor Indoor Playground, Amusement Theme Park for Family and Kids Funny Video\n★ Family Fun Playtime With Indoor Playground Play Area for Kids! This play Area for children had kids mini cars on the playground. Play fun in Toddler play center with toys! \n★ Please Subscribe+Like + Comment+share our channel and give us extra ENERGY and FEEDBACK to share on the Channel!",
+        "keywords": "\"with kids\" yejun \"자동차 장난감\" 위드키즈 \"중장비 장난감\" \"위드키즈 토이즈\" \"위드키즈 놀이터\" \"with kids playground\" \"with kids toys\" \"toy activity\" \"kids toy play\" \"위드키즈 예준이\" \"toy assembly\" \"장난감 조립놀이\"",
+        "trackingAnalyticsAccountId": "UA-85410682-1",
+        "defaultLanguage": "ko",
+        "country": "KR"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/_-BqFFLVr7Fa5eCrIRomGMDWRyjn0MKOBBv4jyV5x6hLq9Qc9-3luHIABevjpoDo1yKgUdNoRw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "5z6wKYVZmaG_WniWGGMopwgLUAo",
+    "id": "UCepUWUpH45hRTi-QePdq1Bg",
+    "snippet": {
+      "title": "Mnet TV",
+      "description": "다양한 음악 예능으로 즐거움을 선사하는\nMnet 음악 버라이어티 공식 채널 \"Mnet TV📺\"\n\nⓒCJ ENM. Corp ALL RIGHTS RESERVED\n",
+      "customUrl": "@playmnet",
+      "publishedAt": "2013-12-23T04:22:10Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/jmW01UkLcaKUxZFyKxkgG3iRu7jFt1V7mzSKpbEyAFJqMjLoZ-ZTSNtYDVueSk4-XGRCAxCt=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/jmW01UkLcaKUxZFyKxkgG3iRu7jFt1V7mzSKpbEyAFJqMjLoZ-ZTSNtYDVueSk4-XGRCAxCt=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/jmW01UkLcaKUxZFyKxkgG3iRu7jFt1V7mzSKpbEyAFJqMjLoZ-ZTSNtYDVueSk4-XGRCAxCt=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Mnet TV",
+        "description": "다양한 음악 예능으로 즐거움을 선사하는\nMnet 음악 버라이어티 공식 채널 \"Mnet TV📺\"\n\nⓒCJ ENM. Corp ALL RIGHTS RESERVED\n"
+      },
+      "country": "KR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUepUWUpH45hRTi-QePdq1Bg"
+      }
+    },
+    "statistics": {
+      "viewCount": "13984479644",
+      "subscriberCount": "9560000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "28641"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/064t9",
+        "/m/0glt670",
+        "/m/04rlf",
+        "/m/028sqc",
+        "/m/0f2f9"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Pop_music",
+        "https://en.wikipedia.org/wiki/Hip_hop_music",
+        "https://en.wikipedia.org/wiki/Music",
+        "https://en.wikipedia.org/wiki/Music_of_Asia",
+        "https://en.wikipedia.org/wiki/Television_program"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified",
+      "madeForKids": false
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Mnet TV",
+        "description": "다양한 음악 예능으로 즐거움을 선사하는\nMnet 음악 버라이어티 공식 채널 \"Mnet TV📺\"\n\nⓒCJ ENM. Corp ALL RIGHTS RESERVED\n",
+        "keywords": "Mnet KPOP \"Show Me The Money\" 너목보 고등래퍼 SchoolRapper 커플팰리스 CouplePalace 노래방VS 엠넷리부트 엠넷 쇼미더머니 랩퍼블릭",
+        "trackingAnalyticsAccountId": "UA-79780680-1",
+        "country": "KR"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/sqN_hP5of-UWNhWYTAlWC13Rt3CbveL6fiILNT1FN7-8bHMIcTGay3NWb3pJd0LS6Qa7HKIjIQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "v3Cs2GsfAOadpYFlka4-JWI0C4Y",
+    "id": "UCBJeMCIeLQos7wacox4hmLQ",
+    "snippet": {
+      "title": "Serie A",
+      "description": "Welcome to the Official Serie A channel. Over the season, we are going to produce and upload more than 5000 clips, updated everyday with Official Highlights, Magazine & Compilations (such as Best Saves, Numbers, Top 11, etc), Exclusive Interviews, Press Conferences and much more. If you are a football fan and you want to be part of our community don't forget to subscribe to Serie A channel.",
+      "customUrl": "@seriea",
+      "publishedAt": "2012-10-30T13:54:30Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/lc8ci7wlj-PC8b6OP113Vv09Eymh_H0TvjqAnqnewGykGBnXbPBgontfSCB9CpfM6NyrrBDzN7w=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/lc8ci7wlj-PC8b6OP113Vv09Eymh_H0TvjqAnqnewGykGBnXbPBgontfSCB9CpfM6NyrrBDzN7w=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/lc8ci7wlj-PC8b6OP113Vv09Eymh_H0TvjqAnqnewGykGBnXbPBgontfSCB9CpfM6NyrrBDzN7w=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Serie A",
+        "description": "Welcome to the Official Serie A channel. Over the season, we are going to produce and upload more than 5000 clips, updated everyday with Official Highlights, Magazine & Compilations (such as Best Saves, Numbers, Top 11, etc), Exclusive Interviews, Press Conferences and much more. If you are a football fan and you want to be part of our community don't forget to subscribe to Serie A channel."
+      },
+      "country": "IT"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUBJeMCIeLQos7wacox4hmLQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "4801522110",
+      "subscriberCount": "10300000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "33535"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/02vx4",
+        "/m/06ntj"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Association_football",
+        "https://en.wikipedia.org/wiki/Sport"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified",
+      "madeForKids": false
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Serie A",
+        "description": "Welcome to the Official Serie A channel. Over the season, we are going to produce and upload more than 5000 clips, updated everyday with Official Highlights, Magazine & Compilations (such as Best Saves, Numbers, Top 11, etc), Exclusive Interviews, Press Conferences and much more. If you are a football fan and you want to be part of our community don't forget to subscribe to Serie A channel.",
+        "keywords": "football soccer \"serie a\" \"italian football\" ronaldo juventus milan \"ac milan\" \"inter milan\" zlatan ibrahimovic \"highlights serie a\" highlights \"highlights juventus\" \"highlights juve\" \"highlights inter\" \"highlights inter\" \"highlights roma\" inter juventus milan \"liga italia\" \"liga italiana\" \"gol collection\" \"goal collection\"",
+        "unsubscribedTrailer": "bSwoFEL-jQ0",
+        "country": "IT"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/HWeOHW4SVGYifzrOOX_eAZPtvZ33K5sOOLvufhzamjXUYPn1xXsqitA2K_FFE9PQZyejxOcoJsg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "wQT754-0qnQu6kDVKBxBqWNdank",
+    "id": "UCjWRi2qaGtKjQyoQLc4OGkw",
+    "snippet": {
+      "title": "Sungha Jung",
+      "description": "\"Acoustic Fingerstyle Guitarist\"\r\nfrom Rep. of Korea",
+      "customUrl": "@sunghajung",
+      "publishedAt": "2006-09-09T06:06:46Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_mnaZtxqN8I_gExAdnAfuxE2ILMx5tyi-FZCHVbQGNoY7A=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_mnaZtxqN8I_gExAdnAfuxE2ILMx5tyi-FZCHVbQGNoY7A=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_mnaZtxqN8I_gExAdnAfuxE2ILMx5tyi-FZCHVbQGNoY7A=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Sungha Jung",
+        "description": "\"Acoustic Fingerstyle Guitarist\"\r\nfrom Rep. of Korea"
+      },
+      "country": "KR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUjWRi2qaGtKjQyoQLc4OGkw"
+      }
+    },
+    "statistics": {
+      "viewCount": "2062918800",
+      "subscriberCount": "7210000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "1544"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/028sqc",
+        "/m/04rlf",
+        "/m/064t9"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Music_of_Asia",
+        "https://en.wikipedia.org/wiki/Music",
+        "https://en.wikipedia.org/wiki/Pop_music"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified",
+      "madeForKids": false
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Sungha Jung",
+        "description": "\"Acoustic Fingerstyle Guitarist\"\r\nfrom Rep. of Korea",
+        "keywords": "sungha jung sunghajung",
+        "unsubscribedTrailer": "DIGalWNB8dc",
+        "country": "KR"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/-Mg_u6k6wU6g9Foa17GEJITRnOOdgyKogceiflIdLBcWBs-ie-ktA5bQLhEROW-92Yei4_YliA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "wEAzC6Z4HzeNfxwTTCSWReDJAd4",
+    "id": "UCph-WGR0oCbJDpaWmNHb5zg",
+    "snippet": {
+      "title": "Larva TUBA",
+      "description": "Welcome to the official LARVA channel by tubaN.\n\ntubaN is an animation studio well known for its skillful techniques on 3D CGI production.  \nThe company has more than 12 years of experience of creating various portfolios.\nOver the years, ‘TUBA n’ has been exploring new paths to deliver happiness to more people. \n\nOur priority is to deliver a \"Big Smile For Everyone\".",
+      "customUrl": "@larvatuba",
+      "publishedAt": "2011-09-23T09:04:57Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/u8IfpHzST2vIF0_9gclpmO-vI1M_T6eUjixhoM_Cjuz6ON8dE9ZS1RIZlRmUI2M9reFKyurjrw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/u8IfpHzST2vIF0_9gclpmO-vI1M_T6eUjixhoM_Cjuz6ON8dE9ZS1RIZlRmUI2M9reFKyurjrw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/u8IfpHzST2vIF0_9gclpmO-vI1M_T6eUjixhoM_Cjuz6ON8dE9ZS1RIZlRmUI2M9reFKyurjrw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Larva TUBA",
+        "description": "Welcome to the official LARVA channel by tubaN.\n\ntubaN is an animation studio well known for its skillful techniques on 3D CGI production.  \nThe company has more than 12 years of experience of creating various portfolios.\nOver the years, ‘TUBA n’ has been exploring new paths to deliver happiness to more people. \n\nOur priority is to deliver a \"Big Smile For Everyone\"."
+      },
+      "country": "KR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUph-WGR0oCbJDpaWmNHb5zg"
+      }
+    },
+    "statistics": {
+      "viewCount": "4939832489",
+      "subscriberCount": "10500000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "2600"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/02jjt",
+        "/m/02vxn"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Entertainment",
+        "https://en.wikipedia.org/wiki/Film"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Larva TUBA",
+        "description": "Welcome to the official LARVA channel by tubaN.\n\ntubaN is an animation studio well known for its skillful techniques on 3D CGI production.  \nThe company has more than 12 years of experience of creating various portfolios.\nOver the years, ‘TUBA n’ has been exploring new paths to deliver happiness to more people. \n\nOur priority is to deliver a \"Big Smile For Everyone\".",
+        "keywords": "Larva lol yellow red pink black pink brown insect bug entertainment gaming animation tiktok cute cartoon&animation mukbang anim viral friend 애니메이션 shorts fyp tiktokanimation tiktokviral 애니 recommend movie \"animated short films\" \"youtube cartoons\" animation cartoons \"animated shorts\" \"animated cartoon\" \"funny cartoon\" \"splendid cartoon\" \"funny clips\" \"pencilmation cartoons\" \"cartoon series\" \"3d animation\" \"funny animation\" \"funny video\" \"animation character\"",
+        "unsubscribedTrailer": "zaDUjSpjmRg",
+        "country": "KR"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/NGGTZteWybsN7hjj91wB0a9ZGwac3t-ZWIIa3IFg2INGD3aUmRSQTFa7r62Sh9gw-Ddsk2TQr4k"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "WvZudvQR6BXfN3T-j-XITOrVT1Y",
+    "id": "UC2NvqL2gbWQXbfnLN7C9XFg",
+    "snippet": {
+      "title": "SonicToy소닉토이",
+      "description": "안녕하세요.  소닉의 장난감채널입니다.\nHello. Welcome to SONICTOY chanel.",
+      "customUrl": "@sonictoy9837",
+      "publishedAt": "2015-04-29T11:14:20Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_nSKZ-jFhTFNrSe6hftcMlrRUP48Sq0OXWfzDldafL_55U=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_nSKZ-jFhTFNrSe6hftcMlrRUP48Sq0OXWfzDldafL_55U=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_nSKZ-jFhTFNrSe6hftcMlrRUP48Sq0OXWfzDldafL_55U=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "SonicToy소닉토이",
+        "description": "안녕하세요.  소닉의 장난감채널입니다.\nHello. Welcome to SONICTOY chanel."
+      },
+      "country": "KR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU2NvqL2gbWQXbfnLN7C9XFg"
+      }
+    },
+    "statistics": {
+      "viewCount": "3320565711",
+      "subscriberCount": "7120000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "249"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/03glg",
+        "/m/019_rr"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Hobby",
+        "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "SonicToy소닉토이",
+        "description": "안녕하세요.  소닉의 장난감채널입니다.\nHello. Welcome to SONICTOY chanel.",
+        "keywords": "엔터테인먼트",
+        "country": "KR"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/CXSezXoEXKSoPhSGWAxqVkk-kY1QmtyjQzgV6vMSi7frxWIpjlf3MJQPnBpy-USuRW-2AxthAMk"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "w4wZh6tp7gQhEeznFtqNaT97nFs",
+    "id": "UCVihezVtsguXEouYvtKmKYA",
+    "snippet": {
+      "title": "서은이야기[SeoeunStory]",
+      "description": "애정결핍 현상을 보인 서은이를 더 잘 키우고 더 잘 놀아주기 위한 엄마아빠의 노력입니다. ^^\n재밌게 봐주시고 서은이가 커가는걸 지켜봐주세요 ~~~\n\n",
+      "customUrl": "@seoeunstory",
+      "publishedAt": "2016-05-01T15:22:08Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kdxvNAyUnMrqGOb4d60rsPIUwYJs_aWKlpryOv2MkCKg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kdxvNAyUnMrqGOb4d60rsPIUwYJs_aWKlpryOv2MkCKg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_kdxvNAyUnMrqGOb4d60rsPIUwYJs_aWKlpryOv2MkCKg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "defaultLanguage": "ko",
+      "localized": {
+        "title": "서은이야기[SeoeunStory]",
+        "description": "애정결핍 현상을 보인 서은이를 더 잘 키우고 더 잘 놀아주기 위한 엄마아빠의 노력입니다. ^^\n재밌게 봐주시고 서은이가 커가는걸 지켜봐주세요 ~~~\n\n"
+      },
+      "country": "KR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUVihezVtsguXEouYvtKmKYA"
+      }
+    },
+    "statistics": {
+      "viewCount": "2129183070",
+      "subscriberCount": "9220000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "1337"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/03glg",
+        "/m/019_rr"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Hobby",
+        "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified",
+      "madeForKids": false
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "서은이야기[SeoeunStory]",
+        "description": "애정결핍 현상을 보인 서은이를 더 잘 키우고 더 잘 놀아주기 위한 엄마아빠의 노력입니다. ^^\n재밌게 봐주시고 서은이가 커가는걸 지켜봐주세요 ~~~\n\n",
+        "keywords": "키즈카페 kids toys 서은이야기 \"Seoeun Story\" jelly 젤리 먹방 장난감 서은",
+        "unsubscribedTrailer": "u847AoOnP30",
+        "defaultLanguage": "ko",
+        "country": "KR"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/IKNh3eCad7H_v7ndx44BW_bjZh9AQssybO8svI5DjPjcSrGc8ymG4dv-q1xjBxdmCBO5NISXhA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "sGht3XSBP26xd4S8bi-LI-z-Dso",
+    "id": "UCs-QBT4qkj_YiQw1ZntDO3g",
+    "snippet": {
+      "title": "LE SSERAFIM",
+      "description": "LE SSERAFIM Official Youtube\n르세라핌 공식 유튜브\n'CELEBRATION' OUT NOW\nThe 2nd Studio Album 'PUREFLOW' pt.1, May 22\n",
+      "customUrl": "@lesserafim_official",
+      "publishedAt": "2021-10-19T08:33:17.462436Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/Dz4qM_EPJM4QTCY0B09W1NMNewKo25V7dKvzY32YVDCiC5Q4o9kYJMvBeXWbTLdSDAvjvYtQkok=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/Dz4qM_EPJM4QTCY0B09W1NMNewKo25V7dKvzY32YVDCiC5Q4o9kYJMvBeXWbTLdSDAvjvYtQkok=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/Dz4qM_EPJM4QTCY0B09W1NMNewKo25V7dKvzY32YVDCiC5Q4o9kYJMvBeXWbTLdSDAvjvYtQkok=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "LE SSERAFIM",
+        "description": "LE SSERAFIM Official Youtube\n르세라핌 공식 유튜브\n'CELEBRATION' OUT NOW\nThe 2nd Studio Album 'PUREFLOW' pt.1, May 22\n"
+      },
+      "country": "KR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUs-QBT4qkj_YiQw1ZntDO3g"
+      }
+    },
+    "statistics": {
+      "viewCount": "5882807013",
+      "subscriberCount": "7290000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "2869"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/04rlf",
+        "/m/05qjc",
+        "/m/028sqc",
+        "/m/02jjt",
+        "/m/019_rr"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Music",
+        "https://en.wikipedia.org/wiki/Performing_arts",
+        "https://en.wikipedia.org/wiki/Music_of_Asia",
+        "https://en.wikipedia.org/wiki/Entertainment",
+        "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified",
+      "madeForKids": false
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "LE SSERAFIM",
+        "description": "LE SSERAFIM Official Youtube\n르세라핌 공식 유튜브\n'CELEBRATION' OUT NOW\nThe 2nd Studio Album 'PUREFLOW' pt.1, May 22\n",
+        "keywords": "\"LE SSERAFIM\" 르세라핌 사쿠라 김채원 허윤진 카즈하 홍은채",
+        "unsubscribedTrailer": "YS3lKDJqbx8",
+        "country": "KR"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/cS2UXQaKw7GIqsHBMkmolb9Kp46ttWiznkn0HVPGseai5-nQCr-j-cHnfVK7Qg_B3RN48elVgw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "5Nshc2sY5IXiImxHgmz3g_tDFBU",
+    "id": "UCWwgaK7x0_FR1goeSRazfsQ",
+    "snippet": {
+      "title": "Samsung",
+      "description": "Welcome to the official Samsung global channel, a place to discover the latest Samsung brand stories, events, innovative technologies, apps & services, B2B solutions, and developer community. \n\nSamsung inspires the world and shapes the future with transformative ideas and technologies. The company is redefining the worlds of TVs, smartphones, wearable devices, tablets, digital appliances, network systems, and memory, system LSI, foundry and LED solutions.\n",
+      "customUrl": "@samsung",
+      "publishedAt": "2006-03-11T06:57:39Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/Ul4xFDiUAHZT1h8P7dDrNpW5RrVqff3b0-yKgZxSgn6QLXzkOJSmJnYsZS7l2L5LcfXXN7o-kw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/Ul4xFDiUAHZT1h8P7dDrNpW5RrVqff3b0-yKgZxSgn6QLXzkOJSmJnYsZS7l2L5LcfXXN7o-kw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/Ul4xFDiUAHZT1h8P7dDrNpW5RrVqff3b0-yKgZxSgn6QLXzkOJSmJnYsZS7l2L5LcfXXN7o-kw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Samsung",
+        "description": "Welcome to the official Samsung global channel, a place to discover the latest Samsung brand stories, events, innovative technologies, apps & services, B2B solutions, and developer community. \n\nSamsung inspires the world and shapes the future with transformative ideas and technologies. The company is redefining the worlds of TVs, smartphones, wearable devices, tablets, digital appliances, network systems, and memory, system LSI, foundry and LED solutions.\n"
+      },
+      "country": "KR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUWwgaK7x0_FR1goeSRazfsQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "2406370723",
+      "subscriberCount": "10100000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "2410"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/07c1v",
+        "/m/019_rr"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Technology",
+        "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Samsung",
+        "description": "Welcome to the official Samsung global channel, a place to discover the latest Samsung brand stories, events, innovative technologies, apps & services, B2B solutions, and developer community. \n\nSamsung inspires the world and shapes the future with transformative ideas and technologies. The company is redefining the worlds of TVs, smartphones, wearable devices, tablets, digital appliances, network systems, and memory, system LSI, foundry and LED solutions.\n",
+        "keywords": "samsung \"samsung mobile\" \"samsung mobile global\" mobile \"galaxy tab\" Galaxy Samsung Electronics Mobile Smartphone Gadgets Phone Device Cell Cellular Touchscreen Android Lollipop Applications Apps Hub Quad Core Slimmest Thinnest Voice Translation Wireless Internet Super AMOLED Plus Technology business \"Galaxy S\" \"Galaxy Note\" \"Samsung TV\" \"Samsung pay\" \"Samsung homeappliances\" \"Samsung notebook\" \"Samsung AV\" \"Samsung memory\" \"Samsung SSD\" \"Samsung developer\" 삼성전자 \"Samsung Electronics\"",
+        "trackingAnalyticsAccountId": "UA-18527447-2",
+        "unsubscribedTrailer": "bbT0ahakChU",
+        "country": "KR"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/PGR9Y-6ifdEiLuR1Sq41F9Hl5i4MV6WaCjiz0T7FUp4gZceRq_ZNHX3TNLwwjz6xVjnoLAW3"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "zVu-aPtAJGEtDYCmHvaeFuIKNf8",
+    "id": "UCS_hnpJLQTvBkqALgapi_4g",
+    "snippet": {
+      "title": "SBSKPOP X INKIGAYO",
+      "description": "The BEST KPOP platform",
+      "customUrl": "@sbskpop",
+      "publishedAt": "2011-02-17T02:17:55Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/GqzNZfMlBCgXYpAA74wuCs9HTEJ7ePtImt6QpXwk2qt6LJEIrZ8hEdPHeLPusnCCqoEGJb1pEQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/GqzNZfMlBCgXYpAA74wuCs9HTEJ7ePtImt6QpXwk2qt6LJEIrZ8hEdPHeLPusnCCqoEGJb1pEQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/GqzNZfMlBCgXYpAA74wuCs9HTEJ7ePtImt6QpXwk2qt6LJEIrZ8hEdPHeLPusnCCqoEGJb1pEQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "SBSKPOP X INKIGAYO",
+        "description": "The BEST KPOP platform"
+      },
+      "country": "KR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUS_hnpJLQTvBkqALgapi_4g"
+      }
+    },
+    "statistics": {
+      "viewCount": "7980630330",
+      "subscriberCount": "8710000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "41128"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/064t9",
+        "/m/028sqc",
+        "/m/04rlf"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Pop_music",
+        "https://en.wikipedia.org/wiki/Music_of_Asia",
+        "https://en.wikipedia.org/wiki/Music"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified",
+      "madeForKids": false
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "SBSKPOP X INKIGAYO",
+        "description": "The BEST KPOP platform",
+        "keywords": "SBS 생방송 인기가요 출연 가수 entertainment BTS 방탄소년단 엑소 exo 트와이스 TWICE 블랙핑크 Blackpink 마마무 여자친구 레드벨벳 kpop \"sbs kpop play\" 모모랜드 MOMOLAND EXID 오마이걸 위너 iKON 워너원 AB6IX 러블리즈 Lovelyz 아이즈원 IZONE 아이오아이 빅뱅 BIGBANG 선미 sunmi 청하 chungha 아스트로 골든차일드 더보이즈 위키미키 구구단 우주소녀 라붐 다이아 에이프릴 세븐틴 GOT7 뉴이스트 소녀시대 원더걸스 TVXQ 인피니트 TXT \"sbs kpop\" 음방",
+        "trackingAnalyticsAccountId": "UA-77918725-1",
+        "unsubscribedTrailer": "8npc2Q8KCuY",
+        "country": "KR"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/_VW0B38VA0RYhFnnKI8vWkZteR7pf05BLauEshx4jxSWjuXfSutnCAoQgDXR0ip5JFRVnsK5"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "U4jaKyVzkUhaMraLevMoJ_Q3J2U",
+    "id": "UCPUeGC_AL-OnDQORKhRm6iA",
+    "snippet": {
+      "title": "뽀로로(Pororo)",
+      "description": "노는 게 제일 좋은 꼬마 펭귄 뽀로로! 구독 버튼을 눌러 뽀로로의 친구가 되어주세요!\nLet’s find out what Pororo and his friends will get into this time, enjoy and don’t forget to subscribe!\n\nWelcome to the official Pororo channel on YouTube. Here you can watch all of your favorite Pororo episodes. We are working hard to create fun new episodes and compilations of Pororo to keep our dear little friends happy. New content is uploaded every week, so stay tuned! Thank you!\n\n",
+      "customUrl": "@뽀로로공식채널",
+      "publishedAt": "2011-05-26T01:13:40Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/G9PYhQu7LhCXMvFkUo1RAY-KrmOyN75_VngcdGE0mh_yk_EUzqWzop0G-_xmgNzg0X-LBlnD=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/G9PYhQu7LhCXMvFkUo1RAY-KrmOyN75_VngcdGE0mh_yk_EUzqWzop0G-_xmgNzg0X-LBlnD=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/G9PYhQu7LhCXMvFkUo1RAY-KrmOyN75_VngcdGE0mh_yk_EUzqWzop0G-_xmgNzg0X-LBlnD=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "defaultLanguage": "ko",
+      "localized": {
+        "title": "뽀로로(Pororo)",
+        "description": "노는 게 제일 좋은 꼬마 펭귄 뽀로로! 구독 버튼을 눌러 뽀로로의 친구가 되어주세요!\nLet’s find out what Pororo and his friends will get into this time, enjoy and don’t forget to subscribe!\n\nWelcome to the official Pororo channel on YouTube. Here you can watch all of your favorite Pororo episodes. We are working hard to create fun new episodes and compilations of Pororo to keep our dear little friends happy. New content is uploaded every week, so stay tuned! Thank you!\n\n"
+      },
+      "country": "KR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUPUeGC_AL-OnDQORKhRm6iA"
+      }
+    },
+    "statistics": {
+      "viewCount": "10870470680",
+      "subscriberCount": "7320000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "5589"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/02vxn",
+        "/m/02jjt"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Film",
+        "https://en.wikipedia.org/wiki/Entertainment"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified",
+      "madeForKids": true
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "뽀로로(Pororo)",
+        "description": "노는 게 제일 좋은 꼬마 펭귄 뽀로로! 구독 버튼을 눌러 뽀로로의 친구가 되어주세요!\nLet’s find out what Pororo and his friends will get into this time, enjoy and don’t forget to subscribe!\n\nWelcome to the official Pororo channel on YouTube. Here you can watch all of your favorite Pororo episodes. We are working hard to create fun new episodes and compilations of Pororo to keep our dear little friends happy. New content is uploaded every week, so stay tuned! Thank you!\n\n",
+        "keywords": "PORORO 뽀로로 뽀로로와친구들 뽀롱뽀롱뽀로로 EDDY LOOPY 에디 똑똑박사 루피 pororo the little penguin animation episode cartoon crong 크롱 애니메이션 뽀통령 펭귄 한국어 영어 동영상 유아동영상 교육영상 핑크퐁 베베핀 아기상어 상어동요 동요 동화 페파피그 블루이 뽀로로와노래해요 뽀로로이야기 티니핑 하츄핑 지니키즈 코코멜론 어린이 어린이집 뽀로로영화 어린이영화 공룡동화 공룡만화 뽀로로8기 호기 색깔놀이",
+        "unsubscribedTrailer": "Ikk9V7OxSBg",
+        "defaultLanguage": "ko",
+        "country": "KR"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/bvl5QzvlJ-xuhDksKdV7wfBcgT7HGbQ-75yDn0B-nvZgKGxuGhxzF3ixIDrp6l4kHffmKihb"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "Rl4hkpYT-KoIfUA8yAh1vaDPwKw",
+    "id": "UCzCedBCSSltI1TFd3bKyN6g",
+    "snippet": {
+      "title": "EXO",
+      "description": "EXO 엑소 The 8th Album 【REVERXE】\n\nWelcome to EXO Official YouTube Channel!\n\n",
+      "customUrl": "@weareoneexo",
+      "publishedAt": "2006-12-10T19:12:09Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ujB2n35HjiBrD1UHWY6aLdZJ4-g01agipoXe2NFQaAbuEhnIPnJHbrfi9ScdgawZWSuKZkPGhg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ujB2n35HjiBrD1UHWY6aLdZJ4-g01agipoXe2NFQaAbuEhnIPnJHbrfi9ScdgawZWSuKZkPGhg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ujB2n35HjiBrD1UHWY6aLdZJ4-g01agipoXe2NFQaAbuEhnIPnJHbrfi9ScdgawZWSuKZkPGhg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "EXO",
+        "description": "EXO 엑소 The 8th Album 【REVERXE】\n\nWelcome to EXO Official YouTube Channel!\n\n"
+      },
+      "country": "KR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUzCedBCSSltI1TFd3bKyN6g"
+      }
+    },
+    "statistics": {
+      "viewCount": "1961386983",
+      "subscriberCount": "9890000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "909"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/04rlf",
+        "/m/028sqc",
+        "/m/02jjt",
+        "/m/064t9"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Music",
+        "https://en.wikipedia.org/wiki/Music_of_Asia",
+        "https://en.wikipedia.org/wiki/Entertainment",
+        "https://en.wikipedia.org/wiki/Pop_music"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified",
+      "madeForKids": false
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "EXO",
+        "description": "EXO 엑소 The 8th Album 【REVERXE】\n\nWelcome to EXO Official YouTube Channel!\n\n",
+        "keywords": "sm 에스엠 smtown 에스엠타운 smentertainment 에스엠엔터테인먼트 엑소 exo 엑소엠 엑소앰 exom 엑소케이 exok 카이 kai 액소 액소앰 액소엠 액소케이 액소캐이 엑소캐이 엑소티저 액소티저 엑소엠티저 엑소앰티저 액소앰티저 액소엠티저 액소케이티저 액소캐이티저 엑소캐이티저 엑소케이티저 카이티저 exoteaser teaser exokteaser exomv exokmv exommv 엑소뮤직비디오 액소뮤직비디오",
+        "unsubscribedTrailer": "BWfKkqo1Mk8",
+        "country": "KR"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/D-DMpsoqMes7UkZK5UBmIeAu7Ovz532KDhdIZtEZUEDQ_mOEP_-3QCrdURD_pPAlgJi84c2bGg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "N89F9P49L6-Xrmp4j6c7FFe9Sfg",
+    "id": "UCtctOXlHYeQyuXSgW861nMA",
+    "snippet": {
+      "title": "팀일루션 노성율",
+      "description": "Membership is now LIVE!👇\n\nLife is a Challenge ✨\n\nMovement Culture by Team1llusion\nTricking · Acrobatics · Parkour · Stunt · Dance\n\n📩 Business | team1llusion.biz@gmail.com\n🏃 Classes | Team1llusion Academy\n📞 +82 2-6032-5552\n🔗 https://linktr.ee/team1llusion\n",
+      "customUrl": "@team1llusion",
+      "publishedAt": "2010-11-25T09:39:45Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/35FyimegOtZPbOIhwhBmAxSzEfa5h6D0l2QWrNSU5eKO-0QD3XWUOSCVeixjDjVuFx-4gj-_3g=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/35FyimegOtZPbOIhwhBmAxSzEfa5h6D0l2QWrNSU5eKO-0QD3XWUOSCVeixjDjVuFx-4gj-_3g=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/35FyimegOtZPbOIhwhBmAxSzEfa5h6D0l2QWrNSU5eKO-0QD3XWUOSCVeixjDjVuFx-4gj-_3g=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "defaultLanguage": "ko",
+      "localized": {
+        "title": "팀일루션 노성율",
+        "description": "Membership is now LIVE!👇\n\nLife is a Challenge ✨\n\nMovement Culture by Team1llusion\nTricking · Acrobatics · Parkour · Stunt · Dance\n\n📩 Business | team1llusion.biz@gmail.com\n🏃 Classes | Team1llusion Academy\n📞 +82 2-6032-5552\n🔗 https://linktr.ee/team1llusion\n"
+      },
+      "country": "KR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUtctOXlHYeQyuXSgW861nMA"
+      }
+    },
+    "statistics": {
+      "viewCount": "13761255561",
+      "subscriberCount": "10900000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "1738"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/02jjt",
+        "/m/019_rr",
+        "/m/03glg",
+        "/m/06ntj"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Entertainment",
+        "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+        "https://en.wikipedia.org/wiki/Hobby",
+        "https://en.wikipedia.org/wiki/Sport"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified",
+      "madeForKids": false
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "팀일루션 노성율",
+        "description": "Membership is now LIVE!👇\n\nLife is a Challenge ✨\n\nMovement Culture by Team1llusion\nTricking · Acrobatics · Parkour · Stunt · Dance\n\n📩 Business | team1llusion.biz@gmail.com\n🏃 Classes | Team1llusion Academy\n📞 +82 2-6032-5552\n🔗 https://linktr.ee/team1llusion\n",
+        "keywords": "\"마샬아츠 트릭킹\" 아크로바틱 덤블링 텀블링 치어리딩 태권도 현대무용 테크닉 현대무용테크닉 무용테크닉 한국무용 태권도시범 체육임용 입시특기 대한마샬아츠트릭킹협회 파쿠르 프리러닝 앞구르기 뒤구르기 물구나무 앞공중돌기 뒤공중돌기 빽공 주가리 측전 라이즈 레인보우 검비 터치다운라이즈 핸드스프링 백핸드스프링 석고 옆공중 옆돌기 선자 하우스턴 벨트 웹스터 리버사오 헬리콥터",
+        "unsubscribedTrailer": "VcvFGl0x4S0",
+        "defaultLanguage": "ko",
+        "country": "KR"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/wP5JCAOLGpwE8IK4G4rImOB7i-VIwF68GAnOS1EGZzSRjgFA8MDxhoT4pYOCCqF-pEsmC6gc9Q"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "m21frY5EGKAkXH7_7gsVWaT9xGw",
+    "id": "UCYDmx2Sfpnaxg488yBpZIGg",
+    "snippet": {
+      "title": "STARSHIP",
+      "description": "스타쉽 엔터테인먼트 공식 유튜브 채널\nSTARSHIP Entertainment Official YouTube Channel\n\n#스타쉽 #스타쉽엔터테인먼트 #STARSHIP #STARSHIP_Ent \n",
+      "customUrl": "@starship_official",
+      "publishedAt": "2010-03-14T11:10:25Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/k6p06Jx1N1ItWTjYjdDhDPadzWvIRFPdbqqtM-81QuHF9bzqCj4yy_ZVc40AaFsRvtjwd7ex=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/k6p06Jx1N1ItWTjYjdDhDPadzWvIRFPdbqqtM-81QuHF9bzqCj4yy_ZVc40AaFsRvtjwd7ex=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/k6p06Jx1N1ItWTjYjdDhDPadzWvIRFPdbqqtM-81QuHF9bzqCj4yy_ZVc40AaFsRvtjwd7ex=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "STARSHIP",
+        "description": "스타쉽 엔터테인먼트 공식 유튜브 채널\nSTARSHIP Entertainment Official YouTube Channel\n\n#스타쉽 #스타쉽엔터테인먼트 #STARSHIP #STARSHIP_Ent \n"
+      },
+      "country": "KR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUYDmx2Sfpnaxg488yBpZIGg"
+      }
+    },
+    "statistics": {
+      "viewCount": "5901934546",
+      "subscriberCount": "6710000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "2345"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/064t9",
+        "/m/04rlf",
+        "/m/028sqc"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Pop_music",
+        "https://en.wikipedia.org/wiki/Music",
+        "https://en.wikipedia.org/wiki/Music_of_Asia"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified",
+      "madeForKids": false
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "STARSHIP",
+        "description": "스타쉽 엔터테인먼트 공식 유튜브 채널\nSTARSHIP Entertainment Official YouTube Channel\n\n#스타쉽 #스타쉽엔터테인먼트 #STARSHIP #STARSHIP_Ent \n",
+        "keywords": "music singer kpop \"boy group\" \"girl group\" \"singer songwriter\"",
+        "unsubscribedTrailer": "L9-o_ZytJ20",
+        "country": "KR"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/yNtr3-WsCKmKukUlOLqMRC3cOT1yUboOsQQe_nmWjVgr2PaSWLa7db__TwF-oiqzlIWi2foMRIw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "EcsvK1xRtn_29j--X6nMy3prM9o",
+    "id": "UCwgtORdDtUKhpjE1VBv6XfA",
+    "snippet": {
+      "title": "NCT",
+      "description": "TAEYONG 【WYLD - The 1st Album】 ➫ 2026.05.18 6PM (KST)\n\nEVERYTHING, ALL AT ONCE, NEO\n",
+      "customUrl": "@nctsmtown",
+      "publishedAt": "2016-03-14T05:43:09Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/gUb_101FVPJBvSqT-4JJQA6xkBtipUsZFTAZ-sNP7VoShBumdPnASi5eiu1QlTjhL1YJJd-SQek=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/gUb_101FVPJBvSqT-4JJQA6xkBtipUsZFTAZ-sNP7VoShBumdPnASi5eiu1QlTjhL1YJJd-SQek=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/gUb_101FVPJBvSqT-4JJQA6xkBtipUsZFTAZ-sNP7VoShBumdPnASi5eiu1QlTjhL1YJJd-SQek=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "NCT",
+        "description": "TAEYONG 【WYLD - The 1st Album】 ➫ 2026.05.18 6PM (KST)\n\nEVERYTHING, ALL AT ONCE, NEO\n"
+      },
+      "country": "KR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUwgtORdDtUKhpjE1VBv6XfA"
+      }
+    },
+    "statistics": {
+      "viewCount": "1723850923",
+      "subscriberCount": "6430000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "2021"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/028sqc",
+        "/m/04rlf",
+        "/m/02jjt",
+        "/m/019_rr",
+        "/m/064t9"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Music_of_Asia",
+        "https://en.wikipedia.org/wiki/Music",
+        "https://en.wikipedia.org/wiki/Entertainment",
+        "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+        "https://en.wikipedia.org/wiki/Pop_music"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified",
+      "madeForKids": false
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "NCT",
+        "description": "TAEYONG 【WYLD - The 1st Album】 ➫ 2026.05.18 6PM (KST)\n\nEVERYTHING, ALL AT ONCE, NEO\n",
+        "keywords": "채널NCT NCT 엔시티 NCT 엔시티 \"NCT 127\" \"엔시티 127\" JOHNNY YUTA TAEYONG DOYOUNG JAEHYUN JUNGWOO MARK HAECHAN 쟈니 유타 태용 도영 재현 정우 해찬 \"NCT DREAM\" \"엔시티 드림\" JENO JAEMIN RENJUN HAECHAN CHENLE JISUNG 마크 제노 재민 런쥔 해찬 천러 지성 WayV WeiShenV 웨이션브이 웨이션 웨이비 威神V KUN TEN WINWIN XIAOJUN HENDERY YANGYANG 쿤 텐 윈윈 샤오쥔 헨드리 양양 钱锟 李永钦 董思成 肖俊 黄冠亨 刘扬扬 \"NCT WISH\" \"엔시티 위시\" 엔시티 NCT SION RIKU YUSHI JAEHEE RYO SAKUYA 시온 리쿠",
+        "unsubscribedTrailer": "bXYcla36v_o",
+        "country": "KR"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/TtLfRG1gSurgqNgYPwJZBlUgEI0k3osqJX_xWJFrSvdH-08YzG2zIF2CiSX7F6xoW1K6FQyY"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "qVLBo0Hkirs_GELeaqC_7jeEW1E",
+    "id": "UCritGVo7pLJLUS8wEu32vow",
+    "snippet": {
+      "title": "i-dle (아이들)",
+      "description": "i-dle Official YouTube Channel\n아이들 공식 유튜브 채널입니다.\n\n미연, 민니, 소연, 우기, 슈화\nMIYEON, MINNIE, SOYEON, YUQI, SHUHUA\n\n",
+      "customUrl": "@official_i_dle",
+      "publishedAt": "2018-04-19T03:18:44Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/Z0pYcm-PI6zo0J3iS1Y-M4fNyKUji4D_DYehrB3icbtmCrwJy-e1Tm3FZ3Nm0cagcKaTAJymxg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/Z0pYcm-PI6zo0J3iS1Y-M4fNyKUji4D_DYehrB3icbtmCrwJy-e1Tm3FZ3Nm0cagcKaTAJymxg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/Z0pYcm-PI6zo0J3iS1Y-M4fNyKUji4D_DYehrB3icbtmCrwJy-e1Tm3FZ3Nm0cagcKaTAJymxg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "i-dle (아이들)",
+        "description": "i-dle Official YouTube Channel\n아이들 공식 유튜브 채널입니다.\n\n미연, 민니, 소연, 우기, 슈화\nMIYEON, MINNIE, SOYEON, YUQI, SHUHUA\n\n"
+      },
+      "country": "KR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUritGVo7pLJLUS8wEu32vow"
+      }
+    },
+    "statistics": {
+      "viewCount": "7778655470",
+      "subscriberCount": "9670000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "2362"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/019_rr",
+        "/m/028sqc",
+        "/m/064t9",
+        "/m/02jjt",
+        "/m/04rlf"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+        "https://en.wikipedia.org/wiki/Music_of_Asia",
+        "https://en.wikipedia.org/wiki/Pop_music",
+        "https://en.wikipedia.org/wiki/Entertainment",
+        "https://en.wikipedia.org/wiki/Music"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified",
+      "madeForKids": false
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "i-dle (아이들)",
+        "description": "i-dle Official YouTube Channel\n아이들 공식 유튜브 채널입니다.\n\n미연, 민니, 소연, 우기, 슈화\nMIYEON, MINNIE, SOYEON, YUQI, SHUHUA\n\n",
+        "keywords": "kpop g-idle (여자)아이들 (G)I-DLE IDLE 여자아이들 아이들 미연 민니 수진 소연 우기 슈화 MIYEON MINNIE SOOJIN SOYEON YUQI SHUHUA gidle",
+        "unsubscribedTrailer": "DYgE3SGPEqk",
+        "country": "KR"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/zzhDW4JkQ_59MQqgqwdZlP_00X_3sOP_9GxNtE7rwT42qRFkWNQJFyf98htkN1pdpaaAkygNrA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "_BtjF-DJttM2U_ksSt5UeUzq218",
+    "id": "UCc4K7bAqpdBP8jh1j9XZAww",
+    "snippet": {
+      "title": "The Beatles",
+      "description": "Home of the Fab Four\n",
+      "customUrl": "@thebeatles",
+      "publishedAt": "2005-11-24T01:40:05Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/L12IR2MG5EdAKB2wlZFIaWpfzBg67GTfnu3lcri_Zb5Z2wcWVMWYaEhMoGauiSHcbVOaLJRS2g=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/L12IR2MG5EdAKB2wlZFIaWpfzBg67GTfnu3lcri_Zb5Z2wcWVMWYaEhMoGauiSHcbVOaLJRS2g=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/L12IR2MG5EdAKB2wlZFIaWpfzBg67GTfnu3lcri_Zb5Z2wcWVMWYaEhMoGauiSHcbVOaLJRS2g=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "The Beatles",
+        "description": "Home of the Fab Four\n"
+      },
+      "country": "GB"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUc4K7bAqpdBP8jh1j9XZAww"
+      }
+    },
+    "statistics": {
+      "viewCount": "9119955119",
+      "subscriberCount": "9510000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "490"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/04rlf",
+        "/m/064t9",
+        "/m/06by7",
+        "/m/02jjt"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Music",
+        "https://en.wikipedia.org/wiki/Pop_music",
+        "https://en.wikipedia.org/wiki/Rock_music",
+        "https://en.wikipedia.org/wiki/Entertainment"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified",
+      "madeForKids": false
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "The Beatles",
+        "description": "Home of the Fab Four\n",
+        "keywords": "The Beatles Official Channel \"The Beatles\"",
+        "trackingAnalyticsAccountId": "UA-69053391-1",
+        "unsubscribedTrailer": "xRzaFgSsgH4",
+        "country": "GB"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/LHjZVc87Vi0PkJzM-mhiJjXqrHucTordWz24Jc2_3F2BaD-9ojZGtnn_l-pZK2_5SPfyBf3sAg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "9aTqj2WSTRLwiOfyWB09WhV9rVs",
+    "id": "UCPGFLUUESbnhkOTpIt71Awg",
+    "snippet": {
+      "title": "MariAndKids",
+      "description": "[말이야와아이들] 비즈니스 문의▶ mari@maridea.net\n말이야와 아이들 채널은 어린이를 위한 재미있는 놀이시간, 교육시간, 체험시간을 제공하는 채널이며 흥미진진한 장난감을 이용한 다양한 놀이, 재미있는 교육, 다양한 경험을 중시하는 체험 영상 등을 매일 매일 업로드 합니다 ♡ 재미있게 봐주세요 :)\n★ 채널시작: 2016.03\n★ 업로드 시간: 월~금 저녁 2시, 토~일(휴일) 아침 9시\n\n[말이야와아이들] 행복 전달하기:\n★ 구독 & 좋아요 & 이쁜댓글 & 공유는 말이야와 아이들을 행복하게 합니다 ♡\n★ 구독자 & 시청자 여러분 영상 재미있게 봐주셔서 항상 감사하고 모두 사랑합니다 :)\n★ 구독하기 클릭 주소 https://goo.gl/egpxCw\n\n[말이야와아이들] 비즈니스/연락하기: mari@maridea.net\n\n[MariAndKids] INFORMATION:\nMariAndKids channel that provides fun play time with toys, education for kids and children, exciting experience will be uploaded everyday.\n\"All about the fun things\" MariAndKids :)\nSubscribe our channel ▶ https://goo.gl/egpxCw\n\nCopyright ⓒ 2016 MarIDEA | MariAndKids (Creator DWHK) All Rights Reserved.\n해당 영상의 저작권은 마리디아 | 말이야와 아이들에게 있습니다. 이 영상을 공유하는 것은 가능하나 허가 없이 변경/배포는 불가합니다.",
+      "customUrl": "@mariandkids",
+      "publishedAt": "2016-03-02T14:44:37Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_nPXB8sfDynyAOPasDwoMKf2JOxtxhmEhs7U9xuM8NNPgU=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_nPXB8sfDynyAOPasDwoMKf2JOxtxhmEhs7U9xuM8NNPgU=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_nPXB8sfDynyAOPasDwoMKf2JOxtxhmEhs7U9xuM8NNPgU=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "defaultLanguage": "ko",
+      "localized": {
+        "title": "MariAndKids",
+        "description": "[말이야와아이들] 비즈니스 문의▶ mari@maridea.net\n말이야와 아이들 채널은 어린이를 위한 재미있는 놀이시간, 교육시간, 체험시간을 제공하는 채널이며 흥미진진한 장난감을 이용한 다양한 놀이, 재미있는 교육, 다양한 경험을 중시하는 체험 영상 등을 매일 매일 업로드 합니다 ♡ 재미있게 봐주세요 :)\n★ 채널시작: 2016.03\n★ 업로드 시간: 월~금 저녁 2시, 토~일(휴일) 아침 9시\n\n[말이야와아이들] 행복 전달하기:\n★ 구독 & 좋아요 & 이쁜댓글 & 공유는 말이야와 아이들을 행복하게 합니다 ♡\n★ 구독자 & 시청자 여러분 영상 재미있게 봐주셔서 항상 감사하고 모두 사랑합니다 :)\n★ 구독하기 클릭 주소 https://goo.gl/egpxCw\n\n[말이야와아이들] 비즈니스/연락하기: mari@maridea.net\n\n[MariAndKids] INFORMATION:\nMariAndKids channel that provides fun play time with toys, education for kids and children, exciting experience will be uploaded everyday.\n\"All about the fun things\" MariAndKids :)\nSubscribe our channel ▶ https://goo.gl/egpxCw\n\nCopyright ⓒ 2016 MarIDEA | MariAndKids (Creator DWHK) All Rights Reserved.\n해당 영상의 저작권은 마리디아 | 말이야와 아이들에게 있습니다. 이 영상을 공유하는 것은 가능하나 허가 없이 변경/배포는 불가합니다."
+      },
+      "country": "KR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUPGFLUUESbnhkOTpIt71Awg"
+      }
+    },
+    "statistics": {
+      "viewCount": "2278015130",
+      "subscriberCount": "7580000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "731"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/02jjt",
+        "/m/019_rr",
+        "/m/03glg"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Entertainment",
+        "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+        "https://en.wikipedia.org/wiki/Hobby"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "MariAndKids",
+        "description": "[말이야와아이들] 비즈니스 문의▶ mari@maridea.net\n말이야와 아이들 채널은 어린이를 위한 재미있는 놀이시간, 교육시간, 체험시간을 제공하는 채널이며 흥미진진한 장난감을 이용한 다양한 놀이, 재미있는 교육, 다양한 경험을 중시하는 체험 영상 등을 매일 매일 업로드 합니다 ♡ 재미있게 봐주세요 :)\n★ 채널시작: 2016.03\n★ 업로드 시간: 월~금 저녁 2시, 토~일(휴일) 아침 9시\n\n[말이야와아이들] 행복 전달하기:\n★ 구독 & 좋아요 & 이쁜댓글 & 공유는 말이야와 아이들을 행복하게 합니다 ♡\n★ 구독자 & 시청자 여러분 영상 재미있게 봐주셔서 항상 감사하고 모두 사랑합니다 :)\n★ 구독하기 클릭 주소 https://goo.gl/egpxCw\n\n[말이야와아이들] 비즈니스/연락하기: mari@maridea.net\n\n[MariAndKids] INFORMATION:\nMariAndKids channel that provides fun play time with toys, education for kids and children, exciting experience will be uploaded everyday.\n\"All about the fun things\" MariAndKids :)\nSubscribe our channel ▶ https://goo.gl/egpxCw\n\nCopyright ⓒ 2016 MarIDEA | MariAndKids (Creator DWHK) All Rights Reserved.\n해당 영상의 저작권은 마리디아 | 말이야와 아이들에게 있습니다. 이 영상을 공유하는 것은 가능하나 허가 없이 변경/배포는 불가합니다.",
+        "keywords": "\"말이야와 아이들\" MariAndKids 말이야",
+        "defaultLanguage": "ko",
+        "country": "KR"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/yOZH0ZHyxoR6fBEVicQbROhbk2m_h8tq-DU6gpuQYZrdjbZXY-1hKIdvYVDQmZr38gFxy7hXeA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "9vEKSa-9XlkYrwLFb2q9rPQ7Cg4",
+    "id": "UCx9hXYOCvUYwrprEqe4ZQHA",
+    "snippet": {
+      "title": "TREASURE (트레저)",
+      "description": "TREASURE Official YouTube Channel\n트레저 공식 유튜브 채널입니다.\n\nCHOI HYUN SUK, JIHOON, YOSHI, JUNKYU, YOON JAE HYUK, ASAHI, DOYOUNG, HARUTO, PARK JEONG WOO, SO JUNG HWAN\n최현석, 지훈, 요시, 준규, 윤재혁, 아사히, 도영, 하루토, 박정우, 소정환",
+      "customUrl": "@treasure",
+      "publishedAt": "2019-02-08T02:21:20Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/aUvewrJGTcI4ANkUkWnnwkDr0esbtIrWntgvCb1GWGnRAEKHePNCirzbC2YdoIdKSA0_c63XBQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/aUvewrJGTcI4ANkUkWnnwkDr0esbtIrWntgvCb1GWGnRAEKHePNCirzbC2YdoIdKSA0_c63XBQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/aUvewrJGTcI4ANkUkWnnwkDr0esbtIrWntgvCb1GWGnRAEKHePNCirzbC2YdoIdKSA0_c63XBQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "TREASURE (트레저)",
+        "description": "TREASURE Official YouTube Channel\n트레저 공식 유튜브 채널입니다.\n\nCHOI HYUN SUK, JIHOON, YOSHI, JUNKYU, YOON JAE HYUK, ASAHI, DOYOUNG, HARUTO, PARK JEONG WOO, SO JUNG HWAN\n최현석, 지훈, 요시, 준규, 윤재혁, 아사히, 도영, 하루토, 박정우, 소정환"
+      },
+      "country": "KR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUx9hXYOCvUYwrprEqe4ZQHA"
+      }
+    },
+    "statistics": {
+      "viewCount": "3695611066",
+      "subscriberCount": "7940000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "1702"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/04rlf",
+        "/m/02jjt",
+        "/m/028sqc"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Music",
+        "https://en.wikipedia.org/wiki/Entertainment",
+        "https://en.wikipedia.org/wiki/Music_of_Asia"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified",
+      "madeForKids": false
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "TREASURE (트레저)",
+        "description": "TREASURE Official YouTube Channel\n트레저 공식 유튜브 채널입니다.\n\nCHOI HYUN SUK, JIHOON, YOSHI, JUNKYU, YOON JAE HYUK, ASAHI, DOYOUNG, HARUTO, PARK JEONG WOO, SO JUNG HWAN\n최현석, 지훈, 요시, 준규, 윤재혁, 아사히, 도영, 하루토, 박정우, 소정환",
+        "keywords": "TREASURE 트레저 K-POP 케이팝 YG \"CHOI HYUN SUK\" JIHOON YOSHI JUNKYU \"YOON JAE HYUK\" ASAHI DOYOUNG HARUTO \"PARK JEONG WOO\" \"SO JUNG HWAN\" 최현석 지훈 요시 준규 윤재혁 아사히 도영 하루토 박정우 소정환",
+        "unsubscribedTrailer": "6z37Xv9dTT4",
+        "country": "KR"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/lFBxa-qdfIYkm-TVhwHIbsz4R3tfb2CiADLKR3beTFlBzw6CS5fd6yCle5rRuc3uVZ5pTRV1vw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "5ntdUgMa8zB3-YSfcfKOQc4jNuY",
+    "id": "UC6-BgjsBa5R3PZQ_kZ8hKPg",
+    "snippet": {
+      "title": "LLOUD Official",
+      "description": "LLOUD Official Youtube",
+      "customUrl": "@wearelloud",
+      "publishedAt": "2024-01-30T03:02:43.081326Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ZT8_CI_nisRYWvEybMR-EJavrqwZPqcSKmhOpAYJDA7K3HVQpRIRxqijl5dZPTHHFRIk274f8w=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ZT8_CI_nisRYWvEybMR-EJavrqwZPqcSKmhOpAYJDA7K3HVQpRIRxqijl5dZPTHHFRIk274f8w=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ZT8_CI_nisRYWvEybMR-EJavrqwZPqcSKmhOpAYJDA7K3HVQpRIRxqijl5dZPTHHFRIk274f8w=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "LLOUD Official",
+        "description": "LLOUD Official Youtube"
+      },
+      "country": "SG"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU6-BgjsBa5R3PZQ_kZ8hKPg"
+      }
+    },
+    "statistics": {
+      "viewCount": "2357612805",
+      "subscriberCount": "8590000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "79"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/04rlf",
+        "/m/028sqc",
+        "/m/064t9",
+        "/m/02lkt"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Music",
+        "https://en.wikipedia.org/wiki/Music_of_Asia",
+        "https://en.wikipedia.org/wiki/Pop_music",
+        "https://en.wikipedia.org/wiki/Electronic_music"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "LLOUD Official",
+        "description": "LLOUD Official Youtube",
+        "unsubscribedTrailer": "dKmPEhJ4wjY",
+        "country": "SG"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/1kwpOJ7PV6cD7K1X3sqZg0a10QsHyGMlpeRFt4qMU8d8yH7aAy-UBpvQas5FfDRoWDEj4auIbbw"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "pgbxbrHTofrh84797bI9yvQSL8k",
+    "id": "UCmjNKt6kITwaZTqvWuaSPLg",
+    "snippet": {
+      "title": "SBS Entertainment",
+      "description": "SBS 공식 예능 채널 SBS Entertainment입니다!\nSBS의 예능 프로그램을 클립별로 제공합니다.\n\n월 | 22:10~23:30 | 동상이몽2_너는 내 운명\n\n화 | 21:00~22:20 | 신발 벗고 돌싱포맨\n\n수 | 21:00~22:30 | 골 때리는 그녀들\n\n목 | 21:00~22:15 | 덩치서바이벌 먹찌빠\n\n일 | 18:15~19:40 | 미운 우리 새끼\n     | 21:05~23:05 | 미운 우리 새끼 \n\n\n➱SBS Official Website: http://www.sbs.co.kr\n\n➱SBS Official Entertainment Website: https://www.sbs.co.kr/tv/enter\n\n▶Contents Copyright and Sales inquiry: contentspartner@sbs.co.kr\nⓒSBS. Corp ALL RIGHTS RESERVED",
+      "customUrl": "@sbsenter.official",
+      "publishedAt": "2011-02-21T05:52:57Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/3A8COy3FuJc7voZpNhG_Ao1gGj8O-C_edb40_IjhX4l0UBc1rCYtICQs1w2EWnUqVmF7ZpSiubM=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/3A8COy3FuJc7voZpNhG_Ao1gGj8O-C_edb40_IjhX4l0UBc1rCYtICQs1w2EWnUqVmF7ZpSiubM=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/3A8COy3FuJc7voZpNhG_Ao1gGj8O-C_edb40_IjhX4l0UBc1rCYtICQs1w2EWnUqVmF7ZpSiubM=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "SBS Entertainment",
+        "description": "SBS 공식 예능 채널 SBS Entertainment입니다!\nSBS의 예능 프로그램을 클립별로 제공합니다.\n\n월 | 22:10~23:30 | 동상이몽2_너는 내 운명\n\n화 | 21:00~22:20 | 신발 벗고 돌싱포맨\n\n수 | 21:00~22:30 | 골 때리는 그녀들\n\n목 | 21:00~22:15 | 덩치서바이벌 먹찌빠\n\n일 | 18:15~19:40 | 미운 우리 새끼\n     | 21:05~23:05 | 미운 우리 새끼 \n\n\n➱SBS Official Website: http://www.sbs.co.kr\n\n➱SBS Official Entertainment Website: https://www.sbs.co.kr/tv/enter\n\n▶Contents Copyright and Sales inquiry: contentspartner@sbs.co.kr\nⓒSBS. Corp ALL RIGHTS RESERVED"
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUmjNKt6kITwaZTqvWuaSPLg"
+      }
+    },
+    "statistics": {
+      "viewCount": "10991290104",
+      "subscriberCount": "7490000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "242312"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/0f2f9",
+        "/m/02jjt",
+        "/m/02vx4"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Television_program",
+        "https://en.wikipedia.org/wiki/Entertainment",
+        "https://en.wikipedia.org/wiki/Association_football"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified",
+      "madeForKids": false
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "SBS Entertainment",
+        "description": "SBS 공식 예능 채널 SBS Entertainment입니다!\nSBS의 예능 프로그램을 클립별로 제공합니다.\n\n월 | 22:10~23:30 | 동상이몽2_너는 내 운명\n\n화 | 21:00~22:20 | 신발 벗고 돌싱포맨\n\n수 | 21:00~22:30 | 골 때리는 그녀들\n\n목 | 21:00~22:15 | 덩치서바이벌 먹찌빠\n\n일 | 18:15~19:40 | 미운 우리 새끼\n     | 21:05~23:05 | 미운 우리 새끼 \n\n\n➱SBS Official Website: http://www.sbs.co.kr\n\n➱SBS Official Entertainment Website: https://www.sbs.co.kr/tv/enter\n\n▶Contents Copyright and Sales inquiry: contentspartner@sbs.co.kr\nⓒSBS. Corp ALL RIGHTS RESERVED",
+        "keywords": "sbs ent ch 예능 강심장 인기가요 스타킹 초콜릿 웃찾사 다시보기 박명수 탁재훈 런닝맨 영웅호걸 한밤 자기야 붕어빵",
+        "trackingAnalyticsAccountId": "UA-77915534-1",
+        "unsubscribedTrailer": "7gHXr-ICsM4"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/k8CLoIPTjKOhtwfVJK9meXin_7BU8y8lWDUNJjATkjYQtiMlKUv-C-jvWofW-JtPNz0_AAbspQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "PEWuVTRJM71wOSszvX_ZbXrRIXY",
+    "id": "UCiBr0bK06imaMbLc8sAEz0A",
+    "snippet": {
+      "title": "MBCentertainment",
+      "description": "Welcome to the official YouTube page of MBC, MBCentertainment\nA perfect channel full of entertainment and fun!\nEnjoy our exclusive content, Subscribe and stay tuned for the latest updates!",
+      "customUrl": "@mbcentertainment",
+      "publishedAt": "2009-07-30T00:42:50Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_mFzRJydGE8SDVBDfbOro5OnaGX9Yre0-WoZ2ACD8_tcIU=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_mFzRJydGE8SDVBDfbOro5OnaGX9Yre0-WoZ2ACD8_tcIU=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_mFzRJydGE8SDVBDfbOro5OnaGX9Yre0-WoZ2ACD8_tcIU=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "MBCentertainment",
+        "description": "Welcome to the official YouTube page of MBC, MBCentertainment\nA perfect channel full of entertainment and fun!\nEnjoy our exclusive content, Subscribe and stay tuned for the latest updates!"
+      },
+      "country": "KR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUiBr0bK06imaMbLc8sAEz0A"
+      }
+    },
+    "statistics": {
+      "viewCount": "18973046672",
+      "subscriberCount": "9230000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "113613"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/02jjt",
+        "/m/0f2f9"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Entertainment",
+        "https://en.wikipedia.org/wiki/Television_program"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified",
+      "madeForKids": false
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "MBCentertainment",
+        "description": "Welcome to the official YouTube page of MBC, MBCentertainment\nA perfect channel full of entertainment and fun!\nEnjoy our exclusive content, Subscribe and stay tuned for the latest updates!",
+        "keywords": "MBC entertainment 예능 무한도전 오분순삭 KPOP 아이돌 리얼리티 버라이어티 한국 TV comedy gag show",
+        "unsubscribedTrailer": "14MVSICGqbQ",
+        "country": "KR"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/5BBEAPRKhPsO-L2rdb5-7MPWE331UrjXEFpJ0ZKo0EAXo1Ueyd6ZRMN4O8a-ALM6OQgxaGo8Ag"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "3-CE3oK-QuasEM9UWGc4Ixo3nCo",
+    "id": "UC497tVZykgrFrJvDXdI_-SA",
+    "snippet": {
+      "title": "Jin and Hattie",
+      "description": "저희 채널은 한국인이자 배우 허진우 그리구 영국인이자 모델 해티 진우와해티가 여러가지 영상들을 올리는 채널 이랍니다 !   \n장난꾸러기 커플로 시작해 약혼, 결혼, 그리고 저희의 배우,모델 방송 여정까지 모든 것이 담겨있는 채널이에요 이쁘게 봐주세요 :)\n\n협찬, 비지니스 문의는 contact.jinandhattie@gmail.com 으로 메일 주시면 48시간 내에는 원활한 소통이 가능합니다!\n\n진 인스타- doublejinw\n해티 인스타- hattieheo\n\nHello ! 진 and Hattie is about an international couple, who are a Korean Actor and a British Model In Korea!\nWe post videos about us having fun and our life! Please feel free to ask questions in any comment sections. \nAlways, thank you for visiting! Thank you for watching our channel!\n\nBusiness mail- contact.jinandhattie@gmail.com\nJin's Instagram- doublejinw\nHattie's instagram- hattieheo",
+      "customUrl": "@jinandhattie",
+      "publishedAt": "2020-01-25T12:37:18.703514Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/WSL028L6Ogb4s4F3SvKcZ7z_j53_cCu9HLhfWWJ9OdUUhGRtv3PGCYkbo5VJgx2qIycsNM5kGQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/WSL028L6Ogb4s4F3SvKcZ7z_j53_cCu9HLhfWWJ9OdUUhGRtv3PGCYkbo5VJgx2qIycsNM5kGQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/WSL028L6Ogb4s4F3SvKcZ7z_j53_cCu9HLhfWWJ9OdUUhGRtv3PGCYkbo5VJgx2qIycsNM5kGQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Jin and Hattie",
+        "description": "저희 채널은 한국인이자 배우 허진우 그리구 영국인이자 모델 해티 진우와해티가 여러가지 영상들을 올리는 채널 이랍니다 !   \n장난꾸러기 커플로 시작해 약혼, 결혼, 그리고 저희의 배우,모델 방송 여정까지 모든 것이 담겨있는 채널이에요 이쁘게 봐주세요 :)\n\n협찬, 비지니스 문의는 contact.jinandhattie@gmail.com 으로 메일 주시면 48시간 내에는 원활한 소통이 가능합니다!\n\n진 인스타- doublejinw\n해티 인스타- hattieheo\n\nHello ! 진 and Hattie is about an international couple, who are a Korean Actor and a British Model In Korea!\nWe post videos about us having fun and our life! Please feel free to ask questions in any comment sections. \nAlways, thank you for visiting! Thank you for watching our channel!\n\nBusiness mail- contact.jinandhattie@gmail.com\nJin's Instagram- doublejinw\nHattie's instagram- hattieheo"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU497tVZykgrFrJvDXdI_-SA"
+      }
+    },
+    "statistics": {
+      "viewCount": "8244233146",
+      "subscriberCount": "10200000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "975"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/019_rr",
+        "/m/02vxn",
+        "/m/02jjt",
+        "/m/02wbm"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+        "https://en.wikipedia.org/wiki/Film",
+        "https://en.wikipedia.org/wiki/Entertainment",
+        "https://en.wikipedia.org/wiki/Food"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Jin and Hattie",
+        "description": "저희 채널은 한국인이자 배우 허진우 그리구 영국인이자 모델 해티 진우와해티가 여러가지 영상들을 올리는 채널 이랍니다 !   \n장난꾸러기 커플로 시작해 약혼, 결혼, 그리고 저희의 배우,모델 방송 여정까지 모든 것이 담겨있는 채널이에요 이쁘게 봐주세요 :)\n\n협찬, 비지니스 문의는 contact.jinandhattie@gmail.com 으로 메일 주시면 48시간 내에는 원활한 소통이 가능합니다!\n\n진 인스타- doublejinw\n해티 인스타- hattieheo\n\nHello ! 진 and Hattie is about an international couple, who are a Korean Actor and a British Model In Korea!\nWe post videos about us having fun and our life! Please feel free to ask questions in any comment sections. \nAlways, thank you for visiting! Thank you for watching our channel!\n\nBusiness mail- contact.jinandhattie@gmail.com\nJin's Instagram- doublejinw\nHattie's instagram- hattieheo",
+        "keywords": "국제커플 국제연애 \"international couple\" \"international love\" \"Korean boyfriend\" \"British girlfriend\" \"영국 여자친구\" \"한국 남친\" \"외국인 여자친구\" \"외국인 여자\" \"Jin and Hattie\" \"진 앤 해티\" prank",
+        "unsubscribedTrailer": "nzt3yglrZ58",
+        "defaultLanguage": "en",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/yvjtVUEXhOzXmMsOO6QuMYVHfuHRjq7MxKxgFnyb0s1O8IBBpe2pZm2JY0xEaKGDmYiDX41S"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "rRGlltw08qizUlCTMau1Ot5EbQw",
+    "id": "UCXURHJRGr4-EB3l87kcbElw",
+    "snippet": {
+      "title": "NCT DREAM",
+      "description": "NCT DREAM 【Beat It Up】\n\nWelcome to NCT DREAM Official YouTube Channel",
+      "customUrl": "@nctdream",
+      "publishedAt": "2017-06-07T05:50:32Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/zueBt4nWmanBgh4z4W1-S5wbiOIESaXVad_TKTbeHlx97T8fKcbjyX-0iwGaPvZ8BQA1Esyybw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/zueBt4nWmanBgh4z4W1-S5wbiOIESaXVad_TKTbeHlx97T8fKcbjyX-0iwGaPvZ8BQA1Esyybw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/zueBt4nWmanBgh4z4W1-S5wbiOIESaXVad_TKTbeHlx97T8fKcbjyX-0iwGaPvZ8BQA1Esyybw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "NCT DREAM",
+        "description": "NCT DREAM 【Beat It Up】\n\nWelcome to NCT DREAM Official YouTube Channel"
+      },
+      "country": "KR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUXURHJRGr4-EB3l87kcbElw"
+      }
+    },
+    "statistics": {
+      "viewCount": "2438465478",
+      "subscriberCount": "7070000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "1366"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/064t9",
+        "/m/02jjt",
+        "/m/028sqc",
+        "/m/05qjc",
+        "/m/04rlf"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Pop_music",
+        "https://en.wikipedia.org/wiki/Entertainment",
+        "https://en.wikipedia.org/wiki/Music_of_Asia",
+        "https://en.wikipedia.org/wiki/Performing_arts",
+        "https://en.wikipedia.org/wiki/Music"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified",
+      "madeForKids": false
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "NCT DREAM",
+        "description": "NCT DREAM 【Beat It Up】\n\nWelcome to NCT DREAM Official YouTube Channel",
+        "keywords": "엔시티 엔시티드림 엔씨티 엔씨티드림 CHENLE 천러 RENJUN 런쥔 JISUNG 지성 JENO 제노 HAECHAN 해찬 JAEMIN 재민 Neo Culture Technology NCT MV Teaser Music Video SMTOWN",
+        "unsubscribedTrailer": "wvtNmMmcAYw",
+        "country": "KR"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/2_z_3YH2HRFHmMPnHwVn8q2yenvG4ACJD12Mtj_NPg8iunbVMJsnTYuIs4FH1xxi2OZnxOB8L24"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "OvOZvoMPydtndhyW_lUcF0Ik1xA",
+    "id": "UC3SyT4_WLHzN7JmHQwKQZww",
+    "snippet": {
+      "title": "이지금 [IU Official]",
+      "description": "아이유(IU) Official YouTube Channel",
+      "customUrl": "@dlwlrma",
+      "publishedAt": "2017-02-13T06:00:29Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/nDDHm_IlcdZsX82K4cCxtCL-Cn0ewpC_14WOOvWUJlksQFZZB-C_6I58MTlzyx_fbltTgNST=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/nDDHm_IlcdZsX82K4cCxtCL-Cn0ewpC_14WOOvWUJlksQFZZB-C_6I58MTlzyx_fbltTgNST=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/nDDHm_IlcdZsX82K4cCxtCL-Cn0ewpC_14WOOvWUJlksQFZZB-C_6I58MTlzyx_fbltTgNST=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "이지금 [IU Official]",
+        "description": "아이유(IU) Official YouTube Channel"
+      },
+      "country": "KR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU3SyT4_WLHzN7JmHQwKQZww"
+      }
+    },
+    "statistics": {
+      "viewCount": "4402835702",
+      "subscriberCount": "10300000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "544"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/064t9",
+        "/m/028sqc",
+        "/m/02jjt",
+        "/m/04rlf"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Pop_music",
+        "https://en.wikipedia.org/wiki/Music_of_Asia",
+        "https://en.wikipedia.org/wiki/Entertainment",
+        "https://en.wikipedia.org/wiki/Music"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified",
+      "madeForKids": false
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "이지금 [IU Official]",
+        "description": "아이유(IU) Official YouTube Channel",
+        "keywords": "아이유 IU 이지은 로엔 이지금 dlwlrma 이담 edam EDAM \"edam entertainment\" 이담엔터테인먼트 iu palette 팔레트 에잇 eight bluming 블루밍 삐삐 bbibbi 밤편지 마음 라일락 코인 호텔델루나 장만월 나의아저씨 이지안 shopper 쇼퍼 \"love wins all\" 럽윈올 대군부인 \"21세기 대군부인\" 21세기 성희주 캐슬그룹 관객 관객이될게 홀씨 holssi shh 꽃갈피 네모의꿈 \"never ending story\" 네버엔딩스토리 미인 빨간운동화 \"Last Scene\" \"10월 4일\" 바이썸머 \"bye summer\" 아이돌",
+        "unsubscribedTrailer": "6J9ixwhDYSM",
+        "country": "KR"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/Q7c7ephvjJvEDbDMp_M460lla9iDW9XZeNeYiClDQ-lPeCKcRCmREG_uMfa3QU2I1DErXOC9Cg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "RtmRxwMNvngICCxM1XLEtzzSONU",
+    "id": "UCWICXNlSLc7eeNazpzUZcLg",
+    "snippet": {
+      "title": "NLE CHOPPA",
+      "description": "SLUT ME OUT 4!! OUT NOW! \n\n",
+      "customUrl": "@nlechoppa",
+      "publishedAt": "2018-01-27T14:57:52Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/eU65m-KsrYSxxbYjJITepkY8EIYD1SLW0vVZSHZ-ZXF4o1OYnZKBaiBsQzvBVbV7Hd7eTqtPrtU=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/eU65m-KsrYSxxbYjJITepkY8EIYD1SLW0vVZSHZ-ZXF4o1OYnZKBaiBsQzvBVbV7Hd7eTqtPrtU=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/eU65m-KsrYSxxbYjJITepkY8EIYD1SLW0vVZSHZ-ZXF4o1OYnZKBaiBsQzvBVbV7Hd7eTqtPrtU=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "NLE CHOPPA",
+        "description": "SLUT ME OUT 4!! OUT NOW! \n\n"
+      },
+      "country": "US"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUWICXNlSLc7eeNazpzUZcLg"
+      }
+    },
+    "statistics": {
+      "viewCount": "4366981320",
+      "subscriberCount": "9260000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "1317"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/019_rr",
+        "/m/04rlf",
+        "/m/0glt670",
+        "/m/064t9"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+        "https://en.wikipedia.org/wiki/Music",
+        "https://en.wikipedia.org/wiki/Hip_hop_music",
+        "https://en.wikipedia.org/wiki/Pop_music"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified",
+      "madeForKids": false
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "NLE CHOPPA",
+        "description": "SLUT ME OUT 4!! OUT NOW! \n\n",
+        "keywords": "954-690-6766",
+        "trackingAnalyticsAccountId": "UA-85527854-8",
+        "unsubscribedTrailer": "WmgqnjNTWOk",
+        "country": "US"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/e5n5fGaiES4u5S-cMC0PbsVrm91QfO5Xcai7EscX_nAJ5Vtgv7RMSQ0C8VyuWNs1wgLacweypg"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "NatcL4ojxH7owUBJmyoUfBaYONo",
+    "id": "UCTQVIXvcHrR9jYoJ6qaBAow",
+    "snippet": {
+      "title": "M2",
+      "description": "Mnet Digital Studio, M2 \n엠넷 디지털 스튜디오, M2(엠투)\n\n비즈니스 및 광고 문의  Business Inquiries\n📧 mnetdigitalstudio@gmail.com\n\nⓒCJ ENM. Corp ALL RIGHTS RESERVED\n",
+      "customUrl": "@mnetm2",
+      "publishedAt": "2014-04-29T08:20:10Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/-CMwNSrdUuj-abbE1fB1ml62omQHViexCOp4IrDmans8QgqKC153dCgPk9wtBLJfXEP1gNGa=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/-CMwNSrdUuj-abbE1fB1ml62omQHViexCOp4IrDmans8QgqKC153dCgPk9wtBLJfXEP1gNGa=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/-CMwNSrdUuj-abbE1fB1ml62omQHViexCOp4IrDmans8QgqKC153dCgPk9wtBLJfXEP1gNGa=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "M2",
+        "description": "Mnet Digital Studio, M2 \n엠넷 디지털 스튜디오, M2(엠투)\n\n비즈니스 및 광고 문의  Business Inquiries\n📧 mnetdigitalstudio@gmail.com\n\nⓒCJ ENM. Corp ALL RIGHTS RESERVED\n"
+      },
+      "country": "KR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUTQVIXvcHrR9jYoJ6qaBAow"
+      }
+    },
+    "statistics": {
+      "viewCount": "11809771685",
+      "subscriberCount": "10600000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "31193"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/064t9",
+        "/m/028sqc",
+        "/m/04rlf"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Pop_music",
+        "https://en.wikipedia.org/wiki/Music_of_Asia",
+        "https://en.wikipedia.org/wiki/Music"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified",
+      "madeForKids": false
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "M2",
+        "description": "Mnet Digital Studio, M2 \n엠넷 디지털 스튜디오, M2(엠투)\n\n비즈니스 및 광고 문의  Business Inquiries\n📧 mnetdigitalstudio@gmail.com\n\nⓒCJ ENM. Corp ALL RIGHTS RESERVED\n",
+        "keywords": "M2 엠투 kpop K팝 mnet 엠넷 케이팝 mcountdown 엠카운트다운 mama 마마 mpd 엠피디 fancam 직캠",
+        "trackingAnalyticsAccountId": "UA-79737784-1",
+        "unsubscribedTrailer": "sXcKMoI8Qow",
+        "country": "KR"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/hyBU4lr-LF9nnkW5gmAXVE8sVoiARZoJM2UMrX_sUes5Qp3uYaQhNqFBTWRsUFeqm4_cyG-F5w"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "DC89ue9v2zX3pfmzKCGPlY-X4lI",
+    "id": "UCeLPm9yH_a_QH8n6445G-Ow",
+    "snippet": {
+      "title": "KBS Kpop",
+      "description": "[KBS 한국방송] 음악 전문 채널, KBS Kpop 입니다.\n[KBS Korean Broadcasting System] Official Music Channel, KBS kpop.\n\n\n[Business Contact] : officialstudiokk@gmail.com \n",
+      "customUrl": "@kbskpop",
+      "publishedAt": "2011-12-28T02:47:08Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/bfuCyrlo74z5K_0A1voFD7leSSlafqfb953tFQ4Oe5X9CFDN23X_vm07yV8f_YCY63dxBjiB=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/bfuCyrlo74z5K_0A1voFD7leSSlafqfb953tFQ4Oe5X9CFDN23X_vm07yV8f_YCY63dxBjiB=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/bfuCyrlo74z5K_0A1voFD7leSSlafqfb953tFQ4Oe5X9CFDN23X_vm07yV8f_YCY63dxBjiB=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "KBS Kpop",
+        "description": "[KBS 한국방송] 음악 전문 채널, KBS Kpop 입니다.\n[KBS Korean Broadcasting System] Official Music Channel, KBS kpop.\n\n\n[Business Contact] : officialstudiokk@gmail.com \n"
+      },
+      "country": "KR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUeLPm9yH_a_QH8n6445G-Ow"
+      }
+    },
+    "statistics": {
+      "viewCount": "12375923241",
+      "subscriberCount": "10200000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "64038"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/04rlf",
+        "/m/028sqc",
+        "/m/064t9"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Music",
+        "https://en.wikipedia.org/wiki/Music_of_Asia",
+        "https://en.wikipedia.org/wiki/Pop_music"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified",
+      "madeForKids": false
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "KBS Kpop",
+        "description": "[KBS 한국방송] 음악 전문 채널, KBS Kpop 입니다.\n[KBS Korean Broadcasting System] Official Music Channel, KBS kpop.\n\n\n[Business Contact] : officialstudiokk@gmail.com \n",
+        "keywords": "KBS KBS2 한국방송 케이비에스 음악 Music K-pop kpop 뮤직뱅크 뮤뱅 musicbank kbspop",
+        "unsubscribedTrailer": "xZAdQrxQ_6E",
+        "country": "KR"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/Q70wBZeJ1ooxdJOQLqtPxQzlOKqTDuWq7-gjyAocUly1nzFGcp1oDBdHh9MedUPAxoblIRfE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "N4oqVONeVn74L6L39xKnQ0BRSas",
+    "id": "UC3mY2SKYhPjqImtBBXsR6_Q",
+    "snippet": {
+      "title": "MayTree",
+      "description": "Back to the essence. MayTree Music Season 2\n",
+      "customUrl": "@maytreeofficial",
+      "publishedAt": "2014-01-27T19:42:52Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/QajKaf6_MXUHT7tFPlR-7Kkc8jDcK9V2fkEalIBUeVwbBVlI5SA9kj-jn7To9ytcKV4bsTHh=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/QajKaf6_MXUHT7tFPlR-7Kkc8jDcK9V2fkEalIBUeVwbBVlI5SA9kj-jn7To9ytcKV4bsTHh=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/QajKaf6_MXUHT7tFPlR-7Kkc8jDcK9V2fkEalIBUeVwbBVlI5SA9kj-jn7To9ytcKV4bsTHh=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "defaultLanguage": "ko",
+      "localized": {
+        "title": "MayTree",
+        "description": "Back to the essence. MayTree Music Season 2\n"
+      },
+      "country": "KR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU3mY2SKYhPjqImtBBXsR6_Q"
+      }
+    },
+    "statistics": {
+      "viewCount": "1430175",
+      "subscriberCount": "6360000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "4"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/04rlf",
+        "/m/064t9",
+        "/m/028sqc"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Music",
+        "https://en.wikipedia.org/wiki/Pop_music",
+        "https://en.wikipedia.org/wiki/Music_of_Asia"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified",
+      "madeForKids": false
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "MayTree",
+        "description": "Back to the essence. MayTree Music Season 2\n",
+        "keywords": "maytree acappella 메이트리 vocalplay 보컬플레이 아카펠라 ptx humaneffect acapella \"may tree\" 윈도우송 windowsong \"iphone effect\" 아이폰 애플 갤럭시 squidgame 오징어게임 사운드이펙트 카더가든 효과음",
+        "unsubscribedTrailer": "6nWXJuvdeq8",
+        "defaultLanguage": "ko",
+        "country": "KR"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/Iqxj-iYFF134QMUpd9aJzDdDEvGkHIa5ifJNdjTCFmnSlRLZkMvvSMej8Gj2E2Md72Wh2QP_IA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "bO7mLYcz_iWu2QLBPkBAspc1_V0",
+    "id": "UC9w-h_ciMmX64TcLRcb1xPg",
+    "snippet": {
+      "title": "tvN DRAMA",
+      "description": "",
+      "customUrl": "@tvndrama_official",
+      "publishedAt": "2011-11-08T08:08:51Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/crnwfWsJig2wkNfRQyX0oDvfiWk6NOYBEG0HgP8xDs4_oKmmJWB09ioEbLlBQhJB6HIFg_qT_IM=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/crnwfWsJig2wkNfRQyX0oDvfiWk6NOYBEG0HgP8xDs4_oKmmJWB09ioEbLlBQhJB6HIFg_qT_IM=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/crnwfWsJig2wkNfRQyX0oDvfiWk6NOYBEG0HgP8xDs4_oKmmJWB09ioEbLlBQhJB6HIFg_qT_IM=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "tvN DRAMA",
+        "description": ""
+      },
+      "country": "KR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU9w-h_ciMmX64TcLRcb1xPg"
+      }
+    },
+    "statistics": {
+      "viewCount": "10825337480",
+      "subscriberCount": "7460000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "78990"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/02vxn",
+        "/m/02jjt",
+        "/m/0f2f9"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Film",
+        "https://en.wikipedia.org/wiki/Entertainment",
+        "https://en.wikipedia.org/wiki/Television_program"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified",
+      "madeForKids": false
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "tvN DRAMA",
+        "keywords": "tvN DRAMA KDRAMA \"CJ ENM\" \"미씽 그들이 있었다2\" 환혼 \"환혼 빛과 그림자\" 슈룹 \"작은 아씨들\" 패밀리 스틸러",
+        "trackingAnalyticsAccountId": "UA-36472396-1",
+        "unsubscribedTrailer": "HL8CT6Y9w60",
+        "country": "KR"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/krLZgBwiD2wQaPmifMHFpWZz2NwyhZP32UcIPnpYPFU3GihZ8bbWnt5TwcMmI0zy72a5DDhTOA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "VE0fAKtUFX4Nn1sa2EZYtlC2VXA",
+    "id": "UCtzr07Iifce7-48Kw1phdzg",
+    "snippet": {
+      "title": "[장난감티비]TOYTV",
+      "description": "Welcome to [장난감TV]KidToy_kr 장난감티비\n\n파워레인저 또봇 뽀로로 타요 바이클론즈 라바 헬로카봇 브르이즈 다이노포스 요괴워치\n폴리 겨울왕국 디즈니주니어 미키마우스 오픈박스 동영상및 각종장난감 cf패러디\n토마스와 친구들 장난감 스톱모션 특수효과 동영상 장난감 놀이 \n\n\n\nRobocar Poli, Tayo, Pororo,Tobot, Power Rangers, Doraemon, Hello carbot, Larva, Kinder surprise eggs,\nBiklonz, Dino charge, Kyoryuger,토마스와 친구들 기차 장난감 놀이 thomas and friends accidents will happen Томас и его друзья Игрушки \nDolls Toys Disney Princess Frozen Elsa Anna Sofia The First Disney Junior MLP My Little Pony Princess LEGO Robocar Poli Pororo Tayo Tobot tomy tomica thomas and friends Excavators Toys\nКонструктор мультфильмы про машинки Игрушки Mickey Mouse Clubhouse Doctor Kit Octonauts Play Doh PlayDough The Little Mermaid Ariel, Snow White,\nアイカツ カード おもちゃ アナと雪の女王 ドール おもちゃ エルサ ロボカーポリー\nДисней принцесса кукла Свинка Пеппа Дисней юниоров Робокар Поли Игрушки мультфильмы про машинки\n\nto subscribe to my [장난감TV]KidToy_kr\n\n자 이제 출발해볼까요~~~",
+      "customUrl": "@toytvkr",
+      "publishedAt": "2014-07-20T07:11:18Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_lLr0fEQM5YNc03wa2Eg2fgQPb96nsUnBxuJkCSq8esMA=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_lLr0fEQM5YNc03wa2Eg2fgQPb96nsUnBxuJkCSq8esMA=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_lLr0fEQM5YNc03wa2Eg2fgQPb96nsUnBxuJkCSq8esMA=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "[장난감티비]TOYTV",
+        "description": "Welcome to [장난감TV]KidToy_kr 장난감티비\n\n파워레인저 또봇 뽀로로 타요 바이클론즈 라바 헬로카봇 브르이즈 다이노포스 요괴워치\n폴리 겨울왕국 디즈니주니어 미키마우스 오픈박스 동영상및 각종장난감 cf패러디\n토마스와 친구들 장난감 스톱모션 특수효과 동영상 장난감 놀이 \n\n\n\nRobocar Poli, Tayo, Pororo,Tobot, Power Rangers, Doraemon, Hello carbot, Larva, Kinder surprise eggs,\nBiklonz, Dino charge, Kyoryuger,토마스와 친구들 기차 장난감 놀이 thomas and friends accidents will happen Томас и его друзья Игрушки \nDolls Toys Disney Princess Frozen Elsa Anna Sofia The First Disney Junior MLP My Little Pony Princess LEGO Robocar Poli Pororo Tayo Tobot tomy tomica thomas and friends Excavators Toys\nКонструктор мультфильмы про машинки Игрушки Mickey Mouse Clubhouse Doctor Kit Octonauts Play Doh PlayDough The Little Mermaid Ariel, Snow White,\nアイカツ カード おもちゃ アナと雪の女王 ドール おもちゃ エルサ ロボカーポリー\nДисней принцесса кукла Свинка Пеппа Дисней юниоров Робокар Поли Игрушки мультфильмы про машинки\n\nto subscribe to my [장난감TV]KidToy_kr\n\n자 이제 출발해볼까요~~~"
+      },
+      "country": "KR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUtzr07Iifce7-48Kw1phdzg"
+      }
+    },
+    "statistics": {
+      "viewCount": "1337566019",
+      "subscriberCount": "6560000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "987"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/02jjt",
+        "/m/03glg",
+        "/m/019_rr",
+        "/m/02vxn"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Entertainment",
+        "https://en.wikipedia.org/wiki/Hobby",
+        "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+        "https://en.wikipedia.org/wiki/Film"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified",
+      "madeForKids": true
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "[장난감티비]TOYTV",
+        "description": "Welcome to [장난감TV]KidToy_kr 장난감티비\n\n파워레인저 또봇 뽀로로 타요 바이클론즈 라바 헬로카봇 브르이즈 다이노포스 요괴워치\n폴리 겨울왕국 디즈니주니어 미키마우스 오픈박스 동영상및 각종장난감 cf패러디\n토마스와 친구들 장난감 스톱모션 특수효과 동영상 장난감 놀이 \n\n\n\nRobocar Poli, Tayo, Pororo,Tobot, Power Rangers, Doraemon, Hello carbot, Larva, Kinder surprise eggs,\nBiklonz, Dino charge, Kyoryuger,토마스와 친구들 기차 장난감 놀이 thomas and friends accidents will happen Томас и его друзья Игрушки \nDolls Toys Disney Princess Frozen Elsa Anna Sofia The First Disney Junior MLP My Little Pony Princess LEGO Robocar Poli Pororo Tayo Tobot tomy tomica thomas and friends Excavators Toys\nКонструктор мультфильмы про машинки Игрушки Mickey Mouse Clubhouse Doctor Kit Octonauts Play Doh PlayDough The Little Mermaid Ariel, Snow White,\nアイカツ カード おもちゃ アナと雪の女王 ドール おもちゃ エルサ ロボカーポリー\nДисней принцесса кукла Свинка Пеппа Дисней юниоров Робокар Поли Игрушки мультфильмы про машинки\n\nto subscribe to my [장난감TV]KidToy_kr\n\n자 이제 출발해볼까요~~~",
+        "keywords": "\"영어 배우기\" 놀이 \"인기 동요\" 교육 \"알파벳 송\" \"페파 피그\" \"for kids songs\" \"Nursery Rhymes\" \"abc kids land\" \"abc drawing land\"",
+        "country": "KR"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/K2VjrjWjZuO9uVeMl15DwkwEWWaqhqKSVG9wNF6lr72FWaA_bBu6P_ykNzknwZJ1-D5eJ41EjA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "iUPCipMFt2TZtME3V5Outb5J1ww",
+    "id": "UCJedRe-OQCN-75DhLmG3VPQ",
+    "snippet": {
+      "title": "Boram Tube [宝蓝和朋友们]",
+      "description": "안녕하세요~^0^\n\n5살 보람이와 7살 코난 6살 또치삼촌이 재미있게 만들어 가는 채널이랍니다.\n\n보람이와 코난 또치삼촌은 모두 친구랍니다~^^ \n\n장난감, 챌린지게임, 상황극, 놀이, 여행등 재미있는 내용이 매일 업데이트 됩니다~ \n\n구독구독해서 사랑스런 보람이와 매일 만나보아요~^^ \n\n보람튜브 무료 구독하기♡ https://goo.gl/a2ERvp\n\n채널 구독과 좋아요는 보람튜브 채널에게 큰 힘이됩니다. \n\n항상 재미있고 즐겁고 유쾌한 영상으로 찾아올께요~ 여러분 감사합니다 사랑해용~ ^0^  \n\n\nHello~^0^.\n\nThis is the Tube that 5year old Boram, 7 year old Conan, 6 year old Thotchi and a mother are making.\n\nBoram, Conan and Thotchi are friends.\n\nWe are updating toys, challenges, playing, role playing and traveling everyday.\n\nSubscribe Boram Tube to see boram each day.\n\nTo subscribe boram tube for free : https://www.youtube.com/c/BoramTube보람튜브\n\nSubscribe and Like can be very powerful to us.\n\nWe will always bring funny interesting pleasant videos.\n\nThank you.\nWe love you all~ ^0^\n\n\n\n\n\n\n\n\n * 비지니스/광고/제휴 문의: boramtube@gmail.com",
+      "customUrl": "@boramtube4499",
+      "publishedAt": "2016-10-11T02:38:39Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_mvIi-Aw9WTQmRtf-sO1TyzDJ4qVU-Mmp79o4uns4SRvsY=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_mvIi-Aw9WTQmRtf-sO1TyzDJ4qVU-Mmp79o4uns4SRvsY=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_mvIi-Aw9WTQmRtf-sO1TyzDJ4qVU-Mmp79o4uns4SRvsY=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "Boram Tube [宝蓝和朋友们]",
+        "description": "안녕하세요~^0^\n\n5살 보람이와 7살 코난 6살 또치삼촌이 재미있게 만들어 가는 채널이랍니다.\n\n보람이와 코난 또치삼촌은 모두 친구랍니다~^^ \n\n장난감, 챌린지게임, 상황극, 놀이, 여행등 재미있는 내용이 매일 업데이트 됩니다~ \n\n구독구독해서 사랑스런 보람이와 매일 만나보아요~^^ \n\n보람튜브 무료 구독하기♡ https://goo.gl/a2ERvp\n\n채널 구독과 좋아요는 보람튜브 채널에게 큰 힘이됩니다. \n\n항상 재미있고 즐겁고 유쾌한 영상으로 찾아올께요~ 여러분 감사합니다 사랑해용~ ^0^  \n\n\nHello~^0^.\n\nThis is the Tube that 5year old Boram, 7 year old Conan, 6 year old Thotchi and a mother are making.\n\nBoram, Conan and Thotchi are friends.\n\nWe are updating toys, challenges, playing, role playing and traveling everyday.\n\nSubscribe Boram Tube to see boram each day.\n\nTo subscribe boram tube for free : https://www.youtube.com/c/BoramTube보람튜브\n\nSubscribe and Like can be very powerful to us.\n\nWe will always bring funny interesting pleasant videos.\n\nThank you.\nWe love you all~ ^0^\n\n\n\n\n\n\n\n\n * 비지니스/광고/제휴 문의: boramtube@gmail.com"
+      },
+      "country": "KR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUJedRe-OQCN-75DhLmG3VPQ"
+      }
+    },
+    "statistics": {
+      "viewCount": "2686359575",
+      "subscriberCount": "9420000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "631"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/03glg",
+        "/m/019_rr"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Hobby",
+        "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "Boram Tube [宝蓝和朋友们]",
+        "description": "안녕하세요~^0^\n\n5살 보람이와 7살 코난 6살 또치삼촌이 재미있게 만들어 가는 채널이랍니다.\n\n보람이와 코난 또치삼촌은 모두 친구랍니다~^^ \n\n장난감, 챌린지게임, 상황극, 놀이, 여행등 재미있는 내용이 매일 업데이트 됩니다~ \n\n구독구독해서 사랑스런 보람이와 매일 만나보아요~^^ \n\n보람튜브 무료 구독하기♡ https://goo.gl/a2ERvp\n\n채널 구독과 좋아요는 보람튜브 채널에게 큰 힘이됩니다. \n\n항상 재미있고 즐겁고 유쾌한 영상으로 찾아올께요~ 여러분 감사합니다 사랑해용~ ^0^  \n\n\nHello~^0^.\n\nThis is the Tube that 5year old Boram, 7 year old Conan, 6 year old Thotchi and a mother are making.\n\nBoram, Conan and Thotchi are friends.\n\nWe are updating toys, challenges, playing, role playing and traveling everyday.\n\nSubscribe Boram Tube to see boram each day.\n\nTo subscribe boram tube for free : https://www.youtube.com/c/BoramTube보람튜브\n\nSubscribe and Like can be very powerful to us.\n\nWe will always bring funny interesting pleasant videos.\n\nThank you.\nWe love you all~ ^0^\n\n\n\n\n\n\n\n\n * 비지니스/광고/제휴 문의: boramtube@gmail.com",
+        "keywords": "보람튜브 \"Boram Tube [宝蓝和朋友们]\"",
+        "unsubscribedTrailer": "YygpU69qhVQ",
+        "country": "KR"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/y_WQ1SQ0Iw4Pub2XHQ1a-iNEojUCqAcdkN3aZkT2xkRtMfpUJ0fV_To3un892ksDv9KRifZgLQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "4Wyq1i9rK1ZcHkpLTJGjRlvuomo",
+    "id": "UCDhM2k2Cua-JdobAh5moMFg",
+    "snippet": {
+      "title": "ITZY",
+      "description": "ITZY 'Motto'\nhttps://itzy.lnk.to/Motto\n\n💿 ALBUM RELEASE\n2026.05.18 MON 6PM (KST) | 5AM (ET)\n\n#ITZY #MIDZY\n#ITZYComeback\n#ITZY_Motto",
+      "customUrl": "@itzy",
+      "publishedAt": "2019-01-14T08:52:03Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/1qxMo9q4kYHpknKWHNmdzlX4vAqV8j35QD9PZt_EeEKfbJqeYhn2w7Cbr2PXfaSDlmeBN58LMg=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/1qxMo9q4kYHpknKWHNmdzlX4vAqV8j35QD9PZt_EeEKfbJqeYhn2w7Cbr2PXfaSDlmeBN58LMg=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/1qxMo9q4kYHpknKWHNmdzlX4vAqV8j35QD9PZt_EeEKfbJqeYhn2w7Cbr2PXfaSDlmeBN58LMg=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "ITZY",
+        "description": "ITZY 'Motto'\nhttps://itzy.lnk.to/Motto\n\n💿 ALBUM RELEASE\n2026.05.18 MON 6PM (KST) | 5AM (ET)\n\n#ITZY #MIDZY\n#ITZYComeback\n#ITZY_Motto"
+      },
+      "country": "KR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUDhM2k2Cua-JdobAh5moMFg"
+      }
+    },
+    "statistics": {
+      "viewCount": "4062871061",
+      "subscriberCount": "9910000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "2474"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/028sqc",
+        "/m/04rlf",
+        "/m/02jjt"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Music_of_Asia",
+        "https://en.wikipedia.org/wiki/Music",
+        "https://en.wikipedia.org/wiki/Entertainment"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "ITZY",
+        "description": "ITZY 'Motto'\nhttps://itzy.lnk.to/Motto\n\n💿 ALBUM RELEASE\n2026.05.18 MON 6PM (KST) | 5AM (ET)\n\n#ITZY #MIDZY\n#ITZYComeback\n#ITZY_Motto",
+        "keywords": "ITZY 있지 MIDZY 믿지 JYPEntertainment 제이와이피엔터테인먼트 예지 리아 류진 채령 유나 yeji lia ryujin chaeryeong yuna",
+        "unsubscribedTrailer": "GPd_c3_lNwA",
+        "country": "KR"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/FCh-DFbE4I10b-tIyn5Tgz969qwKvflJi7woLTQWkS9sx6gNEHDd3DJ0EA4XGKlClKOnImhWLw4"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "TuiBcWj9PwG4Nnxr7eLdEP_gorQ",
+    "id": "UCiiV8stcewhoCNyiErr7GtA",
+    "snippet": {
+      "title": "야미보이 Yummyboy",
+      "description": "길거리음식을 심도있고 지루하지 않게!  \n\n좋은영상 만들고자 항상 노력하는 야미보이 입니다\n오늘도 시청해주시고 응원해주셔서 감사합니다\n\nStreet food in depth and not boring!\n \nYummy boy is always trying to make a good video. \nThank you for watching and cheering\n \n\nmail : yuns33333@naver.com",
+      "customUrl": "@yummyboys",
+      "publishedAt": "2018-12-08T12:25:26Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_k_IWs7Y-fh-HzCZlyQCVVkXMxrLDclBu6VyfMbbnpWQBk=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_k_IWs7Y-fh-HzCZlyQCVVkXMxrLDclBu6VyfMbbnpWQBk=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_k_IWs7Y-fh-HzCZlyQCVVkXMxrLDclBu6VyfMbbnpWQBk=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "defaultLanguage": "ko",
+      "localized": {
+        "title": "야미보이 Yummyboy",
+        "description": "길거리음식을 심도있고 지루하지 않게!  \n\n좋은영상 만들고자 항상 노력하는 야미보이 입니다\n오늘도 시청해주시고 응원해주셔서 감사합니다\n\nStreet food in depth and not boring!\n \nYummy boy is always trying to make a good video. \nThank you for watching and cheering\n \n\nmail : yuns33333@naver.com"
+      },
+      "country": "KR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUiiV8stcewhoCNyiErr7GtA"
+      }
+    },
+    "statistics": {
+      "viewCount": "3695269203",
+      "subscriberCount": "7970000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "1231"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/02wbm",
+        "/m/019_rr"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Food",
+        "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified",
+      "madeForKids": false
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "야미보이 Yummyboy",
+        "description": "길거리음식을 심도있고 지루하지 않게!  \n\n좋은영상 만들고자 항상 노력하는 야미보이 입니다\n오늘도 시청해주시고 응원해주셔서 감사합니다\n\nStreet food in depth and not boring!\n \nYummy boy is always trying to make a good video. \nThank you for watching and cheering\n \n\nmail : yuns33333@naver.com",
+        "keywords": "길거리음식 \"Korean food\" \"street food\" 야시장",
+        "defaultLanguage": "ko",
+        "country": "KR"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/_AGfVx8bHg5b2TnA7l0q2V47BudBdEmFZeBn9UWEXqqFLLnqy4W7al33gSO9u7Rj0FGtor2HiCE"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "CWz76TZ13K1-Wj2FmB-a4R98ZfY",
+    "id": "UC6erIDuvbOaAO-OT5rB2Xew",
+    "snippet": {
+      "title": "SBS 스브스 Drama",
+      "description": "SBS 공식 드라마 채널 SBS Drama입니다!\nSBS 스브스 드라마 프로그램을 클립별로 제공합니다.\n\n➱SBS Official Website: http://www.sbs.co.kr\n\n➱SBS Official Drama Website: https://www.sbs.co.kr/tv/drama\n\n▶Contents Copyright and Sales inquiry: contentspartner@sbs.co.kr\nⓒSBS. Corp ALL RIGHTS RESERVED",
+      "customUrl": "@sbsdrama.official",
+      "publishedAt": "2011-02-21T06:03:56Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/3hQ43_TCjHDHCmFcELKbAxjnilFMaOrepsoa3r_U-RHaCHWc8iz9NsY48OEsGhEMjHwfxc-x6g=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/3hQ43_TCjHDHCmFcELKbAxjnilFMaOrepsoa3r_U-RHaCHWc8iz9NsY48OEsGhEMjHwfxc-x6g=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/3hQ43_TCjHDHCmFcELKbAxjnilFMaOrepsoa3r_U-RHaCHWc8iz9NsY48OEsGhEMjHwfxc-x6g=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "SBS 스브스 Drama",
+        "description": "SBS 공식 드라마 채널 SBS Drama입니다!\nSBS 스브스 드라마 프로그램을 클립별로 제공합니다.\n\n➱SBS Official Website: http://www.sbs.co.kr\n\n➱SBS Official Drama Website: https://www.sbs.co.kr/tv/drama\n\n▶Contents Copyright and Sales inquiry: contentspartner@sbs.co.kr\nⓒSBS. Corp ALL RIGHTS RESERVED"
+      },
+      "country": "KR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU6erIDuvbOaAO-OT5rB2Xew"
+      }
+    },
+    "statistics": {
+      "viewCount": "8651832633",
+      "subscriberCount": "7020000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "353057"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/02vxn",
+        "/m/02jjt",
+        "/m/0f2f9"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Film",
+        "https://en.wikipedia.org/wiki/Entertainment",
+        "https://en.wikipedia.org/wiki/Television_program"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified",
+      "madeForKids": false
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "SBS 스브스 Drama",
+        "description": "SBS 공식 드라마 채널 SBS Drama입니다!\nSBS 스브스 드라마 프로그램을 클립별로 제공합니다.\n\n➱SBS Official Website: http://www.sbs.co.kr\n\n➱SBS Official Drama Website: https://www.sbs.co.kr/tv/drama\n\n▶Contents Copyright and Sales inquiry: contentspartner@sbs.co.kr\nⓒSBS. Corp ALL RIGHTS RESERVED",
+        "keywords": "SBS Drama 드라마 금토드라마 SBS드라마",
+        "trackingAnalyticsAccountId": "UA-77933911-1",
+        "unsubscribedTrailer": "Mrl5evJdUVI",
+        "country": "KR"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/xVAA4HTAm9AcPw7cThDwibn_eXSaXPVBfA7DSuMfcXG0cn40Jikh2cLkeEkMtB4NQPr3Ggfa"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "-t9c3gkcX-gJxhn7UCjoYgpsd3E",
+    "id": "UC5vVe2R4ucoMzJP53o38Yaw",
+    "snippet": {
+      "title": "The Wiggles",
+      "description": "Welcome to The Wiggles YouTube channel, where you'll find all types of fun toddler tunes - from playful kids songs and classic nursery rhymes, to educational children's music and exciting dance tracks!\n\nJoin us on a musical journey designed to engage young minds and promote early learning. With colourful performances and interactive content, we aim to create a joyful learning experience for children. Little ones will develop essential skills while having a blast!\n\nAcross our videos, you'll get to know each of The Wiggles: Tsehay; Lachy; Simon; Anthony; Caterina; John; Evie and Lucia - as well as all our Wiggly friends: Dorothy the Dinosaur; Wags the Dog; Henry the Octopus, Captain Feathersword, and of course, The Tree of Wisdom! \n\nSubscribe now and let us fill your child's world with laughter, imagination, and the magic of music. \n\n#TheWiggles #KidsSongs #NurseryRhymes #Toddler #KidsMusic #Learning #Preschool #PreschoolLearning #ChildrensMusic \n",
+      "customUrl": "@thewiggles",
+      "publishedAt": "2007-04-04T14:19:48Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/NYkVY0zjC2bivn1UOGmgCpsFl0y48SaMqv7qyzUaT4S67WEK-NLCA_CYSau16nfwXwiGRljT=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/NYkVY0zjC2bivn1UOGmgCpsFl0y48SaMqv7qyzUaT4S67WEK-NLCA_CYSau16nfwXwiGRljT=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/NYkVY0zjC2bivn1UOGmgCpsFl0y48SaMqv7qyzUaT4S67WEK-NLCA_CYSau16nfwXwiGRljT=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "The Wiggles",
+        "description": "Welcome to The Wiggles YouTube channel, where you'll find all types of fun toddler tunes - from playful kids songs and classic nursery rhymes, to educational children's music and exciting dance tracks!\n\nJoin us on a musical journey designed to engage young minds and promote early learning. With colourful performances and interactive content, we aim to create a joyful learning experience for children. Little ones will develop essential skills while having a blast!\n\nAcross our videos, you'll get to know each of The Wiggles: Tsehay; Lachy; Simon; Anthony; Caterina; John; Evie and Lucia - as well as all our Wiggly friends: Dorothy the Dinosaur; Wags the Dog; Henry the Octopus, Captain Feathersword, and of course, The Tree of Wisdom! \n\nSubscribe now and let us fill your child's world with laughter, imagination, and the magic of music. \n\n#TheWiggles #KidsSongs #NurseryRhymes #Toddler #KidsMusic #Learning #Preschool #PreschoolLearning #ChildrensMusic \n"
+      },
+      "country": "AU"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU5vVe2R4ucoMzJP53o38Yaw"
+      }
+    },
+    "statistics": {
+      "viewCount": "5588072640",
+      "subscriberCount": "10500000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "1308"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/05qjc",
+        "/m/02jjt",
+        "/m/0f2f9",
+        "/m/04rlf",
+        "/m/064t9"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Performing_arts",
+        "https://en.wikipedia.org/wiki/Entertainment",
+        "https://en.wikipedia.org/wiki/Television_program",
+        "https://en.wikipedia.org/wiki/Music",
+        "https://en.wikipedia.org/wiki/Pop_music"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified",
+      "madeForKids": true
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "The Wiggles",
+        "description": "Welcome to The Wiggles YouTube channel, where you'll find all types of fun toddler tunes - from playful kids songs and classic nursery rhymes, to educational children's music and exciting dance tracks!\n\nJoin us on a musical journey designed to engage young minds and promote early learning. With colourful performances and interactive content, we aim to create a joyful learning experience for children. Little ones will develop essential skills while having a blast!\n\nAcross our videos, you'll get to know each of The Wiggles: Tsehay; Lachy; Simon; Anthony; Caterina; John; Evie and Lucia - as well as all our Wiggly friends: Dorothy the Dinosaur; Wags the Dog; Henry the Octopus, Captain Feathersword, and of course, The Tree of Wisdom! \n\nSubscribe now and let us fill your child's world with laughter, imagination, and the magic of music. \n\n#TheWiggles #KidsSongs #NurseryRhymes #Toddler #KidsMusic #Learning #Preschool #PreschoolLearning #ChildrensMusic \n",
+        "keywords": "\"nursery rhymes\" \"kids music\" \"children's music\" lullabies \"the wiggles\" preschool kindergarten \"early childhood\" \"wheels on the bus\" \"baby shark\" singalong abc educational childcare kids children toddlers animation music alphabet counting education childhood babies learning educational \"dorothy the dinosaur\" tsehay anthony emma \"fruit salad\" \"hokey pokey\" learning toddler \"ms rachel\" cocomelon blippi nursery baby dance kids daycare teacher \"home school\" edutainment wiggle pre-school pre-k",
+        "unsubscribedTrailer": "F0piSsW-vLY",
+        "country": "AU"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/E-97kJyVd_KOkyvbBjuKzlfnMCUnimPWGAC7d-4mjGjpQN-9tpn0hUMFGvzGrQn1zT_DyXbEhQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "eFfcUD3lzouAUT0B9HjmhZznBnc",
+    "id": "UCWxCyZibDIWIrGIgP25mbfw",
+    "snippet": {
+      "title": "iKON",
+      "description": "iKON Official YouTube Channel\n아이콘 공식 유튜브 채널입니다.\n\nJAY, BOBBY, SONG, JU-NE, DK, CHAN\n김진환, BOBBY, 송윤형, 구준회, 김동혁, 정찬우",
+      "customUrl": "@ikon",
+      "publishedAt": "2014-09-03T02:28:23Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/Rydo3NnLlM_EfXkaY04nhpsEzzMaEy6bzFxT2jw9axtyPkNcVOA0nZuXPGRNAF_CG5mfvQrpSw=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/Rydo3NnLlM_EfXkaY04nhpsEzzMaEy6bzFxT2jw9axtyPkNcVOA0nZuXPGRNAF_CG5mfvQrpSw=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/Rydo3NnLlM_EfXkaY04nhpsEzzMaEy6bzFxT2jw9axtyPkNcVOA0nZuXPGRNAF_CG5mfvQrpSw=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "iKON",
+        "description": "iKON Official YouTube Channel\n아이콘 공식 유튜브 채널입니다.\n\nJAY, BOBBY, SONG, JU-NE, DK, CHAN\n김진환, BOBBY, 송윤형, 구준회, 김동혁, 정찬우"
+      }
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUWxCyZibDIWIrGIgP25mbfw"
+      }
+    },
+    "statistics": {
+      "viewCount": "2995006888",
+      "subscriberCount": "8670000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "868"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/04rlf",
+        "/m/028sqc",
+        "/m/02jjt",
+        "/m/064t9"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Music",
+        "https://en.wikipedia.org/wiki/Music_of_Asia",
+        "https://en.wikipedia.org/wiki/Entertainment",
+        "https://en.wikipedia.org/wiki/Pop_music"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified",
+      "madeForKids": false
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "iKON",
+        "description": "iKON Official YouTube Channel\n아이콘 공식 유튜브 채널입니다.\n\nJAY, BOBBY, SONG, JU-NE, DK, CHAN\n김진환, BOBBY, 송윤형, 구준회, 김동혁, 정찬우",
+        "keywords": "YG 아이콘 iKON B.I 김진환 BOBBY 송윤형 구준회 김동혁 정찬우 비아이 바비 143",
+        "trackingAnalyticsAccountId": "UA-40059621-18",
+        "unsubscribedTrailer": "8vYCLIKAVH8"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/NdJ6Iy3csdp2H6t9QIsiEWrFzqoeqTvvEbxAC7tQkOE_ASH3c_4mZ5ORSKYlspOAxeKXI7pDiQ"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "AKJZ2q1xUsHiJkemFkGjivI9R1I",
+    "id": "UCscjd-azZ1AqHxxrO6YDIQg",
+    "snippet": {
+      "title": "베이비버스 -인기 동요・동화",
+      "description": "베이비버스를 타고 신나는 모험여행을 떠나요!\n\n* 베이비버스는 사랑스러운 판다 캐릭터 키키, 묘묘를 주인공으로 12개 언어로 3000여편 이상의 동요 및 동화 애니메이션을 제작하였고, 지속적으로 새로운 시리즈를 런칭하고 있습니다.\n* 베이비버스 애니메이션은 몬테소리 기반의 교육콘텐츠로 유아 성장 단계의 특징에 따라 구성되어 있고 ,창의력을 키우는 자기주도적 놀이방식으로 어린이의 두뇌발달과 자기계발에 도움을 줍니다.\n* 신나는 동요, 동화뿐만 아니라 미취학 어린이 대상의 교육용 어플리케이션 '베이비버스 '로도 잘 알려져있습니다.\n\n",
+      "customUrl": "@babybusko",
+      "publishedAt": "2016-08-31T02:48:32Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_lcu2PPM7-qrGHmMr8-5e5HJ0ouM2ThMcxwaUrbzNnvJoo=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_lcu2PPM7-qrGHmMr8-5e5HJ0ouM2ThMcxwaUrbzNnvJoo=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/ytc/AIdro_lcu2PPM7-qrGHmMr8-5e5HJ0ouM2ThMcxwaUrbzNnvJoo=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "베이비버스 -인기 동요・동화",
+        "description": "베이비버스를 타고 신나는 모험여행을 떠나요!\n\n* 베이비버스는 사랑스러운 판다 캐릭터 키키, 묘묘를 주인공으로 12개 언어로 3000여편 이상의 동요 및 동화 애니메이션을 제작하였고, 지속적으로 새로운 시리즈를 런칭하고 있습니다.\n* 베이비버스 애니메이션은 몬테소리 기반의 교육콘텐츠로 유아 성장 단계의 특징에 따라 구성되어 있고 ,창의력을 키우는 자기주도적 놀이방식으로 어린이의 두뇌발달과 자기계발에 도움을 줍니다.\n* 신나는 동요, 동화뿐만 아니라 미취학 어린이 대상의 교육용 어플리케이션 '베이비버스 '로도 잘 알려져있습니다.\n\n"
+      },
+      "country": "KR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUscjd-azZ1AqHxxrO6YDIQg"
+      }
+    },
+    "statistics": {
+      "viewCount": "6641242644",
+      "subscriberCount": "7340000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "2634"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/04rlf",
+        "/m/02vxn",
+        "/m/02jjt"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Music",
+        "https://en.wikipedia.org/wiki/Film",
+        "https://en.wikipedia.org/wiki/Entertainment"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified",
+      "madeForKids": true
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "베이비버스 -인기 동요・동화",
+        "description": "베이비버스를 타고 신나는 모험여행을 떠나요!\n\n* 베이비버스는 사랑스러운 판다 캐릭터 키키, 묘묘를 주인공으로 12개 언어로 3000여편 이상의 동요 및 동화 애니메이션을 제작하였고, 지속적으로 새로운 시리즈를 런칭하고 있습니다.\n* 베이비버스 애니메이션은 몬테소리 기반의 교육콘텐츠로 유아 성장 단계의 특징에 따라 구성되어 있고 ,창의력을 키우는 자기주도적 놀이방식으로 어린이의 두뇌발달과 자기계발에 도움을 줍니다.\n* 신나는 동요, 동화뿐만 아니라 미취학 어린이 대상의 교육용 어플리케이션 '베이비버스 '로도 잘 알려져있습니다.\n\n",
+        "keywords": "베이비버스 키키묘묘 동요 동화 유아교육 \"어린이 교육\" 애니메이션 \"인기 동요\" 안전교육 누리과정 어린이노래 BabyBus 영어동요 키키묘묘 인기동화 학습동요 생활습관 \"어린이 노래\" 키즈 율동 아동",
+        "unsubscribedTrailer": "uMUlNCDPSiM",
+        "country": "KR"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/VYHlKgu8Z83Bw5ycQG4Y8R86c3_UQurEZ2XKhN1PE2g4wGBp8oZykpcXvd66TTZpVo0rF1E7"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "LKr-Vn8LwC9Ri5XnOYoOBehxo88",
+    "id": "UC03jtg6Imz882ZCPnB7bZ0w",
+    "snippet": {
+      "title": "5 분 Tricks",
+      "description": "재미있는 DIY 프로젝트, 공예품, 직접 체험하는 기쁨을 경험하십시오!\n\n브랜드 파트너십 문의: https://www.thesoul-publishing.com/partner\n협업 문의: https://www.thesoul-publishing.com/partner\n\n\n",
+      "customUrl": "@5minutecrafts_korean",
+      "publishedAt": "2018-07-12T10:17:18Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/cPcnyvblj7f31J5YEmbK5mb7hiFjkTCI37MHUtTc1ZD8BqymOGwOqAdMxvefLkHgIEBbo0QB9qQ=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/cPcnyvblj7f31J5YEmbK5mb7hiFjkTCI37MHUtTc1ZD8BqymOGwOqAdMxvefLkHgIEBbo0QB9qQ=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/cPcnyvblj7f31J5YEmbK5mb7hiFjkTCI37MHUtTc1ZD8BqymOGwOqAdMxvefLkHgIEBbo0QB9qQ=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "5 분 Tricks",
+        "description": "재미있는 DIY 프로젝트, 공예품, 직접 체험하는 기쁨을 경험하십시오!\n\n브랜드 파트너십 문의: https://www.thesoul-publishing.com/partner\n협업 문의: https://www.thesoul-publishing.com/partner\n\n\n"
+      },
+      "country": "KR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UU03jtg6Imz882ZCPnB7bZ0w"
+      }
+    },
+    "statistics": {
+      "viewCount": "3249395323",
+      "subscriberCount": "7000000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "6574"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/03glg",
+        "/m/019_rr"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Hobby",
+        "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified",
+      "madeForKids": false
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "5 분 Tricks",
+        "description": "재미있는 DIY 프로젝트, 공예품, 직접 체험하는 기쁨을 경험하십시오!\n\n브랜드 파트너십 문의: https://www.thesoul-publishing.com/partner\n협업 문의: https://www.thesoul-publishing.com/partner\n\n\n",
+        "keywords": "DIY lifehacks hacks \"샐활 해킹\" 꿀팁 트릭",
+        "unsubscribedTrailer": "csQtQ6Q9mFs",
+        "country": "KR"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/EtAsGj3UO_L5TcSxtCRf5XU9o5kNFUwk-fiLQOBsA6DOujCA6imVVs3UEt-2rhqxGIIFdtnsHA"
+      }
+    }
+  },
+  {
+    "kind": "youtube#channel",
+    "etag": "_pb3WphQ4CkifD7wE1duUP_dQIY",
+    "id": "UCuhAUMLzJxlP1W7mEk0_6lA",
+    "snippet": {
+      "title": "MAMAMOO",
+      "description": "MAMAMOO(마마무) OFFICIAL CHANNEL",
+      "customUrl": "@mamamoo_official",
+      "publishedAt": "2014-05-30T02:31:45Z",
+      "thumbnails": {
+        "default": {
+          "url": "https://yt3.ggpht.com/V0y6r38_i7SmDNtJRg_HTwIRl6xKVAWcO-YLEDrmdyVSYa0XaYvRrJQt0SJjJYHuRda8_fGYPt0=s88-c-k-c0x00ffffff-no-rj",
+          "width": 88,
+          "height": 88
+        },
+        "medium": {
+          "url": "https://yt3.ggpht.com/V0y6r38_i7SmDNtJRg_HTwIRl6xKVAWcO-YLEDrmdyVSYa0XaYvRrJQt0SJjJYHuRda8_fGYPt0=s240-c-k-c0x00ffffff-no-rj",
+          "width": 240,
+          "height": 240
+        },
+        "high": {
+          "url": "https://yt3.ggpht.com/V0y6r38_i7SmDNtJRg_HTwIRl6xKVAWcO-YLEDrmdyVSYa0XaYvRrJQt0SJjJYHuRda8_fGYPt0=s800-c-k-c0x00ffffff-no-rj",
+          "width": 800,
+          "height": 800
+        }
+      },
+      "localized": {
+        "title": "MAMAMOO",
+        "description": "MAMAMOO(마마무) OFFICIAL CHANNEL"
+      },
+      "country": "KR"
+    },
+    "contentDetails": {
+      "relatedPlaylists": {
+        "likes": "",
+        "uploads": "UUuhAUMLzJxlP1W7mEk0_6lA"
+      }
+    },
+    "statistics": {
+      "viewCount": "2932076021",
+      "subscriberCount": "6830000",
+      "hiddenSubscriberCount": false,
+      "videoCount": "1278"
+    },
+    "topicDetails": {
+      "topicIds": [
+        "/m/028sqc",
+        "/m/04rlf",
+        "/m/064t9",
+        "/m/02jjt"
+      ],
+      "topicCategories": [
+        "https://en.wikipedia.org/wiki/Music_of_Asia",
+        "https://en.wikipedia.org/wiki/Music",
+        "https://en.wikipedia.org/wiki/Pop_music",
+        "https://en.wikipedia.org/wiki/Entertainment"
+      ]
+    },
+    "status": {
+      "privacyStatus": "public",
+      "isLinked": true,
+      "longUploadsStatus": "longUploadsUnspecified"
+    },
+    "brandingSettings": {
+      "channel": {
+        "title": "MAMAMOO",
+        "description": "MAMAMOO(마마무) OFFICIAL CHANNEL",
+        "keywords": "마마무 MAMAMOO",
+        "unsubscribedTrailer": "pLKOEfMc09E",
+        "country": "KR"
+      },
+      "image": {
+        "bannerExternalUrl": "https://yt3.googleusercontent.com/pFtFn9_RYZDaOwEzBi8FtcPcFUGKJvneYEWwDxoMV0xDVfu6-FW1iFiwFrvLlHD8crtsH-H7"
+      }
+    }
+  }
+]

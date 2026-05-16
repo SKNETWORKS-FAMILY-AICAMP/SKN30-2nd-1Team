@@ -1,0 +1,2210 @@
+{
+  "idx": 6129,
+  "channel_id": "UCqCC8BEX4NCoc-0WT-XL7zQ",
+  "channel_title": "양세브라더스",
+  "playlist_items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "djT91BsNyGD38kWZZXrcs0gpSM4",
+      "id": "VVVxQ0M4QkVYNE5Db2MtMFdULVhMN3pRLnpTdFZtZVNuYjFJ",
+      "snippet": {
+        "publishedAt": "2020-11-13T08:30:02Z",
+        "channelId": "UCqCC8BEX4NCoc-0WT-XL7zQ",
+        "title": "Eng Sub 양세형양세찬 해물라면 먹방!!!",
+        "description": "맛있게 먹었습니다~\n잼있게 봐주세요^^",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zStVmeSnb1I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zStVmeSnb1I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zStVmeSnb1I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zStVmeSnb1I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zStVmeSnb1I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "양세브라더스",
+        "playlistId": "UUqCC8BEX4NCoc-0WT-XL7zQ",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zStVmeSnb1I"
+        },
+        "videoOwnerChannelTitle": "양세브라더스",
+        "videoOwnerChannelId": "UCqCC8BEX4NCoc-0WT-XL7zQ"
+      },
+      "contentDetails": {
+        "videoId": "zStVmeSnb1I",
+        "videoPublishedAt": "2020-11-13T08:30:02Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "M7ISxSCCIcP6yfq6sIx54JCCAa0",
+      "id": "VVVxQ0M4QkVYNE5Db2MtMFdULVhMN3pRLlB5Rmk2ZDFkZXdZ",
+      "snippet": {
+        "publishedAt": "2020-10-29T10:13:39Z",
+        "channelId": "UCqCC8BEX4NCoc-0WT-XL7zQ",
+        "title": "Eng Sub 양세브라더스 딘딘 어머님 집밥얻어먹기",
+        "description": "딘딘네 집에서 밥먹고 왔습니다\n잼있게 봐주세요^^",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PyFi6d1dewY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PyFi6d1dewY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PyFi6d1dewY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PyFi6d1dewY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PyFi6d1dewY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "양세브라더스",
+        "playlistId": "UUqCC8BEX4NCoc-0WT-XL7zQ",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "PyFi6d1dewY"
+        },
+        "videoOwnerChannelTitle": "양세브라더스",
+        "videoOwnerChannelId": "UCqCC8BEX4NCoc-0WT-XL7zQ"
+      },
+      "contentDetails": {
+        "videoId": "PyFi6d1dewY",
+        "videoPublishedAt": "2020-10-29T10:13:39Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "BCxGXz0n83cdT2vKTf_bWcAWMQo",
+      "id": "VVVxQ0M4QkVYNE5Db2MtMFdULVhMN3pRLkxwZXdLUkx4SzJr",
+      "snippet": {
+        "publishedAt": "2020-09-22T08:52:23Z",
+        "channelId": "UCqCC8BEX4NCoc-0WT-XL7zQ",
+        "title": "양세찬 코미디빅리그 출근길퇴근길 촬영감독 양세형",
+        "description": "코빅 출근길영상 이제올립니다^^\n잼있게봐주세요~~ ㅋ",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LpewKRLxK2k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LpewKRLxK2k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LpewKRLxK2k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LpewKRLxK2k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LpewKRLxK2k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "양세브라더스",
+        "playlistId": "UUqCC8BEX4NCoc-0WT-XL7zQ",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "LpewKRLxK2k"
+        },
+        "videoOwnerChannelTitle": "양세브라더스",
+        "videoOwnerChannelId": "UCqCC8BEX4NCoc-0WT-XL7zQ"
+      },
+      "contentDetails": {
+        "videoId": "LpewKRLxK2k",
+        "videoPublishedAt": "2020-09-22T08:52:23Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "GNBXHt_zyRDsNylB8tPCPhPUZVY",
+      "id": "VVVxQ0M4QkVYNE5Db2MtMFdULVhMN3pRLnlRZU8wN1BhbVJz",
+      "snippet": {
+        "publishedAt": "2020-09-08T12:30:50Z",
+        "channelId": "UCqCC8BEX4NCoc-0WT-XL7zQ",
+        "title": "양세형 양세찬 후라이드치킨 양념치킨 먹방🍗🍗🍗",
+        "description": "집에서 치킨만들어먹었어요~~^^\n\n영상잼있게봐주세요♡",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yQeO07PamRs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yQeO07PamRs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yQeO07PamRs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yQeO07PamRs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yQeO07PamRs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "양세브라더스",
+        "playlistId": "UUqCC8BEX4NCoc-0WT-XL7zQ",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "yQeO07PamRs"
+        },
+        "videoOwnerChannelTitle": "양세브라더스",
+        "videoOwnerChannelId": "UCqCC8BEX4NCoc-0WT-XL7zQ"
+      },
+      "contentDetails": {
+        "videoId": "yQeO07PamRs",
+        "videoPublishedAt": "2020-09-08T12:30:50Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "38prfKs0afH0CMmcO8RRs7A_dZE",
+      "id": "VVVxQ0M4QkVYNE5Db2MtMFdULVhMN3pRLjdKSzBPM1BuT0FV",
+      "snippet": {
+        "publishedAt": "2020-08-15T11:18:44Z",
+        "channelId": "UCqCC8BEX4NCoc-0WT-XL7zQ",
+        "title": "양세형 양세찬  롤 실력!!!",
+        "description": "동료들과5인큐 했습니다 ㅋㅋㅋ\n잼있게봐주세요^^",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7JK0O3PnOAU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7JK0O3PnOAU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7JK0O3PnOAU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7JK0O3PnOAU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7JK0O3PnOAU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "양세브라더스",
+        "playlistId": "UUqCC8BEX4NCoc-0WT-XL7zQ",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7JK0O3PnOAU"
+        },
+        "videoOwnerChannelTitle": "양세브라더스",
+        "videoOwnerChannelId": "UCqCC8BEX4NCoc-0WT-XL7zQ"
+      },
+      "contentDetails": {
+        "videoId": "7JK0O3PnOAU",
+        "videoPublishedAt": "2020-08-15T11:18:44Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "eoiSlKH8m6jGTPW_fT2vIo6bNng",
+      "id": "VVVxQ0M4QkVYNE5Db2MtMFdULVhMN3pRLm4yYkdFN3dHU1Q0",
+      "snippet": {
+        "publishedAt": "2020-07-22T13:05:20Z",
+        "channelId": "UCqCC8BEX4NCoc-0WT-XL7zQ",
+        "title": "양세브라더스 MBTI 이런결과가???",
+        "description": "여러분들의 댓글중 엠비티아이 했으면 좋겠다고 하시는분들이 많아서 뒤늦게 올립니다^^ 그리고 양세브라더스 여러분들의 호칭을 정하려고 합니다 괜찮은 아이디어 있으면 빌려 쓸게요^^♡♡♡ 앞으로도 여러분들의 구독이 헛되이지않도록 잘해나가겠습니다~~~☆☆☆\n\n댓글쓰시면서 호칭도 생각나면 적어주세요^^\n좋아요 많은 호칭으로 정하겠습니다*^-------^*",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/n2bGE7wGST4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/n2bGE7wGST4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/n2bGE7wGST4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/n2bGE7wGST4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/n2bGE7wGST4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "양세브라더스",
+        "playlistId": "UUqCC8BEX4NCoc-0WT-XL7zQ",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "n2bGE7wGST4"
+        },
+        "videoOwnerChannelTitle": "양세브라더스",
+        "videoOwnerChannelId": "UCqCC8BEX4NCoc-0WT-XL7zQ"
+      },
+      "contentDetails": {
+        "videoId": "n2bGE7wGST4",
+        "videoPublishedAt": "2020-07-22T13:05:20Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "nBA-vbeliACpTzpnOHhDRcQO_3k",
+      "id": "VVVxQ0M4QkVYNE5Db2MtMFdULVhMN3pRLldRcjlBc04yTl9Z",
+      "snippet": {
+        "publishedAt": "2020-06-01T10:08:00Z",
+        "channelId": "UCqCC8BEX4NCoc-0WT-XL7zQ",
+        "title": "양세형 양세찬 열라면5봉먹방 청양고추20개",
+        "description": "오랜만에 라면먹방했습니다\n정말 맛있게 매워요ㅋㅋ한번드셔보세요ㅋ\n잼있게보세요ㅋㅋ",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WQr9AsN2N_Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WQr9AsN2N_Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WQr9AsN2N_Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WQr9AsN2N_Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WQr9AsN2N_Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "양세브라더스",
+        "playlistId": "UUqCC8BEX4NCoc-0WT-XL7zQ",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WQr9AsN2N_Y"
+        },
+        "videoOwnerChannelTitle": "양세브라더스",
+        "videoOwnerChannelId": "UCqCC8BEX4NCoc-0WT-XL7zQ"
+      },
+      "contentDetails": {
+        "videoId": "WQr9AsN2N_Y",
+        "videoPublishedAt": "2020-06-01T10:08:00Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "iGSLzSwSQeJfaHktnICCmacrj4M",
+      "id": "VVVxQ0M4QkVYNE5Db2MtMFdULVhMN3pRLk5FaC1WdkNhamtj",
+      "snippet": {
+        "publishedAt": "2020-05-17T08:37:31Z",
+        "channelId": "UCqCC8BEX4NCoc-0WT-XL7zQ",
+        "title": "양세형 출근길퇴근길 촬영감독:양세찬",
+        "description": "안녕하세요 너무오랜만에영상올립니다~^^\n세형이형출근길퇴근길 궁금해하시는분을위해서\n찍어봤습니다 잼있게봐주세요~~",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NEh-VvCajkc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NEh-VvCajkc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NEh-VvCajkc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NEh-VvCajkc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NEh-VvCajkc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "양세브라더스",
+        "playlistId": "UUqCC8BEX4NCoc-0WT-XL7zQ",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NEh-VvCajkc"
+        },
+        "videoOwnerChannelTitle": "양세브라더스",
+        "videoOwnerChannelId": "UCqCC8BEX4NCoc-0WT-XL7zQ"
+      },
+      "contentDetails": {
+        "videoId": "NEh-VvCajkc",
+        "videoPublishedAt": "2020-05-17T08:37:31Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_zQuXM5yy_uf96Ge95A4I5whCvg",
+      "id": "VVVxQ0M4QkVYNE5Db2MtMFdULVhMN3pRLnQzUjJkdGJKdF84",
+      "snippet": {
+        "publishedAt": "2020-03-23T08:54:03Z",
+        "channelId": "UCqCC8BEX4NCoc-0WT-XL7zQ",
+        "title": "양세브라더스 양세형 양세찬 형제들의 침묵속 삼겹살 먹방!!!!!!!",
+        "description": "소리없이먹었습니다ㅋ\n잼있게봐주세요^^",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/t3R2dtbJt_8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/t3R2dtbJt_8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/t3R2dtbJt_8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/t3R2dtbJt_8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/t3R2dtbJt_8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "양세브라더스",
+        "playlistId": "UUqCC8BEX4NCoc-0WT-XL7zQ",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "t3R2dtbJt_8"
+        },
+        "videoOwnerChannelTitle": "양세브라더스",
+        "videoOwnerChannelId": "UCqCC8BEX4NCoc-0WT-XL7zQ"
+      },
+      "contentDetails": {
+        "videoId": "t3R2dtbJt_8",
+        "videoPublishedAt": "2020-03-23T08:54:03Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "pJeaFf3RUod5affLgNF7Ue1g6zs",
+      "id": "VVVxQ0M4QkVYNE5Db2MtMFdULVhMN3pRLjZkZ2xnLUl5aFg0",
+      "snippet": {
+        "publishedAt": "2020-02-16T06:05:25Z",
+        "channelId": "UCqCC8BEX4NCoc-0WT-XL7zQ",
+        "title": "양세브라더스 쿡방!!! 명란떡국 만들기♡♡♡",
+        "description": "전참시 녹화이후 명란떡국을 해먹어봤는데\n너무 맛있어서 찍어놨다가 방송이후에 올립니다^^\n이대로 한번 꼭 해서 드셔보세용!!!!!!!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6dglg-IyhX4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6dglg-IyhX4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6dglg-IyhX4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6dglg-IyhX4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6dglg-IyhX4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "양세브라더스",
+        "playlistId": "UUqCC8BEX4NCoc-0WT-XL7zQ",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "6dglg-IyhX4"
+        },
+        "videoOwnerChannelTitle": "양세브라더스",
+        "videoOwnerChannelId": "UCqCC8BEX4NCoc-0WT-XL7zQ"
+      },
+      "contentDetails": {
+        "videoId": "6dglg-IyhX4",
+        "videoPublishedAt": "2020-02-16T06:05:25Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_uOD4g0OQAHkTimBXgn92YjW9k8",
+      "id": "VVVxQ0M4QkVYNE5Db2MtMFdULVhMN3pRLlVWTVdYQjZnZnpr",
+      "snippet": {
+        "publishedAt": "2020-02-12T07:11:04Z",
+        "channelId": "UCqCC8BEX4NCoc-0WT-XL7zQ",
+        "title": "양세형 양세찬 형제 롤 봇듀오 환상의 호흡",
+        "description": "즐겁게 롤 했습니다\n티어는 비공개!!!ㅋㅋㅋ",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UVMWXB6gfzk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UVMWXB6gfzk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UVMWXB6gfzk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UVMWXB6gfzk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UVMWXB6gfzk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "양세브라더스",
+        "playlistId": "UUqCC8BEX4NCoc-0WT-XL7zQ",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "UVMWXB6gfzk"
+        },
+        "videoOwnerChannelTitle": "양세브라더스",
+        "videoOwnerChannelId": "UCqCC8BEX4NCoc-0WT-XL7zQ"
+      },
+      "contentDetails": {
+        "videoId": "UVMWXB6gfzk",
+        "videoPublishedAt": "2020-02-12T07:11:04Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "PIJepHpOzMNfc0brUqXP2pwYawE",
+      "id": "VVVxQ0M4QkVYNE5Db2MtMFdULVhMN3pRLnJJQmc5ZEtaSnZn",
+      "snippet": {
+        "publishedAt": "2020-01-12T09:48:55Z",
+        "channelId": "UCqCC8BEX4NCoc-0WT-XL7zQ",
+        "title": "독희천재견 테스트!!!good girl🦴🦴🦴",
+        "description": "형이랑 저랑바뻐서 엄마가왔다갔다\n하면서 옥희독희 봐주고있어요~~~\n이제 엄마 말을 더잘들어요ㅋㅋㅋ\nGOOD GIRL~~~",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rIBg9dKZJvg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rIBg9dKZJvg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rIBg9dKZJvg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rIBg9dKZJvg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rIBg9dKZJvg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "양세브라더스",
+        "playlistId": "UUqCC8BEX4NCoc-0WT-XL7zQ",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "rIBg9dKZJvg"
+        },
+        "videoOwnerChannelTitle": "양세브라더스",
+        "videoOwnerChannelId": "UCqCC8BEX4NCoc-0WT-XL7zQ"
+      },
+      "contentDetails": {
+        "videoId": "rIBg9dKZJvg",
+        "videoPublishedAt": "2020-01-12T09:48:55Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "FAF-jkv7HubnU3yiLbCe6fY7xIY",
+      "id": "VVVxQ0M4QkVYNE5Db2MtMFdULVhMN3pRLjdrYWtTUDNFLUpz",
+      "snippet": {
+        "publishedAt": "2020-01-04T09:52:00Z",
+        "channelId": "UCqCC8BEX4NCoc-0WT-XL7zQ",
+        "title": "양세형 양세찬 라면먹방🍜🍜🍜",
+        "description": "평소에 면을 좋아하는 양세브라더스\n유튜브선배님들의 먹방 퀄리티는 아니지만 소소하게 도전해봤습니다\n지금 양세브라더스가 하고싶은 컨텐츠가 너무 많습니다 여러분들의 반응에 따라 줄이고 늘려나갈게요\n새해복 듬~~~뿍 받으세요^^",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7kakSP3E-Js/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7kakSP3E-Js/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7kakSP3E-Js/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7kakSP3E-Js/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7kakSP3E-Js/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "양세브라더스",
+        "playlistId": "UUqCC8BEX4NCoc-0WT-XL7zQ",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7kakSP3E-Js"
+        },
+        "videoOwnerChannelTitle": "양세브라더스",
+        "videoOwnerChannelId": "UCqCC8BEX4NCoc-0WT-XL7zQ"
+      },
+      "contentDetails": {
+        "videoId": "7kakSP3E-Js",
+        "videoPublishedAt": "2020-01-04T09:52:00Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_fJdAbh5zoTlefR4gePjwUnj_eU",
+      "id": "VVVxQ0M4QkVYNE5Db2MtMFdULVhMN3pRLk9HWF9VYjQ5cEtV",
+      "snippet": {
+        "publishedAt": "2019-12-29T06:47:36Z",
+        "channelId": "UCqCC8BEX4NCoc-0WT-XL7zQ",
+        "title": "오랜만이야 옥희독희♡  데헷 쿵♡",
+        "description": "옥희독희 보고하시는분들 많아서\n영상올려요^^본영상은 양세엄마집에서\n촬영했습니다 잼있게봐주세요^^",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OGX_Ub49pKU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OGX_Ub49pKU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OGX_Ub49pKU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OGX_Ub49pKU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OGX_Ub49pKU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "양세브라더스",
+        "playlistId": "UUqCC8BEX4NCoc-0WT-XL7zQ",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "OGX_Ub49pKU"
+        },
+        "videoOwnerChannelTitle": "양세브라더스",
+        "videoOwnerChannelId": "UCqCC8BEX4NCoc-0WT-XL7zQ"
+      },
+      "contentDetails": {
+        "videoId": "OGX_Ub49pKU",
+        "videoPublishedAt": "2019-12-29T06:47:36Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_wFINMY_rEQ8nhGyAS31oXHzcMM",
+      "id": "VVVxQ0M4QkVYNE5Db2MtMFdULVhMN3pRLkxWY3pxbklVRUhz",
+      "snippet": {
+        "publishedAt": "2019-12-17T09:10:16Z",
+        "channelId": "UCqCC8BEX4NCoc-0WT-XL7zQ",
+        "title": "양세브라더스 첫 대결 당구편!!!",
+        "description": "어렸을때 부터 승부욕이 강했던 우리형제\n이젠 그 승부를 가리자\n(참고로 룰 이런거 우리 맘대로 함)\n\n과연 그 승자는???\n\n편집 오티비 채널 주인 오인택\n인택이형 고마워♡",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LVczqnIUEHs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LVczqnIUEHs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LVczqnIUEHs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LVczqnIUEHs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LVczqnIUEHs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "양세브라더스",
+        "playlistId": "UUqCC8BEX4NCoc-0WT-XL7zQ",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "LVczqnIUEHs"
+        },
+        "videoOwnerChannelTitle": "양세브라더스",
+        "videoOwnerChannelId": "UCqCC8BEX4NCoc-0WT-XL7zQ"
+      },
+      "contentDetails": {
+        "videoId": "LVczqnIUEHs",
+        "videoPublishedAt": "2019-12-17T09:10:16Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "TSNHTkLmpL5IZTRrxBz8eIB_HV4",
+      "id": "VVVxQ0M4QkVYNE5Db2MtMFdULVhMN3pRLnJpd1dlSkFjWjRB",
+      "snippet": {
+        "publishedAt": "2019-12-05T05:33:18Z",
+        "channelId": "UCqCC8BEX4NCoc-0WT-XL7zQ",
+        "title": "양세형, 양세찬 첫 유튜브!!!😂😄😃😆😍",
+        "description": "처음 해보는거여서 어색한게 많습니다\n브이로그 말고도 이것저것 찍고 싶은게 많은데 \n하나하나 잘 해보겠습니다 ㅋㅋㅋ\n재밌게 봐주세요~~~~~🎆🎇✨🎉🎃\n\n영상편집자 - 전국여행TV\n(이친구도 유튜브하니까 많이 봐주세요)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/riwWeJAcZ4A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/riwWeJAcZ4A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/riwWeJAcZ4A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/riwWeJAcZ4A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/riwWeJAcZ4A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "양세브라더스",
+        "playlistId": "UUqCC8BEX4NCoc-0WT-XL7zQ",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "riwWeJAcZ4A"
+        },
+        "videoOwnerChannelTitle": "양세브라더스",
+        "videoOwnerChannelId": "UCqCC8BEX4NCoc-0WT-XL7zQ"
+      },
+      "contentDetails": {
+        "videoId": "riwWeJAcZ4A",
+        "videoPublishedAt": "2019-12-05T05:33:18Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "video_details": [
+    {
+      "kind": "youtube#video",
+      "etag": "PpdajTL_dFIkpPfp3W2vGp2tpNQ",
+      "id": "zStVmeSnb1I",
+      "snippet": {
+        "publishedAt": "2020-11-13T08:30:02Z",
+        "channelId": "UCqCC8BEX4NCoc-0WT-XL7zQ",
+        "title": "Eng Sub 양세형양세찬 해물라면 먹방!!!",
+        "description": "맛있게 먹었습니다~\n잼있게 봐주세요^^",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zStVmeSnb1I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zStVmeSnb1I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zStVmeSnb1I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zStVmeSnb1I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zStVmeSnb1I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "양세브라더스",
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "Eng Sub 양세형양세찬 해물라면 먹방!!!",
+          "description": "맛있게 먹었습니다~\n잼있게 봐주세요^^"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT12M28S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1083192",
+        "likeCount": "17199",
+        "favoriteCount": "0",
+        "commentCount": "1603"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Food",
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "Eng Sub 양세형양세찬 해물라면 먹방!!!",
+          "description": "맛있게 먹었습니다~\n잼있게 봐주세요^^"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "T_VVyDm1rzqKvgUhBGAB9aIK__w",
+      "id": "PyFi6d1dewY",
+      "snippet": {
+        "publishedAt": "2020-10-29T10:13:39Z",
+        "channelId": "UCqCC8BEX4NCoc-0WT-XL7zQ",
+        "title": "Eng Sub 양세브라더스 딘딘 어머님 집밥얻어먹기",
+        "description": "딘딘네 집에서 밥먹고 왔습니다\n잼있게 봐주세요^^",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PyFi6d1dewY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PyFi6d1dewY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PyFi6d1dewY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PyFi6d1dewY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PyFi6d1dewY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "양세브라더스",
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "Eng Sub 양세브라더스 딘딘 어머님 집밥얻어먹기",
+          "description": "딘딘네 집에서 밥먹고 왔습니다\n잼있게 봐주세요^^"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT13M38S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1267201",
+        "likeCount": "18861",
+        "favoriteCount": "0",
+        "commentCount": "1120"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Food",
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "Eng Sub 양세브라더스 딘딘 어머님 집밥얻어먹기",
+          "description": "딘딘네 집에서 밥먹고 왔습니다\n잼있게 봐주세요^^"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "9TWFUnk9etIbQ3Jes9DLHkwBG1c",
+      "id": "LpewKRLxK2k",
+      "snippet": {
+        "publishedAt": "2020-09-22T08:52:23Z",
+        "channelId": "UCqCC8BEX4NCoc-0WT-XL7zQ",
+        "title": "양세찬 코미디빅리그 출근길퇴근길 촬영감독 양세형",
+        "description": "코빅 출근길영상 이제올립니다^^\n잼있게봐주세요~~ ㅋ",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LpewKRLxK2k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LpewKRLxK2k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LpewKRLxK2k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LpewKRLxK2k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LpewKRLxK2k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "양세브라더스",
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "양세찬 코미디빅리그 출근길퇴근길 촬영감독 양세형",
+          "description": "코빅 출근길영상 이제올립니다^^\n잼있게봐주세요~~ ㅋ"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT22M31S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "673557",
+        "likeCount": "15942",
+        "favoriteCount": "0",
+        "commentCount": "1279"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Entertainment"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "양세찬 코미디빅리그 출근길퇴근길 촬영감독 양세형",
+          "description": "코빅 출근길영상 이제올립니다^^\n잼있게봐주세요~~ ㅋ"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "va2Vug6wvZLuve5wPfLEcy4tzqY",
+      "id": "yQeO07PamRs",
+      "snippet": {
+        "publishedAt": "2020-09-08T12:30:50Z",
+        "channelId": "UCqCC8BEX4NCoc-0WT-XL7zQ",
+        "title": "양세형 양세찬 후라이드치킨 양념치킨 먹방🍗🍗🍗",
+        "description": "집에서 치킨만들어먹었어요~~^^\n\n영상잼있게봐주세요♡",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yQeO07PamRs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yQeO07PamRs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yQeO07PamRs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yQeO07PamRs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yQeO07PamRs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "양세브라더스",
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "양세형 양세찬 후라이드치킨 양념치킨 먹방🍗🍗🍗",
+          "description": "집에서 치킨만들어먹었어요~~^^\n\n영상잼있게봐주세요♡"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT15M15S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "2533382",
+        "likeCount": "39944",
+        "favoriteCount": "0",
+        "commentCount": "2953"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Food",
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "양세형 양세찬 후라이드치킨 양념치킨 먹방🍗🍗🍗",
+          "description": "집에서 치킨만들어먹었어요~~^^\n\n영상잼있게봐주세요♡"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "oRZmQCxbIbZZZgkEKuvbcdmXkMs",
+      "id": "7JK0O3PnOAU",
+      "snippet": {
+        "publishedAt": "2020-08-15T11:18:44Z",
+        "channelId": "UCqCC8BEX4NCoc-0WT-XL7zQ",
+        "title": "양세형 양세찬  롤 실력!!!",
+        "description": "동료들과5인큐 했습니다 ㅋㅋㅋ\n잼있게봐주세요^^",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7JK0O3PnOAU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7JK0O3PnOAU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7JK0O3PnOAU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7JK0O3PnOAU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7JK0O3PnOAU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "양세브라더스",
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "양세형 양세찬  롤 실력!!!",
+          "description": "동료들과5인큐 했습니다 ㅋㅋㅋ\n잼있게봐주세요^^"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT20M28S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "625907",
+        "likeCount": "5933",
+        "favoriteCount": "0",
+        "commentCount": "646"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "양세형 양세찬  롤 실력!!!",
+          "description": "동료들과5인큐 했습니다 ㅋㅋㅋ\n잼있게봐주세요^^"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "6bOmutWMqwD-cCfjmrD8MpzLtW8",
+      "id": "n2bGE7wGST4",
+      "snippet": {
+        "publishedAt": "2020-07-22T13:05:20Z",
+        "channelId": "UCqCC8BEX4NCoc-0WT-XL7zQ",
+        "title": "양세브라더스 MBTI 이런결과가???",
+        "description": "여러분들의 댓글중 엠비티아이 했으면 좋겠다고 하시는분들이 많아서 뒤늦게 올립니다^^ 그리고 양세브라더스 여러분들의 호칭을 정하려고 합니다 괜찮은 아이디어 있으면 빌려 쓸게요^^♡♡♡ 앞으로도 여러분들의 구독이 헛되이지않도록 잘해나가겠습니다~~~☆☆☆\n\n댓글쓰시면서 호칭도 생각나면 적어주세요^^\n좋아요 많은 호칭으로 정하겠습니다*^-------^*",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/n2bGE7wGST4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/n2bGE7wGST4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/n2bGE7wGST4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/n2bGE7wGST4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/n2bGE7wGST4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "양세브라더스",
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "양세브라더스 MBTI 이런결과가???",
+          "description": "여러분들의 댓글중 엠비티아이 했으면 좋겠다고 하시는분들이 많아서 뒤늦게 올립니다^^ 그리고 양세브라더스 여러분들의 호칭을 정하려고 합니다 괜찮은 아이디어 있으면 빌려 쓸게요^^♡♡♡ 앞으로도 여러분들의 구독이 헛되이지않도록 잘해나가겠습니다~~~☆☆☆\n\n댓글쓰시면서 호칭도 생각나면 적어주세요^^\n좋아요 많은 호칭으로 정하겠습니다*^-------^*"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT15M51S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "383977",
+        "likeCount": "8978",
+        "favoriteCount": "0",
+        "commentCount": "1108"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "양세브라더스 MBTI 이런결과가???",
+          "description": "여러분들의 댓글중 엠비티아이 했으면 좋겠다고 하시는분들이 많아서 뒤늦게 올립니다^^ 그리고 양세브라더스 여러분들의 호칭을 정하려고 합니다 괜찮은 아이디어 있으면 빌려 쓸게요^^♡♡♡ 앞으로도 여러분들의 구독이 헛되이지않도록 잘해나가겠습니다~~~☆☆☆\n\n댓글쓰시면서 호칭도 생각나면 적어주세요^^\n좋아요 많은 호칭으로 정하겠습니다*^-------^*"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "5wVefubfVEfEZyGM0Q7_ji24flw",
+      "id": "WQr9AsN2N_Y",
+      "snippet": {
+        "publishedAt": "2020-06-01T10:08:00Z",
+        "channelId": "UCqCC8BEX4NCoc-0WT-XL7zQ",
+        "title": "양세형 양세찬 열라면5봉먹방 청양고추20개",
+        "description": "오랜만에 라면먹방했습니다\n정말 맛있게 매워요ㅋㅋ한번드셔보세요ㅋ\n잼있게보세요ㅋㅋ",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WQr9AsN2N_Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WQr9AsN2N_Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WQr9AsN2N_Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WQr9AsN2N_Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WQr9AsN2N_Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "양세브라더스",
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "양세형 양세찬 열라면5봉먹방 청양고추20개",
+          "description": "오랜만에 라면먹방했습니다\n정말 맛있게 매워요ㅋㅋ한번드셔보세요ㅋ\n잼있게보세요ㅋㅋ"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT16M39S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "2745620",
+        "likeCount": "34386",
+        "favoriteCount": "0",
+        "commentCount": "3920"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Food",
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "양세형 양세찬 열라면5봉먹방 청양고추20개",
+          "description": "오랜만에 라면먹방했습니다\n정말 맛있게 매워요ㅋㅋ한번드셔보세요ㅋ\n잼있게보세요ㅋㅋ"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "FZz3JBxQaaywwLMDjcR-h7DCzYQ",
+      "id": "NEh-VvCajkc",
+      "snippet": {
+        "publishedAt": "2020-05-17T08:37:31Z",
+        "channelId": "UCqCC8BEX4NCoc-0WT-XL7zQ",
+        "title": "양세형 출근길퇴근길 촬영감독:양세찬",
+        "description": "안녕하세요 너무오랜만에영상올립니다~^^\n세형이형출근길퇴근길 궁금해하시는분을위해서\n찍어봤습니다 잼있게봐주세요~~",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NEh-VvCajkc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NEh-VvCajkc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NEh-VvCajkc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NEh-VvCajkc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NEh-VvCajkc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "양세브라더스",
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "양세형 출근길퇴근길 촬영감독:양세찬",
+          "description": "안녕하세요 너무오랜만에영상올립니다~^^\n세형이형출근길퇴근길 궁금해하시는분을위해서\n찍어봤습니다 잼있게봐주세요~~"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT12M51S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1305540",
+        "likeCount": "28101",
+        "favoriteCount": "0",
+        "commentCount": "2322"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Entertainment"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "양세형 출근길퇴근길 촬영감독:양세찬",
+          "description": "안녕하세요 너무오랜만에영상올립니다~^^\n세형이형출근길퇴근길 궁금해하시는분을위해서\n찍어봤습니다 잼있게봐주세요~~"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "B5QWr0U1B_fqWFnmUYbtVmUWju8",
+      "id": "t3R2dtbJt_8",
+      "snippet": {
+        "publishedAt": "2020-03-23T08:54:03Z",
+        "channelId": "UCqCC8BEX4NCoc-0WT-XL7zQ",
+        "title": "양세브라더스 양세형 양세찬 형제들의 침묵속 삼겹살 먹방!!!!!!!",
+        "description": "소리없이먹었습니다ㅋ\n잼있게봐주세요^^",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/t3R2dtbJt_8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/t3R2dtbJt_8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/t3R2dtbJt_8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/t3R2dtbJt_8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/t3R2dtbJt_8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "양세브라더스",
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "양세브라더스 양세형 양세찬 형제들의 침묵속 삼겹살 먹방!!!!!!!",
+          "description": "소리없이먹었습니다ㅋ\n잼있게봐주세요^^"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT10M10S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "2930894",
+        "likeCount": "34544",
+        "favoriteCount": "0",
+        "commentCount": "2948"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Food",
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "양세브라더스 양세형 양세찬 형제들의 침묵속 삼겹살 먹방!!!!!!!",
+          "description": "소리없이먹었습니다ㅋ\n잼있게봐주세요^^"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "q6CwzJoEclo0IyPTyI-JIIxG0LM",
+      "id": "6dglg-IyhX4",
+      "snippet": {
+        "publishedAt": "2020-02-16T06:05:25Z",
+        "channelId": "UCqCC8BEX4NCoc-0WT-XL7zQ",
+        "title": "양세브라더스 쿡방!!! 명란떡국 만들기♡♡♡",
+        "description": "전참시 녹화이후 명란떡국을 해먹어봤는데\n너무 맛있어서 찍어놨다가 방송이후에 올립니다^^\n이대로 한번 꼭 해서 드셔보세용!!!!!!!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6dglg-IyhX4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6dglg-IyhX4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6dglg-IyhX4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6dglg-IyhX4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6dglg-IyhX4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "양세브라더스",
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "양세브라더스 쿡방!!! 명란떡국 만들기♡♡♡",
+          "description": "전참시 녹화이후 명란떡국을 해먹어봤는데\n너무 맛있어서 찍어놨다가 방송이후에 올립니다^^\n이대로 한번 꼭 해서 드셔보세용!!!!!!!"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT15M34S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "747988",
+        "likeCount": "16118",
+        "favoriteCount": "0",
+        "commentCount": "1786"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Food",
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "양세브라더스 쿡방!!! 명란떡국 만들기♡♡♡",
+          "description": "전참시 녹화이후 명란떡국을 해먹어봤는데\n너무 맛있어서 찍어놨다가 방송이후에 올립니다^^\n이대로 한번 꼭 해서 드셔보세용!!!!!!!"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "g1rE3gEeadW9pRn-6WeYBeLh_Cs",
+      "id": "UVMWXB6gfzk",
+      "snippet": {
+        "publishedAt": "2020-02-12T07:11:04Z",
+        "channelId": "UCqCC8BEX4NCoc-0WT-XL7zQ",
+        "title": "양세형 양세찬 형제 롤 봇듀오 환상의 호흡",
+        "description": "즐겁게 롤 했습니다\n티어는 비공개!!!ㅋㅋㅋ",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UVMWXB6gfzk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UVMWXB6gfzk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UVMWXB6gfzk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UVMWXB6gfzk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UVMWXB6gfzk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "양세브라더스",
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "양세형 양세찬 형제 롤 봇듀오 환상의 호흡",
+          "description": "즐겁게 롤 했습니다\n티어는 비공개!!!ㅋㅋㅋ"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT11M35S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1514319",
+        "likeCount": "12530",
+        "favoriteCount": "0",
+        "commentCount": "1572"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "양세형 양세찬 형제 롤 봇듀오 환상의 호흡",
+          "description": "즐겁게 롤 했습니다\n티어는 비공개!!!ㅋㅋㅋ"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "-4cxGo-Ku_k8CLHnC9g6GoHuvp0",
+      "id": "rIBg9dKZJvg",
+      "snippet": {
+        "publishedAt": "2020-01-12T09:48:55Z",
+        "channelId": "UCqCC8BEX4NCoc-0WT-XL7zQ",
+        "title": "독희천재견 테스트!!!good girl🦴🦴🦴",
+        "description": "형이랑 저랑바뻐서 엄마가왔다갔다\n하면서 옥희독희 봐주고있어요~~~\n이제 엄마 말을 더잘들어요ㅋㅋㅋ\nGOOD GIRL~~~",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rIBg9dKZJvg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rIBg9dKZJvg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rIBg9dKZJvg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rIBg9dKZJvg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rIBg9dKZJvg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "양세브라더스",
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "독희천재견 테스트!!!good girl🦴🦴🦴",
+          "description": "형이랑 저랑바뻐서 엄마가왔다갔다\n하면서 옥희독희 봐주고있어요~~~\n이제 엄마 말을 더잘들어요ㅋㅋㅋ\nGOOD GIRL~~~"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M15S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1071529",
+        "likeCount": "23065",
+        "favoriteCount": "0",
+        "commentCount": "1333"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+          "https://en.wikipedia.org/wiki/Pet"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "독희천재견 테스트!!!good girl🦴🦴🦴",
+          "description": "형이랑 저랑바뻐서 엄마가왔다갔다\n하면서 옥희독희 봐주고있어요~~~\n이제 엄마 말을 더잘들어요ㅋㅋㅋ\nGOOD GIRL~~~"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ttQc4BQ6d3XmhsrVQ9DramsXNnI",
+      "id": "7kakSP3E-Js",
+      "snippet": {
+        "publishedAt": "2020-01-04T09:52:00Z",
+        "channelId": "UCqCC8BEX4NCoc-0WT-XL7zQ",
+        "title": "양세형 양세찬 라면먹방🍜🍜🍜",
+        "description": "평소에 면을 좋아하는 양세브라더스\n유튜브선배님들의 먹방 퀄리티는 아니지만 소소하게 도전해봤습니다\n지금 양세브라더스가 하고싶은 컨텐츠가 너무 많습니다 여러분들의 반응에 따라 줄이고 늘려나갈게요\n새해복 듬~~~뿍 받으세요^^",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7kakSP3E-Js/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7kakSP3E-Js/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7kakSP3E-Js/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7kakSP3E-Js/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7kakSP3E-Js/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "양세브라더스",
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "양세형 양세찬 라면먹방🍜🍜🍜",
+          "description": "평소에 면을 좋아하는 양세브라더스\n유튜브선배님들의 먹방 퀄리티는 아니지만 소소하게 도전해봤습니다\n지금 양세브라더스가 하고싶은 컨텐츠가 너무 많습니다 여러분들의 반응에 따라 줄이고 늘려나갈게요\n새해복 듬~~~뿍 받으세요^^"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT14M35S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "4466632",
+        "likeCount": "64100",
+        "favoriteCount": "0",
+        "commentCount": "6228"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Food",
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "양세형 양세찬 라면먹방🍜🍜🍜",
+          "description": "평소에 면을 좋아하는 양세브라더스\n유튜브선배님들의 먹방 퀄리티는 아니지만 소소하게 도전해봤습니다\n지금 양세브라더스가 하고싶은 컨텐츠가 너무 많습니다 여러분들의 반응에 따라 줄이고 늘려나갈게요\n새해복 듬~~~뿍 받으세요^^"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "HEcMUnqQSOrCsaRUWUw7A8CZ9as",
+      "id": "OGX_Ub49pKU",
+      "snippet": {
+        "publishedAt": "2019-12-29T06:47:36Z",
+        "channelId": "UCqCC8BEX4NCoc-0WT-XL7zQ",
+        "title": "오랜만이야 옥희독희♡  데헷 쿵♡",
+        "description": "옥희독희 보고하시는분들 많아서\n영상올려요^^본영상은 양세엄마집에서\n촬영했습니다 잼있게봐주세요^^",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OGX_Ub49pKU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OGX_Ub49pKU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OGX_Ub49pKU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OGX_Ub49pKU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OGX_Ub49pKU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "양세브라더스",
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "오랜만이야 옥희독희♡  데헷 쿵♡",
+          "description": "옥희독희 보고하시는분들 많아서\n영상올려요^^본영상은 양세엄마집에서\n촬영했습니다 잼있게봐주세요^^"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT5M9S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "563407",
+        "likeCount": "14139",
+        "favoriteCount": "0",
+        "commentCount": "930"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+          "https://en.wikipedia.org/wiki/Pet"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "오랜만이야 옥희독희♡  데헷 쿵♡",
+          "description": "옥희독희 보고하시는분들 많아서\n영상올려요^^본영상은 양세엄마집에서\n촬영했습니다 잼있게봐주세요^^"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "YTJAKLUc4Dimzn8wx1dxTOtM4_s",
+      "id": "LVczqnIUEHs",
+      "snippet": {
+        "publishedAt": "2019-12-17T09:10:16Z",
+        "channelId": "UCqCC8BEX4NCoc-0WT-XL7zQ",
+        "title": "양세브라더스 첫 대결 당구편!!!",
+        "description": "어렸을때 부터 승부욕이 강했던 우리형제\n이젠 그 승부를 가리자\n(참고로 룰 이런거 우리 맘대로 함)\n\n과연 그 승자는???\n\n편집 오티비 채널 주인 오인택\n인택이형 고마워♡",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LVczqnIUEHs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LVczqnIUEHs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LVczqnIUEHs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LVczqnIUEHs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LVczqnIUEHs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "양세브라더스",
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "양세브라더스 첫 대결 당구편!!!",
+          "description": "어렸을때 부터 승부욕이 강했던 우리형제\n이젠 그 승부를 가리자\n(참고로 룰 이런거 우리 맘대로 함)\n\n과연 그 승자는???\n\n편집 오티비 채널 주인 오인택\n인택이형 고마워♡"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT11M55S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1172490",
+        "likeCount": "16203",
+        "favoriteCount": "0",
+        "commentCount": "1362"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "양세브라더스 첫 대결 당구편!!!",
+          "description": "어렸을때 부터 승부욕이 강했던 우리형제\n이젠 그 승부를 가리자\n(참고로 룰 이런거 우리 맘대로 함)\n\n과연 그 승자는???\n\n편집 오티비 채널 주인 오인택\n인택이형 고마워♡"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "PIHc5iFIZ8S24nN6fKCf49pHY2o",
+      "id": "riwWeJAcZ4A",
+      "snippet": {
+        "publishedAt": "2019-12-05T05:33:18Z",
+        "channelId": "UCqCC8BEX4NCoc-0WT-XL7zQ",
+        "title": "양세형, 양세찬 첫 유튜브!!!😂😄😃😆😍",
+        "description": "처음 해보는거여서 어색한게 많습니다\n브이로그 말고도 이것저것 찍고 싶은게 많은데 \n하나하나 잘 해보겠습니다 ㅋㅋㅋ\n재밌게 봐주세요~~~~~🎆🎇✨🎉🎃\n\n영상편집자 - 전국여행TV\n(이친구도 유튜브하니까 많이 봐주세요)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/riwWeJAcZ4A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/riwWeJAcZ4A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/riwWeJAcZ4A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/riwWeJAcZ4A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/riwWeJAcZ4A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "양세브라더스",
+        "tags": [
+          "양세형",
+          "양세찬",
+          "양세브라더스",
+          "양세형제",
+          "코미디빅리그",
+          "코빅",
+          "웃찾사",
+          "옥희독희",
+          "양세",
+          "브라더스",
+          "개그맨",
+          "양세형 유튜브",
+          "양세찬 유튜브",
+          "브이로그",
+          "유튜브도전"
+        ],
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "양세형, 양세찬 첫 유튜브!!!😂😄😃😆😍",
+          "description": "처음 해보는거여서 어색한게 많습니다\n브이로그 말고도 이것저것 찍고 싶은게 많은데 \n하나하나 잘 해보겠습니다 ㅋㅋㅋ\n재밌게 봐주세요~~~~~🎆🎇✨🎉🎃\n\n영상편집자 - 전국여행TV\n(이친구도 유튜브하니까 많이 봐주세요)"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT12M50S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": true
+      },
+      "statistics": {
+        "viewCount": "2287806",
+        "likeCount": "65545",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Food",
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {
+        "recordingDate": "2019-11-30T00:00:00Z"
+      },
+      "localizations": {
+        "ko": {
+          "title": "양세형, 양세찬 첫 유튜브!!!😂😄😃😆😍",
+          "description": "처음 해보는거여서 어색한게 많습니다\n브이로그 말고도 이것저것 찍고 싶은게 많은데 \n하나하나 잘 해보겠습니다 ㅋㅋㅋ\n재밌게 봐주세요~~~~~🎆🎇✨🎉🎃\n\n영상편집자 - 전국여행TV\n(이친구도 유튜브하니까 많이 봐주세요)"
+        }
+      }
+    }
+  ]
+}
