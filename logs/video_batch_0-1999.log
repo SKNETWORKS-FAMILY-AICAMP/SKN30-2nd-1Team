@@ -1,0 +1,172 @@
+/Volumes/Jexists/gitHub/skn_project/SKN30-2nd-1Team/.venv/lib/python3.9/site-packages/google/api_core/_python_version_support.py:242: FutureWarning: You are using a non-supported Python version (3.9.12). Google will not post any further updates to google.api_core supporting this Python version. Please upgrade to the latest Python version, or at least Python 3.10, and then update google.api_core.
+  warnings.warn(message, FutureWarning)
+/Volumes/Jexists/gitHub/skn_project/SKN30-2nd-1Team/.venv/lib/python3.9/site-packages/google/auth/__init__.py:54: FutureWarning: You are using a Python version 3.9 past its end of life. Google will update google-auth with critical bug fixes on a best-effort basis, but not with any other fixes or features. Please upgrade your Python version, and then update google-auth.
+  warnings.warn(eol_message.format("3.9"), FutureWarning)
+/Volumes/Jexists/gitHub/skn_project/SKN30-2nd-1Team/.venv/lib/python3.9/site-packages/google/oauth2/__init__.py:40: FutureWarning: You are using a Python version 3.9 past its end of life. Google will update google-auth with critical bug fixes on a best-effort basis, but not with any other fixes or features. Please upgrade your Python version, and then update google-auth.
+  warnings.warn(eol_message.format("3.9"), FutureWarning)
+전체 채널: 8,192 / 처리 범위: 0 ~ 1999 (step=50, skip_existing=True)
+[   0..49  ] 처리 시작
+    ✓ videos_0000-0049.csv  영상 654행 / 채널 50/50
+[  50..99  ] 처리 시작
+    [  64] ✗ playlistItems playlistNotFound
+    ✓ videos_0050-0099.csv  영상 1282행 / 채널 49/50
+[ 100..149 ] 처리 시작
+    [ 131] SKIP nan — uploads_playlist 없음
+    [ 133] ✗ playlistItems playlistNotFound
+    [ 146] SKIP nan — uploads_playlist 없음
+    [ 149] SKIP nan — uploads_playlist 없음
+    ✓ videos_0100-0149.csv  영상 1384행 / 채널 46/50
+[ 150..199 ] 처리 시작
+    [ 169] SKIP nan — uploads_playlist 없음
+    ✓ videos_0150-0199.csv  영상 1586행 / 채널 49/50
+[ 200..249 ] 처리 시작
+    ✓ videos_0200-0249.csv  영상 1783행 / 채널 50/50
+[ 250..299 ] 처리 시작
+    [ 295] SKIP nan — uploads_playlist 없음
+    ✓ videos_0250-0299.csv  영상 2031행 / 채널 49/50
+[ 300..349 ] 처리 시작
+    ✓ videos_0300-0349.csv  영상 1979행 / 채널 50/50
+[ 350..399 ] 처리 시작
+    [ 378] ✗ playlistItems playlistNotFound
+    ✓ videos_0350-0399.csv  영상 1805행 / 채널 48/50
+[ 400..449 ] 처리 시작
+    [ 437] SKIP nan — uploads_playlist 없음
+    [ 449] ✗ playlistItems playlistNotFound
+    ✓ videos_0400-0449.csv  영상 1868행 / 채널 48/50
+[ 450..499 ] 처리 시작
+    [ 450] SKIP nan — uploads_playlist 없음
+    [ 453] SKIP nan — uploads_playlist 없음
+    [ 462] SKIP nan — uploads_playlist 없음
+    [ 467] SKIP nan — uploads_playlist 없음
+    [ 474] SKIP nan — uploads_playlist 없음
+    ✓ videos_0450-0499.csv  영상 1755행 / 채널 45/50
+[ 500..549 ] 처리 시작
+    [ 518] SKIP nan — uploads_playlist 없음
+    [ 537] SKIP nan — uploads_playlist 없음
+    ✓ videos_0500-0549.csv  영상 1890행 / 채널 48/50
+[ 550..599 ] 처리 시작
+    [ 551] ✗ playlistItems playlistNotFound
+    [ 568] SKIP nan — uploads_playlist 없음
+    ✓ videos_0550-0599.csv  영상 2065행 / 채널 48/50
+[ 600..649 ] 처리 시작
+    [ 646] SKIP nan — uploads_playlist 없음
+    ✓ videos_0600-0649.csv  영상 2084행 / 채널 49/50
+[ 650..699 ] 처리 시작
+    ✓ videos_0650-0699.csv  영상 2042행 / 채널 50/50
+[ 700..749 ] 처리 시작
+    ✓ videos_0700-0749.csv  영상 2137행 / 채널 50/50
+[ 750..799 ] 처리 시작
+    [ 772] SKIP nan — uploads_playlist 없음
+    ✓ videos_0750-0799.csv  영상 2351행 / 채널 49/50
+[ 800..849 ] 처리 시작
+    [ 808] SKIP nan — uploads_playlist 없음
+    ✓ videos_0800-0849.csv  영상 1954행 / 채널 49/50
+[ 850..899 ] 처리 시작
+    ✓ videos_0850-0899.csv  영상 2057행 / 채널 50/50
+[ 900..949 ] 처리 시작
+    [ 908] SKIP nan — uploads_playlist 없음
+    ✓ videos_0900-0949.csv  영상 1986행 / 채널 49/50
+[ 950..999 ] 처리 시작
+    [ 966] SKIP nan — uploads_playlist 없음
+    [ 970] SKIP nan — uploads_playlist 없음
+    ✓ videos_0950-0999.csv  영상 2199행 / 채널 48/50
+[1000..1049] 처리 시작
+    ✓ videos_1000-1049.csv  영상 2025행 / 채널 50/50
+[1050..1099] 처리 시작
+    [1087] SKIP nan — uploads_playlist 없음
+    ✓ videos_1050-1099.csv  영상 2184행 / 채널 49/50
+[1100..1149] 처리 시작
+    [1134] ✗ playlistItems playlistNotFound
+    ✓ videos_1100-1149.csv  영상 2123행 / 채널 49/50
+[1150..1199] 처리 시작
+    ✓ videos_1150-1199.csv  영상 2398행 / 채널 50/50
+[1200..1249] 처리 시작
+    [1236] ✗ playlistItems playlistNotFound
+    ✓ videos_1200-1249.csv  영상 2183행 / 채널 49/50
+[1250..1299] 처리 시작
+    ✓ videos_1250-1299.csv  영상 2146행 / 채널 50/50
+[1300..1349] 처리 시작
+    ✓ videos_1300-1349.csv  영상 2287행 / 채널 50/50
+[1350..1399] 처리 시작
+    [1359] SKIP nan — uploads_playlist 없음
+    [1396] SKIP nan — uploads_playlist 없음
+    ✓ videos_1350-1399.csv  영상 2030행 / 채널 48/50
+[1400..1449] 처리 시작
+    [1419] SKIP nan — uploads_playlist 없음
+    [1440] SKIP nan — uploads_playlist 없음
+    ✓ videos_1400-1449.csv  영상 2200행 / 채널 46/50
+[1450..1499] 처리 시작
+Traceback (most recent call last):
+  File "/Volumes/Jexists/gitHub/skn_project/SKN30-2nd-1Team/notebooks/01_data_collection/run_video_batch.py", line 325, in <module>
+    main()
+  File "/Volumes/Jexists/gitHub/skn_project/SKN30-2nd-1Team/notebooks/01_data_collection/run_video_batch.py", line 308, in main
+    status, last_done = process_batch(youtube, df_all, batch_start, batch_end)
+  File "/Volumes/Jexists/gitHub/skn_project/SKN30-2nd-1Team/notebooks/01_data_collection/run_video_batch.py", line 227, in process_batch
+    video_data[cid] = get_video_details(youtube, video_ids)
+  File "/Volumes/Jexists/gitHub/skn_project/SKN30-2nd-1Team/notebooks/01_data_collection/run_video_batch.py", line 82, in get_video_details
+    resp = youtube.videos().list(
+  File "/Volumes/Jexists/gitHub/skn_project/SKN30-2nd-1Team/.venv/lib/python3.9/site-packages/googleapiclient/_helpers.py", line 130, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/Volumes/Jexists/gitHub/skn_project/SKN30-2nd-1Team/.venv/lib/python3.9/site-packages/googleapiclient/http.py", line 923, in execute
+    resp, content = _retry_request(
+  File "/Volumes/Jexists/gitHub/skn_project/SKN30-2nd-1Team/.venv/lib/python3.9/site-packages/googleapiclient/http.py", line 191, in _retry_request
+    resp, content = http.request(uri, method, *args, **kwargs)
+  File "/Volumes/Jexists/gitHub/skn_project/SKN30-2nd-1Team/.venv/lib/python3.9/site-packages/httplib2/__init__.py", line 1727, in request
+    (response, content) = self._request(
+  File "/Volumes/Jexists/gitHub/skn_project/SKN30-2nd-1Team/.venv/lib/python3.9/site-packages/httplib2/__init__.py", line 1447, in _request
+    (response, content) = self._conn_request(conn, request_uri, method, body, headers)
+  File "/Volumes/Jexists/gitHub/skn_project/SKN30-2nd-1Team/.venv/lib/python3.9/site-packages/httplib2/__init__.py", line 1399, in _conn_request
+    response = conn.getresponse()
+  File "/Users/jexists/opt/anaconda3/lib/python3.9/http/client.py", line 1377, in getresponse
+    response.begin()
+  File "/Users/jexists/opt/anaconda3/lib/python3.9/http/client.py", line 320, in begin
+    version, status, reason = self._read_status()
+  File "/Users/jexists/opt/anaconda3/lib/python3.9/http/client.py", line 281, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/Users/jexists/opt/anaconda3/lib/python3.9/socket.py", line 704, in readinto
+    return self._sock.recv_into(b)
+  File "/Users/jexists/opt/anaconda3/lib/python3.9/ssl.py", line 1241, in recv_into
+    return self.read(nbytes, buffer)
+  File "/Users/jexists/opt/anaconda3/lib/python3.9/ssl.py", line 1099, in read
+    return self._sslobj.read(len, buffer)
+OSError: [Errno 49] Can't assign requested address
+/Volumes/Jexists/gitHub/skn_project/SKN30-2nd-1Team/.venv/lib/python3.9/site-packages/google/api_core/_python_version_support.py:242: FutureWarning: You are using a non-supported Python version (3.9.12). Google will not post any further updates to google.api_core supporting this Python version. Please upgrade to the latest Python version, or at least Python 3.10, and then update google.api_core.
+  warnings.warn(message, FutureWarning)
+/Volumes/Jexists/gitHub/skn_project/SKN30-2nd-1Team/.venv/lib/python3.9/site-packages/google/auth/__init__.py:54: FutureWarning: You are using a Python version 3.9 past its end of life. Google will update google-auth with critical bug fixes on a best-effort basis, but not with any other fixes or features. Please upgrade your Python version, and then update google-auth.
+  warnings.warn(eol_message.format("3.9"), FutureWarning)
+/Volumes/Jexists/gitHub/skn_project/SKN30-2nd-1Team/.venv/lib/python3.9/site-packages/google/oauth2/__init__.py:40: FutureWarning: You are using a Python version 3.9 past its end of life. Google will update google-auth with critical bug fixes on a best-effort basis, but not with any other fixes or features. Please upgrade your Python version, and then update google-auth.
+  warnings.warn(eol_message.format("3.9"), FutureWarning)
+전체 채널: 8,192 / 처리 범위: 1450 ~ 1999 (step=50, skip_existing=True)
+[1450..1499] 처리 시작
+    ✓ videos_1450-1499.csv  영상 2193행 / 채널 50/50
+[1500..1549] 처리 시작
+    [1543] ✗ playlistItems playlistNotFound
+    ✓ videos_1500-1549.csv  영상 2081행 / 채널 49/50
+[1550..1599] 처리 시작
+    [1579] SKIP nan — uploads_playlist 없음
+    [1597] SKIP nan — uploads_playlist 없음
+    ✓ videos_1550-1599.csv  영상 2328행 / 채널 48/50
+[1600..1649] 처리 시작
+    [1646] SKIP nan — uploads_playlist 없음
+    ✓ videos_1600-1649.csv  영상 2152행 / 채널 49/50
+[1650..1699] 처리 시작
+    [1659] SKIP nan — uploads_playlist 없음
+    ✓ videos_1650-1699.csv  영상 2251행 / 채널 49/50
+[1700..1749] 처리 시작
+    [1720] SKIP nan — uploads_playlist 없음
+    [1731] SKIP nan — uploads_playlist 없음
+    ✓ videos_1700-1749.csv  영상 2180행 / 채널 48/50
+[1750..1799] 처리 시작
+    ✓ videos_1750-1799.csv  영상 2162행 / 채널 50/50
+[1800..1849] 처리 시작
+    [1812] ✗ playlistItems playlistNotFound
+    ✓ videos_1800-1849.csv  영상 2176행 / 채널 49/50
+[1850..1899] 처리 시작
+    [1868] SKIP nan — uploads_playlist 없음
+    ✓ videos_1850-1899.csv  영상 2366행 / 채널 49/50
+[1900..1949] 처리 시작
+    ✓ videos_1900-1949.csv  영상 2321행 / 채널 50/50
+[1950..1999] 처리 시작
+    ✓ videos_1950-1999.csv  영상 2290행 / 채널 50/50
+
+✓ 완료: 1450 ~ 1999
