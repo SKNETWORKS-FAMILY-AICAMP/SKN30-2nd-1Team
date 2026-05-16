@@ -1,0 +1,4715 @@
+{
+  "idx": 7631,
+  "channel_id": "UC2X_pEXXcvVZY5XlyeLR4_w",
+  "channel_title": "이비온",
+  "playlist_items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "K9sYtBlMkGUSEU5KZ4-HmtewbQc",
+      "id": "VVUyWF9wRVhYY3ZWWlk1WGx5ZUxSNF93LnB2TGxSeU10dWw4",
+      "snippet": {
+        "publishedAt": "2024-09-15T11:46:55Z",
+        "channelId": "UC2X_pEXXcvVZY5XlyeLR4_w",
+        "title": "마인크래프트 평지 100일 생존기",
+        "description": "마인크래프트 평지 100일 생존기\n\n크레딧\nJhun (개발) https://github.com/jhhan611\n이루미 (버그 수정) https://github.com/dansoda\n\n\n아래는 TMI이니 읽지 않으셔도 됩니다.\n\n이 영상에서는 월드 백업을 이용해 천둥 시간과 같은 랜덤 요소를 조작하거나 재촬영을 한 부분들이 존재하며,\n게임 속도를 조절하는 모드를 사용하여 afk시 기다리는 시간을 단축하기도 하였습니다.\n저도 백업 없이 진행하고 싶었지만 그렇게 하니까 물 양동이 얻기까지만 자그마치 205일이 걸려서(..)\n하다가 도저히 안 되겠다 싶어 싹 갈아엎고 처음부터 다시 촬영했습니다.\n(맞습니다 놀랍게도 205일차까지 진행했다가 다시 촬영한 영상입니다)\n하지만 게임 데이터를 변경하거나 치트를 사용하여 아이템을 꺼내는 등 게임 플레이에 직접적인 이득을 주는 행위는 하지 않았으며,\n모든 진행 과정은 지난 2개월 간 243시간 분량의 비공개 스트리밍을 통해 남겨놓았음을 밝힙니다.\n구조물과 바이옴 위치 탐색에는 같은 시드의 일반 월드와 chunkbase 를 사용했습니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pvLlRyMtul8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pvLlRyMtul8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pvLlRyMtul8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pvLlRyMtul8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pvLlRyMtul8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이비온",
+        "playlistId": "UU2X_pEXXcvVZY5XlyeLR4_w",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "pvLlRyMtul8"
+        },
+        "videoOwnerChannelTitle": "이비온",
+        "videoOwnerChannelId": "UC2X_pEXXcvVZY5XlyeLR4_w"
+      },
+      "contentDetails": {
+        "videoId": "pvLlRyMtul8",
+        "videoPublishedAt": "2024-09-15T11:46:55Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "clK5C1ogdRNS_NVAg29GwrYU8F4",
+      "id": "VVUyWF9wRVhYY3ZWWlk1WGx5ZUxSNF93Ljh3RzQ0TGthWFpj",
+      "snippet": {
+        "publishedAt": "2024-07-07T07:55:05Z",
+        "channelId": "UC2X_pEXXcvVZY5XlyeLR4_w",
+        "title": "내가 광물 1,724,000개를 모은 이유",
+        "description": "구독\n\ntweakeroo, carpet, minihud, itemscroller 와 같은 편의성 모드를 사용했습니다.\n\n참고한 영상\nhttps://www.youtube.com/watch?v=6xe4I4EqnFw\nhttps://www.youtube.com/watch?v=OrV07_ob6GI\nhttps://www.youtube.com/watch?v=n3mOlrMGjUg\nhttps://www.youtube.com/watch?v=K7zw4JYyBeo\nhttps://www.youtube.com/watch?v=iBbXuK79syA\nhttps://www.youtube.com/watch?v=Yr77PW9OojU",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8wG44LkaXZc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8wG44LkaXZc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8wG44LkaXZc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8wG44LkaXZc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8wG44LkaXZc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이비온",
+        "playlistId": "UU2X_pEXXcvVZY5XlyeLR4_w",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8wG44LkaXZc"
+        },
+        "videoOwnerChannelTitle": "이비온",
+        "videoOwnerChannelId": "UC2X_pEXXcvVZY5XlyeLR4_w"
+      },
+      "contentDetails": {
+        "videoId": "8wG44LkaXZc",
+        "videoPublishedAt": "2024-07-07T07:55:05Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "CdmBpb41unSLQW9ynwhQHpSYenE",
+      "id": "VVUyWF9wRVhYY3ZWWlk1WGx5ZUxSNF93LnIzU2ZfMktqUHVj",
+      "snippet": {
+        "publishedAt": "2024-04-12T13:17:55Z",
+        "channelId": "UC2X_pEXXcvVZY5XlyeLR4_w",
+        "title": "마인크래프트 하드코어 24시간 생존기",
+        "description": "마인크래프트 하드코어 24시간 생존기\n\n- tweakeroo, carpet, minihud, replaymod 와 같은 편의성 모드를 사용했습니다.\n- 영상의 흐름을 위해 생략하거나 연출로써 재구성한 부분이 존재합니다.\n- 상단의 시간 표시는 이해를 돕기 위한 요소일 뿐 100% 정확하지 않습니다.\n- afk에 봇 모드를 사용하였고 이를 편의상 부계정으로 표현했습니다. (봇이라 굶어죽지 않았음)\n- 구조물과 바이옴 탐색에 chunkbase 를 사용했습니다.\n- @ianxofour 의 위더 스켈레톤, 옵시디언 팜 디자인을 사용했습니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/r3Sf_2KjPuc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/r3Sf_2KjPuc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/r3Sf_2KjPuc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/r3Sf_2KjPuc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/r3Sf_2KjPuc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이비온",
+        "playlistId": "UU2X_pEXXcvVZY5XlyeLR4_w",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "r3Sf_2KjPuc"
+        },
+        "videoOwnerChannelTitle": "이비온",
+        "videoOwnerChannelId": "UC2X_pEXXcvVZY5XlyeLR4_w"
+      },
+      "contentDetails": {
+        "videoId": "r3Sf_2KjPuc",
+        "videoPublishedAt": "2024-04-12T13:17:55Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4OEyrNl3bb2IyVQun8MGusECjnc",
+      "id": "VVUyWF9wRVhYY3ZWWlk1WGx5ZUxSNF93LjMya0FWUWRBRGlZ",
+      "snippet": {
+        "publishedAt": "2024-02-09T05:10:35Z",
+        "channelId": "UC2X_pEXXcvVZY5XlyeLR4_w",
+        "title": "마인크래프트 방탈출 챌린지!",
+        "description": "@무새 인증 고\n\n일부 연출이 포함되어 있으니 재미로만 시청해 주세요\n멋진 맵을 만들어주신 제작자분들께 다시 한번 감사드립니다:)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/32kAVQdADiY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/32kAVQdADiY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/32kAVQdADiY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/32kAVQdADiY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/32kAVQdADiY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이비온",
+        "playlistId": "UU2X_pEXXcvVZY5XlyeLR4_w",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "32kAVQdADiY"
+        },
+        "videoOwnerChannelTitle": "이비온",
+        "videoOwnerChannelId": "UC2X_pEXXcvVZY5XlyeLR4_w"
+      },
+      "contentDetails": {
+        "videoId": "32kAVQdADiY",
+        "videoPublishedAt": "2024-02-09T05:10:35Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "xNMte5okp3yNUCm85I7KCY1p_9s",
+      "id": "VVUyWF9wRVhYY3ZWWlk1WGx5ZUxSNF93LnlXbUtLV2xuOWtn",
+      "snippet": {
+        "publishedAt": "2023-12-03T04:56:43Z",
+        "channelId": "UC2X_pEXXcvVZY5XlyeLR4_w",
+        "title": "이건 몰랐지",
+        "description": "#shorts \n\n마인크래프트\n\n천장이 1블럭 두께라는 것은 F3 메뉴에서 확인할 수 있습니다 (Heightmap)\n\n*일부 연출이 있으니 재미로만 봐주세요:)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yWmKKWln9kg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yWmKKWln9kg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yWmKKWln9kg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yWmKKWln9kg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yWmKKWln9kg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이비온",
+        "playlistId": "UU2X_pEXXcvVZY5XlyeLR4_w",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "yWmKKWln9kg"
+        },
+        "videoOwnerChannelTitle": "이비온",
+        "videoOwnerChannelId": "UC2X_pEXXcvVZY5XlyeLR4_w"
+      },
+      "contentDetails": {
+        "videoId": "yWmKKWln9kg",
+        "videoPublishedAt": "2023-12-03T04:56:43Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "lS0vHIUQmPduAq2sj_sWn4eazSU",
+      "id": "VVUyWF9wRVhYY3ZWWlk1WGx5ZUxSNF93Ll9KU2wyQU5tMkow",
+      "snippet": {
+        "publishedAt": "2023-11-25T09:48:56Z",
+        "channelId": "UC2X_pEXXcvVZY5XlyeLR4_w",
+        "title": "불가능",
+        "description": "@꼬예유  \n #shorts \n\n마인크래프트",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_JSl2ANm2J0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_JSl2ANm2J0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_JSl2ANm2J0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_JSl2ANm2J0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_JSl2ANm2J0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이비온",
+        "playlistId": "UU2X_pEXXcvVZY5XlyeLR4_w",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_JSl2ANm2J0"
+        },
+        "videoOwnerChannelTitle": "이비온",
+        "videoOwnerChannelId": "UC2X_pEXXcvVZY5XlyeLR4_w"
+      },
+      "contentDetails": {
+        "videoId": "_JSl2ANm2J0",
+        "videoPublishedAt": "2023-11-25T09:48:56Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "emR4WWl_ioP-WyZX1QJDQt8Jvwk",
+      "id": "VVUyWF9wRVhYY3ZWWlk1WGx5ZUxSNF93LnFUZGxkTWQtUTVR",
+      "snippet": {
+        "publishedAt": "2023-11-11T08:57:50Z",
+        "channelId": "UC2X_pEXXcvVZY5XlyeLR4_w",
+        "title": "뇌절",
+        "description": "#shorts \n\n마인크래프트",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qTdldMd-Q5Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qTdldMd-Q5Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qTdldMd-Q5Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qTdldMd-Q5Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qTdldMd-Q5Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이비온",
+        "playlistId": "UU2X_pEXXcvVZY5XlyeLR4_w",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "qTdldMd-Q5Q"
+        },
+        "videoOwnerChannelTitle": "이비온",
+        "videoOwnerChannelId": "UC2X_pEXXcvVZY5XlyeLR4_w"
+      },
+      "contentDetails": {
+        "videoId": "qTdldMd-Q5Q",
+        "videoPublishedAt": "2023-11-11T08:57:50Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "S46LZ_xonVx5kf6NRrVITRXTEvw",
+      "id": "VVUyWF9wRVhYY3ZWWlk1WGx5ZUxSNF93LmNRWjRtTXhHc044",
+      "snippet": {
+        "publishedAt": "2023-11-09T07:43:50Z",
+        "channelId": "UC2X_pEXXcvVZY5XlyeLR4_w",
+        "title": "멸치주먹밥",
+        "description": "영상을 날\n\n#shorts  \n\n마인크래프트",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cQZ4mMxGsN8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cQZ4mMxGsN8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cQZ4mMxGsN8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cQZ4mMxGsN8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cQZ4mMxGsN8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이비온",
+        "playlistId": "UU2X_pEXXcvVZY5XlyeLR4_w",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "cQZ4mMxGsN8"
+        },
+        "videoOwnerChannelTitle": "이비온",
+        "videoOwnerChannelId": "UC2X_pEXXcvVZY5XlyeLR4_w"
+      },
+      "contentDetails": {
+        "videoId": "cQZ4mMxGsN8",
+        "videoPublishedAt": "2023-11-09T07:43:50Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "A3G-aTmmkHnnTy4jjYQsjfw7WWE",
+      "id": "VVUyWF9wRVhYY3ZWWlk1WGx5ZUxSNF93LmFYemFTNGx5XzRF",
+      "snippet": {
+        "publishedAt": "2023-11-05T04:55:47Z",
+        "channelId": "UC2X_pEXXcvVZY5XlyeLR4_w",
+        "title": "끝을 봅시다",
+        "description": "#shorts \n\n마인크래프트",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aXzaS4ly_4E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aXzaS4ly_4E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aXzaS4ly_4E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aXzaS4ly_4E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aXzaS4ly_4E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이비온",
+        "playlistId": "UU2X_pEXXcvVZY5XlyeLR4_w",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "aXzaS4ly_4E"
+        },
+        "videoOwnerChannelTitle": "이비온",
+        "videoOwnerChannelId": "UC2X_pEXXcvVZY5XlyeLR4_w"
+      },
+      "contentDetails": {
+        "videoId": "aXzaS4ly_4E",
+        "videoPublishedAt": "2023-11-05T04:55:47Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "tFLmwFJroM0T35mq1ycJEeAgRgc",
+      "id": "VVUyWF9wRVhYY3ZWWlk1WGx5ZUxSNF93Lmc4VC1GcXVybmVF",
+      "snippet": {
+        "publishedAt": "2023-11-04T03:23:53Z",
+        "channelId": "UC2X_pEXXcvVZY5XlyeLR4_w",
+        "title": "또 뭔데",
+        "description": "#shorts \n\n마인크래프트",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/g8T-FqurneE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/g8T-FqurneE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/g8T-FqurneE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/g8T-FqurneE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/g8T-FqurneE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이비온",
+        "playlistId": "UU2X_pEXXcvVZY5XlyeLR4_w",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "g8T-FqurneE"
+        },
+        "videoOwnerChannelTitle": "이비온",
+        "videoOwnerChannelId": "UC2X_pEXXcvVZY5XlyeLR4_w"
+      },
+      "contentDetails": {
+        "videoId": "g8T-FqurneE",
+        "videoPublishedAt": "2023-11-04T03:23:53Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ZsAqw4URB9cCdurMlBr2dm1JAOw",
+      "id": "VVUyWF9wRVhYY3ZWWlk1WGx5ZUxSNF93Llk1YU15Ym50OWhn",
+      "snippet": {
+        "publishedAt": "2023-10-29T07:41:07Z",
+        "channelId": "UC2X_pEXXcvVZY5XlyeLR4_w",
+        "title": "끝",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Y5aMybnt9hg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Y5aMybnt9hg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Y5aMybnt9hg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Y5aMybnt9hg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Y5aMybnt9hg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이비온",
+        "playlistId": "UU2X_pEXXcvVZY5XlyeLR4_w",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Y5aMybnt9hg"
+        },
+        "videoOwnerChannelTitle": "이비온",
+        "videoOwnerChannelId": "UC2X_pEXXcvVZY5XlyeLR4_w"
+      },
+      "contentDetails": {
+        "videoId": "Y5aMybnt9hg",
+        "videoPublishedAt": "2023-10-29T07:41:07Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "BTM11zl4Eir9eGL0EuhRVGZ9KAA",
+      "id": "VVUyWF9wRVhYY3ZWWlk1WGx5ZUxSNF93LjlDMGhjNzlERGVZ",
+      "snippet": {
+        "publishedAt": "2023-10-17T08:37:22Z",
+        "channelId": "UC2X_pEXXcvVZY5XlyeLR4_w",
+        "title": "!?",
+        "description": "#shorts \n\n마인크래프트",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9C0hc79DDeY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9C0hc79DDeY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9C0hc79DDeY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9C0hc79DDeY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9C0hc79DDeY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이비온",
+        "playlistId": "UU2X_pEXXcvVZY5XlyeLR4_w",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9C0hc79DDeY"
+        },
+        "videoOwnerChannelTitle": "이비온",
+        "videoOwnerChannelId": "UC2X_pEXXcvVZY5XlyeLR4_w"
+      },
+      "contentDetails": {
+        "videoId": "9C0hc79DDeY",
+        "videoPublishedAt": "2023-10-17T08:37:22Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "egLmfRZFwshpBgz6Z6AammrQcNk",
+      "id": "VVUyWF9wRVhYY3ZWWlk1WGx5ZUxSNF93LlFKalJuY21pUDVr",
+      "snippet": {
+        "publishedAt": "2023-10-14T08:45:07Z",
+        "channelId": "UC2X_pEXXcvVZY5XlyeLR4_w",
+        "title": "분홍",
+        "description": "#shorts \n\n마인크래프트",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QJjRncmiP5k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QJjRncmiP5k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QJjRncmiP5k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QJjRncmiP5k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QJjRncmiP5k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이비온",
+        "playlistId": "UU2X_pEXXcvVZY5XlyeLR4_w",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "QJjRncmiP5k"
+        },
+        "videoOwnerChannelTitle": "이비온",
+        "videoOwnerChannelId": "UC2X_pEXXcvVZY5XlyeLR4_w"
+      },
+      "contentDetails": {
+        "videoId": "QJjRncmiP5k",
+        "videoPublishedAt": "2023-10-14T08:45:07Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "o_8KDnWlX1geOJDyhMLx8FP9n2o",
+      "id": "VVUyWF9wRVhYY3ZWWlk1WGx5ZUxSNF93LjVpdzdsMzJJTmtF",
+      "snippet": {
+        "publishedAt": "2023-10-10T07:40:23Z",
+        "channelId": "UC2X_pEXXcvVZY5XlyeLR4_w",
+        "title": "너는누구",
+        "description": "#shorts \n\n마인크래프트",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5iw7l32INkE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5iw7l32INkE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5iw7l32INkE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5iw7l32INkE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5iw7l32INkE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이비온",
+        "playlistId": "UU2X_pEXXcvVZY5XlyeLR4_w",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "5iw7l32INkE"
+        },
+        "videoOwnerChannelTitle": "이비온",
+        "videoOwnerChannelId": "UC2X_pEXXcvVZY5XlyeLR4_w"
+      },
+      "contentDetails": {
+        "videoId": "5iw7l32INkE",
+        "videoPublishedAt": "2023-10-10T07:40:23Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "LH_aHa00tu5FlrtuFlrccGxFzOM",
+      "id": "VVUyWF9wRVhYY3ZWWlk1WGx5ZUxSNF93Llk1aU1wbFlvUjdz",
+      "snippet": {
+        "publishedAt": "2023-10-08T04:25:22Z",
+        "channelId": "UC2X_pEXXcvVZY5XlyeLR4_w",
+        "title": "하이",
+        "description": "#shorts \n\n마인크래프트",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Y5iMplYoR7s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Y5iMplYoR7s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Y5iMplYoR7s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Y5iMplYoR7s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Y5iMplYoR7s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이비온",
+        "playlistId": "UU2X_pEXXcvVZY5XlyeLR4_w",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Y5iMplYoR7s"
+        },
+        "videoOwnerChannelTitle": "이비온",
+        "videoOwnerChannelId": "UC2X_pEXXcvVZY5XlyeLR4_w"
+      },
+      "contentDetails": {
+        "videoId": "Y5iMplYoR7s",
+        "videoPublishedAt": "2023-10-08T04:25:22Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4J_ImmhwPH2-9kwYq-qjy2esGIA",
+      "id": "VVUyWF9wRVhYY3ZWWlk1WGx5ZUxSNF93LkduVHdzOXYtVDdV",
+      "snippet": {
+        "publishedAt": "2023-10-06T08:51:33Z",
+        "channelId": "UC2X_pEXXcvVZY5XlyeLR4_w",
+        "title": "보라",
+        "description": "#shorts \n\n마인크래프트",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GnTws9v-T7U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GnTws9v-T7U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GnTws9v-T7U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GnTws9v-T7U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GnTws9v-T7U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이비온",
+        "playlistId": "UU2X_pEXXcvVZY5XlyeLR4_w",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "GnTws9v-T7U"
+        },
+        "videoOwnerChannelTitle": "이비온",
+        "videoOwnerChannelId": "UC2X_pEXXcvVZY5XlyeLR4_w"
+      },
+      "contentDetails": {
+        "videoId": "GnTws9v-T7U",
+        "videoPublishedAt": "2023-10-06T08:51:33Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "MDTbg9huP8tnScph6KU5iGAFoDM",
+      "id": "VVUyWF9wRVhYY3ZWWlk1WGx5ZUxSNF93LjlUNG9icjJWZHBj",
+      "snippet": {
+        "publishedAt": "2023-10-03T09:38:58Z",
+        "channelId": "UC2X_pEXXcvVZY5XlyeLR4_w",
+        "title": "거꾸로",
+        "description": "#shorts \n\n마인크래프트",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9T4obr2Vdpc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9T4obr2Vdpc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9T4obr2Vdpc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9T4obr2Vdpc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9T4obr2Vdpc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이비온",
+        "playlistId": "UU2X_pEXXcvVZY5XlyeLR4_w",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9T4obr2Vdpc"
+        },
+        "videoOwnerChannelTitle": "이비온",
+        "videoOwnerChannelId": "UC2X_pEXXcvVZY5XlyeLR4_w"
+      },
+      "contentDetails": {
+        "videoId": "9T4obr2Vdpc",
+        "videoPublishedAt": "2023-10-03T09:38:58Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2XMR_TihgXW6Hv_OJXC5wtpMbZc",
+      "id": "VVUyWF9wRVhYY3ZWWlk1WGx5ZUxSNF93LjUzQlFxQ0Jpckl3",
+      "snippet": {
+        "publishedAt": "2023-10-01T05:14:02Z",
+        "channelId": "UC2X_pEXXcvVZY5XlyeLR4_w",
+        "title": "나는누구",
+        "description": "#shorts \n\n마인크래프트",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/53BQqCBirIw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/53BQqCBirIw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/53BQqCBirIw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/53BQqCBirIw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/53BQqCBirIw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이비온",
+        "playlistId": "UU2X_pEXXcvVZY5XlyeLR4_w",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "53BQqCBirIw"
+        },
+        "videoOwnerChannelTitle": "이비온",
+        "videoOwnerChannelId": "UC2X_pEXXcvVZY5XlyeLR4_w"
+      },
+      "contentDetails": {
+        "videoId": "53BQqCBirIw",
+        "videoPublishedAt": "2023-10-01T05:14:02Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "vO3PqHOtVo9lbGAWLcQJEeDdKoI",
+      "id": "VVUyWF9wRVhYY3ZWWlk1WGx5ZUxSNF93Lk1pa2o4eG5QSVRR",
+      "snippet": {
+        "publishedAt": "2023-09-29T06:58:52Z",
+        "channelId": "UC2X_pEXXcvVZY5XlyeLR4_w",
+        "title": "믿습니다",
+        "description": "지금부터 48시간\n\n #shorts \n\n이 공약은 언제 지키나요?\n- 계속 조금씩 진행 중이고 여러분의 기억에서 잊혀질 때쯤 언젠간 영상이 올라올 거니까 기다려 주세요\n도망간 거 아니냐 하시는데 상식적으로 광물 몇십만 개를 며칠만에 캐서 짜잔 나타나는 게 더 비현실적이지 않을까요 허허",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Mikj8xnPITQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Mikj8xnPITQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Mikj8xnPITQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Mikj8xnPITQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Mikj8xnPITQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이비온",
+        "playlistId": "UU2X_pEXXcvVZY5XlyeLR4_w",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Mikj8xnPITQ"
+        },
+        "videoOwnerChannelTitle": "이비온",
+        "videoOwnerChannelId": "UC2X_pEXXcvVZY5XlyeLR4_w"
+      },
+      "contentDetails": {
+        "videoId": "Mikj8xnPITQ",
+        "videoPublishedAt": "2023-09-29T06:58:52Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "IoMeSC2mdanM0ooHarfpALFalYs",
+      "id": "VVUyWF9wRVhYY3ZWWlk1WGx5ZUxSNF93Llhna2ZPZ1kxdGo4",
+      "snippet": {
+        "publishedAt": "2023-09-28T02:43:29Z",
+        "channelId": "UC2X_pEXXcvVZY5XlyeLR4_w",
+        "title": "여긴어디",
+        "description": "#shorts \n\n마인크래프트",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XgkfOgY1tj8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XgkfOgY1tj8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XgkfOgY1tj8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XgkfOgY1tj8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XgkfOgY1tj8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이비온",
+        "playlistId": "UU2X_pEXXcvVZY5XlyeLR4_w",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "XgkfOgY1tj8"
+        },
+        "videoOwnerChannelTitle": "이비온",
+        "videoOwnerChannelId": "UC2X_pEXXcvVZY5XlyeLR4_w"
+      },
+      "contentDetails": {
+        "videoId": "XgkfOgY1tj8",
+        "videoPublishedAt": "2023-09-28T02:43:29Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "PUOjGQLFAbXDl3pAOKXA5108ZpU",
+      "id": "VVUyWF9wRVhYY3ZWWlk1WGx5ZUxSNF93LkpWRDZGRVN2VGRF",
+      "snippet": {
+        "publishedAt": "2023-09-26T08:25:38Z",
+        "channelId": "UC2X_pEXXcvVZY5XlyeLR4_w",
+        "title": "터집니다",
+        "description": "#shorts \n\n마인크래프트",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JVD6FESvTdE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JVD6FESvTdE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JVD6FESvTdE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JVD6FESvTdE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JVD6FESvTdE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이비온",
+        "playlistId": "UU2X_pEXXcvVZY5XlyeLR4_w",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "JVD6FESvTdE"
+        },
+        "videoOwnerChannelTitle": "이비온",
+        "videoOwnerChannelId": "UC2X_pEXXcvVZY5XlyeLR4_w"
+      },
+      "contentDetails": {
+        "videoId": "JVD6FESvTdE",
+        "videoPublishedAt": "2023-09-26T08:25:38Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Jjg6akZSb3cSxk9i5E5GSB_n-TA",
+      "id": "VVUyWF9wRVhYY3ZWWlk1WGx5ZUxSNF93LkxlMHlHd180M1Zz",
+      "snippet": {
+        "publishedAt": "2023-09-25T07:25:12Z",
+        "channelId": "UC2X_pEXXcvVZY5XlyeLR4_w",
+        "title": "고인물만 아는 마인크래프트 25가지 기술들",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Le0yGw_43Vs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Le0yGw_43Vs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Le0yGw_43Vs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Le0yGw_43Vs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Le0yGw_43Vs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이비온",
+        "playlistId": "UU2X_pEXXcvVZY5XlyeLR4_w",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Le0yGw_43Vs"
+        },
+        "videoOwnerChannelTitle": "이비온",
+        "videoOwnerChannelId": "UC2X_pEXXcvVZY5XlyeLR4_w"
+      },
+      "contentDetails": {
+        "videoId": "Le0yGw_43Vs",
+        "videoPublishedAt": "2023-09-25T07:25:12Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "cy_55PUdDPRWfyZW3cAyaVnwcQM",
+      "id": "VVUyWF9wRVhYY3ZWWlk1WGx5ZUxSNF93Lkh4c0phOEJxeTBr",
+      "snippet": {
+        "publishedAt": "2023-09-23T07:34:28Z",
+        "channelId": "UC2X_pEXXcvVZY5XlyeLR4_w",
+        "title": "스치면 사망",
+        "description": "#shorts \n\n마인크래프트",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HxsJa8Bqy0k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HxsJa8Bqy0k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HxsJa8Bqy0k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HxsJa8Bqy0k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HxsJa8Bqy0k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이비온",
+        "playlistId": "UU2X_pEXXcvVZY5XlyeLR4_w",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "HxsJa8Bqy0k"
+        },
+        "videoOwnerChannelTitle": "이비온",
+        "videoOwnerChannelId": "UC2X_pEXXcvVZY5XlyeLR4_w"
+      },
+      "contentDetails": {
+        "videoId": "HxsJa8Bqy0k",
+        "videoPublishedAt": "2023-09-23T07:34:28Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "BsAcd41ZW6q0S8ug-8cltsk6kvo",
+      "id": "VVUyWF9wRVhYY3ZWWlk1WGx5ZUxSNF93LjUwVm13aWxqUFQ4",
+      "snippet": {
+        "publishedAt": "2023-09-22T09:13:58Z",
+        "channelId": "UC2X_pEXXcvVZY5XlyeLR4_w",
+        "title": "100일 동안 다이아만 캐기",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/50VmwiljPT8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/50VmwiljPT8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/50VmwiljPT8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/50VmwiljPT8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/50VmwiljPT8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이비온",
+        "playlistId": "UU2X_pEXXcvVZY5XlyeLR4_w",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "50VmwiljPT8"
+        },
+        "videoOwnerChannelTitle": "이비온",
+        "videoOwnerChannelId": "UC2X_pEXXcvVZY5XlyeLR4_w"
+      },
+      "contentDetails": {
+        "videoId": "50VmwiljPT8",
+        "videoPublishedAt": "2023-09-22T09:13:58Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "PoKDkl9paA7psJqvRAG5e2WCNI4",
+      "id": "VVUyWF9wRVhYY3ZWWlk1WGx5ZUxSNF93LjBDcG1xaDdoX2dr",
+      "snippet": {
+        "publishedAt": "2023-09-19T08:11:13Z",
+        "channelId": "UC2X_pEXXcvVZY5XlyeLR4_w",
+        "title": "무적 모드",
+        "description": "#shorts \n\n마인크래프트\n\nInvincible Difficulty by McMakistein\nDownload: https://mcmakistein.com/creations/invincible_difficulty\nCreator: https://youtube.com/McMakistein",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0Cpmqh7h_gk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0Cpmqh7h_gk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0Cpmqh7h_gk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0Cpmqh7h_gk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0Cpmqh7h_gk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이비온",
+        "playlistId": "UU2X_pEXXcvVZY5XlyeLR4_w",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0Cpmqh7h_gk"
+        },
+        "videoOwnerChannelTitle": "이비온",
+        "videoOwnerChannelId": "UC2X_pEXXcvVZY5XlyeLR4_w"
+      },
+      "contentDetails": {
+        "videoId": "0Cpmqh7h_gk",
+        "videoPublishedAt": "2023-09-19T08:11:13Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "5G3U0miAQprgHlZS4DSt2ZkSIz4",
+      "id": "VVUyWF9wRVhYY3ZWWlk1WGx5ZUxSNF93LkMtYzFpeHZDbHhj",
+      "snippet": {
+        "publishedAt": "2023-09-17T06:52:10Z",
+        "channelId": "UC2X_pEXXcvVZY5XlyeLR4_w",
+        "title": "랜덤 몹 챌린지",
+        "description": "#shorts \n\n마인크래프트",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/C-c1ixvClxc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/C-c1ixvClxc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/C-c1ixvClxc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/C-c1ixvClxc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/C-c1ixvClxc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이비온",
+        "playlistId": "UU2X_pEXXcvVZY5XlyeLR4_w",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "C-c1ixvClxc"
+        },
+        "videoOwnerChannelTitle": "이비온",
+        "videoOwnerChannelId": "UC2X_pEXXcvVZY5XlyeLR4_w"
+      },
+      "contentDetails": {
+        "videoId": "C-c1ixvClxc",
+        "videoPublishedAt": "2023-09-17T06:52:10Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "jmoB9RY3TdSFrATmaXmdEHQBbIU",
+      "id": "VVUyWF9wRVhYY3ZWWlk1WGx5ZUxSNF93LjktNTZBM05TajZZ",
+      "snippet": {
+        "publishedAt": "2023-09-16T06:24:26Z",
+        "channelId": "UC2X_pEXXcvVZY5XlyeLR4_w",
+        "title": "속도 100배",
+        "description": "#shorts \n\n마인크래프트",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9-56A3NSj6Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9-56A3NSj6Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9-56A3NSj6Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9-56A3NSj6Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9-56A3NSj6Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이비온",
+        "playlistId": "UU2X_pEXXcvVZY5XlyeLR4_w",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9-56A3NSj6Y"
+        },
+        "videoOwnerChannelTitle": "이비온",
+        "videoOwnerChannelId": "UC2X_pEXXcvVZY5XlyeLR4_w"
+      },
+      "contentDetails": {
+        "videoId": "9-56A3NSj6Y",
+        "videoPublishedAt": "2023-09-16T06:24:26Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "lVFMhz8uwsBD40QUby-sIuswLAw",
+      "id": "VVUyWF9wRVhYY3ZWWlk1WGx5ZUxSNF93Lktrd3o0a2lsMVMw",
+      "snippet": {
+        "publishedAt": "2023-09-14T10:12:30Z",
+        "channelId": "UC2X_pEXXcvVZY5XlyeLR4_w",
+        "title": "가장 희귀한 몹!",
+        "description": "#shorts \n\n마인크래프트",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Kkwz4kil1S0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Kkwz4kil1S0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Kkwz4kil1S0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Kkwz4kil1S0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Kkwz4kil1S0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이비온",
+        "playlistId": "UU2X_pEXXcvVZY5XlyeLR4_w",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Kkwz4kil1S0"
+        },
+        "videoOwnerChannelTitle": "이비온",
+        "videoOwnerChannelId": "UC2X_pEXXcvVZY5XlyeLR4_w"
+      },
+      "contentDetails": {
+        "videoId": "Kkwz4kil1S0",
+        "videoPublishedAt": "2023-09-14T10:12:30Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "tQcWczrKhTi40g0Wh454A5K8uiE",
+      "id": "VVUyWF9wRVhYY3ZWWlk1WGx5ZUxSNF93Ll84U3JjZHRIaE9N",
+      "snippet": {
+        "publishedAt": "2023-09-13T07:05:19Z",
+        "channelId": "UC2X_pEXXcvVZY5XlyeLR4_w",
+        "title": "랜덤 몬스터 블럭",
+        "description": "#shorts \n\n마인크래프트",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_8SrcdtHhOM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_8SrcdtHhOM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_8SrcdtHhOM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_8SrcdtHhOM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_8SrcdtHhOM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이비온",
+        "playlistId": "UU2X_pEXXcvVZY5XlyeLR4_w",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_8SrcdtHhOM"
+        },
+        "videoOwnerChannelTitle": "이비온",
+        "videoOwnerChannelId": "UC2X_pEXXcvVZY5XlyeLR4_w"
+      },
+      "contentDetails": {
+        "videoId": "_8SrcdtHhOM",
+        "videoPublishedAt": "2023-09-13T07:05:19Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "BEMcjocmFnRblXQQ5xYiLDD3alg",
+      "id": "VVUyWF9wRVhYY3ZWWlk1WGx5ZUxSNF93Lmk3aHQ0NWdEbnJR",
+      "snippet": {
+        "publishedAt": "2023-09-12T07:50:49Z",
+        "channelId": "UC2X_pEXXcvVZY5XlyeLR4_w",
+        "title": "가장 강한 몬스터!",
+        "description": "#shorts \n\n마인크래프트",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/i7ht45gDnrQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/i7ht45gDnrQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/i7ht45gDnrQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/i7ht45gDnrQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/i7ht45gDnrQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이비온",
+        "playlistId": "UU2X_pEXXcvVZY5XlyeLR4_w",
+        "position": 29,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "i7ht45gDnrQ"
+        },
+        "videoOwnerChannelTitle": "이비온",
+        "videoOwnerChannelId": "UC2X_pEXXcvVZY5XlyeLR4_w"
+      },
+      "contentDetails": {
+        "videoId": "i7ht45gDnrQ",
+        "videoPublishedAt": "2023-09-12T07:50:49Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "pAd0NQQgPyIYR9LxyDcEVhsR7pA",
+      "id": "VVUyWF9wRVhYY3ZWWlk1WGx5ZUxSNF93LlByUWRUbmpkWVFr",
+      "snippet": {
+        "publishedAt": "2023-09-07T10:16:57Z",
+        "channelId": "UC2X_pEXXcvVZY5XlyeLR4_w",
+        "title": "몬스터 1,000배",
+        "description": "#shorts \n\n마인크래프트",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PrQdTnjdYQk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PrQdTnjdYQk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PrQdTnjdYQk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PrQdTnjdYQk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PrQdTnjdYQk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이비온",
+        "playlistId": "UU2X_pEXXcvVZY5XlyeLR4_w",
+        "position": 30,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "PrQdTnjdYQk"
+        },
+        "videoOwnerChannelTitle": "이비온",
+        "videoOwnerChannelId": "UC2X_pEXXcvVZY5XlyeLR4_w"
+      },
+      "contentDetails": {
+        "videoId": "PrQdTnjdYQk",
+        "videoPublishedAt": "2023-09-07T10:16:57Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "vco1GlpVFNkd3mobL4WkVqH5AUo",
+      "id": "VVUyWF9wRVhYY3ZWWlk1WGx5ZUxSNF93LjBBNHYwUjdVY21Z",
+      "snippet": {
+        "publishedAt": "2023-09-05T09:08:25Z",
+        "channelId": "UC2X_pEXXcvVZY5XlyeLR4_w",
+        "title": "기적을 믿습니까?",
+        "description": "#shorts \n\n마인크래프트",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0A4v0R7UcmY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0A4v0R7UcmY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0A4v0R7UcmY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0A4v0R7UcmY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0A4v0R7UcmY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이비온",
+        "playlistId": "UU2X_pEXXcvVZY5XlyeLR4_w",
+        "position": 31,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0A4v0R7UcmY"
+        },
+        "videoOwnerChannelTitle": "이비온",
+        "videoOwnerChannelId": "UC2X_pEXXcvVZY5XlyeLR4_w"
+      },
+      "contentDetails": {
+        "videoId": "0A4v0R7UcmY",
+        "videoPublishedAt": "2023-09-05T09:08:25Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "QP3HrutsJWjVBRaRjjm7y0SxA98",
+      "id": "VVUyWF9wRVhYY3ZWWlk1WGx5ZUxSNF93LnJSQVFjbndVSFJv",
+      "snippet": {
+        "publishedAt": "2023-09-04T09:13:19Z",
+        "channelId": "UC2X_pEXXcvVZY5XlyeLR4_w",
+        "title": "워든 vs 5,000강화 활",
+        "description": "#shorts \n\n마인크래프트",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rRAQcnwUHRo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rRAQcnwUHRo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rRAQcnwUHRo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rRAQcnwUHRo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rRAQcnwUHRo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이비온",
+        "playlistId": "UU2X_pEXXcvVZY5XlyeLR4_w",
+        "position": 32,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "rRAQcnwUHRo"
+        },
+        "videoOwnerChannelTitle": "이비온",
+        "videoOwnerChannelId": "UC2X_pEXXcvVZY5XlyeLR4_w"
+      },
+      "contentDetails": {
+        "videoId": "rRAQcnwUHRo",
+        "videoPublishedAt": "2023-09-04T09:13:19Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "tNO-D3LmbEPgoFCCpJD2E9qwW4E",
+      "id": "VVUyWF9wRVhYY3ZWWlk1WGx5ZUxSNF93Lk1nRnJsUC02d1Nz",
+      "snippet": {
+        "publishedAt": "2023-09-03T09:16:08Z",
+        "channelId": "UC2X_pEXXcvVZY5XlyeLR4_w",
+        "title": "엔더진주 1,000개",
+        "description": "#shorts \n\n마인크래프트",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MgFrlP-6wSs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MgFrlP-6wSs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MgFrlP-6wSs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MgFrlP-6wSs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MgFrlP-6wSs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이비온",
+        "playlistId": "UU2X_pEXXcvVZY5XlyeLR4_w",
+        "position": 33,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "MgFrlP-6wSs"
+        },
+        "videoOwnerChannelTitle": "이비온",
+        "videoOwnerChannelId": "UC2X_pEXXcvVZY5XlyeLR4_w"
+      },
+      "contentDetails": {
+        "videoId": "MgFrlP-6wSs",
+        "videoPublishedAt": "2023-09-03T09:16:08Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "video_details": [
+    {
+      "kind": "youtube#video",
+      "etag": "Lh9ql3rOxqGqqJWK6R6SnAmUeNY",
+      "id": "pvLlRyMtul8",
+      "snippet": {
+        "publishedAt": "2024-09-15T11:46:55Z",
+        "channelId": "UC2X_pEXXcvVZY5XlyeLR4_w",
+        "title": "마인크래프트 평지 100일 생존기",
+        "description": "마인크래프트 평지 100일 생존기\n\n크레딧\nJhun (개발) https://github.com/jhhan611\n이루미 (버그 수정) https://github.com/dansoda\n\n\n아래는 TMI이니 읽지 않으셔도 됩니다.\n\n이 영상에서는 월드 백업을 이용해 천둥 시간과 같은 랜덤 요소를 조작하거나 재촬영을 한 부분들이 존재하며,\n게임 속도를 조절하는 모드를 사용하여 afk시 기다리는 시간을 단축하기도 하였습니다.\n저도 백업 없이 진행하고 싶었지만 그렇게 하니까 물 양동이 얻기까지만 자그마치 205일이 걸려서(..)\n하다가 도저히 안 되겠다 싶어 싹 갈아엎고 처음부터 다시 촬영했습니다.\n(맞습니다 놀랍게도 205일차까지 진행했다가 다시 촬영한 영상입니다)\n하지만 게임 데이터를 변경하거나 치트를 사용하여 아이템을 꺼내는 등 게임 플레이에 직접적인 이득을 주는 행위는 하지 않았으며,\n모든 진행 과정은 지난 2개월 간 243시간 분량의 비공개 스트리밍을 통해 남겨놓았음을 밝힙니다.\n구조물과 바이옴 위치 탐색에는 같은 시드의 일반 월드와 chunkbase 를 사용했습니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pvLlRyMtul8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pvLlRyMtul8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pvLlRyMtul8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pvLlRyMtul8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pvLlRyMtul8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이비온",
+        "tags": [
+          "마인크래프트",
+          "마크",
+          "이비온"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "마인크래프트 평지 100일 생존기",
+          "description": "마인크래프트 평지 100일 생존기\n\n크레딧\nJhun (개발) https://github.com/jhhan611\n이루미 (버그 수정) https://github.com/dansoda\n\n\n아래는 TMI이니 읽지 않으셔도 됩니다.\n\n이 영상에서는 월드 백업을 이용해 천둥 시간과 같은 랜덤 요소를 조작하거나 재촬영을 한 부분들이 존재하며,\n게임 속도를 조절하는 모드를 사용하여 afk시 기다리는 시간을 단축하기도 하였습니다.\n저도 백업 없이 진행하고 싶었지만 그렇게 하니까 물 양동이 얻기까지만 자그마치 205일이 걸려서(..)\n하다가 도저히 안 되겠다 싶어 싹 갈아엎고 처음부터 다시 촬영했습니다.\n(맞습니다 놀랍게도 205일차까지 진행했다가 다시 촬영한 영상입니다)\n하지만 게임 데이터를 변경하거나 치트를 사용하여 아이템을 꺼내는 등 게임 플레이에 직접적인 이득을 주는 행위는 하지 않았으며,\n모든 진행 과정은 지난 2개월 간 243시간 분량의 비공개 스트리밍을 통해 남겨놓았음을 밝힙니다.\n구조물과 바이옴 위치 탐색에는 같은 시드의 일반 월드와 chunkbase 를 사용했습니다."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT35M21S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "19012681",
+        "likeCount": "397489",
+        "favoriteCount": "0",
+        "commentCount": "16928"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action-adventure_game",
+          "https://en.wikipedia.org/wiki/Role-playing_video_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "마인크래프트 평지 100일 생존기",
+          "description": "마인크래프트 평지 100일 생존기\n\n크레딧\nJhun (개발) https://github.com/jhhan611\n이루미 (버그 수정) https://github.com/dansoda\n\n\n아래는 TMI이니 읽지 않으셔도 됩니다.\n\n이 영상에서는 월드 백업을 이용해 천둥 시간과 같은 랜덤 요소를 조작하거나 재촬영을 한 부분들이 존재하며,\n게임 속도를 조절하는 모드를 사용하여 afk시 기다리는 시간을 단축하기도 하였습니다.\n저도 백업 없이 진행하고 싶었지만 그렇게 하니까 물 양동이 얻기까지만 자그마치 205일이 걸려서(..)\n하다가 도저히 안 되겠다 싶어 싹 갈아엎고 처음부터 다시 촬영했습니다.\n(맞습니다 놀랍게도 205일차까지 진행했다가 다시 촬영한 영상입니다)\n하지만 게임 데이터를 변경하거나 치트를 사용하여 아이템을 꺼내는 등 게임 플레이에 직접적인 이득을 주는 행위는 하지 않았으며,\n모든 진행 과정은 지난 2개월 간 243시간 분량의 비공개 스트리밍을 통해 남겨놓았음을 밝힙니다.\n구조물과 바이옴 위치 탐색에는 같은 시드의 일반 월드와 chunkbase 를 사용했습니다."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "KYl3bHeJPG_KtT8OIqzkU3fmu1Y",
+      "id": "8wG44LkaXZc",
+      "snippet": {
+        "publishedAt": "2024-07-07T07:55:05Z",
+        "channelId": "UC2X_pEXXcvVZY5XlyeLR4_w",
+        "title": "내가 광물 1,724,000개를 모은 이유",
+        "description": "구독\n\ntweakeroo, carpet, minihud, itemscroller 와 같은 편의성 모드를 사용했습니다.\n\n참고한 영상\nhttps://www.youtube.com/watch?v=6xe4I4EqnFw\nhttps://www.youtube.com/watch?v=OrV07_ob6GI\nhttps://www.youtube.com/watch?v=n3mOlrMGjUg\nhttps://www.youtube.com/watch?v=K7zw4JYyBeo\nhttps://www.youtube.com/watch?v=iBbXuK79syA\nhttps://www.youtube.com/watch?v=Yr77PW9OojU",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8wG44LkaXZc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8wG44LkaXZc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8wG44LkaXZc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8wG44LkaXZc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8wG44LkaXZc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이비온",
+        "tags": [
+          "마인크래프트",
+          "마크",
+          "이비온"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "내가 광물 1,724,000개를 모은 이유",
+          "description": "구독\n\ntweakeroo, carpet, minihud, itemscroller 와 같은 편의성 모드를 사용했습니다.\n\n참고한 영상\nhttps://www.youtube.com/watch?v=6xe4I4EqnFw\nhttps://www.youtube.com/watch?v=OrV07_ob6GI\nhttps://www.youtube.com/watch?v=n3mOlrMGjUg\nhttps://www.youtube.com/watch?v=K7zw4JYyBeo\nhttps://www.youtube.com/watch?v=iBbXuK79syA\nhttps://www.youtube.com/watch?v=Yr77PW9OojU"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT17M25S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "9943420",
+        "likeCount": "250780",
+        "favoriteCount": "0",
+        "commentCount": "7353"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action-adventure_game",
+          "https://en.wikipedia.org/wiki/Role-playing_video_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "내가 광물 1,724,000개를 모은 이유",
+          "description": "구독\n\ntweakeroo, carpet, minihud, itemscroller 와 같은 편의성 모드를 사용했습니다.\n\n참고한 영상\nhttps://www.youtube.com/watch?v=6xe4I4EqnFw\nhttps://www.youtube.com/watch?v=OrV07_ob6GI\nhttps://www.youtube.com/watch?v=n3mOlrMGjUg\nhttps://www.youtube.com/watch?v=K7zw4JYyBeo\nhttps://www.youtube.com/watch?v=iBbXuK79syA\nhttps://www.youtube.com/watch?v=Yr77PW9OojU"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "bQGaHCxJl-txo3kaFJXetn89POw",
+      "id": "r3Sf_2KjPuc",
+      "snippet": {
+        "publishedAt": "2024-04-12T13:17:55Z",
+        "channelId": "UC2X_pEXXcvVZY5XlyeLR4_w",
+        "title": "마인크래프트 하드코어 24시간 생존기",
+        "description": "마인크래프트 하드코어 24시간 생존기\n\n- tweakeroo, carpet, minihud, replaymod 와 같은 편의성 모드를 사용했습니다.\n- 영상의 흐름을 위해 생략하거나 연출로써 재구성한 부분이 존재합니다.\n- 상단의 시간 표시는 이해를 돕기 위한 요소일 뿐 100% 정확하지 않습니다.\n- afk에 봇 모드를 사용하였고 이를 편의상 부계정으로 표현했습니다. (봇이라 굶어죽지 않았음)\n- 구조물과 바이옴 탐색에 chunkbase 를 사용했습니다.\n- @ianxofour 의 위더 스켈레톤, 옵시디언 팜 디자인을 사용했습니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/r3Sf_2KjPuc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/r3Sf_2KjPuc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/r3Sf_2KjPuc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/r3Sf_2KjPuc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/r3Sf_2KjPuc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이비온",
+        "tags": [
+          "마인크래프트",
+          "마크"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "마인크래프트 하드코어 24시간 생존기",
+          "description": "마인크래프트 하드코어 24시간 생존기\n\n- tweakeroo, carpet, minihud, replaymod 와 같은 편의성 모드를 사용했습니다.\n- 영상의 흐름을 위해 생략하거나 연출로써 재구성한 부분이 존재합니다.\n- 상단의 시간 표시는 이해를 돕기 위한 요소일 뿐 100% 정확하지 않습니다.\n- afk에 봇 모드를 사용하였고 이를 편의상 부계정으로 표현했습니다. (봇이라 굶어죽지 않았음)\n- 구조물과 바이옴 탐색에 chunkbase 를 사용했습니다.\n- @ianxofour 의 위더 스켈레톤, 옵시디언 팜 디자인을 사용했습니다."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT19M16S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "10858056",
+        "likeCount": "120690",
+        "favoriteCount": "0",
+        "commentCount": "6109"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action-adventure_game",
+          "https://en.wikipedia.org/wiki/Role-playing_video_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "마인크래프트 하드코어 24시간 생존기",
+          "description": "마인크래프트 하드코어 24시간 생존기\n\n- tweakeroo, carpet, minihud, replaymod 와 같은 편의성 모드를 사용했습니다.\n- 영상의 흐름을 위해 생략하거나 연출로써 재구성한 부분이 존재합니다.\n- 상단의 시간 표시는 이해를 돕기 위한 요소일 뿐 100% 정확하지 않습니다.\n- afk에 봇 모드를 사용하였고 이를 편의상 부계정으로 표현했습니다. (봇이라 굶어죽지 않았음)\n- 구조물과 바이옴 탐색에 chunkbase 를 사용했습니다.\n- @ianxofour 의 위더 스켈레톤, 옵시디언 팜 디자인을 사용했습니다."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "5wh-EAjqQZfkm2_kyJVMkqIpbyM",
+      "id": "32kAVQdADiY",
+      "snippet": {
+        "publishedAt": "2024-02-09T05:10:35Z",
+        "channelId": "UC2X_pEXXcvVZY5XlyeLR4_w",
+        "title": "마인크래프트 방탈출 챌린지!",
+        "description": "@무새 인증 고\n\n일부 연출이 포함되어 있으니 재미로만 시청해 주세요\n멋진 맵을 만들어주신 제작자분들께 다시 한번 감사드립니다:)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/32kAVQdADiY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/32kAVQdADiY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/32kAVQdADiY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/32kAVQdADiY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/32kAVQdADiY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이비온",
+        "tags": [
+          "마인크래프트",
+          "마크",
+          "스토리",
+          "이비온"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "마인크래프트 방탈출 챌린지!",
+          "description": "@무새 인증 고\n\n일부 연출이 포함되어 있으니 재미로만 시청해 주세요\n멋진 맵을 만들어주신 제작자분들께 다시 한번 감사드립니다:)"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT9M32S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "7185964",
+        "likeCount": "57768",
+        "favoriteCount": "0",
+        "commentCount": "2886"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action-adventure_game",
+          "https://en.wikipedia.org/wiki/Role-playing_video_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "마인크래프트 방탈출 챌린지!",
+          "description": "@무새 인증 고\n\n일부 연출이 포함되어 있으니 재미로만 시청해 주세요\n멋진 맵을 만들어주신 제작자분들께 다시 한번 감사드립니다:)"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "PUq5CBcF7Rd6urnMo9z0pdwlFzk",
+      "id": "yWmKKWln9kg",
+      "snippet": {
+        "publishedAt": "2023-12-03T04:56:43Z",
+        "channelId": "UC2X_pEXXcvVZY5XlyeLR4_w",
+        "title": "이건 몰랐지",
+        "description": "#shorts \n\n마인크래프트\n\n천장이 1블럭 두께라는 것은 F3 메뉴에서 확인할 수 있습니다 (Heightmap)\n\n*일부 연출이 있으니 재미로만 봐주세요:)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yWmKKWln9kg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yWmKKWln9kg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yWmKKWln9kg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yWmKKWln9kg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yWmKKWln9kg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이비온",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "이건 몰랐지",
+          "description": "#shorts \n\n마인크래프트\n\n천장이 1블럭 두께라는 것은 F3 메뉴에서 확인할 수 있습니다 (Heightmap)\n\n*일부 연출이 있으니 재미로만 봐주세요:)"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT39S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "16705936",
+        "likeCount": "342108",
+        "favoriteCount": "0",
+        "commentCount": "7021"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action-adventure_game",
+          "https://en.wikipedia.org/wiki/Role-playing_video_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "이건 몰랐지",
+          "description": "#shorts \n\n마인크래프트\n\n천장이 1블럭 두께라는 것은 F3 메뉴에서 확인할 수 있습니다 (Heightmap)\n\n*일부 연출이 있으니 재미로만 봐주세요:)"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "v84ob-Ow0NeAPP_6Ewz8m43PVfY",
+      "id": "_JSl2ANm2J0",
+      "snippet": {
+        "publishedAt": "2023-11-25T09:48:56Z",
+        "channelId": "UC2X_pEXXcvVZY5XlyeLR4_w",
+        "title": "불가능",
+        "description": "@꼬예유  \n #shorts \n\n마인크래프트",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_JSl2ANm2J0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_JSl2ANm2J0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_JSl2ANm2J0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_JSl2ANm2J0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_JSl2ANm2J0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이비온",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "불가능",
+          "description": "@꼬예유  \n #shorts \n\n마인크래프트"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT58S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "15517552",
+        "likeCount": "310228",
+        "favoriteCount": "0",
+        "commentCount": "2966"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action-adventure_game",
+          "https://en.wikipedia.org/wiki/Role-playing_video_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "불가능",
+          "description": "@꼬예유  \n #shorts \n\n마인크래프트"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "7-YNX04SA1L670mIOrQsj-NhNvQ",
+      "id": "qTdldMd-Q5Q",
+      "snippet": {
+        "publishedAt": "2023-11-11T08:57:50Z",
+        "channelId": "UC2X_pEXXcvVZY5XlyeLR4_w",
+        "title": "뇌절",
+        "description": "#shorts \n\n마인크래프트",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qTdldMd-Q5Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qTdldMd-Q5Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qTdldMd-Q5Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qTdldMd-Q5Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qTdldMd-Q5Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이비온",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "뇌절",
+          "description": "#shorts \n\n마인크래프트"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT59S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "11979596",
+        "likeCount": "259162",
+        "favoriteCount": "0",
+        "commentCount": "2530"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action-adventure_game",
+          "https://en.wikipedia.org/wiki/Role-playing_video_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "뇌절",
+          "description": "#shorts \n\n마인크래프트"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Gc7EefJSj2qUKQn1W_DI2o8ZyPo",
+      "id": "cQZ4mMxGsN8",
+      "snippet": {
+        "publishedAt": "2023-11-09T07:43:50Z",
+        "channelId": "UC2X_pEXXcvVZY5XlyeLR4_w",
+        "title": "멸치주먹밥",
+        "description": "영상을 날\n\n#shorts  \n\n마인크래프트",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cQZ4mMxGsN8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cQZ4mMxGsN8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cQZ4mMxGsN8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cQZ4mMxGsN8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cQZ4mMxGsN8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이비온",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "멸치주먹밥",
+          "description": "영상을 날\n\n#shorts  \n\n마인크래프트"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT29S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "9681244",
+        "likeCount": "310680",
+        "favoriteCount": "0",
+        "commentCount": "7077"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action-adventure_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "멸치주먹밥",
+          "description": "영상을 날\n\n#shorts  \n\n마인크래프트"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "lXUx3iJ56QOoByaADtl_Z82EXJ4",
+      "id": "aXzaS4ly_4E",
+      "snippet": {
+        "publishedAt": "2023-11-05T04:55:47Z",
+        "channelId": "UC2X_pEXXcvVZY5XlyeLR4_w",
+        "title": "끝을 봅시다",
+        "description": "#shorts \n\n마인크래프트",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aXzaS4ly_4E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aXzaS4ly_4E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aXzaS4ly_4E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aXzaS4ly_4E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aXzaS4ly_4E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이비온",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "끝을 봅시다",
+          "description": "#shorts \n\n마인크래프트"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT42S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "6858421",
+        "likeCount": "211632",
+        "favoriteCount": "0",
+        "commentCount": "7561"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action-adventure_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "끝을 봅시다",
+          "description": "#shorts \n\n마인크래프트"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "VxmBLjssXr_Z1hJKF5Yyk_AKll0",
+      "id": "g8T-FqurneE",
+      "snippet": {
+        "publishedAt": "2023-11-04T03:23:53Z",
+        "channelId": "UC2X_pEXXcvVZY5XlyeLR4_w",
+        "title": "또 뭔데",
+        "description": "#shorts \n\n마인크래프트",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/g8T-FqurneE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/g8T-FqurneE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/g8T-FqurneE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/g8T-FqurneE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/g8T-FqurneE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이비온",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "또 뭔데",
+          "description": "#shorts \n\n마인크래프트"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT40S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "14831018",
+        "likeCount": "305461",
+        "favoriteCount": "0",
+        "commentCount": "7142"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action-adventure_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "또 뭔데",
+          "description": "#shorts \n\n마인크래프트"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "bkDqV3iyfvN-kvbMGRQwQozszjI",
+      "id": "Y5aMybnt9hg",
+      "snippet": {
+        "publishedAt": "2023-10-29T07:41:07Z",
+        "channelId": "UC2X_pEXXcvVZY5XlyeLR4_w",
+        "title": "끝",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Y5aMybnt9hg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Y5aMybnt9hg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Y5aMybnt9hg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Y5aMybnt9hg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Y5aMybnt9hg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이비온",
+        "tags": [
+          "스토리",
+          "이비온"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "끝",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT32S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "7155151",
+        "likeCount": "87144",
+        "favoriteCount": "0",
+        "commentCount": "8714"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "끝",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "1Y3ySIZYBh0BpHym7Jbx28odvLg",
+      "id": "9C0hc79DDeY",
+      "snippet": {
+        "publishedAt": "2023-10-17T08:37:22Z",
+        "channelId": "UC2X_pEXXcvVZY5XlyeLR4_w",
+        "title": "!?",
+        "description": "#shorts \n\n마인크래프트",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9C0hc79DDeY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9C0hc79DDeY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9C0hc79DDeY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9C0hc79DDeY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9C0hc79DDeY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이비온",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "!?",
+          "description": "#shorts \n\n마인크래프트"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT55S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "8990144",
+        "likeCount": "235897",
+        "favoriteCount": "0",
+        "commentCount": "3486"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action-adventure_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "!?",
+          "description": "#shorts \n\n마인크래프트"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ufsvqaHH-r33E7XxvBxgAjCTu9o",
+      "id": "QJjRncmiP5k",
+      "snippet": {
+        "publishedAt": "2023-10-14T08:45:07Z",
+        "channelId": "UC2X_pEXXcvVZY5XlyeLR4_w",
+        "title": "분홍",
+        "description": "#shorts \n\n마인크래프트",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QJjRncmiP5k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QJjRncmiP5k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QJjRncmiP5k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QJjRncmiP5k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QJjRncmiP5k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이비온",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "분홍",
+          "description": "#shorts \n\n마인크래프트"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT52S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "13745469",
+        "likeCount": "364075",
+        "favoriteCount": "0",
+        "commentCount": "3177"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action-adventure_game",
+          "https://en.wikipedia.org/wiki/Role-playing_video_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "분홍",
+          "description": "#shorts \n\n마인크래프트"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "hJ7klJudoqssD2jHY2vy74o69Uc",
+      "id": "5iw7l32INkE",
+      "snippet": {
+        "publishedAt": "2023-10-10T07:40:23Z",
+        "channelId": "UC2X_pEXXcvVZY5XlyeLR4_w",
+        "title": "너는누구",
+        "description": "#shorts \n\n마인크래프트",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5iw7l32INkE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5iw7l32INkE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5iw7l32INkE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5iw7l32INkE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5iw7l32INkE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이비온",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "너는누구",
+          "description": "#shorts \n\n마인크래프트"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT59S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "9719597",
+        "likeCount": "259029",
+        "favoriteCount": "0",
+        "commentCount": "1790"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action-adventure_game",
+          "https://en.wikipedia.org/wiki/Role-playing_video_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "너는누구",
+          "description": "#shorts \n\n마인크래프트"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "t-cEkbH0vJGD2oTFu1CiGrPN9UE",
+      "id": "Y5iMplYoR7s",
+      "snippet": {
+        "publishedAt": "2023-10-08T04:25:22Z",
+        "channelId": "UC2X_pEXXcvVZY5XlyeLR4_w",
+        "title": "하이",
+        "description": "#shorts \n\n마인크래프트",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Y5iMplYoR7s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Y5iMplYoR7s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Y5iMplYoR7s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Y5iMplYoR7s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Y5iMplYoR7s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이비온",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "하이",
+          "description": "#shorts \n\n마인크래프트"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT45S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "8307406",
+        "likeCount": "193344",
+        "favoriteCount": "0",
+        "commentCount": "3826"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action-adventure_game",
+          "https://en.wikipedia.org/wiki/Role-playing_video_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "하이",
+          "description": "#shorts \n\n마인크래프트"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "H6TDYzBzmLzQlOUHoNOuWgmFjm4",
+      "id": "GnTws9v-T7U",
+      "snippet": {
+        "publishedAt": "2023-10-06T08:51:33Z",
+        "channelId": "UC2X_pEXXcvVZY5XlyeLR4_w",
+        "title": "보라",
+        "description": "#shorts \n\n마인크래프트",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GnTws9v-T7U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GnTws9v-T7U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GnTws9v-T7U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GnTws9v-T7U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GnTws9v-T7U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이비온",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "보라",
+          "description": "#shorts \n\n마인크래프트"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT48S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "10642146",
+        "likeCount": "277104",
+        "favoriteCount": "0",
+        "commentCount": "5809"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action-adventure_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "보라",
+          "description": "#shorts \n\n마인크래프트"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "6CqbtdnFmYPdnVv5d2qLNoecanI",
+      "id": "9T4obr2Vdpc",
+      "snippet": {
+        "publishedAt": "2023-10-03T09:38:58Z",
+        "channelId": "UC2X_pEXXcvVZY5XlyeLR4_w",
+        "title": "거꾸로",
+        "description": "#shorts \n\n마인크래프트",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9T4obr2Vdpc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9T4obr2Vdpc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9T4obr2Vdpc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9T4obr2Vdpc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9T4obr2Vdpc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이비온",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "거꾸로",
+          "description": "#shorts \n\n마인크래프트"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT38S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "7555955",
+        "likeCount": "170521",
+        "favoriteCount": "0",
+        "commentCount": "1521"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action-adventure_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "거꾸로",
+          "description": "#shorts \n\n마인크래프트"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "72734MOIez3KI9t0TG4d1InRsH4",
+      "id": "53BQqCBirIw",
+      "snippet": {
+        "publishedAt": "2023-10-01T05:14:02Z",
+        "channelId": "UC2X_pEXXcvVZY5XlyeLR4_w",
+        "title": "나는누구",
+        "description": "#shorts \n\n마인크래프트",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/53BQqCBirIw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/53BQqCBirIw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/53BQqCBirIw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/53BQqCBirIw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/53BQqCBirIw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이비온",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "나는누구",
+          "description": "#shorts \n\n마인크래프트"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT56S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "8671000",
+        "likeCount": "214573",
+        "favoriteCount": "0",
+        "commentCount": "2068"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action-adventure_game",
+          "https://en.wikipedia.org/wiki/Role-playing_video_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "나는누구",
+          "description": "#shorts \n\n마인크래프트"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "uYzyfZXNf3YYP7jIgjkP3BMBzlc",
+      "id": "Mikj8xnPITQ",
+      "snippet": {
+        "publishedAt": "2023-09-29T06:58:52Z",
+        "channelId": "UC2X_pEXXcvVZY5XlyeLR4_w",
+        "title": "믿습니다",
+        "description": "지금부터 48시간\n\n #shorts \n\n이 공약은 언제 지키나요?\n- 계속 조금씩 진행 중이고 여러분의 기억에서 잊혀질 때쯤 언젠간 영상이 올라올 거니까 기다려 주세요\n도망간 거 아니냐 하시는데 상식적으로 광물 몇십만 개를 며칠만에 캐서 짜잔 나타나는 게 더 비현실적이지 않을까요 허허",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Mikj8xnPITQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Mikj8xnPITQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Mikj8xnPITQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Mikj8xnPITQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Mikj8xnPITQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이비온",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "믿습니다",
+          "description": "지금부터 48시간\n\n #shorts \n\n이 공약은 언제 지키나요?\n- 계속 조금씩 진행 중이고 여러분의 기억에서 잊혀질 때쯤 언젠간 영상이 올라올 거니까 기다려 주세요\n도망간 거 아니냐 하시는데 상식적으로 광물 몇십만 개를 며칠만에 캐서 짜잔 나타나는 게 더 비현실적이지 않을까요 허허"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT26S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "7945159",
+        "likeCount": "424511",
+        "favoriteCount": "0",
+        "commentCount": "121780"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Role-playing_video_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "믿습니다",
+          "description": "지금부터 48시간\n\n #shorts \n\n이 공약은 언제 지키나요?\n- 계속 조금씩 진행 중이고 여러분의 기억에서 잊혀질 때쯤 언젠간 영상이 올라올 거니까 기다려 주세요\n도망간 거 아니냐 하시는데 상식적으로 광물 몇십만 개를 며칠만에 캐서 짜잔 나타나는 게 더 비현실적이지 않을까요 허허"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "BU_bFNYCq-OIcutZIXvodDK2ZVg",
+      "id": "XgkfOgY1tj8",
+      "snippet": {
+        "publishedAt": "2023-09-28T02:43:29Z",
+        "channelId": "UC2X_pEXXcvVZY5XlyeLR4_w",
+        "title": "여긴어디",
+        "description": "#shorts \n\n마인크래프트",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XgkfOgY1tj8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XgkfOgY1tj8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XgkfOgY1tj8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XgkfOgY1tj8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XgkfOgY1tj8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이비온",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "여긴어디",
+          "description": "#shorts \n\n마인크래프트"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT57S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "9482060",
+        "likeCount": "287348",
+        "favoriteCount": "0",
+        "commentCount": "2213"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action-adventure_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "여긴어디",
+          "description": "#shorts \n\n마인크래프트"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "yjVbTasVgDl3RTb4Bb-Eyi25iuA",
+      "id": "JVD6FESvTdE",
+      "snippet": {
+        "publishedAt": "2023-09-26T08:25:38Z",
+        "channelId": "UC2X_pEXXcvVZY5XlyeLR4_w",
+        "title": "터집니다",
+        "description": "#shorts \n\n마인크래프트",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JVD6FESvTdE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JVD6FESvTdE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JVD6FESvTdE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JVD6FESvTdE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JVD6FESvTdE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이비온",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "터집니다",
+          "description": "#shorts \n\n마인크래프트"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT34S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "7297154",
+        "likeCount": "206162",
+        "favoriteCount": "0",
+        "commentCount": "1298"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action-adventure_game",
+          "https://en.wikipedia.org/wiki/Role-playing_video_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "터집니다",
+          "description": "#shorts \n\n마인크래프트"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "CSTl_aTbZrW1uFc9ZAAtPDTeC04",
+      "id": "Le0yGw_43Vs",
+      "snippet": {
+        "publishedAt": "2023-09-25T07:25:12Z",
+        "channelId": "UC2X_pEXXcvVZY5XlyeLR4_w",
+        "title": "고인물만 아는 마인크래프트 25가지 기술들",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Le0yGw_43Vs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Le0yGw_43Vs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Le0yGw_43Vs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Le0yGw_43Vs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Le0yGw_43Vs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이비온",
+        "tags": [
+          "마인크래프트",
+          "마크"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "고인물만 아는 마인크래프트 25가지 기술들",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT2M23S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "2262777",
+        "likeCount": "85011",
+        "favoriteCount": "0",
+        "commentCount": "1229"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action-adventure_game",
+          "https://en.wikipedia.org/wiki/Role-playing_video_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "고인물만 아는 마인크래프트 25가지 기술들",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "RbxKiXk9EgjDug8U3iPg-5BC6M0",
+      "id": "HxsJa8Bqy0k",
+      "snippet": {
+        "publishedAt": "2023-09-23T07:34:28Z",
+        "channelId": "UC2X_pEXXcvVZY5XlyeLR4_w",
+        "title": "스치면 사망",
+        "description": "#shorts \n\n마인크래프트",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HxsJa8Bqy0k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HxsJa8Bqy0k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HxsJa8Bqy0k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HxsJa8Bqy0k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HxsJa8Bqy0k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이비온",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "스치면 사망",
+          "description": "#shorts \n\n마인크래프트"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT48S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "13097487",
+        "likeCount": "501996",
+        "favoriteCount": "0",
+        "commentCount": "1753"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action-adventure_game",
+          "https://en.wikipedia.org/wiki/Role-playing_video_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "스치면 사망",
+          "description": "#shorts \n\n마인크래프트"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "QwoA0vVgR_NcmYjRgmIE1R8kyEg",
+      "id": "50VmwiljPT8",
+      "snippet": {
+        "publishedAt": "2023-09-22T09:13:58Z",
+        "channelId": "UC2X_pEXXcvVZY5XlyeLR4_w",
+        "title": "100일 동안 다이아만 캐기",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/50VmwiljPT8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/50VmwiljPT8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/50VmwiljPT8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/50VmwiljPT8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/50VmwiljPT8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이비온",
+        "tags": [
+          "마인크래프트",
+          "마크"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "100일 동안 다이아만 캐기",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT5M48S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "4801822",
+        "likeCount": "55463",
+        "favoriteCount": "0",
+        "commentCount": "3321"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action-adventure_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "100일 동안 다이아만 캐기",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "h9q5KLv97AjSATGXQ2Ury_iYPTY",
+      "id": "0Cpmqh7h_gk",
+      "snippet": {
+        "publishedAt": "2023-09-19T08:11:13Z",
+        "channelId": "UC2X_pEXXcvVZY5XlyeLR4_w",
+        "title": "무적 모드",
+        "description": "#shorts \n\n마인크래프트\n\nInvincible Difficulty by McMakistein\nDownload: https://mcmakistein.com/creations/invincible_difficulty\nCreator: https://youtube.com/McMakistein",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0Cpmqh7h_gk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0Cpmqh7h_gk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0Cpmqh7h_gk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0Cpmqh7h_gk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0Cpmqh7h_gk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이비온",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "무적 모드",
+          "description": "#shorts \n\n마인크래프트\n\nInvincible Difficulty by McMakistein\nDownload: https://mcmakistein.com/creations/invincible_difficulty\nCreator: https://youtube.com/McMakistein"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT37S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "17283015",
+        "likeCount": "316305",
+        "favoriteCount": "0",
+        "commentCount": "2040"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action-adventure_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "무적 모드",
+          "description": "#shorts \n\n마인크래프트\n\nInvincible Difficulty by McMakistein\nDownload: https://mcmakistein.com/creations/invincible_difficulty\nCreator: https://youtube.com/McMakistein"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "T7wPekASacB21aueKwbrjlV8xTU",
+      "id": "C-c1ixvClxc",
+      "snippet": {
+        "publishedAt": "2023-09-17T06:52:10Z",
+        "channelId": "UC2X_pEXXcvVZY5XlyeLR4_w",
+        "title": "랜덤 몹 챌린지",
+        "description": "#shorts \n\n마인크래프트",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/C-c1ixvClxc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/C-c1ixvClxc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/C-c1ixvClxc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/C-c1ixvClxc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/C-c1ixvClxc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이비온",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "랜덤 몹 챌린지",
+          "description": "#shorts \n\n마인크래프트"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT41S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "7547723",
+        "likeCount": "188297",
+        "favoriteCount": "0",
+        "commentCount": "851"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action-adventure_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "랜덤 몹 챌린지",
+          "description": "#shorts \n\n마인크래프트"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "5nILqUd3tPcCFz6-hr3YJvwnskU",
+      "id": "9-56A3NSj6Y",
+      "snippet": {
+        "publishedAt": "2023-09-16T06:24:26Z",
+        "channelId": "UC2X_pEXXcvVZY5XlyeLR4_w",
+        "title": "속도 100배",
+        "description": "#shorts \n\n마인크래프트",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9-56A3NSj6Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9-56A3NSj6Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9-56A3NSj6Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9-56A3NSj6Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9-56A3NSj6Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이비온",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "속도 100배",
+          "description": "#shorts \n\n마인크래프트"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT44S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "12582528",
+        "likeCount": "317468",
+        "favoriteCount": "0",
+        "commentCount": "1367"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action-adventure_game",
+          "https://en.wikipedia.org/wiki/Role-playing_video_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "속도 100배",
+          "description": "#shorts \n\n마인크래프트"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "9vW4CSOIwAVzUt9ATuotgQQuNZw",
+      "id": "Kkwz4kil1S0",
+      "snippet": {
+        "publishedAt": "2023-09-14T10:12:30Z",
+        "channelId": "UC2X_pEXXcvVZY5XlyeLR4_w",
+        "title": "가장 희귀한 몹!",
+        "description": "#shorts \n\n마인크래프트",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Kkwz4kil1S0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Kkwz4kil1S0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Kkwz4kil1S0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Kkwz4kil1S0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Kkwz4kil1S0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이비온",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "가장 희귀한 몹!",
+          "description": "#shorts \n\n마인크래프트"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT42S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "9573427",
+        "likeCount": "247603",
+        "favoriteCount": "0",
+        "commentCount": "2314"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action-adventure_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "가장 희귀한 몹!",
+          "description": "#shorts \n\n마인크래프트"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "lmOXNNYdPQJMcwVuJfMJpEO3tFY",
+      "id": "_8SrcdtHhOM",
+      "snippet": {
+        "publishedAt": "2023-09-13T07:05:19Z",
+        "channelId": "UC2X_pEXXcvVZY5XlyeLR4_w",
+        "title": "랜덤 몬스터 블럭",
+        "description": "#shorts \n\n마인크래프트",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_8SrcdtHhOM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_8SrcdtHhOM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_8SrcdtHhOM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_8SrcdtHhOM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_8SrcdtHhOM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이비온",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "랜덤 몬스터 블럭",
+          "description": "#shorts \n\n마인크래프트"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT21S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "5541633",
+        "likeCount": "129152",
+        "favoriteCount": "0",
+        "commentCount": "490"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action-adventure_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "랜덤 몬스터 블럭",
+          "description": "#shorts \n\n마인크래프트"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "8iUDPtgemoM8gFzi9aSLgaLMS40",
+      "id": "i7ht45gDnrQ",
+      "snippet": {
+        "publishedAt": "2023-09-12T07:50:49Z",
+        "channelId": "UC2X_pEXXcvVZY5XlyeLR4_w",
+        "title": "가장 강한 몬스터!",
+        "description": "#shorts \n\n마인크래프트",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/i7ht45gDnrQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/i7ht45gDnrQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/i7ht45gDnrQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/i7ht45gDnrQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/i7ht45gDnrQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이비온",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "가장 강한 몬스터!",
+          "description": "#shorts \n\n마인크래프트"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT29S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "8946389",
+        "likeCount": "183129",
+        "favoriteCount": "0",
+        "commentCount": "1195"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action-adventure_game",
+          "https://en.wikipedia.org/wiki/Role-playing_video_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "가장 강한 몬스터!",
+          "description": "#shorts \n\n마인크래프트"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "eJIBAPIx8vGRJZ9JZKdoL7N1TOU",
+      "id": "PrQdTnjdYQk",
+      "snippet": {
+        "publishedAt": "2023-09-07T10:16:57Z",
+        "channelId": "UC2X_pEXXcvVZY5XlyeLR4_w",
+        "title": "몬스터 1,000배",
+        "description": "#shorts \n\n마인크래프트",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PrQdTnjdYQk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PrQdTnjdYQk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PrQdTnjdYQk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PrQdTnjdYQk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PrQdTnjdYQk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이비온",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "몬스터 1,000배",
+          "description": "#shorts \n\n마인크래프트"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT32S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "6024262",
+        "likeCount": "132458",
+        "favoriteCount": "0",
+        "commentCount": "569"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action-adventure_game",
+          "https://en.wikipedia.org/wiki/Role-playing_video_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "몬스터 1,000배",
+          "description": "#shorts \n\n마인크래프트"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "DVNH4qYM1SzVPA8F0JiJX3X2zwc",
+      "id": "0A4v0R7UcmY",
+      "snippet": {
+        "publishedAt": "2023-09-05T09:08:25Z",
+        "channelId": "UC2X_pEXXcvVZY5XlyeLR4_w",
+        "title": "기적을 믿습니까?",
+        "description": "#shorts \n\n마인크래프트",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0A4v0R7UcmY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0A4v0R7UcmY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0A4v0R7UcmY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0A4v0R7UcmY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0A4v0R7UcmY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이비온",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "기적을 믿습니까?",
+          "description": "#shorts \n\n마인크래프트"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT37S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "7713908",
+        "likeCount": "237491",
+        "favoriteCount": "0",
+        "commentCount": "5197"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action-adventure_game",
+          "https://en.wikipedia.org/wiki/Role-playing_video_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "기적을 믿습니까?",
+          "description": "#shorts \n\n마인크래프트"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "gtW2GlajilVdmoD_UCQs6gRhjcA",
+      "id": "rRAQcnwUHRo",
+      "snippet": {
+        "publishedAt": "2023-09-04T09:13:19Z",
+        "channelId": "UC2X_pEXXcvVZY5XlyeLR4_w",
+        "title": "워든 vs 5,000강화 활",
+        "description": "#shorts \n\n마인크래프트",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rRAQcnwUHRo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rRAQcnwUHRo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rRAQcnwUHRo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rRAQcnwUHRo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rRAQcnwUHRo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이비온",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "워든 vs 5,000강화 활",
+          "description": "#shorts \n\n마인크래프트"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT26S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "8026669",
+        "likeCount": "167898",
+        "favoriteCount": "0",
+        "commentCount": "1174"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action-adventure_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "워든 vs 5,000강화 활",
+          "description": "#shorts \n\n마인크래프트"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "jIiA--RSIH-W33BDSqVq7Zrnn84",
+      "id": "MgFrlP-6wSs",
+      "snippet": {
+        "publishedAt": "2023-09-03T09:16:08Z",
+        "channelId": "UC2X_pEXXcvVZY5XlyeLR4_w",
+        "title": "엔더진주 1,000개",
+        "description": "#shorts \n\n마인크래프트",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MgFrlP-6wSs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MgFrlP-6wSs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MgFrlP-6wSs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MgFrlP-6wSs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MgFrlP-6wSs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이비온",
+        "tags": [
+          "마인크래프트",
+          "마크"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "엔더진주 1,000개",
+          "description": "#shorts \n\n마인크래프트"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT14S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "11615503",
+        "likeCount": "278220",
+        "favoriteCount": "0",
+        "commentCount": "3382"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action-adventure_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "엔더진주 1,000개",
+          "description": "#shorts \n\n마인크래프트"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,4106 @@
+{
+  "idx": 6736,
+  "channel_id": "UCN8JqVWsdgVx3svFEMWI85Q",
+  "channel_title": "WING",
+  "playlist_items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "RdOgmHSXp8gUH7XLmJyD_Ibj3LE",
+      "id": "VVVOOEpxVldzZGdWeDNzdkZFTVdJODVRLlhLa1lMbXlUMFBr",
+      "snippet": {
+        "publishedAt": "2026-04-26T08:24:06Z",
+        "channelId": "UCN8JqVWsdgVx3svFEMWI85Q",
+        "title": "GBB26 JUDGE REVIEW",
+        "description": "All wildcard participants, thank you for your hard work.\nAnd I’d also like to thank Sonus for helping with the translation.\n\nThis video was recorded on April 1st.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XKkYLmyT0Pk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XKkYLmyT0Pk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XKkYLmyT0Pk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XKkYLmyT0Pk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XKkYLmyT0Pk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "WING",
+        "playlistId": "UUN8JqVWsdgVx3svFEMWI85Q",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "XKkYLmyT0Pk"
+        },
+        "videoOwnerChannelTitle": "WING",
+        "videoOwnerChannelId": "UCN8JqVWsdgVx3svFEMWI85Q"
+      },
+      "contentDetails": {
+        "videoId": "XKkYLmyT0Pk",
+        "videoPublishedAt": "2026-04-26T08:24:06Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "epsKjmhZtNwdWBaxOkMCRTeikPk",
+      "id": "VVVOOEpxVldzZGdWeDNzdkZFTVdJODVRLk5DUkwwcFhIeVdj",
+      "snippet": {
+        "publishedAt": "2026-04-02T10:53:45Z",
+        "channelId": "UCN8JqVWsdgVx3svFEMWI85Q",
+        "title": "Phenomenon outtakes",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NCRL0pXHyWc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NCRL0pXHyWc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NCRL0pXHyWc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NCRL0pXHyWc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NCRL0pXHyWc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "WING",
+        "playlistId": "UUN8JqVWsdgVx3svFEMWI85Q",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NCRL0pXHyWc"
+        },
+        "videoOwnerChannelTitle": "WING",
+        "videoOwnerChannelId": "UCN8JqVWsdgVx3svFEMWI85Q"
+      },
+      "contentDetails": {
+        "videoId": "NCRL0pXHyWc",
+        "videoPublishedAt": "2026-04-02T10:53:45Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "5vl4gjmydshYjrlUgIlovFvgtlM",
+      "id": "VVVOOEpxVldzZGdWeDNzdkZFTVdJODVRLkhZYXJCWVgyWk1z",
+      "snippet": {
+        "publishedAt": "2026-03-22T08:53:39Z",
+        "channelId": "UCN8JqVWsdgVx3svFEMWI85Q",
+        "title": "Phenomenon highlight",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HYarBYX2ZMs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HYarBYX2ZMs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HYarBYX2ZMs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HYarBYX2ZMs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HYarBYX2ZMs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "WING",
+        "playlistId": "UUN8JqVWsdgVx3svFEMWI85Q",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "HYarBYX2ZMs"
+        },
+        "videoOwnerChannelTitle": "WING",
+        "videoOwnerChannelId": "UCN8JqVWsdgVx3svFEMWI85Q"
+      },
+      "contentDetails": {
+        "videoId": "HYarBYX2ZMs",
+        "videoPublishedAt": "2026-03-22T08:53:39Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "wPF_6QXwOt9R8-qitCYGxvWc9Eg",
+      "id": "VVVOOEpxVldzZGdWeDNzdkZFTVdJODVRLjVUYk9rRi1sOXY0",
+      "snippet": {
+        "publishedAt": "2026-03-17T09:12:01Z",
+        "channelId": "UCN8JqVWsdgVx3svFEMWI85Q",
+        "title": "WING - Phenomenon",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5TbOkF-l9v4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5TbOkF-l9v4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5TbOkF-l9v4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5TbOkF-l9v4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5TbOkF-l9v4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "WING",
+        "playlistId": "UUN8JqVWsdgVx3svFEMWI85Q",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "5TbOkF-l9v4"
+        },
+        "videoOwnerChannelTitle": "WING",
+        "videoOwnerChannelId": "UCN8JqVWsdgVx3svFEMWI85Q"
+      },
+      "contentDetails": {
+        "videoId": "5TbOkF-l9v4",
+        "videoPublishedAt": "2026-03-17T09:12:01Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "NvclR_Kcg87hYzVj0sPYlKPBrVs",
+      "id": "VVVOOEpxVldzZGdWeDNzdkZFTVdJODVRLkEzNVNfaGZ1QTAw",
+      "snippet": {
+        "publishedAt": "2025-05-23T11:58:59Z",
+        "channelId": "UCN8JqVWsdgVx3svFEMWI85Q",
+        "title": "Dopamine Drum&Bass Remix",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/A35S_hfuA00/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/A35S_hfuA00/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/A35S_hfuA00/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/A35S_hfuA00/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/A35S_hfuA00/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "WING",
+        "playlistId": "UUN8JqVWsdgVx3svFEMWI85Q",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "A35S_hfuA00"
+        },
+        "videoOwnerChannelTitle": "WING",
+        "videoOwnerChannelId": "UCN8JqVWsdgVx3svFEMWI85Q"
+      },
+      "contentDetails": {
+        "videoId": "A35S_hfuA00",
+        "videoPublishedAt": "2025-05-23T11:58:59Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "kcQPUTs1fQeAMy9BUbY7l3xXl4o",
+      "id": "VVVOOEpxVldzZGdWeDNzdkZFTVdJODVRLkdCdUtZQU4wUmJN",
+      "snippet": {
+        "publishedAt": "2025-05-23T11:00:24Z",
+        "channelId": "UCN8JqVWsdgVx3svFEMWI85Q",
+        "title": "WING - Dopamine (DnB Remix)",
+        "description": "WING - Dopamine (DnB Remix)\n\nVideo by BARA Kim, SINZO\nAudio by Hiss (of HypeerTime)\n\nPresented by AEYL MUSIC\n\n🌐 Follow us\nBEATPELLA HOUSE :\nhttps://youtube.com/@beatpellahouse\nhttps://www.instagram.com/beatpellahouse\nhttps://www.tiktok.com/@beatpellahouse\n\nWING : \nhttps://www.youtube.com/@wing7ackpot\nhttps://www.instagram.com/wing7ackpot\nhttps://www.tiktok.com/@wing7ackpot\n\n#WING #Dopamine #beatbox #Dopamine_DnB_Remix",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GBuKYAN0RbM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GBuKYAN0RbM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GBuKYAN0RbM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GBuKYAN0RbM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GBuKYAN0RbM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "WING",
+        "playlistId": "UUN8JqVWsdgVx3svFEMWI85Q",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "GBuKYAN0RbM"
+        },
+        "videoOwnerChannelTitle": "WING",
+        "videoOwnerChannelId": "UCN8JqVWsdgVx3svFEMWI85Q"
+      },
+      "contentDetails": {
+        "videoId": "GBuKYAN0RbM",
+        "videoPublishedAt": "2025-05-23T11:00:24Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "TgHfJkXsSWes_lmNvu4n3pCmD1g",
+      "id": "VVVOOEpxVldzZGdWeDNzdkZFTVdJODVRLlgwTDVIWjEyazlr",
+      "snippet": {
+        "publishedAt": "2025-05-20T13:08:20Z",
+        "channelId": "UCN8JqVWsdgVx3svFEMWI85Q",
+        "title": "Sailor out now!",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/X0L5HZ12k9k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/X0L5HZ12k9k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/X0L5HZ12k9k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/X0L5HZ12k9k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/X0L5HZ12k9k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "WING",
+        "playlistId": "UUN8JqVWsdgVx3svFEMWI85Q",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "X0L5HZ12k9k"
+        },
+        "videoOwnerChannelTitle": "WING",
+        "videoOwnerChannelId": "UCN8JqVWsdgVx3svFEMWI85Q"
+      },
+      "contentDetails": {
+        "videoId": "X0L5HZ12k9k",
+        "videoPublishedAt": "2025-05-20T13:08:20Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "UN1sVDdaz0YJzHQhGZOxALE25As",
+      "id": "VVVOOEpxVldzZGdWeDNzdkZFTVdJODVRLnlJQ3Y3Nkt2RXlj",
+      "snippet": {
+        "publishedAt": "2025-05-16T10:18:59Z",
+        "channelId": "UCN8JqVWsdgVx3svFEMWI85Q",
+        "title": "Hiss & WING - Sailor @HissMusic",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yICv76KvEyc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yICv76KvEyc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yICv76KvEyc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yICv76KvEyc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yICv76KvEyc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "WING",
+        "playlistId": "UUN8JqVWsdgVx3svFEMWI85Q",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "yICv76KvEyc"
+        },
+        "videoOwnerChannelTitle": "WING",
+        "videoOwnerChannelId": "UCN8JqVWsdgVx3svFEMWI85Q"
+      },
+      "contentDetails": {
+        "videoId": "yICv76KvEyc",
+        "videoPublishedAt": "2025-05-16T10:18:59Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2RXpI3KmRaJYNTdAfJoilSNocCw",
+      "id": "VVVOOEpxVldzZGdWeDNzdkZFTVdJODVRLk94bHh6Xy1KdDJR",
+      "snippet": {
+        "publishedAt": "2025-03-23T05:16:01Z",
+        "channelId": "UCN8JqVWsdgVx3svFEMWI85Q",
+        "title": "WING GBB25 Wildcard",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Oxlxz_-Jt2Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Oxlxz_-Jt2Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Oxlxz_-Jt2Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Oxlxz_-Jt2Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Oxlxz_-Jt2Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "WING",
+        "playlistId": "UUN8JqVWsdgVx3svFEMWI85Q",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Oxlxz_-Jt2Q"
+        },
+        "videoOwnerChannelTitle": "WING",
+        "videoOwnerChannelId": "UCN8JqVWsdgVx3svFEMWI85Q"
+      },
+      "contentDetails": {
+        "videoId": "Oxlxz_-Jt2Q",
+        "videoPublishedAt": "2025-03-23T05:16:01Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Kg5jKejyxpHTjS-K-w21We_PEvQ",
+      "id": "VVVOOEpxVldzZGdWeDNzdkZFTVdJODVRLkpWUld3Xy1WRklJ",
+      "snippet": {
+        "publishedAt": "2025-03-22T16:31:36Z",
+        "channelId": "UCN8JqVWsdgVx3svFEMWI85Q",
+        "title": "WING - GBB25: World League Solo Wildcard",
+        "description": "WING - GBB25: World League Solo Wildcard\n\nVideo by BARA Kim (@KoreaBeatboxTV )\nAudio by Hiss (of HypeerTime)\n\nInstagram : @wing7ackpot",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JVRWw_-VFII/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JVRWw_-VFII/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JVRWw_-VFII/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JVRWw_-VFII/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JVRWw_-VFII/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "WING",
+        "playlistId": "UUN8JqVWsdgVx3svFEMWI85Q",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "JVRWw_-VFII"
+        },
+        "videoOwnerChannelTitle": "WING",
+        "videoOwnerChannelId": "UCN8JqVWsdgVx3svFEMWI85Q"
+      },
+      "contentDetails": {
+        "videoId": "JVRWw_-VFII",
+        "videoPublishedAt": "2025-03-22T16:31:36Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-vLfsZ8mw3_PWp-9b1bxyHUvjmM",
+      "id": "VVVOOEpxVldzZGdWeDNzdkZFTVdJODVRLk9sZDliRW5fbG1B",
+      "snippet": {
+        "publishedAt": "2025-02-26T14:30:55Z",
+        "channelId": "UCN8JqVWsdgVx3svFEMWI85Q",
+        "title": "No Mic, No Edits #dopamine",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Old9bEn_lmA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Old9bEn_lmA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Old9bEn_lmA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Old9bEn_lmA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Old9bEn_lmA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "WING",
+        "playlistId": "UUN8JqVWsdgVx3svFEMWI85Q",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Old9bEn_lmA"
+        },
+        "videoOwnerChannelTitle": "WING",
+        "videoOwnerChannelId": "UCN8JqVWsdgVx3svFEMWI85Q"
+      },
+      "contentDetails": {
+        "videoId": "Old9bEn_lmA",
+        "videoPublishedAt": "2025-02-26T14:30:55Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "9muIbEzUC4KcYp4cnoYfOUn58Fs",
+      "id": "VVVOOEpxVldzZGdWeDNzdkZFTVdJODVRLnA5alJUblVaUm53",
+      "snippet": {
+        "publishedAt": "2025-02-20T09:00:59Z",
+        "channelId": "UCN8JqVWsdgVx3svFEMWI85Q",
+        "title": "Dopamine (Live Clip) l 2024 Jackpot & Hiss Concert in Japan",
+        "description": "Dopamine (Live Clip) l 2024 Jackpot & Hiss Concert in Japan\n\nStream : https://wing.lnk.to/dopamine\n\nDopamine (Official Video) :\nhttps://youtu.be/qlrpeYdm9Ec\n\n\nTitle : 2024 Jackpot & Hiss Concert 「UMAGA」 in Japan\nVenue: WOMB, Shibuya Tokyo, Japan\n\nOrganized by | AEYL MUSIC\nHosted by | New evidence, Rainy Man\n\n\n[ Performers ]\nHeadliner | WING, Hellcat, Hiss\nSpecial Guests | BEATPELLA HOUSE\nFeatured Artist | Dukgyeong (of ChiliTape)\nMC | Junky, Satsumaage\n\n\n[ Production Team ]\nExecutive Producer | SINZO, Eli Backer\nCreative Director | SINZO\nMusic Director | Hiss, WING\nSound Engineer | Dongjun Kwak\nArt Design | SIMEON\nVisual Jockey | MIU (@ Sunfortune)\nStage Manager | Donkey\nSocial Media Manager | Jin\nSocial Media Team | HAYAN, Uy\nTour Manager | Kaito (@ New evidence)\n\n\n[ Filming Team ]\nD.O.P | BARA Kim\nCamera | Ami, Daigo, Nam\nSteadicam | BARA Kim\nFilming Coordinator | Yukke (@ Rainy Man)\nEditing & Post-Production |  SINZO, Hiss, BARA Kim\nAudio Edit | Hiss\n\n#WING #Dopamine #Beatbox",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/p9jRTnUZRnw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/p9jRTnUZRnw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/p9jRTnUZRnw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/p9jRTnUZRnw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/p9jRTnUZRnw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "WING",
+        "playlistId": "UUN8JqVWsdgVx3svFEMWI85Q",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "p9jRTnUZRnw"
+        },
+        "videoOwnerChannelTitle": "WING",
+        "videoOwnerChannelId": "UCN8JqVWsdgVx3svFEMWI85Q"
+      },
+      "contentDetails": {
+        "videoId": "p9jRTnUZRnw",
+        "videoPublishedAt": "2025-02-20T09:00:59Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fdaXQmtu_mggjXegPjXY6tnF2sE",
+      "id": "VVVOOEpxVldzZGdWeDNzdkZFTVdJODVRLkZzWTFKV1hBby04",
+      "snippet": {
+        "publishedAt": "2025-02-17T07:32:29Z",
+        "channelId": "UCN8JqVWsdgVx3svFEMWI85Q",
+        "title": "WING - Dopamine",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FsY1JWXAo-8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FsY1JWXAo-8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FsY1JWXAo-8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FsY1JWXAo-8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FsY1JWXAo-8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "WING",
+        "playlistId": "UUN8JqVWsdgVx3svFEMWI85Q",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "FsY1JWXAo-8"
+        },
+        "videoOwnerChannelTitle": "WING",
+        "videoOwnerChannelId": "UCN8JqVWsdgVx3svFEMWI85Q"
+      },
+      "contentDetails": {
+        "videoId": "FsY1JWXAo-8",
+        "videoPublishedAt": "2025-02-17T07:32:29Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "86O4tQAV02coCip1lKMU3ImT9aE",
+      "id": "VVVOOEpxVldzZGdWeDNzdkZFTVdJODVRLktwaFJPcEI3ek93",
+      "snippet": {
+        "publishedAt": "2025-02-14T12:49:43Z",
+        "channelId": "UCN8JqVWsdgVx3svFEMWI85Q",
+        "title": "Can you feel it?",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KphROpB7zOw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KphROpB7zOw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KphROpB7zOw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KphROpB7zOw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KphROpB7zOw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "WING",
+        "playlistId": "UUN8JqVWsdgVx3svFEMWI85Q",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KphROpB7zOw"
+        },
+        "videoOwnerChannelTitle": "WING",
+        "videoOwnerChannelId": "UCN8JqVWsdgVx3svFEMWI85Q"
+      },
+      "contentDetails": {
+        "videoId": "KphROpB7zOw",
+        "videoPublishedAt": "2025-02-14T12:49:43Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "bWAbc7ZKjtLTFTuWAB4o3WqXZ_M",
+      "id": "VVVOOEpxVldzZGdWeDNzdkZFTVdJODVRLk9GX2YyWEl3V0VB",
+      "snippet": {
+        "publishedAt": "2025-02-13T09:00:33Z",
+        "channelId": "UCN8JqVWsdgVx3svFEMWI85Q",
+        "title": "WING - Dopamine (Beatbox) #WING #Dopamine",
+        "description": "WING - Dopamine (Beatbox) #WING #Dopamine #beatbox",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OF_f2XIwWEA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OF_f2XIwWEA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OF_f2XIwWEA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OF_f2XIwWEA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OF_f2XIwWEA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "WING",
+        "playlistId": "UUN8JqVWsdgVx3svFEMWI85Q",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "OF_f2XIwWEA"
+        },
+        "videoOwnerChannelTitle": "WING",
+        "videoOwnerChannelId": "UCN8JqVWsdgVx3svFEMWI85Q"
+      },
+      "contentDetails": {
+        "videoId": "OF_f2XIwWEA",
+        "videoPublishedAt": "2025-02-13T09:00:33Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "PXCATLii6RD6J_vaR6oyIHmWnYo",
+      "id": "VVVOOEpxVldzZGdWeDNzdkZFTVdJODVRLkxNM2NlVVMwLUg0",
+      "snippet": {
+        "publishedAt": "2025-01-23T13:37:41Z",
+        "channelId": "UCN8JqVWsdgVx3svFEMWI85Q",
+        "title": "WING in GBB",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LM3ceUS0-H4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LM3ceUS0-H4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LM3ceUS0-H4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LM3ceUS0-H4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LM3ceUS0-H4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "WING",
+        "playlistId": "UUN8JqVWsdgVx3svFEMWI85Q",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "LM3ceUS0-H4"
+        },
+        "videoOwnerChannelTitle": "WING",
+        "videoOwnerChannelId": "UCN8JqVWsdgVx3svFEMWI85Q"
+      },
+      "contentDetails": {
+        "videoId": "LM3ceUS0-H4",
+        "videoPublishedAt": "2025-01-23T13:37:41Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "uB6iF1fp6jSPnz1PIpNBtqgAARA",
+      "id": "VVVOOEpxVldzZGdWeDNzdkZFTVdJODVRLld6R2J0QUkyQ2pr",
+      "snippet": {
+        "publishedAt": "2024-10-31T03:00:33Z",
+        "channelId": "UCN8JqVWsdgVx3svFEMWI85Q",
+        "title": "Triviallusion MV Highlight #2",
+        "description": "Triviallusion MV Highlight #2 \n\nStream : https://wing.fanlink.tv/triviallusion\n\n2024 JACKPOT & HISS CONCERT 「UMAGA」 IN JAPAN\nhttps://eplus.jp/sf/detail/4204040001-P0030001P021001 \n\n[Credit]\nExecutive Producers | SINZO, Eli Backer\nAlbum Producer | SINZO, Hiss\nAlbum Director | WING\n\nComposed by | WING\nArranged by | WING\n\nMixed and Mastered by | Hiss (of HypeerTime) \n\nArtwork | SINZO, SIMEON\nVideo | BARA Kim, SIMEON\nHair & Make-up | THE J HAIR & MAKEUP\n\nPresented by AEYL MUSIC\n\n#WING ##BEATBOX #Triviallusion #BEATPELLAHOUSE\n\n🌐 Follow\nWING : \nhttps://www.youtube.com/@wing7ackpot\nhttps://www.instagram.com/wing7ackpot\nhttps://www.tiktok.com/@wing7ackpot",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WzGbtAI2Cjk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WzGbtAI2Cjk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WzGbtAI2Cjk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WzGbtAI2Cjk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WzGbtAI2Cjk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "WING",
+        "playlistId": "UUN8JqVWsdgVx3svFEMWI85Q",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WzGbtAI2Cjk"
+        },
+        "videoOwnerChannelTitle": "WING",
+        "videoOwnerChannelId": "UCN8JqVWsdgVx3svFEMWI85Q"
+      },
+      "contentDetails": {
+        "videoId": "WzGbtAI2Cjk",
+        "videoPublishedAt": "2024-10-31T03:00:33Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mIYYxseI_tyXUysZlzUQnQa40Co",
+      "id": "VVVOOEpxVldzZGdWeDNzdkZFTVdJODVRLk1OcFN1SG5lNVdV",
+      "snippet": {
+        "publishedAt": "2024-10-29T11:00:32Z",
+        "channelId": "UCN8JqVWsdgVx3svFEMWI85Q",
+        "title": "Triviallusion MV Highlight #1",
+        "description": "Triviallusion MV Highlight #1\n\nStream : https://wing.fanlink.tv/triviallusion\n\n2024 JACKPOT & HISS CONCERT 「UMAGA」 IN JAPAN\nhttps://eplus.jp/sf/detail/4204040001-P0030001P021001 \n\n[Credit]\nExecutive Producers | SINZO, Eli Backer\nAlbum Producer | SINZO, Hiss\nAlbum Director | WING\n\nComposed by | WING\nArranged by | WING\n\nMixed and Mastered by | Hiss (of HypeerTime) \n\nArtwork | SINZO, SIMEON\nVideo | BARA Kim, SIMEON\nHair & Make-up | THE J HAIR & MAKEUP\n\nPresented by AEYL MUSIC\n\n#WING ##BEATBOX #Triviallusion #BEATPELLAHOUSE\n\n🌐 Follow\nWING : \nhttps://www.youtube.com/@wing7ackpot\nhttps://www.instagram.com/wing7ackpot\nhttps://www.tiktok.com/@wing7ackpot",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MNpSuHne5WU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MNpSuHne5WU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MNpSuHne5WU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MNpSuHne5WU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MNpSuHne5WU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "WING",
+        "playlistId": "UUN8JqVWsdgVx3svFEMWI85Q",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "MNpSuHne5WU"
+        },
+        "videoOwnerChannelTitle": "WING",
+        "videoOwnerChannelId": "UCN8JqVWsdgVx3svFEMWI85Q"
+      },
+      "contentDetails": {
+        "videoId": "MNpSuHne5WU",
+        "videoPublishedAt": "2024-10-29T11:00:32Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4WVY8dVgLtCbNx6XbK-YZtsp5dA",
+      "id": "VVVOOEpxVldzZGdWeDNzdkZFTVdJODVRLlJjbzJ0dXEzNWNN",
+      "snippet": {
+        "publishedAt": "2024-10-28T03:17:29Z",
+        "channelId": "UCN8JqVWsdgVx3svFEMWI85Q",
+        "title": "WING - Triviallusion (Beatbox) #wing",
+        "description": "WING - Triviallusion (Official Video) (Beatbox)\n\nOfficial Video : https://youtu.be/IVsIecuNPP4\nStream : https://wing.fanlink.tv/triviallusion\n\n2024 JACKPOT & HISS CONCERT 「UMAGA」 IN JAPAN\nhttps://eplus.jp/sf/detail/4204040001-P0030001P021001",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Rco2tuq35cM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Rco2tuq35cM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Rco2tuq35cM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Rco2tuq35cM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Rco2tuq35cM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "WING",
+        "playlistId": "UUN8JqVWsdgVx3svFEMWI85Q",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Rco2tuq35cM"
+        },
+        "videoOwnerChannelTitle": "WING",
+        "videoOwnerChannelId": "UCN8JqVWsdgVx3svFEMWI85Q"
+      },
+      "contentDetails": {
+        "videoId": "Rco2tuq35cM",
+        "videoPublishedAt": "2024-10-28T03:17:29Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "oiy3F9XeHgAwF6saUReYBj3r1AM",
+      "id": "VVVOOEpxVldzZGdWeDNzdkZFTVdJODVRLjIxdjBuWGhTZlkw",
+      "snippet": {
+        "publishedAt": "2023-12-20T09:00:03Z",
+        "channelId": "UCN8JqVWsdgVx3svFEMWI85Q",
+        "title": "WING - Habanera (Official Video)",
+        "description": "My New Single “Habanera\" out now! \n\nThis song was performed in my GBB23 Solo Elimination\nHope you enjoy it :)\n\nStream : https://wing.fanlink.to/habanera\n\n[Credits]\nExecutive producer | SINZO of AEYL MUSIC\n\nCompose | WING\nArrange | WING\n\nMix & Master | Hiss (of HypeerTime) \n\nVideo | Bara Kim, 차승림\nArtwork | SINZO\n\nPresented by. AEYL MUSIC\n\n#WING #Habanera #BEATBOX #GBB23 #ウイング #ビートボックス",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/21v0nXhSfY0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/21v0nXhSfY0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/21v0nXhSfY0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/21v0nXhSfY0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/21v0nXhSfY0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "WING",
+        "playlistId": "UUN8JqVWsdgVx3svFEMWI85Q",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "21v0nXhSfY0"
+        },
+        "videoOwnerChannelTitle": "WING",
+        "videoOwnerChannelId": "UCN8JqVWsdgVx3svFEMWI85Q"
+      },
+      "contentDetails": {
+        "videoId": "21v0nXhSfY0",
+        "videoPublishedAt": "2023-12-20T09:00:03Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "1i7ppH9-0g9w123gmg9c8JCAOYk",
+      "id": "VVVOOEpxVldzZGdWeDNzdkZFTVdJODVRLllxUkJVTGZhblFJ",
+      "snippet": {
+        "publishedAt": "2023-09-07T03:00:18Z",
+        "channelId": "UCN8JqVWsdgVx3svFEMWI85Q",
+        "title": "WING - Doppelganger (Official Video)",
+        "description": "My New Single “Doppelganger\" out now! \n\nStream : https://wing.fanlink.to/doppelganger\n\n[Credits]\nExecutive produced | AEYL MUSIC\nAlbum Produced | SINZO, Wing\nMusic Produced | Wing\n\nComposed | Wing\nLyrics | Wing\nArranged | Wing\n\nMix | Wing, Hiss (of HypeerTime)\nMaster | SINZO (of HypeerTime)\n\nVideo | Bara Kim\n\nArtwork | ちりぃ(chilly)\n\nPresented by. AEYL MUSIC\n\n#WING #DOPPELGANGER #BEATBOX #ウイング #ビートボックス",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YqRBULfanQI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YqRBULfanQI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YqRBULfanQI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YqRBULfanQI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YqRBULfanQI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "WING",
+        "playlistId": "UUN8JqVWsdgVx3svFEMWI85Q",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "YqRBULfanQI"
+        },
+        "videoOwnerChannelTitle": "WING",
+        "videoOwnerChannelId": "UCN8JqVWsdgVx3svFEMWI85Q"
+      },
+      "contentDetails": {
+        "videoId": "YqRBULfanQI",
+        "videoPublishedAt": "2023-09-07T03:00:18Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_TEwYsiqK4qCqgC7YNq2-s4LG80",
+      "id": "VVVOOEpxVldzZGdWeDNzdkZFTVdJODVRLnBJNUpVMUQ4RUM0",
+      "snippet": {
+        "publishedAt": "2023-07-27T07:25:34Z",
+        "channelId": "UCN8JqVWsdgVx3svFEMWI85Q",
+        "title": "Osaka vide🎶",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pI5JU1D8EC4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pI5JU1D8EC4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pI5JU1D8EC4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pI5JU1D8EC4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pI5JU1D8EC4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "WING",
+        "playlistId": "UUN8JqVWsdgVx3svFEMWI85Q",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "pI5JU1D8EC4"
+        },
+        "videoOwnerChannelTitle": "WING",
+        "videoOwnerChannelId": "UCN8JqVWsdgVx3svFEMWI85Q"
+      },
+      "contentDetails": {
+        "videoId": "pI5JU1D8EC4",
+        "videoPublishedAt": "2023-07-27T07:25:34Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "flPwupYdRUDeN5M4tfGxPDnFt6I",
+      "id": "VVVOOEpxVldzZGdWeDNzdkZFTVdJODVRLnd4ZGYzbUczRzE0",
+      "snippet": {
+        "publishedAt": "2023-03-16T12:00:43Z",
+        "channelId": "UCN8JqVWsdgVx3svFEMWI85Q",
+        "title": "WING - GBB23: World League Solo Wildcard (Round 2)",
+        "description": "WING - GBB23: World League Solo Wildcard (Round 2), \"Carpe diem!\"\n\nVideo by BARA Kim (@KoreaBeatboxTV )\nAudio by Hiss (of HypeerTime)\n\nInstagram : @wing7ackpot\n#GBB #GBB23 #WING",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wxdf3mG3G14/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wxdf3mG3G14/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wxdf3mG3G14/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wxdf3mG3G14/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wxdf3mG3G14/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "WING",
+        "playlistId": "UUN8JqVWsdgVx3svFEMWI85Q",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wxdf3mG3G14"
+        },
+        "videoOwnerChannelTitle": "WING",
+        "videoOwnerChannelId": "UCN8JqVWsdgVx3svFEMWI85Q"
+      },
+      "contentDetails": {
+        "videoId": "wxdf3mG3G14",
+        "videoPublishedAt": "2023-03-16T12:00:43Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "CNAMFs4Tl4GNjWP2biWdoTsc1oY",
+      "id": "VVVOOEpxVldzZGdWeDNzdkZFTVdJODVRLi1EX2JHdlVjSmRj",
+      "snippet": {
+        "publishedAt": "2023-02-03T11:00:00Z",
+        "channelId": "UCN8JqVWsdgVx3svFEMWI85Q",
+        "title": "WING - GBB23: World League Solo Wildcard",
+        "description": "WING - GBB23: World League Solo Wildcard\n\nVideo by BARA Kim (@KoreaBeatboxTV )\nAudio by Hiss (of HypeerTime)\n\nInstagram : @wing7ackpot\n#GBB #GBB23 #WING",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-D_bGvUcJdc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-D_bGvUcJdc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-D_bGvUcJdc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-D_bGvUcJdc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-D_bGvUcJdc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "WING",
+        "playlistId": "UUN8JqVWsdgVx3svFEMWI85Q",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-D_bGvUcJdc"
+        },
+        "videoOwnerChannelTitle": "WING",
+        "videoOwnerChannelId": "UCN8JqVWsdgVx3svFEMWI85Q"
+      },
+      "contentDetails": {
+        "videoId": "-D_bGvUcJdc",
+        "videoPublishedAt": "2023-02-03T11:00:00Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "U5cMPJJFruPhPggPRSdag6ZjWGc",
+      "id": "VVVOOEpxVldzZGdWeDNzdkZFTVdJODVRLmhRWkotMjNyX1Nn",
+      "snippet": {
+        "publishedAt": "2023-01-25T11:00:33Z",
+        "channelId": "UCN8JqVWsdgVx3svFEMWI85Q",
+        "title": "WING - Killing Me Softly (Official Video)",
+        "description": "My New Song “Killing Me Softly\" out now! \n\nStream : https://wing.fanlink.to/kms\n\n[Credits]\nExecutive produced by. SINZO for AEYL MUSIC\nAlbum Produced by. SINZO, Wing\nMusic Produced by. Wing, Hiss\n\nComposed by. Wing\nLyrics by. Wing\nArranged by. Wing\n\nMixed by. Hiss (of HypeerTime)\nMastered by. SINZO (of HypeerTime)\n\nVideo Directer : GOND, Kimnamjin\nVideo D.O.P : Bara Kim\nVideo Shot by. Bara Kim, 차승림\nHair & Make-Up by. THE-J hair make-up\nArtwork by. SINZO\n\nProject Manager : Jin at AEYL MUSIC\n\nPresented by. AEYL MUSIC\n\n#WING #KILLNGMESOFTLY #BEATBOX #ビートボックス",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hQZJ-23r_Sg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hQZJ-23r_Sg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hQZJ-23r_Sg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hQZJ-23r_Sg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hQZJ-23r_Sg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "WING",
+        "playlistId": "UUN8JqVWsdgVx3svFEMWI85Q",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hQZJ-23r_Sg"
+        },
+        "videoOwnerChannelTitle": "WING",
+        "videoOwnerChannelId": "UCN8JqVWsdgVx3svFEMWI85Q"
+      },
+      "contentDetails": {
+        "videoId": "hQZJ-23r_Sg",
+        "videoPublishedAt": "2023-01-25T11:00:33Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "41xhCj8hayqCwauShoFXuIiGyeo",
+      "id": "VVVOOEpxVldzZGdWeDNzdkZFTVdJODVRLi1yRUlPa0dDYm84",
+      "snippet": {
+        "publishedAt": "2022-01-29T18:53:33Z",
+        "channelId": "UCN8JqVWsdgVx3svFEMWI85Q",
+        "title": "WING - Dancing with a stranger #bbu22",
+        "description": "Hi this is my Beatbox United 22 Wildcard.\n\ninsta-@wing7ackpot\n\nVideo by Bara Kim (@Korea Beatbox TV )",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-rEIOkGCbo8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-rEIOkGCbo8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-rEIOkGCbo8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "WING",
+        "playlistId": "UUN8JqVWsdgVx3svFEMWI85Q",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-rEIOkGCbo8"
+        },
+        "videoOwnerChannelTitle": "WING",
+        "videoOwnerChannelId": "UCN8JqVWsdgVx3svFEMWI85Q"
+      },
+      "contentDetails": {
+        "videoId": "-rEIOkGCbo8",
+        "videoPublishedAt": "2022-01-29T18:53:33Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2plJBOum7Vd2YCfNgTP9CW800dA",
+      "id": "VVVOOEpxVldzZGdWeDNzdkZFTVdJODVRLjZNczlLMERzdHhZ",
+      "snippet": {
+        "publishedAt": "2021-05-30T11:00:01Z",
+        "channelId": "UCN8JqVWsdgVx3svFEMWI85Q",
+        "title": "Jackpot | GBB 2021:World League Tag Team Wildcard",
+        "description": "VIdeo by Bara Kim\nAudio Mastering by Hiss\n\n\n- Insta -\n@wing7ackpot\n@hellcat7ackpot",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6Ms9K0DstxY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6Ms9K0DstxY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6Ms9K0DstxY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6Ms9K0DstxY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6Ms9K0DstxY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "WING",
+        "playlistId": "UUN8JqVWsdgVx3svFEMWI85Q",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "6Ms9K0DstxY"
+        },
+        "videoOwnerChannelTitle": "WING",
+        "videoOwnerChannelId": "UCN8JqVWsdgVx3svFEMWI85Q"
+      },
+      "contentDetails": {
+        "videoId": "6Ms9K0DstxY",
+        "videoPublishedAt": "2021-05-30T11:00:01Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "OgGpkqoC7-_XXXyqkmVsuuLSyic",
+      "id": "VVVOOEpxVldzZGdWeDNzdkZFTVdJODVRLmRReG9mdVJCUjM4",
+      "snippet": {
+        "publishedAt": "2021-04-19T12:00:15Z",
+        "channelId": "UCN8JqVWsdgVx3svFEMWI85Q",
+        "title": "WING | GBB 2021: World League Solo Wildcard",
+        "description": "I'm back🥲\n\ninsta-@wing7ackpot",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dQxofuRBR38/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dQxofuRBR38/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dQxofuRBR38/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dQxofuRBR38/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dQxofuRBR38/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "WING",
+        "playlistId": "UUN8JqVWsdgVx3svFEMWI85Q",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dQxofuRBR38"
+        },
+        "videoOwnerChannelTitle": "WING",
+        "videoOwnerChannelId": "UCN8JqVWsdgVx3svFEMWI85Q"
+      },
+      "contentDetails": {
+        "videoId": "dQxofuRBR38",
+        "videoPublishedAt": "2021-04-19T12:00:15Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "lgYVxPdu9Avk8wVH7HEYV_iYXIo",
+      "id": "VVVOOEpxVldzZGdWeDNzdkZFTVdJODVRLlVrc3RPM05Hc1VB",
+      "snippet": {
+        "publishedAt": "2017-11-05T12:18:48Z",
+        "channelId": "UCN8JqVWsdgVx3svFEMWI85Q",
+        "title": "Wing | Grand Beatbox Battle Wildcard 2018 | Attention",
+        "description": "Wing\n\nFacebook : https://www.facebook.com/profile.php?id=100005709601853\nInstagram : https://www.instagram.com/wing_beatbox/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UkstO3NGsUA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UkstO3NGsUA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UkstO3NGsUA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "WING",
+        "playlistId": "UUN8JqVWsdgVx3svFEMWI85Q",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "UkstO3NGsUA"
+        },
+        "videoOwnerChannelTitle": "WING",
+        "videoOwnerChannelId": "UCN8JqVWsdgVx3svFEMWI85Q"
+      },
+      "contentDetails": {
+        "videoId": "UkstO3NGsUA",
+        "videoPublishedAt": "2017-11-05T12:18:48Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "video_details": [
+    {
+      "kind": "youtube#video",
+      "etag": "a5FTtZTDsMlInPsBpwSjXwrK7sk",
+      "id": "XKkYLmyT0Pk",
+      "snippet": {
+        "publishedAt": "2026-04-26T08:24:06Z",
+        "channelId": "UCN8JqVWsdgVx3svFEMWI85Q",
+        "title": "GBB26 JUDGE REVIEW",
+        "description": "All wildcard participants, thank you for your hard work.\nAnd I’d also like to thank Sonus for helping with the translation.\n\nThis video was recorded on April 1st.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XKkYLmyT0Pk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XKkYLmyT0Pk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XKkYLmyT0Pk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XKkYLmyT0Pk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XKkYLmyT0Pk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "WING",
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "GBB26 JUDGE REVIEW",
+          "description": "All wildcard participants, thank you for your hard work.\nAnd I’d also like to thank Sonus for helping with the translation.\n\nThis video was recorded on April 1st."
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1H29M43S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "regionRestriction": {
+          "blocked": [
+            "BY",
+            "RU"
+          ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "180534",
+        "likeCount": "8803",
+        "favoriteCount": "0",
+        "commentCount": "1060"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Hip_hop_music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en": {
+          "title": "GBB26 JUDGE REVIEW",
+          "description": "All wildcard participants, thank you for your hard work.\nAnd I’d also like to thank Sonus for helping with the translation.\n\nThis video was recorded on April 1st."
+        },
+        "it": {
+          "title": "RECENSIONE DEI GIUDICI DI GBB26",
+          "description": "Grazie a tutti i partecipanti wildcard per il vostro impegno.\n\nUn ringraziamento speciale anche a Sonus per l'aiuto con la traduzione.\n\nQuesto video è stato registrato il 1° aprile."
+        },
+        "hi": {
+          "title": "जीबीबी26 न्यायाधीश समीक्षा",
+          "description": "सभी वाइल्डकार्ड प्रतिभागियों को उनके परिश्रम के लिए धन्यवाद।\n\nअनुवाद में सहयोग देने के लिए सोनस को भी धन्यवाद।\n\nयह वीडियो 1 अप्रैल को रिकॉर्ड किया गया था।"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Hq19UaLaEeGaIxJj2fewvFuLCoc",
+      "id": "NCRL0pXHyWc",
+      "snippet": {
+        "publishedAt": "2026-04-02T10:53:45Z",
+        "channelId": "UCN8JqVWsdgVx3svFEMWI85Q",
+        "title": "Phenomenon outtakes",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NCRL0pXHyWc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NCRL0pXHyWc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NCRL0pXHyWc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NCRL0pXHyWc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NCRL0pXHyWc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "WING",
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "Phenomenon outtakes",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT49S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "145607",
+        "likeCount": "8859",
+        "favoriteCount": "0",
+        "commentCount": "237"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Entertainment"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "Phenomenon outtakes",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "_qeQD6AlgNDMe4zW-5pBm7CVuFg",
+      "id": "HYarBYX2ZMs",
+      "snippet": {
+        "publishedAt": "2026-03-22T08:53:39Z",
+        "channelId": "UCN8JqVWsdgVx3svFEMWI85Q",
+        "title": "Phenomenon highlight",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HYarBYX2ZMs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HYarBYX2ZMs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HYarBYX2ZMs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HYarBYX2ZMs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HYarBYX2ZMs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "WING",
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "Phenomenon highlight",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT41S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "156042",
+        "likeCount": "8263",
+        "favoriteCount": "0",
+        "commentCount": "181"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Entertainment"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ja": {
+          "title": "Phenomenon highlight",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "pRAGh7S-Iv2dVOU1Wd1mR8jJAUE",
+      "id": "5TbOkF-l9v4",
+      "snippet": {
+        "publishedAt": "2026-03-17T09:12:01Z",
+        "channelId": "UCN8JqVWsdgVx3svFEMWI85Q",
+        "title": "WING - Phenomenon",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5TbOkF-l9v4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5TbOkF-l9v4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5TbOkF-l9v4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5TbOkF-l9v4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5TbOkF-l9v4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "WING",
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "WING - Phenomenon",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT38S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "258140",
+        "likeCount": "13641",
+        "favoriteCount": "0",
+        "commentCount": "304"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "WING - Phenomenon",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "aTT3-0_PyeoJUXTye945asdloTc",
+      "id": "A35S_hfuA00",
+      "snippet": {
+        "publishedAt": "2025-05-23T11:58:59Z",
+        "channelId": "UCN8JqVWsdgVx3svFEMWI85Q",
+        "title": "Dopamine Drum&Bass Remix",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/A35S_hfuA00/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/A35S_hfuA00/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/A35S_hfuA00/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/A35S_hfuA00/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/A35S_hfuA00/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "WING",
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "Dopamine Drum&Bass Remix",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT47S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "813725",
+        "likeCount": "36772",
+        "favoriteCount": "0",
+        "commentCount": "918"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Electronic_music",
+          "https://en.wikipedia.org/wiki/Music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "Dopamine Drum&Bass Remix",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "M4z5drlMzz7GmaGbkx-9mwyH1Vw",
+      "id": "GBuKYAN0RbM",
+      "snippet": {
+        "publishedAt": "2025-05-23T11:00:24Z",
+        "channelId": "UCN8JqVWsdgVx3svFEMWI85Q",
+        "title": "WING - Dopamine (DnB Remix)",
+        "description": "WING - Dopamine (DnB Remix)\n\nVideo by BARA Kim, SINZO\nAudio by Hiss (of HypeerTime)\n\nPresented by AEYL MUSIC\n\n🌐 Follow us\nBEATPELLA HOUSE :\nhttps://youtube.com/@beatpellahouse\nhttps://www.instagram.com/beatpellahouse\nhttps://www.tiktok.com/@beatpellahouse\n\nWING : \nhttps://www.youtube.com/@wing7ackpot\nhttps://www.instagram.com/wing7ackpot\nhttps://www.tiktok.com/@wing7ackpot\n\n#WING #Dopamine #beatbox #Dopamine_DnB_Remix",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GBuKYAN0RbM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GBuKYAN0RbM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GBuKYAN0RbM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GBuKYAN0RbM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GBuKYAN0RbM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "WING",
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "WING - Dopamine (DnB Remix)",
+          "description": "WING - Dopamine (DnB Remix)\n\nVideo by BARA Kim, SINZO\nAudio by Hiss (of HypeerTime)\n\nPresented by AEYL MUSIC\n\n🌐 Follow us\nBEATPELLA HOUSE :\nhttps://youtube.com/@beatpellahouse\nhttps://www.instagram.com/beatpellahouse\nhttps://www.tiktok.com/@beatpellahouse\n\nWING : \nhttps://www.youtube.com/@wing7ackpot\nhttps://www.instagram.com/wing7ackpot\nhttps://www.tiktok.com/@wing7ackpot\n\n#WING #Dopamine #beatbox #Dopamine_DnB_Remix"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT2M",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "4863173",
+        "likeCount": "129238",
+        "favoriteCount": "0",
+        "commentCount": "6680"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Electronic_music",
+          "https://en.wikipedia.org/wiki/Hip_hop_music",
+          "https://en.wikipedia.org/wiki/Music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en": {
+          "title": "WING - Dopamine (DnB Remix)",
+          "description": "WING - Dopamine (DnB Remix)\n\nVideo by BARA Kim, SINZO\nAudio by Hiss (of HypeerTime)\n\nPresented by AEYL MUSIC\n\n🌐 Follow us\nBEATPELLA HOUSE :\nhttps://youtube.com/@beatpellahouse\nhttps://www.instagram.com/beatpellahouse\nhttps://www.tiktok.com/@beatpellahouse\n\nWING : \nhttps://www.youtube.com/@wing7ackpot\nhttps://www.instagram.com/wing7ackpot\nhttps://www.tiktok.com/@wing7ackpot\n\n#WING #Dopamine #beatbox #Dopamine_DnB_Remix"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "3YVWj6cFsJ84a6daZQutUrT13m8",
+      "id": "X0L5HZ12k9k",
+      "snippet": {
+        "publishedAt": "2025-05-20T13:08:20Z",
+        "channelId": "UCN8JqVWsdgVx3svFEMWI85Q",
+        "title": "Sailor out now!",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/X0L5HZ12k9k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/X0L5HZ12k9k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/X0L5HZ12k9k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/X0L5HZ12k9k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/X0L5HZ12k9k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "WING",
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "Sailor out now!",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT54S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "893440",
+        "likeCount": "27625",
+        "favoriteCount": "0",
+        "commentCount": "391"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Electronic_music",
+          "https://en.wikipedia.org/wiki/Entertainment",
+          "https://en.wikipedia.org/wiki/Hip_hop_music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "Sailor out now!",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "DvgKse4WVlIEyFEinifPP9YDu-A",
+      "id": "yICv76KvEyc",
+      "snippet": {
+        "publishedAt": "2025-05-16T10:18:59Z",
+        "channelId": "UCN8JqVWsdgVx3svFEMWI85Q",
+        "title": "Hiss & WING - Sailor @HissMusic",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yICv76KvEyc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yICv76KvEyc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yICv76KvEyc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yICv76KvEyc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yICv76KvEyc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "WING",
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "Hiss & WING - Sailor @HissMusic",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT51S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1473500",
+        "likeCount": "38534",
+        "favoriteCount": "0",
+        "commentCount": "626"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Electronic_music",
+          "https://en.wikipedia.org/wiki/Hip_hop_music",
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Music_of_Asia",
+          "https://en.wikipedia.org/wiki/Pop_music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "Hiss & WING - Sailor @HissMusic",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "WEI1DJ-62xRJQ_RYWClyZl9e75k",
+      "id": "Oxlxz_-Jt2Q",
+      "snippet": {
+        "publishedAt": "2025-03-23T05:16:01Z",
+        "channelId": "UCN8JqVWsdgVx3svFEMWI85Q",
+        "title": "WING GBB25 Wildcard",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Oxlxz_-Jt2Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Oxlxz_-Jt2Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Oxlxz_-Jt2Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Oxlxz_-Jt2Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Oxlxz_-Jt2Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "WING",
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "WING GBB25 Wildcard",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT54S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "2319041",
+        "likeCount": "84819",
+        "favoriteCount": "0",
+        "commentCount": "1454"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Electronic_music",
+          "https://en.wikipedia.org/wiki/Hip_hop_music",
+          "https://en.wikipedia.org/wiki/Music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "WING GBB25 Wildcard",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "dhJujoVD1v9Glb1dvVk6QiXKtFM",
+      "id": "JVRWw_-VFII",
+      "snippet": {
+        "publishedAt": "2025-03-22T16:31:36Z",
+        "channelId": "UCN8JqVWsdgVx3svFEMWI85Q",
+        "title": "WING - GBB25: World League Solo Wildcard",
+        "description": "WING - GBB25: World League Solo Wildcard\n\nVideo by BARA Kim (@KoreaBeatboxTV )\nAudio by Hiss (of HypeerTime)\n\nInstagram : @wing7ackpot",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JVRWw_-VFII/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JVRWw_-VFII/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JVRWw_-VFII/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JVRWw_-VFII/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JVRWw_-VFII/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "WING",
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "WING - GBB25: World League Solo Wildcard",
+          "description": "WING - GBB25: World League Solo Wildcard\n\nVideo by BARA Kim (@KoreaBeatboxTV )\nAudio by Hiss (of HypeerTime)\n\nInstagram : @wing7ackpot"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT2M6S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "4609021",
+        "likeCount": "99483",
+        "favoriteCount": "0",
+        "commentCount": "5006"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Hip_hop_music",
+          "https://en.wikipedia.org/wiki/Music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en": {
+          "title": "WING - GBB25: World League Solo Wildcard",
+          "description": "WING - GBB25: World League Solo Wildcard\n\nVideo by BARA Kim (@KoreaBeatboxTV )\nAudio by Hiss (of HypeerTime)\n\nInstagram : @wing7ackpot"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "h5l45B8crpeTMMlBDkPRRo-PiMA",
+      "id": "Old9bEn_lmA",
+      "snippet": {
+        "publishedAt": "2025-02-26T14:30:55Z",
+        "channelId": "UCN8JqVWsdgVx3svFEMWI85Q",
+        "title": "No Mic, No Edits #dopamine",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Old9bEn_lmA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Old9bEn_lmA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Old9bEn_lmA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Old9bEn_lmA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Old9bEn_lmA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "WING",
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "No Mic, No Edits #dopamine",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT37S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "13997640",
+        "likeCount": "458411",
+        "favoriteCount": "0",
+        "commentCount": "15538"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Entertainment",
+          "https://en.wikipedia.org/wiki/Hip_hop_music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en": {
+          "title": "No Mic, No Edits #dopamine",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "gdaR_9DhyF43-FKusChADFu9S_s",
+      "id": "p9jRTnUZRnw",
+      "snippet": {
+        "publishedAt": "2025-02-20T09:00:59Z",
+        "channelId": "UCN8JqVWsdgVx3svFEMWI85Q",
+        "title": "Dopamine (Live Clip) l 2024 Jackpot & Hiss Concert in Japan",
+        "description": "Dopamine (Live Clip) l 2024 Jackpot & Hiss Concert in Japan\n\nStream : https://wing.lnk.to/dopamine\n\nDopamine (Official Video) :\nhttps://youtu.be/qlrpeYdm9Ec\n\n\nTitle : 2024 Jackpot & Hiss Concert 「UMAGA」 in Japan\nVenue: WOMB, Shibuya Tokyo, Japan\n\nOrganized by | AEYL MUSIC\nHosted by | New evidence, Rainy Man\n\n\n[ Performers ]\nHeadliner | WING, Hellcat, Hiss\nSpecial Guests | BEATPELLA HOUSE\nFeatured Artist | Dukgyeong (of ChiliTape)\nMC | Junky, Satsumaage\n\n\n[ Production Team ]\nExecutive Producer | SINZO, Eli Backer\nCreative Director | SINZO\nMusic Director | Hiss, WING\nSound Engineer | Dongjun Kwak\nArt Design | SIMEON\nVisual Jockey | MIU (@ Sunfortune)\nStage Manager | Donkey\nSocial Media Manager | Jin\nSocial Media Team | HAYAN, Uy\nTour Manager | Kaito (@ New evidence)\n\n\n[ Filming Team ]\nD.O.P | BARA Kim\nCamera | Ami, Daigo, Nam\nSteadicam | BARA Kim\nFilming Coordinator | Yukke (@ Rainy Man)\nEditing & Post-Production |  SINZO, Hiss, BARA Kim\nAudio Edit | Hiss\n\n#WING #Dopamine #Beatbox",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/p9jRTnUZRnw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/p9jRTnUZRnw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/p9jRTnUZRnw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/p9jRTnUZRnw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/p9jRTnUZRnw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "WING",
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Dopamine (Live Clip) l 2024 Jackpot & Hiss Concert in Japan",
+          "description": "Dopamine (Live Clip) l 2024 Jackpot & Hiss Concert in Japan\n\nStream : https://wing.lnk.to/dopamine\n\nDopamine (Official Video) :\nhttps://youtu.be/qlrpeYdm9Ec\n\n\nTitle : 2024 Jackpot & Hiss Concert 「UMAGA」 in Japan\nVenue: WOMB, Shibuya Tokyo, Japan\n\nOrganized by | AEYL MUSIC\nHosted by | New evidence, Rainy Man\n\n\n[ Performers ]\nHeadliner | WING, Hellcat, Hiss\nSpecial Guests | BEATPELLA HOUSE\nFeatured Artist | Dukgyeong (of ChiliTape)\nMC | Junky, Satsumaage\n\n\n[ Production Team ]\nExecutive Producer | SINZO, Eli Backer\nCreative Director | SINZO\nMusic Director | Hiss, WING\nSound Engineer | Dongjun Kwak\nArt Design | SIMEON\nVisual Jockey | MIU (@ Sunfortune)\nStage Manager | Donkey\nSocial Media Manager | Jin\nSocial Media Team | HAYAN, Uy\nTour Manager | Kaito (@ New evidence)\n\n\n[ Filming Team ]\nD.O.P | BARA Kim\nCamera | Ami, Daigo, Nam\nSteadicam | BARA Kim\nFilming Coordinator | Yukke (@ Rainy Man)\nEditing & Post-Production |  SINZO, Hiss, BARA Kim\nAudio Edit | Hiss\n\n#WING #Dopamine #Beatbox"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT3M4S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "2732128",
+        "likeCount": "52645",
+        "favoriteCount": "0",
+        "commentCount": "1726"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Electronic_music",
+          "https://en.wikipedia.org/wiki/Hip_hop_music",
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Pop_music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en": {
+          "title": "Dopamine (Live Clip) l 2024 Jackpot & Hiss Concert in Japan",
+          "description": "Dopamine (Live Clip) l 2024 Jackpot & Hiss Concert in Japan\n\nStream : https://wing.lnk.to/dopamine\n\nDopamine (Official Video) :\nhttps://youtu.be/qlrpeYdm9Ec\n\n\nTitle : 2024 Jackpot & Hiss Concert 「UMAGA」 in Japan\nVenue: WOMB, Shibuya Tokyo, Japan\n\nOrganized by | AEYL MUSIC\nHosted by | New evidence, Rainy Man\n\n\n[ Performers ]\nHeadliner | WING, Hellcat, Hiss\nSpecial Guests | BEATPELLA HOUSE\nFeatured Artist | Dukgyeong (of ChiliTape)\nMC | Junky, Satsumaage\n\n\n[ Production Team ]\nExecutive Producer | SINZO, Eli Backer\nCreative Director | SINZO\nMusic Director | Hiss, WING\nSound Engineer | Dongjun Kwak\nArt Design | SIMEON\nVisual Jockey | MIU (@ Sunfortune)\nStage Manager | Donkey\nSocial Media Manager | Jin\nSocial Media Team | HAYAN, Uy\nTour Manager | Kaito (@ New evidence)\n\n\n[ Filming Team ]\nD.O.P | BARA Kim\nCamera | Ami, Daigo, Nam\nSteadicam | BARA Kim\nFilming Coordinator | Yukke (@ Rainy Man)\nEditing & Post-Production |  SINZO, Hiss, BARA Kim\nAudio Edit | Hiss\n\n#WING #Dopamine #Beatbox"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "-KXdE1_6sSmY8u5PfCfr7s6KnQQ",
+      "id": "FsY1JWXAo-8",
+      "snippet": {
+        "publishedAt": "2025-02-17T07:32:29Z",
+        "channelId": "UCN8JqVWsdgVx3svFEMWI85Q",
+        "title": "WING - Dopamine",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FsY1JWXAo-8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FsY1JWXAo-8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FsY1JWXAo-8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FsY1JWXAo-8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FsY1JWXAo-8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "WING",
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "WING - Dopamine",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT56S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "5090991",
+        "likeCount": "243932",
+        "favoriteCount": "0",
+        "commentCount": "4135"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Electronic_music",
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Music_of_Asia"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "WING - Dopamine",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "9uMCo7iZArePE9Ds3hF1-4lsKbQ",
+      "id": "KphROpB7zOw",
+      "snippet": {
+        "publishedAt": "2025-02-14T12:49:43Z",
+        "channelId": "UCN8JqVWsdgVx3svFEMWI85Q",
+        "title": "Can you feel it?",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KphROpB7zOw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KphROpB7zOw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KphROpB7zOw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KphROpB7zOw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KphROpB7zOw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "WING",
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Can you feel it?",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT54S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1970425",
+        "likeCount": "80865",
+        "favoriteCount": "0",
+        "commentCount": "1155"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Electronic_music",
+          "https://en.wikipedia.org/wiki/Hip_hop_music",
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Music_of_Asia"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en": {
+          "title": "Can you feel it?",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "7pr8AsRowFtIfz-kw8d35dYGrro",
+      "id": "OF_f2XIwWEA",
+      "snippet": {
+        "publishedAt": "2025-02-13T09:00:33Z",
+        "channelId": "UCN8JqVWsdgVx3svFEMWI85Q",
+        "title": "WING - Dopamine (Beatbox) #WING #Dopamine",
+        "description": "WING - Dopamine (Beatbox) #WING #Dopamine #beatbox",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OF_f2XIwWEA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OF_f2XIwWEA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OF_f2XIwWEA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OF_f2XIwWEA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OF_f2XIwWEA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "WING",
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "WING - Dopamine (Beatbox) #WING #Dopamine",
+          "description": "WING - Dopamine (Beatbox) #WING #Dopamine #beatbox"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT56S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "11243530",
+        "likeCount": "476326",
+        "favoriteCount": "0",
+        "commentCount": "7456"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Electronic_music",
+          "https://en.wikipedia.org/wiki/Hip_hop_music",
+          "https://en.wikipedia.org/wiki/Music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "WING - Dopamine (Beatbox) #WING #Dopamine",
+          "description": "WING - Dopamine (Beatbox) #WING #Dopamine #beatbox"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "DRhwlBw0VizEqPZT1zWwkMk-UFA",
+      "id": "LM3ceUS0-H4",
+      "snippet": {
+        "publishedAt": "2025-01-23T13:37:41Z",
+        "channelId": "UCN8JqVWsdgVx3svFEMWI85Q",
+        "title": "WING in GBB",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LM3ceUS0-H4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LM3ceUS0-H4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LM3ceUS0-H4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LM3ceUS0-H4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LM3ceUS0-H4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "WING",
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "WING in GBB",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT52S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "3218131",
+        "likeCount": "108109",
+        "favoriteCount": "0",
+        "commentCount": "1385"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Hip_hop_music",
+          "https://en.wikipedia.org/wiki/Music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "WING in GBB",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "_y0FsrXZfZji9fabqftB7grbqwA",
+      "id": "WzGbtAI2Cjk",
+      "snippet": {
+        "publishedAt": "2024-10-31T03:00:33Z",
+        "channelId": "UCN8JqVWsdgVx3svFEMWI85Q",
+        "title": "Triviallusion MV Highlight #2",
+        "description": "Triviallusion MV Highlight #2 \n\nStream : https://wing.fanlink.tv/triviallusion\n\n2024 JACKPOT & HISS CONCERT 「UMAGA」 IN JAPAN\nhttps://eplus.jp/sf/detail/4204040001-P0030001P021001 \n\n[Credit]\nExecutive Producers | SINZO, Eli Backer\nAlbum Producer | SINZO, Hiss\nAlbum Director | WING\n\nComposed by | WING\nArranged by | WING\n\nMixed and Mastered by | Hiss (of HypeerTime) \n\nArtwork | SINZO, SIMEON\nVideo | BARA Kim, SIMEON\nHair & Make-up | THE J HAIR & MAKEUP\n\nPresented by AEYL MUSIC\n\n#WING ##BEATBOX #Triviallusion #BEATPELLAHOUSE\n\n🌐 Follow\nWING : \nhttps://www.youtube.com/@wing7ackpot\nhttps://www.instagram.com/wing7ackpot\nhttps://www.tiktok.com/@wing7ackpot",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WzGbtAI2Cjk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WzGbtAI2Cjk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WzGbtAI2Cjk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WzGbtAI2Cjk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WzGbtAI2Cjk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "WING",
+        "tags": [
+          "Triviallusion",
+          "WING",
+          "beatbox"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Triviallusion MV Highlight #2",
+          "description": "Triviallusion MV Highlight #2 \n\nStream : https://wing.fanlink.tv/triviallusion\n\n2024 JACKPOT & HISS CONCERT 「UMAGA」 IN JAPAN\nhttps://eplus.jp/sf/detail/4204040001-P0030001P021001 \n\n[Credit]\nExecutive Producers | SINZO, Eli Backer\nAlbum Producer | SINZO, Hiss\nAlbum Director | WING\n\nComposed by | WING\nArranged by | WING\n\nMixed and Mastered by | Hiss (of HypeerTime) \n\nArtwork | SINZO, SIMEON\nVideo | BARA Kim, SIMEON\nHair & Make-up | THE J HAIR & MAKEUP\n\nPresented by AEYL MUSIC\n\n#WING ##BEATBOX #Triviallusion #BEATPELLAHOUSE\n\n🌐 Follow\nWING : \nhttps://www.youtube.com/@wing7ackpot\nhttps://www.instagram.com/wing7ackpot\nhttps://www.tiktok.com/@wing7ackpot"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT43S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1213739",
+        "likeCount": "53044",
+        "favoriteCount": "0",
+        "commentCount": "824"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Electronic_music",
+          "https://en.wikipedia.org/wiki/Hip_hop_music",
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Music_of_Asia",
+          "https://en.wikipedia.org/wiki/Pop_music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en": {
+          "title": "Triviallusion MV Highlight #2",
+          "description": "Triviallusion MV Highlight #2 \n\nStream : https://wing.fanlink.tv/triviallusion\n\n2024 JACKPOT & HISS CONCERT 「UMAGA」 IN JAPAN\nhttps://eplus.jp/sf/detail/4204040001-P0030001P021001 \n\n[Credit]\nExecutive Producers | SINZO, Eli Backer\nAlbum Producer | SINZO, Hiss\nAlbum Director | WING\n\nComposed by | WING\nArranged by | WING\n\nMixed and Mastered by | Hiss (of HypeerTime) \n\nArtwork | SINZO, SIMEON\nVideo | BARA Kim, SIMEON\nHair & Make-up | THE J HAIR & MAKEUP\n\nPresented by AEYL MUSIC\n\n#WING ##BEATBOX #Triviallusion #BEATPELLAHOUSE\n\n🌐 Follow\nWING : \nhttps://www.youtube.com/@wing7ackpot\nhttps://www.instagram.com/wing7ackpot\nhttps://www.tiktok.com/@wing7ackpot"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "i9to3HYBAQW0Xb4fdDzmsqBh4Lo",
+      "id": "MNpSuHne5WU",
+      "snippet": {
+        "publishedAt": "2024-10-29T11:00:32Z",
+        "channelId": "UCN8JqVWsdgVx3svFEMWI85Q",
+        "title": "Triviallusion MV Highlight #1",
+        "description": "Triviallusion MV Highlight #1\n\nStream : https://wing.fanlink.tv/triviallusion\n\n2024 JACKPOT & HISS CONCERT 「UMAGA」 IN JAPAN\nhttps://eplus.jp/sf/detail/4204040001-P0030001P021001 \n\n[Credit]\nExecutive Producers | SINZO, Eli Backer\nAlbum Producer | SINZO, Hiss\nAlbum Director | WING\n\nComposed by | WING\nArranged by | WING\n\nMixed and Mastered by | Hiss (of HypeerTime) \n\nArtwork | SINZO, SIMEON\nVideo | BARA Kim, SIMEON\nHair & Make-up | THE J HAIR & MAKEUP\n\nPresented by AEYL MUSIC\n\n#WING ##BEATBOX #Triviallusion #BEATPELLAHOUSE\n\n🌐 Follow\nWING : \nhttps://www.youtube.com/@wing7ackpot\nhttps://www.instagram.com/wing7ackpot\nhttps://www.tiktok.com/@wing7ackpot",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MNpSuHne5WU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MNpSuHne5WU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MNpSuHne5WU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MNpSuHne5WU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MNpSuHne5WU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "WING",
+        "tags": [
+          "WING",
+          "Triviallusion"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Triviallusion MV Highlight #1",
+          "description": "Triviallusion MV Highlight #1\n\nStream : https://wing.fanlink.tv/triviallusion\n\n2024 JACKPOT & HISS CONCERT 「UMAGA」 IN JAPAN\nhttps://eplus.jp/sf/detail/4204040001-P0030001P021001 \n\n[Credit]\nExecutive Producers | SINZO, Eli Backer\nAlbum Producer | SINZO, Hiss\nAlbum Director | WING\n\nComposed by | WING\nArranged by | WING\n\nMixed and Mastered by | Hiss (of HypeerTime) \n\nArtwork | SINZO, SIMEON\nVideo | BARA Kim, SIMEON\nHair & Make-up | THE J HAIR & MAKEUP\n\nPresented by AEYL MUSIC\n\n#WING ##BEATBOX #Triviallusion #BEATPELLAHOUSE\n\n🌐 Follow\nWING : \nhttps://www.youtube.com/@wing7ackpot\nhttps://www.instagram.com/wing7ackpot\nhttps://www.tiktok.com/@wing7ackpot"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT20S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "3303481",
+        "likeCount": "98420",
+        "favoriteCount": "0",
+        "commentCount": "1185"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Electronic_music",
+          "https://en.wikipedia.org/wiki/Hip_hop_music",
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Music_of_Asia",
+          "https://en.wikipedia.org/wiki/Pop_music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en": {
+          "title": "Triviallusion MV Highlight #1",
+          "description": "Triviallusion MV Highlight #1\n\nStream : https://wing.fanlink.tv/triviallusion\n\n2024 JACKPOT & HISS CONCERT 「UMAGA」 IN JAPAN\nhttps://eplus.jp/sf/detail/4204040001-P0030001P021001 \n\n[Credit]\nExecutive Producers | SINZO, Eli Backer\nAlbum Producer | SINZO, Hiss\nAlbum Director | WING\n\nComposed by | WING\nArranged by | WING\n\nMixed and Mastered by | Hiss (of HypeerTime) \n\nArtwork | SINZO, SIMEON\nVideo | BARA Kim, SIMEON\nHair & Make-up | THE J HAIR & MAKEUP\n\nPresented by AEYL MUSIC\n\n#WING ##BEATBOX #Triviallusion #BEATPELLAHOUSE\n\n🌐 Follow\nWING : \nhttps://www.youtube.com/@wing7ackpot\nhttps://www.instagram.com/wing7ackpot\nhttps://www.tiktok.com/@wing7ackpot"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "OsjHY_Ib2nXfw5Eb7vudgd6x83o",
+      "id": "Rco2tuq35cM",
+      "snippet": {
+        "publishedAt": "2024-10-28T03:17:29Z",
+        "channelId": "UCN8JqVWsdgVx3svFEMWI85Q",
+        "title": "WING - Triviallusion (Beatbox) #wing",
+        "description": "WING - Triviallusion (Official Video) (Beatbox)\n\nOfficial Video : https://youtu.be/IVsIecuNPP4\nStream : https://wing.fanlink.tv/triviallusion\n\n2024 JACKPOT & HISS CONCERT 「UMAGA」 IN JAPAN\nhttps://eplus.jp/sf/detail/4204040001-P0030001P021001",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Rco2tuq35cM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Rco2tuq35cM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Rco2tuq35cM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Rco2tuq35cM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Rco2tuq35cM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "WING",
+        "tags": [
+          "WING",
+          "Triviallusion"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "WING - Triviallusion (Beatbox) #wing",
+          "description": "WING - Triviallusion (Official Video) (Beatbox)\n\nOfficial Video : https://youtu.be/IVsIecuNPP4\nStream : https://wing.fanlink.tv/triviallusion\n\n2024 JACKPOT & HISS CONCERT 「UMAGA」 IN JAPAN\nhttps://eplus.jp/sf/detail/4204040001-P0030001P021001"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT24S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1532658",
+        "likeCount": "46528",
+        "favoriteCount": "0",
+        "commentCount": "420"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Electronic_music",
+          "https://en.wikipedia.org/wiki/Hip_hop_music",
+          "https://en.wikipedia.org/wiki/Music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en": {
+          "title": "WING - Triviallusion (Beatbox) #wing",
+          "description": "WING - Triviallusion (Official Video) (Beatbox)\n\nOfficial Video : https://youtu.be/IVsIecuNPP4\nStream : https://wing.fanlink.tv/triviallusion\n\n2024 JACKPOT & HISS CONCERT 「UMAGA」 IN JAPAN\nhttps://eplus.jp/sf/detail/4204040001-P0030001P021001"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "oowPz4PtQDBbdehgHZ0pH__wnJA",
+      "id": "21v0nXhSfY0",
+      "snippet": {
+        "publishedAt": "2023-12-20T09:00:03Z",
+        "channelId": "UCN8JqVWsdgVx3svFEMWI85Q",
+        "title": "WING - Habanera (Official Video)",
+        "description": "My New Single “Habanera\" out now! \n\nThis song was performed in my GBB23 Solo Elimination\nHope you enjoy it :)\n\nStream : https://wing.fanlink.to/habanera\n\n[Credits]\nExecutive producer | SINZO of AEYL MUSIC\n\nCompose | WING\nArrange | WING\n\nMix & Master | Hiss (of HypeerTime) \n\nVideo | Bara Kim, 차승림\nArtwork | SINZO\n\nPresented by. AEYL MUSIC\n\n#WING #Habanera #BEATBOX #GBB23 #ウイング #ビートボックス",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/21v0nXhSfY0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/21v0nXhSfY0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/21v0nXhSfY0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/21v0nXhSfY0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/21v0nXhSfY0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "WING",
+        "tags": [
+          "habanera",
+          "carmen",
+          "WING",
+          "GBB23",
+          "GBB23 WING",
+          "BEATBOX WING",
+          "WING BEATBOX",
+          "BEATBOX",
+          "ビートボックス",
+          "ウイング",
+          "classical music"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "WING - Habanera (Official Video)",
+          "description": "My New Single “Habanera\" out now! \n\nThis song was performed in my GBB23 Solo Elimination\nHope you enjoy it :)\n\nStream : https://wing.fanlink.to/habanera\n\n[Credits]\nExecutive producer | SINZO of AEYL MUSIC\n\nCompose | WING\nArrange | WING\n\nMix & Master | Hiss (of HypeerTime) \n\nVideo | Bara Kim, 차승림\nArtwork | SINZO\n\nPresented by. AEYL MUSIC\n\n#WING #Habanera #BEATBOX #GBB23 #ウイング #ビートボックス"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT2M46S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "2704832",
+        "likeCount": "67764",
+        "favoriteCount": "0",
+        "commentCount": "1579"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Electronic_music",
+          "https://en.wikipedia.org/wiki/Hip_hop_music",
+          "https://en.wikipedia.org/wiki/Music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en": {
+          "title": "WING - Habanera (Official Video)",
+          "description": "My New Single “Habanera\" out now! \n\nThis song was performed in my GBB23 Solo Elimination\nHope you enjoy it :)\n\nStream : https://wing.fanlink.to/habanera\n\n[Credits]\nExecutive producer | SINZO of AEYL MUSIC\n\nCompose | WING\nArrange | WING\n\nMix & Master | Hiss (of HypeerTime) \n\nVideo | Bara Kim, 차승림\nArtwork | SINZO\n\nPresented by. AEYL MUSIC\n\n#WING #Habanera #BEATBOX #GBB23 #ウイング #ビートボックス"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "zbCDY9AmWa2PZUh-KC8p-wl_7GM",
+      "id": "YqRBULfanQI",
+      "snippet": {
+        "publishedAt": "2023-09-07T03:00:18Z",
+        "channelId": "UCN8JqVWsdgVx3svFEMWI85Q",
+        "title": "WING - Doppelganger (Official Video)",
+        "description": "My New Single “Doppelganger\" out now! \n\nStream : https://wing.fanlink.to/doppelganger\n\n[Credits]\nExecutive produced | AEYL MUSIC\nAlbum Produced | SINZO, Wing\nMusic Produced | Wing\n\nComposed | Wing\nLyrics | Wing\nArranged | Wing\n\nMix | Wing, Hiss (of HypeerTime)\nMaster | SINZO (of HypeerTime)\n\nVideo | Bara Kim\n\nArtwork | ちりぃ(chilly)\n\nPresented by. AEYL MUSIC\n\n#WING #DOPPELGANGER #BEATBOX #ウイング #ビートボックス",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YqRBULfanQI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YqRBULfanQI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YqRBULfanQI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YqRBULfanQI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YqRBULfanQI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "WING",
+        "tags": [
+          "WING",
+          "BEATBOXWING",
+          "DOPPELGANGER",
+          "도플갱어",
+          "BEATBOX",
+          "ウイング",
+          "ビートボックス"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "WING - Doppelganger (Official Video)",
+          "description": "My New Single “Doppelganger\" out now! \n\nStream : https://wing.fanlink.to/doppelganger\n\n[Credits]\nExecutive produced | AEYL MUSIC\nAlbum Produced | SINZO, Wing\nMusic Produced | Wing\n\nComposed | Wing\nLyrics | Wing\nArranged | Wing\n\nMix | Wing, Hiss (of HypeerTime)\nMaster | SINZO (of HypeerTime)\n\nVideo | Bara Kim\n\nArtwork | ちりぃ(chilly)\n\nPresented by. AEYL MUSIC\n\n#WING #DOPPELGANGER #BEATBOX #ウイング #ビートボックス"
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "contentDetails": {
+        "duration": "PT2M48S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1934395",
+        "likeCount": "48787",
+        "favoriteCount": "0",
+        "commentCount": "1600"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Electronic_music",
+          "https://en.wikipedia.org/wiki/Hip_hop_music",
+          "https://en.wikipedia.org/wiki/Independent_music",
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Music_of_Asia",
+          "https://en.wikipedia.org/wiki/Pop_music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en": {
+          "title": "WING - Doppelganger (Official Video)",
+          "description": "My New Single “Doppelganger\" out now! \n\nStream : https://wing.fanlink.to/doppelganger\n\n[Credits]\nExecutive produced | AEYL MUSIC\nAlbum Produced | SINZO, Wing\nMusic Produced | Wing\n\nComposed | Wing\nLyrics | Wing\nArranged | Wing\n\nMix | Wing, Hiss (of HypeerTime)\nMaster | SINZO (of HypeerTime)\n\nVideo | Bara Kim\n\nArtwork | ちりぃ(chilly)\n\nPresented by. AEYL MUSIC\n\n#WING #DOPPELGANGER #BEATBOX #ウイング #ビートボックス"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "GdfkGJYRouvREeBa5pN_IVTykDo",
+      "id": "pI5JU1D8EC4",
+      "snippet": {
+        "publishedAt": "2023-07-27T07:25:34Z",
+        "channelId": "UCN8JqVWsdgVx3svFEMWI85Q",
+        "title": "Osaka vide🎶",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pI5JU1D8EC4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pI5JU1D8EC4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pI5JU1D8EC4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pI5JU1D8EC4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pI5JU1D8EC4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "WING",
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "Osaka vide🎶",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT15S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1087648",
+        "likeCount": "40045",
+        "favoriteCount": "0",
+        "commentCount": "417"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Music_of_Asia"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "Osaka vide🎶",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "hqz2ZYMlOHeKaudi9nyMs8PCwPA",
+      "id": "wxdf3mG3G14",
+      "snippet": {
+        "publishedAt": "2023-03-16T12:00:43Z",
+        "channelId": "UCN8JqVWsdgVx3svFEMWI85Q",
+        "title": "WING - GBB23: World League Solo Wildcard (Round 2)",
+        "description": "WING - GBB23: World League Solo Wildcard (Round 2), \"Carpe diem!\"\n\nVideo by BARA Kim (@KoreaBeatboxTV )\nAudio by Hiss (of HypeerTime)\n\nInstagram : @wing7ackpot\n#GBB #GBB23 #WING",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wxdf3mG3G14/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wxdf3mG3G14/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wxdf3mG3G14/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wxdf3mG3G14/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wxdf3mG3G14/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "WING",
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "WING - GBB23: World League Solo Wildcard (Round 2)",
+          "description": "WING - GBB23: World League Solo Wildcard (Round 2), \"Carpe diem!\"\n\nVideo by BARA Kim (@KoreaBeatboxTV )\nAudio by Hiss (of HypeerTime)\n\nInstagram : @wing7ackpot\n#GBB #GBB23 #WING"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT2M6S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1117050",
+        "likeCount": "21801",
+        "favoriteCount": "0",
+        "commentCount": "707"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Hip_hop_music",
+          "https://en.wikipedia.org/wiki/Music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en": {
+          "title": "WING - GBB23: World League Solo Wildcard (Round 2)",
+          "description": "WING - GBB23: World League Solo Wildcard (Round 2), \"Carpe diem!\"\n\nVideo by BARA Kim (@KoreaBeatboxTV )\nAudio by Hiss (of HypeerTime)\n\nInstagram : @wing7ackpot\n#GBB #GBB23 #WING"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Np24fTktCPVhtU3slazsM9lELr4",
+      "id": "-D_bGvUcJdc",
+      "snippet": {
+        "publishedAt": "2023-02-03T11:00:00Z",
+        "channelId": "UCN8JqVWsdgVx3svFEMWI85Q",
+        "title": "WING - GBB23: World League Solo Wildcard",
+        "description": "WING - GBB23: World League Solo Wildcard\n\nVideo by BARA Kim (@KoreaBeatboxTV )\nAudio by Hiss (of HypeerTime)\n\nInstagram : @wing7ackpot\n#GBB #GBB23 #WING",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-D_bGvUcJdc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-D_bGvUcJdc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-D_bGvUcJdc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-D_bGvUcJdc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-D_bGvUcJdc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "WING",
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "WING - GBB23: World League Solo Wildcard",
+          "description": "WING - GBB23: World League Solo Wildcard\n\nVideo by BARA Kim (@KoreaBeatboxTV )\nAudio by Hiss (of HypeerTime)\n\nInstagram : @wing7ackpot\n#GBB #GBB23 #WING"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT2M16S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "2453926",
+        "likeCount": "42465",
+        "favoriteCount": "0",
+        "commentCount": "1568"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Hip_hop_music",
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Music_of_Asia"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en": {
+          "title": "WING - GBB23: World League Solo Wildcard",
+          "description": "WING - GBB23: World League Solo Wildcard\n\nVideo by BARA Kim (@KoreaBeatboxTV )\nAudio by Hiss (of HypeerTime)\n\nInstagram : @wing7ackpot\n#GBB #GBB23 #WING"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "A1djloFXKIr7LwdwaZOT47zAztU",
+      "id": "hQZJ-23r_Sg",
+      "snippet": {
+        "publishedAt": "2023-01-25T11:00:33Z",
+        "channelId": "UCN8JqVWsdgVx3svFEMWI85Q",
+        "title": "WING - Killing Me Softly (Official Video)",
+        "description": "My New Song “Killing Me Softly\" out now! \n\nStream : https://wing.fanlink.to/kms\n\n[Credits]\nExecutive produced by. SINZO for AEYL MUSIC\nAlbum Produced by. SINZO, Wing\nMusic Produced by. Wing, Hiss\n\nComposed by. Wing\nLyrics by. Wing\nArranged by. Wing\n\nMixed by. Hiss (of HypeerTime)\nMastered by. SINZO (of HypeerTime)\n\nVideo Directer : GOND, Kimnamjin\nVideo D.O.P : Bara Kim\nVideo Shot by. Bara Kim, 차승림\nHair & Make-Up by. THE-J hair make-up\nArtwork by. SINZO\n\nProject Manager : Jin at AEYL MUSIC\n\nPresented by. AEYL MUSIC\n\n#WING #KILLNGMESOFTLY #BEATBOX #ビートボックス",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hQZJ-23r_Sg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hQZJ-23r_Sg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hQZJ-23r_Sg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hQZJ-23r_Sg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hQZJ-23r_Sg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "WING",
+        "tags": [
+          "WING",
+          "윙",
+          "WINGBEATBOX",
+          "beatbox",
+          "KillingMeSoftly",
+          "Killing ME Softly",
+          "비트박스",
+          "ビートボックス"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "WING - Killing Me Softly (Official Video)",
+          "description": "My New Song “Killing Me Softly\" out now! \n\nStream : https://wing.fanlink.to/kms\n\n[Credits]\nExecutive produced by. SINZO for AEYL MUSIC\nAlbum Produced by. SINZO, Wing\nMusic Produced by. Wing, Hiss\n\nComposed by. Wing\nLyrics by. Wing\nArranged by. Wing\n\nMixed by. Hiss (of HypeerTime)\nMastered by. SINZO (of HypeerTime)\n\nVideo Directer : GOND, Kimnamjin\nVideo D.O.P : Bara Kim\nVideo Shot by. Bara Kim, 차승림\nHair & Make-Up by. THE-J hair make-up\nArtwork by. SINZO\n\nProject Manager : Jin at AEYL MUSIC\n\nPresented by. AEYL MUSIC\n\n#WING #KILLNGMESOFTLY #BEATBOX #ビートボックス"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT3M1S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1334041",
+        "likeCount": "32827",
+        "favoriteCount": "0",
+        "commentCount": "1366"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Electronic_music",
+          "https://en.wikipedia.org/wiki/Hip_hop_music",
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Music_of_Asia",
+          "https://en.wikipedia.org/wiki/Pop_music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en": {
+          "title": "WING - Killing Me Softly (Official Video)",
+          "description": "My New Song “Killing Me Softly\" out now! \n\nStream : https://wing.fanlink.to/kms\n\n[Credits]\nExecutive produced by. SINZO for AEYL MUSIC\nAlbum Produced by. SINZO, Wing\nMusic Produced by. Wing, Hiss\n\nComposed by. Wing\nLyrics by. Wing\nArranged by. Wing\n\nMixed by. Hiss (of HypeerTime)\nMastered by. SINZO (of HypeerTime)\n\nVideo Directer : GOND, Kimnamjin\nVideo D.O.P : Bara Kim\nVideo Shot by. Bara Kim, 차승림\nHair & Make-Up by. THE-J hair make-up\nArtwork by. SINZO\n\nProject Manager : Jin at AEYL MUSIC\n\nPresented by. AEYL MUSIC\n\n#WING #KILLNGMESOFTLY #BEATBOX #ビートボックス"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "G-u-ND9YfOi8aLdyJdy6kgiss9w",
+      "id": "-rEIOkGCbo8",
+      "snippet": {
+        "publishedAt": "2022-01-29T18:53:33Z",
+        "channelId": "UCN8JqVWsdgVx3svFEMWI85Q",
+        "title": "WING - Dancing with a stranger #bbu22",
+        "description": "Hi this is my Beatbox United 22 Wildcard.\n\ninsta-@wing7ackpot\n\nVideo by Bara Kim (@Korea Beatbox TV )",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-rEIOkGCbo8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-rEIOkGCbo8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-rEIOkGCbo8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "WING",
+        "tags": [
+          "beatbox",
+          "spiderman",
+          "music",
+          "wing",
+          "beatbox wing",
+          "tiktok",
+          "youtube",
+          "wing beatbox",
+          "song beatbox",
+          "비트박스",
+          "비트박스 윙",
+          "비트박스 챔피언",
+          "아시아 챔피언",
+          "윙",
+          "윙 비트박스",
+          "instagram",
+          "viral song",
+          "beatbox champion",
+          "swiss beatbox",
+          "grand beatbox battle",
+          "beatbox wildcard",
+          "bbu22",
+          "beatbox united 2022 wildcard",
+          "beatbox united 2022",
+          "dancing with a stranger",
+          "dance",
+          "와일드카드"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "WING - Dancing with a stranger #bbu22",
+          "description": "Hi this is my Beatbox United 22 Wildcard.\n\ninsta-@wing7ackpot\n\nVideo by Bara Kim (@Korea Beatbox TV )"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT3M13S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1603009",
+        "likeCount": "35851",
+        "favoriteCount": "0",
+        "commentCount": "1028"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Electronic_music",
+          "https://en.wikipedia.org/wiki/Hip_hop_music",
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Music_of_Asia"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en": {
+          "title": "WING - Dancing with a stranger #bbu22",
+          "description": "Hi this is my Beatbox United 22 Wildcard.\n\ninsta-@wing7ackpot\n\nVideo by Bara Kim (@Korea Beatbox TV )"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "XDcAu5WMNiZkwHkFAHlFZtNqVs4",
+      "id": "6Ms9K0DstxY",
+      "snippet": {
+        "publishedAt": "2021-05-30T11:00:01Z",
+        "channelId": "UCN8JqVWsdgVx3svFEMWI85Q",
+        "title": "Jackpot | GBB 2021:World League Tag Team Wildcard",
+        "description": "VIdeo by Bara Kim\nAudio Mastering by Hiss\n\n\n- Insta -\n@wing7ackpot\n@hellcat7ackpot",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6Ms9K0DstxY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6Ms9K0DstxY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6Ms9K0DstxY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6Ms9K0DstxY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6Ms9K0DstxY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "WING",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Jackpot | GBB 2021:World League Tag Team Wildcard",
+          "description": "VIdeo by Bara Kim\nAudio Mastering by Hiss\n\n\n- Insta -\n@wing7ackpot\n@hellcat7ackpot"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT2M2S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1043028",
+        "likeCount": "22365",
+        "favoriteCount": "0",
+        "commentCount": "830"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Electronic_music",
+          "https://en.wikipedia.org/wiki/Hip_hop_music",
+          "https://en.wikipedia.org/wiki/Music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "de-DE": {
+          "title": "Jackpot | GBB 2021: World League Tag Team Wildcard",
+          "description": "Video von Bara Kim\nAudio-Mastering von Hiss\n\n- Instagram -\n@wing7ackpot\n@hellcat7ackpot"
+        },
+        "pt-BR": {
+          "title": "Prêmio principal | GBB 2021: Wildcard da Liga Mundial de Tag Team",
+          "description": "Vídeo por Bara Kim\nMasterização de áudio por Hiss\n\n- Insta -\n@wing7ackpot\n@hellcat7ackpot"
+        },
+        "en": {
+          "title": "Jackpot | GBB 2021:World League Tag Team Wildcard",
+          "description": "VIdeo by Bara Kim\nAudio Mastering by Hiss\n\n\n- Insta -\n@wing7ackpot\n@hellcat7ackpot"
+        },
+        "id": {
+          "title": "Jackpot | GBB 2021: Wildcard Tim Tag Liga Dunia",
+          "description": "Video oleh Bara Kim\nPenguasaan Audio oleh Hiss\n\n- Instagram -\n@wing7ackpot\n@hellcat7ackpot"
+        },
+        "fr-FR": {
+          "title": "Jackpot | GBB 2021 : Wildcard de la Ligue Mondiale par Équipes",
+          "description": "Vidéo réalisée par Bara Kim\nMastering audio par Hiss\n\n- Insta -\n\n@wing7ackpot\n@hellcat7ackpot"
+        },
+        "es-US": {
+          "title": "Jackpot | GBB 2021: Comodín de la Liga Mundial de Tag Team",
+          "description": "Vídeo de Bara Kim\nMasterización de audio por Hiss\n\n- Instagram -\n@wing7ackpot\n@hellcat7ackpot"
+        },
+        "hi": {
+          "title": "जैकपॉट | जीबीबी 2021: वर्ल्ड लीग टैग टीम वाइल्डकार्ड",
+          "description": "वीडियो: बारा किम\nऑडियो मास्टेरिंग: हिस\n\n- इंस्टाग्राम -\n@wing7ackpot\n@hellcat7ackpot"
+        },
+        "it": {
+          "title": "Jackpot | GBB 2021: Wildcard della World League Tag Team",
+          "description": "Video di Bara Kim\nMastering audio di Hiss\n\n- Instagram -\n@wing7ackpot\n@hellcat7ackpot"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "zJcZM9stG1U0NqGgKZeBaI5tkQg",
+      "id": "dQxofuRBR38",
+      "snippet": {
+        "publishedAt": "2021-04-19T12:00:15Z",
+        "channelId": "UCN8JqVWsdgVx3svFEMWI85Q",
+        "title": "WING | GBB 2021: World League Solo Wildcard",
+        "description": "I'm back🥲\n\ninsta-@wing7ackpot",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dQxofuRBR38/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dQxofuRBR38/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dQxofuRBR38/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dQxofuRBR38/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dQxofuRBR38/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "WING",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "WING | GBB 2021: World League Solo Wildcard",
+          "description": "I'm back🥲\n\ninsta-@wing7ackpot"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT2M17S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1121305",
+        "likeCount": "30914",
+        "favoriteCount": "0",
+        "commentCount": "1390"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Music_of_Asia",
+          "https://en.wikipedia.org/wiki/Rhythm_and_blues"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en-US": {
+          "title": "WING | GBB 2021: World League Solo Wildcard",
+          "description": "I'm back🥲\n\ninsta-@wing7ackpot"
+        },
+        "en": {
+          "title": "WING | GBB 2021: World League Solo Wildcard",
+          "description": "I'm back🥲\n\ninsta-@wing7ackpot"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "KYgnUyQj6sEPCLmF-BP5yTTCLig",
+      "id": "UkstO3NGsUA",
+      "snippet": {
+        "publishedAt": "2017-11-05T12:18:48Z",
+        "channelId": "UCN8JqVWsdgVx3svFEMWI85Q",
+        "title": "Wing | Grand Beatbox Battle Wildcard 2018 | Attention",
+        "description": "Wing\n\nFacebook : https://www.facebook.com/profile.php?id=100005709601853\nInstagram : https://www.instagram.com/wing_beatbox/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UkstO3NGsUA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UkstO3NGsUA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UkstO3NGsUA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "WING",
+        "tags": [
+          "Wing",
+          "Grand beatbox battle",
+          "wildcard",
+          "2018",
+          "jackpot",
+          "윙",
+          "비트박스 윙",
+          "Beatbox wing",
+          "잭팟",
+          "비트박스 잭팟",
+          "beatbox jackpot",
+          "Grand Beatbox Battle Wildcard 2018",
+          "Grand beatbox battle wildcard",
+          "Grand Beatbox Battle 2018"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Wing | Grand Beatbox Battle Wildcard 2018 | Attention",
+          "description": "Wing\n\nFacebook : https://www.facebook.com/profile.php?id=100005709601853\nInstagram : https://www.instagram.com/wing_beatbox/"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT2M8S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "816344",
+        "likeCount": "20488",
+        "favoriteCount": "0",
+        "commentCount": "1217"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Hip_hop_music",
+          "https://en.wikipedia.org/wiki/Music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en": {
+          "title": "Wing | Grand Beatbox Battle Wildcard 2018 | Attention",
+          "description": "Wing\n\nFacebook : https://www.facebook.com/profile.php?id=100005709601853\nInstagram : https://www.instagram.com/wing_beatbox/"
+        }
+      }
+    }
+  ]
+}

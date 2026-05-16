@@ -1,0 +1,269 @@
+{
+  "idx": 7859,
+  "channel_id": "UCxLOTgnqpSqQp_kMPlb7PWw",
+  "channel_title": "ToyFamily",
+  "playlist_items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "qhsbFYL4UNBFpyc-yWLEEx_W-dc",
+      "id": "VVV4TE9UZ25xcFNxUXBfa01QbGI3UFd3LjZLV2hKVktUZ2h3",
+      "snippet": {
+        "publishedAt": "2023-08-09T04:29:24Z",
+        "channelId": "UCxLOTgnqpSqQp_kMPlb7PWw",
+        "title": "가을이 근황",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6KWhJVKTghw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6KWhJVKTghw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6KWhJVKTghw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6KWhJVKTghw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6KWhJVKTghw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ToyFamily",
+        "playlistId": "UUxLOTgnqpSqQp_kMPlb7PWw",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "6KWhJVKTghw"
+        },
+        "videoOwnerChannelTitle": "ToyFamily",
+        "videoOwnerChannelId": "UCxLOTgnqpSqQp_kMPlb7PWw"
+      },
+      "contentDetails": {
+        "videoId": "6KWhJVKTghw",
+        "videoPublishedAt": "2023-08-09T04:29:24Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "bwY-4kMjehWHdyDZEjLepZgUJmU",
+      "id": "VVV4TE9UZ25xcFNxUXBfa01QbGI3UFd3LldKLUcxd1cyUnN3",
+      "snippet": {
+        "publishedAt": "2021-07-20T04:25:23Z",
+        "channelId": "UCxLOTgnqpSqQp_kMPlb7PWw",
+        "title": "가을이",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WJ-G1wW2Rsw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WJ-G1wW2Rsw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WJ-G1wW2Rsw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WJ-G1wW2Rsw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "ToyFamily",
+        "playlistId": "UUxLOTgnqpSqQp_kMPlb7PWw",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WJ-G1wW2Rsw"
+        },
+        "videoOwnerChannelTitle": "ToyFamily",
+        "videoOwnerChannelId": "UCxLOTgnqpSqQp_kMPlb7PWw"
+      },
+      "contentDetails": {
+        "videoId": "WJ-G1wW2Rsw",
+        "videoPublishedAt": "2021-07-20T04:25:23Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "video_details": [
+    {
+      "kind": "youtube#video",
+      "etag": "-2jHAgopGVcCOHmOy0IU26hBevk",
+      "id": "6KWhJVKTghw",
+      "snippet": {
+        "publishedAt": "2023-08-09T04:29:24Z",
+        "channelId": "UCxLOTgnqpSqQp_kMPlb7PWw",
+        "title": "가을이 근황",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6KWhJVKTghw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6KWhJVKTghw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6KWhJVKTghw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6KWhJVKTghw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6KWhJVKTghw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ToyFamily",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "가을이 근황",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT12S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": false,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "25711",
+        "favoriteCount": "0",
+        "commentCount": "52"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Pet"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en": {
+          "title": "가을이 근황",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "XAlmkktTFlgDD_kWLqggROqkTlY",
+      "id": "WJ-G1wW2Rsw",
+      "snippet": {
+        "publishedAt": "2021-07-20T04:25:23Z",
+        "channelId": "UCxLOTgnqpSqQp_kMPlb7PWw",
+        "title": "가을이",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WJ-G1wW2Rsw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WJ-G1wW2Rsw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WJ-G1wW2Rsw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WJ-G1wW2Rsw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "ToyFamily",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "가을이",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT20S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": false,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "34297",
+        "favoriteCount": "0",
+        "commentCount": "63"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Pet"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en": {
+          "title": "가을이",
+          "description": ""
+        }
+      }
+    }
+  ]
+}

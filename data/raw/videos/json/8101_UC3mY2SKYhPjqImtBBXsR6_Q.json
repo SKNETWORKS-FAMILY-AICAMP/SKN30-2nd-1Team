@@ -1,0 +1,582 @@
+{
+  "idx": 8101,
+  "channel_id": "UC3mY2SKYhPjqImtBBXsR6_Q",
+  "channel_title": "MayTree",
+  "playlist_items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8bg6F7DEX7vVrUFA3HYh-2MtsRY",
+      "id": "VVUzbVkyU0tZaFBqcUltdEJCWHNSNl9RLldrUE8yRDhfRU9N",
+      "snippet": {
+        "publishedAt": "2026-05-09T14:02:02Z",
+        "channelId": "UC3mY2SKYhPjqImtBBXsR6_Q",
+        "title": "청춘영화같은 뮤직비디오",
+        "description": "#analog #무의도 #maytree #mv",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WkPO2D8_EOM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WkPO2D8_EOM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WkPO2D8_EOM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WkPO2D8_EOM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WkPO2D8_EOM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MayTree",
+        "playlistId": "UU3mY2SKYhPjqImtBBXsR6_Q",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WkPO2D8_EOM"
+        },
+        "videoOwnerChannelTitle": "MayTree",
+        "videoOwnerChannelId": "UC3mY2SKYhPjqImtBBXsR6_Q"
+      },
+      "contentDetails": {
+        "videoId": "WkPO2D8_EOM",
+        "videoPublishedAt": "2026-05-09T14:02:02Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "WTCoyAavKw3FeEqDe31oh-gTxdI",
+      "id": "VVUzbVkyU0tZaFBqcUltdEJCWHNSNl9RLjZuV1hKdXZkZXE4",
+      "snippet": {
+        "publishedAt": "2026-05-04T15:42:32Z",
+        "channelId": "UC3mY2SKYhPjqImtBBXsR6_Q",
+        "title": "[Official MV] Analog (acapella)",
+        "description": "We can't wait to share more beautiful music with you all.❤️\n\n#analog #acapella #retro #무의도 #소무의도 \n--------------------------------\nVideo Credit\nDirected by Park Sangwook 박상욱\nAssistant  Ahn Jihee  안지희\nD.O.P by Jerry, Kim Yongdoo 김용두\nEdit by  Ahn Jihee  안지희\nDI by  Ahn Jihee 안지희\n\nMusic Credit\nComposed and Lysics by S.I.@MayTree\nArranged by Jong ho Choi\nSung by MayTree(S.I., Young Song, LaYoung, BassoKim, Dajeong)\nRecorded @MayTree Studio\nEditing by S.I.@MayTree Studio\nVocal Editing by MayTree(S.I., Young Song, LaYoung, BassoKim, Dajeong)\nMixed by S.I.@MayTree Studio\nMastered by BK! at AB Room\n Music Director S.I.@MayTree\n Executive Producer Elly Ahn@Auriga inc.\nSpecial Thanks to Choi Hyeon Min,, Jeon So Yeong\n\n\n-----------------------------\nSong link\n🍈 Melon  https://www.melon.com/album/detail.ht...\n🍏 Genie  https://www.genie.co.kr/detail/albumI...\n🐞 Bugs  https://music.bugs.co.kr/album/208084...\n🌊 FLO  https://www.music-flo.com/detail/albu...\n💚 VIBE  https://vibe.naver.com/album/37218009\n\n🍎 Apple Music    / analog-single  \n🟢 Spotify  https://open.spotify.com/album/5qHF7B...\n🛒 Amazon Music  https://music.amazon.ca/albums/B0GYG9...\n\n🌍 More platforms  \nhttps://lnk.dmsmusic.co/maytree_analog",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6nWXJuvdeq8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6nWXJuvdeq8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6nWXJuvdeq8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6nWXJuvdeq8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6nWXJuvdeq8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MayTree",
+        "playlistId": "UU3mY2SKYhPjqImtBBXsR6_Q",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "6nWXJuvdeq8"
+        },
+        "videoOwnerChannelTitle": "MayTree",
+        "videoOwnerChannelId": "UC3mY2SKYhPjqImtBBXsR6_Q"
+      },
+      "contentDetails": {
+        "videoId": "6nWXJuvdeq8",
+        "videoPublishedAt": "2026-05-04T15:42:32Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "txv3r6ffxfDtWgroXfvBuJewmNw",
+      "id": "VVUzbVkyU0tZaFBqcUltdEJCWHNSNl9RLlgzRmhHLXVYWU1B",
+      "snippet": {
+        "publishedAt": "2026-04-30T12:01:04Z",
+        "channelId": "UC3mY2SKYhPjqImtBBXsR6_Q",
+        "title": "[Lyric video] Analog (acapella)",
+        "description": "The lyric video is out today. :)\nTake your time with the lyrics and hope the music brings you a moment of calm.\nThe official music video will be coming your way very soon! Thank you.🙏\n\nHere are the links to our new track — we’d really appreciate it if you give it a listen!!\n🍈 Melon  https://www.melon.com/album/detail.htm?albumId=13360308\n🍏 Genie  https://www.genie.co.kr/detail/albumInfo?axnm=87565865\n🐞 Bugs  https://music.bugs.co.kr/album/20808406?wl_ref=list_ab_01\n🌊 FLO  https://www.music-flo.com/detail/album/454727503/albumtrack\n💚 VIBE  https://vibe.naver.com/album/37218009\n\n🍎 Apple Music  https://music.apple.com/kr/album/analog-single/1895403247\n🟢 Spotify  https://open.spotify.com/album/5qHF7BRwMMxQBwfqs7kYfq\n🛒 Amazon Music  https://music.amazon.ca/albums/B0GYG9RLT6\n\n🌍 More platforms  \nhttps://lnk.dmsmusic.co/maytree_analog\n\n'아날로그' 음원이 발매되었습니다! 가사가 더 와닿았으면 해서, Lyric video를 먼저 공개합니다. :)\n오피셜 뮤직비디오도 곧 오픈될 예정입니다. \n위의 음원 링크도 많은 관심 부탁드려요!! 감사합니다🙏",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/X3FhG-uXYMA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/X3FhG-uXYMA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/X3FhG-uXYMA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/X3FhG-uXYMA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/X3FhG-uXYMA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MayTree",
+        "playlistId": "UU3mY2SKYhPjqImtBBXsR6_Q",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "X3FhG-uXYMA"
+        },
+        "videoOwnerChannelTitle": "MayTree",
+        "videoOwnerChannelId": "UC3mY2SKYhPjqImtBBXsR6_Q"
+      },
+      "contentDetails": {
+        "videoId": "X3FhG-uXYMA",
+        "videoPublishedAt": "2026-04-30T12:01:04Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3AqGJCJIsZPfEbAShrAadnGCs_c",
+      "id": "VVUzbVkyU0tZaFBqcUltdEJCWHNSNl9RLmJ2LVVNcXRBaHc0",
+      "snippet": {
+        "publishedAt": "2026-04-29T15:22:00Z",
+        "channelId": "UC3mY2SKYhPjqImtBBXsR6_Q",
+        "title": "[Teaser] Analog (acapella)",
+        "description": "Back to the essence.\n\nA new chapter begins.\nMayTree Season 2\nvery coming soon...❤️\n\nMember's Social Media\nYoung Song https://www.instagram.com/choiyoungsong?igsh=anF0Mmk4ZDJ0emV2&utm_source=qr\nLaYoung https://www.instagram.com/singla_o_?igsh=MWEweTdsYTI5cWI4aA%3D%3D&utm_source=qr\nBassoKim https://www.tiktok.com/@bassokim?_r=1&_t=ZS-95letjFSbUD\nDajeong https://youtube.com/@rada_singg?si=XZjzqXhRUT6A9El1",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bv-UMqtAhw4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bv-UMqtAhw4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bv-UMqtAhw4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bv-UMqtAhw4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bv-UMqtAhw4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MayTree",
+        "playlistId": "UU3mY2SKYhPjqImtBBXsR6_Q",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "bv-UMqtAhw4"
+        },
+        "videoOwnerChannelTitle": "MayTree",
+        "videoOwnerChannelId": "UC3mY2SKYhPjqImtBBXsR6_Q"
+      },
+      "contentDetails": {
+        "videoId": "bv-UMqtAhw4",
+        "videoPublishedAt": "2026-04-29T15:22:00Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "video_details": [
+    {
+      "kind": "youtube#video",
+      "etag": "X3rDg24QRSgiH10EF21cCDo8yeQ",
+      "id": "WkPO2D8_EOM",
+      "snippet": {
+        "publishedAt": "2026-05-09T14:02:02Z",
+        "channelId": "UC3mY2SKYhPjqImtBBXsR6_Q",
+        "title": "청춘영화같은 뮤직비디오",
+        "description": "#analog #무의도 #maytree #mv",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WkPO2D8_EOM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WkPO2D8_EOM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WkPO2D8_EOM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WkPO2D8_EOM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WkPO2D8_EOM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MayTree",
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "청춘영화같은 뮤직비디오",
+          "description": "#analog #무의도 #maytree #mv"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT40S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "5325",
+        "likeCount": "140",
+        "favoriteCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Film",
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Music_of_Asia",
+          "https://en.wikipedia.org/wiki/Pop_music"
+        ]
+      },
+      "recordingDetails": {
+        "locationDescription": "무의도",
+        "location": {
+          "latitude": 37.3918796,
+          "longitude": 126.4155849,
+          "altitude": 0
+        }
+      },
+      "localizations": {
+        "en": {
+          "title": "청춘영화같은 뮤직비디오",
+          "description": "#analog #무의도 #maytree #mv"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "k7-Xd04joTfrMy0cJl2rQAbc0_Q",
+      "id": "6nWXJuvdeq8",
+      "snippet": {
+        "publishedAt": "2026-05-04T15:42:32Z",
+        "channelId": "UC3mY2SKYhPjqImtBBXsR6_Q",
+        "title": "[Official MV] Analog (acapella)",
+        "description": "We can't wait to share more beautiful music with you all.❤️\n\n#analog #acapella #retro #무의도 #소무의도 \n--------------------------------\nVideo Credit\nDirected by Park Sangwook 박상욱\nAssistant  Ahn Jihee  안지희\nD.O.P by Jerry, Kim Yongdoo 김용두\nEdit by  Ahn Jihee  안지희\nDI by  Ahn Jihee 안지희\n\nMusic Credit\nComposed and Lysics by S.I.@MayTree\nArranged by Jong ho Choi\nSung by MayTree(S.I., Young Song, LaYoung, BassoKim, Dajeong)\nRecorded @MayTree Studio\nEditing by S.I.@MayTree Studio\nVocal Editing by MayTree(S.I., Young Song, LaYoung, BassoKim, Dajeong)\nMixed by S.I.@MayTree Studio\nMastered by BK! at AB Room\n Music Director S.I.@MayTree\n Executive Producer Elly Ahn@Auriga inc.\nSpecial Thanks to Choi Hyeon Min,, Jeon So Yeong\n\n\n-----------------------------\nSong link\n🍈 Melon  https://www.melon.com/album/detail.ht...\n🍏 Genie  https://www.genie.co.kr/detail/albumI...\n🐞 Bugs  https://music.bugs.co.kr/album/208084...\n🌊 FLO  https://www.music-flo.com/detail/albu...\n💚 VIBE  https://vibe.naver.com/album/37218009\n\n🍎 Apple Music    / analog-single  \n🟢 Spotify  https://open.spotify.com/album/5qHF7B...\n🛒 Amazon Music  https://music.amazon.ca/albums/B0GYG9...\n\n🌍 More platforms  \nhttps://lnk.dmsmusic.co/maytree_analog",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6nWXJuvdeq8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6nWXJuvdeq8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6nWXJuvdeq8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6nWXJuvdeq8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6nWXJuvdeq8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MayTree",
+        "tags": [
+          "analog",
+          "acapella",
+          "acappella",
+          "maytree",
+          "메이트리",
+          "아카펠라"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "[Official MV] Analog (acapella)",
+          "description": "We can't wait to share more beautiful music with you all.❤️\n\n#analog #acapella #retro #무의도 #소무의도 \n--------------------------------\nVideo Credit\nDirected by Park Sangwook 박상욱\nAssistant  Ahn Jihee  안지희\nD.O.P by Jerry, Kim Yongdoo 김용두\nEdit by  Ahn Jihee  안지희\nDI by  Ahn Jihee 안지희\n\nMusic Credit\nComposed and Lysics by S.I.@MayTree\nArranged by Jong ho Choi\nSung by MayTree(S.I., Young Song, LaYoung, BassoKim, Dajeong)\nRecorded @MayTree Studio\nEditing by S.I.@MayTree Studio\nVocal Editing by MayTree(S.I., Young Song, LaYoung, BassoKim, Dajeong)\nMixed by S.I.@MayTree Studio\nMastered by BK! at AB Room\n Music Director S.I.@MayTree\n Executive Producer Elly Ahn@Auriga inc.\nSpecial Thanks to Choi Hyeon Min,, Jeon So Yeong\n\n\n-----------------------------\nSong link\n🍈 Melon  https://www.melon.com/album/detail.ht...\n🍏 Genie  https://www.genie.co.kr/detail/albumI...\n🐞 Bugs  https://music.bugs.co.kr/album/208084...\n🌊 FLO  https://www.music-flo.com/detail/albu...\n💚 VIBE  https://vibe.naver.com/album/37218009\n\n🍎 Apple Music    / analog-single  \n🟢 Spotify  https://open.spotify.com/album/5qHF7B...\n🛒 Amazon Music  https://music.amazon.ca/albums/B0GYG9...\n\n🌍 More platforms  \nhttps://lnk.dmsmusic.co/maytree_analog"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT3M35S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "17090",
+        "likeCount": "726",
+        "favoriteCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Music_of_Asia",
+          "https://en.wikipedia.org/wiki/Pop_music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en": {
+          "title": "[Official MV] Analog (acapella)",
+          "description": "We can't wait to share more beautiful music with you all.❤️\n\n#analog #acapella #retro #무의도 #소무의도 \n--------------------------------\nVideo Credit\nDirected by Park Sangwook 박상욱\nAssistant  Ahn Jihee  안지희\nD.O.P by Jerry, Kim Yongdoo 김용두\nEdit by  Ahn Jihee  안지희\nDI by  Ahn Jihee 안지희\n\nMusic Credit\nComposed and Lysics by S.I.@MayTree\nArranged by Jong ho Choi\nSung by MayTree(S.I., Young Song, LaYoung, BassoKim, Dajeong)\nRecorded @MayTree Studio\nEditing by S.I.@MayTree Studio\nVocal Editing by MayTree(S.I., Young Song, LaYoung, BassoKim, Dajeong)\nMixed by S.I.@MayTree Studio\nMastered by BK! at AB Room\n Music Director S.I.@MayTree\n Executive Producer Elly Ahn@Auriga inc.\nSpecial Thanks to Choi Hyeon Min,, Jeon So Yeong\n\n\n-----------------------------\nSong link\n🍈 Melon  https://www.melon.com/album/detail.ht...\n🍏 Genie  https://www.genie.co.kr/detail/albumI...\n🐞 Bugs  https://music.bugs.co.kr/album/208084...\n🌊 FLO  https://www.music-flo.com/detail/albu...\n💚 VIBE  https://vibe.naver.com/album/37218009\n\n🍎 Apple Music    / analog-single  \n🟢 Spotify  https://open.spotify.com/album/5qHF7B...\n🛒 Amazon Music  https://music.amazon.ca/albums/B0GYG9...\n\n🌍 More platforms  \nhttps://lnk.dmsmusic.co/maytree_analog"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "T-NKPEAjOJEeujB1zOuv6hzYMCo",
+      "id": "X3FhG-uXYMA",
+      "snippet": {
+        "publishedAt": "2026-04-30T12:01:04Z",
+        "channelId": "UC3mY2SKYhPjqImtBBXsR6_Q",
+        "title": "[Lyric video] Analog (acapella)",
+        "description": "The lyric video is out today. :)\nTake your time with the lyrics and hope the music brings you a moment of calm.\nThe official music video will be coming your way very soon! Thank you.🙏\n\nHere are the links to our new track — we’d really appreciate it if you give it a listen!!\n🍈 Melon  https://www.melon.com/album/detail.htm?albumId=13360308\n🍏 Genie  https://www.genie.co.kr/detail/albumInfo?axnm=87565865\n🐞 Bugs  https://music.bugs.co.kr/album/20808406?wl_ref=list_ab_01\n🌊 FLO  https://www.music-flo.com/detail/album/454727503/albumtrack\n💚 VIBE  https://vibe.naver.com/album/37218009\n\n🍎 Apple Music  https://music.apple.com/kr/album/analog-single/1895403247\n🟢 Spotify  https://open.spotify.com/album/5qHF7BRwMMxQBwfqs7kYfq\n🛒 Amazon Music  https://music.amazon.ca/albums/B0GYG9RLT6\n\n🌍 More platforms  \nhttps://lnk.dmsmusic.co/maytree_analog\n\n'아날로그' 음원이 발매되었습니다! 가사가 더 와닿았으면 해서, Lyric video를 먼저 공개합니다. :)\n오피셜 뮤직비디오도 곧 오픈될 예정입니다. \n위의 음원 링크도 많은 관심 부탁드려요!! 감사합니다🙏",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/X3FhG-uXYMA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/X3FhG-uXYMA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/X3FhG-uXYMA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/X3FhG-uXYMA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/X3FhG-uXYMA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MayTree",
+        "tags": [
+          "메이트리",
+          "아날로그",
+          "아카펠라",
+          "maytree",
+          "acapella",
+          "analog",
+          "kpop"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "[Lyric video] Analog (acapella)",
+          "description": "The lyric video is out today. :)\nTake your time with the lyrics and hope the music brings you a moment of calm.\nThe official music video will be coming your way very soon! Thank you.🙏\n\nHere are the links to our new track — we’d really appreciate it if you give it a listen!!\n🍈 Melon  https://www.melon.com/album/detail.htm?albumId=13360308\n🍏 Genie  https://www.genie.co.kr/detail/albumInfo?axnm=87565865\n🐞 Bugs  https://music.bugs.co.kr/album/20808406?wl_ref=list_ab_01\n🌊 FLO  https://www.music-flo.com/detail/album/454727503/albumtrack\n💚 VIBE  https://vibe.naver.com/album/37218009\n\n🍎 Apple Music  https://music.apple.com/kr/album/analog-single/1895403247\n🟢 Spotify  https://open.spotify.com/album/5qHF7BRwMMxQBwfqs7kYfq\n🛒 Amazon Music  https://music.amazon.ca/albums/B0GYG9RLT6\n\n🌍 More platforms  \nhttps://lnk.dmsmusic.co/maytree_analog\n\n'아날로그' 음원이 발매되었습니다! 가사가 더 와닿았으면 해서, Lyric video를 먼저 공개합니다. :)\n오피셜 뮤직비디오도 곧 오픈될 예정입니다. \n위의 음원 링크도 많은 관심 부탁드려요!! 감사합니다🙏"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT3M5S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "13470",
+        "likeCount": "650",
+        "favoriteCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Pop_music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en": {
+          "title": "[Lyric video] Analog (acapella)",
+          "description": "The lyric video is out today. :)\nTake your time with the lyrics and hope the music brings you a moment of calm.\nThe official music video will be coming your way very soon! Thank you.🙏\n\nHere are the links to our new track — we’d really appreciate it if you give it a listen!!\n🍈 Melon  https://www.melon.com/album/detail.htm?albumId=13360308\n🍏 Genie  https://www.genie.co.kr/detail/albumInfo?axnm=87565865\n🐞 Bugs  https://music.bugs.co.kr/album/20808406?wl_ref=list_ab_01\n🌊 FLO  https://www.music-flo.com/detail/album/454727503/albumtrack\n💚 VIBE  https://vibe.naver.com/album/37218009\n\n🍎 Apple Music  https://music.apple.com/kr/album/analog-single/1895403247\n🟢 Spotify  https://open.spotify.com/album/5qHF7BRwMMxQBwfqs7kYfq\n🛒 Amazon Music  https://music.amazon.ca/albums/B0GYG9RLT6\n\n🌍 More platforms  \nhttps://lnk.dmsmusic.co/maytree_analog\n\n'아날로그' 음원이 발매되었습니다! 가사가 더 와닿았으면 해서, Lyric video를 먼저 공개합니다. :)\n오피셜 뮤직비디오도 곧 오픈될 예정입니다. \n위의 음원 링크도 많은 관심 부탁드려요!! 감사합니다🙏"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "KlcCHWK44MgrIm08ukEhyjdtl8k",
+      "id": "bv-UMqtAhw4",
+      "snippet": {
+        "publishedAt": "2026-04-29T15:22:00Z",
+        "channelId": "UC3mY2SKYhPjqImtBBXsR6_Q",
+        "title": "[Teaser] Analog (acapella)",
+        "description": "Back to the essence.\n\nA new chapter begins.\nMayTree Season 2\nvery coming soon...❤️\n\nMember's Social Media\nYoung Song https://www.instagram.com/choiyoungsong?igsh=anF0Mmk4ZDJ0emV2&utm_source=qr\nLaYoung https://www.instagram.com/singla_o_?igsh=MWEweTdsYTI5cWI4aA%3D%3D&utm_source=qr\nBassoKim https://www.tiktok.com/@bassokim?_r=1&_t=ZS-95letjFSbUD\nDajeong https://youtube.com/@rada_singg?si=XZjzqXhRUT6A9El1",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bv-UMqtAhw4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bv-UMqtAhw4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bv-UMqtAhw4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bv-UMqtAhw4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bv-UMqtAhw4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MayTree",
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "[Teaser] Analog (acapella)",
+          "description": "Back to the essence.\n\nA new chapter begins.\nMayTree Season 2\nvery coming soon...❤️\n\nMember's Social Media\nYoung Song https://www.instagram.com/choiyoungsong?igsh=anF0Mmk4ZDJ0emV2&utm_source=qr\nLaYoung https://www.instagram.com/singla_o_?igsh=MWEweTdsYTI5cWI4aA%3D%3D&utm_source=qr\nBassoKim https://www.tiktok.com/@bassokim?_r=1&_t=ZS-95letjFSbUD\nDajeong https://youtube.com/@rada_singg?si=XZjzqXhRUT6A9El1"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT16S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "18841",
+        "likeCount": "679",
+        "favoriteCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Electronic_music",
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Music_of_Asia",
+          "https://en.wikipedia.org/wiki/Pop_music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en": {
+          "title": "[Teaser] Analog (acapella)",
+          "description": "Back to the essence.\n\nA new chapter begins.\nMayTree Season 2\nvery coming soon...❤️\n\nMember's Social Media\nYoung Song https://www.instagram.com/choiyoungsong?igsh=anF0Mmk4ZDJ0emV2&utm_source=qr\nLaYoung https://www.instagram.com/singla_o_?igsh=MWEweTdsYTI5cWI4aA%3D%3D&utm_source=qr\nBassoKim https://www.tiktok.com/@bassokim?_r=1&_t=ZS-95letjFSbUD\nDajeong https://youtube.com/@rada_singg?si=XZjzqXhRUT6A9El1"
+        }
+      }
+    }
+  ]
+}

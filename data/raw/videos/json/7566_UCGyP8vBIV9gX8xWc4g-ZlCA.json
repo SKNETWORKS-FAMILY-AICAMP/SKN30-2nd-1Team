@@ -1,0 +1,155 @@
+{
+  "idx": 7566,
+  "channel_id": "UCGyP8vBIV9gX8xWc4g-ZlCA",
+  "channel_title": "다 팔아드립니다ㆍ",
+  "playlist_items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "aHgmDT3zFTAnqcwGR55sZy1dbgU",
+      "id": "VVVHeVA4dkJJVjlnWDh4V2M0Zy1abENBLjZ1V0ZPVVV6eVY0",
+      "snippet": {
+        "publishedAt": "2020-11-08T10:23:00Z",
+        "channelId": "UCGyP8vBIV9gX8xWc4g-ZlCA",
+        "title": "리콩수콩RikongSukong님의 실시간 스트림",
+        "description": "비지니스  문의 : rs@rikongsukong.com  \n\n\nCopyright ⓒ 2018 리콩수콩일기 All Rights Reserved. \n해당 영상의 저작권은 리콩수콩일기에게 있습니다. 이 영상을 공유하는 것은 가능하나 허가 없이 변경/배포는 불가합니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6uWFOUUzyV4/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6uWFOUUzyV4/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6uWFOUUzyV4/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6uWFOUUzyV4/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6uWFOUUzyV4/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "다 팔아드립니다ㆍ",
+        "playlistId": "UUGyP8vBIV9gX8xWc4g-ZlCA",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "6uWFOUUzyV4"
+        },
+        "videoOwnerChannelTitle": "다 팔아드립니다ㆍ",
+        "videoOwnerChannelId": "UCGyP8vBIV9gX8xWc4g-ZlCA"
+      },
+      "contentDetails": {
+        "videoId": "6uWFOUUzyV4",
+        "videoPublishedAt": "2020-11-08T10:23:00Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "video_details": [
+    {
+      "kind": "youtube#video",
+      "etag": "ZbJJYJFeSMXobhI2AOYYRNrnv5w",
+      "id": "6uWFOUUzyV4",
+      "snippet": {
+        "publishedAt": "2020-11-08T10:23:00Z",
+        "channelId": "UCGyP8vBIV9gX8xWc4g-ZlCA",
+        "title": "리콩수콩RikongSukong님의 실시간 스트림",
+        "description": "비지니스  문의 : rs@rikongsukong.com  \n\n\nCopyright ⓒ 2018 리콩수콩일기 All Rights Reserved. \n해당 영상의 저작권은 리콩수콩일기에게 있습니다. 이 영상을 공유하는 것은 가능하나 허가 없이 변경/배포는 불가합니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6uWFOUUzyV4/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6uWFOUUzyV4/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6uWFOUUzyV4/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6uWFOUUzyV4/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6uWFOUUzyV4/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "다 팔아드립니다ㆍ",
+        "tags": [
+          "fun",
+          "funny",
+          "장난감",
+          "어린이",
+          "kids",
+          "toys",
+          "toy",
+          "놀이",
+          "키즈",
+          "유아",
+          "베이비",
+          "PretendPlay",
+          "Nursery Rhymes",
+          "for Kids Songs"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "upcoming",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "리콩수콩RikongSukong님의 실시간 스트림",
+          "description": "비지니스  문의 : rs@rikongsukong.com  \n\n\nCopyright ⓒ 2018 리콩수콩일기 All Rights Reserved. \n해당 영상의 저작권은 리콩수콩일기에게 있습니다. 이 영상을 공유하는 것은 가능하나 허가 없이 변경/배포는 불가합니다."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "P0D",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "uploaded",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": true
+      },
+      "statistics": {
+        "viewCount": "0",
+        "likeCount": "1",
+        "favoriteCount": "0"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "리콩수콩RikongSukong님의 실시간 스트림",
+          "description": "비지니스  문의 : rs@rikongsukong.com  \n\n\nCopyright ⓒ 2018 리콩수콩일기 All Rights Reserved. \n해당 영상의 저작권은 리콩수콩일기에게 있습니다. 이 영상을 공유하는 것은 가능하나 허가 없이 변경/배포는 불가합니다."
+        }
+      }
+    }
+  ]
+}
