@@ -1,0 +1,267 @@
+{
+  "idx": 5310,
+  "channel_id": "UChTJRQ7hJ-VThkjlEyk_8-g",
+  "channel_title": "Cece Ko 씨씨코",
+  "playlist_items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2r36ehO1-iOUjmxR12iYhk4riX0",
+      "id": "VVVoVEpSUTdoSi1WVGhramxFeWtfOC1nLmNnV0gxYjd2ZWtB",
+      "snippet": {
+        "publishedAt": "2023-08-29T09:04:37Z",
+        "channelId": "UChTJRQ7hJ-VThkjlEyk_8-g",
+        "title": "이번엔 모르는 사람 앞에서 슈퍼파닥ㅎ",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cgWH1b7vekA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cgWH1b7vekA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cgWH1b7vekA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cgWH1b7vekA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cgWH1b7vekA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Cece Ko 씨씨코",
+        "playlistId": "UUhTJRQ7hJ-VThkjlEyk_8-g",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "cgWH1b7vekA"
+        },
+        "videoOwnerChannelTitle": "Cece Ko 씨씨코",
+        "videoOwnerChannelId": "UChTJRQ7hJ-VThkjlEyk_8-g"
+      },
+      "contentDetails": {
+        "videoId": "cgWH1b7vekA",
+        "videoPublishedAt": "2023-08-29T09:04:37Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8wwNNt25jfVplRqQWvInsyJqf8I",
+      "id": "VVVoVEpSUTdoSi1WVGhramxFeWtfOC1nLkVlMlNIOUdoZmN3",
+      "snippet": {
+        "publishedAt": "2022-04-18T05:02:05Z",
+        "channelId": "UChTJRQ7hJ-VThkjlEyk_8-g",
+        "title": "Cece Ko 씨씨코님의 실시간 스트림",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ee2SH9Ghfcw/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ee2SH9Ghfcw/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ee2SH9Ghfcw/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ee2SH9Ghfcw/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Cece Ko 씨씨코",
+        "playlistId": "UUhTJRQ7hJ-VThkjlEyk_8-g",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Ee2SH9Ghfcw"
+        },
+        "videoOwnerChannelTitle": "Cece Ko 씨씨코",
+        "videoOwnerChannelId": "UChTJRQ7hJ-VThkjlEyk_8-g"
+      },
+      "contentDetails": {
+        "videoId": "Ee2SH9Ghfcw",
+        "videoPublishedAt": "2022-04-18T05:02:05Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "video_details": [
+    {
+      "kind": "youtube#video",
+      "etag": "b-gRkASzI9o-w76uMTT-Z3qZuq0",
+      "id": "cgWH1b7vekA",
+      "snippet": {
+        "publishedAt": "2023-08-29T09:04:37Z",
+        "channelId": "UChTJRQ7hJ-VThkjlEyk_8-g",
+        "title": "이번엔 모르는 사람 앞에서 슈퍼파닥ㅎ",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cgWH1b7vekA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cgWH1b7vekA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cgWH1b7vekA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cgWH1b7vekA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cgWH1b7vekA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Cece Ko 씨씨코",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "이번엔 모르는 사람 앞에서 슈퍼파닥ㅎ",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT16S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1081660",
+        "likeCount": "44228",
+        "favoriteCount": "0",
+        "commentCount": "585"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Entertainment",
+          "https://en.wikipedia.org/wiki/Performing_arts"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "이번엔 모르는 사람 앞에서 슈퍼파닥ㅎ",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "9PSkvbGek8i2OKJaYV4XkiKjbwc",
+      "id": "Ee2SH9Ghfcw",
+      "snippet": {
+        "publishedAt": "2022-04-18T05:02:05Z",
+        "channelId": "UChTJRQ7hJ-VThkjlEyk_8-g",
+        "title": "Cece Ko 씨씨코님의 실시간 스트림",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ee2SH9Ghfcw/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ee2SH9Ghfcw/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ee2SH9Ghfcw/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ee2SH9Ghfcw/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Cece Ko 씨씨코",
+        "categoryId": "24",
+        "liveBroadcastContent": "upcoming",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "Cece Ko 씨씨코님의 실시간 스트림",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "P0D",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "uploaded",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "0",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "Cece Ko 씨씨코님의 실시간 스트림",
+          "description": ""
+        }
+      }
+    }
+  ]
+}

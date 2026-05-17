@@ -1,0 +1,5383 @@
+{
+  "idx": 4229,
+  "channel_id": "UCd1TDyN0YhmdMTbvhSANthw",
+  "channel_title": "뭐터",
+  "playlist_items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "cmTJgRFqAz72yYyYxFI__MXHNv4",
+      "id": "VVVkMVREeU4wWWhtZE1UYnZoU0FOdGh3LmlpNzdPQmxPU2c4",
+      "snippet": {
+        "publishedAt": "2026-04-19T04:26:42Z",
+        "channelId": "UCd1TDyN0YhmdMTbvhSANthw",
+        "title": "뭐 이런 미친 고등학교가... (3)",
+        "description": "100% AI로 만든 오리지널 한국 영화\n\n연출,감독,시나리오,편집 - Muater (뭐터)\n\n#영화 #영화추천 #ai영화 #학원물 #액션영화 #판타지영화 #병맛 #병맛영상 #웃긴영상 #반전 #반전영상 #스토리 #스토리영상 #시간순삭 #몰입감 #대작 #초능력 #부활동 #고등학교 #학교생활 #싸움 #격투 #배틀 #능력자 #성장스토리 #애니같은영화 #웹툰감성 #유튜브쇼츠 #열혈고교대소동",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ii77OBlOSg8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ii77OBlOSg8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ii77OBlOSg8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ii77OBlOSg8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ii77OBlOSg8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뭐터",
+        "playlistId": "UUd1TDyN0YhmdMTbvhSANthw",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ii77OBlOSg8"
+        },
+        "videoOwnerChannelTitle": "뭐터",
+        "videoOwnerChannelId": "UCd1TDyN0YhmdMTbvhSANthw"
+      },
+      "contentDetails": {
+        "videoId": "ii77OBlOSg8",
+        "videoPublishedAt": "2026-04-19T04:26:42Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8e9oKu_cUwXXBSp0ajqe9mIw3Tg",
+      "id": "VVVkMVREeU4wWWhtZE1UYnZoU0FOdGh3LkFGVm5RVWZpWWhr",
+      "snippet": {
+        "publishedAt": "2026-04-18T05:44:46Z",
+        "channelId": "UCd1TDyN0YhmdMTbvhSANthw",
+        "title": "뭐 이런 미친 고등학교가... (2)",
+        "description": "100% AI로 만든 오리지널 한국 영화\n\n연출,감독,시나리오,편집 - Muater (뭐터)\n\n#영화 #영화추천 #ai영화 #학원물 #액션영화 #판타지영화 #병맛 #병맛영상 #웃긴영상 #반전 #반전영상 #스토리 #스토리영상 #시간순삭 #몰입감 #대작 #초능력 #부활동 #고등학교 #학교생활 #싸움 #격투 #배틀 #능력자 #성장스토리 #애니같은영화 #웹툰감성 #유튜브쇼츠 #열혈고교대소동",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AFVnQUfiYhk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AFVnQUfiYhk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AFVnQUfiYhk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AFVnQUfiYhk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AFVnQUfiYhk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뭐터",
+        "playlistId": "UUd1TDyN0YhmdMTbvhSANthw",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "AFVnQUfiYhk"
+        },
+        "videoOwnerChannelTitle": "뭐터",
+        "videoOwnerChannelId": "UCd1TDyN0YhmdMTbvhSANthw"
+      },
+      "contentDetails": {
+        "videoId": "AFVnQUfiYhk",
+        "videoPublishedAt": "2026-04-18T05:44:46Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "wc_S5HM9rWrnaF-Z8mSipDsceCs",
+      "id": "VVVkMVREeU4wWWhtZE1UYnZoU0FOdGh3LkduTXBkWUlMNDNr",
+      "snippet": {
+        "publishedAt": "2026-04-17T09:31:44Z",
+        "channelId": "UCd1TDyN0YhmdMTbvhSANthw",
+        "title": "뭐 이런 미친 고등학교가... (1)",
+        "description": "100% AI로 만든 오리지널 한국 영화\n\n연출,감독,시나리오,편집 - Muater (뭐터)\n\n#영화 #영화추천 #ai영화 #학원물 #액션영화 #판타지영화 #병맛 #병맛영상 #웃긴영상 #반전 #반전영상 #스토리 #스토리영상 #시간순삭 #몰입감 #대작 #초능력 #부활동 #고등학교 #학교생활 #싸움 #격투 #배틀 #능력자 #성장스토리 #애니같은영화 #웹툰감성 #유튜브쇼츠 #열혈고교대소동",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GnMpdYIL43k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GnMpdYIL43k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GnMpdYIL43k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GnMpdYIL43k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GnMpdYIL43k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뭐터",
+        "playlistId": "UUd1TDyN0YhmdMTbvhSANthw",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "GnMpdYIL43k"
+        },
+        "videoOwnerChannelTitle": "뭐터",
+        "videoOwnerChannelId": "UCd1TDyN0YhmdMTbvhSANthw"
+      },
+      "contentDetails": {
+        "videoId": "GnMpdYIL43k",
+        "videoPublishedAt": "2026-04-17T09:31:44Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "T_tVK5aTfI6EZckvwhvHKtGMiiU",
+      "id": "VVVkMVREeU4wWWhtZE1UYnZoU0FOdGh3LjZmMUFsUms0bjBr",
+      "snippet": {
+        "publishedAt": "2026-04-16T09:01:48Z",
+        "channelId": "UCd1TDyN0YhmdMTbvhSANthw",
+        "title": "고등학교 입학 1일차에 알게 된 충격 실화 [열혈 고교 대소동] [EN][JP]",
+        "description": "100% AI로 만든 오리지널 한국 영화\n\n연출,감독,시나리오,편집 - Muater (뭐터)\n\n#영화 #영화추천 #ai영화 #학원물 #액션영화 #판타지영화 #병맛 #병맛영상 #웃긴영상 #반전 #반전영상 #스토리 #스토리영상 #시간순삭 #몰입감 #대작 #초능력 #부활동 #고등학교 #학교생활 #싸움 #격투 #배틀 #능력자 #성장스토리 #애니같은영화 #웹툰감성 #유튜브쇼츠 #열혈고교대소동",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6f1AlRk4n0k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6f1AlRk4n0k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6f1AlRk4n0k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6f1AlRk4n0k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6f1AlRk4n0k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뭐터",
+        "playlistId": "UUd1TDyN0YhmdMTbvhSANthw",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "6f1AlRk4n0k"
+        },
+        "videoOwnerChannelTitle": "뭐터",
+        "videoOwnerChannelId": "UCd1TDyN0YhmdMTbvhSANthw"
+      },
+      "contentDetails": {
+        "videoId": "6f1AlRk4n0k",
+        "videoPublishedAt": "2026-04-16T09:01:48Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Fo-5gXBMVD03DZV9I7mxzkjzEqg",
+      "id": "VVVkMVREeU4wWWhtZE1UYnZoU0FOdGh3Lk52SnE4SUJLay1R",
+      "snippet": {
+        "publishedAt": "2026-04-13T10:34:39Z",
+        "channelId": "UCd1TDyN0YhmdMTbvhSANthw",
+        "title": "당신은 이 영화를 전혀 예측할 수 없습니다 반전의 반전의 반전 [우리들의 여고생]",
+        "description": "#반전 #반전영화 #반전영상 #드라마 #명작 #명작영화 #여고생\n#우리들의여고생 #영화결말포함 #드라마결말포함 #미친텐션 #미친영화\n#반전의반전 #역대급 #역대급반전",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NvJq8IBKk-Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NvJq8IBKk-Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NvJq8IBKk-Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NvJq8IBKk-Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NvJq8IBKk-Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뭐터",
+        "playlistId": "UUd1TDyN0YhmdMTbvhSANthw",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NvJq8IBKk-Q"
+        },
+        "videoOwnerChannelTitle": "뭐터",
+        "videoOwnerChannelId": "UCd1TDyN0YhmdMTbvhSANthw"
+      },
+      "contentDetails": {
+        "videoId": "NvJq8IBKk-Q",
+        "videoPublishedAt": "2026-04-13T10:34:39Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mi90G0c06rAqA8g_SJBbIAPdpMo",
+      "id": "VVVkMVREeU4wWWhtZE1UYnZoU0FOdGh3LklWU1RlMjVGZnUw",
+      "snippet": {
+        "publishedAt": "2026-04-12T05:14:41Z",
+        "channelId": "UCd1TDyN0YhmdMTbvhSANthw",
+        "title": "전혀 예측할 수 없는 반전에 미친 전개의 한국 영화 (3) #반전 #반전영화 #반전영상 #여고생 #우리들의여고생 #영화결말포함 #드라마결말포함 #반전의반전 #역대급 #역대급반전",
+        "description": "#반전 #반전영화 #반전영상 #드라마 #명작 #명작영화 #여고생 \n#우리들의여고생 #영화결말포함 #드라마결말포함 #미친텐션 #미친영화\n#반전의반전 #역대급 #역대급반전",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IVSTe25Ffu0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IVSTe25Ffu0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IVSTe25Ffu0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IVSTe25Ffu0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IVSTe25Ffu0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뭐터",
+        "playlistId": "UUd1TDyN0YhmdMTbvhSANthw",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "IVSTe25Ffu0"
+        },
+        "videoOwnerChannelTitle": "뭐터",
+        "videoOwnerChannelId": "UCd1TDyN0YhmdMTbvhSANthw"
+      },
+      "contentDetails": {
+        "videoId": "IVSTe25Ffu0",
+        "videoPublishedAt": "2026-04-12T05:14:41Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "cMEc0_CSngy_Gu3hh5NsAndgsp8",
+      "id": "VVVkMVREeU4wWWhtZE1UYnZoU0FOdGh3LnVPME1iVWdOLVNB",
+      "snippet": {
+        "publishedAt": "2026-04-10T10:35:48Z",
+        "channelId": "UCd1TDyN0YhmdMTbvhSANthw",
+        "title": "전혀 예측할 수 없는 반전에 미친 전개의 한국 영화 (2) #반전 #반전영화 #반전영상 #여고생 #우리들의여고생 #영화결말포함 #드라마결말포함 #반전의반전 #역대급 #역대급반전",
+        "description": "#반전 #반전영화 #반전영상 #드라마 #명작 #명작영화 #여고생 \n#우리들의여고생 #영화결말포함 #드라마결말포함 #미친텐션 #미친영화\n#반전의반전 #역대급 #역대급반전",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uO0MbUgN-SA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uO0MbUgN-SA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uO0MbUgN-SA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uO0MbUgN-SA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uO0MbUgN-SA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뭐터",
+        "playlistId": "UUd1TDyN0YhmdMTbvhSANthw",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "uO0MbUgN-SA"
+        },
+        "videoOwnerChannelTitle": "뭐터",
+        "videoOwnerChannelId": "UCd1TDyN0YhmdMTbvhSANthw"
+      },
+      "contentDetails": {
+        "videoId": "uO0MbUgN-SA",
+        "videoPublishedAt": "2026-04-10T10:35:48Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "5ojs5v8pRHmO8M6OpBnik8Wghic",
+      "id": "VVVkMVREeU4wWWhtZE1UYnZoU0FOdGh3LjFBNDZQcU1xdGw0",
+      "snippet": {
+        "publishedAt": "2026-04-09T15:05:38Z",
+        "channelId": "UCd1TDyN0YhmdMTbvhSANthw",
+        "title": "전혀 예측할 수 없는 반전에 미친 전개의 한국 영화 (1) #반전 #반전영화 #반전영상 #여고생 #우리들의여고생 #영화결말포함 #드라마결말포함 #반전의반전 #역대급 #역대급반전",
+        "description": "#반전 #반전영화 #반전영상 #드라마 #명작 #명작영화 #여고생 \n#우리들의여고생 #영화결말포함 #드라마결말포함 #미친텐션 #미친영화\n#반전의반전 #역대급 #역대급반전",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1A46PqMqtl4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1A46PqMqtl4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1A46PqMqtl4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1A46PqMqtl4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1A46PqMqtl4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뭐터",
+        "playlistId": "UUd1TDyN0YhmdMTbvhSANthw",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1A46PqMqtl4"
+        },
+        "videoOwnerChannelTitle": "뭐터",
+        "videoOwnerChannelId": "UCd1TDyN0YhmdMTbvhSANthw"
+      },
+      "contentDetails": {
+        "videoId": "1A46PqMqtl4",
+        "videoPublishedAt": "2026-04-09T15:05:38Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "5J8sfZ51mdMLm15RcCIXwLzdKXQ",
+      "id": "VVVkMVREeU4wWWhtZE1UYnZoU0FOdGh3LlBBOFNkWnJqZ3hr",
+      "snippet": {
+        "publishedAt": "2026-04-01T07:51:35Z",
+        "channelId": "UCd1TDyN0YhmdMTbvhSANthw",
+        "title": "라면 99개 먹방 중 방송 사고... [먹방 요정 김봉지]",
+        "description": "#먹방 #먹방유튜버 #라면100개 #라면99개 #라면먹방 #김봉지 #먹방요정 #초미녀 #귀여운먹방 #아이돌먹방 #방송사고 #먹방논란 #먹방사고 #먹방방송사고 #트젠 #트젠유튜버 #트렌스젠더 #트랜스젠더",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PA8SdZrjgxk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PA8SdZrjgxk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PA8SdZrjgxk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PA8SdZrjgxk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PA8SdZrjgxk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뭐터",
+        "playlistId": "UUd1TDyN0YhmdMTbvhSANthw",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "PA8SdZrjgxk"
+        },
+        "videoOwnerChannelTitle": "뭐터",
+        "videoOwnerChannelId": "UCd1TDyN0YhmdMTbvhSANthw"
+      },
+      "contentDetails": {
+        "videoId": "PA8SdZrjgxk",
+        "videoPublishedAt": "2026-04-01T07:51:35Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "jrVFpqb4OPNrpCMJXOU6j7r3UVc",
+      "id": "VVVkMVREeU4wWWhtZE1UYnZoU0FOdGh3LmtNZTJZbVdXLWF3",
+      "snippet": {
+        "publishedAt": "2026-03-30T11:27:42Z",
+        "channelId": "UCd1TDyN0YhmdMTbvhSANthw",
+        "title": "라면 99개 먹방 중 방송 사고... [먹방 요정 김봉지]",
+        "description": "#먹방 #먹방유튜버 #라면100개 #라면99개 #라면먹방 #김봉지 #먹방요정 #초미녀 #귀여운먹방 #아이돌먹방 #방송사고 #먹방논란 #먹방사고 #먹방방송사고 #트젠 #트젠유튜버 #트렌스젠더 #트랜스젠더",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kMe2YmWW-aw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kMe2YmWW-aw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kMe2YmWW-aw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kMe2YmWW-aw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kMe2YmWW-aw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뭐터",
+        "playlistId": "UUd1TDyN0YhmdMTbvhSANthw",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "kMe2YmWW-aw"
+        },
+        "videoOwnerChannelTitle": "뭐터",
+        "videoOwnerChannelId": "UCd1TDyN0YhmdMTbvhSANthw"
+      },
+      "contentDetails": {
+        "videoId": "kMe2YmWW-aw",
+        "videoPublishedAt": "2026-03-30T11:27:42Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "X6WLvZEeXy2ay3qh8F6-kfLLWCU",
+      "id": "VVVkMVREeU4wWWhtZE1UYnZoU0FOdGh3Ljdpc0lIUkkxWTBj",
+      "snippet": {
+        "publishedAt": "2026-03-26T11:36:48Z",
+        "channelId": "UCd1TDyN0YhmdMTbvhSANthw",
+        "title": "우연히 엄청난 동체 시력을 가지게 된 한 소년의 이야기 [동체 시력3]",
+        "description": "#동체시력 #초능력 #초능력자 #영화 #한국영화 #ai영화 #ai드라마 #학원물 #싸움 #격투기 #격투기기술 #명작 #명작영화 #시간순삭 #대작 #액션영화 #성장스토리 #각성스토리 #초능력액션 #소년히어로 #싸움천재 #능력각성 #인생역전 #영화요약 #영화리뷰 #인간진화 #능력자 #히어로탄생 #액션명장면",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7isIHRI1Y0c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7isIHRI1Y0c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7isIHRI1Y0c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7isIHRI1Y0c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7isIHRI1Y0c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뭐터",
+        "playlistId": "UUd1TDyN0YhmdMTbvhSANthw",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7isIHRI1Y0c"
+        },
+        "videoOwnerChannelTitle": "뭐터",
+        "videoOwnerChannelId": "UCd1TDyN0YhmdMTbvhSANthw"
+      },
+      "contentDetails": {
+        "videoId": "7isIHRI1Y0c",
+        "videoPublishedAt": "2026-03-26T11:36:48Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Byl9tu1EDqFgwIChIf52T9N-wlk",
+      "id": "VVVkMVREeU4wWWhtZE1UYnZoU0FOdGh3Lk5peTFic214ZVRv",
+      "snippet": {
+        "publishedAt": "2026-03-25T13:11:36Z",
+        "channelId": "UCd1TDyN0YhmdMTbvhSANthw",
+        "title": "우연히 엄청난 동체 시력을 가지게 된 한 소년의 이야기 [동체 시력2]",
+        "description": "#동체시력 #초능력 #초능력자 #영화 #한국영화 #ai영화 #ai드라마 #학원물 #싸움 #격투기 #격투기기술 #명작 #명작영화 #시간순삭 #대작 #액션영화 #성장스토리 #각성스토리 #초능력액션 #소년히어로 #싸움천재 #능력각성 #인생역전 #영화요약 #영화리뷰 #인간진화 #능력자 #히어로탄생 #액션명장면",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Niy1bsmxeTo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Niy1bsmxeTo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Niy1bsmxeTo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Niy1bsmxeTo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Niy1bsmxeTo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뭐터",
+        "playlistId": "UUd1TDyN0YhmdMTbvhSANthw",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Niy1bsmxeTo"
+        },
+        "videoOwnerChannelTitle": "뭐터",
+        "videoOwnerChannelId": "UCd1TDyN0YhmdMTbvhSANthw"
+      },
+      "contentDetails": {
+        "videoId": "Niy1bsmxeTo",
+        "videoPublishedAt": "2026-03-25T13:11:36Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4IWqcwMUT5bEnnmR2VF-nU9wT8g",
+      "id": "VVVkMVREeU4wWWhtZE1UYnZoU0FOdGh3LmNhZjhMczlEX3R3",
+      "snippet": {
+        "publishedAt": "2026-03-24T14:05:52Z",
+        "channelId": "UCd1TDyN0YhmdMTbvhSANthw",
+        "title": "우연히 엄청난 동체 시력을 가지게 된 한 소년의 이야기 [동체 시력1]",
+        "description": "#동체시력 #초능력 #초능력자 #영화 #한국영화 #ai영화 #ai드라마 #학원물 #싸움 #격투기 #격투기기술 #명작 #명작영화 #시간순삭 #대작 #액션영화 #성장스토리 #각성스토리 #초능력액션 #소년히어로 #싸움천재 #능력각성 #인생역전 #영화요약 #영화리뷰 #인간진화 #능력자 #히어로탄생 #액션명장면",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/caf8Ls9D_tw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/caf8Ls9D_tw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/caf8Ls9D_tw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/caf8Ls9D_tw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/caf8Ls9D_tw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뭐터",
+        "playlistId": "UUd1TDyN0YhmdMTbvhSANthw",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "caf8Ls9D_tw"
+        },
+        "videoOwnerChannelTitle": "뭐터",
+        "videoOwnerChannelId": "UCd1TDyN0YhmdMTbvhSANthw"
+      },
+      "contentDetails": {
+        "videoId": "caf8Ls9D_tw",
+        "videoPublishedAt": "2026-03-24T14:05:52Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "XRH9cr-OTqPp7EDFZUIYa3s_nSU",
+      "id": "VVVkMVREeU4wWWhtZE1UYnZoU0FOdGh3LjQ5VVFBSW1KelNZ",
+      "snippet": {
+        "publishedAt": "2026-03-18T11:29:03Z",
+        "channelId": "UCd1TDyN0YhmdMTbvhSANthw",
+        "title": "초대형 국산 블록버스터 애니메이션 (5)",
+        "description": "#애니메이션 #초대형 #우주전쟁 #슈퍼시바 #동물영상 #동물영화\n#외계침공 #UFO #초저가 #블록버스터 #ai로영화만들기 #ai영화\n#ai애니메이션",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/49UQAImJzSY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/49UQAImJzSY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/49UQAImJzSY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/49UQAImJzSY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/49UQAImJzSY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뭐터",
+        "playlistId": "UUd1TDyN0YhmdMTbvhSANthw",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "49UQAImJzSY"
+        },
+        "videoOwnerChannelTitle": "뭐터",
+        "videoOwnerChannelId": "UCd1TDyN0YhmdMTbvhSANthw"
+      },
+      "contentDetails": {
+        "videoId": "49UQAImJzSY",
+        "videoPublishedAt": "2026-03-18T11:29:03Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "GZkCQ3PQ8Kv9S0Y8g62ke65cKr4",
+      "id": "VVVkMVREeU4wWWhtZE1UYnZoU0FOdGh3LkRCVWt4cHBzQTlJ",
+      "snippet": {
+        "publishedAt": "2026-03-17T11:37:06Z",
+        "channelId": "UCd1TDyN0YhmdMTbvhSANthw",
+        "title": "초대작 국산 애니메이션 (4)",
+        "description": "#애니메이션 #초대형 #우주전쟁 #슈퍼시바 #동물영상 #동물영화\n#외계침공 #UFO #초저가 #블록버스터 #ai로영화만들기 #ai영화\n#ai애니메이션",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DBUkxppsA9I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DBUkxppsA9I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DBUkxppsA9I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DBUkxppsA9I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DBUkxppsA9I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뭐터",
+        "playlistId": "UUd1TDyN0YhmdMTbvhSANthw",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "DBUkxppsA9I"
+        },
+        "videoOwnerChannelTitle": "뭐터",
+        "videoOwnerChannelId": "UCd1TDyN0YhmdMTbvhSANthw"
+      },
+      "contentDetails": {
+        "videoId": "DBUkxppsA9I",
+        "videoPublishedAt": "2026-03-17T11:37:06Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ximPYgzDPZjt4dn5_WNJdOojJos",
+      "id": "VVVkMVREeU4wWWhtZE1UYnZoU0FOdGh3LmpGTHJkMW5EUjJ3",
+      "snippet": {
+        "publishedAt": "2026-03-16T11:18:43Z",
+        "channelId": "UCd1TDyN0YhmdMTbvhSANthw",
+        "title": "미친 한국 토종 초저가 애니메이션 (3)",
+        "description": "#애니메이션 #초대형 #우주전쟁 #슈퍼시바 #동물영상 #동물영화\n#외계침공 #UFO #초저가 #블록버스터 #ai로영화만들기 #ai영화\n#ai애니메이션",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jFLrd1nDR2w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jFLrd1nDR2w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jFLrd1nDR2w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jFLrd1nDR2w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jFLrd1nDR2w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뭐터",
+        "playlistId": "UUd1TDyN0YhmdMTbvhSANthw",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "jFLrd1nDR2w"
+        },
+        "videoOwnerChannelTitle": "뭐터",
+        "videoOwnerChannelId": "UCd1TDyN0YhmdMTbvhSANthw"
+      },
+      "contentDetails": {
+        "videoId": "jFLrd1nDR2w",
+        "videoPublishedAt": "2026-03-16T11:18:43Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "eEvAyw-_Fa02vUYRfy0XyVa6zxw",
+      "id": "VVVkMVREeU4wWWhtZE1UYnZoU0FOdGh3LmFlMW1UYjdtNThN",
+      "snippet": {
+        "publishedAt": "2026-03-15T04:50:31Z",
+        "channelId": "UCd1TDyN0YhmdMTbvhSANthw",
+        "title": "1인 제작 국산 애니메이션 (2)",
+        "description": "#애니메이션 #초대형 #우주전쟁 #슈퍼시바 #동물영상 #동물영화\n#외계침공 #UFO #초저가 #블록버스터 #ai로영화만들기 #ai영화\n#ai애니메이션",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ae1mTb7m58M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ae1mTb7m58M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ae1mTb7m58M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ae1mTb7m58M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ae1mTb7m58M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뭐터",
+        "playlistId": "UUd1TDyN0YhmdMTbvhSANthw",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ae1mTb7m58M"
+        },
+        "videoOwnerChannelTitle": "뭐터",
+        "videoOwnerChannelId": "UCd1TDyN0YhmdMTbvhSANthw"
+      },
+      "contentDetails": {
+        "videoId": "ae1mTb7m58M",
+        "videoPublishedAt": "2026-03-15T04:50:31Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "15UuNbYPnEI2ipPU86MRYbLYRro",
+      "id": "VVVkMVREeU4wWWhtZE1UYnZoU0FOdGh3LlAwX1FlVllkOUl3",
+      "snippet": {
+        "publishedAt": "2026-03-14T11:35:54Z",
+        "channelId": "UCd1TDyN0YhmdMTbvhSANthw",
+        "title": "초대형 블록버스터 애니메이션 (1)",
+        "description": "#애니메이션 #초대형 #우주전쟁 #슈퍼시바 #동물영상 #동물영화\n#외계침공 #UFO #초저가 #블록버스터 #ai로영화만들기 #ai영화\n#ai애니메이션",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/P0_QeVYd9Iw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/P0_QeVYd9Iw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/P0_QeVYd9Iw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/P0_QeVYd9Iw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/P0_QeVYd9Iw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뭐터",
+        "playlistId": "UUd1TDyN0YhmdMTbvhSANthw",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "P0_QeVYd9Iw"
+        },
+        "videoOwnerChannelTitle": "뭐터",
+        "videoOwnerChannelId": "UCd1TDyN0YhmdMTbvhSANthw"
+      },
+      "contentDetails": {
+        "videoId": "P0_QeVYd9Iw",
+        "videoPublishedAt": "2026-03-14T11:35:54Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "T5ZDSuwf3HKV_c3xilmamRd0APg",
+      "id": "VVVkMVREeU4wWWhtZE1UYnZoU0FOdGh3LmJCRldHUWFvMmd3",
+      "snippet": {
+        "publishedAt": "2026-03-13T11:37:14Z",
+        "channelId": "UCd1TDyN0YhmdMTbvhSANthw",
+        "title": "초능력을 가진 시바견은 과연 지구를 구할 존재인가? [슈퍼 시바]",
+        "description": "#애니메이션 #우주전쟁 #슈퍼시바 #동물영상 #동물영화\n#외계침공 #UFO #블록버스터 #ai로영화만들기 #ai영화\n#ai애니메이션 #초대형애니메이션 #어린이만화 #만화 #어린이영화\n#가족영화 #가족영상",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bBFWGQao2gw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bBFWGQao2gw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bBFWGQao2gw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bBFWGQao2gw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bBFWGQao2gw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뭐터",
+        "playlistId": "UUd1TDyN0YhmdMTbvhSANthw",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "bBFWGQao2gw"
+        },
+        "videoOwnerChannelTitle": "뭐터",
+        "videoOwnerChannelId": "UCd1TDyN0YhmdMTbvhSANthw"
+      },
+      "contentDetails": {
+        "videoId": "bBFWGQao2gw",
+        "videoPublishedAt": "2026-03-13T11:37:14Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "NFyT3Gav2hqzDfJRtPE532r-AME",
+      "id": "VVVkMVREeU4wWWhtZE1UYnZoU0FOdGh3Li1Ga1RQTDN4Z2M0",
+      "snippet": {
+        "publishedAt": "2026-03-12T11:33:26Z",
+        "channelId": "UCd1TDyN0YhmdMTbvhSANthw",
+        "title": "당신이 아직까지 본 적 없는 한국 영화 (7)",
+        "description": "#멸망고양이 #저예산영화 #초저예산 #한국영화 #블록버스터 #뇌절 #뇌절영화 #재난영화 #고양이 #동물영상 #동물영화 #괴수 #괴수영화",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-FkTPL3xgc4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-FkTPL3xgc4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-FkTPL3xgc4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-FkTPL3xgc4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-FkTPL3xgc4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뭐터",
+        "playlistId": "UUd1TDyN0YhmdMTbvhSANthw",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-FkTPL3xgc4"
+        },
+        "videoOwnerChannelTitle": "뭐터",
+        "videoOwnerChannelId": "UCd1TDyN0YhmdMTbvhSANthw"
+      },
+      "contentDetails": {
+        "videoId": "-FkTPL3xgc4",
+        "videoPublishedAt": "2026-03-12T11:33:26Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "WZbq7AKkOvVWXxYFIWcEBpv4XeQ",
+      "id": "VVVkMVREeU4wWWhtZE1UYnZoU0FOdGh3LmRtY2MzRFJzLTUw",
+      "snippet": {
+        "publishedAt": "2026-03-11T11:39:13Z",
+        "channelId": "UCd1TDyN0YhmdMTbvhSANthw",
+        "title": "고양이가 세상을 멸망 시킨다 (6)",
+        "description": "#멸망고양이 #저예산영화 #초저예산 #한국영화 #블록버스터 #뇌절 #뇌절영화 #재난영화 #고양이 #동물영상 #동물영화 #괴수 #괴수영화",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dmcc3DRs-50/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dmcc3DRs-50/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dmcc3DRs-50/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dmcc3DRs-50/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dmcc3DRs-50/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뭐터",
+        "playlistId": "UUd1TDyN0YhmdMTbvhSANthw",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dmcc3DRs-50"
+        },
+        "videoOwnerChannelTitle": "뭐터",
+        "videoOwnerChannelId": "UCd1TDyN0YhmdMTbvhSANthw"
+      },
+      "contentDetails": {
+        "videoId": "dmcc3DRs-50",
+        "videoPublishedAt": "2026-03-11T11:39:13Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "0WYNABtTYbbs6oOiyXnQ-Dhbx5U",
+      "id": "VVVkMVREeU4wWWhtZE1UYnZoU0FOdGh3LjVMNUkzZ3MtS2tB",
+      "snippet": {
+        "publishedAt": "2026-03-11T02:38:04Z",
+        "channelId": "UCd1TDyN0YhmdMTbvhSANthw",
+        "title": "좆망 뇌절 한국 영화 (5)",
+        "description": "#멸망고양이 #저예산영화 #초저예산 #한국영화 #블록버스터 #뇌절 #뇌절영화 #재난영화 #고양이 #동물영상 #동물영화 #괴수 #괴수영화",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5L5I3gs-KkA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5L5I3gs-KkA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5L5I3gs-KkA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5L5I3gs-KkA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5L5I3gs-KkA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뭐터",
+        "playlistId": "UUd1TDyN0YhmdMTbvhSANthw",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "5L5I3gs-KkA"
+        },
+        "videoOwnerChannelTitle": "뭐터",
+        "videoOwnerChannelId": "UCd1TDyN0YhmdMTbvhSANthw"
+      },
+      "contentDetails": {
+        "videoId": "5L5I3gs-KkA",
+        "videoPublishedAt": "2026-03-11T02:38:04Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zeSudV_XaDMgP_uTMpWoa8h0jyU",
+      "id": "VVVkMVREeU4wWWhtZE1UYnZoU0FOdGh3Lk1vOHBRSV93N1dr",
+      "snippet": {
+        "publishedAt": "2026-03-10T11:01:06Z",
+        "channelId": "UCd1TDyN0YhmdMTbvhSANthw",
+        "title": "초저예산 영화의 현실 (4)",
+        "description": "#멸망고양이 #저예산영화 #초저예산 #한국영화 #블록버스터 #뇌절 #뇌절영화 #재난영화 #고양이 #동물영상 #동물영화 #괴수 #괴수영화",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Mo8pQI_w7Wk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Mo8pQI_w7Wk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Mo8pQI_w7Wk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Mo8pQI_w7Wk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Mo8pQI_w7Wk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뭐터",
+        "playlistId": "UUd1TDyN0YhmdMTbvhSANthw",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Mo8pQI_w7Wk"
+        },
+        "videoOwnerChannelTitle": "뭐터",
+        "videoOwnerChannelId": "UCd1TDyN0YhmdMTbvhSANthw"
+      },
+      "contentDetails": {
+        "videoId": "Mo8pQI_w7Wk",
+        "videoPublishedAt": "2026-03-10T11:01:06Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "stB56CxI77Q_kJvoo9ROtop4XG0",
+      "id": "VVVkMVREeU4wWWhtZE1UYnZoU0FOdGh3LjcyT000X2tlbVdN",
+      "snippet": {
+        "publishedAt": "2026-03-09T11:18:16Z",
+        "channelId": "UCd1TDyN0YhmdMTbvhSANthw",
+        "title": "개좆망한 한국 영화 (3)",
+        "description": "#멸망고양이 #저예산영화 #초저예산 #한국영화 #블록버스터 #뇌절 #뇌절영화 #재난영화 #고양이 #동물영상 #동물영화 #괴수 #괴수영화",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/72OM4_kemWM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/72OM4_kemWM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/72OM4_kemWM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/72OM4_kemWM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/72OM4_kemWM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뭐터",
+        "playlistId": "UUd1TDyN0YhmdMTbvhSANthw",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "72OM4_kemWM"
+        },
+        "videoOwnerChannelTitle": "뭐터",
+        "videoOwnerChannelId": "UCd1TDyN0YhmdMTbvhSANthw"
+      },
+      "contentDetails": {
+        "videoId": "72OM4_kemWM",
+        "videoPublishedAt": "2026-03-09T11:18:16Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "pqPpym74c9oomAsStjWi47QPtJA",
+      "id": "VVVkMVREeU4wWWhtZE1UYnZoU0FOdGh3LjFBd0h3bjhic3NB",
+      "snippet": {
+        "publishedAt": "2026-03-08T22:50:00Z",
+        "channelId": "UCd1TDyN0YhmdMTbvhSANthw",
+        "title": "뇌절의 뇌절의 뇌절 영화 (2)",
+        "description": "#멸망고양이 #저예산영화 #초저예산 #한국영화 #블록버스터 #뇌절 #뇌절영화 #재난영화 #고양이 #동물영상 #동물영화 #괴수 #괴수영화",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1AwHwn8bssA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1AwHwn8bssA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1AwHwn8bssA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1AwHwn8bssA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1AwHwn8bssA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뭐터",
+        "playlistId": "UUd1TDyN0YhmdMTbvhSANthw",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1AwHwn8bssA"
+        },
+        "videoOwnerChannelTitle": "뭐터",
+        "videoOwnerChannelId": "UCd1TDyN0YhmdMTbvhSANthw"
+      },
+      "contentDetails": {
+        "videoId": "1AwHwn8bssA",
+        "videoPublishedAt": "2026-03-08T22:50:00Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mj4-7hRo0z2zS6-Evt1ohkM-xLw",
+      "id": "VVVkMVREeU4wWWhtZE1UYnZoU0FOdGh3LmxxU0xXcFl5YzJz",
+      "snippet": {
+        "publishedAt": "2026-03-08T17:01:36Z",
+        "channelId": "UCd1TDyN0YhmdMTbvhSANthw",
+        "title": "50달러로 영화 찍었는데 감독이 미친놈이라 개좆망함 (1)",
+        "description": "#멸망고양이 #저예산영화 #초저예산 #한국영화 #블록버스터 #뇌절 #뇌절영화 #재난영화 #고양이 #동물영상 #동물영화 #괴수 #괴수영화",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lqSLWpYyc2s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lqSLWpYyc2s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lqSLWpYyc2s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lqSLWpYyc2s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lqSLWpYyc2s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뭐터",
+        "playlistId": "UUd1TDyN0YhmdMTbvhSANthw",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "lqSLWpYyc2s"
+        },
+        "videoOwnerChannelTitle": "뭐터",
+        "videoOwnerChannelId": "UCd1TDyN0YhmdMTbvhSANthw"
+      },
+      "contentDetails": {
+        "videoId": "lqSLWpYyc2s",
+        "videoPublishedAt": "2026-03-08T17:01:36Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "5OK74Ki47b_ysk44I4t7w8sFqps",
+      "id": "VVVkMVREeU4wWWhtZE1UYnZoU0FOdGh3LjJSbDBxQVpvWkhZ",
+      "snippet": {
+        "publishedAt": "2026-03-08T10:06:07Z",
+        "channelId": "UCd1TDyN0YhmdMTbvhSANthw",
+        "title": "고양이로 인해 지구가 멸망한다? [멸망 고양이]",
+        "description": "#멸망고양이 #저예산영화 #초저예산 #한국영화 #블록버스터 #뇌절 #뇌절영화 #재난영화 #고양이 #동물영상 #동물영화 #괴수 #괴수영화 #고양이영화 #지구멸망 #멸망 #쓰나미",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2Rl0qAZoZHY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2Rl0qAZoZHY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2Rl0qAZoZHY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2Rl0qAZoZHY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2Rl0qAZoZHY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뭐터",
+        "playlistId": "UUd1TDyN0YhmdMTbvhSANthw",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2Rl0qAZoZHY"
+        },
+        "videoOwnerChannelTitle": "뭐터",
+        "videoOwnerChannelId": "UCd1TDyN0YhmdMTbvhSANthw"
+      },
+      "contentDetails": {
+        "videoId": "2Rl0qAZoZHY",
+        "videoPublishedAt": "2026-03-08T10:06:07Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "video_details": [
+    {
+      "kind": "youtube#video",
+      "etag": "pd8Om4C8RSDETxvEniZWGBQu5QY",
+      "id": "ii77OBlOSg8",
+      "snippet": {
+        "publishedAt": "2026-04-19T04:26:42Z",
+        "channelId": "UCd1TDyN0YhmdMTbvhSANthw",
+        "title": "뭐 이런 미친 고등학교가... (3)",
+        "description": "100% AI로 만든 오리지널 한국 영화\n\n연출,감독,시나리오,편집 - Muater (뭐터)\n\n#영화 #영화추천 #ai영화 #학원물 #액션영화 #판타지영화 #병맛 #병맛영상 #웃긴영상 #반전 #반전영상 #스토리 #스토리영상 #시간순삭 #몰입감 #대작 #초능력 #부활동 #고등학교 #학교생활 #싸움 #격투 #배틀 #능력자 #성장스토리 #애니같은영화 #웹툰감성 #유튜브쇼츠 #열혈고교대소동",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ii77OBlOSg8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ii77OBlOSg8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ii77OBlOSg8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ii77OBlOSg8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ii77OBlOSg8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뭐터",
+        "tags": [
+          "영화",
+          "영화추천",
+          "ai영화",
+          "학원물",
+          "학교영화",
+          "고등학교",
+          "부활동 배틀",
+          "학교 싸움",
+          "능력자 학교",
+          "초능력 영화",
+          "병맛 영화",
+          "웃긴 영화",
+          "반전 영화",
+          "액션 영화",
+          "몰입감 있는 영상",
+          "시간순삭 영상",
+          "웹툰 느낌 영화",
+          "애니 느낌 영상",
+          "싸움 영상",
+          "배틀 영상",
+          "crazy school",
+          "battle school",
+          "anime style movie",
+          "superpower school",
+          "insane story",
+          "학교싸움",
+          "능력자학교",
+          "초능력영화",
+          "병맛영화",
+          "웃긴영화",
+          "반전영화",
+          "액션영화",
+          "판타지영화",
+          "몰입감",
+          "시간순삭",
+          "웹툰감성",
+          "애니감성",
+          "싸움영상",
+          "배틀영상",
+          "weird school",
+          "high school fight",
+          "anime vibes",
+          "wtf",
+          "plot twist",
+          "viral video",
+          "영화 추천",
+          "ai 영화",
+          "학원 물",
+          "학교 영화",
+          "고등 학교",
+          "부 활동",
+          "부 활동 배틀",
+          "능력 자 학교",
+          "초 능력 영화",
+          "몰입 감",
+          "시간 순삭",
+          "웹툰 감성",
+          "애니 감성"
+        ],
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "뭐 이런 미친 고등학교가... (3)",
+          "description": "100% AI로 만든 오리지널 한국 영화\n\n연출,감독,시나리오,편집 - Muater (뭐터)\n\n#영화 #영화추천 #ai영화 #학원물 #액션영화 #판타지영화 #병맛 #병맛영상 #웃긴영상 #반전 #반전영상 #스토리 #스토리영상 #시간순삭 #몰입감 #대작 #초능력 #부활동 #고등학교 #학교생활 #싸움 #격투 #배틀 #능력자 #성장스토리 #애니같은영화 #웹툰감성 #유튜브쇼츠 #열혈고교대소동"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT2M39S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "creativeCommon",
+        "embeddable": true,
+        "publicStatsViewable": false,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "7077",
+        "likeCount": "10",
+        "favoriteCount": "0",
+        "commentCount": "5"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Entertainment"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "뭐 이런 미친 고등학교가... (3)",
+          "description": "100% AI로 만든 오리지널 한국 영화\n\n연출,감독,시나리오,편집 - Muater (뭐터)\n\n#영화 #영화추천 #ai영화 #학원물 #액션영화 #판타지영화 #병맛 #병맛영상 #웃긴영상 #반전 #반전영상 #스토리 #스토리영상 #시간순삭 #몰입감 #대작 #초능력 #부활동 #고등학교 #학교생활 #싸움 #격투 #배틀 #능력자 #성장스토리 #애니같은영화 #웹툰감성 #유튜브쇼츠 #열혈고교대소동"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "viMxoEjkUIeMgKcfl_ADOlk-McY",
+      "id": "AFVnQUfiYhk",
+      "snippet": {
+        "publishedAt": "2026-04-18T05:44:46Z",
+        "channelId": "UCd1TDyN0YhmdMTbvhSANthw",
+        "title": "뭐 이런 미친 고등학교가... (2)",
+        "description": "100% AI로 만든 오리지널 한국 영화\n\n연출,감독,시나리오,편집 - Muater (뭐터)\n\n#영화 #영화추천 #ai영화 #학원물 #액션영화 #판타지영화 #병맛 #병맛영상 #웃긴영상 #반전 #반전영상 #스토리 #스토리영상 #시간순삭 #몰입감 #대작 #초능력 #부활동 #고등학교 #학교생활 #싸움 #격투 #배틀 #능력자 #성장스토리 #애니같은영화 #웹툰감성 #유튜브쇼츠 #열혈고교대소동",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AFVnQUfiYhk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AFVnQUfiYhk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AFVnQUfiYhk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AFVnQUfiYhk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AFVnQUfiYhk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뭐터",
+        "tags": [
+          "영화",
+          "영화추천",
+          "ai영화",
+          "학원물",
+          "학교영화",
+          "고등학교",
+          "부활동 배틀",
+          "학교 싸움",
+          "능력자 학교",
+          "초능력 영화",
+          "병맛 영화",
+          "웃긴 영화",
+          "반전 영화",
+          "액션 영화",
+          "몰입감 있는 영상",
+          "시간순삭 영상",
+          "웹툰 느낌 영화",
+          "애니 느낌 영상",
+          "싸움 영상",
+          "배틀 영상",
+          "crazy school",
+          "battle school",
+          "anime style movie",
+          "superpower school",
+          "insane story",
+          "학교싸움",
+          "능력자학교",
+          "초능력영화",
+          "병맛영화",
+          "웃긴영화",
+          "반전영화",
+          "액션영화",
+          "판타지영화",
+          "몰입감",
+          "시간순삭",
+          "웹툰감성",
+          "애니감성",
+          "싸움영상",
+          "배틀영상",
+          "weird school",
+          "high school fight",
+          "anime vibes",
+          "wtf",
+          "plot twist",
+          "viral video",
+          "영화 추천",
+          "ai 영화",
+          "학원 물",
+          "학교 영화",
+          "고등 학교",
+          "부 활동",
+          "부 활동 배틀",
+          "능력 자 학교",
+          "초 능력 영화",
+          "몰입 감",
+          "시간 순삭",
+          "웹툰 감성",
+          "애니 감성"
+        ],
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "뭐 이런 미친 고등학교가... (2)",
+          "description": "100% AI로 만든 오리지널 한국 영화\n\n연출,감독,시나리오,편집 - Muater (뭐터)\n\n#영화 #영화추천 #ai영화 #학원물 #액션영화 #판타지영화 #병맛 #병맛영상 #웃긴영상 #반전 #반전영상 #스토리 #스토리영상 #시간순삭 #몰입감 #대작 #초능력 #부활동 #고등학교 #학교생활 #싸움 #격투 #배틀 #능력자 #성장스토리 #애니같은영화 #웹툰감성 #유튜브쇼츠 #열혈고교대소동"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "creativeCommon",
+        "embeddable": true,
+        "publicStatsViewable": false,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "7625",
+        "likeCount": "14",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Sport"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "뭐 이런 미친 고등학교가... (2)",
+          "description": "100% AI로 만든 오리지널 한국 영화\n\n연출,감독,시나리오,편집 - Muater (뭐터)\n\n#영화 #영화추천 #ai영화 #학원물 #액션영화 #판타지영화 #병맛 #병맛영상 #웃긴영상 #반전 #반전영상 #스토리 #스토리영상 #시간순삭 #몰입감 #대작 #초능력 #부활동 #고등학교 #학교생활 #싸움 #격투 #배틀 #능력자 #성장스토리 #애니같은영화 #웹툰감성 #유튜브쇼츠 #열혈고교대소동"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "NpQkruUmhwIrtyBL9xWxTC8alNY",
+      "id": "GnMpdYIL43k",
+      "snippet": {
+        "publishedAt": "2026-04-17T09:31:44Z",
+        "channelId": "UCd1TDyN0YhmdMTbvhSANthw",
+        "title": "뭐 이런 미친 고등학교가... (1)",
+        "description": "100% AI로 만든 오리지널 한국 영화\n\n연출,감독,시나리오,편집 - Muater (뭐터)\n\n#영화 #영화추천 #ai영화 #학원물 #액션영화 #판타지영화 #병맛 #병맛영상 #웃긴영상 #반전 #반전영상 #스토리 #스토리영상 #시간순삭 #몰입감 #대작 #초능력 #부활동 #고등학교 #학교생활 #싸움 #격투 #배틀 #능력자 #성장스토리 #애니같은영화 #웹툰감성 #유튜브쇼츠 #열혈고교대소동",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GnMpdYIL43k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GnMpdYIL43k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GnMpdYIL43k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GnMpdYIL43k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GnMpdYIL43k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뭐터",
+        "tags": [
+          "영화",
+          "영화추천",
+          "ai영화",
+          "학원물",
+          "학교영화",
+          "고등학교",
+          "부활동 배틀",
+          "학교 싸움",
+          "능력자 학교",
+          "초능력 영화",
+          "병맛 영화",
+          "웃긴 영화",
+          "반전 영화",
+          "액션 영화",
+          "몰입감 있는 영상",
+          "시간순삭 영상",
+          "웹툰 느낌 영화",
+          "애니 느낌 영상",
+          "싸움 영상",
+          "배틀 영상",
+          "crazy school",
+          "battle school",
+          "anime style movie",
+          "superpower school",
+          "insane story",
+          "학교싸움",
+          "능력자학교",
+          "초능력영화",
+          "병맛영화",
+          "웃긴영화",
+          "반전영화",
+          "액션영화",
+          "판타지영화",
+          "몰입감",
+          "시간순삭",
+          "웹툰감성",
+          "애니감성",
+          "싸움영상",
+          "배틀영상",
+          "weird school",
+          "high school fight",
+          "anime vibes",
+          "wtf",
+          "plot twist",
+          "viral video",
+          "영화 추천",
+          "ai 영화",
+          "학원 물",
+          "학교 영화",
+          "고등 학교",
+          "부 활동",
+          "부 활동 배틀",
+          "능력 자 학교",
+          "초 능력 영화",
+          "몰입 감",
+          "시간 순삭",
+          "웹툰 감성",
+          "애니 감성"
+        ],
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "뭐 이런 미친 고등학교가... (1)",
+          "description": "100% AI로 만든 오리지널 한국 영화\n\n연출,감독,시나리오,편집 - Muater (뭐터)\n\n#영화 #영화추천 #ai영화 #학원물 #액션영화 #판타지영화 #병맛 #병맛영상 #웃긴영상 #반전 #반전영상 #스토리 #스토리영상 #시간순삭 #몰입감 #대작 #초능력 #부활동 #고등학교 #학교생활 #싸움 #격투 #배틀 #능력자 #성장스토리 #애니같은영화 #웹툰감성 #유튜브쇼츠 #열혈고교대소동"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "creativeCommon",
+        "embeddable": true,
+        "publicStatsViewable": false,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1708",
+        "likeCount": "19",
+        "favoriteCount": "0",
+        "commentCount": "2"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Entertainment"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "뭐 이런 미친 고등학교가... (1)",
+          "description": "100% AI로 만든 오리지널 한국 영화\n\n연출,감독,시나리오,편집 - Muater (뭐터)\n\n#영화 #영화추천 #ai영화 #학원물 #액션영화 #판타지영화 #병맛 #병맛영상 #웃긴영상 #반전 #반전영상 #스토리 #스토리영상 #시간순삭 #몰입감 #대작 #초능력 #부활동 #고등학교 #학교생활 #싸움 #격투 #배틀 #능력자 #성장스토리 #애니같은영화 #웹툰감성 #유튜브쇼츠 #열혈고교대소동"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "aKVHKIpPz9v5Ku2b3lu7K70oLow",
+      "id": "6f1AlRk4n0k",
+      "snippet": {
+        "publishedAt": "2026-04-16T09:01:48Z",
+        "channelId": "UCd1TDyN0YhmdMTbvhSANthw",
+        "title": "고등학교 입학 1일차에 알게 된 충격 실화 [열혈 고교 대소동] [EN][JP]",
+        "description": "100% AI로 만든 오리지널 한국 영화\n\n연출,감독,시나리오,편집 - Muater (뭐터)\n\n#영화 #영화추천 #ai영화 #학원물 #액션영화 #판타지영화 #병맛 #병맛영상 #웃긴영상 #반전 #반전영상 #스토리 #스토리영상 #시간순삭 #몰입감 #대작 #초능력 #부활동 #고등학교 #학교생활 #싸움 #격투 #배틀 #능력자 #성장스토리 #애니같은영화 #웹툰감성 #유튜브쇼츠 #열혈고교대소동",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6f1AlRk4n0k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6f1AlRk4n0k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6f1AlRk4n0k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6f1AlRk4n0k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6f1AlRk4n0k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뭐터",
+        "tags": [
+          "영화",
+          "영화추천",
+          "ai영화",
+          "학원물",
+          "학교영화",
+          "고등학교",
+          "부활동 배틀",
+          "학교 싸움",
+          "능력자 학교",
+          "초능력 영화",
+          "병맛 영화",
+          "웃긴 영화",
+          "반전 영화",
+          "액션 영화",
+          "몰입감 있는 영상",
+          "시간순삭 영상",
+          "웹툰 느낌 영화",
+          "애니 느낌 영상",
+          "싸움 영상",
+          "배틀 영상",
+          "crazy school",
+          "battle school",
+          "anime style movie",
+          "superpower school",
+          "insane story",
+          "학교싸움",
+          "능력자학교",
+          "초능력영화",
+          "병맛영화",
+          "웃긴영화",
+          "반전영화",
+          "액션영화",
+          "판타지영화",
+          "몰입감",
+          "시간순삭",
+          "웹툰감성",
+          "애니감성",
+          "싸움영상",
+          "배틀영상",
+          "weird school",
+          "high school fight",
+          "anime vibes",
+          "wtf",
+          "plot twist",
+          "viral video",
+          "영화 추천",
+          "ai 영화",
+          "학원 물",
+          "학교 영화",
+          "고등 학교",
+          "부 활동",
+          "부 활동 배틀",
+          "능력 자 학교",
+          "초 능력 영화",
+          "몰입 감",
+          "시간 순삭",
+          "웹툰 감성",
+          "애니 감성"
+        ],
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "고등학교 입학 1일차에 알게 된 충격 실화 [열혈 고교 대소동] [EN][JP]",
+          "description": "100% AI로 만든 오리지널 한국 영화\n\n연출,감독,시나리오,편집 - Muater (뭐터)\n\n#영화 #영화추천 #ai영화 #학원물 #액션영화 #판타지영화 #병맛 #병맛영상 #웃긴영상 #반전 #반전영상 #스토리 #스토리영상 #시간순삭 #몰입감 #대작 #초능력 #부활동 #고등학교 #학교생활 #싸움 #격투 #배틀 #능력자 #성장스토리 #애니같은영화 #웹툰감성 #유튜브쇼츠 #열혈고교대소동"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT11M28S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "creativeCommon",
+        "embeddable": true,
+        "publicStatsViewable": false,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1632",
+        "likeCount": "8",
+        "favoriteCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Entertainment"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en": {
+          "title": "On My First Day of High School… I Discovered a Shocking Truth [High School Chaos]",
+          "description": "#highschool #schoollife #animestyle #action #fantasy #superpower #battle #fight #story #shocking #plotwist #crazy #insane #weirdschool #movieclip #shortfilm #aifilm #viral"
+        },
+        "ja": {
+          "title": "高校入学初日、衝撃の真実を知った… 【熱血高校大騒動】",
+          "description": "#高校 #高校生活 #学園 #アニメ風 #バトル #能力者 #超能力 #衝撃 #どんでん返し #ストーリー #映画風 #ショート動画 #バズり #おすすめ"
+        },
+        "ko": {
+          "title": "고등학교 입학 1일차에 알게 된 충격 실화 [열혈 고교 대소동] [EN][JP]",
+          "description": "100% AI로 만든 오리지널 한국 영화\n\n연출,감독,시나리오,편집 - Muater (뭐터)\n\n#영화 #영화추천 #ai영화 #학원물 #액션영화 #판타지영화 #병맛 #병맛영상 #웃긴영상 #반전 #반전영상 #스토리 #스토리영상 #시간순삭 #몰입감 #대작 #초능력 #부활동 #고등학교 #학교생활 #싸움 #격투 #배틀 #능력자 #성장스토리 #애니같은영화 #웹툰감성 #유튜브쇼츠 #열혈고교대소동"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "N8CYXk4AgFzqxGQXK8cXjf13YjA",
+      "id": "NvJq8IBKk-Q",
+      "snippet": {
+        "publishedAt": "2026-04-13T10:34:39Z",
+        "channelId": "UCd1TDyN0YhmdMTbvhSANthw",
+        "title": "당신은 이 영화를 전혀 예측할 수 없습니다 반전의 반전의 반전 [우리들의 여고생]",
+        "description": "#반전 #반전영화 #반전영상 #드라마 #명작 #명작영화 #여고생\n#우리들의여고생 #영화결말포함 #드라마결말포함 #미친텐션 #미친영화\n#반전의반전 #역대급 #역대급반전",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NvJq8IBKk-Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NvJq8IBKk-Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NvJq8IBKk-Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NvJq8IBKk-Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NvJq8IBKk-Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뭐터",
+        "tags": [
+          "반전",
+          "반전영화",
+          "반전영상",
+          "드라마",
+          "영화",
+          "영화추천",
+          "명작",
+          "명작영화",
+          "스릴러",
+          "몰입감",
+          "충격결말",
+          "반전결말",
+          "결말해석",
+          "영화결말",
+          "드라마결말",
+          "영화리뷰",
+          "리뷰",
+          "영화요약",
+          "줄거리",
+          "결말포함",
+          "해석영상",
+          "한국영화",
+          "학원물",
+          "여고생",
+          "갈등",
+          "비밀",
+          "충격",
+          "소름",
+          "미친전개",
+          "역대급",
+          "레전드",
+          "반전 영화",
+          "반전 영상",
+          "영화 추천",
+          "명작 영화",
+          "충격 결말",
+          "반전 결말",
+          "결말 해석",
+          "영화 결말",
+          "드라마 결말",
+          "스토리 텔링",
+          "영화 리뷰",
+          "영화 요약",
+          "결말 포함",
+          "해석 영상",
+          "한국 영화",
+          "인간 관계",
+          "미친 전개",
+          "역대급 반전",
+          "미친 반전",
+          "충격 반전",
+          "소름 결말",
+          "결말 소름",
+          "미친 결말",
+          "레전드 영화",
+          "인생 영화",
+          "꼭 봐야 할 영화",
+          "시간 순삭",
+          "숨 막히는 전개",
+          "마지막 반전",
+          "반전의 반전",
+          "소름 돋는 영화",
+          "미친 스토리",
+          "미친 연출",
+          "뇌 정지 영화",
+          "소름주의",
+          "반전 주의",
+          "충격 주의",
+          "끝까지 봐야 하는 영화",
+          "절대 예상 못 하는 영화",
+          "예측 불가",
+          "미친 영화",
+          "역대급 영화"
+        ],
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "당신은 이 영화를 전혀 예측할 수 없습니다 반전의 반전의 반전 [우리들의 여고생]",
+          "description": "#반전 #반전영화 #반전영상 #드라마 #명작 #명작영화 #여고생\n#우리들의여고생 #영화결말포함 #드라마결말포함 #미친텐션 #미친영화\n#반전의반전 #역대급 #역대급반전"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT13M49S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "creativeCommon",
+        "embeddable": true,
+        "publicStatsViewable": false,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "733",
+        "likeCount": "10",
+        "favoriteCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Entertainment",
+          "https://en.wikipedia.org/wiki/Film"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en": {
+          "title": "You Won't Predict This Movie At All: Twist After Twist After Twist [Our High School Girls]",
+          "description": "#YouWontPredictThis #TripleTwist #TwistAfterTwist #MindBlowingEnding #OurHighSchoolGirls #OurGirlsHighSchool #CrazyTwistMovie #ReverseTwist #PlotTwist #MovieWithEnding #DramaTwist #InsaneMovie #MindBlown #MasterpieceTwist #KoreanMovie #HighSchoolDrama #SpoilerIncluded #EpicTwist #ReverseAfterReverse"
+        },
+        "ko": {
+          "title": "당신은 이 영화를 전혀 예측할 수 없습니다 반전의 반전의 반전 [우리들의 여고생]",
+          "description": "#반전 #반전영화 #반전영상 #드라마 #명작 #명작영화 #여고생\n#우리들의여고생 #영화결말포함 #드라마결말포함 #미친텐션 #미친영화\n#반전의반전 #역대급 #역대급반전"
+        },
+        "ja": {
+          "title": "この映画は絶対に予測できない！ 衝撃の三重逆転 [私たちの女子高生]",
+          "description": "#予測不能 #三重逆転 #どんでん返し #衝撃の結末 #私たちの女子高生 #トリプルツイスト #逆転の逆転の逆転 #頭がおかしくなる #ネタバレあり #神展開 #衝撃映画 #女子高生 #韓国映画 #絶対に予想できない #狂ったテンション #逆転劇 #ミステリー #超絶トリプルツイスト"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "kHuqfZ40JzTQrg7wD2Xgtrw6zR4",
+      "id": "IVSTe25Ffu0",
+      "snippet": {
+        "publishedAt": "2026-04-12T05:14:41Z",
+        "channelId": "UCd1TDyN0YhmdMTbvhSANthw",
+        "title": "전혀 예측할 수 없는 반전에 미친 전개의 한국 영화 (3) #반전 #반전영화 #반전영상 #여고생 #우리들의여고생 #영화결말포함 #드라마결말포함 #반전의반전 #역대급 #역대급반전",
+        "description": "#반전 #반전영화 #반전영상 #드라마 #명작 #명작영화 #여고생 \n#우리들의여고생 #영화결말포함 #드라마결말포함 #미친텐션 #미친영화\n#반전의반전 #역대급 #역대급반전",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IVSTe25Ffu0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IVSTe25Ffu0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IVSTe25Ffu0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IVSTe25Ffu0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IVSTe25Ffu0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뭐터",
+        "tags": [
+          "반전",
+          "반전영화",
+          "반전영상",
+          "드라마",
+          "영화",
+          "영화추천",
+          "명작",
+          "명작영화",
+          "스릴러",
+          "몰입감",
+          "충격결말",
+          "반전결말",
+          "결말해석",
+          "영화결말",
+          "드라마결말",
+          "영화리뷰",
+          "리뷰",
+          "영화요약",
+          "줄거리",
+          "결말포함",
+          "해석영상",
+          "한국영화",
+          "학원물",
+          "여고생",
+          "갈등",
+          "비밀",
+          "충격",
+          "소름",
+          "미친전개",
+          "역대급",
+          "레전드",
+          "반전 영화",
+          "반전 영상",
+          "영화 추천",
+          "명작 영화",
+          "충격 결말",
+          "반전 결말",
+          "결말 해석",
+          "영화 결말",
+          "드라마 결말",
+          "스토리 텔링",
+          "영화 리뷰",
+          "영화 요약",
+          "결말 포함",
+          "해석 영상",
+          "한국 영화",
+          "인간 관계",
+          "미친 전개",
+          "역대급 반전",
+          "미친 반전",
+          "충격 반전",
+          "소름 결말",
+          "결말 소름",
+          "미친 결말",
+          "레전드 영화",
+          "인생 영화",
+          "꼭 봐야 할 영화",
+          "시간 순삭",
+          "숨 막히는 전개",
+          "마지막 반전",
+          "반전의 반전",
+          "소름 돋는 영화",
+          "미친 스토리",
+          "미친 연출",
+          "뇌 정지 영화",
+          "소름주의",
+          "반전 주의",
+          "충격 주의",
+          "끝까지 봐야 하는 영화",
+          "절대 예상 못 하는 영화",
+          "예측 불가",
+          "미친 영화",
+          "역대급 영화"
+        ],
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "전혀 예측할 수 없는 반전에 미친 전개의 한국 영화 (3) #반전 #반전영화 #반전영상 #여고생 #우리들의여고생 #영화결말포함 #드라마결말포함 #반전의반전 #역대급 #역대급반전",
+          "description": "#반전 #반전영화 #반전영상 #드라마 #명작 #명작영화 #여고생 \n#우리들의여고생 #영화결말포함 #드라마결말포함 #미친텐션 #미친영화\n#반전의반전 #역대급 #역대급반전"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "creativeCommon",
+        "embeddable": true,
+        "publicStatsViewable": false,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1290",
+        "likeCount": "13",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Entertainment",
+          "https://en.wikipedia.org/wiki/Film"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "전혀 예측할 수 없는 반전에 미친 전개의 한국 영화 (3) #반전 #반전영화 #반전영상 #여고생 #우리들의여고생 #영화결말포함 #드라마결말포함 #반전의반전 #역대급 #역대급반전",
+          "description": "#반전 #반전영화 #반전영상 #드라마 #명작 #명작영화 #여고생 \n#우리들의여고생 #영화결말포함 #드라마결말포함 #미친텐션 #미친영화\n#반전의반전 #역대급 #역대급반전"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "VGACUoQhjLzRNmExtFwxSS58wjA",
+      "id": "uO0MbUgN-SA",
+      "snippet": {
+        "publishedAt": "2026-04-10T10:35:48Z",
+        "channelId": "UCd1TDyN0YhmdMTbvhSANthw",
+        "title": "전혀 예측할 수 없는 반전에 미친 전개의 한국 영화 (2) #반전 #반전영화 #반전영상 #여고생 #우리들의여고생 #영화결말포함 #드라마결말포함 #반전의반전 #역대급 #역대급반전",
+        "description": "#반전 #반전영화 #반전영상 #드라마 #명작 #명작영화 #여고생 \n#우리들의여고생 #영화결말포함 #드라마결말포함 #미친텐션 #미친영화\n#반전의반전 #역대급 #역대급반전",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uO0MbUgN-SA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uO0MbUgN-SA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uO0MbUgN-SA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uO0MbUgN-SA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uO0MbUgN-SA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뭐터",
+        "tags": [
+          "반전",
+          "반전영화",
+          "반전영상",
+          "드라마",
+          "영화",
+          "영화추천",
+          "명작",
+          "명작영화",
+          "스릴러",
+          "몰입감",
+          "충격결말",
+          "반전결말",
+          "결말해석",
+          "영화결말",
+          "드라마결말",
+          "영화리뷰",
+          "리뷰",
+          "영화요약",
+          "줄거리",
+          "결말포함",
+          "해석영상",
+          "한국영화",
+          "학원물",
+          "여고생",
+          "갈등",
+          "비밀",
+          "충격",
+          "소름",
+          "미친전개",
+          "역대급",
+          "레전드",
+          "반전 영화",
+          "반전 영상",
+          "영화 추천",
+          "명작 영화",
+          "충격 결말",
+          "반전 결말",
+          "결말 해석",
+          "영화 결말",
+          "드라마 결말",
+          "스토리 텔링",
+          "영화 리뷰",
+          "영화 요약",
+          "결말 포함",
+          "해석 영상",
+          "한국 영화",
+          "인간 관계",
+          "미친 전개",
+          "역대급 반전",
+          "미친 반전",
+          "충격 반전",
+          "소름 결말",
+          "결말 소름",
+          "미친 결말",
+          "레전드 영화",
+          "인생 영화",
+          "꼭 봐야 할 영화",
+          "시간 순삭",
+          "숨 막히는 전개",
+          "마지막 반전",
+          "반전의 반전",
+          "소름 돋는 영화",
+          "미친 스토리",
+          "미친 연출",
+          "뇌 정지 영화",
+          "소름주의",
+          "반전 주의",
+          "충격 주의",
+          "끝까지 봐야 하는 영화",
+          "절대 예상 못 하는 영화",
+          "예측 불가",
+          "미친 영화",
+          "역대급 영화"
+        ],
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "전혀 예측할 수 없는 반전에 미친 전개의 한국 영화 (2) #반전 #반전영화 #반전영상 #여고생 #우리들의여고생 #영화결말포함 #드라마결말포함 #반전의반전 #역대급 #역대급반전",
+          "description": "#반전 #반전영화 #반전영상 #드라마 #명작 #명작영화 #여고생 \n#우리들의여고생 #영화결말포함 #드라마결말포함 #미친텐션 #미친영화\n#반전의반전 #역대급 #역대급반전"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT2M58S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "creativeCommon",
+        "embeddable": true,
+        "publicStatsViewable": false,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1584",
+        "likeCount": "10",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Entertainment",
+          "https://en.wikipedia.org/wiki/Film"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "전혀 예측할 수 없는 반전에 미친 전개의 한국 영화 (2) #반전 #반전영화 #반전영상 #여고생 #우리들의여고생 #영화결말포함 #드라마결말포함 #반전의반전 #역대급 #역대급반전",
+          "description": "#반전 #반전영화 #반전영상 #드라마 #명작 #명작영화 #여고생 \n#우리들의여고생 #영화결말포함 #드라마결말포함 #미친텐션 #미친영화\n#반전의반전 #역대급 #역대급반전"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "nA2N4gUxL8-at0e_BlEVQaIDDSc",
+      "id": "1A46PqMqtl4",
+      "snippet": {
+        "publishedAt": "2026-04-09T15:05:38Z",
+        "channelId": "UCd1TDyN0YhmdMTbvhSANthw",
+        "title": "전혀 예측할 수 없는 반전에 미친 전개의 한국 영화 (1) #반전 #반전영화 #반전영상 #여고생 #우리들의여고생 #영화결말포함 #드라마결말포함 #반전의반전 #역대급 #역대급반전",
+        "description": "#반전 #반전영화 #반전영상 #드라마 #명작 #명작영화 #여고생 \n#우리들의여고생 #영화결말포함 #드라마결말포함 #미친텐션 #미친영화\n#반전의반전 #역대급 #역대급반전",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1A46PqMqtl4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1A46PqMqtl4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1A46PqMqtl4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1A46PqMqtl4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1A46PqMqtl4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뭐터",
+        "tags": [
+          "반전",
+          "반전영화",
+          "반전영상",
+          "드라마",
+          "영화",
+          "영화추천",
+          "명작",
+          "명작영화",
+          "스릴러",
+          "몰입감",
+          "충격결말",
+          "반전결말",
+          "결말해석",
+          "영화결말",
+          "드라마결말",
+          "영화리뷰",
+          "리뷰",
+          "영화요약",
+          "줄거리",
+          "결말포함",
+          "해석영상",
+          "한국영화",
+          "학원물",
+          "여고생",
+          "갈등",
+          "비밀",
+          "충격",
+          "소름",
+          "미친전개",
+          "역대급",
+          "레전드",
+          "반전 영화",
+          "반전 영상",
+          "영화 추천",
+          "명작 영화",
+          "충격 결말",
+          "반전 결말",
+          "결말 해석",
+          "영화 결말",
+          "드라마 결말",
+          "스토리 텔링",
+          "영화 리뷰",
+          "영화 요약",
+          "결말 포함",
+          "해석 영상",
+          "한국 영화",
+          "인간 관계",
+          "미친 전개",
+          "역대급 반전",
+          "미친 반전",
+          "충격 반전",
+          "소름 결말",
+          "결말 소름",
+          "미친 결말",
+          "레전드 영화",
+          "인생 영화",
+          "꼭 봐야 할 영화",
+          "시간 순삭",
+          "숨 막히는 전개",
+          "마지막 반전",
+          "반전의 반전",
+          "소름 돋는 영화",
+          "미친 스토리",
+          "미친 연출",
+          "뇌 정지 영화",
+          "소름주의",
+          "반전 주의",
+          "충격 주의",
+          "끝까지 봐야 하는 영화",
+          "절대 예상 못 하는 영화",
+          "예측 불가",
+          "미친 영화",
+          "역대급 영화"
+        ],
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "전혀 예측할 수 없는 반전에 미친 전개의 한국 영화 (1) #반전 #반전영화 #반전영상 #여고생 #우리들의여고생 #영화결말포함 #드라마결말포함 #반전의반전 #역대급 #역대급반전",
+          "description": "#반전 #반전영화 #반전영상 #드라마 #명작 #명작영화 #여고생 \n#우리들의여고생 #영화결말포함 #드라마결말포함 #미친텐션 #미친영화\n#반전의반전 #역대급 #역대급반전"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT2M54S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "creativeCommon",
+        "embeddable": true,
+        "publicStatsViewable": false,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1775",
+        "likeCount": "16",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Entertainment",
+          "https://en.wikipedia.org/wiki/Film"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "전혀 예측할 수 없는 반전에 미친 전개의 한국 영화 (1) #반전 #반전영화 #반전영상 #여고생 #우리들의여고생 #영화결말포함 #드라마결말포함 #반전의반전 #역대급 #역대급반전",
+          "description": "#반전 #반전영화 #반전영상 #드라마 #명작 #명작영화 #여고생 \n#우리들의여고생 #영화결말포함 #드라마결말포함 #미친텐션 #미친영화\n#반전의반전 #역대급 #역대급반전"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "63vchK5WAiEGUU95W8pHU6YROqI",
+      "id": "PA8SdZrjgxk",
+      "snippet": {
+        "publishedAt": "2026-04-01T07:51:35Z",
+        "channelId": "UCd1TDyN0YhmdMTbvhSANthw",
+        "title": "라면 99개 먹방 중 방송 사고... [먹방 요정 김봉지]",
+        "description": "#먹방 #먹방유튜버 #라면100개 #라면99개 #라면먹방 #김봉지 #먹방요정 #초미녀 #귀여운먹방 #아이돌먹방 #방송사고 #먹방논란 #먹방사고 #먹방방송사고 #트젠 #트젠유튜버 #트렌스젠더 #트랜스젠더",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PA8SdZrjgxk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PA8SdZrjgxk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PA8SdZrjgxk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PA8SdZrjgxk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PA8SdZrjgxk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뭐터",
+        "tags": [
+          "라면99개먹방",
+          "라면100개먹방",
+          "라면먹방",
+          "먹방",
+          "먹방유튜버",
+          "먹방요정김봉지",
+          "김봉지",
+          "여자먹방",
+          "여성먹방",
+          "귀여운먹방",
+          "아이돌먹방",
+          "초미녀먹방",
+          "대식먹방",
+          "대식가먹방",
+          "라면대식",
+          "먹방방송사고",
+          "먹방사고",
+          "먹방논란",
+          "방송사고먹방",
+          "유튜브먹방",
+          "먹방쇼츠",
+          "먹방영상",
+          "먹방컨텐츠",
+          "라면 99개 먹방",
+          "라면 100개 먹방",
+          "라면 먹방",
+          "먹방 유튜버",
+          "먹방 요정 김봉지",
+          "여자 먹방",
+          "여성 먹방",
+          "귀여운 먹방",
+          "아이돌 먹방",
+          "초미녀 먹방",
+          "대식 먹방",
+          "대식가 먹방",
+          "라면 대식",
+          "먹방 방송 사고",
+          "먹방 사고",
+          "먹방 논란",
+          "방송 사고 먹방",
+          "유튜브 먹방",
+          "먹방 쇼츠",
+          "먹방 영상",
+          "먹방 콘텐츠",
+          "대식가",
+          "글래머",
+          "거유",
+          "미드",
+          "벗방",
+          "슴가",
+          "가슴골",
+          "여자 bj",
+          "여자bj",
+          "먹방bj",
+          "먹방 bj",
+          "트젠",
+          "트젠먹방",
+          "트젠유튜버",
+          "트젠 먹방",
+          "트젠 유튜버",
+          "트랜스젠더",
+          "트렌스젠더"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "라면 99개 먹방 중 방송 사고... [먹방 요정 김봉지]",
+          "description": "#먹방 #먹방유튜버 #라면100개 #라면99개 #라면먹방 #김봉지 #먹방요정 #초미녀 #귀여운먹방 #아이돌먹방 #방송사고 #먹방논란 #먹방사고 #먹방방송사고 #트젠 #트젠유튜버 #트렌스젠더 #트랜스젠더"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT2M7S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "creativeCommon",
+        "embeddable": true,
+        "publicStatsViewable": false,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1236",
+        "likeCount": "14",
+        "favoriteCount": "0",
+        "commentCount": "5"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Food",
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ja": {
+          "title": "ラーメン99個モッパン中に放送事故発生…",
+          "description": "#モッパン #モッパンユーチューバー #ラーメン100個 #ラーメン99個 #ラーメンモッパン #キムボンジ #モッパン妖精 #美少女モッパン #かわいいモッパン #アイドルモッパン #放送事故 #モッパン炎上 #モッパン事故 #モッパン放送事故"
+        },
+        "ko": {
+          "title": "라면 99개 먹방 중 방송 사고... [먹방 요정 김봉지]",
+          "description": "#먹방 #먹방유튜버 #라면100개 #라면99개 #라면먹방 #김봉지 #먹방요정 #초미녀 #귀여운먹방 #아이돌먹방 #방송사고 #먹방논란 #먹방사고 #먹방방송사고 #트젠 #트젠유튜버 #트렌스젠더 #트랜스젠더"
+        },
+        "en": {
+          "title": "Ramen 99 Challenge Mukbang Gone Wrong...",
+          "description": "#Mukbang #MukbangYouTuber #Ramen100 #Ramen99 #RamenMukbang #KimBongji #MukbangFairy #BeautifulMukbang #CuteMukbang #IdolMukbang #OnAirAccident #MukbangControversy #MukbangFail #MukbangAccident"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "HmYXTAuBZ8238_lXcNyGt_Tzxxc",
+      "id": "kMe2YmWW-aw",
+      "snippet": {
+        "publishedAt": "2026-03-30T11:27:42Z",
+        "channelId": "UCd1TDyN0YhmdMTbvhSANthw",
+        "title": "라면 99개 먹방 중 방송 사고... [먹방 요정 김봉지]",
+        "description": "#먹방 #먹방유튜버 #라면100개 #라면99개 #라면먹방 #김봉지 #먹방요정 #초미녀 #귀여운먹방 #아이돌먹방 #방송사고 #먹방논란 #먹방사고 #먹방방송사고 #트젠 #트젠유튜버 #트렌스젠더 #트랜스젠더",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kMe2YmWW-aw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kMe2YmWW-aw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kMe2YmWW-aw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kMe2YmWW-aw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kMe2YmWW-aw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뭐터",
+        "tags": [
+          "라면99개먹방",
+          "라면100개먹방",
+          "라면먹방",
+          "먹방",
+          "먹방유튜버",
+          "먹방요정김봉지",
+          "김봉지",
+          "여자먹방",
+          "여성먹방",
+          "귀여운먹방",
+          "아이돌먹방",
+          "초미녀먹방",
+          "대식먹방",
+          "대식가먹방",
+          "라면대식",
+          "먹방방송사고",
+          "먹방사고",
+          "먹방논란",
+          "방송사고먹방",
+          "유튜브먹방",
+          "먹방쇼츠",
+          "먹방영상",
+          "먹방컨텐츠",
+          "라면 99개 먹방",
+          "라면 100개 먹방",
+          "라면 먹방",
+          "먹방 유튜버",
+          "먹방 요정 김봉지",
+          "여자 먹방",
+          "여성 먹방",
+          "귀여운 먹방",
+          "아이돌 먹방",
+          "초미녀 먹방",
+          "대식 먹방",
+          "대식가 먹방",
+          "라면 대식",
+          "먹방 방송 사고",
+          "먹방 사고",
+          "먹방 논란",
+          "방송 사고 먹방",
+          "유튜브 먹방",
+          "먹방 쇼츠",
+          "먹방 영상",
+          "먹방 콘텐츠",
+          "대식가",
+          "글래머",
+          "거유",
+          "미드",
+          "벗방",
+          "슴가",
+          "가슴골",
+          "여자 bj",
+          "여자bj",
+          "먹방bj",
+          "먹방 bj",
+          "트젠",
+          "트젠먹방",
+          "트젠유튜버",
+          "트젠 먹방",
+          "트젠 유튜버",
+          "트랜스젠더",
+          "트렌스젠더"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "라면 99개 먹방 중 방송 사고... [먹방 요정 김봉지]",
+          "description": "#먹방 #먹방유튜버 #라면100개 #라면99개 #라면먹방 #김봉지 #먹방요정 #초미녀 #귀여운먹방 #아이돌먹방 #방송사고 #먹방논란 #먹방사고 #먹방방송사고 #트젠 #트젠유튜버 #트렌스젠더 #트랜스젠더"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M38S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "creativeCommon",
+        "embeddable": true,
+        "publicStatsViewable": false,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "2266",
+        "likeCount": "20",
+        "favoriteCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Food",
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en": {
+          "title": "Ramen 99 Challenge Mukbang Gone Wrong...",
+          "description": "#Mukbang #MukbangYouTuber #Ramen100 #Ramen99 #RamenMukbang #KimBongji #MukbangFairy #BeautifulMukbang #CuteMukbang #IdolMukbang #OnAirAccident #MukbangControversy #MukbangFail #MukbangAccident"
+        },
+        "ja": {
+          "title": "ラーメン99個モッパン中に放送事故発生…",
+          "description": "#モッパン #モッパンユーチューバー #ラーメン100個 #ラーメン99個 #ラーメンモッパン #キムボンジ #モッパン妖精 #美少女モッパン #かわいいモッパン #アイドルモッパン #放送事故 #モッパン炎上 #モッパン事故 #モッパン放送事故"
+        },
+        "ko": {
+          "title": "라면 99개 먹방 중 방송 사고... [먹방 요정 김봉지]",
+          "description": "#먹방 #먹방유튜버 #라면100개 #라면99개 #라면먹방 #김봉지 #먹방요정 #초미녀 #귀여운먹방 #아이돌먹방 #방송사고 #먹방논란 #먹방사고 #먹방방송사고 #트젠 #트젠유튜버 #트렌스젠더 #트랜스젠더"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "OqY4_aNV0evMUp9vDV2uQ85OwkY",
+      "id": "7isIHRI1Y0c",
+      "snippet": {
+        "publishedAt": "2026-03-26T11:36:48Z",
+        "channelId": "UCd1TDyN0YhmdMTbvhSANthw",
+        "title": "우연히 엄청난 동체 시력을 가지게 된 한 소년의 이야기 [동체 시력3]",
+        "description": "#동체시력 #초능력 #초능력자 #영화 #한국영화 #ai영화 #ai드라마 #학원물 #싸움 #격투기 #격투기기술 #명작 #명작영화 #시간순삭 #대작 #액션영화 #성장스토리 #각성스토리 #초능력액션 #소년히어로 #싸움천재 #능력각성 #인생역전 #영화요약 #영화리뷰 #인간진화 #능력자 #히어로탄생 #액션명장면",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7isIHRI1Y0c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7isIHRI1Y0c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7isIHRI1Y0c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7isIHRI1Y0c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7isIHRI1Y0c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뭐터",
+        "tags": [
+          "동체 시력",
+          "액션 영화",
+          "인생 역전 이야기",
+          "싸움 천재",
+          "초능력 각성",
+          "영화 요약",
+          "영화 리뷰",
+          "액션 명장면",
+          "동체 시력 능력",
+          "인간 초능력",
+          "인생 역전 스토리",
+          "학교 싸움",
+          "학원 액션",
+          "일진 싸움",
+          "왕따 탈출",
+          "싸움 천재 되는 법",
+          "현실 초능력",
+          "청소년 액션",
+          "소년 액션 영화",
+          "격투 장면",
+          "싸움 장면 모음",
+          "긴장감 넘치는 영화",
+          "몰입감 높은 영화",
+          "AI 영화",
+          "AI로 만든 영화",
+          "독특한 설정 영화",
+          "기발한 아이디어 영화",
+          "결말 포함",
+          "결말 해석",
+          "시간 순삭 영화",
+          "레전드 영화",
+          "인생 영화",
+          "명작 영화",
+          "싸움 장면",
+          "스릴 있는 영화",
+          "초능력 영화",
+          "성장 스토리",
+          "인생 역전",
+          "찐따 탈출",
+          "일진 참교육",
+          "복수 영화",
+          "통쾌한 영화",
+          "사이다 전개",
+          "먼치킨 주인공",
+          "먼치킨 영화",
+          "스토리 좋은 영화",
+          "몰입도 높은 영화",
+          "영화 추천",
+          "꿀잼 영화",
+          "재밌는 영화",
+          "유튜브 영화 요약",
+          "신박한 영화"
+        ],
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "우연히 엄청난 동체 시력을 가지게 된 한 소년의 이야기 [동체 시력3]",
+          "description": "#동체시력 #초능력 #초능력자 #영화 #한국영화 #ai영화 #ai드라마 #학원물 #싸움 #격투기 #격투기기술 #명작 #명작영화 #시간순삭 #대작 #액션영화 #성장스토리 #각성스토리 #초능력액션 #소년히어로 #싸움천재 #능력각성 #인생역전 #영화요약 #영화리뷰 #인간진화 #능력자 #히어로탄생 #액션명장면"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT2M54S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "creativeCommon",
+        "embeddable": true,
+        "publicStatsViewable": false,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1526",
+        "likeCount": "43",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Entertainment",
+          "https://en.wikipedia.org/wiki/Film"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ja": {
+          "title": "偶然に驚異的な動体視力を手に入れた少年の物語【動体視力3】",
+          "description": "#動体視力 #超能力 #超能力者 #映画 #韓国映画 #AI映画 #AIドラマ #学園もの #喧嘩 #格闘技 #格闘技術 #名作 #名作映画 #時間泥棒 #大作 #アクション映画 #成長物語 #覚醒ストーリー #超能力アクション #少年ヒーロー #喧嘩の天才 #能力覚醒 #人生逆転 #映画まとめ #映画レビュー #人類進化 #能力者 #ヒーロー誕生 #アクション名シーン"
+        },
+        "ko": {
+          "title": "우연히 엄청난 동체 시력을 가지게 된 한 소년의 이야기 [동체 시력3]",
+          "description": "#동체시력 #초능력 #초능력자 #영화 #한국영화 #ai영화 #ai드라마 #학원물 #싸움 #격투기 #격투기기술 #명작 #명작영화 #시간순삭 #대작 #액션영화 #성장스토리 #각성스토리 #초능력액션 #소년히어로 #싸움천재 #능력각성 #인생역전 #영화요약 #영화리뷰 #인간진화 #능력자 #히어로탄생 #액션명장면"
+        },
+        "en": {
+          "title": "The Story of a Boy Who Suddenly Gained Incredible Dynamic Vision [Dynamic Vision 3]",
+          "description": "#DynamicVision #Superpower #Superpowers #Movie #KoreanMovie #AIMovie #AIDrama #SchoolDrama #Fight #MartialArts #FightingSkills #Masterpiece #GreatMovie #BingeWorthy #Blockbuster #ActionMovie #ComingOfAge #AwakeningStory #SuperpowerAction #BoyHero #FightingGenius #PowerAwakening #LifeTurnaround #MovieSummary #MovieReview #HumanEvolution #Superhuman #HeroOrigin #ActionScene"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "FN1yJNnutKTUOb_8SHxkOb3tEho",
+      "id": "Niy1bsmxeTo",
+      "snippet": {
+        "publishedAt": "2026-03-25T13:11:36Z",
+        "channelId": "UCd1TDyN0YhmdMTbvhSANthw",
+        "title": "우연히 엄청난 동체 시력을 가지게 된 한 소년의 이야기 [동체 시력2]",
+        "description": "#동체시력 #초능력 #초능력자 #영화 #한국영화 #ai영화 #ai드라마 #학원물 #싸움 #격투기 #격투기기술 #명작 #명작영화 #시간순삭 #대작 #액션영화 #성장스토리 #각성스토리 #초능력액션 #소년히어로 #싸움천재 #능력각성 #인생역전 #영화요약 #영화리뷰 #인간진화 #능력자 #히어로탄생 #액션명장면",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Niy1bsmxeTo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Niy1bsmxeTo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Niy1bsmxeTo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Niy1bsmxeTo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Niy1bsmxeTo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뭐터",
+        "tags": [
+          "동체 시력",
+          "액션 영화",
+          "인생 역전 이야기",
+          "싸움 천재",
+          "초능력 각성",
+          "영화 요약",
+          "영화 리뷰",
+          "액션 명장면",
+          "동체 시력 능력",
+          "인간 초능력",
+          "인생 역전 스토리",
+          "학교 싸움",
+          "학원 액션",
+          "일진 싸움",
+          "왕따 탈출",
+          "싸움 천재 되는 법",
+          "현실 초능력",
+          "청소년 액션",
+          "소년 액션 영화",
+          "격투 장면",
+          "싸움 장면 모음",
+          "긴장감 넘치는 영화",
+          "몰입감 높은 영화",
+          "AI 영화",
+          "AI로 만든 영화",
+          "독특한 설정 영화",
+          "기발한 아이디어 영화",
+          "결말 포함",
+          "결말 해석",
+          "시간 순삭 영화",
+          "레전드 영화",
+          "인생 영화",
+          "명작 영화",
+          "싸움 장면",
+          "스릴 있는 영화",
+          "초능력 영화",
+          "성장 스토리",
+          "인생 역전",
+          "찐따 탈출",
+          "일진 참교육",
+          "복수 영화",
+          "통쾌한 영화",
+          "사이다 전개",
+          "먼치킨 주인공",
+          "먼치킨 영화",
+          "스토리 좋은 영화",
+          "몰입도 높은 영화",
+          "영화 추천",
+          "꿀잼 영화",
+          "재밌는 영화",
+          "유튜브 영화 요약",
+          "신박한 영화"
+        ],
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "우연히 엄청난 동체 시력을 가지게 된 한 소년의 이야기 [동체 시력2]",
+          "description": "#동체시력 #초능력 #초능력자 #영화 #한국영화 #ai영화 #ai드라마 #학원물 #싸움 #격투기 #격투기기술 #명작 #명작영화 #시간순삭 #대작 #액션영화 #성장스토리 #각성스토리 #초능력액션 #소년히어로 #싸움천재 #능력각성 #인생역전 #영화요약 #영화리뷰 #인간진화 #능력자 #히어로탄생 #액션명장면"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT2M55S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "creativeCommon",
+        "embeddable": true,
+        "publicStatsViewable": false,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1221",
+        "likeCount": "14",
+        "favoriteCount": "0",
+        "commentCount": "3"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Entertainment",
+          "https://en.wikipedia.org/wiki/Film"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en": {
+          "title": "The Story of a Boy Who Suddenly Gained Incredible Dynamic Vision [Dynamic Vision 2]",
+          "description": "#DynamicVision #Superpower #Superpowers #Movie #KoreanMovie #AIMovie #AIDrama #SchoolDrama #Fight #MartialArts #FightingSkills #Masterpiece #GreatMovie #BingeWorthy #Blockbuster #ActionMovie #ComingOfAge #AwakeningStory #SuperpowerAction #BoyHero #FightingGenius #PowerAwakening #LifeTurnaround #MovieSummary #MovieReview #HumanEvolution #Superhuman #HeroOrigin #ActionScene"
+        },
+        "ja": {
+          "title": "偶然に驚異的な動体視力を手に入れた少年の物語【動体視力2】",
+          "description": "#動体視力 #超能力 #超能力者 #映画 #韓国映画 #AI映画 #AIドラマ #学園もの #喧嘩 #格闘技 #格闘技術 #名作 #名作映画 #時間泥棒 #大作 #アクション映画 #成長物語 #覚醒ストーリー #超能力アクション #少年ヒーロー #喧嘩の天才 #能力覚醒 #人生逆転 #映画まとめ #映画レビュー #人類進化 #能力者 #ヒーロー誕生 #アクション名シーン"
+        },
+        "ko": {
+          "title": "우연히 엄청난 동체 시력을 가지게 된 한 소년의 이야기 [동체 시력2]",
+          "description": "#동체시력 #초능력 #초능력자 #영화 #한국영화 #ai영화 #ai드라마 #학원물 #싸움 #격투기 #격투기기술 #명작 #명작영화 #시간순삭 #대작 #액션영화 #성장스토리 #각성스토리 #초능력액션 #소년히어로 #싸움천재 #능력각성 #인생역전 #영화요약 #영화리뷰 #인간진화 #능력자 #히어로탄생 #액션명장면"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "v36C1H-nCp0C825yD3UsPauTG_A",
+      "id": "caf8Ls9D_tw",
+      "snippet": {
+        "publishedAt": "2026-03-24T14:05:52Z",
+        "channelId": "UCd1TDyN0YhmdMTbvhSANthw",
+        "title": "우연히 엄청난 동체 시력을 가지게 된 한 소년의 이야기 [동체 시력1]",
+        "description": "#동체시력 #초능력 #초능력자 #영화 #한국영화 #ai영화 #ai드라마 #학원물 #싸움 #격투기 #격투기기술 #명작 #명작영화 #시간순삭 #대작 #액션영화 #성장스토리 #각성스토리 #초능력액션 #소년히어로 #싸움천재 #능력각성 #인생역전 #영화요약 #영화리뷰 #인간진화 #능력자 #히어로탄생 #액션명장면",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/caf8Ls9D_tw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/caf8Ls9D_tw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/caf8Ls9D_tw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/caf8Ls9D_tw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/caf8Ls9D_tw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뭐터",
+        "tags": [
+          "동체 시력",
+          "액션 영화",
+          "인생 역전 이야기",
+          "싸움 천재",
+          "초능력 각성",
+          "영화 요약",
+          "영화 리뷰",
+          "액션 명장면",
+          "동체 시력 능력",
+          "인간 초능력",
+          "인생 역전 스토리",
+          "학교 싸움",
+          "학원 액션",
+          "일진 싸움",
+          "왕따 탈출",
+          "싸움 천재 되는 법",
+          "현실 초능력",
+          "청소년 액션",
+          "소년 액션 영화",
+          "격투 장면",
+          "싸움 장면 모음",
+          "긴장감 넘치는 영화",
+          "몰입감 높은 영화",
+          "AI 영화",
+          "AI로 만든 영화",
+          "독특한 설정 영화",
+          "기발한 아이디어 영화",
+          "결말 포함",
+          "결말 해석",
+          "시간 순삭 영화",
+          "레전드 영화",
+          "인생 영화",
+          "명작 영화",
+          "싸움 장면",
+          "스릴 있는 영화",
+          "초능력 영화",
+          "성장 스토리",
+          "인생 역전",
+          "찐따 탈출",
+          "일진 참교육",
+          "복수 영화",
+          "통쾌한 영화",
+          "사이다 전개",
+          "먼치킨 주인공",
+          "먼치킨 영화",
+          "스토리 좋은 영화",
+          "몰입도 높은 영화",
+          "영화 추천",
+          "꿀잼 영화",
+          "재밌는 영화",
+          "유튜브 영화 요약",
+          "신박한 영화"
+        ],
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "우연히 엄청난 동체 시력을 가지게 된 한 소년의 이야기 [동체 시력1]",
+          "description": "#동체시력 #초능력 #초능력자 #영화 #한국영화 #ai영화 #ai드라마 #학원물 #싸움 #격투기 #격투기기술 #명작 #명작영화 #시간순삭 #대작 #액션영화 #성장스토리 #각성스토리 #초능력액션 #소년히어로 #싸움천재 #능력각성 #인생역전 #영화요약 #영화리뷰 #인간진화 #능력자 #히어로탄생 #액션명장면"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT2M53S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "creativeCommon",
+        "embeddable": true,
+        "publicStatsViewable": false,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "810",
+        "likeCount": "10",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Entertainment",
+          "https://en.wikipedia.org/wiki/Film"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en": {
+          "title": "The Story of a Boy Who Suddenly Gained Incredible Dynamic Vision [Dynamic Vision 1]",
+          "description": "#DynamicVision #Superpower #Superpowers #Movie #KoreanMovie #AIMovie #AIDrama #SchoolDrama #Fight #MartialArts #FightingSkills #Masterpiece #GreatMovie #BingeWorthy #Blockbuster #ActionMovie #ComingOfAge #AwakeningStory #SuperpowerAction #BoyHero #FightingGenius #PowerAwakening #LifeTurnaround #MovieSummary #MovieReview #HumanEvolution #Superhuman #HeroOrigin #ActionScene"
+        },
+        "ko": {
+          "title": "우연히 엄청난 동체 시력을 가지게 된 한 소년의 이야기 [동체 시력1]",
+          "description": "#동체시력 #초능력 #초능력자 #영화 #한국영화 #ai영화 #ai드라마 #학원물 #싸움 #격투기 #격투기기술 #명작 #명작영화 #시간순삭 #대작 #액션영화 #성장스토리 #각성스토리 #초능력액션 #소년히어로 #싸움천재 #능력각성 #인생역전 #영화요약 #영화리뷰 #인간진화 #능력자 #히어로탄생 #액션명장면"
+        },
+        "ja": {
+          "title": "偶然に驚異的な動体視力を手に入れた少年の物語【動体視力1】",
+          "description": "#動体視力 #超能力 #超能力者 #映画 #韓国映画 #AI映画 #AIドラマ #学園もの #喧嘩 #格闘技 #格闘技術 #名作 #名作映画 #時間泥棒 #大作 #アクション映画 #成長物語 #覚醒ストーリー #超能力アクション #少年ヒーロー #喧嘩の天才 #能力覚醒 #人生逆転 #映画まとめ #映画レビュー #人類進化 #能力者 #ヒーロー誕生 #アクション名シーン"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "8HEKAMNGeota0EY9mdx90sH-f98",
+      "id": "49UQAImJzSY",
+      "snippet": {
+        "publishedAt": "2026-03-18T11:29:03Z",
+        "channelId": "UCd1TDyN0YhmdMTbvhSANthw",
+        "title": "초대형 국산 블록버스터 애니메이션 (5)",
+        "description": "#애니메이션 #초대형 #우주전쟁 #슈퍼시바 #동물영상 #동물영화\n#외계침공 #UFO #초저가 #블록버스터 #ai로영화만들기 #ai영화\n#ai애니메이션",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/49UQAImJzSY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/49UQAImJzSY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/49UQAImJzSY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/49UQAImJzSY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/49UQAImJzSY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뭐터",
+        "tags": [
+          "ai로 영화 만들기",
+          "ai로 영화 만드는 법",
+          "ai영화",
+          "ai 영화",
+          "저예산",
+          "초저가",
+          "1인영화",
+          "1인 영화",
+          "ai로 영상 만들기",
+          "ai로영상만들기",
+          "영상만드는법",
+          "영상 만드는 법",
+          "쉽게 영화 만들기",
+          "손쉽게 영화 만들기",
+          "히어로무비",
+          "히어로 무비",
+          "히어로",
+          "히어로영화",
+          "히어로 영화",
+          "7일",
+          "제작기간",
+          "최저제작기간",
+          "최저 제작기간",
+          "최저 제작비",
+          "최저제작비",
+          "영화",
+          "초대형",
+          "우주영화",
+          "우주 영화",
+          "making movies with ai",
+          "how to make movies with ai",
+          "ai movie",
+          "ai film",
+          "low budget",
+          "one person film",
+          "solo filmmaker",
+          "making videos with ai",
+          "how to make videos",
+          "epic scale",
+          "AIで映画を作る",
+          "AIで映画を作る方法",
+          "AI映画",
+          "AI 映画",
+          "低予算",
+          "超低予算",
+          "極低予算",
+          "一人映画",
+          "一人制作映画",
+          "AIで動画制作",
+          "AI動画制作",
+          "簡単に映画を作る",
+          "最低制作費",
+          "超大作"
+        ],
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "초대형 국산 블록버스터 애니메이션 (5)",
+          "description": "#애니메이션 #초대형 #우주전쟁 #슈퍼시바 #동물영상 #동물영화\n#외계침공 #UFO #초저가 #블록버스터 #ai로영화만들기 #ai영화\n#ai애니메이션"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT1M",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "creativeCommon",
+        "embeddable": true,
+        "publicStatsViewable": false,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1489",
+        "likeCount": "7",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Entertainment",
+          "https://en.wikipedia.org/wiki/Film"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "초대형 국산 블록버스터 애니메이션 (5)",
+          "description": "#애니메이션 #초대형 #우주전쟁 #슈퍼시바 #동물영상 #동물영화\n#외계침공 #UFO #초저가 #블록버스터 #ai로영화만들기 #ai영화\n#ai애니메이션"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ICvgv9ZUzZ2fBr0TWFAA0WAFgRE",
+      "id": "DBUkxppsA9I",
+      "snippet": {
+        "publishedAt": "2026-03-17T11:37:06Z",
+        "channelId": "UCd1TDyN0YhmdMTbvhSANthw",
+        "title": "초대작 국산 애니메이션 (4)",
+        "description": "#애니메이션 #초대형 #우주전쟁 #슈퍼시바 #동물영상 #동물영화\n#외계침공 #UFO #초저가 #블록버스터 #ai로영화만들기 #ai영화\n#ai애니메이션",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DBUkxppsA9I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DBUkxppsA9I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DBUkxppsA9I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DBUkxppsA9I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DBUkxppsA9I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뭐터",
+        "tags": [
+          "ai로 영화 만들기",
+          "ai로 영화 만드는 법",
+          "ai영화",
+          "ai 영화",
+          "저예산",
+          "초저가",
+          "1인영화",
+          "1인 영화",
+          "ai로 영상 만들기",
+          "ai로영상만들기",
+          "영상만드는법",
+          "영상 만드는 법",
+          "쉽게 영화 만들기",
+          "손쉽게 영화 만들기",
+          "히어로무비",
+          "히어로 무비",
+          "히어로",
+          "히어로영화",
+          "히어로 영화",
+          "7일",
+          "제작기간",
+          "최저제작기간",
+          "최저 제작기간",
+          "최저 제작비",
+          "최저제작비",
+          "영화",
+          "초대형",
+          "우주영화",
+          "우주 영화",
+          "making movies with ai",
+          "how to make movies with ai",
+          "ai movie",
+          "ai film",
+          "low budget",
+          "one person film",
+          "solo filmmaker",
+          "making videos with ai",
+          "how to make videos",
+          "epic scale",
+          "AIで映画を作る",
+          "AIで映画を作る方法",
+          "AI映画",
+          "AI 映画",
+          "低予算",
+          "超低予算",
+          "極低予算",
+          "一人映画",
+          "一人制作映画",
+          "AIで動画制作",
+          "AI動画制作",
+          "簡単に映画を作る",
+          "最低制作費",
+          "超大作"
+        ],
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "초대작 국산 애니메이션 (4)",
+          "description": "#애니메이션 #초대형 #우주전쟁 #슈퍼시바 #동물영상 #동물영화\n#외계침공 #UFO #초저가 #블록버스터 #ai로영화만들기 #ai영화\n#ai애니메이션"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT59S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "creativeCommon",
+        "embeddable": true,
+        "publicStatsViewable": false,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1498",
+        "likeCount": "15",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Entertainment",
+          "https://en.wikipedia.org/wiki/Film"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "초대작 국산 애니메이션 (4)",
+          "description": "#애니메이션 #초대형 #우주전쟁 #슈퍼시바 #동물영상 #동물영화\n#외계침공 #UFO #초저가 #블록버스터 #ai로영화만들기 #ai영화\n#ai애니메이션"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "LRRQXXNV6-BhVDYG6J14KM0C-kY",
+      "id": "jFLrd1nDR2w",
+      "snippet": {
+        "publishedAt": "2026-03-16T11:18:43Z",
+        "channelId": "UCd1TDyN0YhmdMTbvhSANthw",
+        "title": "미친 한국 토종 초저가 애니메이션 (3)",
+        "description": "#애니메이션 #초대형 #우주전쟁 #슈퍼시바 #동물영상 #동물영화\n#외계침공 #UFO #초저가 #블록버스터 #ai로영화만들기 #ai영화\n#ai애니메이션",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jFLrd1nDR2w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jFLrd1nDR2w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jFLrd1nDR2w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jFLrd1nDR2w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jFLrd1nDR2w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뭐터",
+        "tags": [
+          "ai로 영화 만들기",
+          "ai로 영화 만드는 법",
+          "ai영화",
+          "ai 영화",
+          "저예산",
+          "초저가",
+          "1인영화",
+          "1인 영화",
+          "ai로 영상 만들기",
+          "ai로영상만들기",
+          "영상만드는법",
+          "영상 만드는 법",
+          "쉽게 영화 만들기",
+          "손쉽게 영화 만들기",
+          "히어로무비",
+          "히어로 무비",
+          "히어로",
+          "히어로영화",
+          "히어로 영화",
+          "7일",
+          "제작기간",
+          "최저제작기간",
+          "최저 제작기간",
+          "최저 제작비",
+          "최저제작비",
+          "영화",
+          "초대형",
+          "우주영화",
+          "우주 영화",
+          "making movies with ai",
+          "how to make movies with ai",
+          "ai movie",
+          "ai film",
+          "low budget",
+          "one person film",
+          "solo filmmaker",
+          "making videos with ai",
+          "how to make videos",
+          "epic scale",
+          "AIで映画を作る",
+          "AIで映画を作る方法",
+          "AI映画",
+          "AI 映画",
+          "低予算",
+          "超低予算",
+          "極低予算",
+          "一人映画",
+          "一人制作映画",
+          "AIで動画制作",
+          "AI動画制作",
+          "簡単に映画を作る",
+          "最低制作費",
+          "超大作"
+        ],
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "미친 한국 토종 초저가 애니메이션 (3)",
+          "description": "#애니메이션 #초대형 #우주전쟁 #슈퍼시바 #동물영상 #동물영화\n#외계침공 #UFO #초저가 #블록버스터 #ai로영화만들기 #ai영화\n#ai애니메이션"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT1M",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "creativeCommon",
+        "embeddable": true,
+        "publicStatsViewable": false,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1608",
+        "likeCount": "9",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "미친 한국 토종 초저가 애니메이션 (3)",
+          "description": "#애니메이션 #초대형 #우주전쟁 #슈퍼시바 #동물영상 #동물영화\n#외계침공 #UFO #초저가 #블록버스터 #ai로영화만들기 #ai영화\n#ai애니메이션"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "5xepZdu9Ob12h7Dj5xWq5Vjh1fs",
+      "id": "ae1mTb7m58M",
+      "snippet": {
+        "publishedAt": "2026-03-15T04:50:31Z",
+        "channelId": "UCd1TDyN0YhmdMTbvhSANthw",
+        "title": "1인 제작 국산 애니메이션 (2)",
+        "description": "#애니메이션 #초대형 #우주전쟁 #슈퍼시바 #동물영상 #동물영화\n#외계침공 #UFO #초저가 #블록버스터 #ai로영화만들기 #ai영화\n#ai애니메이션",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ae1mTb7m58M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ae1mTb7m58M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ae1mTb7m58M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ae1mTb7m58M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ae1mTb7m58M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뭐터",
+        "tags": [
+          "ai로 영화 만들기",
+          "ai로 영화 만드는 법",
+          "ai영화",
+          "ai 영화",
+          "저예산",
+          "초저가",
+          "1인영화",
+          "1인 영화",
+          "ai로 영상 만들기",
+          "ai로영상만들기",
+          "영상만드는법",
+          "영상 만드는 법",
+          "쉽게 영화 만들기",
+          "손쉽게 영화 만들기",
+          "히어로무비",
+          "히어로 무비",
+          "히어로",
+          "히어로영화",
+          "히어로 영화",
+          "7일",
+          "제작기간",
+          "최저제작기간",
+          "최저 제작기간",
+          "최저 제작비",
+          "최저제작비",
+          "영화",
+          "초대형",
+          "우주영화",
+          "우주 영화",
+          "making movies with ai",
+          "how to make movies with ai",
+          "ai movie",
+          "ai film",
+          "low budget",
+          "one person film",
+          "solo filmmaker",
+          "making videos with ai",
+          "how to make videos",
+          "epic scale",
+          "AIで映画を作る",
+          "AIで映画を作る方法",
+          "AI映画",
+          "AI 映画",
+          "低予算",
+          "超低予算",
+          "極低予算",
+          "一人映画",
+          "一人制作映画",
+          "AIで動画制作",
+          "AI動画制作",
+          "簡単に映画を作る",
+          "最低制作費",
+          "超大作"
+        ],
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "1인 제작 국산 애니메이션 (2)",
+          "description": "#애니메이션 #초대형 #우주전쟁 #슈퍼시바 #동물영상 #동물영화\n#외계침공 #UFO #초저가 #블록버스터 #ai로영화만들기 #ai영화\n#ai애니메이션"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT46S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "creativeCommon",
+        "embeddable": true,
+        "publicStatsViewable": false,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1753",
+        "likeCount": "9",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "1인 제작 국산 애니메이션 (2)",
+          "description": "#애니메이션 #초대형 #우주전쟁 #슈퍼시바 #동물영상 #동물영화\n#외계침공 #UFO #초저가 #블록버스터 #ai로영화만들기 #ai영화\n#ai애니메이션"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "qi-DLV9x4jx2mq20MurVn09D4UI",
+      "id": "P0_QeVYd9Iw",
+      "snippet": {
+        "publishedAt": "2026-03-14T11:35:54Z",
+        "channelId": "UCd1TDyN0YhmdMTbvhSANthw",
+        "title": "초대형 블록버스터 애니메이션 (1)",
+        "description": "#애니메이션 #초대형 #우주전쟁 #슈퍼시바 #동물영상 #동물영화\n#외계침공 #UFO #초저가 #블록버스터 #ai로영화만들기 #ai영화\n#ai애니메이션",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/P0_QeVYd9Iw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/P0_QeVYd9Iw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/P0_QeVYd9Iw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/P0_QeVYd9Iw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/P0_QeVYd9Iw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뭐터",
+        "tags": [
+          "ai로 영화 만들기",
+          "ai로 영화 만드는 법",
+          "ai영화",
+          "ai 영화",
+          "저예산",
+          "초저가",
+          "1인영화",
+          "1인 영화",
+          "ai로 영상 만들기",
+          "ai로영상만들기",
+          "영상만드는법",
+          "영상 만드는 법",
+          "쉽게 영화 만들기",
+          "손쉽게 영화 만들기",
+          "히어로무비",
+          "히어로 무비",
+          "히어로",
+          "히어로영화",
+          "히어로 영화",
+          "7일",
+          "제작기간",
+          "최저제작기간",
+          "최저 제작기간",
+          "최저 제작비",
+          "최저제작비",
+          "영화",
+          "초대형",
+          "우주영화",
+          "우주 영화",
+          "making movies with ai",
+          "how to make movies with ai",
+          "ai movie",
+          "ai film",
+          "low budget",
+          "one person film",
+          "solo filmmaker",
+          "making videos with ai",
+          "how to make videos",
+          "epic scale",
+          "AIで映画を作る",
+          "AIで映画を作る方法",
+          "AI映画",
+          "AI 映画",
+          "低予算",
+          "超低予算",
+          "極低予算",
+          "一人映画",
+          "一人制作映画",
+          "AIで動画制作",
+          "AI動画制作",
+          "簡単に映画を作る",
+          "最低制作費",
+          "超大作"
+        ],
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "초대형 블록버스터 애니메이션 (1)",
+          "description": "#애니메이션 #초대형 #우주전쟁 #슈퍼시바 #동물영상 #동물영화\n#외계침공 #UFO #초저가 #블록버스터 #ai로영화만들기 #ai영화\n#ai애니메이션"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT1M",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "creativeCommon",
+        "embeddable": true,
+        "publicStatsViewable": false,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1817",
+        "likeCount": "11",
+        "favoriteCount": "0",
+        "commentCount": "6"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "초대형 블록버스터 애니메이션 (1)",
+          "description": "#애니메이션 #초대형 #우주전쟁 #슈퍼시바 #동물영상 #동물영화\n#외계침공 #UFO #초저가 #블록버스터 #ai로영화만들기 #ai영화\n#ai애니메이션"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "O-1ArueXO09smWuihE-__Di57b8",
+      "id": "bBFWGQao2gw",
+      "snippet": {
+        "publishedAt": "2026-03-13T11:37:14Z",
+        "channelId": "UCd1TDyN0YhmdMTbvhSANthw",
+        "title": "초능력을 가진 시바견은 과연 지구를 구할 존재인가? [슈퍼 시바]",
+        "description": "#애니메이션 #우주전쟁 #슈퍼시바 #동물영상 #동물영화\n#외계침공 #UFO #블록버스터 #ai로영화만들기 #ai영화\n#ai애니메이션 #초대형애니메이션 #어린이만화 #만화 #어린이영화\n#가족영화 #가족영상",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bBFWGQao2gw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bBFWGQao2gw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bBFWGQao2gw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bBFWGQao2gw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bBFWGQao2gw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뭐터",
+        "tags": [
+          "ai로 영화 만들기",
+          "ai로 영화 만드는 법",
+          "ai영화",
+          "ai 영화",
+          "저예산",
+          "초저가",
+          "1인영화",
+          "1인 영화",
+          "ai로 영상 만들기",
+          "ai로영상만들기",
+          "영상만드는법",
+          "영상 만드는 법",
+          "쉽게 영화 만들기",
+          "손쉽게 영화 만들기",
+          "히어로무비",
+          "히어로 무비",
+          "히어로",
+          "히어로영화",
+          "히어로 영화",
+          "7일",
+          "제작기간",
+          "최저제작기간",
+          "최저 제작기간",
+          "최저 제작비",
+          "최저제작비",
+          "영화",
+          "초대형",
+          "우주영화",
+          "우주 영화",
+          "making movies with ai",
+          "how to make movies with ai",
+          "ai movie",
+          "ai film",
+          "low budget",
+          "one person film",
+          "solo filmmaker",
+          "making videos with ai",
+          "how to make videos",
+          "epic scale",
+          "AIで映画を作る",
+          "AIで映画を作る方法",
+          "AI映画",
+          "AI 映画",
+          "低予算",
+          "超低予算",
+          "極低予算",
+          "一人映画",
+          "一人制作映画",
+          "AIで動画制作",
+          "AI動画制作",
+          "簡単に映画を作る",
+          "最低制作費",
+          "超大作"
+        ],
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "초능력을 가진 시바견은 과연 지구를 구할 존재인가? [슈퍼 시바]",
+          "description": "#애니메이션 #우주전쟁 #슈퍼시바 #동물영상 #동물영화\n#외계침공 #UFO #블록버스터 #ai로영화만들기 #ai영화\n#ai애니메이션 #초대형애니메이션 #어린이만화 #만화 #어린이영화\n#가족영화 #가족영상"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT10M23S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "creativeCommon",
+        "embeddable": true,
+        "publicStatsViewable": false,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "970",
+        "likeCount": "12",
+        "favoriteCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Entertainment",
+          "https://en.wikipedia.org/wiki/Film"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en": {
+          "title": "Can a Superpowered Shiba Inu Save the Earth? [Super Shiba]",
+          "description": "#Animation #SpaceWar #SuperShiba #AnimalVideo #AnimalMovie #AlienInvasion #UFO #Blockbuster #AIFilmmaking #AIMovie #AIAnimation #EpicAnimation #KidsCartoon #Cartoon #KidsMovie #FamilyMovie #FamilyVideo"
+        },
+        "ja": {
+          "title": "超能力を持つ柴犬は地球を救えるのか？【スーパーシバ】",
+          "description": "#アニメーション #宇宙戦争 #スーパーシバ #動物動画 #動物映画 #宇宙侵略 #UFO #ブロックバスター #AI映画制作 #AI映画 #AIアニメーション #超大作アニメ #子供向けアニメ #アニメ #子供映画 #家族映画 #家族動画"
+        },
+        "ko": {
+          "title": "초능력을 가진 시바견은 과연 지구를 구할 존재인가? [슈퍼 시바]",
+          "description": "#애니메이션 #우주전쟁 #슈퍼시바 #동물영상 #동물영화\n#외계침공 #UFO #블록버스터 #ai로영화만들기 #ai영화\n#ai애니메이션 #초대형애니메이션 #어린이만화 #만화 #어린이영화\n#가족영화 #가족영상"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "2yh2aiGAaIt9HN1s10ba3KI9DuY",
+      "id": "-FkTPL3xgc4",
+      "snippet": {
+        "publishedAt": "2026-03-12T11:33:26Z",
+        "channelId": "UCd1TDyN0YhmdMTbvhSANthw",
+        "title": "당신이 아직까지 본 적 없는 한국 영화 (7)",
+        "description": "#멸망고양이 #저예산영화 #초저예산 #한국영화 #블록버스터 #뇌절 #뇌절영화 #재난영화 #고양이 #동물영상 #동물영화 #괴수 #괴수영화",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-FkTPL3xgc4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-FkTPL3xgc4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-FkTPL3xgc4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-FkTPL3xgc4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-FkTPL3xgc4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뭐터",
+        "tags": [
+          "멸망고양이",
+          "멸망 고양이",
+          "한국형 블록버스터",
+          "한국영화",
+          "한국 영화",
+          "재난영화",
+          "재난 영화",
+          "고양이",
+          "고양이영상",
+          "고양이 영상",
+          "고양이 영화",
+          "고양이영화",
+          "동물영화",
+          "동물 영화",
+          "ai로 영화 만들기",
+          "ai로 영화 만드는 법",
+          "ai영화",
+          "ai 영화",
+          "뇌절",
+          "뇌절영화",
+          "뇌절 영화",
+          "뇌절영상",
+          "뇌절 영상",
+          "특수부대",
+          "저예산",
+          "초저가",
+          "초저예산",
+          "초 저예산",
+          "독립영화",
+          "독립 영화",
+          "1인영화",
+          "1인 영화",
+          "ai로 영상 만들기",
+          "ai로영상만들기",
+          "영상만드는법",
+          "영상 만드는 법",
+          "미친영화",
+          "미친 영화",
+          "멸망",
+          "korean movie",
+          "korean film",
+          "disaster movie",
+          "disaster film",
+          "how to make movies with ai",
+          "make movies with ai",
+          "ai movie",
+          "make videos with ai",
+          "韓国映画",
+          "AIで映画を作る",
+          "AIで映画を作る方法",
+          "AI映画",
+          "やりすぎ映画",
+          "一人映画",
+          "AIで動画作成",
+          "AIで動画を作る",
+          "動画の作り方"
+        ],
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "당신이 아직까지 본 적 없는 한국 영화 (7)",
+          "description": "#멸망고양이 #저예산영화 #초저예산 #한국영화 #블록버스터 #뇌절 #뇌절영화 #재난영화 #고양이 #동물영상 #동물영화 #괴수 #괴수영화"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT1M",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "creativeCommon",
+        "embeddable": true,
+        "publicStatsViewable": false,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "2693",
+        "likeCount": "8",
+        "favoriteCount": "0",
+        "commentCount": "9"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Entertainment",
+          "https://en.wikipedia.org/wiki/Film"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "당신이 아직까지 본 적 없는 한국 영화 (7)",
+          "description": "#멸망고양이 #저예산영화 #초저예산 #한국영화 #블록버스터 #뇌절 #뇌절영화 #재난영화 #고양이 #동물영상 #동물영화 #괴수 #괴수영화"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "2sy-r354jBOWlZk9j7fz3zmKu1U",
+      "id": "dmcc3DRs-50",
+      "snippet": {
+        "publishedAt": "2026-03-11T11:39:13Z",
+        "channelId": "UCd1TDyN0YhmdMTbvhSANthw",
+        "title": "고양이가 세상을 멸망 시킨다 (6)",
+        "description": "#멸망고양이 #저예산영화 #초저예산 #한국영화 #블록버스터 #뇌절 #뇌절영화 #재난영화 #고양이 #동물영상 #동물영화 #괴수 #괴수영화",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dmcc3DRs-50/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dmcc3DRs-50/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dmcc3DRs-50/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dmcc3DRs-50/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dmcc3DRs-50/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뭐터",
+        "tags": [
+          "멸망고양이",
+          "멸망 고양이",
+          "한국형 블록버스터",
+          "한국영화",
+          "한국 영화",
+          "재난영화",
+          "재난 영화",
+          "고양이",
+          "고양이영상",
+          "고양이 영상",
+          "고양이 영화",
+          "고양이영화",
+          "동물영화",
+          "동물 영화",
+          "ai로 영화 만들기",
+          "ai로 영화 만드는 법",
+          "ai영화",
+          "ai 영화",
+          "뇌절",
+          "뇌절영화",
+          "뇌절 영화",
+          "뇌절영상",
+          "뇌절 영상",
+          "특수부대",
+          "저예산",
+          "초저가",
+          "초저예산",
+          "초 저예산",
+          "독립영화",
+          "독립 영화",
+          "1인영화",
+          "1인 영화",
+          "ai로 영상 만들기",
+          "ai로영상만들기",
+          "영상만드는법",
+          "영상 만드는 법",
+          "미친영화",
+          "미친 영화",
+          "멸망",
+          "korean movie",
+          "korean film",
+          "disaster movie",
+          "disaster film",
+          "how to make movies with ai",
+          "make movies with ai",
+          "ai movie",
+          "make videos with ai",
+          "韓国映画",
+          "AIで映画を作る",
+          "AIで映画を作る方法",
+          "AI映画",
+          "やりすぎ映画",
+          "一人映画",
+          "AIで動画作成",
+          "AIで動画を作る",
+          "動画の作り方"
+        ],
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "고양이가 세상을 멸망 시킨다 (6)",
+          "description": "#멸망고양이 #저예산영화 #초저예산 #한국영화 #블록버스터 #뇌절 #뇌절영화 #재난영화 #고양이 #동물영상 #동물영화 #괴수 #괴수영화"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT57S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "creativeCommon",
+        "embeddable": true,
+        "publicStatsViewable": false,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1736",
+        "likeCount": "11",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Film"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "고양이가 세상을 멸망 시킨다 (6)",
+          "description": "#멸망고양이 #저예산영화 #초저예산 #한국영화 #블록버스터 #뇌절 #뇌절영화 #재난영화 #고양이 #동물영상 #동물영화 #괴수 #괴수영화"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "BrQ118zMWeEiFN_aRsAgQfEr5pM",
+      "id": "5L5I3gs-KkA",
+      "snippet": {
+        "publishedAt": "2026-03-11T02:38:04Z",
+        "channelId": "UCd1TDyN0YhmdMTbvhSANthw",
+        "title": "좆망 뇌절 한국 영화 (5)",
+        "description": "#멸망고양이 #저예산영화 #초저예산 #한국영화 #블록버스터 #뇌절 #뇌절영화 #재난영화 #고양이 #동물영상 #동물영화 #괴수 #괴수영화",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5L5I3gs-KkA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5L5I3gs-KkA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5L5I3gs-KkA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5L5I3gs-KkA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5L5I3gs-KkA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뭐터",
+        "tags": [
+          "멸망고양이",
+          "멸망 고양이",
+          "한국형 블록버스터",
+          "한국영화",
+          "한국 영화",
+          "재난영화",
+          "재난 영화",
+          "고양이",
+          "고양이영상",
+          "고양이 영상",
+          "고양이 영화",
+          "고양이영화",
+          "동물영화",
+          "동물 영화",
+          "ai로 영화 만들기",
+          "ai로 영화 만드는 법",
+          "ai영화",
+          "ai 영화",
+          "뇌절",
+          "뇌절영화",
+          "뇌절 영화",
+          "뇌절영상",
+          "뇌절 영상",
+          "특수부대",
+          "저예산",
+          "초저가",
+          "초저예산",
+          "초 저예산",
+          "독립영화",
+          "독립 영화",
+          "1인영화",
+          "1인 영화",
+          "ai로 영상 만들기",
+          "ai로영상만들기",
+          "영상만드는법",
+          "영상 만드는 법",
+          "미친영화",
+          "미친 영화",
+          "멸망",
+          "korean movie",
+          "korean film",
+          "disaster movie",
+          "disaster film",
+          "how to make movies with ai",
+          "make movies with ai",
+          "ai movie",
+          "make videos with ai",
+          "韓国映画",
+          "AIで映画を作る",
+          "AIで映画を作る方法",
+          "AI映画",
+          "やりすぎ映画",
+          "一人映画",
+          "AIで動画作成",
+          "AIで動画を作る",
+          "動画の作り方"
+        ],
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "좆망 뇌절 한국 영화 (5)",
+          "description": "#멸망고양이 #저예산영화 #초저예산 #한국영화 #블록버스터 #뇌절 #뇌절영화 #재난영화 #고양이 #동물영상 #동물영화 #괴수 #괴수영화"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT57S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "creativeCommon",
+        "embeddable": true,
+        "publicStatsViewable": false,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1529",
+        "likeCount": "5",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Entertainment",
+          "https://en.wikipedia.org/wiki/Film"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "좆망 뇌절 한국 영화 (5)",
+          "description": "#멸망고양이 #저예산영화 #초저예산 #한국영화 #블록버스터 #뇌절 #뇌절영화 #재난영화 #고양이 #동물영상 #동물영화 #괴수 #괴수영화"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "0Pft18boOtdq0hKkaVcj97e8wiI",
+      "id": "Mo8pQI_w7Wk",
+      "snippet": {
+        "publishedAt": "2026-03-10T11:01:06Z",
+        "channelId": "UCd1TDyN0YhmdMTbvhSANthw",
+        "title": "초저예산 영화의 현실 (4)",
+        "description": "#멸망고양이 #저예산영화 #초저예산 #한국영화 #블록버스터 #뇌절 #뇌절영화 #재난영화 #고양이 #동물영상 #동물영화 #괴수 #괴수영화",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Mo8pQI_w7Wk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Mo8pQI_w7Wk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Mo8pQI_w7Wk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Mo8pQI_w7Wk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Mo8pQI_w7Wk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뭐터",
+        "tags": [
+          "멸망고양이",
+          "멸망 고양이",
+          "한국형 블록버스터",
+          "한국영화",
+          "한국 영화",
+          "재난영화",
+          "재난 영화",
+          "고양이",
+          "고양이영상",
+          "고양이 영상",
+          "고양이 영화",
+          "고양이영화",
+          "동물영화",
+          "동물 영화",
+          "ai로 영화 만들기",
+          "ai로 영화 만드는 법",
+          "ai영화",
+          "ai 영화",
+          "뇌절",
+          "뇌절영화",
+          "뇌절 영화",
+          "뇌절영상",
+          "뇌절 영상",
+          "특수부대",
+          "저예산",
+          "초저가",
+          "초저예산",
+          "초 저예산",
+          "독립영화",
+          "독립 영화",
+          "1인영화",
+          "1인 영화",
+          "ai로 영상 만들기",
+          "ai로영상만들기",
+          "영상만드는법",
+          "영상 만드는 법",
+          "미친영화",
+          "미친 영화",
+          "멸망",
+          "korean movie",
+          "korean film",
+          "disaster movie",
+          "disaster film",
+          "how to make movies with ai",
+          "make movies with ai",
+          "ai movie",
+          "make videos with ai",
+          "韓国映画",
+          "AIで映画を作る",
+          "AIで映画を作る方法",
+          "AI映画",
+          "やりすぎ映画",
+          "一人映画",
+          "AIで動画作成",
+          "AIで動画を作る",
+          "動画の作り方"
+        ],
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "초저예산 영화의 현실 (4)",
+          "description": "#멸망고양이 #저예산영화 #초저예산 #한국영화 #블록버스터 #뇌절 #뇌절영화 #재난영화 #고양이 #동물영상 #동물영화 #괴수 #괴수영화"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT58S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "creativeCommon",
+        "embeddable": true,
+        "publicStatsViewable": false,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "2185",
+        "likeCount": "5",
+        "favoriteCount": "0",
+        "commentCount": "2"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Entertainment",
+          "https://en.wikipedia.org/wiki/Film"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "초저예산 영화의 현실 (4)",
+          "description": "#멸망고양이 #저예산영화 #초저예산 #한국영화 #블록버스터 #뇌절 #뇌절영화 #재난영화 #고양이 #동물영상 #동물영화 #괴수 #괴수영화"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "_zkk7gPC2ytSo2h_8ugPKjUICpw",
+      "id": "72OM4_kemWM",
+      "snippet": {
+        "publishedAt": "2026-03-09T11:18:16Z",
+        "channelId": "UCd1TDyN0YhmdMTbvhSANthw",
+        "title": "개좆망한 한국 영화 (3)",
+        "description": "#멸망고양이 #저예산영화 #초저예산 #한국영화 #블록버스터 #뇌절 #뇌절영화 #재난영화 #고양이 #동물영상 #동물영화 #괴수 #괴수영화",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/72OM4_kemWM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/72OM4_kemWM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/72OM4_kemWM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/72OM4_kemWM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/72OM4_kemWM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뭐터",
+        "tags": [
+          "멸망고양이",
+          "멸망 고양이",
+          "한국형 블록버스터",
+          "한국영화",
+          "한국 영화",
+          "재난영화",
+          "재난 영화",
+          "고양이",
+          "고양이영상",
+          "고양이 영상",
+          "고양이 영화",
+          "고양이영화",
+          "동물영화",
+          "동물 영화",
+          "ai로 영화 만들기",
+          "ai로 영화 만드는 법",
+          "ai영화",
+          "ai 영화",
+          "뇌절",
+          "뇌절영화",
+          "뇌절 영화",
+          "뇌절영상",
+          "뇌절 영상",
+          "특수부대",
+          "저예산",
+          "초저가",
+          "초저예산",
+          "초 저예산",
+          "독립영화",
+          "독립 영화",
+          "1인영화",
+          "1인 영화",
+          "ai로 영상 만들기",
+          "ai로영상만들기",
+          "영상만드는법",
+          "영상 만드는 법",
+          "미친영화",
+          "미친 영화",
+          "멸망",
+          "korean movie",
+          "korean film",
+          "disaster movie",
+          "disaster film",
+          "how to make movies with ai",
+          "make movies with ai",
+          "ai movie",
+          "make videos with ai",
+          "韓国映画",
+          "AIで映画を作る",
+          "AIで映画を作る方法",
+          "AI映画",
+          "やりすぎ映画",
+          "一人映画",
+          "AIで動画作成",
+          "AIで動画を作る",
+          "動画の作り方"
+        ],
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "개좆망한 한국 영화 (3)",
+          "description": "#멸망고양이 #저예산영화 #초저예산 #한국영화 #블록버스터 #뇌절 #뇌절영화 #재난영화 #고양이 #동물영상 #동물영화 #괴수 #괴수영화"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT55S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "creativeCommon",
+        "embeddable": true,
+        "publicStatsViewable": false,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "4322",
+        "likeCount": "12",
+        "favoriteCount": "0",
+        "commentCount": "6"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Entertainment",
+          "https://en.wikipedia.org/wiki/Film"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "개좆망한 한국 영화 (3)",
+          "description": "#멸망고양이 #저예산영화 #초저예산 #한국영화 #블록버스터 #뇌절 #뇌절영화 #재난영화 #고양이 #동물영상 #동물영화 #괴수 #괴수영화"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "6P4GuqFFdlEUuemzeJJTizI53MY",
+      "id": "1AwHwn8bssA",
+      "snippet": {
+        "publishedAt": "2026-03-08T22:50:00Z",
+        "channelId": "UCd1TDyN0YhmdMTbvhSANthw",
+        "title": "뇌절의 뇌절의 뇌절 영화 (2)",
+        "description": "#멸망고양이 #저예산영화 #초저예산 #한국영화 #블록버스터 #뇌절 #뇌절영화 #재난영화 #고양이 #동물영상 #동물영화 #괴수 #괴수영화",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1AwHwn8bssA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1AwHwn8bssA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1AwHwn8bssA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1AwHwn8bssA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1AwHwn8bssA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뭐터",
+        "tags": [
+          "멸망고양이",
+          "멸망 고양이",
+          "한국형 블록버스터",
+          "한국영화",
+          "한국 영화",
+          "재난영화",
+          "재난 영화",
+          "고양이",
+          "고양이영상",
+          "고양이 영상",
+          "고양이 영화",
+          "고양이영화",
+          "동물영화",
+          "동물 영화",
+          "ai로 영화 만들기",
+          "ai로 영화 만드는 법",
+          "ai영화",
+          "ai 영화",
+          "뇌절",
+          "뇌절영화",
+          "뇌절 영화",
+          "뇌절영상",
+          "뇌절 영상",
+          "특수부대",
+          "저예산",
+          "초저가",
+          "초저예산",
+          "초 저예산",
+          "독립영화",
+          "독립 영화",
+          "1인영화",
+          "1인 영화",
+          "ai로 영상 만들기",
+          "ai로영상만들기",
+          "영상만드는법",
+          "영상 만드는 법",
+          "미친영화",
+          "미친 영화",
+          "멸망",
+          "korean movie",
+          "korean film",
+          "disaster movie",
+          "disaster film",
+          "how to make movies with ai",
+          "make movies with ai",
+          "ai movie",
+          "make videos with ai",
+          "韓国映画",
+          "AIで映画を作る",
+          "AIで映画を作る方法",
+          "AI映画",
+          "やりすぎ映画",
+          "一人映画",
+          "AIで動画作成",
+          "AIで動画を作る",
+          "動画の作り方"
+        ],
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "뇌절의 뇌절의 뇌절 영화 (2)",
+          "description": "#멸망고양이 #저예산영화 #초저예산 #한국영화 #블록버스터 #뇌절 #뇌절영화 #재난영화 #고양이 #동물영상 #동물영화 #괴수 #괴수영화"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT59S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "creativeCommon",
+        "embeddable": true,
+        "publicStatsViewable": false,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "2232",
+        "likeCount": "7",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Entertainment",
+          "https://en.wikipedia.org/wiki/Film"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "뇌절의 뇌절의 뇌절 영화 (2)",
+          "description": "#멸망고양이 #저예산영화 #초저예산 #한국영화 #블록버스터 #뇌절 #뇌절영화 #재난영화 #고양이 #동물영상 #동물영화 #괴수 #괴수영화"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "6niiid9ccj8b1X2zzff4k2fXgJM",
+      "id": "lqSLWpYyc2s",
+      "snippet": {
+        "publishedAt": "2026-03-08T17:01:36Z",
+        "channelId": "UCd1TDyN0YhmdMTbvhSANthw",
+        "title": "50달러로 영화 찍었는데 감독이 미친놈이라 개좆망함 (1)",
+        "description": "#멸망고양이 #저예산영화 #초저예산 #한국영화 #블록버스터 #뇌절 #뇌절영화 #재난영화 #고양이 #동물영상 #동물영화 #괴수 #괴수영화",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lqSLWpYyc2s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lqSLWpYyc2s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lqSLWpYyc2s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lqSLWpYyc2s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lqSLWpYyc2s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뭐터",
+        "tags": [
+          "멸망고양이",
+          "멸망 고양이",
+          "한국형 블록버스터",
+          "한국영화",
+          "한국 영화",
+          "재난영화",
+          "재난 영화",
+          "고양이",
+          "고양이영상",
+          "고양이 영상",
+          "고양이 영화",
+          "고양이영화",
+          "동물영화",
+          "동물 영화",
+          "ai로 영화 만들기",
+          "ai로 영화 만드는 법",
+          "ai영화",
+          "ai 영화",
+          "뇌절",
+          "뇌절영화",
+          "뇌절 영화",
+          "뇌절영상",
+          "뇌절 영상",
+          "특수부대",
+          "저예산",
+          "초저가",
+          "초저예산",
+          "초 저예산",
+          "독립영화",
+          "독립 영화",
+          "1인영화",
+          "1인 영화",
+          "ai로 영상 만들기",
+          "ai로영상만들기",
+          "영상만드는법",
+          "영상 만드는 법",
+          "미친영화",
+          "미친 영화",
+          "멸망",
+          "korean movie",
+          "korean film",
+          "disaster movie",
+          "disaster film",
+          "how to make movies with ai",
+          "make movies with ai",
+          "ai movie",
+          "make videos with ai",
+          "韓国映画",
+          "AIで映画を作る",
+          "AIで映画を作る方法",
+          "AI映画",
+          "やりすぎ映画",
+          "一人映画",
+          "AIで動画作成",
+          "AIで動画を作る",
+          "動画の作り方",
+          "動画 作り方"
+        ],
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "50달러로 영화 찍었는데 감독이 미친놈이라 개좆망함 (1)",
+          "description": "#멸망고양이 #저예산영화 #초저예산 #한국영화 #블록버스터 #뇌절 #뇌절영화 #재난영화 #고양이 #동물영상 #동물영화 #괴수 #괴수영화"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT1M",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "creativeCommon",
+        "embeddable": true,
+        "publicStatsViewable": false,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "3054",
+        "likeCount": "13",
+        "favoriteCount": "0",
+        "commentCount": "5"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Entertainment",
+          "https://en.wikipedia.org/wiki/Film"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "50달러로 영화 찍었는데 감독이 미친놈이라 개좆망함 (1)",
+          "description": "#멸망고양이 #저예산영화 #초저예산 #한국영화 #블록버스터 #뇌절 #뇌절영화 #재난영화 #고양이 #동물영상 #동물영화 #괴수 #괴수영화"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "q0i5OMoebRh8kuykjy4teqM3K3E",
+      "id": "2Rl0qAZoZHY",
+      "snippet": {
+        "publishedAt": "2026-03-08T10:06:07Z",
+        "channelId": "UCd1TDyN0YhmdMTbvhSANthw",
+        "title": "고양이로 인해 지구가 멸망한다? [멸망 고양이]",
+        "description": "#멸망고양이 #저예산영화 #초저예산 #한국영화 #블록버스터 #뇌절 #뇌절영화 #재난영화 #고양이 #동물영상 #동물영화 #괴수 #괴수영화 #고양이영화 #지구멸망 #멸망 #쓰나미",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2Rl0qAZoZHY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2Rl0qAZoZHY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2Rl0qAZoZHY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2Rl0qAZoZHY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2Rl0qAZoZHY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "뭐터",
+        "tags": [
+          "멸망고양이",
+          "멸망 고양이",
+          "한국형 블록버스터",
+          "한국영화",
+          "한국 영화",
+          "재난영화",
+          "재난 영화",
+          "고양이",
+          "고양이영상",
+          "고양이 영상",
+          "고양이 영화",
+          "고양이영화",
+          "동물영화",
+          "동물 영화",
+          "ai로 영화 만들기",
+          "ai로 영화 만드는 법",
+          "ai영화",
+          "ai 영화",
+          "뇌절",
+          "뇌절영화",
+          "뇌절 영화",
+          "뇌절영상",
+          "뇌절 영상",
+          "특수부대",
+          "저예산",
+          "초저가",
+          "초저예산",
+          "초 저예산",
+          "독립영화",
+          "독립 영화",
+          "1인영화",
+          "1인 영화",
+          "ai로 영상 만들기",
+          "ai로영상만들기",
+          "영상만드는법",
+          "영상 만드는 법",
+          "미친영화",
+          "미친 영화",
+          "멸망",
+          "korean movie",
+          "korean film",
+          "disaster movie",
+          "disaster film",
+          "how to make movies with ai",
+          "make movies with ai",
+          "ai movie",
+          "make videos with ai",
+          "韓国映画",
+          "AIで映画を作る",
+          "AIで映画を作る方法",
+          "AI映画",
+          "やりすぎ映画",
+          "一人映画",
+          "AIで動画作成",
+          "AIで動画を作る",
+          "動画の作り方",
+          "動画 作り方"
+        ],
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "고양이로 인해 지구가 멸망한다? [멸망 고양이]",
+          "description": "#멸망고양이 #저예산영화 #초저예산 #한국영화 #블록버스터 #뇌절 #뇌절영화 #재난영화 #고양이 #동물영상 #동물영화 #괴수 #괴수영화 #고양이영화 #지구멸망 #멸망 #쓰나미"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT10M2S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "creativeCommon",
+        "embeddable": true,
+        "publicStatsViewable": false,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1659",
+        "likeCount": "25",
+        "favoriteCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Entertainment",
+          "https://en.wikipedia.org/wiki/Film"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ja": {
+          "title": "猫のせいで地球が滅亡する！？【滅亡猫】",
+          "description": "#滅亡猫 #低予算映画 #超低予算 #韓国映画 #ブロックバスター #ぶっ飛び映画 #カオス映画 #災害映画 #猫 #猫動画 #動物映画 #怪獣 #怪獣映画 #猫映画 #地球滅亡 #滅亡 #終末 #津波"
+        },
+        "ko": {
+          "title": "고양이로 인해 지구가 멸망한다? [멸망 고양이]",
+          "description": "#멸망고양이 #저예산영화 #초저예산 #한국영화 #블록버스터 #뇌절 #뇌절영화 #재난영화 #고양이 #동물영상 #동물영화 #괴수 #괴수영화 #고양이영화 #지구멸망 #멸망 #쓰나미"
+        },
+        "en": {
+          "title": "The Earth Gets Destroyed by Cats?! [Apocalypse Cat]",
+          "description": "#ApocalypseCat #LowBudgetMovie #UltraLowBudget #KoreanMovie #Blockbuster #AbsurdMovie #OverTheTop #DisasterMovie #Cat #CatVideo #AnimalMovie #Monster #MonsterMovie #CatMovie #EarthDestruction #Apocalypse #EndOfTheWorld #Tsunami"
+        }
+      }
+    }
+  ]
+}

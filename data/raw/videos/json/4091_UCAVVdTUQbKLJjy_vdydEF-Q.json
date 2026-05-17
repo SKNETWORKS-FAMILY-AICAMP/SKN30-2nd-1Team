@@ -1,0 +1,1122 @@
+{
+  "idx": 4091,
+  "channel_id": "UCAVVdTUQbKLJjy_vdydEF-Q",
+  "channel_title": "강학두 생방송",
+  "playlist_items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "bAgFR-8q2Mbu4dk8wJxr5QIuwLk",
+      "id": "VVVBVlZkVFVRYktMSmp5X3ZkeWRFRi1RLndSOGlIOHRKM0Nn",
+      "snippet": {
+        "publishedAt": "2020-08-16T16:28:11Z",
+        "channelId": "UCAVVdTUQbKLJjy_vdydEF-Q",
+        "title": "20200817 냉면 시킴 ㅎㅎ",
+        "description": "This stream is created with #PRISMLiveStudio",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wR8iH8tJ3Cg/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wR8iH8tJ3Cg/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wR8iH8tJ3Cg/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wR8iH8tJ3Cg/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wR8iH8tJ3Cg/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "강학두 생방송",
+        "playlistId": "UUAVVdTUQbKLJjy_vdydEF-Q",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wR8iH8tJ3Cg"
+        },
+        "videoOwnerChannelTitle": "강학두 생방송",
+        "videoOwnerChannelId": "UCAVVdTUQbKLJjy_vdydEF-Q"
+      },
+      "contentDetails": {
+        "videoId": "wR8iH8tJ3Cg",
+        "videoPublishedAt": "2020-08-16T16:28:11Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "sU8J0vYM-eeqE-nvot8RSSmuaF4",
+      "id": "VVVBVlZkVFVRYktMSmp5X3ZkeWRFRi1RLjc3VFNJS1prbjBR",
+      "snippet": {
+        "publishedAt": "2020-08-14T12:45:21Z",
+        "channelId": "UCAVVdTUQbKLJjy_vdydEF-Q",
+        "title": "20200812 루돌프 아님 코팩",
+        "description": "This stream is created with #PRISMLiveStudio",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/77TSIKZkn0Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/77TSIKZkn0Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/77TSIKZkn0Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/77TSIKZkn0Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/77TSIKZkn0Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "강학두 생방송",
+        "playlistId": "UUAVVdTUQbKLJjy_vdydEF-Q",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "77TSIKZkn0Q"
+        },
+        "videoOwnerChannelTitle": "강학두 생방송",
+        "videoOwnerChannelId": "UCAVVdTUQbKLJjy_vdydEF-Q"
+      },
+      "contentDetails": {
+        "videoId": "77TSIKZkn0Q",
+        "videoPublishedAt": "2020-08-14T12:45:21Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "vyx3JwDojTUXNtrRF5R8813oQqk",
+      "id": "VVVBVlZkVFVRYktMSmp5X3ZkeWRFRi1RLjROdVhiWXUxMVRn",
+      "snippet": {
+        "publishedAt": "2020-08-11T09:09:22Z",
+        "channelId": "UCAVVdTUQbKLJjy_vdydEF-Q",
+        "title": "20200807 강제 연장 방송 한 날",
+        "description": "This stream is created with #PRISMLiveStudio",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4NuXbYu11Tg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4NuXbYu11Tg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4NuXbYu11Tg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4NuXbYu11Tg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4NuXbYu11Tg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "강학두 생방송",
+        "playlistId": "UUAVVdTUQbKLJjy_vdydEF-Q",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4NuXbYu11Tg"
+        },
+        "videoOwnerChannelTitle": "강학두 생방송",
+        "videoOwnerChannelId": "UCAVVdTUQbKLJjy_vdydEF-Q"
+      },
+      "contentDetails": {
+        "videoId": "4NuXbYu11Tg",
+        "videoPublishedAt": "2020-08-11T09:09:22Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_YV2m6gD572SyCcNx2lx96xpAjk",
+      "id": "VVVBVlZkVFVRYktMSmp5X3ZkeWRFRi1RLkIzNUtRN1R1ckhr",
+      "snippet": {
+        "publishedAt": "2020-08-04T16:55:39Z",
+        "channelId": "UCAVVdTUQbKLJjy_vdydEF-Q",
+        "title": "20200801 팔월이네요 안녕!~",
+        "description": "This stream is created with #PRISMLiveStudio",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/B35KQ7TurHk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/B35KQ7TurHk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/B35KQ7TurHk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/B35KQ7TurHk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/B35KQ7TurHk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "강학두 생방송",
+        "playlistId": "UUAVVdTUQbKLJjy_vdydEF-Q",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "B35KQ7TurHk"
+        },
+        "videoOwnerChannelTitle": "강학두 생방송",
+        "videoOwnerChannelId": "UCAVVdTUQbKLJjy_vdydEF-Q"
+      },
+      "contentDetails": {
+        "videoId": "B35KQ7TurHk",
+        "videoPublishedAt": "2020-08-04T16:55:39Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "UcXpY0Jguxc4HumPzp3VUOkbWmc",
+      "id": "VVVBVlZkVFVRYktMSmp5X3ZkeWRFRi1RLmRaWkpNMV85d3g4",
+      "snippet": {
+        "publishedAt": "2020-08-01T23:04:07Z",
+        "channelId": "UCAVVdTUQbKLJjy_vdydEF-Q",
+        "title": "20200729  개명신청 완료 키키",
+        "description": "This stream is created with #PRISMLiveStudio",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dZZJM1_9wx8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dZZJM1_9wx8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dZZJM1_9wx8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dZZJM1_9wx8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dZZJM1_9wx8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "강학두 생방송",
+        "playlistId": "UUAVVdTUQbKLJjy_vdydEF-Q",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dZZJM1_9wx8"
+        },
+        "videoOwnerChannelTitle": "강학두 생방송",
+        "videoOwnerChannelId": "UCAVVdTUQbKLJjy_vdydEF-Q"
+      },
+      "contentDetails": {
+        "videoId": "dZZJM1_9wx8",
+        "videoPublishedAt": "2020-08-01T23:04:07Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "UtZul20q3anoP8YUb5EoHJBsQOg",
+      "id": "VVVBVlZkVFVRYktMSmp5X3ZkeWRFRi1RLnBMdmo1c1l1UUJN",
+      "snippet": {
+        "publishedAt": "2020-07-31T12:24:26Z",
+        "channelId": "UCAVVdTUQbKLJjy_vdydEF-Q",
+        "title": "20200728 프로필사진찍고 옴!!",
+        "description": "This stream is created with #PRISMLiveStudio",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pLvj5sYuQBM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pLvj5sYuQBM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pLvj5sYuQBM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pLvj5sYuQBM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pLvj5sYuQBM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "강학두 생방송",
+        "playlistId": "UUAVVdTUQbKLJjy_vdydEF-Q",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "pLvj5sYuQBM"
+        },
+        "videoOwnerChannelTitle": "강학두 생방송",
+        "videoOwnerChannelId": "UCAVVdTUQbKLJjy_vdydEF-Q"
+      },
+      "contentDetails": {
+        "videoId": "pLvj5sYuQBM",
+        "videoPublishedAt": "2020-07-31T12:24:26Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "0MLasGqYfNlwEWF6WV-NnpA3EpE",
+      "id": "VVVBVlZkVFVRYktMSmp5X3ZkeWRFRi1RLkNZelgwUjQ1OUcw",
+      "snippet": {
+        "publishedAt": "2020-07-28T08:49:25Z",
+        "channelId": "UCAVVdTUQbKLJjy_vdydEF-Q",
+        "title": "20200722 하이 강학두 떠들자",
+        "description": "This stream is created with #PRISMLiveStudio",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CYzX0R459G0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CYzX0R459G0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CYzX0R459G0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CYzX0R459G0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CYzX0R459G0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "강학두 생방송",
+        "playlistId": "UUAVVdTUQbKLJjy_vdydEF-Q",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CYzX0R459G0"
+        },
+        "videoOwnerChannelTitle": "강학두 생방송",
+        "videoOwnerChannelId": "UCAVVdTUQbKLJjy_vdydEF-Q"
+      },
+      "contentDetails": {
+        "videoId": "CYzX0R459G0",
+        "videoPublishedAt": "2020-07-28T08:49:25Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Q4fPY4UgW9QGr7aDuYRvxx6amzU",
+      "id": "VVVBVlZkVFVRYktMSmp5X3ZkeWRFRi1RLkNFREpkRlFVTHNF",
+      "snippet": {
+        "publishedAt": "2018-09-21T04:18:36Z",
+        "channelId": "UCAVVdTUQbKLJjy_vdydEF-Q",
+        "title": "SM오디션 봤던 게이 유튜버 이야기",
+        "description": "* 광고 후원 문의\n카카오톡 zeroseo\n인스타그램 7yxxs",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CEDJdFQULsE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CEDJdFQULsE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CEDJdFQULsE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CEDJdFQULsE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CEDJdFQULsE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "강학두 생방송",
+        "playlistId": "UUAVVdTUQbKLJjy_vdydEF-Q",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CEDJdFQULsE"
+        },
+        "videoOwnerChannelTitle": "강학두 생방송",
+        "videoOwnerChannelId": "UCAVVdTUQbKLJjy_vdydEF-Q"
+      },
+      "contentDetails": {
+        "videoId": "CEDJdFQULsE",
+        "videoPublishedAt": "2018-09-21T04:18:36Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "video_details": [
+    {
+      "kind": "youtube#video",
+      "etag": "ttYsI8HrzDj7BIejr0a9bVAkPsU",
+      "id": "wR8iH8tJ3Cg",
+      "snippet": {
+        "publishedAt": "2020-08-16T16:28:11Z",
+        "channelId": "UCAVVdTUQbKLJjy_vdydEF-Q",
+        "title": "20200817 냉면 시킴 ㅎㅎ",
+        "description": "This stream is created with #PRISMLiveStudio",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wR8iH8tJ3Cg/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wR8iH8tJ3Cg/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wR8iH8tJ3Cg/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wR8iH8tJ3Cg/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wR8iH8tJ3Cg/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "강학두 생방송",
+        "categoryId": "24",
+        "liveBroadcastContent": "upcoming",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "20200817 냉면 시킴 ㅎㅎ",
+          "description": "This stream is created with #PRISMLiveStudio"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "P0D",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "uploaded",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "0",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "20200817 냉면 시킴 ㅎㅎ",
+          "description": "This stream is created with #PRISMLiveStudio"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "The-HZxxDlwNoHfA2KA6lJNxA-g",
+      "id": "77TSIKZkn0Q",
+      "snippet": {
+        "publishedAt": "2020-08-14T12:45:21Z",
+        "channelId": "UCAVVdTUQbKLJjy_vdydEF-Q",
+        "title": "20200812 루돌프 아님 코팩",
+        "description": "This stream is created with #PRISMLiveStudio",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/77TSIKZkn0Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/77TSIKZkn0Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/77TSIKZkn0Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/77TSIKZkn0Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/77TSIKZkn0Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "강학두 생방송",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "20200812 루돌프 아님 코팩",
+          "description": "This stream is created with #PRISMLiveStudio"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT1H9M56S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "28177",
+        "likeCount": "264",
+        "favoriteCount": "0",
+        "commentCount": "32"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "20200812 루돌프 아님 코팩",
+          "description": "This stream is created with #PRISMLiveStudio"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "UInz2Kk8QITPZkAhvHjUEKQnkwg",
+      "id": "4NuXbYu11Tg",
+      "snippet": {
+        "publishedAt": "2020-08-11T09:09:22Z",
+        "channelId": "UCAVVdTUQbKLJjy_vdydEF-Q",
+        "title": "20200807 강제 연장 방송 한 날",
+        "description": "This stream is created with #PRISMLiveStudio",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4NuXbYu11Tg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4NuXbYu11Tg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4NuXbYu11Tg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4NuXbYu11Tg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4NuXbYu11Tg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "강학두 생방송",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "20200807 강제 연장 방송 한 날",
+          "description": "This stream is created with #PRISMLiveStudio"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT4H28M19S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "32444",
+        "likeCount": "375",
+        "favoriteCount": "0",
+        "commentCount": "29"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "20200807 강제 연장 방송 한 날",
+          "description": "This stream is created with #PRISMLiveStudio"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "jWG4J_FM325YzQKmPbLOBFAVqk0",
+      "id": "B35KQ7TurHk",
+      "snippet": {
+        "publishedAt": "2020-08-04T16:55:39Z",
+        "channelId": "UCAVVdTUQbKLJjy_vdydEF-Q",
+        "title": "20200801 팔월이네요 안녕!~",
+        "description": "This stream is created with #PRISMLiveStudio",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/B35KQ7TurHk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/B35KQ7TurHk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/B35KQ7TurHk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/B35KQ7TurHk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/B35KQ7TurHk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "강학두 생방송",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "20200801 팔월이네요 안녕!~",
+          "description": "This stream is created with #PRISMLiveStudio"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT2H22M51S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "16186",
+        "likeCount": "270",
+        "favoriteCount": "0",
+        "commentCount": "12"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "20200801 팔월이네요 안녕!~",
+          "description": "This stream is created with #PRISMLiveStudio"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "wM0vjJU7w3WQexWhxGd8hy-m_zw",
+      "id": "dZZJM1_9wx8",
+      "snippet": {
+        "publishedAt": "2020-08-01T23:04:07Z",
+        "channelId": "UCAVVdTUQbKLJjy_vdydEF-Q",
+        "title": "20200729  개명신청 완료 키키",
+        "description": "This stream is created with #PRISMLiveStudio",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dZZJM1_9wx8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dZZJM1_9wx8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dZZJM1_9wx8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dZZJM1_9wx8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dZZJM1_9wx8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "강학두 생방송",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "20200729  개명신청 완료 키키",
+          "description": "This stream is created with #PRISMLiveStudio"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT2H2M1S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "22257",
+        "likeCount": "403",
+        "favoriteCount": "0",
+        "commentCount": "13"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "20200729  개명신청 완료 키키",
+          "description": "This stream is created with #PRISMLiveStudio"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "v3bi3wyuiGGwK_b9sdyG05nbEGE",
+      "id": "pLvj5sYuQBM",
+      "snippet": {
+        "publishedAt": "2020-07-31T12:24:26Z",
+        "channelId": "UCAVVdTUQbKLJjy_vdydEF-Q",
+        "title": "20200728 프로필사진찍고 옴!!",
+        "description": "This stream is created with #PRISMLiveStudio",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pLvj5sYuQBM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pLvj5sYuQBM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pLvj5sYuQBM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pLvj5sYuQBM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pLvj5sYuQBM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "강학두 생방송",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "20200728 프로필사진찍고 옴!!",
+          "description": "This stream is created with #PRISMLiveStudio"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT2H6M11S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "15827",
+        "likeCount": "293",
+        "favoriteCount": "0",
+        "commentCount": "7"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "20200728 프로필사진찍고 옴!!",
+          "description": "This stream is created with #PRISMLiveStudio"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "SwPbDBQWY-km7KRTidurFJX8mOc",
+      "id": "CYzX0R459G0",
+      "snippet": {
+        "publishedAt": "2020-07-28T08:49:25Z",
+        "channelId": "UCAVVdTUQbKLJjy_vdydEF-Q",
+        "title": "20200722 하이 강학두 떠들자",
+        "description": "This stream is created with #PRISMLiveStudio",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CYzX0R459G0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CYzX0R459G0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CYzX0R459G0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CYzX0R459G0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CYzX0R459G0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "강학두 생방송",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "20200722 하이 강학두 떠들자",
+          "description": "This stream is created with #PRISMLiveStudio"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT1H52M27S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "19165",
+        "likeCount": "305",
+        "favoriteCount": "0",
+        "commentCount": "14"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "20200722 하이 강학두 떠들자",
+          "description": "This stream is created with #PRISMLiveStudio"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ZNGWZU6fnAhib5SxA5p_zJF0uHo",
+      "id": "CEDJdFQULsE",
+      "snippet": {
+        "publishedAt": "2018-09-21T04:18:36Z",
+        "channelId": "UCAVVdTUQbKLJjy_vdydEF-Q",
+        "title": "SM오디션 봤던 게이 유튜버 이야기",
+        "description": "* 광고 후원 문의\n카카오톡 zeroseo\n인스타그램 7yxxs",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CEDJdFQULsE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CEDJdFQULsE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CEDJdFQULsE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CEDJdFQULsE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CEDJdFQULsE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "강학두 생방송",
+        "tags": [
+          "게이",
+          "gay",
+          "퀴어",
+          "퀴어축제",
+          "트랜스젠더",
+          "장추자",
+          "꽃자",
+          "어링",
+          "멍멍주녕",
+          "동성애자",
+          "성소수자",
+          "종로",
+          "국민다솜",
+          "서우",
+          "미미",
+          "왕언니",
+          "여제",
+          "이태원",
+          "동성애",
+          "트랜스",
+          "유튜버",
+          "트랜스젠더웨이터",
+          "신입유튜버",
+          "이열",
+          "신입bj",
+          "남캠",
+          "강학두",
+          "학두",
+          "게이남캠",
+          "채림",
+          "큐영",
+          "레오제이",
+          "김똘똘",
+          "현이네",
+          "찬이네",
+          "찬이네백승찬",
+          "창현",
+          "세야",
+          "너굴승주",
+          "승주",
+          "파티",
+          "김민서",
+          "열애",
+          "김보은",
+          "채널김철수",
+          "김철수",
+          "혁이범이",
+          "남욱이",
+          "SM오디션",
+          "SM",
+          "오디션",
+          "가수",
+          "가수연습생"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "SM오디션 봤던 게이 유튜버 이야기",
+          "description": "* 광고 후원 문의\n카카오톡 zeroseo\n인스타그램 7yxxs"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT5M17S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "94972",
+        "likeCount": "1188",
+        "favoriteCount": "0",
+        "commentCount": "108"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "SM오디션 봤던 게이 유튜버 이야기",
+          "description": "* 광고 후원 문의\n카카오톡 zeroseo\n인스타그램 7yxxs"
+        }
+      }
+    }
+  ]
+}

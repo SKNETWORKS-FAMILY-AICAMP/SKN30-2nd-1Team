@@ -1,0 +1,187 @@
+{
+  "idx": 5322,
+  "channel_id": "UCc4ZMzVmLySfz9b7ZuDIdhQ",
+  "channel_title": "내화",
+  "playlist_items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2Jic8sTc6uE7xZVJ7i9bDvl_yAw",
+      "id": "VVVjNFpNelZtTHlTZno5YjdadURJZGhRLm15LVBCY1UwLWgw",
+      "snippet": {
+        "publishedAt": "2025-12-16T11:14:50Z",
+        "channelId": "UCc4ZMzVmLySfz9b7ZuDIdhQ",
+        "title": "홋카이도 산장 브이로그*.❅·",
+        "description": "인스타그램 : ne.hwa",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/my-PBcU0-h0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/my-PBcU0-h0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/my-PBcU0-h0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/my-PBcU0-h0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/my-PBcU0-h0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "내화",
+        "playlistId": "UUc4ZMzVmLySfz9b7ZuDIdhQ",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "my-PBcU0-h0"
+        },
+        "videoOwnerChannelTitle": "내화",
+        "videoOwnerChannelId": "UCc4ZMzVmLySfz9b7ZuDIdhQ"
+      },
+      "contentDetails": {
+        "videoId": "my-PBcU0-h0",
+        "videoPublishedAt": "2025-12-16T11:14:50Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "video_details": [
+    {
+      "kind": "youtube#video",
+      "etag": "9O8lM5yAJmRhvkhzLT6X4csK28k",
+      "id": "my-PBcU0-h0",
+      "snippet": {
+        "publishedAt": "2025-12-16T11:14:50Z",
+        "channelId": "UCc4ZMzVmLySfz9b7ZuDIdhQ",
+        "title": "홋카이도 산장 브이로그*.❅·",
+        "description": "인스타그램 : ne.hwa",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/my-PBcU0-h0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/my-PBcU0-h0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/my-PBcU0-h0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/my-PBcU0-h0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/my-PBcU0-h0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "내화",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "홋카이도 산장 브이로그*.❅·",
+          "description": "인스타그램 : ne.hwa"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT10M13S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": false,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "99288",
+        "likeCount": "2500",
+        "favoriteCount": "0",
+        "commentCount": "576"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Food",
+          "https://en.wikipedia.org/wiki/Hobby",
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "it": {
+          "title": "Vlog dell'Hokkaido Mountain Lodge*.❅·",
+          "description": "Instagram: ne.hwa"
+        },
+        "ko": {
+          "title": "홋카이도 산장 브이로그*.❅·",
+          "description": "인스타그램 : ne.hwa"
+        },
+        "en": {
+          "title": "Hokkaido Mountain Lodge Vlog*.❅·",
+          "description": "Instagram: ne.hwa"
+        },
+        "pt-BR": {
+          "title": "Vlog de um chalé nas montanhas de Hokkaido*.❅·",
+          "description": "Instagram: ne.hwa"
+        },
+        "de-DE": {
+          "title": "Hokkaido Mountain Lodge Vlog*.❅·",
+          "description": "Instagram: ne.hwa"
+        },
+        "hi": {
+          "title": "होक्काइडो माउंटेन लॉज व्लॉग*.❅·",
+          "description": "इंस्टाग्राम: ne.hwa"
+        },
+        "ja": {
+          "title": "北海道の山荘Vlog*.❅·",
+          "description": "インスタグラム : ne.hwa"
+        },
+        "id": {
+          "title": "Vlog Penginapan Gunung Hokkaido*.❅·",
+          "description": "Instagram: ne.hwa"
+        },
+        "es-US": {
+          "title": "Vlog del albergue de montaña de Hokkaido*.❅·",
+          "description": "Instagram: ne.hwa"
+        },
+        "zh-CN": {
+          "title": "北海道山庄Vlog*.❅",
+          "description": "Instagram：ne.hwa"
+        },
+        "fr-FR": {
+          "title": "Vlog sur un lodge de montagne à Hokkaido*.❅·",
+          "description": "Instagram : ne.hwa"
+        }
+      }
+    }
+  ]
+}
