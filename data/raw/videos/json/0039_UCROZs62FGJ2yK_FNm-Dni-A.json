@@ -1,0 +1,136 @@
+{
+  "idx": 39,
+  "channel_id": "UCROZs62FGJ2yK_FNm-Dni-A",
+  "channel_title": "김민기",
+  "playlist_items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "LZvKZMaJHag8Eiks9wPWyJUm1GI",
+      "id": "VVVST1pzNjJGR0oyeUtfRk5tLURuaS1BLkVkTW1TaTIxQ1lZ",
+      "snippet": {
+        "publishedAt": "2016-12-30T01:40:21Z",
+        "channelId": "UCROZs62FGJ2yK_FNm-Dni-A",
+        "title": "20161228 김민기 의원, 조윤선 장관에게 블랙리스트 질의",
+        "description": "2016년 12월 28일 교육문화체육관광위원회 전체회의에서 더불어민주당 김민기 의원은 조윤선 장관에게 '문화계 블랙리스트' 관련하여 질의했습니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EdMmSi21CYY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EdMmSi21CYY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EdMmSi21CYY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "김민기",
+        "playlistId": "UUROZs62FGJ2yK_FNm-Dni-A",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "EdMmSi21CYY"
+        },
+        "videoOwnerChannelTitle": "김민기",
+        "videoOwnerChannelId": "UCROZs62FGJ2yK_FNm-Dni-A"
+      },
+      "contentDetails": {
+        "videoId": "EdMmSi21CYY",
+        "videoPublishedAt": "2016-12-30T01:40:21Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "video_details": [
+    {
+      "kind": "youtube#video",
+      "etag": "sflCHI1vpGi96iYKrdFuiOo4-uw",
+      "id": "EdMmSi21CYY",
+      "snippet": {
+        "publishedAt": "2016-12-30T01:40:21Z",
+        "channelId": "UCROZs62FGJ2yK_FNm-Dni-A",
+        "title": "20161228 김민기 의원, 조윤선 장관에게 블랙리스트 질의",
+        "description": "2016년 12월 28일 교육문화체육관광위원회 전체회의에서 더불어민주당 김민기 의원은 조윤선 장관에게 '문화계 블랙리스트' 관련하여 질의했습니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EdMmSi21CYY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EdMmSi21CYY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EdMmSi21CYY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "김민기",
+        "tags": [
+          "김민기의원",
+          "조윤선",
+          "더불어민주당",
+          "최순실게이트",
+          "용인국회의원",
+          "더민주",
+          "블랙리스트",
+          "문화계 블랙리스트"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "20161228 김민기 의원, 조윤선 장관에게 블랙리스트 질의",
+          "description": "2016년 12월 28일 교육문화체육관광위원회 전체회의에서 더불어민주당 김민기 의원은 조윤선 장관에게 '문화계 블랙리스트' 관련하여 질의했습니다."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT7M43S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "107",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Politics",
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "20161228 김민기 의원, 조윤선 장관에게 블랙리스트 질의",
+          "description": "2016년 12월 28일 교육문화체육관광위원회 전체회의에서 더불어민주당 김민기 의원은 조윤선 장관에게 '문화계 블랙리스트' 관련하여 질의했습니다."
+        }
+      }
+    }
+  ]
+}

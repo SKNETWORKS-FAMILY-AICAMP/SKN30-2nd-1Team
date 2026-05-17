@@ -1,0 +1,2961 @@
+{
+  "idx": 1288,
+  "channel_id": "UCRt9HplSpDWUFBc_uaX1r5g",
+  "channel_title": "세이세이세이",
+  "playlist_items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "KUZpWekhNTqwdxVKlC89Pq8-MIk",
+      "id": "VVVSdDlIcGxTcERXVUZCY191YVgxcjVnLmZoUWtmV0pmc25z",
+      "snippet": {
+        "publishedAt": "2026-03-04T05:37:44Z",
+        "channelId": "UCRt9HplSpDWUFBc_uaX1r5g",
+        "title": "테스트",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fhQkfWJfsns/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fhQkfWJfsns/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fhQkfWJfsns/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fhQkfWJfsns/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fhQkfWJfsns/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "세이세이세이",
+        "playlistId": "UURt9HplSpDWUFBc_uaX1r5g",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fhQkfWJfsns"
+        },
+        "videoOwnerChannelTitle": "세이세이세이",
+        "videoOwnerChannelId": "UCRt9HplSpDWUFBc_uaX1r5g"
+      },
+      "contentDetails": {
+        "videoId": "fhQkfWJfsns",
+        "videoPublishedAt": "2026-03-04T05:37:44Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "5O-Qjer1MICBY7EudaSArb3UZfk",
+      "id": "VVVSdDlIcGxTcERXVUZCY191YVgxcjVnLllwbDNpWmtVTmc4",
+      "snippet": {
+        "publishedAt": "2023-09-23T12:29:49Z",
+        "channelId": "UCRt9HplSpDWUFBc_uaX1r5g",
+        "title": "과연 필리핀 전직 어부는 물고기를 얼마나 잡을까? 리얼 필리핀 이야기",
+        "description": "과연 필리핀 전직 어부는 물고기를 얼마나 잡을까? 리얼 필리핀 이야기",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ypl3iZkUNg8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ypl3iZkUNg8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ypl3iZkUNg8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ypl3iZkUNg8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Ypl3iZkUNg8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "세이세이세이",
+        "playlistId": "UURt9HplSpDWUFBc_uaX1r5g",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Ypl3iZkUNg8"
+        },
+        "videoOwnerChannelTitle": "세이세이세이",
+        "videoOwnerChannelId": "UCRt9HplSpDWUFBc_uaX1r5g"
+      },
+      "contentDetails": {
+        "videoId": "Ypl3iZkUNg8",
+        "videoPublishedAt": "2023-09-23T12:29:49Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "SZnZEFkeSXlvNS_-dwQZ5DX3gi0",
+      "id": "VVVSdDlIcGxTcERXVUZCY191YVgxcjVnLmVRYURjUUhXVlNF",
+      "snippet": {
+        "publishedAt": "2023-03-13T02:53:10Z",
+        "channelId": "UCRt9HplSpDWUFBc_uaX1r5g",
+        "title": "시골에서 가스통을 사려고 했는데.. 가격이 이렇게나 비싸다고?.. 결국은.. 부품만?",
+        "description": "시골에서 가스통을 사려고 했는데.. 가격이 이렇게나 비싸다고?.. 결국은.. 부품만?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eQaDcQHWVSE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eQaDcQHWVSE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eQaDcQHWVSE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eQaDcQHWVSE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eQaDcQHWVSE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "세이세이세이",
+        "playlistId": "UURt9HplSpDWUFBc_uaX1r5g",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "eQaDcQHWVSE"
+        },
+        "videoOwnerChannelTitle": "세이세이세이",
+        "videoOwnerChannelId": "UCRt9HplSpDWUFBc_uaX1r5g"
+      },
+      "contentDetails": {
+        "videoId": "eQaDcQHWVSE",
+        "videoPublishedAt": "2023-03-13T02:53:10Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "r4vQhBFtHTUqD-X0Uy1nltGDZvw",
+      "id": "VVVSdDlIcGxTcERXVUZCY191YVgxcjVnLm1MRW1iRVZZRHZB",
+      "snippet": {
+        "publishedAt": "2023-03-04T21:00:15Z",
+        "channelId": "UCRt9HplSpDWUFBc_uaX1r5g",
+        "title": "필리핀 사람이 떠나는 필리핀 세부 여행? 그리고 필리핀 사람들이 생활 이야기(투말록 폭포, 오래된 성당)",
+        "description": "필리핀 사람이 떠나는 필리핀 세부 여행? 그리고 필리핀 사람들이 생활 이야기(투말록 폭포, 오래된 성당)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mLEmbEVYDvA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mLEmbEVYDvA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mLEmbEVYDvA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mLEmbEVYDvA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mLEmbEVYDvA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "세이세이세이",
+        "playlistId": "UURt9HplSpDWUFBc_uaX1r5g",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "mLEmbEVYDvA"
+        },
+        "videoOwnerChannelTitle": "세이세이세이",
+        "videoOwnerChannelId": "UCRt9HplSpDWUFBc_uaX1r5g"
+      },
+      "contentDetails": {
+        "videoId": "mLEmbEVYDvA",
+        "videoPublishedAt": "2023-03-04T21:00:15Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ulPlQwuUhduQD5PYXYLK2FdgxIo",
+      "id": "VVVSdDlIcGxTcERXVUZCY191YVgxcjVnLklfeWJodk92cXZF",
+      "snippet": {
+        "publishedAt": "2023-02-26T00:44:18Z",
+        "channelId": "UCRt9HplSpDWUFBc_uaX1r5g",
+        "title": "와... 세부부부도 한번도 가보지 못한 샌드바가 있는 아름다운 섬.. !!",
+        "description": "와... 세부부부도 한번도 가보지 못한 샌드바가 있는 아름다운 섬.. !!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/I_ybhvOvqvE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/I_ybhvOvqvE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/I_ybhvOvqvE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/I_ybhvOvqvE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/I_ybhvOvqvE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "세이세이세이",
+        "playlistId": "UURt9HplSpDWUFBc_uaX1r5g",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "I_ybhvOvqvE"
+        },
+        "videoOwnerChannelTitle": "세이세이세이",
+        "videoOwnerChannelId": "UCRt9HplSpDWUFBc_uaX1r5g"
+      },
+      "contentDetails": {
+        "videoId": "I_ybhvOvqvE",
+        "videoPublishedAt": "2023-02-26T00:44:18Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_5J25PmT-L0fg6OVFrClzL_g73E",
+      "id": "VVVSdDlIcGxTcERXVUZCY191YVgxcjVnLlRScnhXaFZndFRJ",
+      "snippet": {
+        "publishedAt": "2023-02-19T11:54:03Z",
+        "channelId": "UCRt9HplSpDWUFBc_uaX1r5g",
+        "title": "전 세계에서 몰리는.. 필리핀에서 가장 유명한 여행지?? (지순이 할아버지, 토끼가 태어났어요, 오슬롭 고래상어)",
+        "description": "전 세계에서 몰리는.. 필리핀에서 가장 유명한 여행지?? (지순이 할아버지, 토끼가 태어났어요)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TRrxWhVgtTI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TRrxWhVgtTI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TRrxWhVgtTI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TRrxWhVgtTI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TRrxWhVgtTI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "세이세이세이",
+        "playlistId": "UURt9HplSpDWUFBc_uaX1r5g",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "TRrxWhVgtTI"
+        },
+        "videoOwnerChannelTitle": "세이세이세이",
+        "videoOwnerChannelId": "UCRt9HplSpDWUFBc_uaX1r5g"
+      },
+      "contentDetails": {
+        "videoId": "TRrxWhVgtTI",
+        "videoPublishedAt": "2023-02-19T11:54:03Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "__wBPfpmV0CCm7QlQHAR1fEUqFg",
+      "id": "VVVSdDlIcGxTcERXVUZCY191YVgxcjVnLmc5dGRfNTk2aEE0",
+      "snippet": {
+        "publishedAt": "2023-02-18T11:00:34Z",
+        "channelId": "UCRt9HplSpDWUFBc_uaX1r5g",
+        "title": "필리핀 세부에 혼자 여행가면 속을 수 밖에 없는 거짓말?, 현지인이 떠나는 필리핀 세부 여행 (필리핀 세부 시말라 성당)",
+        "description": "필리핀 세부에 혼자 여행가면 속을 수 밖에 없는 바가지, 현지인이 떠나는 필리핀 세부 여행 (필리핀 세부 시말라 성당)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/g9td_596hA4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/g9td_596hA4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/g9td_596hA4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/g9td_596hA4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/g9td_596hA4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "세이세이세이",
+        "playlistId": "UURt9HplSpDWUFBc_uaX1r5g",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "g9td_596hA4"
+        },
+        "videoOwnerChannelTitle": "세이세이세이",
+        "videoOwnerChannelId": "UCRt9HplSpDWUFBc_uaX1r5g"
+      },
+      "contentDetails": {
+        "videoId": "g9td_596hA4",
+        "videoPublishedAt": "2023-02-18T11:00:34Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "jWaK2aTJTNtZmf9HJhSqoMJ6qSk",
+      "id": "VVVSdDlIcGxTcERXVUZCY191YVgxcjVnLlUtenhxaVg3UmZz",
+      "snippet": {
+        "publishedAt": "2023-02-17T12:35:07Z",
+        "channelId": "UCRt9HplSpDWUFBc_uaX1r5g",
+        "title": "필리핀 직원이 떠나는 세부 여행, 가장 처음 방문한 곳이 여기라고?",
+        "description": "필리핀 직원이 떠나는 세부 여행, 가장 처음 방문한 곳이 여기라고?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/U-zxqiX7Rfs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/U-zxqiX7Rfs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/U-zxqiX7Rfs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/U-zxqiX7Rfs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/U-zxqiX7Rfs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "세이세이세이",
+        "playlistId": "UURt9HplSpDWUFBc_uaX1r5g",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "U-zxqiX7Rfs"
+        },
+        "videoOwnerChannelTitle": "세이세이세이",
+        "videoOwnerChannelId": "UCRt9HplSpDWUFBc_uaX1r5g"
+      },
+      "contentDetails": {
+        "videoId": "U-zxqiX7Rfs",
+        "videoPublishedAt": "2023-02-17T12:35:07Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "1KpktZQZZSHwV2aEYgnzUpsFnK0",
+      "id": "VVVSdDlIcGxTcERXVUZCY191YVgxcjVnLnl0UExNR0NkZWJn",
+      "snippet": {
+        "publishedAt": "2023-02-16T11:59:53Z",
+        "channelId": "UCRt9HplSpDWUFBc_uaX1r5g",
+        "title": "(미공개영상)지붕이 없어 집안에 비가 들이치는 필리핀 직원의 집에서 일어난 일들",
+        "description": "(미공개영상)지붕이 없어 집안에 비가 들이치는 필리핀 직원의 집에서 일어난 일들",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ytPLMGCdebg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ytPLMGCdebg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ytPLMGCdebg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ytPLMGCdebg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ytPLMGCdebg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "세이세이세이",
+        "playlistId": "UURt9HplSpDWUFBc_uaX1r5g",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ytPLMGCdebg"
+        },
+        "videoOwnerChannelTitle": "세이세이세이",
+        "videoOwnerChannelId": "UCRt9HplSpDWUFBc_uaX1r5g"
+      },
+      "contentDetails": {
+        "videoId": "ytPLMGCdebg",
+        "videoPublishedAt": "2023-02-16T11:59:53Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "d3DAuzSrp0KL9Kz3WtZqDr0wOfI",
+      "id": "VVVSdDlIcGxTcERXVUZCY191YVgxcjVnLmhZOWtmc09lTW0w",
+      "snippet": {
+        "publishedAt": "2023-02-14T11:57:39Z",
+        "channelId": "UCRt9HplSpDWUFBc_uaX1r5g",
+        "title": "휴가 끝난 엄마가 간다고하자 펑펑우는 필리핀 아이..",
+        "description": "휴가 끝난 엄마가 간다고하자 펑펑우는 필리핀 아이..",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hY9kfsOeMm0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hY9kfsOeMm0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hY9kfsOeMm0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hY9kfsOeMm0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hY9kfsOeMm0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "세이세이세이",
+        "playlistId": "UURt9HplSpDWUFBc_uaX1r5g",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hY9kfsOeMm0"
+        },
+        "videoOwnerChannelTitle": "세이세이세이",
+        "videoOwnerChannelId": "UCRt9HplSpDWUFBc_uaX1r5g"
+      },
+      "contentDetails": {
+        "videoId": "hY9kfsOeMm0",
+        "videoPublishedAt": "2023-02-14T11:57:39Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "USgb4uZ9GBynMlRIJxaa0B2K01E",
+      "id": "VVVSdDlIcGxTcERXVUZCY191YVgxcjVnLjBMRDdpQUQ0dDhR",
+      "snippet": {
+        "publishedAt": "2023-02-13T11:26:30Z",
+        "channelId": "UCRt9HplSpDWUFBc_uaX1r5g",
+        "title": "친아빠를 만나고도 아무 말도 하지 않는 필리핀 아이..",
+        "description": "친아빠를 만나고도 아무 말도 하지 않는 필리핀 아이..",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0LD7iAD4t8Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0LD7iAD4t8Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0LD7iAD4t8Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0LD7iAD4t8Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0LD7iAD4t8Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "세이세이세이",
+        "playlistId": "UURt9HplSpDWUFBc_uaX1r5g",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0LD7iAD4t8Q"
+        },
+        "videoOwnerChannelTitle": "세이세이세이",
+        "videoOwnerChannelId": "UCRt9HplSpDWUFBc_uaX1r5g"
+      },
+      "contentDetails": {
+        "videoId": "0LD7iAD4t8Q",
+        "videoPublishedAt": "2023-02-13T11:26:30Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "o0kBHdSw7plCakFqvNtdEifRCfQ",
+      "id": "VVVSdDlIcGxTcERXVUZCY191YVgxcjVnLnlRMEEwaUpMZzVF",
+      "snippet": {
+        "publishedAt": "2023-01-31T11:23:16Z",
+        "channelId": "UCRt9HplSpDWUFBc_uaX1r5g",
+        "title": "정말 신기하고 행복한 필리핀 학교 가족의 날 행사.. 근데 아이들은 어디로?",
+        "description": "정말 신기한 필리핀 학교 가족의 날 행사.. 진짜 진짜 행복합니다. 꼭 보세요",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yQ0A0iJLg5E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yQ0A0iJLg5E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yQ0A0iJLg5E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yQ0A0iJLg5E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yQ0A0iJLg5E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "세이세이세이",
+        "playlistId": "UURt9HplSpDWUFBc_uaX1r5g",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "yQ0A0iJLg5E"
+        },
+        "videoOwnerChannelTitle": "세이세이세이",
+        "videoOwnerChannelId": "UCRt9HplSpDWUFBc_uaX1r5g"
+      },
+      "contentDetails": {
+        "videoId": "yQ0A0iJLg5E",
+        "videoPublishedAt": "2023-01-31T11:23:16Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "1vfjfieCPNM0XfG2P5i5px2-d7c",
+      "id": "VVVSdDlIcGxTcERXVUZCY191YVgxcjVnLjUtRF8xMV9Oc3hz",
+      "snippet": {
+        "publishedAt": "2023-01-19T11:04:07Z",
+        "channelId": "UCRt9HplSpDWUFBc_uaX1r5g",
+        "title": "필리핀 여자 젤라가 꼭 만드려고 하는 것은 무엇일까요? 필리핀 사람들의 진짜 이야기",
+        "description": "필리핀 여자 젤라가 꼭 만드려고 하는 것은 무엇일까요? 필리핀 사람들의 진짜 이야기",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5-D_11_Nsxs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5-D_11_Nsxs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5-D_11_Nsxs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5-D_11_Nsxs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5-D_11_Nsxs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "세이세이세이",
+        "playlistId": "UURt9HplSpDWUFBc_uaX1r5g",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "5-D_11_Nsxs"
+        },
+        "videoOwnerChannelTitle": "세이세이세이",
+        "videoOwnerChannelId": "UCRt9HplSpDWUFBc_uaX1r5g"
+      },
+      "contentDetails": {
+        "videoId": "5-D_11_Nsxs",
+        "videoPublishedAt": "2023-01-19T11:04:07Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "WY7IYqYqVwk-MwbqpSofeA-jJQg",
+      "id": "VVVSdDlIcGxTcERXVUZCY191YVgxcjVnLm5IQncyN2VEbG9j",
+      "snippet": {
+        "publishedAt": "2022-12-30T11:02:08Z",
+        "channelId": "UCRt9HplSpDWUFBc_uaX1r5g",
+        "title": "필리핀 사람이 만드는 진짜 필리핀 이야기. 복잡한 가정사 그리고 여행",
+        "description": "필리핀 사람이 만드는 진짜 필리핀 이야기. 복잡한 가정사 그리고 여행",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nHBw27eDloc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nHBw27eDloc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nHBw27eDloc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nHBw27eDloc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nHBw27eDloc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "세이세이세이",
+        "playlistId": "UURt9HplSpDWUFBc_uaX1r5g",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "nHBw27eDloc"
+        },
+        "videoOwnerChannelTitle": "세이세이세이",
+        "videoOwnerChannelId": "UCRt9HplSpDWUFBc_uaX1r5g"
+      },
+      "contentDetails": {
+        "videoId": "nHBw27eDloc",
+        "videoPublishedAt": "2022-12-30T11:02:08Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "SPFT28xB9Hwo3wnv0wWC-60cnsE",
+      "id": "VVVSdDlIcGxTcERXVUZCY191YVgxcjVnLnRkLUdqRUZldk1Z",
+      "snippet": {
+        "publishedAt": "2022-11-12T11:32:23Z",
+        "channelId": "UCRt9HplSpDWUFBc_uaX1r5g",
+        "title": "필리핀 가족이 온천을 가려고했는데... 첫째 아들이 없어졌다고?",
+        "description": "필리핀 가족이 온천을 가려고했는데... 첫째 아들이 없어졌다고?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/td-GjEFevMY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/td-GjEFevMY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/td-GjEFevMY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/td-GjEFevMY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/td-GjEFevMY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "세이세이세이",
+        "playlistId": "UURt9HplSpDWUFBc_uaX1r5g",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "td-GjEFevMY"
+        },
+        "videoOwnerChannelTitle": "세이세이세이",
+        "videoOwnerChannelId": "UCRt9HplSpDWUFBc_uaX1r5g"
+      },
+      "contentDetails": {
+        "videoId": "td-GjEFevMY",
+        "videoPublishedAt": "2022-11-12T11:32:23Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "y0Xe5nCaoSgJAuMcuWZtEBQJnxY",
+      "id": "VVVSdDlIcGxTcERXVUZCY191YVgxcjVnLm84a2pJLUE2Z0h3",
+      "snippet": {
+        "publishedAt": "2022-11-06T12:26:41Z",
+        "channelId": "UCRt9HplSpDWUFBc_uaX1r5g",
+        "title": "필리핀 시골 아이의 소박한 꿈",
+        "description": "필리핀 시골 아이의 소박한 꿈",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/o8kjI-A6gHw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/o8kjI-A6gHw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/o8kjI-A6gHw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/o8kjI-A6gHw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/o8kjI-A6gHw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "세이세이세이",
+        "playlistId": "UURt9HplSpDWUFBc_uaX1r5g",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "o8kjI-A6gHw"
+        },
+        "videoOwnerChannelTitle": "세이세이세이",
+        "videoOwnerChannelId": "UCRt9HplSpDWUFBc_uaX1r5g"
+      },
+      "contentDetails": {
+        "videoId": "o8kjI-A6gHw",
+        "videoPublishedAt": "2022-11-06T12:26:41Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "831Eza2gLmyKpBojAcKp2iDtclY",
+      "id": "VVVSdDlIcGxTcERXVUZCY191YVgxcjVnLmR0cE9vdVV4TXFr",
+      "snippet": {
+        "publishedAt": "2022-11-02T10:23:25Z",
+        "channelId": "UCRt9HplSpDWUFBc_uaX1r5g",
+        "title": "오토바이로만 들어 왔는데.. 규모가 이렇게 크다고? 필리핀 아이 럼럼의 생일 파티 준비",
+        "description": "오토바이로만 들어 왔는데.. 규모가 이렇게 크다고? 필리핀 아이 럼럼의 생일 파티 준비",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dtpOouUxMqk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dtpOouUxMqk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dtpOouUxMqk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dtpOouUxMqk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dtpOouUxMqk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "세이세이세이",
+        "playlistId": "UURt9HplSpDWUFBc_uaX1r5g",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dtpOouUxMqk"
+        },
+        "videoOwnerChannelTitle": "세이세이세이",
+        "videoOwnerChannelId": "UCRt9HplSpDWUFBc_uaX1r5g"
+      },
+      "contentDetails": {
+        "videoId": "dtpOouUxMqk",
+        "videoPublishedAt": "2022-11-02T10:23:25Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "UtPsGiamYbKq9sGmnIPzwma6WAg",
+      "id": "VVVSdDlIcGxTcERXVUZCY191YVgxcjVnLml6NG0zTTJrUEdR",
+      "snippet": {
+        "publishedAt": "2022-10-27T10:53:25Z",
+        "channelId": "UCRt9HplSpDWUFBc_uaX1r5g",
+        "title": "오토바이만 들어 갈 수 있는 숨겨진 리조트가 있다고? 근데 규모가.. 와..",
+        "description": "오토바이만 들어 갈 수 있는 숨겨진 리조트가 있다고? 근데 규모가.. 와..\n\n\n세부부부 인스타그램 → https://www.instagram.com/cebu_sei\n세부부부 이메일         → ardw2328@gmail.com\n\n\n#필리핀 #세부 #cebu \n\n▬▬▬▬사용하시려면 아래의 출처를 남겨주셔야 합니다▬▬▬▬\n🎵Music provided by 브금대통령\n🎵Track : Kid's Room - https://youtu.be/e4w3WzWeFbg\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iz4m3M2kPGQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iz4m3M2kPGQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iz4m3M2kPGQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iz4m3M2kPGQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iz4m3M2kPGQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "세이세이세이",
+        "playlistId": "UURt9HplSpDWUFBc_uaX1r5g",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "iz4m3M2kPGQ"
+        },
+        "videoOwnerChannelTitle": "세이세이세이",
+        "videoOwnerChannelId": "UCRt9HplSpDWUFBc_uaX1r5g"
+      },
+      "contentDetails": {
+        "videoId": "iz4m3M2kPGQ",
+        "videoPublishedAt": "2022-10-27T10:53:25Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "hkXYm7UZXQ3EhGxZtOinWhDS6M0",
+      "id": "VVVSdDlIcGxTcERXVUZCY191YVgxcjVnLnlyVVpBa2ZraDJB",
+      "snippet": {
+        "publishedAt": "2022-10-20T11:05:35Z",
+        "channelId": "UCRt9HplSpDWUFBc_uaX1r5g",
+        "title": "사람만 보면 오줌을 누는 염소가 있다고? 진짜 필리핀 이야기",
+        "description": "사람만 보면 오줌을 누는 염소가 있다고? 진짜 필리핀 이야기\n\n세부부부 유튜브 구독 가족되기 ::  https://www.youtube.com/channel/UC5QCza-qtDmujX_lzIs9SJw?sub_confirmation=1 \n세부부부의 행복 힐링되는 영상을 바로바로 시청하시려면 구독은 필수!\n\n\n세부부부 인스타그램 → https://www.instagram.com/cebu_sei\n세부부부 이메일         → ardw2328@gmail.com\n\n\n#필리핀 #세부 #cebu \n\n▬▬▬▬사용하시려면 아래의 출처를 남겨주셔야 합니다▬▬▬▬\n🎵Music provided by 브금대통령\n🎵Track : Kid's Room - https://youtu.be/e4w3WzWeFbg\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yrUZAkfkh2A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yrUZAkfkh2A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yrUZAkfkh2A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yrUZAkfkh2A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yrUZAkfkh2A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "세이세이세이",
+        "playlistId": "UURt9HplSpDWUFBc_uaX1r5g",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "yrUZAkfkh2A"
+        },
+        "videoOwnerChannelTitle": "세이세이세이",
+        "videoOwnerChannelId": "UCRt9HplSpDWUFBc_uaX1r5g"
+      },
+      "contentDetails": {
+        "videoId": "yrUZAkfkh2A",
+        "videoPublishedAt": "2022-10-20T11:05:35Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "TiheH6v0vQVvlUP6ah_kHMDZaVo",
+      "id": "VVVSdDlIcGxTcERXVUZCY191YVgxcjVnLkF3ejJ3WFhwaW53",
+      "snippet": {
+        "publishedAt": "2022-10-18T11:54:40Z",
+        "channelId": "UCRt9HplSpDWUFBc_uaX1r5g",
+        "title": "쉬는 날 필리핀 여자직원이 찾은 이곳은 어딜까요?",
+        "description": "쉬는 날 필리핀 여자직원이 찾은 이곳은 어딜까요?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Awz2wXXpinw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Awz2wXXpinw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Awz2wXXpinw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Awz2wXXpinw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Awz2wXXpinw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "세이세이세이",
+        "playlistId": "UURt9HplSpDWUFBc_uaX1r5g",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Awz2wXXpinw"
+        },
+        "videoOwnerChannelTitle": "세이세이세이",
+        "videoOwnerChannelId": "UCRt9HplSpDWUFBc_uaX1r5g"
+      },
+      "contentDetails": {
+        "videoId": "Awz2wXXpinw",
+        "videoPublishedAt": "2022-10-18T11:54:40Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "djOZNxVA-e6637lwvup7XvHxbEs",
+      "id": "VVVSdDlIcGxTcERXVUZCY191YVgxcjVnLjhqcUhUVHlGTWVv",
+      "snippet": {
+        "publishedAt": "2022-10-17T10:58:26Z",
+        "channelId": "UCRt9HplSpDWUFBc_uaX1r5g",
+        "title": "진짜 필리핀 사람들의 진짜 사람사는 이야기 (무제한 삼겹살 돈 내고 안먹은 사연)",
+        "description": "진짜 필리핀 사람들의 진짜 사람사는 이야기 (무제한 삼겹살 돈 내고 안먹은 사연)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8jqHTTyFMeo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8jqHTTyFMeo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8jqHTTyFMeo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8jqHTTyFMeo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8jqHTTyFMeo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "세이세이세이",
+        "playlistId": "UURt9HplSpDWUFBc_uaX1r5g",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8jqHTTyFMeo"
+        },
+        "videoOwnerChannelTitle": "세이세이세이",
+        "videoOwnerChannelId": "UCRt9HplSpDWUFBc_uaX1r5g"
+      },
+      "contentDetails": {
+        "videoId": "8jqHTTyFMeo",
+        "videoPublishedAt": "2022-10-17T10:58:26Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "video_details": [
+    {
+      "kind": "youtube#video",
+      "etag": "D10JFdGtAwIB-Hg1X9gjPtbkjO0",
+      "id": "fhQkfWJfsns",
+      "snippet": {
+        "publishedAt": "2026-03-04T05:37:44Z",
+        "channelId": "UCRt9HplSpDWUFBc_uaX1r5g",
+        "title": "테스트",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fhQkfWJfsns/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fhQkfWJfsns/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fhQkfWJfsns/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fhQkfWJfsns/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fhQkfWJfsns/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "세이세이세이",
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "테스트",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT10M15S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "4248",
+        "likeCount": "485",
+        "favoriteCount": "0",
+        "commentCount": "37"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "테스트",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "heg9A8DSCoUvau8REgcbztmkIvY",
+      "id": "Ypl3iZkUNg8",
+      "snippet": {
+        "publishedAt": "2023-09-23T12:29:49Z",
+        "channelId": "UCRt9HplSpDWUFBc_uaX1r5g",
+        "title": "과연 필리핀 전직 어부는 물고기를 얼마나 잡을까? 리얼 필리핀 이야기",
+        "description": "과연 필리핀 전직 어부는 물고기를 얼마나 잡을까? 리얼 필리핀 이야기",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ypl3iZkUNg8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ypl3iZkUNg8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ypl3iZkUNg8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ypl3iZkUNg8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Ypl3iZkUNg8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "세이세이세이",
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "과연 필리핀 전직 어부는 물고기를 얼마나 잡을까? 리얼 필리핀 이야기",
+          "description": "과연 필리핀 전직 어부는 물고기를 얼마나 잡을까? 리얼 필리핀 이야기"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT15M56S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "51452",
+        "likeCount": "3816",
+        "favoriteCount": "0",
+        "commentCount": "135"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Hobby",
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+          "https://en.wikipedia.org/wiki/Pet"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "과연 필리핀 전직 어부는 물고기를 얼마나 잡을까? 리얼 필리핀 이야기",
+          "description": "과연 필리핀 전직 어부는 물고기를 얼마나 잡을까? 리얼 필리핀 이야기"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "OXjxLfc_RcEGr2n7gt_YgwK4lzI",
+      "id": "eQaDcQHWVSE",
+      "snippet": {
+        "publishedAt": "2023-03-13T02:53:10Z",
+        "channelId": "UCRt9HplSpDWUFBc_uaX1r5g",
+        "title": "시골에서 가스통을 사려고 했는데.. 가격이 이렇게나 비싸다고?.. 결국은.. 부품만?",
+        "description": "시골에서 가스통을 사려고 했는데.. 가격이 이렇게나 비싸다고?.. 결국은.. 부품만?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eQaDcQHWVSE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eQaDcQHWVSE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eQaDcQHWVSE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eQaDcQHWVSE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eQaDcQHWVSE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "세이세이세이",
+        "tags": [
+          "필리핀",
+          "세부",
+          "동남아",
+          "가스"
+        ],
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "시골에서 가스통을 사려고 했는데.. 가격이 이렇게나 비싸다고?.. 결국은.. 부품만?",
+          "description": "시골에서 가스통을 사려고 했는데.. 가격이 이렇게나 비싸다고?.. 결국은.. 부품만?"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT14M20S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "76880",
+        "likeCount": "4569",
+        "favoriteCount": "0",
+        "commentCount": "128"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "시골에서 가스통을 사려고 했는데.. 가격이 이렇게나 비싸다고?.. 결국은.. 부품만?",
+          "description": "시골에서 가스통을 사려고 했는데.. 가격이 이렇게나 비싸다고?.. 결국은.. 부품만?"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "NItzXf80dIuNqEjLglUyo7GjyFk",
+      "id": "mLEmbEVYDvA",
+      "snippet": {
+        "publishedAt": "2023-03-04T21:00:15Z",
+        "channelId": "UCRt9HplSpDWUFBc_uaX1r5g",
+        "title": "필리핀 사람이 떠나는 필리핀 세부 여행? 그리고 필리핀 사람들이 생활 이야기(투말록 폭포, 오래된 성당)",
+        "description": "필리핀 사람이 떠나는 필리핀 세부 여행? 그리고 필리핀 사람들이 생활 이야기(투말록 폭포, 오래된 성당)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mLEmbEVYDvA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mLEmbEVYDvA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mLEmbEVYDvA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mLEmbEVYDvA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mLEmbEVYDvA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "세이세이세이",
+        "tags": [
+          "필리핀",
+          "세부",
+          "투말록폭포",
+          "성당",
+          "세부 여행",
+          "필리핀 여행"
+        ],
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "필리핀 사람이 떠나는 필리핀 세부 여행? 그리고 필리핀 사람들이 생활 이야기(투말록 폭포, 오래된 성당)",
+          "description": "필리핀 사람이 떠나는 필리핀 세부 여행? 그리고 필리핀 사람들이 생활 이야기(투말록 폭포, 오래된 성당)"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT15M59S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "75574",
+        "likeCount": "5229",
+        "favoriteCount": "0",
+        "commentCount": "149"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+          "https://en.wikipedia.org/wiki/Tourism"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "필리핀 사람이 떠나는 필리핀 세부 여행? 그리고 필리핀 사람들이 생활 이야기(투말록 폭포, 오래된 성당)",
+          "description": "필리핀 사람이 떠나는 필리핀 세부 여행? 그리고 필리핀 사람들이 생활 이야기(투말록 폭포, 오래된 성당)"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "gh9sbY-ZifcECLMFsm4--9NdayU",
+      "id": "I_ybhvOvqvE",
+      "snippet": {
+        "publishedAt": "2023-02-26T00:44:18Z",
+        "channelId": "UCRt9HplSpDWUFBc_uaX1r5g",
+        "title": "와... 세부부부도 한번도 가보지 못한 샌드바가 있는 아름다운 섬.. !!",
+        "description": "와... 세부부부도 한번도 가보지 못한 샌드바가 있는 아름다운 섬.. !!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/I_ybhvOvqvE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/I_ybhvOvqvE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/I_ybhvOvqvE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/I_ybhvOvqvE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/I_ybhvOvqvE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "세이세이세이",
+        "tags": [
+          "필리핀",
+          "세부",
+          "수밀론"
+        ],
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "와... 세부부부도 한번도 가보지 못한 샌드바가 있는 아름다운 섬.. !!",
+          "description": "와... 세부부부도 한번도 가보지 못한 샌드바가 있는 아름다운 섬.. !!"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT12M44S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "42121",
+        "likeCount": "3841",
+        "favoriteCount": "0",
+        "commentCount": "113"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+          "https://en.wikipedia.org/wiki/Tourism"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "와... 세부부부도 한번도 가보지 못한 샌드바가 있는 아름다운 섬.. !!",
+          "description": "와... 세부부부도 한번도 가보지 못한 샌드바가 있는 아름다운 섬.. !!"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "tfW1Rnzaa2XHDT8kWjIqX4nRdqE",
+      "id": "TRrxWhVgtTI",
+      "snippet": {
+        "publishedAt": "2023-02-19T11:54:03Z",
+        "channelId": "UCRt9HplSpDWUFBc_uaX1r5g",
+        "title": "전 세계에서 몰리는.. 필리핀에서 가장 유명한 여행지?? (지순이 할아버지, 토끼가 태어났어요, 오슬롭 고래상어)",
+        "description": "전 세계에서 몰리는.. 필리핀에서 가장 유명한 여행지?? (지순이 할아버지, 토끼가 태어났어요)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TRrxWhVgtTI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TRrxWhVgtTI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TRrxWhVgtTI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TRrxWhVgtTI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TRrxWhVgtTI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "세이세이세이",
+        "tags": [
+          "오슬롭",
+          "고래상어"
+        ],
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "전 세계에서 몰리는.. 필리핀에서 가장 유명한 여행지?? (지순이 할아버지, 토끼가 태어났어요, 오슬롭 고래상어)",
+          "description": "전 세계에서 몰리는.. 필리핀에서 가장 유명한 여행지?? (지순이 할아버지, 토끼가 태어났어요)"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT12M4S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "48954",
+        "likeCount": "4297",
+        "favoriteCount": "0",
+        "commentCount": "130"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+          "https://en.wikipedia.org/wiki/Tourism"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "전 세계에서 몰리는.. 필리핀에서 가장 유명한 여행지?? (지순이 할아버지, 토끼가 태어났어요, 오슬롭 고래상어)",
+          "description": "전 세계에서 몰리는.. 필리핀에서 가장 유명한 여행지?? (지순이 할아버지, 토끼가 태어났어요)"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "6lROWjlc0Y3Z4q9VKp7ggpkENWQ",
+      "id": "g9td_596hA4",
+      "snippet": {
+        "publishedAt": "2023-02-18T11:00:34Z",
+        "channelId": "UCRt9HplSpDWUFBc_uaX1r5g",
+        "title": "필리핀 세부에 혼자 여행가면 속을 수 밖에 없는 거짓말?, 현지인이 떠나는 필리핀 세부 여행 (필리핀 세부 시말라 성당)",
+        "description": "필리핀 세부에 혼자 여행가면 속을 수 밖에 없는 바가지, 현지인이 떠나는 필리핀 세부 여행 (필리핀 세부 시말라 성당)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/g9td_596hA4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/g9td_596hA4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/g9td_596hA4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/g9td_596hA4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/g9td_596hA4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "세이세이세이",
+        "tags": [
+          "시말라성당"
+        ],
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "필리핀 세부에 혼자 여행가면 속을 수 밖에 없는 거짓말?, 현지인이 떠나는 필리핀 세부 여행 (필리핀 세부 시말라 성당)",
+          "description": "필리핀 세부에 혼자 여행가면 속을 수 밖에 없는 바가지, 현지인이 떠나는 필리핀 세부 여행 (필리핀 세부 시말라 성당)"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT12M14S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "54005",
+        "likeCount": "4279",
+        "favoriteCount": "0",
+        "commentCount": "121"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+          "https://en.wikipedia.org/wiki/Tourism"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "필리핀 세부에 혼자 여행가면 속을 수 밖에 없는 거짓말?, 현지인이 떠나는 필리핀 세부 여행 (필리핀 세부 시말라 성당)",
+          "description": "필리핀 세부에 혼자 여행가면 속을 수 밖에 없는 바가지, 현지인이 떠나는 필리핀 세부 여행 (필리핀 세부 시말라 성당)"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "_5ksGEFtIVDZVeGCwS2oYu57YOE",
+      "id": "U-zxqiX7Rfs",
+      "snippet": {
+        "publishedAt": "2023-02-17T12:35:07Z",
+        "channelId": "UCRt9HplSpDWUFBc_uaX1r5g",
+        "title": "필리핀 직원이 떠나는 세부 여행, 가장 처음 방문한 곳이 여기라고?",
+        "description": "필리핀 직원이 떠나는 세부 여행, 가장 처음 방문한 곳이 여기라고?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/U-zxqiX7Rfs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/U-zxqiX7Rfs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/U-zxqiX7Rfs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/U-zxqiX7Rfs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/U-zxqiX7Rfs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "세이세이세이",
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "필리핀 직원이 떠나는 세부 여행, 가장 처음 방문한 곳이 여기라고?",
+          "description": "필리핀 직원이 떠나는 세부 여행, 가장 처음 방문한 곳이 여기라고?"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT12M55S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "74327",
+        "likeCount": "5179",
+        "favoriteCount": "0",
+        "commentCount": "164"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+          "https://en.wikipedia.org/wiki/Tourism"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "필리핀 직원이 떠나는 세부 여행, 가장 처음 방문한 곳이 여기라고?",
+          "description": "필리핀 직원이 떠나는 세부 여행, 가장 처음 방문한 곳이 여기라고?"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "JGSqN4pXOdnRDiL3XD3lsEkcXr8",
+      "id": "ytPLMGCdebg",
+      "snippet": {
+        "publishedAt": "2023-02-16T11:59:53Z",
+        "channelId": "UCRt9HplSpDWUFBc_uaX1r5g",
+        "title": "(미공개영상)지붕이 없어 집안에 비가 들이치는 필리핀 직원의 집에서 일어난 일들",
+        "description": "(미공개영상)지붕이 없어 집안에 비가 들이치는 필리핀 직원의 집에서 일어난 일들",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ytPLMGCdebg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ytPLMGCdebg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ytPLMGCdebg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ytPLMGCdebg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ytPLMGCdebg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "세이세이세이",
+        "tags": [
+          "필리핀",
+          "세부",
+          "동남아",
+          "베트남",
+          "태국",
+          "캄보디아"
+        ],
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "(미공개영상)지붕이 없어 집안에 비가 들이치는 필리핀 직원의 집에서 일어난 일들",
+          "description": "(미공개영상)지붕이 없어 집안에 비가 들이치는 필리핀 직원의 집에서 일어난 일들"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT22M3S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "87108",
+        "likeCount": "5305",
+        "favoriteCount": "0",
+        "commentCount": "181"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "(미공개영상)지붕이 없어 집안에 비가 들이치는 필리핀 직원의 집에서 일어난 일들",
+          "description": "(미공개영상)지붕이 없어 집안에 비가 들이치는 필리핀 직원의 집에서 일어난 일들"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "rr7KORaqF_ypdFvQaYoz69riHls",
+      "id": "hY9kfsOeMm0",
+      "snippet": {
+        "publishedAt": "2023-02-14T11:57:39Z",
+        "channelId": "UCRt9HplSpDWUFBc_uaX1r5g",
+        "title": "휴가 끝난 엄마가 간다고하자 펑펑우는 필리핀 아이..",
+        "description": "휴가 끝난 엄마가 간다고하자 펑펑우는 필리핀 아이..",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hY9kfsOeMm0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hY9kfsOeMm0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hY9kfsOeMm0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hY9kfsOeMm0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hY9kfsOeMm0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "세이세이세이",
+        "tags": [
+          "필리핀",
+          "세부",
+          "이야기",
+          "로컬"
+        ],
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "휴가 끝난 엄마가 간다고하자 펑펑우는 필리핀 아이..",
+          "description": "휴가 끝난 엄마가 간다고하자 펑펑우는 필리핀 아이.."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT11M53S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "67277",
+        "likeCount": "5193",
+        "favoriteCount": "0",
+        "commentCount": "209"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "휴가 끝난 엄마가 간다고하자 펑펑우는 필리핀 아이..",
+          "description": "휴가 끝난 엄마가 간다고하자 펑펑우는 필리핀 아이.."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "uYO-UuaQo3e0ANyHeEP_X-qk3CI",
+      "id": "0LD7iAD4t8Q",
+      "snippet": {
+        "publishedAt": "2023-02-13T11:26:30Z",
+        "channelId": "UCRt9HplSpDWUFBc_uaX1r5g",
+        "title": "친아빠를 만나고도 아무 말도 하지 않는 필리핀 아이..",
+        "description": "친아빠를 만나고도 아무 말도 하지 않는 필리핀 아이..",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0LD7iAD4t8Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0LD7iAD4t8Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0LD7iAD4t8Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0LD7iAD4t8Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0LD7iAD4t8Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "세이세이세이",
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "친아빠를 만나고도 아무 말도 하지 않는 필리핀 아이..",
+          "description": "친아빠를 만나고도 아무 말도 하지 않는 필리핀 아이.."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT10M50S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "73037",
+        "likeCount": "4967",
+        "favoriteCount": "0",
+        "commentCount": "155"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "친아빠를 만나고도 아무 말도 하지 않는 필리핀 아이..",
+          "description": "친아빠를 만나고도 아무 말도 하지 않는 필리핀 아이.."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Nwhl3IyJzMOXXattIAaZULdFu9s",
+      "id": "yQ0A0iJLg5E",
+      "snippet": {
+        "publishedAt": "2023-01-31T11:23:16Z",
+        "channelId": "UCRt9HplSpDWUFBc_uaX1r5g",
+        "title": "정말 신기하고 행복한 필리핀 학교 가족의 날 행사.. 근데 아이들은 어디로?",
+        "description": "정말 신기한 필리핀 학교 가족의 날 행사.. 진짜 진짜 행복합니다. 꼭 보세요",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yQ0A0iJLg5E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yQ0A0iJLg5E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yQ0A0iJLg5E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yQ0A0iJLg5E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yQ0A0iJLg5E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "세이세이세이",
+        "tags": [
+          "philippines",
+          "cebu",
+          "rural",
+          "youtuber",
+          "세부",
+          "필리핀 여행",
+          "세부 여행",
+          "동남아 여행",
+          "유튜버",
+          "시골",
+          "마을",
+          "학교"
+        ],
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "정말 신기하고 행복한 필리핀 학교 가족의 날 행사.. 근데 아이들은 어디로?",
+          "description": "정말 신기한 필리핀 학교 가족의 날 행사.. 진짜 진짜 행복합니다. 꼭 보세요"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT15M6S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "78956",
+        "likeCount": "5449",
+        "favoriteCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "정말 신기하고 행복한 필리핀 학교 가족의 날 행사.. 근데 아이들은 어디로?",
+          "description": "정말 신기한 필리핀 학교 가족의 날 행사.. 진짜 진짜 행복합니다. 꼭 보세요"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "V5OihexroHeLv3RpS__thUj2AGA",
+      "id": "5-D_11_Nsxs",
+      "snippet": {
+        "publishedAt": "2023-01-19T11:04:07Z",
+        "channelId": "UCRt9HplSpDWUFBc_uaX1r5g",
+        "title": "필리핀 여자 젤라가 꼭 만드려고 하는 것은 무엇일까요? 필리핀 사람들의 진짜 이야기",
+        "description": "필리핀 여자 젤라가 꼭 만드려고 하는 것은 무엇일까요? 필리핀 사람들의 진짜 이야기",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5-D_11_Nsxs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5-D_11_Nsxs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5-D_11_Nsxs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5-D_11_Nsxs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5-D_11_Nsxs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "세이세이세이",
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "필리핀 여자 젤라가 꼭 만드려고 하는 것은 무엇일까요? 필리핀 사람들의 진짜 이야기",
+          "description": "필리핀 여자 젤라가 꼭 만드려고 하는 것은 무엇일까요? 필리핀 사람들의 진짜 이야기"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT16M38S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "98044",
+        "likeCount": "5725",
+        "favoriteCount": "0",
+        "commentCount": "164"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "필리핀 여자 젤라가 꼭 만드려고 하는 것은 무엇일까요? 필리핀 사람들의 진짜 이야기",
+          "description": "필리핀 여자 젤라가 꼭 만드려고 하는 것은 무엇일까요? 필리핀 사람들의 진짜 이야기"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "8OarYZsU9LhKK98R7CDNa_OFEi4",
+      "id": "nHBw27eDloc",
+      "snippet": {
+        "publishedAt": "2022-12-30T11:02:08Z",
+        "channelId": "UCRt9HplSpDWUFBc_uaX1r5g",
+        "title": "필리핀 사람이 만드는 진짜 필리핀 이야기. 복잡한 가정사 그리고 여행",
+        "description": "필리핀 사람이 만드는 진짜 필리핀 이야기. 복잡한 가정사 그리고 여행",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nHBw27eDloc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nHBw27eDloc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nHBw27eDloc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nHBw27eDloc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nHBw27eDloc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "세이세이세이",
+        "tags": [
+          "필리핀 유튜버",
+          "필리핀 유튜브",
+          "동남아"
+        ],
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "필리핀 사람이 만드는 진짜 필리핀 이야기. 복잡한 가정사 그리고 여행",
+          "description": "필리핀 사람이 만드는 진짜 필리핀 이야기. 복잡한 가정사 그리고 여행"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT23M25S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "120187",
+        "likeCount": "6500",
+        "favoriteCount": "0",
+        "commentCount": "207"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+          "https://en.wikipedia.org/wiki/Tourism"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "필리핀 사람이 만드는 진짜 필리핀 이야기. 복잡한 가정사 그리고 여행",
+          "description": "필리핀 사람이 만드는 진짜 필리핀 이야기. 복잡한 가정사 그리고 여행"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "6Wkf0hJ7rydMiujQl8r1IM47jlU",
+      "id": "td-GjEFevMY",
+      "snippet": {
+        "publishedAt": "2022-11-12T11:32:23Z",
+        "channelId": "UCRt9HplSpDWUFBc_uaX1r5g",
+        "title": "필리핀 가족이 온천을 가려고했는데... 첫째 아들이 없어졌다고?",
+        "description": "필리핀 가족이 온천을 가려고했는데... 첫째 아들이 없어졌다고?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/td-GjEFevMY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/td-GjEFevMY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/td-GjEFevMY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/td-GjEFevMY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/td-GjEFevMY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "세이세이세이",
+        "tags": [
+          "필리핀",
+          "세부",
+          "유튜브"
+        ],
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "필리핀 가족이 온천을 가려고했는데... 첫째 아들이 없어졌다고?",
+          "description": "필리핀 가족이 온천을 가려고했는데... 첫째 아들이 없어졌다고?"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT10M56S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "47181",
+        "likeCount": "3650",
+        "favoriteCount": "0",
+        "commentCount": "58"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "필리핀 가족이 온천을 가려고했는데... 첫째 아들이 없어졌다고?",
+          "description": "필리핀 가족이 온천을 가려고했는데... 첫째 아들이 없어졌다고?"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "KPUwDFpxPCoVuAW-6zavqea7lKY",
+      "id": "o8kjI-A6gHw",
+      "snippet": {
+        "publishedAt": "2022-11-06T12:26:41Z",
+        "channelId": "UCRt9HplSpDWUFBc_uaX1r5g",
+        "title": "필리핀 시골 아이의 소박한 꿈",
+        "description": "필리핀 시골 아이의 소박한 꿈",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/o8kjI-A6gHw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/o8kjI-A6gHw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/o8kjI-A6gHw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/o8kjI-A6gHw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/o8kjI-A6gHw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "세이세이세이",
+        "tags": [
+          "필리핀 유튜브"
+        ],
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "필리핀 시골 아이의 소박한 꿈",
+          "description": "필리핀 시골 아이의 소박한 꿈"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT11M11S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "52260",
+        "likeCount": "4070",
+        "favoriteCount": "0",
+        "commentCount": "69"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+          "https://en.wikipedia.org/wiki/Tourism"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "필리핀 시골 아이의 소박한 꿈",
+          "description": "필리핀 시골 아이의 소박한 꿈"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "m3tleNJrpaKTkdBDI_wtwunzivQ",
+      "id": "dtpOouUxMqk",
+      "snippet": {
+        "publishedAt": "2022-11-02T10:23:25Z",
+        "channelId": "UCRt9HplSpDWUFBc_uaX1r5g",
+        "title": "오토바이로만 들어 왔는데.. 규모가 이렇게 크다고? 필리핀 아이 럼럼의 생일 파티 준비",
+        "description": "오토바이로만 들어 왔는데.. 규모가 이렇게 크다고? 필리핀 아이 럼럼의 생일 파티 준비",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dtpOouUxMqk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dtpOouUxMqk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dtpOouUxMqk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dtpOouUxMqk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dtpOouUxMqk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "세이세이세이",
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "오토바이로만 들어 왔는데.. 규모가 이렇게 크다고? 필리핀 아이 럼럼의 생일 파티 준비",
+          "description": "오토바이로만 들어 왔는데.. 규모가 이렇게 크다고? 필리핀 아이 럼럼의 생일 파티 준비"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT14M20S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "56515",
+        "likeCount": "3750",
+        "favoriteCount": "0",
+        "commentCount": "122"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+          "https://en.wikipedia.org/wiki/Tourism"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "오토바이로만 들어 왔는데.. 규모가 이렇게 크다고? 필리핀 아이 럼럼의 생일 파티 준비",
+          "description": "오토바이로만 들어 왔는데.. 규모가 이렇게 크다고? 필리핀 아이 럼럼의 생일 파티 준비"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "9-y08qDSBc9M3AEzHII1Mgf5P6Q",
+      "id": "iz4m3M2kPGQ",
+      "snippet": {
+        "publishedAt": "2022-10-27T10:53:25Z",
+        "channelId": "UCRt9HplSpDWUFBc_uaX1r5g",
+        "title": "오토바이만 들어 갈 수 있는 숨겨진 리조트가 있다고? 근데 규모가.. 와..",
+        "description": "오토바이만 들어 갈 수 있는 숨겨진 리조트가 있다고? 근데 규모가.. 와..\n\n\n세부부부 인스타그램 → https://www.instagram.com/cebu_sei\n세부부부 이메일         → ardw2328@gmail.com\n\n\n#필리핀 #세부 #cebu \n\n▬▬▬▬사용하시려면 아래의 출처를 남겨주셔야 합니다▬▬▬▬\n🎵Music provided by 브금대통령\n🎵Track : Kid's Room - https://youtu.be/e4w3WzWeFbg\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iz4m3M2kPGQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iz4m3M2kPGQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iz4m3M2kPGQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iz4m3M2kPGQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iz4m3M2kPGQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "세이세이세이",
+        "tags": [
+          "필리핀",
+          "리조트",
+          "세부 리조트",
+          "동남아",
+          "필리핀 유튜브"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "오토바이만 들어 갈 수 있는 숨겨진 리조트가 있다고? 근데 규모가.. 와..",
+          "description": "오토바이만 들어 갈 수 있는 숨겨진 리조트가 있다고? 근데 규모가.. 와..\n\n\n세부부부 인스타그램 → https://www.instagram.com/cebu_sei\n세부부부 이메일         → ardw2328@gmail.com\n\n\n#필리핀 #세부 #cebu \n\n▬▬▬▬사용하시려면 아래의 출처를 남겨주셔야 합니다▬▬▬▬\n🎵Music provided by 브금대통령\n🎵Track : Kid's Room - https://youtu.be/e4w3WzWeFbg\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT15M50S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "61994",
+        "likeCount": "3947",
+        "favoriteCount": "0",
+        "commentCount": "120"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "오토바이만 들어 갈 수 있는 숨겨진 리조트가 있다고? 근데 규모가.. 와..",
+          "description": "오토바이만 들어 갈 수 있는 숨겨진 리조트가 있다고? 근데 규모가.. 와..\n\n\n세부부부 인스타그램 → https://www.instagram.com/cebu_sei\n세부부부 이메일         → ardw2328@gmail.com\n\n\n#필리핀 #세부 #cebu \n\n▬▬▬▬사용하시려면 아래의 출처를 남겨주셔야 합니다▬▬▬▬\n🎵Music provided by 브금대통령\n🎵Track : Kid's Room - https://youtu.be/e4w3WzWeFbg\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "uFYEYx-eEfJ94gjKV1Papz7LLb8",
+      "id": "yrUZAkfkh2A",
+      "snippet": {
+        "publishedAt": "2022-10-20T11:05:35Z",
+        "channelId": "UCRt9HplSpDWUFBc_uaX1r5g",
+        "title": "사람만 보면 오줌을 누는 염소가 있다고? 진짜 필리핀 이야기",
+        "description": "사람만 보면 오줌을 누는 염소가 있다고? 진짜 필리핀 이야기\n\n세부부부 유튜브 구독 가족되기 ::  https://www.youtube.com/channel/UC5QCza-qtDmujX_lzIs9SJw?sub_confirmation=1 \n세부부부의 행복 힐링되는 영상을 바로바로 시청하시려면 구독은 필수!\n\n\n세부부부 인스타그램 → https://www.instagram.com/cebu_sei\n세부부부 이메일         → ardw2328@gmail.com\n\n\n#필리핀 #세부 #cebu \n\n▬▬▬▬사용하시려면 아래의 출처를 남겨주셔야 합니다▬▬▬▬\n🎵Music provided by 브금대통령\n🎵Track : Kid's Room - https://youtu.be/e4w3WzWeFbg\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yrUZAkfkh2A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yrUZAkfkh2A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yrUZAkfkh2A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yrUZAkfkh2A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yrUZAkfkh2A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "세이세이세이",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "사람만 보면 오줌을 누는 염소가 있다고? 진짜 필리핀 이야기",
+          "description": "사람만 보면 오줌을 누는 염소가 있다고? 진짜 필리핀 이야기\n\n세부부부 유튜브 구독 가족되기 ::  https://www.youtube.com/channel/UC5QCza-qtDmujX_lzIs9SJw?sub_confirmation=1 \n세부부부의 행복 힐링되는 영상을 바로바로 시청하시려면 구독은 필수!\n\n\n세부부부 인스타그램 → https://www.instagram.com/cebu_sei\n세부부부 이메일         → ardw2328@gmail.com\n\n\n#필리핀 #세부 #cebu \n\n▬▬▬▬사용하시려면 아래의 출처를 남겨주셔야 합니다▬▬▬▬\n🎵Music provided by 브금대통령\n🎵Track : Kid's Room - https://youtu.be/e4w3WzWeFbg\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT14M39S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "35626",
+        "likeCount": "2408",
+        "favoriteCount": "0",
+        "commentCount": "45"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "사람만 보면 오줌을 누는 염소가 있다고? 진짜 필리핀 이야기",
+          "description": "사람만 보면 오줌을 누는 염소가 있다고? 진짜 필리핀 이야기\n\n세부부부 유튜브 구독 가족되기 ::  https://www.youtube.com/channel/UC5QCza-qtDmujX_lzIs9SJw?sub_confirmation=1 \n세부부부의 행복 힐링되는 영상을 바로바로 시청하시려면 구독은 필수!\n\n\n세부부부 인스타그램 → https://www.instagram.com/cebu_sei\n세부부부 이메일         → ardw2328@gmail.com\n\n\n#필리핀 #세부 #cebu \n\n▬▬▬▬사용하시려면 아래의 출처를 남겨주셔야 합니다▬▬▬▬\n🎵Music provided by 브금대통령\n🎵Track : Kid's Room - https://youtu.be/e4w3WzWeFbg\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "BLyE3zHVtzmxjzIfihSI-kgQciI",
+      "id": "Awz2wXXpinw",
+      "snippet": {
+        "publishedAt": "2022-10-18T11:54:40Z",
+        "channelId": "UCRt9HplSpDWUFBc_uaX1r5g",
+        "title": "쉬는 날 필리핀 여자직원이 찾은 이곳은 어딜까요?",
+        "description": "쉬는 날 필리핀 여자직원이 찾은 이곳은 어딜까요?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Awz2wXXpinw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Awz2wXXpinw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Awz2wXXpinw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Awz2wXXpinw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Awz2wXXpinw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "세이세이세이",
+        "tags": [
+          "필리핀 유튜브"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "쉬는 날 필리핀 여자직원이 찾은 이곳은 어딜까요?",
+          "description": "쉬는 날 필리핀 여자직원이 찾은 이곳은 어딜까요?"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT16M49S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "43065",
+        "likeCount": "2728",
+        "favoriteCount": "0",
+        "commentCount": "36"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "쉬는 날 필리핀 여자직원이 찾은 이곳은 어딜까요?",
+          "description": "쉬는 날 필리핀 여자직원이 찾은 이곳은 어딜까요?"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "1ANPVhgkYNxzvLO_i1cz9WgPanQ",
+      "id": "8jqHTTyFMeo",
+      "snippet": {
+        "publishedAt": "2022-10-17T10:58:26Z",
+        "channelId": "UCRt9HplSpDWUFBc_uaX1r5g",
+        "title": "진짜 필리핀 사람들의 진짜 사람사는 이야기 (무제한 삼겹살 돈 내고 안먹은 사연)",
+        "description": "진짜 필리핀 사람들의 진짜 사람사는 이야기 (무제한 삼겹살 돈 내고 안먹은 사연)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8jqHTTyFMeo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8jqHTTyFMeo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8jqHTTyFMeo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8jqHTTyFMeo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8jqHTTyFMeo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "세이세이세이",
+        "tags": [
+          "필리핀 유튜브",
+          "태국 유튜브",
+          "라오스",
+          "캄보디아",
+          "필리핀",
+          "동남아",
+          "유튜브"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "진짜 필리핀 사람들의 진짜 사람사는 이야기 (무제한 삼겹살 돈 내고 안먹은 사연)",
+          "description": "진짜 필리핀 사람들의 진짜 사람사는 이야기 (무제한 삼겹살 돈 내고 안먹은 사연)"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT14M43S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "56107",
+        "likeCount": "3087",
+        "favoriteCount": "0",
+        "commentCount": "75"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Food",
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "진짜 필리핀 사람들의 진짜 사람사는 이야기 (무제한 삼겹살 돈 내고 안먹은 사연)",
+          "description": "진짜 필리핀 사람들의 진짜 사람사는 이야기 (무제한 삼겹살 돈 내고 안먹은 사연)"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,1368 @@
+{
+  "idx": 380,
+  "channel_id": "UCDjCOk_AgmSoByJ7rt9F5XA",
+  "channel_title": "알로 ALO",
+  "playlist_items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2N4UBlWoQbF8osWpTJk4OikWE6Q",
+      "id": "VVVEakNPa19BZ21Tb0J5SjdydDlGNVhBLmpCWnhQWldYUkZR",
+      "snippet": {
+        "publishedAt": "2023-12-16T08:30:16Z",
+        "channelId": "UCDjCOk_AgmSoByJ7rt9F5XA",
+        "title": "ALO_1yellow #ALO #1yellow #kpopdance",
+        "description": "Credit \n \nProduced by 이대원 (ALO) \nComposed by 이대원 (ALO) \nArranged by 이대원 (ALO) \nLyrics by 이대원 (ALO) \n \nRecorded by 김민희 \nMixed by 이대원 (ALO) \nMastered by 권남우 @ 821 Sound Mastering \n \nVocal by 김경은 (Tin)\nChorus by 김경은 (Tin) \nGuitar by 임남훈 \n \nCover art by 김재영 (yeomi) \nTeaser video by 이대원 (ALO) \n \nThanks to 이소원 (털뭉치), 김준기 (Squid man), 김성우 (Creamo), 김대현 (Bondaon)\n\n#ALO #1yellow #Kpop",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jBZxPZWXRFQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jBZxPZWXRFQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jBZxPZWXRFQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jBZxPZWXRFQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jBZxPZWXRFQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "알로 ALO",
+        "playlistId": "UUDjCOk_AgmSoByJ7rt9F5XA",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "jBZxPZWXRFQ"
+        },
+        "videoOwnerChannelTitle": "알로 ALO",
+        "videoOwnerChannelId": "UCDjCOk_AgmSoByJ7rt9F5XA"
+      },
+      "contentDetails": {
+        "videoId": "jBZxPZWXRFQ",
+        "videoPublishedAt": "2023-12-16T08:30:16Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "__JPWhtRjHyXCNc86AGCKeCSvfs",
+      "id": "VVVEakNPa19BZ21Tb0J5SjdydDlGNVhBLlZNMVB1QjVUUkdZ",
+      "snippet": {
+        "publishedAt": "2023-12-15T12:00:32Z",
+        "channelId": "UCDjCOk_AgmSoByJ7rt9F5XA",
+        "title": "ALO_2Square #ALO #2Square #Citypop",
+        "description": "Credit \n\nProduced by 이대원 (ALO) \nComposed by 이대원 (ALO) \nArranged by 이대원 (ALO) \nLyrics by 박신혜 (Shinhye.rose)\n\nRecorded by 한신 @ Salon Peridot\nMixed by 염의석 @ Isaac mixing \nVocal by 박신혜 (Shinhye.rose)\nGuitar by 김기림 @ 제인팝\nCover art by 빈카 (Vintage Cartoon)\n\nThanks to 김대현(Bondaon), 김성우(Sengwoo)\n\n#ALO #2Square #Citypop",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VM1PuB5TRGY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VM1PuB5TRGY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VM1PuB5TRGY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VM1PuB5TRGY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VM1PuB5TRGY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "알로 ALO",
+        "playlistId": "UUDjCOk_AgmSoByJ7rt9F5XA",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VM1PuB5TRGY"
+        },
+        "videoOwnerChannelTitle": "알로 ALO",
+        "videoOwnerChannelId": "UCDjCOk_AgmSoByJ7rt9F5XA"
+      },
+      "contentDetails": {
+        "videoId": "VM1PuB5TRGY",
+        "videoPublishedAt": "2023-12-15T12:00:32Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_cgt5HWET7RZBOKZfw0JiP99O-8",
+      "id": "VVVEakNPa19BZ21Tb0J5SjdydDlGNVhBLmJTbEYwamoybThZ",
+      "snippet": {
+        "publishedAt": "2023-08-31T09:15:04Z",
+        "channelId": "UCDjCOk_AgmSoByJ7rt9F5XA",
+        "title": "ALO_2square (MR)",
+        "description": "Credit \n\nProduced by 이대원 (ALO) \nComposed by 이대원 (ALO) \nArranged by 이대원 (ALO) \nLyrics by 박신혜 (Shinhye.rose)\n\nRecorded by 한신 @ Salon Peridot\nMixed by 염의석 @ Isaac mixing \nVocal by 박신혜 (Shinhye.rose)\nGuitar by 김기림 @ 제인팝\nCover art by 빈카 (Vintage Cartoon)\n\nThanks to 김대현(Bondaon), 김성우(Sengwoo)\n\n#ALO #2Square #Citypop",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bSlF0jj2m8Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bSlF0jj2m8Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bSlF0jj2m8Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bSlF0jj2m8Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bSlF0jj2m8Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "알로 ALO",
+        "playlistId": "UUDjCOk_AgmSoByJ7rt9F5XA",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "bSlF0jj2m8Y"
+        },
+        "videoOwnerChannelTitle": "알로 ALO",
+        "videoOwnerChannelId": "UCDjCOk_AgmSoByJ7rt9F5XA"
+      },
+      "contentDetails": {
+        "videoId": "bSlF0jj2m8Y",
+        "videoPublishedAt": "2023-08-31T09:15:04Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "CEY6PHLaGG2Z3J3ZWgOFQjOe6VI",
+      "id": "VVVEakNPa19BZ21Tb0J5SjdydDlGNVhBLjNlSE02NHpHaTJj",
+      "snippet": {
+        "publishedAt": "2023-08-31T09:00:03Z",
+        "channelId": "UCDjCOk_AgmSoByJ7rt9F5XA",
+        "title": "ALO_1yellow (MR)",
+        "description": "Credit \n \nProduced by 이대원 (ALO) \nComposed by 이대원 (ALO) \nArranged by 이대원 (ALO) \nLyrics by 이대원 (ALO) \n \nRecorded by 김민희 \nMixed by 이대원 (ALO) \nMastered by 권남우 @ 821 Sound Mastering \n \nVocal by 김경은 (Tin)\nChorus by 김경은 (Tin) \nGuitar by 임남훈 \n \nCover art by 김재영 (yeomi) \nTeaser video by 이대원 (ALO) \n \nThanks to 이소원 (털뭉치), 김준기 (Squid man), 김성우 (Creamo), 김대현 (Bondaon)\n\n#ALO #1yellow #Kpop",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3eHM64zGi2c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3eHM64zGi2c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3eHM64zGi2c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3eHM64zGi2c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3eHM64zGi2c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "알로 ALO",
+        "playlistId": "UUDjCOk_AgmSoByJ7rt9F5XA",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "3eHM64zGi2c"
+        },
+        "videoOwnerChannelTitle": "알로 ALO",
+        "videoOwnerChannelId": "UCDjCOk_AgmSoByJ7rt9F5XA"
+      },
+      "contentDetails": {
+        "videoId": "3eHM64zGi2c",
+        "videoPublishedAt": "2023-08-31T09:00:03Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "gLgG_Lkyh2Uv51xT76W-hm3E3lY",
+      "id": "VVVEakNPa19BZ21Tb0J5SjdydDlGNVhBLlJDbXE0c0VnUXVR",
+      "snippet": {
+        "publishedAt": "2023-04-11T10:20:08Z",
+        "channelId": "UCDjCOk_AgmSoByJ7rt9F5XA",
+        "title": "ALO _ 2Square",
+        "description": "알로 (ALO) _ 2Square\n\nCredit \n\nProduced by 이대원 (ALO) \nComposed by 이대원 (ALO) \nArranged by 이대원 (ALO) \nLyrics by 박신혜 (Shinhye.rose)\n\nRecorded by 한신 @ Salon Peridot\nMixed by 염의석 @ Isaac mixing \nVocal by 박신혜 (Shinhye.rose)\nGuitar by 김기림 @ 제인팝\nCover art by 빈카 (Vintage Cartoon)\n\nThanks to 김대현(Bondaon), 김성우(Sengwoo)\n\n#ALO #2Square #Citypop",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RCmq4sEgQuQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RCmq4sEgQuQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RCmq4sEgQuQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RCmq4sEgQuQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RCmq4sEgQuQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "알로 ALO",
+        "playlistId": "UUDjCOk_AgmSoByJ7rt9F5XA",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "RCmq4sEgQuQ"
+        },
+        "videoOwnerChannelTitle": "알로 ALO",
+        "videoOwnerChannelId": "UCDjCOk_AgmSoByJ7rt9F5XA"
+      },
+      "contentDetails": {
+        "videoId": "RCmq4sEgQuQ",
+        "videoPublishedAt": "2023-04-11T10:20:08Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mUnkv8SXtnV6XuXcZdjbsY9uKVE",
+      "id": "VVVEakNPa19BZ21Tb0J5SjdydDlGNVhBLjg0QWp5YUt0Ym1V",
+      "snippet": {
+        "publishedAt": "2020-04-06T15:01:19Z",
+        "channelId": "UCDjCOk_AgmSoByJ7rt9F5XA",
+        "title": "Sengwoo _ dada (prod.ALO)",
+        "description": "셍우 (Sengwoo) _ dada (prod.ALO) \n\nCredit\nProduced by 김성우 (Sengwoo) 이대원 (ALO)\nComposed by 이대원 (ALO)\nArranged by 김성우 (Sengwoo) 이대원 (ALO)\nLyrics by 김성우 (Sengwoo)\nRecorded by 이대원 (ALO), 노희철 @ Wave Studio \nMixed by 이대원 (ALO) \nMastered by 권남우 @ 821 Sound Mastering\nCover art by DeJs\n\n#Sengwoo #DADA #Hiphop",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/84AjyaKtbmU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/84AjyaKtbmU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/84AjyaKtbmU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/84AjyaKtbmU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/84AjyaKtbmU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "알로 ALO",
+        "playlistId": "UUDjCOk_AgmSoByJ7rt9F5XA",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "84AjyaKtbmU"
+        },
+        "videoOwnerChannelTitle": "알로 ALO",
+        "videoOwnerChannelId": "UCDjCOk_AgmSoByJ7rt9F5XA"
+      },
+      "contentDetails": {
+        "videoId": "84AjyaKtbmU",
+        "videoPublishedAt": "2020-04-06T15:01:19Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "JMWib7OIejDIBDMw9UJ8QkD07rc",
+      "id": "VVVEakNPa19BZ21Tb0J5SjdydDlGNVhBLkw2QXNCSFhwTVcw",
+      "snippet": {
+        "publishedAt": "2020-03-24T16:56:07Z",
+        "channelId": "UCDjCOk_AgmSoByJ7rt9F5XA",
+        "title": "1 Hour yellow (1yellow 한 시간 반복 재생)",
+        "description": "알로 (ALO) _ 1yellow\n\nCredit \n \nProduced by 이대원 (ALO) \nComposed by 이대원 (ALO) \nArranged by 이대원 (ALO) \nLyrics by 이대원 (ALO) \n \nRecorded by 김민희 \nMixed by 이대원 (ALO) \nMastered by 권남우 @ 821 Sound Mastering \n \nVocal by 김경은 (Tin)\nChorus by 김경은 (Tin) \nGuitar by 임남훈 \n \nCover art by 김재영 (yeomi) \nTeaser video by 이대원 (ALO) \n \nThanks to 이소원 (털뭉치), 김준기 (Squid man), 김성우 (Creamo), 김대현 (Bondaon)\n\n#ALO #1yellow #Kpop",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/L6AsBHXpMW0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/L6AsBHXpMW0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/L6AsBHXpMW0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/L6AsBHXpMW0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/L6AsBHXpMW0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "알로 ALO",
+        "playlistId": "UUDjCOk_AgmSoByJ7rt9F5XA",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "L6AsBHXpMW0"
+        },
+        "videoOwnerChannelTitle": "알로 ALO",
+        "videoOwnerChannelId": "UCDjCOk_AgmSoByJ7rt9F5XA"
+      },
+      "contentDetails": {
+        "videoId": "L6AsBHXpMW0",
+        "videoPublishedAt": "2020-03-24T16:56:07Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "9VeAwjkFpsRq1W3SE-8c1wZTnrs",
+      "id": "VVVEakNPa19BZ21Tb0J5SjdydDlGNVhBLmlrU1pWYTR4cnpv",
+      "snippet": {
+        "publishedAt": "2019-03-05T15:29:06Z",
+        "channelId": "UCDjCOk_AgmSoByJ7rt9F5XA",
+        "title": "Sengwoo _ I Don't Mean It (prod. ALO)",
+        "description": "셍우(Sengwoo)  _  I Don't Mean It (prod. ALO)\n\nCredit\nProduced by 김성우 (Sengwoo)이대원 (ALO)\nComposed by 이대원 (ALO)\nArranged by 김성우 (Sengwoo)이대원 (ALO)\nLyrics by 김성우 (Sengwoo)\nRecorded by 이대원 (ALO), 노희철 @ Wave Studio \nMixed by 이대원 (ALO) \nMastered by 권남우 @ 821 Sound Mastering\nFeaturing by ELIIT\nGuitar by 김상선, 이대원 (ALO) \nWhistle by 오샘 of HeMeets\nCover art by DeJs\n\n#ALO #IDMI #Kpop",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ikSZVa4xrzo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ikSZVa4xrzo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ikSZVa4xrzo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ikSZVa4xrzo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ikSZVa4xrzo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "알로 ALO",
+        "playlistId": "UUDjCOk_AgmSoByJ7rt9F5XA",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ikSZVa4xrzo"
+        },
+        "videoOwnerChannelTitle": "알로 ALO",
+        "videoOwnerChannelId": "UCDjCOk_AgmSoByJ7rt9F5XA"
+      },
+      "contentDetails": {
+        "videoId": "ikSZVa4xrzo",
+        "videoPublishedAt": "2019-03-05T15:29:06Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3l_ynVH9jXBzVX_NIwuhiY3Q3eY",
+      "id": "VVVEakNPa19BZ21Tb0J5SjdydDlGNVhBLlEwRHUtOU9LZG4w",
+      "snippet": {
+        "publishedAt": "2018-09-02T03:02:50Z",
+        "channelId": "UCDjCOk_AgmSoByJ7rt9F5XA",
+        "title": "ALO _ 1yellow",
+        "description": "알로 (ALO) _ 1yellow\n\nCredit \n \nProduced by 이대원 (ALO) \nComposed by 이대원 (ALO) \nArranged by 이대원 (ALO) \nLyrics by 이대원 (ALO) \n \nRecorded by 김민희 \nMixed by 이대원 (ALO) \nMastered by 권남우 @ 821 Sound Mastering \n \nVocal by 김경은 (Tin)\nChorus by 김경은 (Tin) \nGuitar by 임남훈 \n \nCover art by 김재영 (yeomi) \nTeaser video by 이대원 (ALO) \n \nThanks to 이소원 (털뭉치), 김준기 (Squid man), 김성우 (Creamo), 김대현 (Bondaon)\n\n#ALO #1yellow #Kpop",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Q0Du-9OKdn0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Q0Du-9OKdn0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Q0Du-9OKdn0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Q0Du-9OKdn0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Q0Du-9OKdn0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "알로 ALO",
+        "playlistId": "UUDjCOk_AgmSoByJ7rt9F5XA",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Q0Du-9OKdn0"
+        },
+        "videoOwnerChannelTitle": "알로 ALO",
+        "videoOwnerChannelId": "UCDjCOk_AgmSoByJ7rt9F5XA"
+      },
+      "contentDetails": {
+        "videoId": "Q0Du-9OKdn0",
+        "videoPublishedAt": "2018-09-02T03:02:50Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "video_details": [
+    {
+      "kind": "youtube#video",
+      "etag": "vcOhnIYWGZwx6No_as1-MXWZmTY",
+      "id": "jBZxPZWXRFQ",
+      "snippet": {
+        "publishedAt": "2023-12-16T08:30:16Z",
+        "channelId": "UCDjCOk_AgmSoByJ7rt9F5XA",
+        "title": "ALO_1yellow #ALO #1yellow #kpopdance",
+        "description": "Credit \n \nProduced by 이대원 (ALO) \nComposed by 이대원 (ALO) \nArranged by 이대원 (ALO) \nLyrics by 이대원 (ALO) \n \nRecorded by 김민희 \nMixed by 이대원 (ALO) \nMastered by 권남우 @ 821 Sound Mastering \n \nVocal by 김경은 (Tin)\nChorus by 김경은 (Tin) \nGuitar by 임남훈 \n \nCover art by 김재영 (yeomi) \nTeaser video by 이대원 (ALO) \n \nThanks to 이소원 (털뭉치), 김준기 (Squid man), 김성우 (Creamo), 김대현 (Bondaon)\n\n#ALO #1yellow #Kpop",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jBZxPZWXRFQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jBZxPZWXRFQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jBZxPZWXRFQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jBZxPZWXRFQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jBZxPZWXRFQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "알로 ALO",
+        "tags": [
+          "알로",
+          "ALO"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "ALO_1yellow #ALO #1yellow #kpopdance",
+          "description": "Credit \n \nProduced by 이대원 (ALO) \nComposed by 이대원 (ALO) \nArranged by 이대원 (ALO) \nLyrics by 이대원 (ALO) \n \nRecorded by 김민희 \nMixed by 이대원 (ALO) \nMastered by 권남우 @ 821 Sound Mastering \n \nVocal by 김경은 (Tin)\nChorus by 김경은 (Tin) \nGuitar by 임남훈 \n \nCover art by 김재영 (yeomi) \nTeaser video by 이대원 (ALO) \n \nThanks to 이소원 (털뭉치), 김준기 (Squid man), 김성우 (Creamo), 김대현 (Bondaon)\n\n#ALO #1yellow #Kpop"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT27S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "47",
+        "likeCount": "5",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Pop_music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "ALO_1yellow #ALO #1yellow #kpopdance",
+          "description": "Credit \n \nProduced by 이대원 (ALO) \nComposed by 이대원 (ALO) \nArranged by 이대원 (ALO) \nLyrics by 이대원 (ALO) \n \nRecorded by 김민희 \nMixed by 이대원 (ALO) \nMastered by 권남우 @ 821 Sound Mastering \n \nVocal by 김경은 (Tin)\nChorus by 김경은 (Tin) \nGuitar by 임남훈 \n \nCover art by 김재영 (yeomi) \nTeaser video by 이대원 (ALO) \n \nThanks to 이소원 (털뭉치), 김준기 (Squid man), 김성우 (Creamo), 김대현 (Bondaon)\n\n#ALO #1yellow #Kpop"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "kileM87lMCyZD4RlaMEMMb7mrtg",
+      "id": "VM1PuB5TRGY",
+      "snippet": {
+        "publishedAt": "2023-12-15T12:00:32Z",
+        "channelId": "UCDjCOk_AgmSoByJ7rt9F5XA",
+        "title": "ALO_2Square #ALO #2Square #Citypop",
+        "description": "Credit \n\nProduced by 이대원 (ALO) \nComposed by 이대원 (ALO) \nArranged by 이대원 (ALO) \nLyrics by 박신혜 (Shinhye.rose)\n\nRecorded by 한신 @ Salon Peridot\nMixed by 염의석 @ Isaac mixing \nVocal by 박신혜 (Shinhye.rose)\nGuitar by 김기림 @ 제인팝\nCover art by 빈카 (Vintage Cartoon)\n\nThanks to 김대현(Bondaon), 김성우(Sengwoo)\n\n#ALO #2Square #Citypop",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VM1PuB5TRGY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VM1PuB5TRGY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VM1PuB5TRGY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VM1PuB5TRGY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VM1PuB5TRGY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "알로 ALO",
+        "tags": [
+          "알로",
+          "ALO"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "ALO_2Square #ALO #2Square #Citypop",
+          "description": "Credit \n\nProduced by 이대원 (ALO) \nComposed by 이대원 (ALO) \nArranged by 이대원 (ALO) \nLyrics by 박신혜 (Shinhye.rose)\n\nRecorded by 한신 @ Salon Peridot\nMixed by 염의석 @ Isaac mixing \nVocal by 박신혜 (Shinhye.rose)\nGuitar by 김기림 @ 제인팝\nCover art by 빈카 (Vintage Cartoon)\n\nThanks to 김대현(Bondaon), 김성우(Sengwoo)\n\n#ALO #2Square #Citypop"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT41S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "39",
+        "likeCount": "6",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Pop_music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "ALO_2Square #ALO #2Square #Citypop",
+          "description": "Credit \n\nProduced by 이대원 (ALO) \nComposed by 이대원 (ALO) \nArranged by 이대원 (ALO) \nLyrics by 박신혜 (Shinhye.rose)\n\nRecorded by 한신 @ Salon Peridot\nMixed by 염의석 @ Isaac mixing \nVocal by 박신혜 (Shinhye.rose)\nGuitar by 김기림 @ 제인팝\nCover art by 빈카 (Vintage Cartoon)\n\nThanks to 김대현(Bondaon), 김성우(Sengwoo)\n\n#ALO #2Square #Citypop"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "vlitPpVfdJqzixdewnagOxsg1Fg",
+      "id": "bSlF0jj2m8Y",
+      "snippet": {
+        "publishedAt": "2023-08-31T09:15:04Z",
+        "channelId": "UCDjCOk_AgmSoByJ7rt9F5XA",
+        "title": "ALO_2square (MR)",
+        "description": "Credit \n\nProduced by 이대원 (ALO) \nComposed by 이대원 (ALO) \nArranged by 이대원 (ALO) \nLyrics by 박신혜 (Shinhye.rose)\n\nRecorded by 한신 @ Salon Peridot\nMixed by 염의석 @ Isaac mixing \nVocal by 박신혜 (Shinhye.rose)\nGuitar by 김기림 @ 제인팝\nCover art by 빈카 (Vintage Cartoon)\n\nThanks to 김대현(Bondaon), 김성우(Sengwoo)\n\n#ALO #2Square #Citypop",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bSlF0jj2m8Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bSlF0jj2m8Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bSlF0jj2m8Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bSlF0jj2m8Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bSlF0jj2m8Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "알로 ALO",
+        "tags": [
+          "알로",
+          "ALO",
+          "2square",
+          "릴덕배",
+          "lilduckbae",
+          "citypop",
+          "MR",
+          "kpop",
+          "시티팝"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "ALO_2square (MR)",
+          "description": "Credit \n\nProduced by 이대원 (ALO) \nComposed by 이대원 (ALO) \nArranged by 이대원 (ALO) \nLyrics by 박신혜 (Shinhye.rose)\n\nRecorded by 한신 @ Salon Peridot\nMixed by 염의석 @ Isaac mixing \nVocal by 박신혜 (Shinhye.rose)\nGuitar by 김기림 @ 제인팝\nCover art by 빈카 (Vintage Cartoon)\n\nThanks to 김대현(Bondaon), 김성우(Sengwoo)\n\n#ALO #2Square #Citypop"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M37S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "40",
+        "likeCount": "3",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Music_of_Asia",
+          "https://en.wikipedia.org/wiki/Pop_music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "ALO_2square (MR)",
+          "description": "Credit \n\nProduced by 이대원 (ALO) \nComposed by 이대원 (ALO) \nArranged by 이대원 (ALO) \nLyrics by 박신혜 (Shinhye.rose)\n\nRecorded by 한신 @ Salon Peridot\nMixed by 염의석 @ Isaac mixing \nVocal by 박신혜 (Shinhye.rose)\nGuitar by 김기림 @ 제인팝\nCover art by 빈카 (Vintage Cartoon)\n\nThanks to 김대현(Bondaon), 김성우(Sengwoo)\n\n#ALO #2Square #Citypop"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "l43fTnTlnfY4piMGKQOcstjtOs0",
+      "id": "3eHM64zGi2c",
+      "snippet": {
+        "publishedAt": "2023-08-31T09:00:03Z",
+        "channelId": "UCDjCOk_AgmSoByJ7rt9F5XA",
+        "title": "ALO_1yellow (MR)",
+        "description": "Credit \n \nProduced by 이대원 (ALO) \nComposed by 이대원 (ALO) \nArranged by 이대원 (ALO) \nLyrics by 이대원 (ALO) \n \nRecorded by 김민희 \nMixed by 이대원 (ALO) \nMastered by 권남우 @ 821 Sound Mastering \n \nVocal by 김경은 (Tin)\nChorus by 김경은 (Tin) \nGuitar by 임남훈 \n \nCover art by 김재영 (yeomi) \nTeaser video by 이대원 (ALO) \n \nThanks to 이소원 (털뭉치), 김준기 (Squid man), 김성우 (Creamo), 김대현 (Bondaon)\n\n#ALO #1yellow #Kpop",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3eHM64zGi2c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3eHM64zGi2c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3eHM64zGi2c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3eHM64zGi2c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3eHM64zGi2c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "알로 ALO",
+        "tags": [
+          "알로",
+          "ALO",
+          "릴덕배",
+          "lilduckbae",
+          "1yellow",
+          "mr",
+          "kpop"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "ALO_1yellow (MR)",
+          "description": "Credit \n \nProduced by 이대원 (ALO) \nComposed by 이대원 (ALO) \nArranged by 이대원 (ALO) \nLyrics by 이대원 (ALO) \n \nRecorded by 김민희 \nMixed by 이대원 (ALO) \nMastered by 권남우 @ 821 Sound Mastering \n \nVocal by 김경은 (Tin)\nChorus by 김경은 (Tin) \nGuitar by 임남훈 \n \nCover art by 김재영 (yeomi) \nTeaser video by 이대원 (ALO) \n \nThanks to 이소원 (털뭉치), 김준기 (Squid man), 김성우 (Creamo), 김대현 (Bondaon)\n\n#ALO #1yellow #Kpop"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M30S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "128",
+        "likeCount": "10",
+        "favoriteCount": "0",
+        "commentCount": "4"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Pop_music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "ALO_1yellow (MR)",
+          "description": "Credit \n \nProduced by 이대원 (ALO) \nComposed by 이대원 (ALO) \nArranged by 이대원 (ALO) \nLyrics by 이대원 (ALO) \n \nRecorded by 김민희 \nMixed by 이대원 (ALO) \nMastered by 권남우 @ 821 Sound Mastering \n \nVocal by 김경은 (Tin)\nChorus by 김경은 (Tin) \nGuitar by 임남훈 \n \nCover art by 김재영 (yeomi) \nTeaser video by 이대원 (ALO) \n \nThanks to 이소원 (털뭉치), 김준기 (Squid man), 김성우 (Creamo), 김대현 (Bondaon)\n\n#ALO #1yellow #Kpop"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "7w1_AGXamGXqK85468WrRHFVdF0",
+      "id": "RCmq4sEgQuQ",
+      "snippet": {
+        "publishedAt": "2023-04-11T10:20:08Z",
+        "channelId": "UCDjCOk_AgmSoByJ7rt9F5XA",
+        "title": "ALO _ 2Square",
+        "description": "알로 (ALO) _ 2Square\n\nCredit \n\nProduced by 이대원 (ALO) \nComposed by 이대원 (ALO) \nArranged by 이대원 (ALO) \nLyrics by 박신혜 (Shinhye.rose)\n\nRecorded by 한신 @ Salon Peridot\nMixed by 염의석 @ Isaac mixing \nVocal by 박신혜 (Shinhye.rose)\nGuitar by 김기림 @ 제인팝\nCover art by 빈카 (Vintage Cartoon)\n\nThanks to 김대현(Bondaon), 김성우(Sengwoo)\n\n#ALO #2Square #Citypop",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RCmq4sEgQuQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RCmq4sEgQuQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RCmq4sEgQuQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RCmq4sEgQuQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RCmq4sEgQuQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "알로 ALO",
+        "tags": [
+          "알로",
+          "ALO",
+          "2square",
+          "릴덕배",
+          "Lilduckbae",
+          "kpop",
+          "citypop",
+          "시티팝",
+          "박신혜",
+          "레트로뮤직",
+          "retromusic"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "ALO _ 2Square",
+          "description": "알로 (ALO) _ 2Square\n\nCredit \n\nProduced by 이대원 (ALO) \nComposed by 이대원 (ALO) \nArranged by 이대원 (ALO) \nLyrics by 박신혜 (Shinhye.rose)\n\nRecorded by 한신 @ Salon Peridot\nMixed by 염의석 @ Isaac mixing \nVocal by 박신혜 (Shinhye.rose)\nGuitar by 김기림 @ 제인팝\nCover art by 빈카 (Vintage Cartoon)\n\nThanks to 김대현(Bondaon), 김성우(Sengwoo)\n\n#ALO #2Square #Citypop"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M37S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "2582",
+        "likeCount": "16",
+        "favoriteCount": "0",
+        "commentCount": "8"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Music_of_Asia",
+          "https://en.wikipedia.org/wiki/Pop_music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "ALO _ 2Square",
+          "description": "알로 (ALO) _ 2Square\n\nCredit \n\nProduced by 이대원 (ALO) \nComposed by 이대원 (ALO) \nArranged by 이대원 (ALO) \nLyrics by 박신혜 (Shinhye.rose)\n\nRecorded by 한신 @ Salon Peridot\nMixed by 염의석 @ Isaac mixing \nVocal by 박신혜 (Shinhye.rose)\nGuitar by 김기림 @ 제인팝\nCover art by 빈카 (Vintage Cartoon)\n\nThanks to 김대현(Bondaon), 김성우(Sengwoo)\n\n#ALO #2Square #Citypop"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "RAgKNKNqqINktkIJPBA67jhTZ0Y",
+      "id": "84AjyaKtbmU",
+      "snippet": {
+        "publishedAt": "2020-04-06T15:01:19Z",
+        "channelId": "UCDjCOk_AgmSoByJ7rt9F5XA",
+        "title": "Sengwoo _ dada (prod.ALO)",
+        "description": "셍우 (Sengwoo) _ dada (prod.ALO) \n\nCredit\nProduced by 김성우 (Sengwoo) 이대원 (ALO)\nComposed by 이대원 (ALO)\nArranged by 김성우 (Sengwoo) 이대원 (ALO)\nLyrics by 김성우 (Sengwoo)\nRecorded by 이대원 (ALO), 노희철 @ Wave Studio \nMixed by 이대원 (ALO) \nMastered by 권남우 @ 821 Sound Mastering\nCover art by DeJs\n\n#Sengwoo #DADA #Hiphop",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/84AjyaKtbmU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/84AjyaKtbmU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/84AjyaKtbmU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/84AjyaKtbmU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/84AjyaKtbmU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "알로 ALO",
+        "tags": [
+          "dada",
+          "다다",
+          "힙합",
+          "hiphop",
+          "khiphop",
+          "kpop",
+          "한국힙합",
+          "korean rap",
+          "hello world 앨범",
+          "알로",
+          "alo",
+          "릴덕배",
+          "lilduckbae"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "Sengwoo _ dada (prod.ALO)",
+          "description": "셍우 (Sengwoo) _ dada (prod.ALO) \n\nCredit\nProduced by 김성우 (Sengwoo) 이대원 (ALO)\nComposed by 이대원 (ALO)\nArranged by 김성우 (Sengwoo) 이대원 (ALO)\nLyrics by 김성우 (Sengwoo)\nRecorded by 이대원 (ALO), 노희철 @ Wave Studio \nMixed by 이대원 (ALO) \nMastered by 권남우 @ 821 Sound Mastering\nCover art by DeJs\n\n#Sengwoo #DADA #Hiphop"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT2M40S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1408",
+        "likeCount": "15",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Hip_hop_music",
+          "https://en.wikipedia.org/wiki/Music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "Sengwoo _ dada (prod.ALO)",
+          "description": "셍우 (Sengwoo) _ dada (prod.ALO) \n\nCredit\nProduced by 김성우 (Sengwoo) 이대원 (ALO)\nComposed by 이대원 (ALO)\nArranged by 김성우 (Sengwoo) 이대원 (ALO)\nLyrics by 김성우 (Sengwoo)\nRecorded by 이대원 (ALO), 노희철 @ Wave Studio \nMixed by 이대원 (ALO) \nMastered by 권남우 @ 821 Sound Mastering\nCover art by DeJs\n\n#Sengwoo #DADA #Hiphop"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "_0-0zGZAXuC7PWswel9njtU1QIQ",
+      "id": "L6AsBHXpMW0",
+      "snippet": {
+        "publishedAt": "2020-03-24T16:56:07Z",
+        "channelId": "UCDjCOk_AgmSoByJ7rt9F5XA",
+        "title": "1 Hour yellow (1yellow 한 시간 반복 재생)",
+        "description": "알로 (ALO) _ 1yellow\n\nCredit \n \nProduced by 이대원 (ALO) \nComposed by 이대원 (ALO) \nArranged by 이대원 (ALO) \nLyrics by 이대원 (ALO) \n \nRecorded by 김민희 \nMixed by 이대원 (ALO) \nMastered by 권남우 @ 821 Sound Mastering \n \nVocal by 김경은 (Tin)\nChorus by 김경은 (Tin) \nGuitar by 임남훈 \n \nCover art by 김재영 (yeomi) \nTeaser video by 이대원 (ALO) \n \nThanks to 이소원 (털뭉치), 김준기 (Squid man), 김성우 (Creamo), 김대현 (Bondaon)\n\n#ALO #1yellow #Kpop",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/L6AsBHXpMW0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/L6AsBHXpMW0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/L6AsBHXpMW0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/L6AsBHXpMW0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/L6AsBHXpMW0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "알로 ALO",
+        "tags": [
+          "릴덕배",
+          "lilduckbae",
+          "kpop",
+          "RnB",
+          "1yellow",
+          "k-pop",
+          "cloy",
+          "tin",
+          "가수 틴",
+          "클로이",
+          "korea music",
+          "널 그리워해",
+          "아니 안그리워해",
+          "널 그리워해 가사",
+          "널 그리워해 아니 안 그리워해",
+          "제인 노래",
+          "반복재생",
+          "1시간 반복재생",
+          "1 hour loop",
+          "알로",
+          "alo",
+          "널 그리워해 노래"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "1 Hour yellow (1yellow 한 시간 반복 재생)",
+          "description": "알로 (ALO) _ 1yellow\n\nCredit \n \nProduced by 이대원 (ALO) \nComposed by 이대원 (ALO) \nArranged by 이대원 (ALO) \nLyrics by 이대원 (ALO) \n \nRecorded by 김민희 \nMixed by 이대원 (ALO) \nMastered by 권남우 @ 821 Sound Mastering \n \nVocal by 김경은 (Tin)\nChorus by 김경은 (Tin) \nGuitar by 임남훈 \n \nCover art by 김재영 (yeomi) \nTeaser video by 이대원 (ALO) \n \nThanks to 이소원 (털뭉치), 김준기 (Squid man), 김성우 (Creamo), 김대현 (Bondaon)\n\n#ALO #1yellow #Kpop"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT1H1M55S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1077",
+        "likeCount": "39",
+        "favoriteCount": "0",
+        "commentCount": "7"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Music_of_Asia",
+          "https://en.wikipedia.org/wiki/Pop_music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "1 Hour yellow (1yellow 한 시간 반복 재생)",
+          "description": "알로 (ALO) _ 1yellow\n\nCredit \n \nProduced by 이대원 (ALO) \nComposed by 이대원 (ALO) \nArranged by 이대원 (ALO) \nLyrics by 이대원 (ALO) \n \nRecorded by 김민희 \nMixed by 이대원 (ALO) \nMastered by 권남우 @ 821 Sound Mastering \n \nVocal by 김경은 (Tin)\nChorus by 김경은 (Tin) \nGuitar by 임남훈 \n \nCover art by 김재영 (yeomi) \nTeaser video by 이대원 (ALO) \n \nThanks to 이소원 (털뭉치), 김준기 (Squid man), 김성우 (Creamo), 김대현 (Bondaon)\n\n#ALO #1yellow #Kpop"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "coZqbjXPW5wcqkBj9zs5eU1lRVE",
+      "id": "ikSZVa4xrzo",
+      "snippet": {
+        "publishedAt": "2019-03-05T15:29:06Z",
+        "channelId": "UCDjCOk_AgmSoByJ7rt9F5XA",
+        "title": "Sengwoo _ I Don't Mean It (prod. ALO)",
+        "description": "셍우(Sengwoo)  _  I Don't Mean It (prod. ALO)\n\nCredit\nProduced by 김성우 (Sengwoo)이대원 (ALO)\nComposed by 이대원 (ALO)\nArranged by 김성우 (Sengwoo)이대원 (ALO)\nLyrics by 김성우 (Sengwoo)\nRecorded by 이대원 (ALO), 노희철 @ Wave Studio \nMixed by 이대원 (ALO) \nMastered by 권남우 @ 821 Sound Mastering\nFeaturing by ELIIT\nGuitar by 김상선, 이대원 (ALO) \nWhistle by 오샘 of HeMeets\nCover art by DeJs\n\n#ALO #IDMI #Kpop",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ikSZVa4xrzo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ikSZVa4xrzo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ikSZVa4xrzo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ikSZVa4xrzo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ikSZVa4xrzo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "알로 ALO",
+        "tags": [
+          "릴덕배",
+          "lilduckbae",
+          "kpop",
+          "hiphop",
+          "힙합",
+          "오샘",
+          "ELIIT",
+          "Rnb",
+          "아이돈미닛",
+          "엘릿",
+          "얼마나더 얼마나더 설명해야 말을해야",
+          "Kpop",
+          "알로",
+          "alo",
+          "idontmeanit",
+          "IDMI"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "Sengwoo _ I Don't Mean It (prod. ALO)",
+          "description": "셍우(Sengwoo)  _  I Don't Mean It (prod. ALO)\n\nCredit\nProduced by 김성우 (Sengwoo)이대원 (ALO)\nComposed by 이대원 (ALO)\nArranged by 김성우 (Sengwoo)이대원 (ALO)\nLyrics by 김성우 (Sengwoo)\nRecorded by 이대원 (ALO), 노희철 @ Wave Studio \nMixed by 이대원 (ALO) \nMastered by 권남우 @ 821 Sound Mastering\nFeaturing by ELIIT\nGuitar by 김상선, 이대원 (ALO) \nWhistle by 오샘 of HeMeets\nCover art by DeJs\n\n#ALO #IDMI #Kpop"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M22S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1767",
+        "likeCount": "15",
+        "favoriteCount": "0",
+        "commentCount": "4"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Hip_hop_music",
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Music_of_Asia",
+          "https://en.wikipedia.org/wiki/Pop_music",
+          "https://en.wikipedia.org/wiki/Soul_music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "Sengwoo _ I Don't Mean It (prod. ALO)",
+          "description": "셍우(Sengwoo)  _  I Don't Mean It (prod. ALO)\n\nCredit\nProduced by 김성우 (Sengwoo)이대원 (ALO)\nComposed by 이대원 (ALO)\nArranged by 김성우 (Sengwoo)이대원 (ALO)\nLyrics by 김성우 (Sengwoo)\nRecorded by 이대원 (ALO), 노희철 @ Wave Studio \nMixed by 이대원 (ALO) \nMastered by 권남우 @ 821 Sound Mastering\nFeaturing by ELIIT\nGuitar by 김상선, 이대원 (ALO) \nWhistle by 오샘 of HeMeets\nCover art by DeJs\n\n#ALO #IDMI #Kpop"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Km9zMYbeKmGl31OpSZw4GS6xH5s",
+      "id": "Q0Du-9OKdn0",
+      "snippet": {
+        "publishedAt": "2018-09-02T03:02:50Z",
+        "channelId": "UCDjCOk_AgmSoByJ7rt9F5XA",
+        "title": "ALO _ 1yellow",
+        "description": "알로 (ALO) _ 1yellow\n\nCredit \n \nProduced by 이대원 (ALO) \nComposed by 이대원 (ALO) \nArranged by 이대원 (ALO) \nLyrics by 이대원 (ALO) \n \nRecorded by 김민희 \nMixed by 이대원 (ALO) \nMastered by 권남우 @ 821 Sound Mastering \n \nVocal by 김경은 (Tin)\nChorus by 김경은 (Tin) \nGuitar by 임남훈 \n \nCover art by 김재영 (yeomi) \nTeaser video by 이대원 (ALO) \n \nThanks to 이소원 (털뭉치), 김준기 (Squid man), 김성우 (Creamo), 김대현 (Bondaon)\n\n#ALO #1yellow #Kpop",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Q0Du-9OKdn0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Q0Du-9OKdn0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Q0Du-9OKdn0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Q0Du-9OKdn0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Q0Du-9OKdn0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "알로 ALO",
+        "tags": [
+          "릴덕배",
+          "lilduckbae",
+          "kpop",
+          "RnB",
+          "1yellow",
+          "알앤비",
+          "cloy",
+          "tin",
+          "가수 틴",
+          "널그리워해",
+          "널 그리워해 아니 안그리워해",
+          "널 그리워해 노래",
+          "널 그리워해 가사",
+          "틴",
+          "이별노래",
+          "알로",
+          "alo",
+          "제인 노래"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "ALO _ 1yellow",
+          "description": "알로 (ALO) _ 1yellow\n\nCredit \n \nProduced by 이대원 (ALO) \nComposed by 이대원 (ALO) \nArranged by 이대원 (ALO) \nLyrics by 이대원 (ALO) \n \nRecorded by 김민희 \nMixed by 이대원 (ALO) \nMastered by 권남우 @ 821 Sound Mastering \n \nVocal by 김경은 (Tin)\nChorus by 김경은 (Tin) \nGuitar by 임남훈 \n \nCover art by 김재영 (yeomi) \nTeaser video by 이대원 (ALO) \n \nThanks to 이소원 (털뭉치), 김준기 (Squid man), 김성우 (Creamo), 김대현 (Bondaon)\n\n#ALO #1yellow #Kpop"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M27S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "19107",
+        "likeCount": "443",
+        "favoriteCount": "0",
+        "commentCount": "118"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Independent_music",
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Music_of_Asia",
+          "https://en.wikipedia.org/wiki/Pop_music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "ALO _ 1yellow",
+          "description": "알로 (ALO) _ 1yellow\n\nCredit \n \nProduced by 이대원 (ALO) \nComposed by 이대원 (ALO) \nArranged by 이대원 (ALO) \nLyrics by 이대원 (ALO) \n \nRecorded by 김민희 \nMixed by 이대원 (ALO) \nMastered by 권남우 @ 821 Sound Mastering \n \nVocal by 김경은 (Tin)\nChorus by 김경은 (Tin) \nGuitar by 임남훈 \n \nCover art by 김재영 (yeomi) \nTeaser video by 이대원 (ALO) \n \nThanks to 이소원 (털뭉치), 김준기 (Squid man), 김성우 (Creamo), 김대현 (Bondaon)\n\n#ALO #1yellow #Kpop"
+        }
+      }
+    }
+  ]
+}

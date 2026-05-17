@@ -1,0 +1,969 @@
+{
+  "idx": 366,
+  "channel_id": "UCU26r4pGxkIzcepi7VQtkUw",
+  "channel_title": "이야디자인",
+  "playlist_items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "emrLEubN96BU3f7O48vQ6fdUUJg",
+      "id": "VVVVMjZyNHBHeGtJemNlcGk3VlF0a1V3Li1ZNnNjSXRsT0tz",
+      "snippet": {
+        "publishedAt": "2024-01-30T12:15:10Z",
+        "channelId": "UCU26r4pGxkIzcepi7VQtkUw",
+        "title": "새로운시작 인테리어",
+        "description": "인테리어~\n무조건 전화주세요\n특별한 혜택을 드리겠습니다",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-Y6scItlOKs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-Y6scItlOKs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-Y6scItlOKs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-Y6scItlOKs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-Y6scItlOKs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이야디자인",
+        "playlistId": "UUU26r4pGxkIzcepi7VQtkUw",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-Y6scItlOKs"
+        },
+        "videoOwnerChannelTitle": "이야디자인",
+        "videoOwnerChannelId": "UCU26r4pGxkIzcepi7VQtkUw"
+      },
+      "contentDetails": {
+        "videoId": "-Y6scItlOKs",
+        "videoPublishedAt": "2024-01-30T12:15:10Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "rTc2xDbf_rBYa6bFd5z5KmhaVw0",
+      "id": "VVVVMjZyNHBHeGtJemNlcGk3VlF0a1V3LnNaMkJGZlBlOTR3",
+      "snippet": {
+        "publishedAt": "2022-07-18T02:19:47Z",
+        "channelId": "UCU26r4pGxkIzcepi7VQtkUw",
+        "title": "2022 LFA 정규3전",
+        "description": "토너먼트 경비~ 얼마나 들까요?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sZ2BFfPe94w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sZ2BFfPe94w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sZ2BFfPe94w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sZ2BFfPe94w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sZ2BFfPe94w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이야디자인",
+        "playlistId": "UUU26r4pGxkIzcepi7VQtkUw",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "sZ2BFfPe94w"
+        },
+        "videoOwnerChannelTitle": "이야디자인",
+        "videoOwnerChannelId": "UCU26r4pGxkIzcepi7VQtkUw"
+      },
+      "contentDetails": {
+        "videoId": "sZ2BFfPe94w",
+        "videoPublishedAt": "2022-07-18T02:19:47Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "YNVsCPWMF2QcB-XfrFaDlVBEXRA",
+      "id": "VVVVMjZyNHBHeGtJemNlcGk3VlF0a1V3LkN6Q0huMFhYbGpN",
+      "snippet": {
+        "publishedAt": "2022-07-08T11:13:18Z",
+        "channelId": "UCU26r4pGxkIzcepi7VQtkUw",
+        "title": "2022 LFA 바낙스컵 오픈2전",
+        "description": "2022 LFA 바낙스컵 오픈2전 \n블박영상을 편집해 보았습니다",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CzCHn0XXljM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CzCHn0XXljM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CzCHn0XXljM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CzCHn0XXljM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CzCHn0XXljM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이야디자인",
+        "playlistId": "UUU26r4pGxkIzcepi7VQtkUw",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CzCHn0XXljM"
+        },
+        "videoOwnerChannelTitle": "이야디자인",
+        "videoOwnerChannelId": "UCU26r4pGxkIzcepi7VQtkUw"
+      },
+      "contentDetails": {
+        "videoId": "CzCHn0XXljM",
+        "videoPublishedAt": "2022-07-08T11:13:18Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "0GxwxhA87T5myI24Cw9v-gG6thI",
+      "id": "VVVVMjZyNHBHeGtJemNlcGk3VlF0a1V3LmIwRGd2NlphRmRV",
+      "snippet": {
+        "publishedAt": "2022-07-03T22:53:50Z",
+        "channelId": "UCU26r4pGxkIzcepi7VQtkUw",
+        "title": "2022 LFA 오픈1전",
+        "description": "2022 LFA 오픈1전입니다\n5월 29일 라팔라컵 입니다\n앵글이 블랙박스 단독앵글이라 좀 답답할수 있습니다",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/b0Dgv6ZaFdU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/b0Dgv6ZaFdU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/b0Dgv6ZaFdU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/b0Dgv6ZaFdU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/b0Dgv6ZaFdU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이야디자인",
+        "playlistId": "UUU26r4pGxkIzcepi7VQtkUw",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "b0Dgv6ZaFdU"
+        },
+        "videoOwnerChannelTitle": "이야디자인",
+        "videoOwnerChannelId": "UCU26r4pGxkIzcepi7VQtkUw"
+      },
+      "contentDetails": {
+        "videoId": "b0Dgv6ZaFdU",
+        "videoPublishedAt": "2022-07-03T22:53:50Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Y_osUhle4jDNityNIX44yNfNhew",
+      "id": "VVVVMjZyNHBHeGtJemNlcGk3VlF0a1V3LmkwV2tuNEk5Mjln",
+      "snippet": {
+        "publishedAt": "2022-06-12T23:31:04Z",
+        "channelId": "UCU26r4pGxkIzcepi7VQtkUw",
+        "title": "정말 오래간만입니다. 오늘은 그남자의취미로 영상을 올립니다. 2022년 LFA 프로토너먼트 정규2전",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/i0Wkn4I929g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/i0Wkn4I929g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/i0Wkn4I929g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/i0Wkn4I929g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/i0Wkn4I929g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이야디자인",
+        "playlistId": "UUU26r4pGxkIzcepi7VQtkUw",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "i0Wkn4I929g"
+        },
+        "videoOwnerChannelTitle": "이야디자인",
+        "videoOwnerChannelId": "UCU26r4pGxkIzcepi7VQtkUw"
+      },
+      "contentDetails": {
+        "videoId": "i0Wkn4I929g",
+        "videoPublishedAt": "2022-06-12T23:31:04Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "1xqweHAh1z_XOQXn4DTuz6xWldY",
+      "id": "VVVVMjZyNHBHeGtJemNlcGk3VlF0a1V3LjFkeUd5VVNnbU5V",
+      "snippet": {
+        "publishedAt": "2018-12-06T13:52:38Z",
+        "channelId": "UCU26r4pGxkIzcepi7VQtkUw",
+        "title": "통영 참다랑어(홍보영상)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1dyGyUSgmNU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1dyGyUSgmNU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1dyGyUSgmNU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1dyGyUSgmNU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1dyGyUSgmNU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이야디자인",
+        "playlistId": "UUU26r4pGxkIzcepi7VQtkUw",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1dyGyUSgmNU"
+        },
+        "videoOwnerChannelTitle": "이야디자인",
+        "videoOwnerChannelId": "UCU26r4pGxkIzcepi7VQtkUw"
+      },
+      "contentDetails": {
+        "videoId": "1dyGyUSgmNU",
+        "videoPublishedAt": "2018-12-06T13:52:38Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zin_K_CGO-eLni01ti8i7yasQtk",
+      "id": "VVVVMjZyNHBHeGtJemNlcGk3VlF0a1V3LmIxV0wzUWQ1ZGdv",
+      "snippet": {
+        "publishedAt": "2018-10-07T12:54:40Z",
+        "channelId": "UCU26r4pGxkIzcepi7VQtkUw",
+        "title": "그여자의취미-아봉-님의 실시간 스트리밍",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/b1WL3Qd5dgo/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/b1WL3Qd5dgo/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/b1WL3Qd5dgo/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/b1WL3Qd5dgo/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/b1WL3Qd5dgo/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이야디자인",
+        "playlistId": "UUU26r4pGxkIzcepi7VQtkUw",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "b1WL3Qd5dgo"
+        },
+        "videoOwnerChannelTitle": "이야디자인",
+        "videoOwnerChannelId": "UCU26r4pGxkIzcepi7VQtkUw"
+      },
+      "contentDetails": {
+        "videoId": "b1WL3Qd5dgo",
+        "videoPublishedAt": "2018-10-07T12:54:40Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "video_details": [
+    {
+      "kind": "youtube#video",
+      "etag": "zXztkyUJjJv675qJGkxNViXgGwc",
+      "id": "-Y6scItlOKs",
+      "snippet": {
+        "publishedAt": "2024-01-30T12:15:10Z",
+        "channelId": "UCU26r4pGxkIzcepi7VQtkUw",
+        "title": "새로운시작 인테리어",
+        "description": "인테리어~\n무조건 전화주세요\n특별한 혜택을 드리겠습니다",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-Y6scItlOKs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-Y6scItlOKs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-Y6scItlOKs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-Y6scItlOKs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-Y6scItlOKs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이야디자인",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "새로운시작 인테리어",
+          "description": "인테리어~\n무조건 전화주세요\n특별한 혜택을 드리겠습니다"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT14S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "40",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Hobby",
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "새로운시작 인테리어",
+          "description": "인테리어~\n무조건 전화주세요\n특별한 혜택을 드리겠습니다"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "bvD6nDKRJUuAJXXnw52YubG4gmM",
+      "id": "sZ2BFfPe94w",
+      "snippet": {
+        "publishedAt": "2022-07-18T02:19:47Z",
+        "channelId": "UCU26r4pGxkIzcepi7VQtkUw",
+        "title": "2022 LFA 정규3전",
+        "description": "토너먼트 경비~ 얼마나 들까요?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sZ2BFfPe94w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sZ2BFfPe94w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sZ2BFfPe94w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sZ2BFfPe94w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sZ2BFfPe94w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이야디자인",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "2022 LFA 정규3전",
+          "description": "토너먼트 경비~ 얼마나 들까요?"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT10M17S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "465",
+        "likeCount": "21",
+        "favoriteCount": "0",
+        "commentCount": "5"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+          "https://en.wikipedia.org/wiki/Motorsport"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "2022 LFA 정규3전",
+          "description": "토너먼트 경비~ 얼마나 들까요?"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "72uFdypeQRngevLBMMglviw-WpE",
+      "id": "CzCHn0XXljM",
+      "snippet": {
+        "publishedAt": "2022-07-08T11:13:18Z",
+        "channelId": "UCU26r4pGxkIzcepi7VQtkUw",
+        "title": "2022 LFA 바낙스컵 오픈2전",
+        "description": "2022 LFA 바낙스컵 오픈2전 \n블박영상을 편집해 보았습니다",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CzCHn0XXljM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CzCHn0XXljM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CzCHn0XXljM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CzCHn0XXljM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CzCHn0XXljM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이야디자인",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "2022 LFA 바낙스컵 오픈2전",
+          "description": "2022 LFA 바낙스컵 오픈2전 \n블박영상을 편집해 보았습니다"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT15M45S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "506",
+        "likeCount": "11",
+        "favoriteCount": "0",
+        "commentCount": "12"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Hobby",
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+          "https://en.wikipedia.org/wiki/Pet"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "2022 LFA 바낙스컵 오픈2전",
+          "description": "2022 LFA 바낙스컵 오픈2전 \n블박영상을 편집해 보았습니다"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "gnGon0R4RsGLctEtTwxo_zjbsrc",
+      "id": "b0Dgv6ZaFdU",
+      "snippet": {
+        "publishedAt": "2022-07-03T22:53:50Z",
+        "channelId": "UCU26r4pGxkIzcepi7VQtkUw",
+        "title": "2022 LFA 오픈1전",
+        "description": "2022 LFA 오픈1전입니다\n5월 29일 라팔라컵 입니다\n앵글이 블랙박스 단독앵글이라 좀 답답할수 있습니다",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/b0Dgv6ZaFdU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/b0Dgv6ZaFdU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/b0Dgv6ZaFdU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/b0Dgv6ZaFdU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/b0Dgv6ZaFdU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이야디자인",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "2022 LFA 오픈1전",
+          "description": "2022 LFA 오픈1전입니다\n5월 29일 라팔라컵 입니다\n앵글이 블랙박스 단독앵글이라 좀 답답할수 있습니다"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT12M8S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "375",
+        "likeCount": "18",
+        "favoriteCount": "0",
+        "commentCount": "14"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Hobby",
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+          "https://en.wikipedia.org/wiki/Vehicle"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "2022 LFA 오픈1전",
+          "description": "2022 LFA 오픈1전입니다\n5월 29일 라팔라컵 입니다\n앵글이 블랙박스 단독앵글이라 좀 답답할수 있습니다"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "18aS8sg2RlkxhqQIwuA-MbCfUww",
+      "id": "i0Wkn4I929g",
+      "snippet": {
+        "publishedAt": "2022-06-12T23:31:04Z",
+        "channelId": "UCU26r4pGxkIzcepi7VQtkUw",
+        "title": "정말 오래간만입니다. 오늘은 그남자의취미로 영상을 올립니다. 2022년 LFA 프로토너먼트 정규2전",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/i0Wkn4I929g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/i0Wkn4I929g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/i0Wkn4I929g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/i0Wkn4I929g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/i0Wkn4I929g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이야디자인",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "정말 오래간만입니다. 오늘은 그남자의취미로 영상을 올립니다. 2022년 LFA 프로토너먼트 정규2전",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT14M44S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "681",
+        "likeCount": "26",
+        "favoriteCount": "0",
+        "commentCount": "19"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Hobby",
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+          "https://en.wikipedia.org/wiki/Pet"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "정말 오래간만입니다. 오늘은 그남자의취미로 영상을 올립니다. 2022년 LFA 프로토너먼트 정규2전",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Q_TreaTO0rcSTh4b_SUqQzMZbbg",
+      "id": "1dyGyUSgmNU",
+      "snippet": {
+        "publishedAt": "2018-12-06T13:52:38Z",
+        "channelId": "UCU26r4pGxkIzcepi7VQtkUw",
+        "title": "통영 참다랑어(홍보영상)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1dyGyUSgmNU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1dyGyUSgmNU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1dyGyUSgmNU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1dyGyUSgmNU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1dyGyUSgmNU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이야디자인",
+        "tags": [
+          "참치",
+          "빅게임",
+          "통영",
+          "욕지도",
+          "방어",
+          "부시리",
+          "파핑",
+          "지깅"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "통영 참다랑어(홍보영상)",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT1M8S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "3938",
+        "likeCount": "25",
+        "favoriteCount": "0",
+        "commentCount": "14"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "통영 참다랑어(홍보영상)",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "eaQSI1-VArD-RXrHPVma69kYTsE",
+      "id": "b1WL3Qd5dgo",
+      "snippet": {
+        "publishedAt": "2018-10-07T12:54:40Z",
+        "channelId": "UCU26r4pGxkIzcepi7VQtkUw",
+        "title": "그여자의취미-아봉-님의 실시간 스트리밍",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/b1WL3Qd5dgo/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/b1WL3Qd5dgo/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/b1WL3Qd5dgo/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/b1WL3Qd5dgo/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/b1WL3Qd5dgo/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이야디자인",
+        "categoryId": "22",
+        "liveBroadcastContent": "upcoming",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "그여자의취미-아봉-님의 실시간 스트리밍",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "P0D",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "uploaded",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "0",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "그여자의취미-아봉-님의 실시간 스트리밍",
+          "description": ""
+        }
+      }
+    }
+  ]
+}

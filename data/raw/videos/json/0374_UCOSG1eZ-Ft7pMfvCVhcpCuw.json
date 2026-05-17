@@ -1,0 +1,403 @@
+{
+  "idx": 374,
+  "channel_id": "UCOSG1eZ-Ft7pMfvCVhcpCuw",
+  "channel_title": "YE'S FAMILY [예스패밀리]",
+  "playlist_items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zj7cV72SNrvBBphBf1_x3MFZg3c",
+      "id": "VVVPU0cxZVotRnQ3cE1mdkNWaGNwQ3V3LkM1ZExFSm1SWGlz",
+      "snippet": {
+        "publishedAt": "2019-04-29T11:22:42Z",
+        "channelId": "UCOSG1eZ-Ft7pMfvCVhcpCuw",
+        "title": "The orange is alive. Orange kitchen play. Pretend play with living fruit",
+        "description": "Mommy and the orange became one.\nPlay with fruit.\nPlay magic with orange.\n\n⏩ SUBSCRIBE : https://goo.gl/cG8UFY\n⏩ PLAYLIST : https://goo.gl/nZbLEz\n⏩ Please like ✯ comment ✯ subscribe to YE'S FAMILY to watch more interesting videos!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/C5dLEJmRXis/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/C5dLEJmRXis/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/C5dLEJmRXis/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/C5dLEJmRXis/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "YE'S FAMILY [예스패밀리]",
+        "playlistId": "UUOSG1eZ-Ft7pMfvCVhcpCuw",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "C5dLEJmRXis"
+        },
+        "videoOwnerChannelTitle": "YE'S FAMILY [예스패밀리]",
+        "videoOwnerChannelId": "UCOSG1eZ-Ft7pMfvCVhcpCuw"
+      },
+      "contentDetails": {
+        "videoId": "C5dLEJmRXis",
+        "videoPublishedAt": "2019-04-29T11:22:42Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "uPUwBdA5zt8h0HjTzPe5dU34HcE",
+      "id": "VVVPU0cxZVotRnQ3cE1mdkNWaGNwQ3V3LnVHUWZZaTQwcU1z",
+      "snippet": {
+        "publishedAt": "2018-01-03T14:29:25Z",
+        "channelId": "UCOSG1eZ-Ft7pMfvCVhcpCuw",
+        "title": "[송위자드] Song Wizard님의 실시간 스트리밍",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uGQfYi40qMs/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uGQfYi40qMs/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uGQfYi40qMs/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uGQfYi40qMs/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uGQfYi40qMs/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "YE'S FAMILY [예스패밀리]",
+        "playlistId": "UUOSG1eZ-Ft7pMfvCVhcpCuw",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "uGQfYi40qMs"
+        },
+        "videoOwnerChannelTitle": "YE'S FAMILY [예스패밀리]",
+        "videoOwnerChannelId": "UCOSG1eZ-Ft7pMfvCVhcpCuw"
+      },
+      "contentDetails": {
+        "videoId": "uGQfYi40qMs",
+        "videoPublishedAt": "2018-01-03T14:29:25Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "video_details": [
+    {
+      "kind": "youtube#video",
+      "etag": "HqxoeJ0xktK3ysaziTjDoX9wmEY",
+      "id": "C5dLEJmRXis",
+      "snippet": {
+        "publishedAt": "2019-04-29T11:22:42Z",
+        "channelId": "UCOSG1eZ-Ft7pMfvCVhcpCuw",
+        "title": "The orange is alive. Orange kitchen play. Pretend play with living fruit",
+        "description": "Mommy and the orange became one.\nPlay with fruit.\nPlay magic with orange.\n\n⏩ SUBSCRIBE : https://goo.gl/cG8UFY\n⏩ PLAYLIST : https://goo.gl/nZbLEz\n⏩ Please like ✯ comment ✯ subscribe to YE'S FAMILY to watch more interesting videos!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/C5dLEJmRXis/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/C5dLEJmRXis/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/C5dLEJmRXis/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/C5dLEJmRXis/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "YE'S FAMILY [예스패밀리]",
+        "tags": [
+          "magic orange",
+          "orange is alive",
+          "Transformation",
+          "make people",
+          "Play with fruit",
+          "cut fruit for kids",
+          "play for kids",
+          "pretend play",
+          "kitchen play",
+          "living fruit",
+          "주방놀이",
+          "상황극 모음",
+          "예스패밀리",
+          "YE'S FAMILY",
+          "살아있는 오렌지",
+          "마법 오렌지",
+          "변신놀이",
+          "for kids",
+          "playtime",
+          "magic kids",
+          "annoying orange",
+          "Learn fruit names"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "The orange is alive. Orange kitchen play. Pretend play with living fruit",
+          "description": "Mommy and the orange became one.\nPlay with fruit.\nPlay magic with orange.\n\n⏩ SUBSCRIBE : https://goo.gl/cG8UFY\n⏩ PLAYLIST : https://goo.gl/nZbLEz\n⏩ Please like ✯ comment ✯ subscribe to YE'S FAMILY to watch more interesting videos!"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT2M34S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": true
+      },
+      "statistics": {
+        "viewCount": "20491",
+        "likeCount": "39",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Hobby",
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "th": {
+          "title": "ส้มยังมีชีวิตอยู่ เล่นห้องครัวสีส้ม แกล้งเล่นกับผลไม้ที่อยู่อาศัย",
+          "description": "\"แม่และสีส้มกลายเป็นหนึ่ง\nเล่นกับผลไม้\nเล่นมายากลที่มีสีส้ม\n\n⏩สมัคร: https://goo.gl/cG8UFY\n⏩ PLAYLIST: https://goo.gl/nZbLEz\n⏩โปรดชอบแสดงความคิดเห็น✯✯สมัครเป็นสมาชิกครอบครัวเยดูวิดีโอที่น่าสนใจอื่น ๆ อีกมากมาย!\""
+        },
+        "uk": {
+          "title": "Помаранчевий живий. Помаранчеві кухні грати. Прикинься грати з живими фруктами",
+          "description": "\"Матуся і помаранчевий стали.\nГрати з фруктами.\nГрати магії з помаранчевим.\n\n⏩ ПЕРЕДПЛАТА: https://goo.gl/cG8UFY\n⏩ PLAYLIST: https://goo.gl/nZbLEz\n⏩ ласка подобається ✯ ✯ коментарі підписатися на сім'ю Ой, щоб подивитися більш цікаве відео!\""
+        },
+        "ms": {
+          "title": "oren masih hidup. Orange bermain dapur. Berpura-pura bermain dengan buah-buahan yang tinggal",
+          "description": "\"Mama dan oren menjadi satu.\nBermain dengan buah-buahan.\nBermain sihir dengan oren.\n\n⏩ LANGGAN: https://goo.gl/cG8UFY\n⏩ PLAYLIST: https://goo.gl/nZbLEz\n⏩ Sila suka ✯ komen ✯ melanggan KELUARGA YE'S untuk menonton video lebih menarik!\""
+        },
+        "cs": {
+          "title": "Oranžová je naživu. Orange kuchyně hra. Předstírat, hrát s živou ovocem",
+          "description": "\"Maminka a oranžová se stal jedním.\nHrát s ovocem.\nHrát kouzlo s oranžovou.\n\n⏩ PŘIHLÁŠENÍ ON-LINE: https://goo.gl/cG8UFY\n⏩ PLAYLIST: https://goo.gl/nZbLEz\n⏩ si rádi ✯ ✯ komentář předplatit FAMILY vy'S sledovat další zajímavá videa!\""
+        },
+        "no": {
+          "title": "Den oransje er i live. Orange kjøkken lek. Lat spille med levende frukt",
+          "description": "\"Mamma og oransje ble ett.\nSpill med frukt.\nSpill magi med oransje.\n\n⏩ ABONNEMENT: https://goo.gl/cG8UFY\n⏩ SPILLELISTE: https://goo.gl/nZbLEz\n⏩ Vennligst liker ✯ kommentere ✯ abonnere YE familie for å se mer interessante videoer!\""
+        },
+        "zh-Hant": {
+          "title": "橙色是活的。橙色廚打。假裝遊戲與生活水果",
+          "description": "\"媽媽和橙色變成了一個。\n水果播放。\n玩魔術橙色。\n\n⏩訂閱：https://goo.gl/cG8UFY\n⏩PLAYLIST：https://goo.gl/nZbLEz\n⏩請喜歡✯評論✯訂閱YE的家人觀看更多有趣的影片！\""
+        },
+        "tl": {
+          "title": "orange ay buhay. Orange kusina play. Magpanggap pag-play na may buhay prutas",
+          "description": "\"Mommy at ang orange ay naging isa.\nI-play na may prutas.\nI-play magic na may orange.\n\n⏩ SUBSCRIBE: https://goo.gl/cG8UFY\n⏩ PLAYLIST: https://goo.gl/nZbLEz\n⏩ Mangyaring like ✯ comment ✯ mag-subscribe sa PAMILYA YE'S upang panoorin mas kawili-wiling mga video!\""
+        },
+        "da": {
+          "title": "Den orange er i live. Orange køkken leg. Pretend leg med levende frugt",
+          "description": "\"Mor og den orange blev en.\nLeg med frugt.\nSpil magi med orange.\n\n⏩ SUBSCRIBE: https://goo.gl/cG8UFY\n⏩ PLAYLIST: https://goo.gl/nZbLEz\n⏩ gerne venligst ✯ kommentere ✯ abonnere på YE'S FAMILIE at se mere interessante videoer!\""
+        },
+        "sv": {
+          "title": "Den orange är levande. Orange kök play. Låtsas spela med levande frukt",
+          "description": "\"Mamma och apelsin blev en.\nSpela med frukt.\nSpela Magic med orange.\n\n⏩ SUBSCRIBE: https://goo.gl/cG8UFY\n⏩ LIST: https://goo.gl/nZbLEz\n⏩ Vänligen vilja ✯ kommentera ✯ prenumerera på YE familj att se mer intressanta videor!\""
+        },
+        "tr": {
+          "title": "portakal hayatta. Turuncu mutfak oyun. yaşayan meyve ile hayali oyun",
+          "description": "\"Anne ve portakal biri oldu.\nmeyve ile oynayın.\nTuruncu ile büyü oyna.\n\nABONE ⏩: https://goo.gl/cG8UFY\n⏩ PLAYLIST: https://goo.gl/nZbLEz\n⏩ daha ilginç videoları izlemek için YE'S AİLE abone ✯ açıklama ✯ ister edin!\""
+        },
+        "fr": {
+          "title": "L'orange est vivant. jeu de cuisine orange. Jeux de rôles avec des fruits vivants",
+          "description": "\"Maman et l'orange est devenu l'un.\nJouez avec des fruits.\nJouer à la magie à l'orange.\n\n⏩ INSCRIVEZ-VOUS: https://goo.gl/cG8UFY\n⏩ PLAYLIST: https://goo.gl/nZbLEz\n⏩ S'il vous plaît comme ✯ commentaires ✯ abonner à la famille de YE pour regarder des vidéos les plus intéressantes!\""
+        },
+        "hu": {
+          "title": "A narancssárga él. Narancs konyhai játszani. Tegyünk úgy, mintha játszani élő gyümölcs",
+          "description": "\"Mami és a narancsszínű lett.\nJátssz gyümölcs.\nJátssz mágikus narancssárga.\n\n⏩ SUBSCRIBE: https://goo.gl/cG8UFY\n⏩ LISTA: https://goo.gl/nZbLEz\n⏩ Kérem nézze ✯ megjegyzést ✯ feliratkozás YE családja néz több érdekes videók!\""
+        },
+        "ja": {
+          "title": "オレンジは生きています。オレンジキッチンプレイ。住んでいる果物で遊びをふり",
+          "description": "\"ママとオレンジが一つとなりました。\n果物と遊びます。\nオレンジでマジックをプレイ。\n\n⏩SUBSCRIBE：https://goo.gl/cG8UFY\n⏩PLAYLIST：https://goo.gl/nZbLEz\n⏩ようください✯✯コメントもっと面白いビデオを視聴することがYE'S FAMILYに加入！\""
+        },
+        "mn": {
+          "title": "улбар шар амьд байна. Улбар шар өнгийн гал тогооны тоглох. амьдарч буй жимс нь тоглох төсөөл",
+          "description": "\"Ээж нь, улбар шар нэг болсон билээ.\nжимс нь тоглож байна.\nулбар шар нь ид шид Play.\n\nБүртгүүлэх ⏩: https://goo.gl/cG8UFY\n⏩ PLAYLIST: https://goo.gl/nZbLEz\n⏩ илүү сонирхолтой видео үзэх учир нь та нар гэр бүл бүртгүүлэх ✯ тайлбар ✯ дуртай уу!\""
+        },
+        "vi": {
+          "title": "Các cam là còn sống. Orange bếp chơi. Giả vờ chơi với trái cây sống",
+          "description": "\"Mẹ và cam trở thành một.\nChơi với trái cây.\nChơi ảo thuật với màu cam.\n\n⏩ Theo dõi: https://goo.gl/cG8UFY\n⏩ PLAYLIST: https://goo.gl/nZbLEz\n⏩ Hãy thích ✯ bình luận ✯ đăng ký FAMILY YE CỦA xem video thú vị hơn!\""
+        },
+        "pt": {
+          "title": "A laranja é vivo. Laranja jogo de cozinha. Finja jogo com frutas vivendo",
+          "description": "\"Mommy and a laranja se tornou um.\nJogar com frutas.\nJogar Magic com laranja.\n\n⏩ assinatura: https://goo.gl/cG8UFY\n⏩ PLAYLIST: https://goo.gl/nZbLEz\n⏩ Por favor, gostaria ✯ ✯ comentar subscrever à família de YE para assistir vídeos mais interessantes!\""
+        },
+        "zh-Hans": {
+          "title": "橙色是活的。橙色厨打。假装游戏与生活水果",
+          "description": "\"妈妈和橙色变成了一个。\n水果播放。\n玩魔术橙色。\n\n⏩订阅：https://goo.gl/cG8UFY\n⏩PLAYLIST：https://goo.gl/nZbLEz\n⏩请喜欢✯评论✯订阅YE的家人观看更多有趣的影片！\""
+        },
+        "nl": {
+          "title": "De oranje leeft. Oranje keuken te spelen. Pretend spelen met levende fruit",
+          "description": "\"Mama en de oranje werd een.\nSpeel met fruit.\nSpeel magie met oranje.\n\n⏩ INSCHRIJVEN: https://goo.gl/cG8UFY\n⏩ Playlist: https://goo.gl/nZbLEz\n⏩ Gelieve graag ✯ commentaar ✯ abonneren op FAMILY YE om meer interessante video te bekijken!\""
+        },
+        "ar": {
+          "title": "البرتقالي هو على قيد الحياة. البرتقال المطبخ اللعب. نتظاهر اللعب مع الفواكه يعيشون",
+          "description": "\"أصبحت الأم والبرتقال واحدة.\nاللعب مع الفواكه.\nلعب السحر مع البرتقال.\n\n⏩ الاشتراك: https://goo.gl/cG8UFY\n⏩ قائمة التشغيل: https://goo.gl/nZbLEz\n⏩ الرجاء ترغب ✯ ✯ التعليق الاشتراك في FAMILY YE لمشاهدة أشرطة الفيديو أكثر إثارة للاهتمام!\""
+        },
+        "pl": {
+          "title": "Pomarańczowy żyje. Pomarańczowy kuchnia zabaw. Udawać, grać z żywym owoców",
+          "description": "\"Mamusia i pomarańczowy stał się jednym.\nZagraj z owoców.\nGraj magię z pomarańczy.\n\n⏩ SUBSKRYBUJ: https://goo.gl/cG8UFY\n⏩ odtwarzania: https://goo.gl/nZbLEz\n⏩ Proszę podoba ✯ skomentować ✯ subskrybować RODZINY Ye oglądać więcej ciekawych filmów!\""
+        },
+        "ru": {
+          "title": "Оранжевый жив. Оранжевые кухни играть. Притворись играть с живыми фруктами",
+          "description": "\"Мамочка и оранжевый стали.\nИграть с фруктами.\nИграть магии с оранжевым.\n\n⏩ ПОДПИСКА: https://goo.gl/cG8UFY\n⏩ PLAYLIST: https://goo.gl/nZbLEz\n⏩ Пожалуйста нравится ✯ ✯ комментарии подписаться на семью Ой, чтобы посмотреть более интересное видео!\""
+        },
+        "hi": {
+          "title": "नारंगी जीवित है। ऑरेंज रसोई खेलते हैं। रहने वाले फल के साथ खेलने का नाटक",
+          "description": "\"माँ और नारंगी एक बन गया।\nफल के साथ खेलते हैं।\nनारंगी के साथ जादू खेलें।\n\n⏩ सदस्यता: https://goo.gl/cG8UFY\n⏩ प्लेलिस्ट: https://goo.gl/nZbLEz\n⏩ कृपया ✯ YE के परिवार की सदस्यता ✯ और अधिक दिलचस्प वीडियो देखने के लिए टिप्पणी पसंद है!\""
+        },
+        "ko": {
+          "title": "오렌지가 살아있어요. 오렌지 주방놀이. 살아있는 과일 역할극",
+          "description": "엄마와 오렌지가 하나가 되었어요\n과일을 가지고 놀아요.\n오렌지로 마법놀이를 해요.\n\n⏩ SUBSCRIBE [구독] : https:/goo.gl/cG8UFY\n⏩ PLAYLIST [재생목록] : https://goo.gl/nZbLEz\n⏩ 예스패밀리 [YE'S FAMILY]를 구독하시면 재미있고 유익한 비디오를 매일매일 만나볼 수 있어요!"
+        },
+        "it": {
+          "title": "L'arancia è vivo. Orange kitchen gioco. Finta Play con frutta vivente",
+          "description": "\"Mamma e l'arancio sono diventati uno.\nGioca con la frutta.\nGioca con la magia arancione.\n\n⏩ SUBSCRIBE: https://goo.gl/cG8UFY\n⏩ PLAYLIST: https://goo.gl/nZbLEz\nSi prega di ⏩ come ✯ ✯ commento sottoscrivere FAMILY YE'S per guardare i video più interessanti!\""
+        },
+        "en": {
+          "title": "The orange is alive. Orange kitchen play. Pretend play with living fruit",
+          "description": "Mommy and the orange became one.\nPlay with fruit.\nPlay magic with orange.\n\n⏩ SUBSCRIBE : https://goo.gl/cG8UFY\n⏩ PLAYLIST : https://goo.gl/nZbLEz\n⏩ Please like ✯ comment ✯ subscribe to YE'S FAMILY to watch more interesting videos!"
+        },
+        "de": {
+          "title": "Die Orange ist lebendig. Orange Küche spielen. Rollenspiel mit lebendem Obst",
+          "description": "\"Mama und die orange wurde zu einem.\nSpiele mit Früchten.\nSpielen Magie mit Orange.\n\n⏩ ABONNIEREN: https://goo.gl/cG8UFY\n⏩ WDG: https://goo.gl/nZbLEz\n⏩ Bitte gerne ✯ Kommentar ✯ zu YE FAMILIE abonniert interessante Videos zu sehen!\""
+        },
+        "fi": {
+          "title": "Oranssi on elossa. Oranssi keittiö pelata. Teeskennellä pelata elävä hedelmiä",
+          "description": "\"Äiti ja oranssi tuli yksi.\nLeikkiä hedelmää.\nMagic oranssi.\n\n⏩ TILAA: https://goo.gl/cG8UFY\n⏩ PLAYLIST: https://goo.gl/nZbLEz\n⏩ Ota like ✯ kommentoida ✯ tilata YE perheen katsella mielenkiintoisempaa videoita!\""
+        },
+        "es": {
+          "title": "El naranja está vivo. cocina de juguete de color naranja. Los juegos de simulación con",
+          "description": "\"Mamá y el naranja se convirtió en uno.\nJuega con la fruta.\nJuega magia con naranja.\n\n⏩ SUSCRIPCIÓN: https://goo.gl/cG8UFY\n⏩ LISTA DE REPRODUCCIÓN: https://goo.gl/nZbLEz\nPor favor ⏩ gustaría comentar ✯ ✯ suscribirse a la familia de YE para ver vídeos más interesantes!\""
+        },
+        "id": {
+          "title": "oranye masih hidup. Oranye dapur bermain. Berpura-pura bermain dengan buah hidup",
+          "description": "\"Mommy dan oranye menjadi satu.\nBermain dengan buah.\nBermain sulap dengan oranye.\n\n⏩ BERLANGGANAN: https://goo.gl/cG8UFY\n⏩ PLAYLIST: https://goo.gl/nZbLEz\n⏩ Silakan suka ✯ komentar ✯ berlangganan KELUARGA YE'S untuk menonton video yang lebih menarik!\""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "0Rc_fEvRmIlXxnRchYKj3SHqXZM",
+      "id": "uGQfYi40qMs",
+      "snippet": {
+        "publishedAt": "2018-01-03T14:29:25Z",
+        "channelId": "UCOSG1eZ-Ft7pMfvCVhcpCuw",
+        "title": "[송위자드] Song Wizard님의 실시간 스트리밍",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uGQfYi40qMs/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uGQfYi40qMs/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uGQfYi40qMs/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uGQfYi40qMs/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uGQfYi40qMs/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "YE'S FAMILY [예스패밀리]",
+        "categoryId": "20",
+        "liveBroadcastContent": "upcoming",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[송위자드] Song Wizard님의 실시간 스트리밍",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "P0D",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "uploaded",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": false,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "0",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "[송위자드] Song Wizard님의 실시간 스트리밍",
+          "description": ""
+        }
+      }
+    }
+  ]
+}

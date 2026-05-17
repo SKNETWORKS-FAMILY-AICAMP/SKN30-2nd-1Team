@@ -1,0 +1,594 @@
+{
+  "idx": 285,
+  "channel_id": "UCzFkNjQyB6oltN8zuoXTlNw",
+  "channel_title": "폭쥬알파카",
+  "playlist_items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "5S2QAKQDimPN5WzFfkWPubdJ0r0",
+      "id": "VVV6RmtOalF5QjZvbHROOHp1b1hUbE53LlJpQXh2YmZraDE4",
+      "snippet": {
+        "publishedAt": "2017-11-28T14:55:13Z",
+        "channelId": "UCzFkNjQyB6oltN8zuoXTlNw",
+        "title": "옵치 03_overwatch animation",
+        "description": ".",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RiAxvbfkh18/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RiAxvbfkh18/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RiAxvbfkh18/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RiAxvbfkh18/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RiAxvbfkh18/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "폭쥬알파카",
+        "playlistId": "UUzFkNjQyB6oltN8zuoXTlNw",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "RiAxvbfkh18"
+        },
+        "videoOwnerChannelTitle": "폭쥬알파카",
+        "videoOwnerChannelId": "UCzFkNjQyB6oltN8zuoXTlNw"
+      },
+      "contentDetails": {
+        "videoId": "RiAxvbfkh18",
+        "videoPublishedAt": "2017-11-28T14:55:13Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "19RUBSLjvxi7dBqys_8Q6XGTDc4",
+      "id": "VVV6RmtOalF5QjZvbHROOHp1b1hUbE53LmVJYTc0NlZMaTRF",
+      "snippet": {
+        "publishedAt": "2017-11-11T17:54:45Z",
+        "channelId": "UCzFkNjQyB6oltN8zuoXTlNw",
+        "title": "옵치 02_overwatch animation",
+        "description": "Music: TheFatRat - Jackpot https://www.youtube.com/watch?v=kL8CyVqzmkc",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eIa746VLi4E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eIa746VLi4E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eIa746VLi4E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eIa746VLi4E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eIa746VLi4E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "폭쥬알파카",
+        "playlistId": "UUzFkNjQyB6oltN8zuoXTlNw",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "eIa746VLi4E"
+        },
+        "videoOwnerChannelTitle": "폭쥬알파카",
+        "videoOwnerChannelId": "UCzFkNjQyB6oltN8zuoXTlNw"
+      },
+      "contentDetails": {
+        "videoId": "eIa746VLi4E",
+        "videoPublishedAt": "2017-11-11T17:54:45Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Hr76B-7_EUg54fLAFem2qQsRkeM",
+      "id": "VVV6RmtOalF5QjZvbHROOHp1b1hUbE53Lk53T1hMeU02SC1Z",
+      "snippet": {
+        "publishedAt": "2017-11-04T19:26:05Z",
+        "channelId": "UCzFkNjQyB6oltN8zuoXTlNw",
+        "title": "옵치 01_overwatch animation",
+        "description": ".",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NwOXLyM6H-Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NwOXLyM6H-Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NwOXLyM6H-Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NwOXLyM6H-Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NwOXLyM6H-Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "폭쥬알파카",
+        "playlistId": "UUzFkNjQyB6oltN8zuoXTlNw",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NwOXLyM6H-Y"
+        },
+        "videoOwnerChannelTitle": "폭쥬알파카",
+        "videoOwnerChannelId": "UCzFkNjQyB6oltN8zuoXTlNw"
+      },
+      "contentDetails": {
+        "videoId": "NwOXLyM6H-Y",
+        "videoPublishedAt": "2017-11-04T19:26:05Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "rmd79gsv-vyzuEQDqk-mPi9Zfdw",
+      "id": "VVV6RmtOalF5QjZvbHROOHp1b1hUbE53LlhwUWxwRUJUaDcw",
+      "snippet": {
+        "publishedAt": "2013-02-28T09:23:25Z",
+        "channelId": "UCzFkNjQyB6oltN8zuoXTlNw",
+        "title": "명탐정 룰루",
+        "description": "맛간영상",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XpQlpEBTh70/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XpQlpEBTh70/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XpQlpEBTh70/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XpQlpEBTh70/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "폭쥬알파카",
+        "playlistId": "UUzFkNjQyB6oltN8zuoXTlNw",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "XpQlpEBTh70"
+        },
+        "videoOwnerChannelTitle": "폭쥬알파카",
+        "videoOwnerChannelId": "UCzFkNjQyB6oltN8zuoXTlNw"
+      },
+      "contentDetails": {
+        "videoId": "XpQlpEBTh70",
+        "videoPublishedAt": "2013-02-28T09:23:25Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "video_details": [
+    {
+      "kind": "youtube#video",
+      "etag": "LUVKNa9YX4wtn0fU2n4cAfsKlUA",
+      "id": "RiAxvbfkh18",
+      "snippet": {
+        "publishedAt": "2017-11-28T14:55:13Z",
+        "channelId": "UCzFkNjQyB6oltN8zuoXTlNw",
+        "title": "옵치 03_overwatch animation",
+        "description": ".",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RiAxvbfkh18/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RiAxvbfkh18/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RiAxvbfkh18/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RiAxvbfkh18/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RiAxvbfkh18/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "폭쥬알파카",
+        "tags": [
+          "오버워치",
+          "애니메이션",
+          "over watch",
+          "overwatch",
+          "animation flash",
+          "블리자드",
+          "고급시계",
+          "blizzard",
+          "디바",
+          "위도우메이커",
+          "widowmaker",
+          "저격",
+          "저격수",
+          "레이니콘",
+          "rainicorn",
+          "D.va"
+        ],
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "옵치 03_overwatch animation",
+          "description": "."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT28S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "3511",
+        "likeCount": "61",
+        "favoriteCount": "0",
+        "commentCount": "20"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "옵치 03_overwatch animation",
+          "description": "."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "xHfSoZHN4ZEVCTnfXGGxKCnUUNE",
+      "id": "eIa746VLi4E",
+      "snippet": {
+        "publishedAt": "2017-11-11T17:54:45Z",
+        "channelId": "UCzFkNjQyB6oltN8zuoXTlNw",
+        "title": "옵치 02_overwatch animation",
+        "description": "Music: TheFatRat - Jackpot https://www.youtube.com/watch?v=kL8CyVqzmkc",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eIa746VLi4E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eIa746VLi4E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eIa746VLi4E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eIa746VLi4E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eIa746VLi4E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "폭쥬알파카",
+        "tags": [
+          "오버워치",
+          "애니메이션",
+          "over watch",
+          "overwatch",
+          "animation flash",
+          "블리자드",
+          "고급시계",
+          "blizzard",
+          "D.va",
+          "디바",
+          "메르시",
+          "duck song",
+          "duck",
+          "duck story",
+          "mercy",
+          "overwatch Animation"
+        ],
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "옵치 02_overwatch animation",
+          "description": "Music: TheFatRat - Jackpot https://www.youtube.com/watch?v=kL8CyVqzmkc"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT29S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "2640",
+        "likeCount": "48",
+        "favoriteCount": "0",
+        "commentCount": "5"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en": {
+          "title": "옵치 02_overwatch animation",
+          "description": "Music: TheFatRat - Jackpot https://www.youtube.com/watch?v=kL8CyVqzmkc"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "SVukbaWA5U86iXZDpEmOzE-1YTA",
+      "id": "NwOXLyM6H-Y",
+      "snippet": {
+        "publishedAt": "2017-11-04T19:26:05Z",
+        "channelId": "UCzFkNjQyB6oltN8zuoXTlNw",
+        "title": "옵치 01_overwatch animation",
+        "description": ".",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NwOXLyM6H-Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NwOXLyM6H-Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NwOXLyM6H-Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NwOXLyM6H-Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NwOXLyM6H-Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "폭쥬알파카",
+        "tags": [
+          "오버워치",
+          "애니메이션",
+          "디바",
+          "트레이서",
+          "송하나",
+          "over watch",
+          "overwatch",
+          "animation",
+          "flash",
+          "블리자드",
+          "고급시계",
+          "Tracer",
+          "D.Va"
+        ],
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "옵치 01_overwatch animation",
+          "description": "."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT18S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "2493",
+        "likeCount": "50",
+        "favoriteCount": "0",
+        "commentCount": "7"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Entertainment",
+          "https://en.wikipedia.org/wiki/Film"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "옵치 01_overwatch animation",
+          "description": "."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "xRXC_x9MtfEpsU1EdpHNW8Ui91M",
+      "id": "XpQlpEBTh70",
+      "snippet": {
+        "publishedAt": "2013-02-28T09:23:25Z",
+        "channelId": "UCzFkNjQyB6oltN8zuoXTlNw",
+        "title": "명탐정 룰루",
+        "description": "맛간영상",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XpQlpEBTh70/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XpQlpEBTh70/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XpQlpEBTh70/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XpQlpEBTh70/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "폭쥬알파카",
+        "tags": [
+          "리그오브레전드",
+          "lol"
+        ],
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "명탐정 룰루",
+          "description": "맛간영상"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT1M32S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1467956",
+        "likeCount": "6928",
+        "favoriteCount": "0",
+        "commentCount": "737"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "명탐정 룰루",
+          "description": "맛간영상"
+        }
+      }
+    }
+  ]
+}

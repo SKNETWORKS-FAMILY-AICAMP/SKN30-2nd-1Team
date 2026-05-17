@@ -1,0 +1,267 @@
+{
+  "idx": 946,
+  "channel_id": "UC0eKU-46gbDgPZYrc3NC9dQ",
+  "channel_title": "SASAM 43!",
+  "playlist_items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "kcRFvWSRQ1Om9gudMQtXWZ2R7KE",
+      "id": "VVUwZUtVLTQ2Z2JEZ1BaWXJjM05DOWRRLjhUVXlEU0lpbWRZ",
+      "snippet": {
+        "publishedAt": "2022-06-21T09:27:49Z",
+        "channelId": "UC0eKU-46gbDgPZYrc3NC9dQ",
+        "title": "SASAM 43!님의 실시간 스트림",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8TUyDSIimdY/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8TUyDSIimdY/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8TUyDSIimdY/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8TUyDSIimdY/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8TUyDSIimdY/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SASAM 43!",
+        "playlistId": "UU0eKU-46gbDgPZYrc3NC9dQ",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8TUyDSIimdY"
+        },
+        "videoOwnerChannelTitle": "SASAM 43!",
+        "videoOwnerChannelId": "UC0eKU-46gbDgPZYrc3NC9dQ"
+      },
+      "contentDetails": {
+        "videoId": "8TUyDSIimdY",
+        "videoPublishedAt": "2022-06-21T09:27:49Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "cvaHbJNjV1k_o6pUzfK7EwJmRsg",
+      "id": "VVUwZUtVLTQ2Z2JEZ1BaWXJjM05DOWRRLjlkajBuakhJVHlr",
+      "snippet": {
+        "publishedAt": "2021-06-18T07:22:47Z",
+        "channelId": "UC0eKU-46gbDgPZYrc3NC9dQ",
+        "title": "love sick",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9dj0njHITyk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9dj0njHITyk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9dj0njHITyk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9dj0njHITyk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "SASAM 43!",
+        "playlistId": "UU0eKU-46gbDgPZYrc3NC9dQ",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9dj0njHITyk"
+        },
+        "videoOwnerChannelTitle": "SASAM 43!",
+        "videoOwnerChannelId": "UC0eKU-46gbDgPZYrc3NC9dQ"
+      },
+      "contentDetails": {
+        "videoId": "9dj0njHITyk",
+        "videoPublishedAt": "2021-06-18T07:22:47Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "video_details": [
+    {
+      "kind": "youtube#video",
+      "etag": "pW8KjiLn7LLYBRDVcGI_WxCSiV0",
+      "id": "8TUyDSIimdY",
+      "snippet": {
+        "publishedAt": "2022-06-21T09:27:49Z",
+        "channelId": "UC0eKU-46gbDgPZYrc3NC9dQ",
+        "title": "SASAM 43!님의 실시간 스트림",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8TUyDSIimdY/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8TUyDSIimdY/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8TUyDSIimdY/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8TUyDSIimdY/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8TUyDSIimdY/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SASAM 43!",
+        "categoryId": "24",
+        "liveBroadcastContent": "upcoming",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "SASAM 43!님의 실시간 스트림",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "P0D",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "uploaded",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "0",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "SASAM 43!님의 실시간 스트림",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "CTZCJS7kZhzAT92Jch3u8xR9Xg4",
+      "id": "9dj0njHITyk",
+      "snippet": {
+        "publishedAt": "2021-06-18T07:22:47Z",
+        "channelId": "UC0eKU-46gbDgPZYrc3NC9dQ",
+        "title": "love sick",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9dj0njHITyk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9dj0njHITyk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9dj0njHITyk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9dj0njHITyk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "SASAM 43!",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "love sick",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT11S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "6890",
+        "likeCount": "150",
+        "favoriteCount": "0",
+        "commentCount": "6"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Music_of_Asia"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "love sick",
+          "description": ""
+        }
+      }
+    }
+  ]
+}

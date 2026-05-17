@@ -1,0 +1,140 @@
+{
+  "idx": 1223,
+  "channel_id": "UCgNGrMX0NpWD4Y14cpmYbUg",
+  "channel_title": "CPS Journal",
+  "playlist_items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "jImxaWvL6aZTxHH_EXX6VCyxxyg",
+      "id": "VVVnTkdyTVgwTnBXRDRZMTRjcG1ZYlVnLnFGOFM5SXRndFlR",
+      "snippet": {
+        "publishedAt": "2025-09-13T06:46:02Z",
+        "channelId": "UCgNGrMX0NpWD4Y14cpmYbUg",
+        "title": "CPS Journal님의 실시간 스트림",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qF8S9ItgtYQ/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qF8S9ItgtYQ/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qF8S9ItgtYQ/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qF8S9ItgtYQ/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qF8S9ItgtYQ/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "CPS Journal",
+        "playlistId": "UUgNGrMX0NpWD4Y14cpmYbUg",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "qF8S9ItgtYQ"
+        },
+        "videoOwnerChannelTitle": "CPS Journal",
+        "videoOwnerChannelId": "UCgNGrMX0NpWD4Y14cpmYbUg"
+      },
+      "contentDetails": {
+        "videoId": "qF8S9ItgtYQ",
+        "videoPublishedAt": "2025-09-13T06:46:02Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "video_details": [
+    {
+      "kind": "youtube#video",
+      "etag": "VuI9o8J9AtMHn1_09NjgJNRNYKI",
+      "id": "qF8S9ItgtYQ",
+      "snippet": {
+        "publishedAt": "2025-09-13T06:46:02Z",
+        "channelId": "UCgNGrMX0NpWD4Y14cpmYbUg",
+        "title": "CPS Journal님의 실시간 스트림",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qF8S9ItgtYQ/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qF8S9ItgtYQ/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qF8S9ItgtYQ/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qF8S9ItgtYQ/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qF8S9ItgtYQ/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "CPS Journal",
+        "categoryId": "22",
+        "liveBroadcastContent": "upcoming",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "CPS Journal님의 실시간 스트림",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "P0D",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "uploaded",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "0",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "CPS Journal님의 실시간 스트림",
+          "description": ""
+        }
+      }
+    }
+  ]
+}

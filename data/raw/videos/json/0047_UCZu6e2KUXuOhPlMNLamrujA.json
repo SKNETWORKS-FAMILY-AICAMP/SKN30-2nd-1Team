@@ -1,0 +1,279 @@
+{
+  "idx": 47,
+  "channel_id": "UCZu6e2KUXuOhPlMNLamrujA",
+  "channel_title": "소셜러스Socialerus",
+  "playlist_items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3Fhuqs_64v1ZoDWb2Ry3I5QfFYw",
+      "id": "VVVadTZlMktVWHVPaFBsTU5MYW1ydWpBLmk4OWZOcUJTa2lz",
+      "snippet": {
+        "publishedAt": "2018-01-16T09:22:50Z",
+        "channelId": "UCZu6e2KUXuOhPlMNLamrujA",
+        "title": "Socialerus 소셜러스님의 실시간 스트리밍",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/i89fNqBSkis/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/i89fNqBSkis/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/i89fNqBSkis/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/i89fNqBSkis/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/i89fNqBSkis/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "소셜러스Socialerus",
+        "playlistId": "UUZu6e2KUXuOhPlMNLamrujA",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "i89fNqBSkis"
+        },
+        "videoOwnerChannelTitle": "소셜러스Socialerus",
+        "videoOwnerChannelId": "UCZu6e2KUXuOhPlMNLamrujA"
+      },
+      "contentDetails": {
+        "videoId": "i89fNqBSkis",
+        "videoPublishedAt": "2018-01-16T09:22:50Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Vl0KDkTrpl-c3gA4jRHPLkcS1bQ",
+      "id": "VVVadTZlMktVWHVPaFBsTU5MYW1ydWpBLjZQbXUwQ3A2Z1d3",
+      "snippet": {
+        "publishedAt": "2017-09-30T02:38:55Z",
+        "channelId": "UCZu6e2KUXuOhPlMNLamrujA",
+        "title": "소셜러스 66 seconds",
+        "description": "Socialerus 소개 영상 66초",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6Pmu0Cp6gWw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6Pmu0Cp6gWw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6Pmu0Cp6gWw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6Pmu0Cp6gWw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6Pmu0Cp6gWw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "소셜러스Socialerus",
+        "playlistId": "UUZu6e2KUXuOhPlMNLamrujA",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "6Pmu0Cp6gWw"
+        },
+        "videoOwnerChannelTitle": "소셜러스Socialerus",
+        "videoOwnerChannelId": "UCZu6e2KUXuOhPlMNLamrujA"
+      },
+      "contentDetails": {
+        "videoId": "6Pmu0Cp6gWw",
+        "videoPublishedAt": "2017-09-30T02:38:55Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "video_details": [
+    {
+      "kind": "youtube#video",
+      "etag": "NmPXurNiFfHD-TpoM1mdCel5UuA",
+      "id": "i89fNqBSkis",
+      "snippet": {
+        "publishedAt": "2018-01-16T09:22:50Z",
+        "channelId": "UCZu6e2KUXuOhPlMNLamrujA",
+        "title": "Socialerus 소셜러스님의 실시간 스트리밍",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/i89fNqBSkis/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/i89fNqBSkis/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/i89fNqBSkis/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/i89fNqBSkis/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/i89fNqBSkis/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "소셜러스Socialerus",
+        "categoryId": "26",
+        "liveBroadcastContent": "upcoming",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "Socialerus 소셜러스님의 실시간 스트리밍",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "P0D",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "uploaded",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": false,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "0",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "Socialerus 소셜러스님의 실시간 스트리밍",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "bfdOUgtYttd1Wrgv5YuoNEGJT5Y",
+      "id": "6Pmu0Cp6gWw",
+      "snippet": {
+        "publishedAt": "2017-09-30T02:38:55Z",
+        "channelId": "UCZu6e2KUXuOhPlMNLamrujA",
+        "title": "소셜러스 66 seconds",
+        "description": "Socialerus 소개 영상 66초",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6Pmu0Cp6gWw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6Pmu0Cp6gWw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6Pmu0Cp6gWw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6Pmu0Cp6gWw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6Pmu0Cp6gWw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "소셜러스Socialerus",
+        "tags": [
+          "소셜러스",
+          "유튜버",
+          "랭큐",
+          "Socialerus",
+          "Rankq",
+          "유튜브 랭킹"
+        ],
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "소셜러스 66 seconds",
+          "description": "Socialerus 소개 영상 66초"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1M7S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "10865",
+        "likeCount": "6",
+        "favoriteCount": "0",
+        "commentCount": "12"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "소셜러스 66 seconds",
+          "description": "Socialerus 소개 영상 66초"
+        }
+      }
+    }
+  ]
+}

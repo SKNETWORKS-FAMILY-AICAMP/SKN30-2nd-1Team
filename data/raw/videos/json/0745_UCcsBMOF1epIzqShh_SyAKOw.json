@@ -1,0 +1,271 @@
+{
+  "idx": 745,
+  "channel_id": "UCcsBMOF1epIzqShh_SyAKOw",
+  "channel_title": "자중",
+  "playlist_items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "nqIBCjWZ5y9zO5hI_kd7dq5VBVw",
+      "id": "VVVjc0JNT0YxZXBJenFTaGhfU3lBS093LkRYNTFtbnZLSjhJ",
+      "snippet": {
+        "publishedAt": "2023-10-10T02:32:18Z",
+        "channelId": "UCcsBMOF1epIzqShh_SyAKOw",
+        "title": "20201010 화 /같이공부해요 Study with me",
+        "description": "모두 행복하시고  좋은하루 되세요^^",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DX51mnvKJ8I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DX51mnvKJ8I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DX51mnvKJ8I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DX51mnvKJ8I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DX51mnvKJ8I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "자중",
+        "playlistId": "UUcsBMOF1epIzqShh_SyAKOw",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "DX51mnvKJ8I"
+        },
+        "videoOwnerChannelTitle": "자중",
+        "videoOwnerChannelId": "UCcsBMOF1epIzqShh_SyAKOw"
+      },
+      "contentDetails": {
+        "videoId": "DX51mnvKJ8I",
+        "videoPublishedAt": "2023-10-10T02:32:18Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Oo-mQEo4FkelTxO_xwIxINnobVw",
+      "id": "VVVjc0JNT0YxZXBJenFTaGhfU3lBS093LnFjN05FMXRCQy0w",
+      "snippet": {
+        "publishedAt": "2016-11-12T11:26:33Z",
+        "channelId": "UCcsBMOF1epIzqShh_SyAKOw",
+        "title": "핵잼님의 실시간 스트리밍",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qc7NE1tBC-0/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qc7NE1tBC-0/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qc7NE1tBC-0/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qc7NE1tBC-0/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qc7NE1tBC-0/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "자중",
+        "playlistId": "UUcsBMOF1epIzqShh_SyAKOw",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "qc7NE1tBC-0"
+        },
+        "videoOwnerChannelTitle": "자중",
+        "videoOwnerChannelId": "UCcsBMOF1epIzqShh_SyAKOw"
+      },
+      "contentDetails": {
+        "videoId": "qc7NE1tBC-0",
+        "videoPublishedAt": "2016-11-12T11:26:33Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "video_details": [
+    {
+      "kind": "youtube#video",
+      "etag": "ex_qzgXH3Ce20JuskP4yv7V22g8",
+      "id": "DX51mnvKJ8I",
+      "snippet": {
+        "publishedAt": "2023-10-10T02:32:18Z",
+        "channelId": "UCcsBMOF1epIzqShh_SyAKOw",
+        "title": "20201010 화 /같이공부해요 Study with me",
+        "description": "모두 행복하시고  좋은하루 되세요^^",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DX51mnvKJ8I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DX51mnvKJ8I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DX51mnvKJ8I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DX51mnvKJ8I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DX51mnvKJ8I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "자중",
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "20201010 화 /같이공부해요 Study with me",
+          "description": "모두 행복하시고  좋은하루 되세요^^"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT8M15S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "27",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "20201010 화 /같이공부해요 Study with me",
+          "description": "모두 행복하시고  좋은하루 되세요^^"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "-Bjb0sM_rebewRgJtGrEAXPyL3E",
+      "id": "qc7NE1tBC-0",
+      "snippet": {
+        "publishedAt": "2016-11-12T11:26:33Z",
+        "channelId": "UCcsBMOF1epIzqShh_SyAKOw",
+        "title": "핵잼님의 실시간 스트리밍",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qc7NE1tBC-0/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qc7NE1tBC-0/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qc7NE1tBC-0/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qc7NE1tBC-0/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qc7NE1tBC-0/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "자중",
+        "categoryId": "24",
+        "liveBroadcastContent": "upcoming",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "핵잼님의 실시간 스트리밍",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "P0D",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "uploaded",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "0",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "핵잼님의 실시간 스트리밍",
+          "description": ""
+        }
+      }
+    }
+  ]
+}

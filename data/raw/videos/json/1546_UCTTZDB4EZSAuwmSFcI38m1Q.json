@@ -1,0 +1,140 @@
+{
+  "idx": 1546,
+  "channel_id": "UCTTZDB4EZSAuwmSFcI38m1Q",
+  "channel_title": "독거청년",
+  "playlist_items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "XJPWznLrNrObOEOhr5sKKsAYncs",
+      "id": "VVVUVFpEQjRFWlNBdXdtU0ZjSTM4bTFRLlN1VHlER1dGdG5N",
+      "snippet": {
+        "publishedAt": "2024-11-29T14:14:30Z",
+        "channelId": "UCTTZDB4EZSAuwmSFcI38m1Q",
+        "title": "월300은 돈을 어디에 쓸까? #월급 #월급관리 #제태크",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SuTyDGWFtnM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SuTyDGWFtnM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SuTyDGWFtnM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SuTyDGWFtnM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SuTyDGWFtnM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "독거청년",
+        "playlistId": "UUTTZDB4EZSAuwmSFcI38m1Q",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "SuTyDGWFtnM"
+        },
+        "videoOwnerChannelTitle": "독거청년",
+        "videoOwnerChannelId": "UCTTZDB4EZSAuwmSFcI38m1Q"
+      },
+      "contentDetails": {
+        "videoId": "SuTyDGWFtnM",
+        "videoPublishedAt": "2024-11-29T14:14:30Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "video_details": [
+    {
+      "kind": "youtube#video",
+      "etag": "nwj-F3rUVl7OCyY5SPQGnMV59Kg",
+      "id": "SuTyDGWFtnM",
+      "snippet": {
+        "publishedAt": "2024-11-29T14:14:30Z",
+        "channelId": "UCTTZDB4EZSAuwmSFcI38m1Q",
+        "title": "월300은 돈을 어디에 쓸까? #월급 #월급관리 #제태크",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SuTyDGWFtnM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SuTyDGWFtnM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SuTyDGWFtnM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SuTyDGWFtnM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SuTyDGWFtnM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "독거청년",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "월300은 돈을 어디에 쓸까? #월급 #월급관리 #제태크",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT58S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "44952",
+        "likeCount": "447",
+        "favoriteCount": "0",
+        "commentCount": "21"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "월300은 돈을 어디에 쓸까? #월급 #월급관리 #제태크",
+          "description": ""
+        }
+      }
+    }
+  ]
+}

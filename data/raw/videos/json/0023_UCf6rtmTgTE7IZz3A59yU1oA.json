@@ -1,0 +1,562 @@
+{
+  "idx": 23,
+  "channel_id": "UCf6rtmTgTE7IZz3A59yU1oA",
+  "channel_title": "윤종필",
+  "playlist_items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_4twAwd1tl7lRpxkrtMQU1x8FCI",
+      "id": "VVVmNnJ0bVRnVEU3SVp6M0E1OXlVMW9BLmlvWFE4dzMtSVU4",
+      "snippet": {
+        "publishedAt": "2017-01-02T05:30:35Z",
+        "channelId": "UCf6rtmTgTE7IZz3A59yU1oA",
+        "title": "간호인력 확보 및 지원체계 구축 방안 토론회 개최",
+        "description": "오늘 행사에서는 간호종사자들이 현장에서 느끼는 고충과 이를 해결할 수 있는 방안모색, 그리고 앞으로 개선해나가야 할 부분들을 함께 논의하고 토론을 하는 소중한 자리였습니다.  ​",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ioXQ8w3-IU8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ioXQ8w3-IU8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ioXQ8w3-IU8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ioXQ8w3-IU8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ioXQ8w3-IU8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "윤종필",
+        "playlistId": "UUf6rtmTgTE7IZz3A59yU1oA",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ioXQ8w3-IU8"
+        },
+        "videoOwnerChannelTitle": "윤종필",
+        "videoOwnerChannelId": "UCf6rtmTgTE7IZz3A59yU1oA"
+      },
+      "contentDetails": {
+        "videoId": "ioXQ8w3-IU8",
+        "videoPublishedAt": "2017-01-02T05:30:35Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "OTMjbg1hZ30ysS4xRjwJ4sO3d30",
+      "id": "VVVmNnJ0bVRnVEU3SVp6M0E1OXlVMW9BLkp5akVRMzhJQnVj",
+      "snippet": {
+        "publishedAt": "2017-01-02T05:23:03Z",
+        "channelId": "UCf6rtmTgTE7IZz3A59yU1oA",
+        "title": "윤종필 의원 생방송 국회 투데이브리핑 1162회 윤종필 의원",
+        "description": "설명이날 인터뷰는 본의원이 대표의원으로 있는 유라시아보건의료포럼에 대한 소개와 지난 9월 12일(월) 열린 토론회에 대한 결과 및 향후 활동 방향에 대해 이야기했습니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JyjEQ38IBuc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JyjEQ38IBuc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JyjEQ38IBuc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JyjEQ38IBuc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "윤종필",
+        "playlistId": "UUf6rtmTgTE7IZz3A59yU1oA",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "JyjEQ38IBuc"
+        },
+        "videoOwnerChannelTitle": "윤종필",
+        "videoOwnerChannelId": "UCf6rtmTgTE7IZz3A59yU1oA"
+      },
+      "contentDetails": {
+        "videoId": "JyjEQ38IBuc",
+        "videoPublishedAt": "2017-01-02T05:23:03Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "TB5S4B8O1qIY6a3MBKWwLUQWRhA",
+      "id": "VVVmNnJ0bVRnVEU3SVp6M0E1OXlVMW9BLnNyRElSWFFnOUdZ",
+      "snippet": {
+        "publishedAt": "2017-01-02T05:11:42Z",
+        "channelId": "UCf6rtmTgTE7IZz3A59yU1oA",
+        "title": "20대 국회의원 300인의 희망 인터뷰 170회 윤종필 의원",
+        "description": "윤종필 국회의원 인생스토리가 담겨있음",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/srDIRXQg9GY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/srDIRXQg9GY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/srDIRXQg9GY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/srDIRXQg9GY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "윤종필",
+        "playlistId": "UUf6rtmTgTE7IZz3A59yU1oA",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "srDIRXQg9GY"
+        },
+        "videoOwnerChannelTitle": "윤종필",
+        "videoOwnerChannelId": "UCf6rtmTgTE7IZz3A59yU1oA"
+      },
+      "contentDetails": {
+        "videoId": "srDIRXQg9GY",
+        "videoPublishedAt": "2017-01-02T05:11:42Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ZjN-tIPz02g3woLsEx_q7GNHjq0",
+      "id": "VVVmNnJ0bVRnVEU3SVp6M0E1OXlVMW9BLndpYV9pWTY3MWFV",
+      "snippet": {
+        "publishedAt": "2017-01-02T05:03:18Z",
+        "channelId": "UCf6rtmTgTE7IZz3A59yU1oA",
+        "title": "국회의원 윤종필 2017년 새해인사",
+        "description": "존경하는 국민들께 2017년 새해인사를 드립니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wia_iY671aU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wia_iY671aU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wia_iY671aU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wia_iY671aU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wia_iY671aU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "윤종필",
+        "playlistId": "UUf6rtmTgTE7IZz3A59yU1oA",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wia_iY671aU"
+        },
+        "videoOwnerChannelTitle": "윤종필",
+        "videoOwnerChannelId": "UCf6rtmTgTE7IZz3A59yU1oA"
+      },
+      "contentDetails": {
+        "videoId": "wia_iY671aU",
+        "videoPublishedAt": "2017-01-02T05:03:18Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "video_details": [
+    {
+      "kind": "youtube#video",
+      "etag": "EZ4IPGXsdqyf6aedJOmoojSrQBY",
+      "id": "ioXQ8w3-IU8",
+      "snippet": {
+        "publishedAt": "2017-01-02T05:30:35Z",
+        "channelId": "UCf6rtmTgTE7IZz3A59yU1oA",
+        "title": "간호인력 확보 및 지원체계 구축 방안 토론회 개최",
+        "description": "오늘 행사에서는 간호종사자들이 현장에서 느끼는 고충과 이를 해결할 수 있는 방안모색, 그리고 앞으로 개선해나가야 할 부분들을 함께 논의하고 토론을 하는 소중한 자리였습니다.  ​",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ioXQ8w3-IU8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ioXQ8w3-IU8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ioXQ8w3-IU8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ioXQ8w3-IU8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ioXQ8w3-IU8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "윤종필",
+        "tags": [
+          "국회의원 윤종필",
+          "윤종필",
+          "간호인력확보",
+          "간호인력 확보 및 지원체계 구축 방안 토론회 개최"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "간호인력 확보 및 지원체계 구축 방안 토론회 개최",
+          "description": "오늘 행사에서는 간호종사자들이 현장에서 느끼는 고충과 이를 해결할 수 있는 방안모색, 그리고 앞으로 개선해나가야 할 부분들을 함께 논의하고 토론을 하는 소중한 자리였습니다.  ​"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M55S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "regionRestriction": {
+          "blocked": [
+            "BY",
+            "RU"
+          ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "24",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Health",
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "간호인력 확보 및 지원체계 구축 방안 토론회 개최",
+          "description": "오늘 행사에서는 간호종사자들이 현장에서 느끼는 고충과 이를 해결할 수 있는 방안모색, 그리고 앞으로 개선해나가야 할 부분들을 함께 논의하고 토론을 하는 소중한 자리였습니다.  ​"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "xbEurVsfFSytWpETC6pdqVkMc5I",
+      "id": "JyjEQ38IBuc",
+      "snippet": {
+        "publishedAt": "2017-01-02T05:23:03Z",
+        "channelId": "UCf6rtmTgTE7IZz3A59yU1oA",
+        "title": "윤종필 의원 생방송 국회 투데이브리핑 1162회 윤종필 의원",
+        "description": "설명이날 인터뷰는 본의원이 대표의원으로 있는 유라시아보건의료포럼에 대한 소개와 지난 9월 12일(월) 열린 토론회에 대한 결과 및 향후 활동 방향에 대해 이야기했습니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JyjEQ38IBuc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JyjEQ38IBuc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JyjEQ38IBuc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JyjEQ38IBuc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "윤종필",
+        "tags": [
+          "윤종필",
+          "국회의원 윤종필",
+          "생방송 투데이"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "윤종필 의원 생방송 국회 투데이브리핑 1162회 윤종필 의원",
+          "description": "설명이날 인터뷰는 본의원이 대표의원으로 있는 유라시아보건의료포럼에 대한 소개와 지난 9월 12일(월) 열린 토론회에 대한 결과 및 향후 활동 방향에 대해 이야기했습니다."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT12M17S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "40",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Politics",
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "윤종필 의원 생방송 국회 투데이브리핑 1162회 윤종필 의원",
+          "description": "설명이날 인터뷰는 본의원이 대표의원으로 있는 유라시아보건의료포럼에 대한 소개와 지난 9월 12일(월) 열린 토론회에 대한 결과 및 향후 활동 방향에 대해 이야기했습니다."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "a6CbA0nVRsmpzAV6uZIpd0-W0k4",
+      "id": "srDIRXQg9GY",
+      "snippet": {
+        "publishedAt": "2017-01-02T05:11:42Z",
+        "channelId": "UCf6rtmTgTE7IZz3A59yU1oA",
+        "title": "20대 국회의원 300인의 희망 인터뷰 170회 윤종필 의원",
+        "description": "윤종필 국회의원 인생스토리가 담겨있음",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/srDIRXQg9GY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/srDIRXQg9GY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/srDIRXQg9GY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/srDIRXQg9GY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "윤종필",
+        "tags": [
+          "윤종필 국회의원",
+          "윤종필"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "20대 국회의원 300인의 희망 인터뷰 170회 윤종필 의원",
+          "description": "윤종필 국회의원 인생스토리가 담겨있음"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT9M30S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "61",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Politics",
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "20대 국회의원 300인의 희망 인터뷰 170회 윤종필 의원",
+          "description": "윤종필 국회의원 인생스토리가 담겨있음"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "07tKVXABV0jPgypxAvd4iT7kTIs",
+      "id": "wia_iY671aU",
+      "snippet": {
+        "publishedAt": "2017-01-02T05:03:18Z",
+        "channelId": "UCf6rtmTgTE7IZz3A59yU1oA",
+        "title": "국회의원 윤종필 2017년 새해인사",
+        "description": "존경하는 국민들께 2017년 새해인사를 드립니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wia_iY671aU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wia_iY671aU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wia_iY671aU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wia_iY671aU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wia_iY671aU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "윤종필",
+        "tags": [
+          "2017년 새해인사",
+          "윤종필 국회의원"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "국회의원 윤종필 2017년 새해인사",
+          "description": "존경하는 국민들께 2017년 새해인사를 드립니다."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT1M18S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "20",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Politics",
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "국회의원 윤종필 2017년 새해인사",
+          "description": "존경하는 국민들께 2017년 새해인사를 드립니다."
+        }
+      }
+    }
+  ]
+}

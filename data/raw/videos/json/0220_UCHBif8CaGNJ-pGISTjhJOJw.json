@@ -1,0 +1,3285 @@
+{
+  "idx": 220,
+  "channel_id": "UCHBif8CaGNJ-pGISTjhJOJw",
+  "channel_title": "JJuing Miniature",
+  "playlist_items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zTNWkJWLkP7zi8kb9jtZsfV_bp0",
+      "id": "VVVIQmlmOENhR05KLXBHSVNUamhKT0p3Ll83SzYxeUFjUTFZ",
+      "snippet": {
+        "publishedAt": "2018-07-23T22:30:51Z",
+        "channelId": "UCHBif8CaGNJ-pGISTjhJOJw",
+        "title": "Miniature DIY KIT | Dollhouse Miniature",
+        "description": "- youtube: https://goo.gl/69jFKh\n- facebook: https://www.facebook.com/jjuingmini\n- instagram: https://www.instagram.com/jjuingmini",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_7K61yAcQ1Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_7K61yAcQ1Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_7K61yAcQ1Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_7K61yAcQ1Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "JJuing Miniature",
+        "playlistId": "UUHBif8CaGNJ-pGISTjhJOJw",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_7K61yAcQ1Y"
+        },
+        "videoOwnerChannelTitle": "JJuing Miniature",
+        "videoOwnerChannelId": "UCHBif8CaGNJ-pGISTjhJOJw"
+      },
+      "contentDetails": {
+        "videoId": "_7K61yAcQ1Y",
+        "videoPublishedAt": "2018-07-23T22:30:51Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "WM-n5lHFViMeW2FG08MrrmKZQ5Q",
+      "id": "VVVIQmlmOENhR05KLXBHSVNUamhKT0p3Lm1OUDZldFhsMm1r",
+      "snippet": {
+        "publishedAt": "2017-11-12T09:00:12Z",
+        "channelId": "UCHBif8CaGNJ-pGISTjhJOJw",
+        "title": "Miniature DIY KIT | Minimaden Beef Steak | jjuingmini",
+        "description": "- DIY KIT : https://goo.gl/qop1qJ\n\nMusic: http://www.bensound.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mNP6etXl2mk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mNP6etXl2mk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mNP6etXl2mk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mNP6etXl2mk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mNP6etXl2mk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JJuing Miniature",
+        "playlistId": "UUHBif8CaGNJ-pGISTjhJOJw",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "mNP6etXl2mk"
+        },
+        "videoOwnerChannelTitle": "JJuing Miniature",
+        "videoOwnerChannelId": "UCHBif8CaGNJ-pGISTjhJOJw"
+      },
+      "contentDetails": {
+        "videoId": "mNP6etXl2mk",
+        "videoPublishedAt": "2017-11-12T09:00:12Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "SgkX5IiOX62IHSnyyMkf0w0vnmA",
+      "id": "VVVIQmlmOENhR05KLXBHSVNUamhKT0p3LjBjdHFqakxQaDRF",
+      "snippet": {
+        "publishedAt": "2017-11-12T09:00:02Z",
+        "channelId": "UCHBif8CaGNJ-pGISTjhJOJw",
+        "title": "Miniature DIY KIT | Minimaden Omelet Rice | jjuingmini",
+        "description": "- DIY KIT : https://goo.gl/pQvi2T\n\nMusic: http://www.bensound.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0ctqjjLPh4E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0ctqjjLPh4E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0ctqjjLPh4E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0ctqjjLPh4E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0ctqjjLPh4E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JJuing Miniature",
+        "playlistId": "UUHBif8CaGNJ-pGISTjhJOJw",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0ctqjjLPh4E"
+        },
+        "videoOwnerChannelTitle": "JJuing Miniature",
+        "videoOwnerChannelId": "UCHBif8CaGNJ-pGISTjhJOJw"
+      },
+      "contentDetails": {
+        "videoId": "0ctqjjLPh4E",
+        "videoPublishedAt": "2017-11-12T09:00:02Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-Dv0VPOgJs-zx_8cqvegv9CDUJY",
+      "id": "VVVIQmlmOENhR05KLXBHSVNUamhKT0p3LnVkNklKVG0wUlpn",
+      "snippet": {
+        "publishedAt": "2017-11-11T14:34:45Z",
+        "channelId": "UCHBif8CaGNJ-pGISTjhJOJw",
+        "title": "Miniature DIY KIT | Minimaden Fried Shrimp | jjuingmini",
+        "description": "- DIY KIT : https://goo.gl/7KTvVK\n\nMusic: http://www.bensound.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ud6IJTm0RZg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ud6IJTm0RZg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ud6IJTm0RZg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ud6IJTm0RZg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ud6IJTm0RZg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JJuing Miniature",
+        "playlistId": "UUHBif8CaGNJ-pGISTjhJOJw",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ud6IJTm0RZg"
+        },
+        "videoOwnerChannelTitle": "JJuing Miniature",
+        "videoOwnerChannelId": "UCHBif8CaGNJ-pGISTjhJOJw"
+      },
+      "contentDetails": {
+        "videoId": "ud6IJTm0RZg",
+        "videoPublishedAt": "2017-11-11T14:34:45Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "TWWx6rO5CeLndvjjoT-yyjf7WwM",
+      "id": "VVVIQmlmOENhR05KLXBHSVNUamhKT0p3Ljl3aFVod3p5R0J3",
+      "snippet": {
+        "publishedAt": "2017-11-09T13:33:56Z",
+        "channelId": "UCHBif8CaGNJ-pGISTjhJOJw",
+        "title": "Miniature DIY KIT | Minimaden Steak | jjuingmini",
+        "description": "- DIY KIT : https://goo.gl/KbsJSw\n\nMusic: http://www.bensound.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9whUhwzyGBw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9whUhwzyGBw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9whUhwzyGBw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9whUhwzyGBw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9whUhwzyGBw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JJuing Miniature",
+        "playlistId": "UUHBif8CaGNJ-pGISTjhJOJw",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9whUhwzyGBw"
+        },
+        "videoOwnerChannelTitle": "JJuing Miniature",
+        "videoOwnerChannelId": "UCHBif8CaGNJ-pGISTjhJOJw"
+      },
+      "contentDetails": {
+        "videoId": "9whUhwzyGBw",
+        "videoPublishedAt": "2017-11-09T13:33:56Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2HF0fumtyJawBjpGqfIfAn3fg1s",
+      "id": "VVVIQmlmOENhR05KLXBHSVNUamhKT0p3Lkd2SGhCR195UHNZ",
+      "snippet": {
+        "publishedAt": "2017-11-08T14:20:03Z",
+        "channelId": "UCHBif8CaGNJ-pGISTjhJOJw",
+        "title": "Miniature DIY KIT | Minimaden Spaghetti | jjuingmini",
+        "description": "- DIY KIT : https://goo.gl/XtVuhn\n\nMusic: http://www.bensound.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GvHhBG_yPsY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GvHhBG_yPsY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GvHhBG_yPsY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GvHhBG_yPsY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GvHhBG_yPsY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JJuing Miniature",
+        "playlistId": "UUHBif8CaGNJ-pGISTjhJOJw",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "GvHhBG_yPsY"
+        },
+        "videoOwnerChannelTitle": "JJuing Miniature",
+        "videoOwnerChannelId": "UCHBif8CaGNJ-pGISTjhJOJw"
+      },
+      "contentDetails": {
+        "videoId": "GvHhBG_yPsY",
+        "videoPublishedAt": "2017-11-08T14:20:03Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fxEoySg0HzLII4qrAO20AxVcX4U",
+      "id": "VVVIQmlmOENhR05KLXBHSVNUamhKT0p3LjVIRmFRT0N1SHZN",
+      "snippet": {
+        "publishedAt": "2017-11-07T12:57:01Z",
+        "channelId": "UCHBif8CaGNJ-pGISTjhJOJw",
+        "title": "Miniature DIY KIT | Minimaden Curry pork cutlet DIY | jjuingmini",
+        "description": "DIY KIT : https://goo.gl/nBEAJE \n\nMusic: http://www.bensound.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5HFaQOCuHvM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5HFaQOCuHvM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5HFaQOCuHvM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5HFaQOCuHvM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5HFaQOCuHvM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JJuing Miniature",
+        "playlistId": "UUHBif8CaGNJ-pGISTjhJOJw",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "5HFaQOCuHvM"
+        },
+        "videoOwnerChannelTitle": "JJuing Miniature",
+        "videoOwnerChannelId": "UCHBif8CaGNJ-pGISTjhJOJw"
+      },
+      "contentDetails": {
+        "videoId": "5HFaQOCuHvM",
+        "videoPublishedAt": "2017-11-07T12:57:01Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "nroKeXytCAnl5M1wsezmrKEXsdk",
+      "id": "VVVIQmlmOENhR05KLXBHSVNUamhKT0p3LkNxREdYdjNqRld3",
+      "snippet": {
+        "publishedAt": "2017-10-16T12:08:44Z",
+        "channelId": "UCHBif8CaGNJ-pGISTjhJOJw",
+        "title": "Miniature DIY KIT | Minimaden Owl Restaurant No.3 | jjuingmini",
+        "description": "- Minimaden DIY KIT : http://blog.naver.com/yaum9/220715295316\n\nMusic: http://www.bensound.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CqDGXv3jFWw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CqDGXv3jFWw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CqDGXv3jFWw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CqDGXv3jFWw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CqDGXv3jFWw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JJuing Miniature",
+        "playlistId": "UUHBif8CaGNJ-pGISTjhJOJw",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CqDGXv3jFWw"
+        },
+        "videoOwnerChannelTitle": "JJuing Miniature",
+        "videoOwnerChannelId": "UCHBif8CaGNJ-pGISTjhJOJw"
+      },
+      "contentDetails": {
+        "videoId": "CqDGXv3jFWw",
+        "videoPublishedAt": "2017-10-16T12:08:44Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3dxiXYySkNR34XRKzu4jJOiqhyA",
+      "id": "VVVIQmlmOENhR05KLXBHSVNUamhKT0p3LmdRbUNrNlJpVThR",
+      "snippet": {
+        "publishedAt": "2017-09-20T10:15:06Z",
+        "channelId": "UCHBif8CaGNJ-pGISTjhJOJw",
+        "title": "Miniature DIY KIT | In a happy corner box theatre | jjuingmini",
+        "description": "- youtube: https://goo.gl/69jFKh\n- facebook: https://www.facebook.com/jjuingmini\n- instagram: https://www.instagram.com/jjuingmini\n\nMusic: http://www.bensound.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gQmCk6RiU8Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gQmCk6RiU8Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gQmCk6RiU8Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gQmCk6RiU8Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gQmCk6RiU8Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JJuing Miniature",
+        "playlistId": "UUHBif8CaGNJ-pGISTjhJOJw",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "gQmCk6RiU8Q"
+        },
+        "videoOwnerChannelTitle": "JJuing Miniature",
+        "videoOwnerChannelId": "UCHBif8CaGNJ-pGISTjhJOJw"
+      },
+      "contentDetails": {
+        "videoId": "gQmCk6RiU8Q",
+        "videoPublishedAt": "2017-09-20T10:15:06Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "omTHhhskfeRBW40_tMBGf2leric",
+      "id": "VVVIQmlmOENhR05KLXBHSVNUamhKT0p3LnQ3bGZrTkVBVTgw",
+      "snippet": {
+        "publishedAt": "2017-09-06T13:10:05Z",
+        "channelId": "UCHBif8CaGNJ-pGISTjhJOJw",
+        "title": "Miniature | Green Pumpkin - Polymer Clay + Pastel | JJuingmini",
+        "description": "- youtube: https://goo.gl/69jFKh\n- facebook: https://www.facebook.com/jjuingmini\n- instagram: https://www.instagram.com/jjuingmini\n\nMusic by HookSounds ( http://www.hooksounds.com )",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/t7lfkNEAU80/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/t7lfkNEAU80/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/t7lfkNEAU80/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/t7lfkNEAU80/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/t7lfkNEAU80/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JJuing Miniature",
+        "playlistId": "UUHBif8CaGNJ-pGISTjhJOJw",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "t7lfkNEAU80"
+        },
+        "videoOwnerChannelTitle": "JJuing Miniature",
+        "videoOwnerChannelId": "UCHBif8CaGNJ-pGISTjhJOJw"
+      },
+      "contentDetails": {
+        "videoId": "t7lfkNEAU80",
+        "videoPublishedAt": "2017-09-06T13:10:05Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "yHYy9ds1Cyp-qrHAEuxc6KRMi0U",
+      "id": "VVVIQmlmOENhR05KLXBHSVNUamhKT0p3LnNyUGVRVE9QUXBZ",
+      "snippet": {
+        "publishedAt": "2017-08-28T11:49:42Z",
+        "channelId": "UCHBif8CaGNJ-pGISTjhJOJw",
+        "title": "Handmade Korea Summer Fair 2017, COEX, Seoul South Korea  | jjuingmini",
+        "description": "Handmade Korea Fair / 20-23 Jul 2017\n\n- youtube: https://goo.gl/69jFKh\n- facebook: https://www.facebook.com/jjuingmini\n- instagram: https://www.instagram.com/jjuingmini\n\nMusic by Naver\nhttp://m.gfmarket.naver.com/creator/531533",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/srPeQTOPQpY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/srPeQTOPQpY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/srPeQTOPQpY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/srPeQTOPQpY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/srPeQTOPQpY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JJuing Miniature",
+        "playlistId": "UUHBif8CaGNJ-pGISTjhJOJw",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "srPeQTOPQpY"
+        },
+        "videoOwnerChannelTitle": "JJuing Miniature",
+        "videoOwnerChannelId": "UCHBif8CaGNJ-pGISTjhJOJw"
+      },
+      "contentDetails": {
+        "videoId": "srPeQTOPQpY",
+        "videoPublishedAt": "2017-08-28T11:49:42Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "dERd6qN7bgrkzbterbV7q881EV0",
+      "id": "VVVIQmlmOENhR05KLXBHSVNUamhKT0p3Lk54Z3BrWDdhQnow",
+      "snippet": {
+        "publishedAt": "2017-08-21T11:33:25Z",
+        "channelId": "UCHBif8CaGNJ-pGISTjhJOJw",
+        "title": "Miniature | Welsh onion - polymer clay + pastel | jjuingmini",
+        "description": "I made miniature welsh onion with polymer clay. Thanks for watching!\n\n- youtube: https://goo.gl/69jFKh\n- instagram: https://www.instagram.com/jjuingmini\n- facebook: https://www.facebook.com/jjuingmini\n\n- music: http://www.bensound.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NxgpkX7aBz0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NxgpkX7aBz0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NxgpkX7aBz0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NxgpkX7aBz0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NxgpkX7aBz0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JJuing Miniature",
+        "playlistId": "UUHBif8CaGNJ-pGISTjhJOJw",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NxgpkX7aBz0"
+        },
+        "videoOwnerChannelTitle": "JJuing Miniature",
+        "videoOwnerChannelId": "UCHBif8CaGNJ-pGISTjhJOJw"
+      },
+      "contentDetails": {
+        "videoId": "NxgpkX7aBz0",
+        "videoPublishedAt": "2017-08-21T11:33:25Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3ow-hJT_GGzGswl7K3xzWtRvdGs",
+      "id": "VVVIQmlmOENhR05KLXBHSVNUamhKT0p3LjNfdlJZd0ZVbWVv",
+      "snippet": {
+        "publishedAt": "2017-08-14T14:58:09Z",
+        "channelId": "UCHBif8CaGNJ-pGISTjhJOJw",
+        "title": "Korea Miniature Dollhouse Exhibition | jjuingmini",
+        "description": "I have been to the korea miniature doll house exhibition  before.\n\n- youtube: https://goo.gl/69jFKh\n- instagram: https://www.instagram.com/jjuingmini\n- facebook: https://www.facebook.com/jjuingmini\n- twitter: https://twitter.com/jjuingmini",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3_vRYwFUmeo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3_vRYwFUmeo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3_vRYwFUmeo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3_vRYwFUmeo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3_vRYwFUmeo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JJuing Miniature",
+        "playlistId": "UUHBif8CaGNJ-pGISTjhJOJw",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "3_vRYwFUmeo"
+        },
+        "videoOwnerChannelTitle": "JJuing Miniature",
+        "videoOwnerChannelId": "UCHBif8CaGNJ-pGISTjhJOJw"
+      },
+      "contentDetails": {
+        "videoId": "3_vRYwFUmeo",
+        "videoPublishedAt": "2017-08-14T14:58:09Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "jx9ZYpXBxU8r7HTkFdnbii6sWEk",
+      "id": "VVVIQmlmOENhR05KLXBHSVNUamhKT0p3LlRXZ0t4MG9oVnZ3",
+      "snippet": {
+        "publishedAt": "2017-08-11T11:52:29Z",
+        "channelId": "UCHBif8CaGNJ-pGISTjhJOJw",
+        "title": "Miniature | White Radish -  Resin Clay, Acrylic Color - 서울시SBA1인미디어 | jjuingmini",
+        "description": "I made miniature radish with resin clay. I pulled the radish from the small field and put it in the basket. I saw the radishes, cut them with board and a knife, and I put them in the last minute of the video.  =)\n\n- youtube: https://goo.gl/69jFKh\n- instagram: https://www.instagram.com/jjuingmini\n- facebook: https://www.facebook.com/jjuingmini",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TWgKx0ohVvw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TWgKx0ohVvw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TWgKx0ohVvw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TWgKx0ohVvw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TWgKx0ohVvw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JJuing Miniature",
+        "playlistId": "UUHBif8CaGNJ-pGISTjhJOJw",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "TWgKx0ohVvw"
+        },
+        "videoOwnerChannelTitle": "JJuing Miniature",
+        "videoOwnerChannelId": "UCHBif8CaGNJ-pGISTjhJOJw"
+      },
+      "contentDetails": {
+        "videoId": "TWgKx0ohVvw",
+        "videoPublishedAt": "2017-08-11T11:52:29Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4nZ4NcAlMmBNSjKBdnVDiutqQ54",
+      "id": "VVVIQmlmOENhR05KLXBHSVNUamhKT0p3LnZkZ1duTS1EUXFn",
+      "snippet": {
+        "publishedAt": "2017-08-04T12:56:09Z",
+        "channelId": "UCHBif8CaGNJ-pGISTjhJOJw",
+        "title": "miniature fake food | feast noodle | jjuingmini",
+        "description": "I made a miniature feast noodle.\n\n- youtube: https://goo.gl/69jFKh\n- instagram: https://www.instagram.com/jjuingmini\n- facebook: https://www.facebook.com/jjuingmini",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vdgWnM-DQqg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vdgWnM-DQqg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vdgWnM-DQqg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vdgWnM-DQqg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vdgWnM-DQqg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JJuing Miniature",
+        "playlistId": "UUHBif8CaGNJ-pGISTjhJOJw",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "vdgWnM-DQqg"
+        },
+        "videoOwnerChannelTitle": "JJuing Miniature",
+        "videoOwnerChannelId": "UCHBif8CaGNJ-pGISTjhJOJw"
+      },
+      "contentDetails": {
+        "videoId": "vdgWnM-DQqg",
+        "videoPublishedAt": "2017-08-04T12:56:09Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "h2z6P3af6wXaOqUSfIVUqHg3Dbc",
+      "id": "VVVIQmlmOENhR05KLXBHSVNUamhKT0p3LllkZ1ZETVh4M0Fr",
+      "snippet": {
+        "publishedAt": "2017-07-21T12:58:11Z",
+        "channelId": "UCHBif8CaGNJ-pGISTjhJOJw",
+        "title": "미니어처 | 프레즐 삼형제 빵 아이클레이로 만들기 | 쮸잉",
+        "description": "아이클레이로 프레즐 빵을 만들어보았습니다. 사용된 재료는 글 가장 마지막에 있어요!\n\n- 유튜브 구독: https://goo.gl/69jFKh\n- 블로그: http://jjuingmini.blog.me\n- 페이스북: https://www.facebook.com/jjuingmini\n- 인스타그램: https://www.instagram.com/jjuingmini\n\n* 재료 *\n- 아이클레이\n- 물감: 옐로우 오우커, 번트 시엔나, 번트 엄버\n- 재활용품: 파레트용 비닐,  붓 물통용 플라스틱 통\n- 세필붓 한자루",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YdgVDMXx3Ak/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YdgVDMXx3Ak/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YdgVDMXx3Ak/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YdgVDMXx3Ak/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YdgVDMXx3Ak/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JJuing Miniature",
+        "playlistId": "UUHBif8CaGNJ-pGISTjhJOJw",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "YdgVDMXx3Ak"
+        },
+        "videoOwnerChannelTitle": "JJuing Miniature",
+        "videoOwnerChannelId": "UCHBif8CaGNJ-pGISTjhJOJw"
+      },
+      "contentDetails": {
+        "videoId": "YdgVDMXx3Ak",
+        "videoPublishedAt": "2017-07-21T12:58:11Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "qE36OZViuHkfULHoBIsP0rmyXCc",
+      "id": "VVVIQmlmOENhR05KLXBHSVNUamhKT0p3LmRndU1helBGUDB3",
+      "snippet": {
+        "publishedAt": "2017-06-26T12:00:11Z",
+        "channelId": "UCHBif8CaGNJ-pGISTjhJOJw",
+        "title": "청포도 줄기와 화장솜으로 목화송이 만들기 | 재활용 미니어처(미니어쳐) | 쮸잉",
+        "description": "청포도 줄기와 화장솜으로 목화송이를 만들어봤어요. 목공풀이 없다면 일반 풀을 이용해도 되고, 영상에 나와있는 재료가 아니어도 비슷한 재료로 만들면 됩니다.\n\n* 쮸잉미니 채널의 소식을 더 보고 싶다면 '더보기▼' 클릭 *\n- 블로그: http://jjuingmini.blog.me\n- 트위터 : https://twitter.com/jjuingmini\n- 페이스북: https://www.facebook.com/jjuingmini\n- 인스타그램: https://www.instagram.com/jjuingmini",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dguMazPFP0w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dguMazPFP0w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dguMazPFP0w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dguMazPFP0w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dguMazPFP0w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JJuing Miniature",
+        "playlistId": "UUHBif8CaGNJ-pGISTjhJOJw",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dguMazPFP0w"
+        },
+        "videoOwnerChannelTitle": "JJuing Miniature",
+        "videoOwnerChannelId": "UCHBif8CaGNJ-pGISTjhJOJw"
+      },
+      "contentDetails": {
+        "videoId": "dguMazPFP0w",
+        "videoPublishedAt": "2017-06-26T12:00:11Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Y-zGstSM7we-ScSWjl13GlQz5dw",
+      "id": "VVVIQmlmOENhR05KLXBHSVNUamhKT0p3Lno3SGpHTFRrRWVF",
+      "snippet": {
+        "publishedAt": "2017-04-04T10:42:14Z",
+        "channelId": "UCHBif8CaGNJ-pGISTjhJOJw",
+        "title": "쮸잉 미니어처 | JJuing Miniature님의 실시간 스트리밍",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/z7HjGLTkEeE/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/z7HjGLTkEeE/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/z7HjGLTkEeE/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/z7HjGLTkEeE/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/z7HjGLTkEeE/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JJuing Miniature",
+        "playlistId": "UUHBif8CaGNJ-pGISTjhJOJw",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "z7HjGLTkEeE"
+        },
+        "videoOwnerChannelTitle": "JJuing Miniature",
+        "videoOwnerChannelId": "UCHBif8CaGNJ-pGISTjhJOJw"
+      },
+      "contentDetails": {
+        "videoId": "z7HjGLTkEeE",
+        "videoPublishedAt": "2017-04-04T10:42:14Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "IjiowsUlxuZB9thzqkeO6h4wCvg",
+      "id": "VVVIQmlmOENhR05KLXBHSVNUamhKT0p3Lk90ZXoyWGVhLUtv",
+      "snippet": {
+        "publishedAt": "2017-03-31T12:51:09Z",
+        "channelId": "UCHBif8CaGNJ-pGISTjhJOJw",
+        "title": "미니어처 | 계란 후라이 만들었어요 | 쮸잉",
+        "description": "처음 올려보는 미니어쳐 영상이라 떨리네요. 재밋게 보셨으면, '구독'과 '좋아요'를 눌러주시면, 제작에 많은 힘이 됩니다. :-)\n폴리머 클레이로 계란 후라이 미니어처를 만들어봤어요.\n\n* 쮸잉미니 채널의 소식을 더 보고 싶다면 *\n- 블로그: http://jjuingmini.blog.me\n- 트위터 : https://twitter.com/jjuingmini\n- 페이스북: https://www.facebook.com/jjuingmini\n- 인스타그램: https://www.instagram.com/jjuingmini",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Otez2Xea-Ko/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Otez2Xea-Ko/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Otez2Xea-Ko/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Otez2Xea-Ko/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Otez2Xea-Ko/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JJuing Miniature",
+        "playlistId": "UUHBif8CaGNJ-pGISTjhJOJw",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Otez2Xea-Ko"
+        },
+        "videoOwnerChannelTitle": "JJuing Miniature",
+        "videoOwnerChannelId": "UCHBif8CaGNJ-pGISTjhJOJw"
+      },
+      "contentDetails": {
+        "videoId": "Otez2Xea-Ko",
+        "videoPublishedAt": "2017-03-31T12:51:09Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "video_details": [
+    {
+      "kind": "youtube#video",
+      "etag": "9p9kWbMn1Te3n2ASfCPKgyQOJAE",
+      "id": "_7K61yAcQ1Y",
+      "snippet": {
+        "publishedAt": "2018-07-23T22:30:51Z",
+        "channelId": "UCHBif8CaGNJ-pGISTjhJOJw",
+        "title": "Miniature DIY KIT | Dollhouse Miniature",
+        "description": "- youtube: https://goo.gl/69jFKh\n- facebook: https://www.facebook.com/jjuingmini\n- instagram: https://www.instagram.com/jjuingmini",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_7K61yAcQ1Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_7K61yAcQ1Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_7K61yAcQ1Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_7K61yAcQ1Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "JJuing Miniature",
+        "tags": [
+          "diy",
+          "how to make",
+          "miniature crafts",
+          "miniature diy",
+          "미니어처만들어봤다",
+          "미니어처만들기",
+          "초보자의미니어처",
+          "미니어처초보자",
+          "미니어처입문",
+          "미니어처DIY",
+          "미니어쳐DIY",
+          "아디코 DIY미니어처 하우스 쉬즈룸 D",
+          "아디코",
+          "쉬즈룸D"
+        ],
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Miniature DIY KIT | Dollhouse Miniature",
+          "description": "- youtube: https://goo.gl/69jFKh\n- facebook: https://www.facebook.com/jjuingmini\n- instagram: https://www.instagram.com/jjuingmini"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT5M",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": false,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1114",
+        "likeCount": "19",
+        "favoriteCount": "0",
+        "commentCount": "2"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Hobby",
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en": {
+          "title": "Miniature DIY KIT | Dollhouse Miniature",
+          "description": "- youtube: https://goo.gl/69jFKh\n- facebook: https://www.facebook.com/jjuingmini\n- instagram: https://www.instagram.com/jjuingmini"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "RWYjBZ0SMMvI2c1pIVNADMQC4hM",
+      "id": "mNP6etXl2mk",
+      "snippet": {
+        "publishedAt": "2017-11-12T09:00:12Z",
+        "channelId": "UCHBif8CaGNJ-pGISTjhJOJw",
+        "title": "Miniature DIY KIT | Minimaden Beef Steak | jjuingmini",
+        "description": "- DIY KIT : https://goo.gl/qop1qJ\n\nMusic: http://www.bensound.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mNP6etXl2mk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mNP6etXl2mk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mNP6etXl2mk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mNP6etXl2mk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mNP6etXl2mk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JJuing Miniature",
+        "tags": [
+          "diy",
+          "how to make",
+          "miniature crafts",
+          "miniature diy",
+          "폴리머클레이",
+          "파스텔",
+          "피모",
+          "미니어처만들어봤다",
+          "미니어처만들기",
+          "초보자의미니어처",
+          "미니어처초보자",
+          "미니어처입문",
+          "polymer clay",
+          "polymer clay fimo",
+          "fimo"
+        ],
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Miniature DIY KIT | Minimaden Beef Steak | jjuingmini",
+          "description": "- DIY KIT : https://goo.gl/qop1qJ\n\nMusic: http://www.bensound.com"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT4M7S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": false,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "295",
+        "likeCount": "5",
+        "favoriteCount": "0",
+        "commentCount": "3"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Food",
+          "https://en.wikipedia.org/wiki/Hobby",
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "미니어처 DIY 키트 | 미니메이든 비프 스테이크 | 쮸잉",
+          "description": "- DIY KIT : https://goo.gl/qop1qJ\n\nMusic: http://www.bensound.com"
+        },
+        "en": {
+          "title": "Miniature DIY KIT | Minimaden Beef Steak | jjuingmini",
+          "description": "- DIY KIT : https://goo.gl/qop1qJ\n\nMusic: http://www.bensound.com"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "yhptDab0yC0aALslfoRXQDV_yFY",
+      "id": "0ctqjjLPh4E",
+      "snippet": {
+        "publishedAt": "2017-11-12T09:00:02Z",
+        "channelId": "UCHBif8CaGNJ-pGISTjhJOJw",
+        "title": "Miniature DIY KIT | Minimaden Omelet Rice | jjuingmini",
+        "description": "- DIY KIT : https://goo.gl/pQvi2T\n\nMusic: http://www.bensound.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0ctqjjLPh4E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0ctqjjLPh4E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0ctqjjLPh4E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0ctqjjLPh4E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0ctqjjLPh4E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JJuing Miniature",
+        "tags": [
+          "diy",
+          "how to make",
+          "miniature crafts",
+          "miniature diy",
+          "폴리머클레이",
+          "미니어처만들기",
+          "polymer clay",
+          "polymer clay fimo",
+          "fimo",
+          "miniature diy kit",
+          "miniature spaghetti",
+          "미니메이든",
+          "미니어처 DIY KIT",
+          "minimaden",
+          "음식 미니어처",
+          "미니어처 음식",
+          "miniature food",
+          "food miniature",
+          "Minimaden Omelet Rice",
+          "미니어처 오므라이스",
+          "miniature omelet rice",
+          "omurice",
+          "miniature omurice"
+        ],
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Miniature DIY KIT | Minimaden Omelet Rice | jjuingmini",
+          "description": "- DIY KIT : https://goo.gl/pQvi2T\n\nMusic: http://www.bensound.com"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT4M7S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": false,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "218",
+        "likeCount": "40",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Food",
+          "https://en.wikipedia.org/wiki/Hobby",
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "미니어처 DIY 키트 | 미니메이든 오므라이스 | 쮸잉",
+          "description": "- DIY KIT : https://goo.gl/pQvi2T\n\nMusic: http://www.bensound.com"
+        },
+        "en": {
+          "title": "Miniature DIY KIT | Minimaden Omelet Rice | jjuingmini",
+          "description": "- DIY KIT : https://goo.gl/pQvi2T\n\nMusic: http://www.bensound.com"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "SJq7HACBKYD1bBs1XgmmomiWwhk",
+      "id": "ud6IJTm0RZg",
+      "snippet": {
+        "publishedAt": "2017-11-11T14:34:45Z",
+        "channelId": "UCHBif8CaGNJ-pGISTjhJOJw",
+        "title": "Miniature DIY KIT | Minimaden Fried Shrimp | jjuingmini",
+        "description": "- DIY KIT : https://goo.gl/7KTvVK\n\nMusic: http://www.bensound.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ud6IJTm0RZg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ud6IJTm0RZg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ud6IJTm0RZg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ud6IJTm0RZg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ud6IJTm0RZg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JJuing Miniature",
+        "tags": [
+          "diy",
+          "how to make",
+          "miniature crafts",
+          "miniature diy",
+          "폴리머클레이",
+          "미니어처만들기",
+          "polymer clay",
+          "polymer clay fimo",
+          "fimo",
+          "miniature diy kit",
+          "miniature spaghetti",
+          "미니메이든",
+          "미니어처 DIY KIT",
+          "minimaden",
+          "음식 미니어처",
+          "미니어처 음식",
+          "miniature food",
+          "food miniature",
+          "미니어처 함박스테이크",
+          "미니어쳐 함박스테이크",
+          "미니어처 스테이크",
+          "miniature staeak",
+          "miniature steak"
+        ],
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Miniature DIY KIT | Minimaden Fried Shrimp | jjuingmini",
+          "description": "- DIY KIT : https://goo.gl/7KTvVK\n\nMusic: http://www.bensound.com"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT5M8S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": false,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "480",
+        "likeCount": "15",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Food",
+          "https://en.wikipedia.org/wiki/Hobby",
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en": {
+          "title": "Miniature DIY KIT | Minimaden Fried Shrimp | jjuingmini",
+          "description": "- DIY KIT : https://goo.gl/7KTvVK\n\nMusic: http://www.bensound.com"
+        },
+        "ko": {
+          "title": "미니어처 DIY 키트 | 미니메이든 새우튀김 | 쮸잉",
+          "description": "- DIY KIT : https://goo.gl/7KTvVK\n\nMusic: http://www.bensound.com"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "IIQtb30LdZGrKGLVJ53WnE8gcTs",
+      "id": "9whUhwzyGBw",
+      "snippet": {
+        "publishedAt": "2017-11-09T13:33:56Z",
+        "channelId": "UCHBif8CaGNJ-pGISTjhJOJw",
+        "title": "Miniature DIY KIT | Minimaden Steak | jjuingmini",
+        "description": "- DIY KIT : https://goo.gl/KbsJSw\n\nMusic: http://www.bensound.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9whUhwzyGBw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9whUhwzyGBw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9whUhwzyGBw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9whUhwzyGBw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9whUhwzyGBw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JJuing Miniature",
+        "tags": [
+          "diy",
+          "how to make",
+          "miniature crafts",
+          "miniature diy",
+          "폴리머클레이",
+          "미니어처만들기",
+          "polymer clay",
+          "polymer clay fimo",
+          "fimo",
+          "miniature diy kit",
+          "miniature spaghetti",
+          "미니메이든",
+          "미니어처 DIY KIT",
+          "minimaden",
+          "음식 미니어처",
+          "미니어처 음식",
+          "miniature food",
+          "food miniature",
+          "미니어처 함박스테이크",
+          "미니어쳐 함박스테이크",
+          "미니어처 스테이크",
+          "miniature staeak",
+          "miniature steak"
+        ],
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Miniature DIY KIT | Minimaden Steak | jjuingmini",
+          "description": "- DIY KIT : https://goo.gl/KbsJSw\n\nMusic: http://www.bensound.com"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT4M7S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": false,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "156",
+        "likeCount": "7",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Food",
+          "https://en.wikipedia.org/wiki/Hobby",
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en": {
+          "title": "Miniature DIY KIT | Minimaden Steak | jjuingmini",
+          "description": "- DIY KIT : https://goo.gl/KbsJSw\n\nMusic: http://www.bensound.com"
+        },
+        "ko": {
+          "title": "미니어처 DIY 키트 | 미니메이든 함박스테이크 | 쮸잉",
+          "description": "- DIY KIT : https://goo.gl/KbsJSw\n\nMusic: http://www.bensound.com"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "HQbOQJmE9hI6G1mS3a6DiqDRWYk",
+      "id": "GvHhBG_yPsY",
+      "snippet": {
+        "publishedAt": "2017-11-08T14:20:03Z",
+        "channelId": "UCHBif8CaGNJ-pGISTjhJOJw",
+        "title": "Miniature DIY KIT | Minimaden Spaghetti | jjuingmini",
+        "description": "- DIY KIT : https://goo.gl/XtVuhn\n\nMusic: http://www.bensound.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GvHhBG_yPsY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GvHhBG_yPsY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GvHhBG_yPsY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GvHhBG_yPsY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GvHhBG_yPsY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JJuing Miniature",
+        "tags": [
+          "diy",
+          "how to make",
+          "miniature crafts",
+          "miniature diy",
+          "폴리머클레이",
+          "미니어처만들기",
+          "polymer clay",
+          "polymer clay fimo",
+          "fimo",
+          "miniature diy kit",
+          "miniature spaghetti",
+          "미니어처 스파게티",
+          "미니메이든",
+          "미니어처 DIY KIT",
+          "minimaden",
+          "음식 미니어처",
+          "미니어처 음식",
+          "miniature food",
+          "food miniature"
+        ],
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Miniature DIY KIT | Minimaden Spaghetti | jjuingmini",
+          "description": "- DIY KIT : https://goo.gl/XtVuhn\n\nMusic: http://www.bensound.com"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT4M7S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": false,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "166",
+        "likeCount": "5",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Food",
+          "https://en.wikipedia.org/wiki/Hobby",
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "미니어처 DIY 키트 | 미니메이든 스파게티 | 쮸잉",
+          "description": "- DIY 키트 구매처 : https://goo.gl/XtVuhn\n\nMusic: http://www.bensound.com"
+        },
+        "en": {
+          "title": "Miniature DIY KIT | Minimaden Spaghetti | jjuingmini",
+          "description": "- DIY KIT : https://goo.gl/XtVuhn\n\nMusic: http://www.bensound.com"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "91lt3Oh7Go2K9b0WyAsV1y1_aXk",
+      "id": "5HFaQOCuHvM",
+      "snippet": {
+        "publishedAt": "2017-11-07T12:57:01Z",
+        "channelId": "UCHBif8CaGNJ-pGISTjhJOJw",
+        "title": "Miniature DIY KIT | Minimaden Curry pork cutlet DIY | jjuingmini",
+        "description": "DIY KIT : https://goo.gl/nBEAJE \n\nMusic: http://www.bensound.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5HFaQOCuHvM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5HFaQOCuHvM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5HFaQOCuHvM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5HFaQOCuHvM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5HFaQOCuHvM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JJuing Miniature",
+        "tags": [
+          "diy",
+          "how to make",
+          "miniature crafts",
+          "miniature diy",
+          "폴리머클레이",
+          "파스텔",
+          "피모",
+          "미니어처만들기",
+          "polymer clay",
+          "polymer clay fimo",
+          "fimo",
+          "미니메이든",
+          "diy kit",
+          "miniature diy kit",
+          "minimaden"
+        ],
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Miniature DIY KIT | Minimaden Curry pork cutlet DIY | jjuingmini",
+          "description": "DIY KIT : https://goo.gl/nBEAJE \n\nMusic: http://www.bensound.com"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT4M11S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": false,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "164",
+        "likeCount": "6",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Food",
+          "https://en.wikipedia.org/wiki/Hobby",
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en": {
+          "title": "Miniature DIY KIT | Minimaden Curry pork cutlet DIY | jjuingmini",
+          "description": "DIY KIT : https://goo.gl/nBEAJE \n\nMusic: http://www.bensound.com"
+        },
+        "ko": {
+          "title": "미니어처 DIY 키트 |  미니메이든 DIY 카레 돈까스",
+          "description": "미니메이든 작가님의 음식 DIY - 카레 돈까스를 만들어봤어요. :-) \n\n- DIY 키트 구매처 (미니를 사랑하는 사람들) : https://goo.gl/nBEAJE \n\nMusic: http://www.bensound.com"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "jmGMNIMlQcGjoD8q2QCwl57bXSU",
+      "id": "CqDGXv3jFWw",
+      "snippet": {
+        "publishedAt": "2017-10-16T12:08:44Z",
+        "channelId": "UCHBif8CaGNJ-pGISTjhJOJw",
+        "title": "Miniature DIY KIT | Minimaden Owl Restaurant No.3 | jjuingmini",
+        "description": "- Minimaden DIY KIT : http://blog.naver.com/yaum9/220715295316\n\nMusic: http://www.bensound.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CqDGXv3jFWw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CqDGXv3jFWw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CqDGXv3jFWw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CqDGXv3jFWw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CqDGXv3jFWw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JJuing Miniature",
+        "tags": [
+          "diy",
+          "how to make",
+          "miniature crafts",
+          "miniature diy",
+          "폴리머클레이",
+          "파스텔",
+          "피모",
+          "미니어처만들기",
+          "미니어처입문",
+          "polymer clay",
+          "polymer clay fimo",
+          "fimo",
+          "미니메이든",
+          "미니어쳐",
+          "미니어처",
+          "미니어처 DIY",
+          "미니어쳐DIY키트",
+          "쮸잉",
+          "쭈잉",
+          "jjuingmini",
+          "jjuing",
+          "minimaden",
+          "미니메이든 부엉이",
+          "부엉이 No3"
+        ],
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Miniature DIY KIT | Minimaden Owl Restaurant No.3 | jjuingmini",
+          "description": "- Minimaden DIY KIT : http://blog.naver.com/yaum9/220715295316\n\nMusic: http://www.bensound.com"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT4M10S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": false,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "228",
+        "likeCount": "13",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Hobby",
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "미니어처 DIY 키트 | 미니메이든 부엉이소바 no3 DIY 키트 만들기 | 쮸잉",
+          "description": "제가 평소 좋아하는 미니메이든 작가님의 DIY 키트를 만들어봤어요. 사실 만든지는 지난 7월달인데, 지금 살포시 올려봅니다.\n\n중간에, 연어회나 파를 올리는 부분은 아쉽게도, 카메라 오류로 저장이 되지 않았어요. ㅠㅠ)/\n\n- 미니메이든 DIY KIT 구매처 : http://blog.naver.com/yaum9/220715295316\n\nMusic: http://www.bensound.com"
+        },
+        "en": {
+          "title": "Miniature DIY KIT | Minimaden Owl Restaurant No.3 | jjuingmini",
+          "description": "- Minimaden DIY KIT : http://blog.naver.com/yaum9/220715295316\n\nMusic: http://www.bensound.com"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "EThcHvJ7YcuwwvK1cUOBexXDbQM",
+      "id": "gQmCk6RiU8Q",
+      "snippet": {
+        "publishedAt": "2017-09-20T10:15:06Z",
+        "channelId": "UCHBif8CaGNJ-pGISTjhJOJw",
+        "title": "Miniature DIY KIT | In a happy corner box theatre | jjuingmini",
+        "description": "- youtube: https://goo.gl/69jFKh\n- facebook: https://www.facebook.com/jjuingmini\n- instagram: https://www.instagram.com/jjuingmini\n\nMusic: http://www.bensound.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gQmCk6RiU8Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gQmCk6RiU8Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gQmCk6RiU8Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gQmCk6RiU8Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gQmCk6RiU8Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JJuing Miniature",
+        "tags": [
+          "diy",
+          "how to make",
+          "miniature crafts",
+          "miniature diy",
+          "폴리머클레이",
+          "파스텔",
+          "피모",
+          "미니어처만들기",
+          "미니어처초보자",
+          "미니어처입문",
+          "polymer clay",
+          "polymer clay fimo",
+          "fimo",
+          "miniature",
+          "Miniature DIY KIT",
+          "미니어쳐 diy",
+          "미니어처 diy 만들기",
+          "In a happy corner",
+          "In a happy corner box theatre"
+        ],
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Miniature DIY KIT | In a happy corner box theatre | jjuingmini",
+          "description": "- youtube: https://goo.gl/69jFKh\n- facebook: https://www.facebook.com/jjuingmini\n- instagram: https://www.instagram.com/jjuingmini\n\nMusic: http://www.bensound.com"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT5M55S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": false,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "49331",
+        "likeCount": "592",
+        "favoriteCount": "0",
+        "commentCount": "55"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Hobby",
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "미니어처 DIY 키트 | 돌하우스 드림박스 '모퉁이의 토끼까페' 만들기 | 쮸잉",
+          "description": "- youtube: https://goo.gl/69jFKh\n- facebook: https://www.facebook.com/jjuingmini\n- instagram: https://www.instagram.com/jjuingmini\n\nMusic: http://www.bensound.com"
+        },
+        "en": {
+          "title": "Miniature DIY KIT | In a happy corner box theatre | jjuingmini",
+          "description": "- youtube: https://goo.gl/69jFKh\n- facebook: https://www.facebook.com/jjuingmini\n- instagram: https://www.instagram.com/jjuingmini\n\nMusic: http://www.bensound.com"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "D6T8qbja5nFPSFTYJE2BwA1ReAQ",
+      "id": "t7lfkNEAU80",
+      "snippet": {
+        "publishedAt": "2017-09-06T13:10:05Z",
+        "channelId": "UCHBif8CaGNJ-pGISTjhJOJw",
+        "title": "Miniature | Green Pumpkin - Polymer Clay + Pastel | JJuingmini",
+        "description": "- youtube: https://goo.gl/69jFKh\n- facebook: https://www.facebook.com/jjuingmini\n- instagram: https://www.instagram.com/jjuingmini\n\nMusic by HookSounds ( http://www.hooksounds.com )",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/t7lfkNEAU80/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/t7lfkNEAU80/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/t7lfkNEAU80/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/t7lfkNEAU80/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/t7lfkNEAU80/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JJuing Miniature",
+        "tags": [
+          "miniature",
+          "미니어처",
+          "미니어쳐",
+          "微型",
+          "ミニチュア",
+          "миниатюра",
+          "Thu nhỏ",
+          "مصغر",
+          "miniatúrne",
+          "Miniaturo",
+          "مینیاتوری",
+          "miniatyyri",
+          "作ってみた",
+          "ドールハウス",
+          "En miniatura",
+          "쮸잉",
+          "jjuingmini",
+          "jjuing",
+          "쮸잉미니",
+          "miniatűr",
+          "diy",
+          "how to make",
+          "miniature crafts",
+          "miniature diy",
+          "폴리머클레이",
+          "파스텔",
+          "피모",
+          "미니어처만들어봤다",
+          "미니어처만들기",
+          "초보자의미니어처",
+          "미니어처초보자",
+          "미니어처입문",
+          "polymer clay",
+          "polymer clay fimo",
+          "fimo",
+          "polymer clay green pumpkin",
+          "miniature green pumpkin",
+          "green pumpkin miniature"
+        ],
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Miniature | Green Pumpkin - Polymer Clay + Pastel | JJuingmini",
+          "description": "- youtube: https://goo.gl/69jFKh\n- facebook: https://www.facebook.com/jjuingmini\n- instagram: https://www.instagram.com/jjuingmini\n\nMusic by HookSounds ( http://www.hooksounds.com )"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT2M47S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": false,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1075",
+        "likeCount": "25",
+        "favoriteCount": "0",
+        "commentCount": "3"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Food",
+          "https://en.wikipedia.org/wiki/Hobby",
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "미니어처 | '애호박' 만들기 / 폴리머 클레이, 파스텔 | 쮸잉",
+          "description": "계속 장바구니에 들어갈 것들만 만들게 되네요. 이번엔 애호박입니다. 초보라 많이 부족하지만, 계속 나아지겠죠~ :-)\n\n- 유튜브구독: https://goo.gl/69jFKh\n- 페이스북: https://www.facebook.com/jjuingmini\n- 인스타: https://www.instagram.com/jjuingmini\n\n#미니어처 #미니어쳐 #애호박만들기 #미니어처애호박\n\nMusic by HookSounds ( http://www.hooksounds.com )"
+        },
+        "en": {
+          "title": "Miniature | Green Pumpkin - Polymer Clay + Pastel | JJuingmini",
+          "description": "- youtube: https://goo.gl/69jFKh\n- facebook: https://www.facebook.com/jjuingmini\n- instagram: https://www.instagram.com/jjuingmini\n\nMusic by HookSounds ( http://www.hooksounds.com )"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "00Iz6qeA3T788wRs0gKYBow2Uzs",
+      "id": "srPeQTOPQpY",
+      "snippet": {
+        "publishedAt": "2017-08-28T11:49:42Z",
+        "channelId": "UCHBif8CaGNJ-pGISTjhJOJw",
+        "title": "Handmade Korea Summer Fair 2017, COEX, Seoul South Korea  | jjuingmini",
+        "description": "Handmade Korea Fair / 20-23 Jul 2017\n\n- youtube: https://goo.gl/69jFKh\n- facebook: https://www.facebook.com/jjuingmini\n- instagram: https://www.instagram.com/jjuingmini\n\nMusic by Naver\nhttp://m.gfmarket.naver.com/creator/531533",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/srPeQTOPQpY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/srPeQTOPQpY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/srPeQTOPQpY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/srPeQTOPQpY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/srPeQTOPQpY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JJuing Miniature",
+        "tags": [
+          "miniature",
+          "미니어처",
+          "미니어쳐",
+          "微型",
+          "ミニチュア",
+          "миниатюра",
+          "Thu nhỏ",
+          "مصغر",
+          "miniatúrne",
+          "Miniaturo",
+          "مینیاتوری",
+          "miniatyyri",
+          "作ってみた",
+          "ドールハウス",
+          "En miniatura",
+          "쮸잉",
+          "jjuingmini",
+          "jjuing",
+          "쮸잉미니",
+          "miniatűr",
+          "handmadekorea",
+          "handmadekoreafair",
+          "handmade korea summer",
+          "handmade korea",
+          "korea handmade",
+          "핸드메이드코리아페어",
+          "핸드메이드코리아썸머",
+          "핸드메이드 코리아 페어 썸머",
+          "핸드메이드 코리아",
+          "Exhibition",
+          "handmade korea exhibition",
+          "korea handmade exhibition",
+          "korea exhibition",
+          "handmade exhibition",
+          "ハンドメイドコリアペア",
+          "ハンドメイド",
+          "Hội chợ thủ công Hàn Quốc",
+          "Làm bằng tay",
+          "Công bằng"
+        ],
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Handmade Korea Summer Fair 2017, COEX, Seoul South Korea  | jjuingmini",
+          "description": "Handmade Korea Fair / 20-23 Jul 2017\n\n- youtube: https://goo.gl/69jFKh\n- facebook: https://www.facebook.com/jjuingmini\n- instagram: https://www.instagram.com/jjuingmini\n\nMusic by Naver\nhttp://m.gfmarket.naver.com/creator/531533"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT2M8S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": false,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "311",
+        "likeCount": "9",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Hobby",
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en": {
+          "title": "Handmade Korea Summer Fair 2017, COEX, Seoul South Korea  | jjuingmini",
+          "description": "Handmade Korea Fair / 20-23 Jul 2017\n\n- youtube: https://goo.gl/69jFKh\n- facebook: https://www.facebook.com/jjuingmini\n- instagram: https://www.instagram.com/jjuingmini\n\nMusic by Naver\nhttp://m.gfmarket.naver.com/creator/531533"
+        },
+        "ko": {
+          "title": "핸드메이드 코리아 썸머 페어 2017 , 코엑스, 서울 | 쮸잉",
+          "description": "핸드메이드 코리아 썸머 페어 2017  / 정성스런 작품들이라 영상을 찍을때마다 하나하나 여쭤보고 허락을 받아 카메라에 담아왔습니다.\n\n- youtube: https://goo.gl/69jFKh\n- facebook: https://www.facebook.com/jjuingmini\n- instagram: https://www.instagram.com/jjuingmini\n\nMusic by 네이버\nhttp://m.gfmarket.naver.com/creator/531533"
+        },
+        "vi": {
+          "title": "Hội chợ mùa hè Hàn Quốc thủ công 2017, COEX, Seoul Hàn Quốc | jjuingmini",
+          "description": "Hội chợ mùa hè Hàn Quốc thủ công 2017 / 20-23 tháng 7 năm 2017\n\n- youtube: https://goo.gl/69jFKh\n- facebook: https://www.facebook.com/jjuingmini\n- instagram: https://www.instagram.com/jjuingmini\n\nMusic by Naver\nhttp://m.gfmarket.naver.com/creator/531533"
+        },
+        "ja": {
+          "title": "ハンドメイド韓国サマーフェア2017、COEX、ソウル韓国",
+          "description": "ハンドメイド韓国サマーフェア2017 / 2017年7月20-23日\n\n\n- youtube: https://goo.gl/69jFKh\n- facebook: https://www.facebook.com/jjuingmini\n- instagram: https://www.instagram.com/jjuingmini\n\nMusic by Naver\nhttp://m.gfmarket.naver.com/creator/531533"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "kujyLwMHK3x2FlV1tgO2wrwolmE",
+      "id": "NxgpkX7aBz0",
+      "snippet": {
+        "publishedAt": "2017-08-21T11:33:25Z",
+        "channelId": "UCHBif8CaGNJ-pGISTjhJOJw",
+        "title": "Miniature | Welsh onion - polymer clay + pastel | jjuingmini",
+        "description": "I made miniature welsh onion with polymer clay. Thanks for watching!\n\n- youtube: https://goo.gl/69jFKh\n- instagram: https://www.instagram.com/jjuingmini\n- facebook: https://www.facebook.com/jjuingmini\n\n- music: http://www.bensound.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NxgpkX7aBz0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NxgpkX7aBz0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NxgpkX7aBz0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NxgpkX7aBz0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NxgpkX7aBz0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JJuing Miniature",
+        "tags": [
+          "쮸잉",
+          "jjuingmini",
+          "jjuing",
+          "miniature",
+          "쮸잉미니",
+          "미니어처",
+          "미니어쳐",
+          "微型",
+          "ミニチュア",
+          "миниатюра",
+          "Thu nhỏ",
+          "مصغر",
+          "miniatúrne",
+          "Miniaturo",
+          "مینیاتوری",
+          "miniatyyri",
+          "作ってみた",
+          "ドールハウス",
+          "polymer clay",
+          "Welsh onion",
+          "미니어처 파",
+          "미니어쳐 파",
+          "파 만들기",
+          "ネギ",
+          "ネギ ミニチュア",
+          "葱",
+          "葱 微型",
+          "cipolline",
+          "diy",
+          "how to make",
+          "miniature crafts",
+          "miniature diy",
+          "폴리머클레이",
+          "파스텔",
+          "피모",
+          "미니어처만들어봤다",
+          "미니어처만들기",
+          "초보자의미니어처",
+          "미니어처초보자",
+          "미니어처입문",
+          "welsh onion miniature",
+          "miniature welsh onion",
+          "polymerclay welsh onion",
+          "hành",
+          "Hành miniature",
+          "hành Thu nhỏ"
+        ],
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Miniature | Welsh onion - polymer clay + pastel | jjuingmini",
+          "description": "I made miniature welsh onion with polymer clay. Thanks for watching!\n\n- youtube: https://goo.gl/69jFKh\n- instagram: https://www.instagram.com/jjuingmini\n- facebook: https://www.facebook.com/jjuingmini\n\n- music: http://www.bensound.com"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT4M4S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": false,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "3304",
+        "likeCount": "78",
+        "favoriteCount": "0",
+        "commentCount": "4"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Hobby",
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en": {
+          "title": "Miniature | Welsh onion - polymer clay + pastel | jjuingmini",
+          "description": "I made miniature welsh onion with polymer clay. Thanks for watching!\n\n- youtube: https://goo.gl/69jFKh\n- instagram: https://www.instagram.com/jjuingmini\n- facebook: https://www.facebook.com/jjuingmini\n\n- music: http://www.bensound.com"
+        },
+        "ko": {
+          "title": "미니어처 | '파' 만들기 / 비닐 봉지와 마늘도 만들어 소품으로~ / 폴리머 클레이, 파스텔 | 쮸잉",
+          "description": "지난번에 만들었던 '무'에 이어서, 미니어처로 '파'도 만들어봤어요. '파'만 있기에는 섭섭해서, 봉지와 마늘도 함께 만들어서 소품으로 넣어봤어요. =)\n\n- 유튜브구독: https://goo.gl/69jFKh\n- 페이스북: https://www.facebook.com/jjuingmini\n- 인스타: https://www.instagram.com/jjuingmini\n\n- music: http://www.bensound.com"
+        },
+        "ja": {
+          "title": "ミニチュア | ネギを作ってみた / ポリマークレイ + パステル | jjuingmini",
+          "description": "ミニチュアネギを作ってみました。小物でまな板と包丁も作って大根をスライスでした。=)\n\n-ユーチューブ: https://goo.gl/69jFKh\n-フェイスブック: https://www.facebook.com/jjuingmini\n-インスタグラム: https://www.instagram.com/jjuingmini"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "URsc0hfl7EttmUIPgptEEDJQI_U",
+      "id": "3_vRYwFUmeo",
+      "snippet": {
+        "publishedAt": "2017-08-14T14:58:09Z",
+        "channelId": "UCHBif8CaGNJ-pGISTjhJOJw",
+        "title": "Korea Miniature Dollhouse Exhibition | jjuingmini",
+        "description": "I have been to the korea miniature doll house exhibition  before.\n\n- youtube: https://goo.gl/69jFKh\n- instagram: https://www.instagram.com/jjuingmini\n- facebook: https://www.facebook.com/jjuingmini\n- twitter: https://twitter.com/jjuingmini",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3_vRYwFUmeo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3_vRYwFUmeo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3_vRYwFUmeo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3_vRYwFUmeo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3_vRYwFUmeo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JJuing Miniature",
+        "tags": [
+          "쮸잉",
+          "jjuingmini",
+          "jjuing",
+          "miniature",
+          "쮸잉미니",
+          "쭈잉",
+          "미니어처",
+          "미니어쳐",
+          "微型",
+          "ミニチュア",
+          "miniatyr",
+          "Миниатюрный",
+          "küçücük",
+          "minyatür",
+          "귀여운거",
+          "DIY",
+          "cute",
+          "Exhibition",
+          "miniature korea",
+          "korea miniature",
+          "korea miniature exhibition",
+          "ミニチュアドールハウス展",
+          "ドールハウス展",
+          "ミニチュア展",
+          "韓国ミニチュアドールハウス展に行って来ました",
+          "韓国ミニチュア",
+          "韓国ドールハウス",
+          "korea doll house exhibition",
+          "doll house exhibition"
+        ],
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Korea Miniature Dollhouse Exhibition | jjuingmini",
+          "description": "I have been to the korea miniature doll house exhibition  before.\n\n- youtube: https://goo.gl/69jFKh\n- instagram: https://www.instagram.com/jjuingmini\n- facebook: https://www.facebook.com/jjuingmini\n- twitter: https://twitter.com/jjuingmini"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT5M6S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": false,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "804",
+        "likeCount": "11",
+        "favoriteCount": "0",
+        "commentCount": "4"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Hobby",
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ja": {
+          "title": "ミニチュアドールハウス展 | jjuingmini",
+          "description": "韓国ミニチュアドールハウス展に行って来ました\n\n-ツイッター: https://twitter.com/jjuingmini\n-フェイスブック: https://www.facebook.com/jjuingmini\n-インスタグラム: https://www.instagram.com/jjuingmini"
+        },
+        "ko": {
+          "title": "이게 진짜 미니어처?! '미니어처 돌하우스전'에 다녀왔어요~",
+          "description": "정성스러운 작품들이 많아서, 시간 가는 줄 모르고 구경했네요. 신기해서 보다 보니, 나중엔 피로감이 훅~ 올 정도로 집중해서 본거 같아요. 한 작품 한 작품 소중하게, 오랜 시간 공들여 만드셨다는 느낌이 들었어요. 영상에 못 담은 것들도 있어 아쉬웠습니다.\n\n주최사였던, 돌하우스 월드에서 8월 24일부터 일본에서 하는 전시회에 출전한다고 합니다. 해당 정보는 블로그에 올려놨어요. ( http://blog.naver.com/jjuingmini/2210... ) 일본에 있었다면, 그곳도 가보고 싶은...!! \n\n* 미니어처 돌하우스 전시회 정보 *\n- 일시: 2017/06/29 ~ 07/02\n- 장소: 예문 갤러리\n- 주최: 돌하우스 월드( http://dollhouse.or.kr/ ) & 릴리풋\n- 후원: 한국 미니어처 작가협회\n\n* '쮸잉 미니어처' 채널 소식은 아래 사이트에서 받아보실 수 있어요. *\n- 유튜브 구독 :  https://goo.gl/69jFKh\n- 블로그: http://jjuingmini.blog.me\n- 페이스북: https://www.facebook.com/jjuingmini\n- 인스타그램: https://www.instagram.com/jjuingmini"
+        },
+        "en": {
+          "title": "Korea Miniature Dollhouse Exhibition | jjuingmini",
+          "description": "I have been to the korea miniature doll house exhibition  before.\n\n- youtube: https://goo.gl/69jFKh\n- instagram: https://www.instagram.com/jjuingmini\n- facebook: https://www.facebook.com/jjuingmini\n- twitter: https://twitter.com/jjuingmini"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "DZAZ_1SNwZEaD1n6Yki6HXbMLqY",
+      "id": "TWgKx0ohVvw",
+      "snippet": {
+        "publishedAt": "2017-08-11T11:52:29Z",
+        "channelId": "UCHBif8CaGNJ-pGISTjhJOJw",
+        "title": "Miniature | White Radish -  Resin Clay, Acrylic Color - 서울시SBA1인미디어 | jjuingmini",
+        "description": "I made miniature radish with resin clay. I pulled the radish from the small field and put it in the basket. I saw the radishes, cut them with board and a knife, and I put them in the last minute of the video.  =)\n\n- youtube: https://goo.gl/69jFKh\n- instagram: https://www.instagram.com/jjuingmini\n- facebook: https://www.facebook.com/jjuingmini",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TWgKx0ohVvw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TWgKx0ohVvw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TWgKx0ohVvw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TWgKx0ohVvw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TWgKx0ohVvw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JJuing Miniature",
+        "tags": [
+          "쮸잉",
+          "jjuingmini",
+          "jjuing",
+          "miniature",
+          "쮸잉미니",
+          "쭈잉",
+          "미니어처",
+          "미니어쳐",
+          "微型",
+          "ミニチュア",
+          "miniatyr",
+          "Миниатюрный",
+          "küçücük",
+          "minyatür",
+          "귀여운거",
+          "DIY",
+          "cute",
+          "이야코점토",
+          "이야코화이트수지점토",
+          "미니어처 무 만들기",
+          "미니어처 무",
+          "미니어처 농사",
+          "무 농사",
+          "수지점토 미니어처",
+          "이야코 미니어처",
+          "miniature white radish",
+          "resinclay",
+          "resin clay",
+          "white radish",
+          "cute miniature",
+          "ダイコン",
+          "だいこん",
+          "ミニチュアだいこん",
+          "作ってみた",
+          "おもしろ",
+          "ドールハウス"
+        ],
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Miniature | White Radish -  Resin Clay, Acrylic Color - 서울시SBA1인미디어 | jjuingmini",
+          "description": "I made miniature radish with resin clay. I pulled the radish from the small field and put it in the basket. I saw the radishes, cut them with board and a knife, and I put them in the last minute of the video.  =)\n\n- youtube: https://goo.gl/69jFKh\n- instagram: https://www.instagram.com/jjuingmini\n- facebook: https://www.facebook.com/jjuingmini"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT2M13S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": false,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1035",
+        "likeCount": "30",
+        "favoriteCount": "0",
+        "commentCount": "16"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Food",
+          "https://en.wikipedia.org/wiki/Hobby",
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "미니어처 | 무 만들기 - 이야코 화이트 수지 점토, 아크릴 물감 - 서울시SBA1인미디어 | 쮸잉",
+          "description": "이야코 화이트 수지 점토로 미니어처 무를 만들어봤어요. 작은 밭에서 무를 뽑아 바구니에 담아봤어요. 뽑은 무를, 도마와 칼로 썰어도 봤는데, 영상 맨 마지막에 작게 넣어봤답니다. =)\n\n* '쮸잉 미니어처' 채널 소식은 아래 사이트에서 받아보실 수 있어요. *\n- 유튜브 구독 :  https://goo.gl/69jFKh\n- 블로그: http://jjuingmini.blog.me\n- 페이스북: https://www.facebook.com/jjuingmini\n- 인스타그램: https://www.instagram.com/jjuingmini"
+        },
+        "ja": {
+          "title": "ミニチュア | ダイコン作ってみた - 樹脂粘土, アクリル絵具 | jjuingmini",
+          "description": "ダイコンミニチュアを作ってみました。小物でまな板と包丁も作って大根をスライスでした。=)\n\n-ユーチューブ: https://goo.gl/69jFKh\n-フェイスブック: https://www.facebook.com/jjuingmini\n-インスタグラム: https://www.instagram.com/jjuingmini"
+        },
+        "en": {
+          "title": "Miniature | White Radish -  Resin Clay, Acrylic Color - 서울시SBA1인미디어 | jjuingmini",
+          "description": "I made miniature radish with resin clay. I pulled the radish from the small field and put it in the basket. I saw the radishes, cut them with board and a knife, and I put them in the last minute of the video.  =)\n\n- youtube: https://goo.gl/69jFKh\n- instagram: https://www.instagram.com/jjuingmini\n- facebook: https://www.facebook.com/jjuingmini"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "1fWJOlEt3_-nGepMmCMnOxTGI-Q",
+      "id": "vdgWnM-DQqg",
+      "snippet": {
+        "publishedAt": "2017-08-04T12:56:09Z",
+        "channelId": "UCHBif8CaGNJ-pGISTjhJOJw",
+        "title": "miniature fake food | feast noodle | jjuingmini",
+        "description": "I made a miniature feast noodle.\n\n- youtube: https://goo.gl/69jFKh\n- instagram: https://www.instagram.com/jjuingmini\n- facebook: https://www.facebook.com/jjuingmini",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vdgWnM-DQqg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vdgWnM-DQqg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vdgWnM-DQqg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vdgWnM-DQqg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vdgWnM-DQqg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JJuing Miniature",
+        "tags": [
+          "쮸잉",
+          "jjuingmini",
+          "jjuing",
+          "miniature",
+          "쮸잉미니",
+          "쭈잉",
+          "미니어처",
+          "미니어쳐",
+          "微型",
+          "ミニチュア",
+          "miniatyr",
+          "Миниатюрный",
+          "küçücük",
+          "minyatür",
+          "귀여운거",
+          "DIY",
+          "cute",
+          "잔치국수",
+          "천사점토미니어처",
+          "천사점토미니어쳐",
+          "간단한 미니어처",
+          "미니어처 기초",
+          "미니어처 초보",
+          "미니어처 입문",
+          "천사점토",
+          "천점",
+          "모데나",
+          "천사점토 만들기",
+          "miniature tutorial",
+          "作ってみた",
+          "diy",
+          "作り方",
+          "麺",
+          "miniature Noodle",
+          "천사점토잔치국수",
+          "miniature feast noodle",
+          "angel clay",
+          "miniature noodle",
+          "noodle",
+          "مصغر",
+          "miniatúrne",
+          "Miniaturo",
+          "مینیاتوری",
+          "miniatyyri",
+          "миниатюра",
+          "Thu nhỏ",
+          "الشعرية مصغرة",
+          "miniature fake cook",
+          "make fake food"
+        ],
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "miniature fake food | feast noodle | jjuingmini",
+          "description": "I made a miniature feast noodle.\n\n- youtube: https://goo.gl/69jFKh\n- instagram: https://www.instagram.com/jjuingmini\n- facebook: https://www.facebook.com/jjuingmini"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT1M52S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": false,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "505",
+        "likeCount": "13",
+        "favoriteCount": "0",
+        "commentCount": "13"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Food",
+          "https://en.wikipedia.org/wiki/Hobby",
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en": {
+          "title": "miniature fake food | feast noodle | jjuingmini",
+          "description": "I made a miniature feast noodle.\n\n- youtube: https://goo.gl/69jFKh\n- instagram: https://www.instagram.com/jjuingmini\n- facebook: https://www.facebook.com/jjuingmini"
+        },
+        "ko": {
+          "title": "미니어처 잔치국수를 만들어봤어요 | 쮸잉",
+          "description": "천사점토와 모데나(토핑)로 잔치국수를 만들어봤어요. =)\n\n* '쮸잉 미니어처' 채널 소식은 아래 사이트에서 받아보실 수 있습니다. *\n- 유튜브 구독 :  https://goo.gl/69jFKh\n- 블로그: http://jjuingmini.blog.me\n- 페이스북: https://www.facebook.com/jjuingmini\n- 인스타그램: https://www.instagram.com/jjuingmini"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "V5FB9fPWY2CUzNaALjbBIJY3_eE",
+      "id": "YdgVDMXx3Ak",
+      "snippet": {
+        "publishedAt": "2017-07-21T12:58:11Z",
+        "channelId": "UCHBif8CaGNJ-pGISTjhJOJw",
+        "title": "미니어처 | 프레즐 삼형제 빵 아이클레이로 만들기 | 쮸잉",
+        "description": "아이클레이로 프레즐 빵을 만들어보았습니다. 사용된 재료는 글 가장 마지막에 있어요!\n\n- 유튜브 구독: https://goo.gl/69jFKh\n- 블로그: http://jjuingmini.blog.me\n- 페이스북: https://www.facebook.com/jjuingmini\n- 인스타그램: https://www.instagram.com/jjuingmini\n\n* 재료 *\n- 아이클레이\n- 물감: 옐로우 오우커, 번트 시엔나, 번트 엄버\n- 재활용품: 파레트용 비닐,  붓 물통용 플라스틱 통\n- 세필붓 한자루",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YdgVDMXx3Ak/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YdgVDMXx3Ak/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YdgVDMXx3Ak/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YdgVDMXx3Ak/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YdgVDMXx3Ak/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JJuing Miniature",
+        "tags": [
+          "쮸잉",
+          "jjuingmini",
+          "jjuing",
+          "miniature",
+          "쮸잉미니",
+          "쭈잉",
+          "미니어처",
+          "미니어쳐",
+          "微型",
+          "ミニチュア",
+          "miniatyr",
+          "Миниатюрный",
+          "küçücük",
+          "minyatür",
+          "귀여운거",
+          "DIY",
+          "cute",
+          "프레즐",
+          "빵",
+          "Bread",
+          "Pretzel",
+          "プレッツェル",
+          "パン",
+          "tutorial",
+          "howto",
+          "미니어처프레즐",
+          "프래즐",
+          "미니어쳐프래즐",
+          "미니어처프래즐",
+          "프레즐미니어처",
+          "프레즐미니어쳐",
+          "frazzle",
+          "miniaturefrazzle",
+          "miniaturepretzel",
+          "pretzelminiature",
+          "frazzleminiature",
+          "미니어쳐프레즐",
+          "프래즐미니어쳐",
+          "ミニチュア プレッツェル",
+          "プレッツェル ミニチュア",
+          "귀여운미니어처",
+          "귀여운미니어쳐",
+          "cute miniature",
+          "미니어처만들기",
+          "miniature tutorial",
+          "pretzel miniature tutorial",
+          "천사점토",
+          "아이클레이",
+          "천사점토프레즐",
+          "프레즐천사점토",
+          "아이클레이프레즐",
+          "프래즐아이클레이",
+          "黏土教學"
+        ],
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "미니어처 | 프레즐 삼형제 빵 아이클레이로 만들기 | 쮸잉",
+          "description": "아이클레이로 프레즐 빵을 만들어보았습니다. 사용된 재료는 글 가장 마지막에 있어요!\n\n- 유튜브 구독: https://goo.gl/69jFKh\n- 블로그: http://jjuingmini.blog.me\n- 페이스북: https://www.facebook.com/jjuingmini\n- 인스타그램: https://www.instagram.com/jjuingmini\n\n* 재료 *\n- 아이클레이\n- 물감: 옐로우 오우커, 번트 시엔나, 번트 엄버\n- 재활용품: 파레트용 비닐,  붓 물통용 플라스틱 통\n- 세필붓 한자루"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT1M50S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": false,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1607",
+        "likeCount": "24",
+        "favoriteCount": "0",
+        "commentCount": "23"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Food",
+          "https://en.wikipedia.org/wiki/Hobby",
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "미니어처 | 프레즐 삼형제 빵 아이클레이로 만들기 | 쮸잉",
+          "description": "아이클레이로 프레즐 빵을 만들어보았습니다. 사용된 재료는 글 가장 마지막에 있어요!\n\n- 유튜브 구독: https://goo.gl/69jFKh\n- 블로그: http://jjuingmini.blog.me\n- 페이스북: https://www.facebook.com/jjuingmini\n- 인스타그램: https://www.instagram.com/jjuingmini\n\n* 재료 *\n- 아이클레이\n- 물감: 옐로우 오우커, 번트 시엔나, 번트 엄버\n- 재활용품: 파레트용 비닐,  붓 물통용 플라스틱 통\n- 세필붓 한자루"
+        },
+        "ja": {
+          "title": "ミニチュア | プレッツェル 作り | jjuingmini",
+          "description": "ミニチュアプレッツェルを作り見ました。\n\n-ツイッター: https://twitter.com/jjuingmini\n-フェイスブック: https://www.facebook.com/jjuingmini\n-インスタグラム: https://www.instagram.com/jjuingmini"
+        },
+        "en": {
+          "title": "miniature | pretzel tutorial / how to | jjuingmini",
+          "description": "I made a pretzel miniature. If you liked this video and want to see more miniature tutorials, please subscribe to my channel. =)\n\n- youtube: https://goo.gl/69jFKh\n- instagram: https://www.instagram.com/jjuingmini\n- facebook: https://www.facebook.com/jjuingmini\n- twitter: https://twitter.com/jjuingmini"
+        },
+        "zh": {
+          "title": "迷你椒鹽脆餅黏土教學 | jjuingmini",
+          "description": "认识你很高兴。迷你椒鹽脆餅黏土教學。\n\nI made a pretzel miniature. If you liked this video and want to see more miniature tutorials, please subscribe to my channel. =)\n\n- youtube: https://goo.gl/69jFKh\n- instagram: https://www.instagram.com/jjuingmini\n- facebook: https://www.facebook.com/jjuingmini\n- twitter: https://twitter.com/jjuingmini"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "OJMbnq5RT1rGv9e-Oa_QnbVnXhk",
+      "id": "dguMazPFP0w",
+      "snippet": {
+        "publishedAt": "2017-06-26T12:00:11Z",
+        "channelId": "UCHBif8CaGNJ-pGISTjhJOJw",
+        "title": "청포도 줄기와 화장솜으로 목화송이 만들기 | 재활용 미니어처(미니어쳐) | 쮸잉",
+        "description": "청포도 줄기와 화장솜으로 목화송이를 만들어봤어요. 목공풀이 없다면 일반 풀을 이용해도 되고, 영상에 나와있는 재료가 아니어도 비슷한 재료로 만들면 됩니다.\n\n* 쮸잉미니 채널의 소식을 더 보고 싶다면 '더보기▼' 클릭 *\n- 블로그: http://jjuingmini.blog.me\n- 트위터 : https://twitter.com/jjuingmini\n- 페이스북: https://www.facebook.com/jjuingmini\n- 인스타그램: https://www.instagram.com/jjuingmini",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dguMazPFP0w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dguMazPFP0w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dguMazPFP0w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dguMazPFP0w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dguMazPFP0w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JJuing Miniature",
+        "tags": [
+          "쮸잉",
+          "jjuingmini",
+          "jjuing",
+          "쮸잉미니",
+          "미니어처",
+          "미니어쳐",
+          "微型",
+          "ミニチュア",
+          "miniatyr",
+          "Миниатюрный",
+          "küçücük",
+          "minyatür",
+          "재활용",
+          "리사이클",
+          "업사이클링",
+          "업사이클링미니어처",
+          "목화나무",
+          "목화솜",
+          "재활용미니어처",
+          "재활용미니어쳐",
+          "목화송이",
+          "목화줄기",
+          "リサイクル",
+          "めんかのふさ",
+          "綿花"
+        ],
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "청포도 줄기와 화장솜으로 목화송이 만들기 | 재활용 미니어처(미니어쳐) | 쮸잉",
+          "description": "청포도 줄기와 화장솜으로 목화송이를 만들어봤어요. 목공풀이 없다면 일반 풀을 이용해도 되고, 영상에 나와있는 재료가 아니어도 비슷한 재료로 만들면 됩니다.\n\n* 쮸잉미니 채널의 소식을 더 보고 싶다면 '더보기▼' 클릭 *\n- 블로그: http://jjuingmini.blog.me\n- 트위터 : https://twitter.com/jjuingmini\n- 페이스북: https://www.facebook.com/jjuingmini\n- 인스타그램: https://www.instagram.com/jjuingmini"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT4M20S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": false,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "3504",
+        "likeCount": "55",
+        "favoriteCount": "0",
+        "commentCount": "17"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Hobby",
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en": {
+          "title": "Making a cotton ball with green grape stem and cotton beauty | Recycling Miniature | @jjuingmini",
+          "description": "I made a cotton ball miniature with a green grape stem and a cotton beauty.\n\n- instagram: https://www.instagram.com/jjuingmini\n- facebook: https://www.facebook.com/jjuingmini\n- twitter: https://twitter.com/jjuingmini"
+        },
+        "ko": {
+          "title": "청포도 줄기와 화장솜으로 목화송이 만들기 | 재활용 미니어처(미니어쳐) | 쮸잉",
+          "description": "청포도 줄기와 화장솜으로 목화송이를 만들어봤어요. 목공풀이 없다면 일반 풀을 이용해도 되고, 영상에 나와있는 재료가 아니어도 비슷한 재료로 만들면 됩니다.\n\n* 쮸잉미니 채널의 소식을 더 보고 싶다면 '더보기▼' 클릭 *\n- 블로그: http://jjuingmini.blog.me\n- 트위터 : https://twitter.com/jjuingmini\n- 페이스북: https://www.facebook.com/jjuingmini\n- 인스타그램: https://www.instagram.com/jjuingmini"
+        },
+        "ja": {
+          "title": "ブドウ幹と化粧コットンでめんかのふさ作り | リサイクルミニアチュア | @jjuingmini",
+          "description": "ブドウ幹と化粧コットンでめんかのふさを作り見ました。\n\n-ツイッター: https://twitter.com/jjuingmini\n-フェイスブック: https://www.facebook.com/jjuingmini\n-インスタグラム: https://www.instagram.com/jjuingmini"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "RrFjSLE8MmsTVR4AAF4ubsNsW8o",
+      "id": "z7HjGLTkEeE",
+      "snippet": {
+        "publishedAt": "2017-04-04T10:42:14Z",
+        "channelId": "UCHBif8CaGNJ-pGISTjhJOJw",
+        "title": "쮸잉 미니어처 | JJuing Miniature님의 실시간 스트리밍",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/z7HjGLTkEeE/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/z7HjGLTkEeE/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/z7HjGLTkEeE/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/z7HjGLTkEeE/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/z7HjGLTkEeE/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JJuing Miniature",
+        "categoryId": "26",
+        "liveBroadcastContent": "upcoming",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "쮸잉 미니어처 | JJuing Miniature님의 실시간 스트리밍",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "P0D",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "uploaded",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "0",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "쮸잉 미니어처 | JJuing Miniature님의 실시간 스트리밍",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "--pOmUiWLbZTfj9RzJ0v7N3B0z0",
+      "id": "Otez2Xea-Ko",
+      "snippet": {
+        "publishedAt": "2017-03-31T12:51:09Z",
+        "channelId": "UCHBif8CaGNJ-pGISTjhJOJw",
+        "title": "미니어처 | 계란 후라이 만들었어요 | 쮸잉",
+        "description": "처음 올려보는 미니어쳐 영상이라 떨리네요. 재밋게 보셨으면, '구독'과 '좋아요'를 눌러주시면, 제작에 많은 힘이 됩니다. :-)\n폴리머 클레이로 계란 후라이 미니어처를 만들어봤어요.\n\n* 쮸잉미니 채널의 소식을 더 보고 싶다면 *\n- 블로그: http://jjuingmini.blog.me\n- 트위터 : https://twitter.com/jjuingmini\n- 페이스북: https://www.facebook.com/jjuingmini\n- 인스타그램: https://www.instagram.com/jjuingmini",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Otez2Xea-Ko/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Otez2Xea-Ko/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Otez2Xea-Ko/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Otez2Xea-Ko/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Otez2Xea-Ko/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JJuing Miniature",
+        "tags": [
+          "미니어쳐",
+          "미니어처",
+          "미니어처 계란후라이",
+          "미니어쳐 후라이",
+          "폴리머클레이",
+          "계란후라이",
+          "ミニチュア",
+          "微型",
+          "miniatyr",
+          "쮸잉",
+          "Миниатюрный",
+          "küçücük",
+          "minyatür",
+          "Fried Egg",
+          "미니어쳐 계란",
+          "미니어처 후라이",
+          "계란후라이 미니어처",
+          "계란후라이 미니어쳐",
+          "피모",
+          "miniature fried egg",
+          "fried egg miniature",
+          "polymer clay fried egg",
+          "fried egg polymer clay",
+          "계란후라이만들기",
+          "fimo fried egg",
+          "jjuingmini",
+          "jjuing",
+          "fimo",
+          "diy",
+          "tutorial",
+          "미니어쳐만들기쉬운거",
+          "미니어쳐만들기",
+          "미니어쳐음식",
+          "클레이",
+          "mini",
+          "polymer clay tutorial",
+          "miniature tutorial",
+          "craft",
+          "tiny",
+          "miniature food",
+          "polymer clay",
+          "diy miniature",
+          "ポリマークレイ",
+          "ミニチュアフライ",
+          "ミニチュア卵",
+          "小さな",
+          "クラフト",
+          "粘土",
+          "如何",
+          "clay"
+        ],
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "미니어처 | 계란 후라이 만들었어요 | 쮸잉",
+          "description": "처음 올려보는 미니어쳐 영상이라 떨리네요. 재밋게 보셨으면, '구독'과 '좋아요'를 눌러주시면, 제작에 많은 힘이 됩니다. :-)\n폴리머 클레이로 계란 후라이 미니어처를 만들어봤어요.\n\n* 쮸잉미니 채널의 소식을 더 보고 싶다면 *\n- 블로그: http://jjuingmini.blog.me\n- 트위터 : https://twitter.com/jjuingmini\n- 페이스북: https://www.facebook.com/jjuingmini\n- 인스타그램: https://www.instagram.com/jjuingmini"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT2M43S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": false,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "840",
+        "likeCount": "25",
+        "favoriteCount": "0",
+        "commentCount": "21"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Food",
+          "https://en.wikipedia.org/wiki/Hobby",
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {
+        "recordingDate": "2017-03-31T00:00:00Z"
+      },
+      "localizations": {
+        "ko": {
+          "title": "미니어처 | 계란 후라이 만들었어요 | 쮸잉",
+          "description": "처음 올려보는 미니어쳐 영상이라 떨리네요. 재밋게 보셨으면, '구독'과 '좋아요'를 눌러주시면, 제작에 많은 힘이 됩니다. :-)\n폴리머 클레이로 계란 후라이 미니어처를 만들어봤어요.\n\n* 쮸잉미니 채널의 소식을 더 보고 싶다면 *\n- 블로그: http://jjuingmini.blog.me\n- 트위터 : https://twitter.com/jjuingmini\n- 페이스북: https://www.facebook.com/jjuingmini\n- 인스타그램: https://www.instagram.com/jjuingmini"
+        },
+        "en": {
+          "title": "Miniature | Polymer Clay Fried Egg Tutorial | JJuing",
+          "description": "My first miniature tutorial video.  If you liked this video and want to see more miniature tutorials, please subscribe to my channel. =)\n\n- youtube: https://goo.gl/69jFKh\n- instagram: https://www.instagram.com/jjuingmini\n- facebook: https://www.facebook.com/jjuingmini\n- twitter: https://twitter.com/jjuingmini"
+        }
+      }
+    }
+  ]
+}

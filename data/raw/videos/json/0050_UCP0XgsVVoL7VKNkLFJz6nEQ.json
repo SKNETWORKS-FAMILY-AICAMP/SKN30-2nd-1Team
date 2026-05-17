@@ -1,0 +1,2900 @@
+{
+  "idx": 50,
+  "channel_id": "UCP0XgsVVoL7VKNkLFJz6nEQ",
+  "channel_title": "Myoung Su Lee",
+  "playlist_items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "YOuKAmKgernHFXnHxwP1YL_j52Y",
+      "id": "VVVQMFhnc1ZWb0w3VktOa0xGSno2bkVRLnRVSnlleFNGX29v",
+      "snippet": {
+        "publishedAt": "2019-02-01T02:29:02Z",
+        "channelId": "UCP0XgsVVoL7VKNkLFJz6nEQ",
+        "title": "천사와 함께(국회의원 이명수 신년인사)",
+        "description": "천사와 함께 새해 福 많이 받으세요!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tUJyexSF_oo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tUJyexSF_oo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tUJyexSF_oo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tUJyexSF_oo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Myoung Su Lee",
+        "playlistId": "UUP0XgsVVoL7VKNkLFJz6nEQ",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "tUJyexSF_oo"
+        },
+        "videoOwnerChannelTitle": "Myoung Su Lee",
+        "videoOwnerChannelId": "UCP0XgsVVoL7VKNkLFJz6nEQ"
+      },
+      "contentDetails": {
+        "videoId": "tUJyexSF_oo",
+        "videoPublishedAt": "2019-02-01T02:29:02Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2Pv2FPfpSq8ODvkgqhA6xw_09KI",
+      "id": "VVVQMFhnc1ZWb0w3VktOa0xGSno2bkVRLnF2NkUtNmtHNU1N",
+      "snippet": {
+        "publishedAt": "2019-02-01T02:27:00Z",
+        "channelId": "UCP0XgsVVoL7VKNkLFJz6nEQ",
+        "title": "황금돼지와 함께(국회의원 이명수 신년인사)",
+        "description": "황금돼지와 함께 새해 福 많이 받으세요!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qv6E-6kG5MM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qv6E-6kG5MM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qv6E-6kG5MM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Myoung Su Lee",
+        "playlistId": "UUP0XgsVVoL7VKNkLFJz6nEQ",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "qv6E-6kG5MM"
+        },
+        "videoOwnerChannelTitle": "Myoung Su Lee",
+        "videoOwnerChannelId": "UCP0XgsVVoL7VKNkLFJz6nEQ"
+      },
+      "contentDetails": {
+        "videoId": "qv6E-6kG5MM",
+        "videoPublishedAt": "2019-02-01T02:27:00Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ZG7GpXXufyveCNsDE4lChqVRpGE",
+      "id": "VVVQMFhnc1ZWb0w3VktOa0xGSno2bkVRLkFEbE1vQUhEVlFN",
+      "snippet": {
+        "publishedAt": "2016-03-31T02:25:55Z",
+        "channelId": "UCP0XgsVVoL7VKNkLFJz6nEQ",
+        "title": "아산갑 새누리당 이명수 후보 소개 영상입니다~",
+        "description": "설명",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ADlMoAHDVQM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ADlMoAHDVQM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ADlMoAHDVQM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ADlMoAHDVQM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Myoung Su Lee",
+        "playlistId": "UUP0XgsVVoL7VKNkLFJz6nEQ",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ADlMoAHDVQM"
+        },
+        "videoOwnerChannelTitle": "Myoung Su Lee",
+        "videoOwnerChannelId": "UCP0XgsVVoL7VKNkLFJz6nEQ"
+      },
+      "contentDetails": {
+        "videoId": "ADlMoAHDVQM",
+        "videoPublishedAt": "2016-03-31T02:25:55Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "RJ9K6yv-jKGSsNgwRl0VQAD0ZmU",
+      "id": "VVVQMFhnc1ZWb0w3VktOa0xGSno2bkVRLm81TmdGd1NxV1hv",
+      "snippet": {
+        "publishedAt": "2016-03-30T01:11:41Z",
+        "channelId": "UCP0XgsVVoL7VKNkLFJz6nEQ",
+        "title": "아산갑 이명수 후보 소개 영상",
+        "description": "설명",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/o5NgFwSqWXo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/o5NgFwSqWXo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/o5NgFwSqWXo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/o5NgFwSqWXo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/o5NgFwSqWXo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Myoung Su Lee",
+        "playlistId": "UUP0XgsVVoL7VKNkLFJz6nEQ",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "o5NgFwSqWXo"
+        },
+        "videoOwnerChannelTitle": "Myoung Su Lee",
+        "videoOwnerChannelId": "UCP0XgsVVoL7VKNkLFJz6nEQ"
+      },
+      "contentDetails": {
+        "videoId": "o5NgFwSqWXo",
+        "videoPublishedAt": "2016-03-30T01:11:41Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "VxRVRZVmdN2xxaClwpNeXaUhkFM",
+      "id": "VVVQMFhnc1ZWb0w3VktOa0xGSno2bkVRLmtuanYyZWRuZkk0",
+      "snippet": {
+        "publishedAt": "2016-03-10T02:18:11Z",
+        "channelId": "UCP0XgsVVoL7VKNkLFJz6nEQ",
+        "title": "[충남 아산(갑) 새누리당 예비후보 이명수입니다]  오늘은 도산 안창호 선생님의 순국 제78주기 입니다.",
+        "description": "78년 전 오늘 도산 안창호 선생님은 나라를 되찾는 기쁨을 가지지 못하고 순국하셨습니다. 안창호 선생님께서 조선의 청년들과 국민들에게 간절히 부탁하셨던 \"여러분은 힘을 기르소서, 힘을 기르소서\" 이 말이 귀에 맴도는 하루입니다. 민주주의적 민족국가 수립을 위해 헌신을 하신 뛰어난 지도자이자 실천가이신 도산 안창호 선생님을 잊지 않겠습니다. 그리고 기억하겠습니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/knjv2ednfI4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/knjv2ednfI4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/knjv2ednfI4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/knjv2ednfI4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/knjv2ednfI4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Myoung Su Lee",
+        "playlistId": "UUP0XgsVVoL7VKNkLFJz6nEQ",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "knjv2ednfI4"
+        },
+        "videoOwnerChannelTitle": "Myoung Su Lee",
+        "videoOwnerChannelId": "UCP0XgsVVoL7VKNkLFJz6nEQ"
+      },
+      "contentDetails": {
+        "videoId": "knjv2ednfI4",
+        "videoPublishedAt": "2016-03-10T02:18:11Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "kMFbLeLf77E1z9ToTxKZ8ISPEVY",
+      "id": "VVVQMFhnc1ZWb0w3VktOa0xGSno2bkVRLm1tdmw2ZU9zRWdj",
+      "snippet": {
+        "publishedAt": "2016-02-28T11:23:42Z",
+        "channelId": "UCP0XgsVVoL7VKNkLFJz6nEQ",
+        "title": "제97회 3.1절 기념(충남 아산 국회의원 예비후보 이명수)",
+        "description": "설명",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mmvl6eOsEgc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mmvl6eOsEgc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mmvl6eOsEgc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mmvl6eOsEgc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mmvl6eOsEgc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Myoung Su Lee",
+        "playlistId": "UUP0XgsVVoL7VKNkLFJz6nEQ",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "mmvl6eOsEgc"
+        },
+        "videoOwnerChannelTitle": "Myoung Su Lee",
+        "videoOwnerChannelId": "UCP0XgsVVoL7VKNkLFJz6nEQ"
+      },
+      "contentDetails": {
+        "videoId": "mmvl6eOsEgc",
+        "videoPublishedAt": "2016-02-28T11:23:42Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "oCtZL5ObErdlXXAyc1jDz1OHnzo",
+      "id": "VVVQMFhnc1ZWb0w3VktOa0xGSno2bkVRLlZIeHNadFozRG8w",
+      "snippet": {
+        "publishedAt": "2016-02-19T04:53:33Z",
+        "channelId": "UCP0XgsVVoL7VKNkLFJz6nEQ",
+        "title": "[국회의원 이명수] Today is not Takeshima day. Dokdo is Korean territory",
+        "description": "2월 22일은 야욕의 눈이 먼 일본이 말하는 다케시마의 날이 아닙니다.\n독도는 역사적, 문헌적, 지리적으로 과거에도 현재에도 그리고 먼 미래에도 대한민국의 영토입니다.\n우리가 독도가 당연히 대한민국 영토이기 때문에 무관심하는 동안,\n일본은 호시탐탐 우리의 독도를 노리면서 2월 22일을 독도의 날로 제정하여 매년 행사를 하고 있습니다. \n\n적어도 오늘 하루만큼은 대한민국의 아름다운 섬 독도에 대해 생각해보는 것은 어떨까요?\n\nToday is not Takeshima day\n\nDo you Know DOKDO? \nYES! We Know DOKDO\nIs Korean territory",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VHxsZtZ3Do0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VHxsZtZ3Do0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VHxsZtZ3Do0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VHxsZtZ3Do0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VHxsZtZ3Do0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Myoung Su Lee",
+        "playlistId": "UUP0XgsVVoL7VKNkLFJz6nEQ",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VHxsZtZ3Do0"
+        },
+        "videoOwnerChannelTitle": "Myoung Su Lee",
+        "videoOwnerChannelId": "UCP0XgsVVoL7VKNkLFJz6nEQ"
+      },
+      "contentDetails": {
+        "videoId": "VHxsZtZ3Do0",
+        "videoPublishedAt": "2016-02-19T04:53:33Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "bmxd2URshlvqlNuIccZww9ACnSk",
+      "id": "VVVQMFhnc1ZWb0w3VktOa0xGSno2bkVRLlFyRVpnek13SmNz",
+      "snippet": {
+        "publishedAt": "2016-02-12T05:34:11Z",
+        "channelId": "UCP0XgsVVoL7VKNkLFJz6nEQ",
+        "title": "[국회의원 이명수] 106 years ago today, Martyr Ahn Jung-geun was sentenced to death a day",
+        "description": "106년 전 2월 14일, 안중근의사의 숭고하고 그 큰 뜻 잊지 않겠습니다.\n\n우리 역사, 우리가 바르게 알아야 현재의 대한민국이 바로 설 수 있습니다. 그리고 미래의 후세들에게 당당할 수 있습니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QrEZgzMwJcs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QrEZgzMwJcs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QrEZgzMwJcs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QrEZgzMwJcs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QrEZgzMwJcs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Myoung Su Lee",
+        "playlistId": "UUP0XgsVVoL7VKNkLFJz6nEQ",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "QrEZgzMwJcs"
+        },
+        "videoOwnerChannelTitle": "Myoung Su Lee",
+        "videoOwnerChannelId": "UCP0XgsVVoL7VKNkLFJz6nEQ"
+      },
+      "contentDetails": {
+        "videoId": "QrEZgzMwJcs",
+        "videoPublishedAt": "2016-02-12T05:34:11Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "9nHCj1GtNPAV6op3--S0z9UOG8o",
+      "id": "VVVQMFhnc1ZWb0w3VktOa0xGSno2bkVRLlpGWWpNUHEzRGpz",
+      "snippet": {
+        "publishedAt": "2015-02-28T14:29:56Z",
+        "channelId": "UCP0XgsVVoL7VKNkLFJz6nEQ",
+        "title": "[국회의원 이명수] 96주년 3·1절 기념",
+        "description": "설명",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZFYjMPq3Djs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZFYjMPq3Djs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZFYjMPq3Djs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZFYjMPq3Djs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZFYjMPq3Djs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Myoung Su Lee",
+        "playlistId": "UUP0XgsVVoL7VKNkLFJz6nEQ",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ZFYjMPq3Djs"
+        },
+        "videoOwnerChannelTitle": "Myoung Su Lee",
+        "videoOwnerChannelId": "UCP0XgsVVoL7VKNkLFJz6nEQ"
+      },
+      "contentDetails": {
+        "videoId": "ZFYjMPq3Djs",
+        "videoPublishedAt": "2015-02-28T14:29:56Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "aRe8xEBnqAaM6GAXCAhCBT8s_wE",
+      "id": "VVVQMFhnc1ZWb0w3VktOa0xGSno2bkVRLk5qQ004N3Q1TGk4",
+      "snippet": {
+        "publishedAt": "2015-02-21T15:07:08Z",
+        "channelId": "UCP0XgsVVoL7VKNkLFJz6nEQ",
+        "title": "[이명수 의원] We know DOKDO! Is Korean territory",
+        "description": "We know DOKDO! Is Korean territory\n\n일본에서 매년 2월 22일 다케시마의 날로 지정하여 행사를 하고 있습니다. 독도가 대한민국 영토라는 너무도 많은 역사적 사실과 증거가 있음에도 불구하고 일본의 야욕은 너무도 지나치고 있습니다. 우리가 당연히 우리땅이라고 생각하며 조금은 무심했던건 아닌지 생각하며 영상을 준비했습니다. 독도는 명실상부한 대한민국 영토입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NjCM87t5Li8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NjCM87t5Li8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NjCM87t5Li8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NjCM87t5Li8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Myoung Su Lee",
+        "playlistId": "UUP0XgsVVoL7VKNkLFJz6nEQ",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NjCM87t5Li8"
+        },
+        "videoOwnerChannelTitle": "Myoung Su Lee",
+        "videoOwnerChannelId": "UCP0XgsVVoL7VKNkLFJz6nEQ"
+      },
+      "contentDetails": {
+        "videoId": "NjCM87t5Li8",
+        "videoPublishedAt": "2015-02-21T15:07:08Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "QuXjNOMXOlAcEo6ehwJp7t9DtpE",
+      "id": "VVVQMFhnc1ZWb0w3VktOa0xGSno2bkVRLnBVYldtYUNVYmpV",
+      "snippet": {
+        "publishedAt": "2015-02-13T05:25:57Z",
+        "channelId": "UCP0XgsVVoL7VKNkLFJz6nEQ",
+        "title": "Today is the day Martyr Ahn, Jung Geun was setenced to death.",
+        "description": "Today is not Valentine's Day. \nToday is the day Martyr Ahn, Jung Geun was setenced to death.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pUbWmaCUbjU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pUbWmaCUbjU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pUbWmaCUbjU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pUbWmaCUbjU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pUbWmaCUbjU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Myoung Su Lee",
+        "playlistId": "UUP0XgsVVoL7VKNkLFJz6nEQ",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "pUbWmaCUbjU"
+        },
+        "videoOwnerChannelTitle": "Myoung Su Lee",
+        "videoOwnerChannelId": "UCP0XgsVVoL7VKNkLFJz6nEQ"
+      },
+      "contentDetails": {
+        "videoId": "pUbWmaCUbjU",
+        "videoPublishedAt": "2015-02-13T05:25:57Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "oR_a6R1tTIbwv6YhrS5S0suYImU",
+      "id": "VVVQMFhnc1ZWb0w3VktOa0xGSno2bkVRLmNjVEhlOEpsUTlJ",
+      "snippet": {
+        "publishedAt": "2014-07-31T03:10:12Z",
+        "channelId": "UCP0XgsVVoL7VKNkLFJz6nEQ",
+        "title": "국회입법데이트 - 국회의원 이명수",
+        "description": "지난 23일 수요일, 녹화한 국회방송 입법데이트 인터뷰 영상입니다. 인터뷰 내용은 안전과 관련된 업무를 하는 업종에 비정규직 근로자 채용을 금지하는 「기간제 및 단시간근로자 보호 등에 관한 법률 일부개정법률안」과 노인교실의 내실 있는 운영을 위한 「노인복지법 일부개정법률안」입니다. 많은 관심과 시청 부탁드립니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ccTHe8JlQ9I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ccTHe8JlQ9I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ccTHe8JlQ9I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ccTHe8JlQ9I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Myoung Su Lee",
+        "playlistId": "UUP0XgsVVoL7VKNkLFJz6nEQ",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ccTHe8JlQ9I"
+        },
+        "videoOwnerChannelTitle": "Myoung Su Lee",
+        "videoOwnerChannelId": "UCP0XgsVVoL7VKNkLFJz6nEQ"
+      },
+      "contentDetails": {
+        "videoId": "ccTHe8JlQ9I",
+        "videoPublishedAt": "2014-07-31T03:10:12Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_BnPiBn7UPIZMyujxwrvhutmJNc",
+      "id": "VVVQMFhnc1ZWb0w3VktOa0xGSno2bkVRLmNfQ09NUktkb29z",
+      "snippet": {
+        "publishedAt": "2014-06-24T08:59:06Z",
+        "channelId": "UCP0XgsVVoL7VKNkLFJz6nEQ",
+        "title": "이명수 의원 제326회 국회임시회 제3차 본회의",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/c_COMRKdoos/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/c_COMRKdoos/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/c_COMRKdoos/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/c_COMRKdoos/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Myoung Su Lee",
+        "playlistId": "UUP0XgsVVoL7VKNkLFJz6nEQ",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "c_COMRKdoos"
+        },
+        "videoOwnerChannelTitle": "Myoung Su Lee",
+        "videoOwnerChannelId": "UCP0XgsVVoL7VKNkLFJz6nEQ"
+      },
+      "contentDetails": {
+        "videoId": "c_COMRKdoos",
+        "videoPublishedAt": "2014-06-24T08:59:06Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "DwXQTg9sHPrBJNZGt2ezsqaFG08",
+      "id": "VVVQMFhnc1ZWb0w3VktOa0xGSno2bkVRLklVbkp0TGVSRktB",
+      "snippet": {
+        "publishedAt": "2014-04-15T01:31:42Z",
+        "channelId": "UCP0XgsVVoL7VKNkLFJz6nEQ",
+        "title": "준비된 도지사 이명수, 도민을 도지사로 섬기겠습니다.",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IUnJtLeRFKA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IUnJtLeRFKA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IUnJtLeRFKA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Myoung Su Lee",
+        "playlistId": "UUP0XgsVVoL7VKNkLFJz6nEQ",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "IUnJtLeRFKA"
+        },
+        "videoOwnerChannelTitle": "Myoung Su Lee",
+        "videoOwnerChannelId": "UCP0XgsVVoL7VKNkLFJz6nEQ"
+      },
+      "contentDetails": {
+        "videoId": "IUnJtLeRFKA",
+        "videoPublishedAt": "2014-04-15T01:31:42Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "a9q2tbOyt2fT51QiJIeJuAorQgs",
+      "id": "VVVQMFhnc1ZWb0w3VktOa0xGSno2bkVRLjBkUWpkcEp5VXh3",
+      "snippet": {
+        "publishedAt": "2014-02-26T00:05:28Z",
+        "channelId": "UCP0XgsVVoL7VKNkLFJz6nEQ",
+        "title": "[3.1절 기념영상] 대한독립만세 - Hurrah! The independence of Korea!",
+        "description": "모두들 바쁘시겠지만 3월 1일 단 하루만이라도 독립투사분들을 생각하며 보내는걸 어떨까요. 단 하루도 어려우시다면 이 영상을 보시는 3분만이라도 우리의 독립운동가 여러분을 기억했으면 좋겠습니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0dQjdpJyUxw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0dQjdpJyUxw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0dQjdpJyUxw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0dQjdpJyUxw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0dQjdpJyUxw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Myoung Su Lee",
+        "playlistId": "UUP0XgsVVoL7VKNkLFJz6nEQ",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0dQjdpJyUxw"
+        },
+        "videoOwnerChannelTitle": "Myoung Su Lee",
+        "videoOwnerChannelId": "UCP0XgsVVoL7VKNkLFJz6nEQ"
+      },
+      "contentDetails": {
+        "videoId": "0dQjdpJyUxw",
+        "videoPublishedAt": "2014-02-26T00:05:28Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "cKYclGyeb6OY9id2qeaGiJ_CZKw",
+      "id": "VVVQMFhnc1ZWb0w3VktOa0xGSno2bkVRLlh3NkppdjVRZkRj",
+      "snippet": {
+        "publishedAt": "2014-02-20T09:41:56Z",
+        "channelId": "UCP0XgsVVoL7VKNkLFJz6nEQ",
+        "title": "교정뉴스78호이명수의원",
+        "description": "「교정청」 승격 추진을 위한 토론회 영상\n\n| 일시 : 2014년 2월 12일(수) 오후3시\n| 장소 : 국회 의원회관 제2소회의실\n\n그동안 범죄자 교정교화를 담당하는 교정행정이 법무부 소속 본부 단위에 머물러 있어 효율적인 재범방지 역할 수행에 한계가 있어왔습니다. 이에 재범방지시스템 구축을 통한 사회안전망 확보 및 교정행정 전문가 양성과 교정공무원 자긍심 고취를 위한 '교정청' 승격 추진의 필요성이 제기되어 교정교화에 대한 각계각층의 전문가들을 모시고 토론하는 자리를 마련했습니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Xw6Jiv5QfDc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Xw6Jiv5QfDc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Xw6Jiv5QfDc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Xw6Jiv5QfDc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Xw6Jiv5QfDc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Myoung Su Lee",
+        "playlistId": "UUP0XgsVVoL7VKNkLFJz6nEQ",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Xw6Jiv5QfDc"
+        },
+        "videoOwnerChannelTitle": "Myoung Su Lee",
+        "videoOwnerChannelId": "UCP0XgsVVoL7VKNkLFJz6nEQ"
+      },
+      "contentDetails": {
+        "videoId": "Xw6Jiv5QfDc",
+        "videoPublishedAt": "2014-02-20T09:41:56Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "dhKZpGl54Jnzuh5DF3cQhRSgooM",
+      "id": "VVVQMFhnc1ZWb0w3VktOa0xGSno2bkVRLmJvVUtBT2FIeHA0",
+      "snippet": {
+        "publishedAt": "2014-02-19T09:42:50Z",
+        "channelId": "UCP0XgsVVoL7VKNkLFJz6nEQ",
+        "title": "독도는 명실상부한 대한민국의 고유영토입니다(Dokdo is Korean territory)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/boUKAOaHxp4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/boUKAOaHxp4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/boUKAOaHxp4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/boUKAOaHxp4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Myoung Su Lee",
+        "playlistId": "UUP0XgsVVoL7VKNkLFJz6nEQ",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "boUKAOaHxp4"
+        },
+        "videoOwnerChannelTitle": "Myoung Su Lee",
+        "videoOwnerChannelId": "UCP0XgsVVoL7VKNkLFJz6nEQ"
+      },
+      "contentDetails": {
+        "videoId": "boUKAOaHxp4",
+        "videoPublishedAt": "2014-02-19T09:42:50Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "CLmV9dODSFcG00z-v3egEemXc5U",
+      "id": "VVVQMFhnc1ZWb0w3VktOa0xGSno2bkVRLkMxTTBfOWtQUjQ0",
+      "snippet": {
+        "publishedAt": "2014-02-19T06:54:27Z",
+        "channelId": "UCP0XgsVVoL7VKNkLFJz6nEQ",
+        "title": "\"독도는 대한민국 영토입니다\"(Dokdo is Korean territory)",
+        "description": "일본은 10년 전부터 2월 22일을 다케시마의 날로 지정하고 행사를 강행하고 있습니다. 당연히 우리의 땅이기에 그 동안 독도에 대해 조금은 무관심하지 않았는지 반성해봅니다. \"독도는 대한민국 영토입니다\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/C1M0_9kPR44/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/C1M0_9kPR44/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/C1M0_9kPR44/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/C1M0_9kPR44/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Myoung Su Lee",
+        "playlistId": "UUP0XgsVVoL7VKNkLFJz6nEQ",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "C1M0_9kPR44"
+        },
+        "videoOwnerChannelTitle": "Myoung Su Lee",
+        "videoOwnerChannelId": "UCP0XgsVVoL7VKNkLFJz6nEQ"
+      },
+      "contentDetails": {
+        "videoId": "C1M0_9kPR44",
+        "videoPublishedAt": "2014-02-19T06:54:27Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "cjrm9Caj994u9l3Pfz0OTYrtErs",
+      "id": "VVVQMFhnc1ZWb0w3VktOa0xGSno2bkVRLkJhbUdhb0ZCX3lr",
+      "snippet": {
+        "publishedAt": "2014-02-17T11:55:53Z",
+        "channelId": "UCP0XgsVVoL7VKNkLFJz6nEQ",
+        "title": "이명수 의원, '나의노래 나의인생' - 최무룡 선생님의 '외나무 다리'",
+        "description": "제가 가끔 즐겨부르는 노래가 바로 최무룡 선생님의 '외나무 다리'입니다. 2010년 2월 쯤이었던거 같습니다. 국회방송 중 '나의 노래, 나의 인생'이라는 프로그램에서 출연 요청을 주셔서 노래를 불렀는데, 그 영상을 찾게되어 이렇게 올려봅니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BamGaoFB_yk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BamGaoFB_yk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BamGaoFB_yk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Myoung Su Lee",
+        "playlistId": "UUP0XgsVVoL7VKNkLFJz6nEQ",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "BamGaoFB_yk"
+        },
+        "videoOwnerChannelTitle": "Myoung Su Lee",
+        "videoOwnerChannelId": "UCP0XgsVVoL7VKNkLFJz6nEQ"
+      },
+      "contentDetails": {
+        "videoId": "BamGaoFB_yk",
+        "videoPublishedAt": "2014-02-17T11:55:53Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "04irVlv1rmp-DwWdkw2_BZhvn0Q",
+      "id": "VVVQMFhnc1ZWb0w3VktOa0xGSno2bkVRLlViV2MxUTJfQTln",
+      "snippet": {
+        "publishedAt": "2014-02-14T11:50:03Z",
+        "channelId": "UCP0XgsVVoL7VKNkLFJz6nEQ",
+        "title": "[이명수의 소통과 공감] 발렌타인데이와 우리의 슬픈 역사",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UbWc1Q2_A9g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UbWc1Q2_A9g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UbWc1Q2_A9g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UbWc1Q2_A9g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UbWc1Q2_A9g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Myoung Su Lee",
+        "playlistId": "UUP0XgsVVoL7VKNkLFJz6nEQ",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "UbWc1Q2_A9g"
+        },
+        "videoOwnerChannelTitle": "Myoung Su Lee",
+        "videoOwnerChannelId": "UCP0XgsVVoL7VKNkLFJz6nEQ"
+      },
+      "contentDetails": {
+        "videoId": "UbWc1Q2_A9g",
+        "videoPublishedAt": "2014-02-14T11:50:03Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "huokJLu6gdub5McA0PbWeiOSWN0",
+      "id": "VVVQMFhnc1ZWb0w3VktOa0xGSno2bkVRLmpXS2l3LW9UZ1VV",
+      "snippet": {
+        "publishedAt": "2014-02-10T08:45:52Z",
+        "channelId": "UCP0XgsVVoL7VKNkLFJz6nEQ",
+        "title": "[티브로드 - 가자! 시장속으로] 충남 아산 온양온천시장편 (이명수 의원)",
+        "description": "[티브로드 - 가자! 시장속으로] 충남 아산 온양온천시장편 (이명수 의원) \n\n이번 촬영은 뽀빠이 이상용 형님과 함께 온천탕과 분식집에서 아르바이트를 하면서 일당을 받아 좋은 일에 쓰고자 하는 목적으로 촬영을 하게 되었습니다.\n\n큰 도움은 아니지만 온양온천 시장내에 있는 온천탕에서 수건정리와 청소 등을 하고, 분식집에서 재료 다듬기와 판매 등을 통해 소정의 일당을 받았습니다.  \n\n일당 대결 막판 뒤집기를 위해 방송인 방대한씨와 노래대결도 하고, 분식집 사장님과 간식을 먹으며 즐거운 촬영을 마쳤습니다.\n\n바쁘신 와중에서 촬영에 협조해주신 아산 온양온천시장 상인 여러분과 MC 이상용 형님, 이희은 리포터, 방송인 방대한님께 감사의 인사를 드립니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jWKiw-oTgUU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jWKiw-oTgUU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jWKiw-oTgUU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Myoung Su Lee",
+        "playlistId": "UUP0XgsVVoL7VKNkLFJz6nEQ",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "jWKiw-oTgUU"
+        },
+        "videoOwnerChannelTitle": "Myoung Su Lee",
+        "videoOwnerChannelId": "UCP0XgsVVoL7VKNkLFJz6nEQ"
+      },
+      "contentDetails": {
+        "videoId": "jWKiw-oTgUU",
+        "videoPublishedAt": "2014-02-10T08:45:52Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "video_details": [
+    {
+      "kind": "youtube#video",
+      "etag": "_mlvf5Lih92LVqKer-lJDZTVUqk",
+      "id": "tUJyexSF_oo",
+      "snippet": {
+        "publishedAt": "2019-02-01T02:29:02Z",
+        "channelId": "UCP0XgsVVoL7VKNkLFJz6nEQ",
+        "title": "천사와 함께(국회의원 이명수 신년인사)",
+        "description": "천사와 함께 새해 福 많이 받으세요!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tUJyexSF_oo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tUJyexSF_oo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tUJyexSF_oo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tUJyexSF_oo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Myoung Su Lee",
+        "tags": [
+          "국회의원",
+          "이명수",
+          "충남",
+          "아산시",
+          "보건복지위원회",
+          "위원장",
+          "천사",
+          "새해",
+          "인사",
+          "2019",
+          "신년"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "천사와 함께(국회의원 이명수 신년인사)",
+          "description": "천사와 함께 새해 福 많이 받으세요!"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT1M25S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "419",
+        "likeCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Politics",
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "천사와 함께(국회의원 이명수 신년인사)",
+          "description": "천사와 함께 새해 福 많이 받으세요!"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "vQhWmtGCipmxLdJjHm8F6Oo4CHc",
+      "id": "qv6E-6kG5MM",
+      "snippet": {
+        "publishedAt": "2019-02-01T02:27:00Z",
+        "channelId": "UCP0XgsVVoL7VKNkLFJz6nEQ",
+        "title": "황금돼지와 함께(국회의원 이명수 신년인사)",
+        "description": "황금돼지와 함께 새해 福 많이 받으세요!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qv6E-6kG5MM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qv6E-6kG5MM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qv6E-6kG5MM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Myoung Su Lee",
+        "tags": [
+          "국회의원",
+          "이명수",
+          "충남",
+          "아산시",
+          "보건복지위원회",
+          "위원장",
+          "2019",
+          "설날",
+          "황금돼지",
+          "신년",
+          "인사"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "황금돼지와 함께(국회의원 이명수 신년인사)",
+          "description": "황금돼지와 함께 새해 福 많이 받으세요!"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT41S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "208",
+        "likeCount": "3",
+        "favoriteCount": "0",
+        "commentCount": "2"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Politics"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "황금돼지와 함께(국회의원 이명수 신년인사)",
+          "description": "황금돼지와 함께 새해 福 많이 받으세요!"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "dKWr5fYnTYNjLB9B09EFgeEQAZ8",
+      "id": "ADlMoAHDVQM",
+      "snippet": {
+        "publishedAt": "2016-03-31T02:25:55Z",
+        "channelId": "UCP0XgsVVoL7VKNkLFJz6nEQ",
+        "title": "아산갑 새누리당 이명수 후보 소개 영상입니다~",
+        "description": "설명",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ADlMoAHDVQM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ADlMoAHDVQM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ADlMoAHDVQM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ADlMoAHDVQM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Myoung Su Lee",
+        "tags": [
+          "이명수",
+          "새누리당",
+          "아산갑",
+          "충남아산",
+          "후보",
+          "이력",
+          "출정식",
+          "선거",
+          "총선",
+          "국회의원선거"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "아산갑 새누리당 이명수 후보 소개 영상입니다~",
+          "description": "설명"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT5M43S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "127",
+        "likeCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Politics",
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "아산갑 새누리당 이명수 후보 소개 영상입니다~",
+          "description": "설명"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "vqikZfFoaIT8fKfCJj-AT5glocA",
+      "id": "o5NgFwSqWXo",
+      "snippet": {
+        "publishedAt": "2016-03-30T01:11:41Z",
+        "channelId": "UCP0XgsVVoL7VKNkLFJz6nEQ",
+        "title": "아산갑 이명수 후보 소개 영상",
+        "description": "설명",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/o5NgFwSqWXo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/o5NgFwSqWXo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/o5NgFwSqWXo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/o5NgFwSqWXo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/o5NgFwSqWXo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Myoung Su Lee",
+        "tags": [
+          "이명수",
+          "행정의달인",
+          "3선",
+          "총선",
+          "아산갑",
+          "국회의원",
+          "선거",
+          "아산큰발전"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "아산갑 이명수 후보 소개 영상",
+          "description": "설명"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT5M42S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "20",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Politics",
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "아산갑 이명수 후보 소개 영상",
+          "description": "설명"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "KIH9UV7JnPKYFl_cjTWxzKgLo_0",
+      "id": "knjv2ednfI4",
+      "snippet": {
+        "publishedAt": "2016-03-10T02:18:11Z",
+        "channelId": "UCP0XgsVVoL7VKNkLFJz6nEQ",
+        "title": "[충남 아산(갑) 새누리당 예비후보 이명수입니다]  오늘은 도산 안창호 선생님의 순국 제78주기 입니다.",
+        "description": "78년 전 오늘 도산 안창호 선생님은 나라를 되찾는 기쁨을 가지지 못하고 순국하셨습니다. 안창호 선생님께서 조선의 청년들과 국민들에게 간절히 부탁하셨던 \"여러분은 힘을 기르소서, 힘을 기르소서\" 이 말이 귀에 맴도는 하루입니다. 민주주의적 민족국가 수립을 위해 헌신을 하신 뛰어난 지도자이자 실천가이신 도산 안창호 선생님을 잊지 않겠습니다. 그리고 기억하겠습니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/knjv2ednfI4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/knjv2ednfI4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/knjv2ednfI4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/knjv2ednfI4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/knjv2ednfI4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Myoung Su Lee",
+        "tags": [
+          "안창호",
+          "이명수",
+          "새누리당",
+          "예비후보",
+          "국회",
+          "국회의원",
+          "순국",
+          "도산",
+          "도산 안창호",
+          "기념"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[충남 아산(갑) 새누리당 예비후보 이명수입니다]  오늘은 도산 안창호 선생님의 순국 제78주기 입니다.",
+          "description": "78년 전 오늘 도산 안창호 선생님은 나라를 되찾는 기쁨을 가지지 못하고 순국하셨습니다. 안창호 선생님께서 조선의 청년들과 국민들에게 간절히 부탁하셨던 \"여러분은 힘을 기르소서, 힘을 기르소서\" 이 말이 귀에 맴도는 하루입니다. 민주주의적 민족국가 수립을 위해 헌신을 하신 뛰어난 지도자이자 실천가이신 도산 안창호 선생님을 잊지 않겠습니다. 그리고 기억하겠습니다."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT1M44S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "15",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Politics",
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "[충남 아산(갑) 새누리당 예비후보 이명수입니다]  오늘은 도산 안창호 선생님의 순국 제78주기 입니다.",
+          "description": "78년 전 오늘 도산 안창호 선생님은 나라를 되찾는 기쁨을 가지지 못하고 순국하셨습니다. 안창호 선생님께서 조선의 청년들과 국민들에게 간절히 부탁하셨던 \"여러분은 힘을 기르소서, 힘을 기르소서\" 이 말이 귀에 맴도는 하루입니다. 민주주의적 민족국가 수립을 위해 헌신을 하신 뛰어난 지도자이자 실천가이신 도산 안창호 선생님을 잊지 않겠습니다. 그리고 기억하겠습니다."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "vpxkf7MKXBaR-JuQwmHsZ5HBvuQ",
+      "id": "mmvl6eOsEgc",
+      "snippet": {
+        "publishedAt": "2016-02-28T11:23:42Z",
+        "channelId": "UCP0XgsVVoL7VKNkLFJz6nEQ",
+        "title": "제97회 3.1절 기념(충남 아산 국회의원 예비후보 이명수)",
+        "description": "설명",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mmvl6eOsEgc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mmvl6eOsEgc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mmvl6eOsEgc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mmvl6eOsEgc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mmvl6eOsEgc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Myoung Su Lee",
+        "tags": [
+          "충남",
+          "아산",
+          "국회의원",
+          "예비후보",
+          "이명수",
+          "3.1절",
+          "제97회",
+          "한국",
+          "대한민국",
+          "유관순",
+          "안창호",
+          "김구",
+          "안중근"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "제97회 3.1절 기념(충남 아산 국회의원 예비후보 이명수)",
+          "description": "설명"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT6M11S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "35",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Politics",
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "제97회 3.1절 기념(충남 아산 국회의원 예비후보 이명수)",
+          "description": "설명"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "6Y69tLNS7LiIqh8vz2-z3THRk9U",
+      "id": "VHxsZtZ3Do0",
+      "snippet": {
+        "publishedAt": "2016-02-19T04:53:33Z",
+        "channelId": "UCP0XgsVVoL7VKNkLFJz6nEQ",
+        "title": "[국회의원 이명수] Today is not Takeshima day. Dokdo is Korean territory",
+        "description": "2월 22일은 야욕의 눈이 먼 일본이 말하는 다케시마의 날이 아닙니다.\n독도는 역사적, 문헌적, 지리적으로 과거에도 현재에도 그리고 먼 미래에도 대한민국의 영토입니다.\n우리가 독도가 당연히 대한민국 영토이기 때문에 무관심하는 동안,\n일본은 호시탐탐 우리의 독도를 노리면서 2월 22일을 독도의 날로 제정하여 매년 행사를 하고 있습니다. \n\n적어도 오늘 하루만큼은 대한민국의 아름다운 섬 독도에 대해 생각해보는 것은 어떨까요?\n\nToday is not Takeshima day\n\nDo you Know DOKDO? \nYES! We Know DOKDO\nIs Korean territory",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VHxsZtZ3Do0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VHxsZtZ3Do0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VHxsZtZ3Do0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VHxsZtZ3Do0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VHxsZtZ3Do0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Myoung Su Lee",
+        "tags": [
+          "dokdo",
+          "독도",
+          "korea",
+          "korean territory",
+          "이명수",
+          "이명수 의원"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[국회의원 이명수] Today is not Takeshima day. Dokdo is Korean territory",
+          "description": "2월 22일은 야욕의 눈이 먼 일본이 말하는 다케시마의 날이 아닙니다.\n독도는 역사적, 문헌적, 지리적으로 과거에도 현재에도 그리고 먼 미래에도 대한민국의 영토입니다.\n우리가 독도가 당연히 대한민국 영토이기 때문에 무관심하는 동안,\n일본은 호시탐탐 우리의 독도를 노리면서 2월 22일을 독도의 날로 제정하여 매년 행사를 하고 있습니다. \n\n적어도 오늘 하루만큼은 대한민국의 아름다운 섬 독도에 대해 생각해보는 것은 어떨까요?\n\nToday is not Takeshima day\n\nDo you Know DOKDO? \nYES! We Know DOKDO\nIs Korean territory"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT2M27S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "196",
+        "likeCount": "5",
+        "favoriteCount": "0",
+        "commentCount": "3"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Politics",
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "[국회의원 이명수] Today is not Takeshima day. Dokdo is Korean territory",
+          "description": "2월 22일은 야욕의 눈이 먼 일본이 말하는 다케시마의 날이 아닙니다.\n독도는 역사적, 문헌적, 지리적으로 과거에도 현재에도 그리고 먼 미래에도 대한민국의 영토입니다.\n우리가 독도가 당연히 대한민국 영토이기 때문에 무관심하는 동안,\n일본은 호시탐탐 우리의 독도를 노리면서 2월 22일을 독도의 날로 제정하여 매년 행사를 하고 있습니다. \n\n적어도 오늘 하루만큼은 대한민국의 아름다운 섬 독도에 대해 생각해보는 것은 어떨까요?\n\nToday is not Takeshima day\n\nDo you Know DOKDO? \nYES! We Know DOKDO\nIs Korean territory"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "HkE4YUbvySBXBzCQ7tF072OB0qI",
+      "id": "QrEZgzMwJcs",
+      "snippet": {
+        "publishedAt": "2016-02-12T05:34:11Z",
+        "channelId": "UCP0XgsVVoL7VKNkLFJz6nEQ",
+        "title": "[국회의원 이명수] 106 years ago today, Martyr Ahn Jung-geun was sentenced to death a day",
+        "description": "106년 전 2월 14일, 안중근의사의 숭고하고 그 큰 뜻 잊지 않겠습니다.\n\n우리 역사, 우리가 바르게 알아야 현재의 대한민국이 바로 설 수 있습니다. 그리고 미래의 후세들에게 당당할 수 있습니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QrEZgzMwJcs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QrEZgzMwJcs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QrEZgzMwJcs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QrEZgzMwJcs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QrEZgzMwJcs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Myoung Su Lee",
+        "tags": [
+          "이명수",
+          "안중근",
+          "korea",
+          "ahn jun geun",
+          "martyr"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[국회의원 이명수] 106 years ago today, Martyr Ahn Jung-geun was sentenced to death a day",
+          "description": "106년 전 2월 14일, 안중근의사의 숭고하고 그 큰 뜻 잊지 않겠습니다.\n\n우리 역사, 우리가 바르게 알아야 현재의 대한민국이 바로 설 수 있습니다. 그리고 미래의 후세들에게 당당할 수 있습니다."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M30S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "103",
+        "likeCount": "3",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Politics",
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "[국회의원 이명수] 106 years ago today, Martyr Ahn Jung-geun was sentenced to death a day",
+          "description": "106년 전 2월 14일, 안중근의사의 숭고하고 그 큰 뜻 잊지 않겠습니다.\n\n우리 역사, 우리가 바르게 알아야 현재의 대한민국이 바로 설 수 있습니다. 그리고 미래의 후세들에게 당당할 수 있습니다."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "uRIYHM_hLYApJM6aQ0u-S1_3qpc",
+      "id": "ZFYjMPq3Djs",
+      "snippet": {
+        "publishedAt": "2015-02-28T14:29:56Z",
+        "channelId": "UCP0XgsVVoL7VKNkLFJz6nEQ",
+        "title": "[국회의원 이명수] 96주년 3·1절 기념",
+        "description": "설명",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZFYjMPq3Djs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZFYjMPq3Djs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZFYjMPq3Djs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZFYjMPq3Djs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZFYjMPq3Djs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Myoung Su Lee",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[국회의원 이명수] 96주년 3·1절 기념",
+          "description": "설명"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M58S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "122",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Politics",
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "[국회의원 이명수] 96주년 3·1절 기념",
+          "description": "설명"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "CUhrANTD8xnfCK5Ygkfzi8_CGwA",
+      "id": "NjCM87t5Li8",
+      "snippet": {
+        "publishedAt": "2015-02-21T15:07:08Z",
+        "channelId": "UCP0XgsVVoL7VKNkLFJz6nEQ",
+        "title": "[이명수 의원] We know DOKDO! Is Korean territory",
+        "description": "We know DOKDO! Is Korean territory\n\n일본에서 매년 2월 22일 다케시마의 날로 지정하여 행사를 하고 있습니다. 독도가 대한민국 영토라는 너무도 많은 역사적 사실과 증거가 있음에도 불구하고 일본의 야욕은 너무도 지나치고 있습니다. 우리가 당연히 우리땅이라고 생각하며 조금은 무심했던건 아닌지 생각하며 영상을 준비했습니다. 독도는 명실상부한 대한민국 영토입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NjCM87t5Li8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NjCM87t5Li8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NjCM87t5Li8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NjCM87t5Li8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Myoung Su Lee",
+        "tags": [
+          "독도",
+          "이명수",
+          "Dokdo",
+          "korea"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[이명수 의원] We know DOKDO! Is Korean territory",
+          "description": "We know DOKDO! Is Korean territory\n\n일본에서 매년 2월 22일 다케시마의 날로 지정하여 행사를 하고 있습니다. 독도가 대한민국 영토라는 너무도 많은 역사적 사실과 증거가 있음에도 불구하고 일본의 야욕은 너무도 지나치고 있습니다. 우리가 당연히 우리땅이라고 생각하며 조금은 무심했던건 아닌지 생각하며 영상을 준비했습니다. 독도는 명실상부한 대한민국 영토입니다."
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1M36S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "129",
+        "likeCount": "3",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Politics",
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "[이명수 의원] We know DOKDO! Is Korean territory",
+          "description": "We know DOKDO! Is Korean territory\n\n일본에서 매년 2월 22일 다케시마의 날로 지정하여 행사를 하고 있습니다. 독도가 대한민국 영토라는 너무도 많은 역사적 사실과 증거가 있음에도 불구하고 일본의 야욕은 너무도 지나치고 있습니다. 우리가 당연히 우리땅이라고 생각하며 조금은 무심했던건 아닌지 생각하며 영상을 준비했습니다. 독도는 명실상부한 대한민국 영토입니다."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "nqkdIisqv1_3bsy6gxCAy9q-b3g",
+      "id": "pUbWmaCUbjU",
+      "snippet": {
+        "publishedAt": "2015-02-13T05:25:57Z",
+        "channelId": "UCP0XgsVVoL7VKNkLFJz6nEQ",
+        "title": "Today is the day Martyr Ahn, Jung Geun was setenced to death.",
+        "description": "Today is not Valentine's Day. \nToday is the day Martyr Ahn, Jung Geun was setenced to death.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pUbWmaCUbjU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pUbWmaCUbjU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pUbWmaCUbjU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pUbWmaCUbjU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pUbWmaCUbjU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Myoung Su Lee",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Today is the day Martyr Ahn, Jung Geun was setenced to death.",
+          "description": "Today is not Valentine's Day. \nToday is the day Martyr Ahn, Jung Geun was setenced to death."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT1M56S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "251",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en": {
+          "title": "Today is the day Martyr Ahn, Jung Geun was setenced to death.",
+          "description": "Today is not Valentine's Day. \nToday is the day Martyr Ahn, Jung Geun was setenced to death."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "mZBYFTkm1MrDEPf3YoXTIQHLZbw",
+      "id": "ccTHe8JlQ9I",
+      "snippet": {
+        "publishedAt": "2014-07-31T03:10:12Z",
+        "channelId": "UCP0XgsVVoL7VKNkLFJz6nEQ",
+        "title": "국회입법데이트 - 국회의원 이명수",
+        "description": "지난 23일 수요일, 녹화한 국회방송 입법데이트 인터뷰 영상입니다. 인터뷰 내용은 안전과 관련된 업무를 하는 업종에 비정규직 근로자 채용을 금지하는 「기간제 및 단시간근로자 보호 등에 관한 법률 일부개정법률안」과 노인교실의 내실 있는 운영을 위한 「노인복지법 일부개정법률안」입니다. 많은 관심과 시청 부탁드립니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ccTHe8JlQ9I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ccTHe8JlQ9I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ccTHe8JlQ9I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ccTHe8JlQ9I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Myoung Su Lee",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "국회입법데이트 - 국회의원 이명수",
+          "description": "지난 23일 수요일, 녹화한 국회방송 입법데이트 인터뷰 영상입니다. 인터뷰 내용은 안전과 관련된 업무를 하는 업종에 비정규직 근로자 채용을 금지하는 「기간제 및 단시간근로자 보호 등에 관한 법률 일부개정법률안」과 노인교실의 내실 있는 운영을 위한 「노인복지법 일부개정법률안」입니다. 많은 관심과 시청 부탁드립니다."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT20M19S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "91",
+        "likeCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Politics",
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "국회입법데이트 - 국회의원 이명수",
+          "description": "지난 23일 수요일, 녹화한 국회방송 입법데이트 인터뷰 영상입니다. 인터뷰 내용은 안전과 관련된 업무를 하는 업종에 비정규직 근로자 채용을 금지하는 「기간제 및 단시간근로자 보호 등에 관한 법률 일부개정법률안」과 노인교실의 내실 있는 운영을 위한 「노인복지법 일부개정법률안」입니다. 많은 관심과 시청 부탁드립니다."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "yiAzy0OIerLuMA_N6vLHdr3FeJs",
+      "id": "c_COMRKdoos",
+      "snippet": {
+        "publishedAt": "2014-06-24T08:59:06Z",
+        "channelId": "UCP0XgsVVoL7VKNkLFJz6nEQ",
+        "title": "이명수 의원 제326회 국회임시회 제3차 본회의",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/c_COMRKdoos/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/c_COMRKdoos/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/c_COMRKdoos/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/c_COMRKdoos/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Myoung Su Lee",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "이명수 의원 제326회 국회임시회 제3차 본회의",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT26M49S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "101",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Politics",
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "이명수 의원 제326회 국회임시회 제3차 본회의",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "SJzdzDgRlxhFIwxEaJPFyK0p_us",
+      "id": "IUnJtLeRFKA",
+      "snippet": {
+        "publishedAt": "2014-04-15T01:31:42Z",
+        "channelId": "UCP0XgsVVoL7VKNkLFJz6nEQ",
+        "title": "준비된 도지사 이명수, 도민을 도지사로 섬기겠습니다.",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IUnJtLeRFKA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IUnJtLeRFKA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IUnJtLeRFKA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Myoung Su Lee",
+        "tags": [
+          "governor",
+          "Province",
+          "chungnam",
+          "korea",
+          "vote"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "준비된 도지사 이명수, 도민을 도지사로 섬기겠습니다.",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT56S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "11",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Politics",
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "준비된 도지사 이명수, 도민을 도지사로 섬기겠습니다.",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "gEVBZFpXgn_f5TR7i-kswH5Yieg",
+      "id": "0dQjdpJyUxw",
+      "snippet": {
+        "publishedAt": "2014-02-26T00:05:28Z",
+        "channelId": "UCP0XgsVVoL7VKNkLFJz6nEQ",
+        "title": "[3.1절 기념영상] 대한독립만세 - Hurrah! The independence of Korea!",
+        "description": "모두들 바쁘시겠지만 3월 1일 단 하루만이라도 독립투사분들을 생각하며 보내는걸 어떨까요. 단 하루도 어려우시다면 이 영상을 보시는 3분만이라도 우리의 독립운동가 여러분을 기억했으면 좋겠습니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0dQjdpJyUxw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0dQjdpJyUxw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0dQjdpJyUxw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0dQjdpJyUxw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0dQjdpJyUxw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Myoung Su Lee",
+        "tags": [
+          "이명수",
+          "독립",
+          "3.1절",
+          "만세",
+          "대한독립",
+          "North Korea (Country)",
+          "independence",
+          "Hurrah",
+          "March 1st Korea",
+          "Korean Independence Movement (Event)",
+          "South Korea (Country)"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[3.1절 기념영상] 대한독립만세 - Hurrah! The independence of Korea!",
+          "description": "모두들 바쁘시겠지만 3월 1일 단 하루만이라도 독립투사분들을 생각하며 보내는걸 어떨까요. 단 하루도 어려우시다면 이 영상을 보시는 3분만이라도 우리의 독립운동가 여러분을 기억했으면 좋겠습니다."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M5S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "4036",
+        "likeCount": "13",
+        "favoriteCount": "0",
+        "commentCount": "2"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Politics",
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "[3.1절 기념영상] 대한독립만세 - Hurrah! The independence of Korea!",
+          "description": "모두들 바쁘시겠지만 3월 1일 단 하루만이라도 독립투사분들을 생각하며 보내는걸 어떨까요. 단 하루도 어려우시다면 이 영상을 보시는 3분만이라도 우리의 독립운동가 여러분을 기억했으면 좋겠습니다."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "jNwnL1m1gimQvaM4Yhla6PRSNyU",
+      "id": "Xw6Jiv5QfDc",
+      "snippet": {
+        "publishedAt": "2014-02-20T09:41:56Z",
+        "channelId": "UCP0XgsVVoL7VKNkLFJz6nEQ",
+        "title": "교정뉴스78호이명수의원",
+        "description": "「교정청」 승격 추진을 위한 토론회 영상\n\n| 일시 : 2014년 2월 12일(수) 오후3시\n| 장소 : 국회 의원회관 제2소회의실\n\n그동안 범죄자 교정교화를 담당하는 교정행정이 법무부 소속 본부 단위에 머물러 있어 효율적인 재범방지 역할 수행에 한계가 있어왔습니다. 이에 재범방지시스템 구축을 통한 사회안전망 확보 및 교정행정 전문가 양성과 교정공무원 자긍심 고취를 위한 '교정청' 승격 추진의 필요성이 제기되어 교정교화에 대한 각계각층의 전문가들을 모시고 토론하는 자리를 마련했습니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Xw6Jiv5QfDc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Xw6Jiv5QfDc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Xw6Jiv5QfDc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Xw6Jiv5QfDc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Xw6Jiv5QfDc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Myoung Su Lee",
+        "tags": [
+          "이명수",
+          "교정본부",
+          "교정청",
+          "뉴스",
+          "공무원",
+          "승격",
+          "전문가",
+          "재범방지",
+          "시스템",
+          "교정행정",
+          "교화",
+          "교도소"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "교정뉴스78호이명수의원",
+          "description": "「교정청」 승격 추진을 위한 토론회 영상\n\n| 일시 : 2014년 2월 12일(수) 오후3시\n| 장소 : 국회 의원회관 제2소회의실\n\n그동안 범죄자 교정교화를 담당하는 교정행정이 법무부 소속 본부 단위에 머물러 있어 효율적인 재범방지 역할 수행에 한계가 있어왔습니다. 이에 재범방지시스템 구축을 통한 사회안전망 확보 및 교정행정 전문가 양성과 교정공무원 자긍심 고취를 위한 '교정청' 승격 추진의 필요성이 제기되어 교정교화에 대한 각계각층의 전문가들을 모시고 토론하는 자리를 마련했습니다."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M52S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "121",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Politics",
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "교정뉴스78호이명수의원",
+          "description": "「교정청」 승격 추진을 위한 토론회 영상\n\n| 일시 : 2014년 2월 12일(수) 오후3시\n| 장소 : 국회 의원회관 제2소회의실\n\n그동안 범죄자 교정교화를 담당하는 교정행정이 법무부 소속 본부 단위에 머물러 있어 효율적인 재범방지 역할 수행에 한계가 있어왔습니다. 이에 재범방지시스템 구축을 통한 사회안전망 확보 및 교정행정 전문가 양성과 교정공무원 자긍심 고취를 위한 '교정청' 승격 추진의 필요성이 제기되어 교정교화에 대한 각계각층의 전문가들을 모시고 토론하는 자리를 마련했습니다."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "zP_2w-AiEiromppx4xd6U5dpMww",
+      "id": "boUKAOaHxp4",
+      "snippet": {
+        "publishedAt": "2014-02-19T09:42:50Z",
+        "channelId": "UCP0XgsVVoL7VKNkLFJz6nEQ",
+        "title": "독도는 명실상부한 대한민국의 고유영토입니다(Dokdo is Korean territory)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/boUKAOaHxp4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/boUKAOaHxp4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/boUKAOaHxp4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/boUKAOaHxp4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Myoung Su Lee",
+        "tags": [
+          "이명수",
+          "독도",
+          "우리땅",
+          "대한민국",
+          "독도는 우리땅",
+          "territory",
+          "dokdo",
+          "korea",
+          "korean"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "독도는 명실상부한 대한민국의 고유영토입니다(Dokdo is Korean territory)",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT1M25S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "60",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "독도는 명실상부한 대한민국의 고유영토입니다(Dokdo is Korean territory)",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "g71qjAenG6hfa7ZMu7lVGkBSkWY",
+      "id": "C1M0_9kPR44",
+      "snippet": {
+        "publishedAt": "2014-02-19T06:54:27Z",
+        "channelId": "UCP0XgsVVoL7VKNkLFJz6nEQ",
+        "title": "\"독도는 대한민국 영토입니다\"(Dokdo is Korean territory)",
+        "description": "일본은 10년 전부터 2월 22일을 다케시마의 날로 지정하고 행사를 강행하고 있습니다. 당연히 우리의 땅이기에 그 동안 독도에 대해 조금은 무관심하지 않았는지 반성해봅니다. \"독도는 대한민국 영토입니다\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/C1M0_9kPR44/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/C1M0_9kPR44/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/C1M0_9kPR44/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/C1M0_9kPR44/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Myoung Su Lee",
+        "tags": [
+          "이명수",
+          "독도",
+          "대한민국",
+          "영토",
+          "독도는 우리땅",
+          "dokdo",
+          "korea",
+          "territory",
+          "territory of korea"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "\"독도는 대한민국 영토입니다\"(Dokdo is Korean territory)",
+          "description": "일본은 10년 전부터 2월 22일을 다케시마의 날로 지정하고 행사를 강행하고 있습니다. 당연히 우리의 땅이기에 그 동안 독도에 대해 조금은 무관심하지 않았는지 반성해봅니다. \"독도는 대한민국 영토입니다\""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1M32S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "327",
+        "likeCount": "5",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Society"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "\"독도는 대한민국 영토입니다\"(Dokdo is Korean territory)",
+          "description": "일본은 10년 전부터 2월 22일을 다케시마의 날로 지정하고 행사를 강행하고 있습니다. 당연히 우리의 땅이기에 그 동안 독도에 대해 조금은 무관심하지 않았는지 반성해봅니다. \"독도는 대한민국 영토입니다\""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "-tOqbiZCdPQMymeVjGnZ9sQKjpQ",
+      "id": "BamGaoFB_yk",
+      "snippet": {
+        "publishedAt": "2014-02-17T11:55:53Z",
+        "channelId": "UCP0XgsVVoL7VKNkLFJz6nEQ",
+        "title": "이명수 의원, '나의노래 나의인생' - 최무룡 선생님의 '외나무 다리'",
+        "description": "제가 가끔 즐겨부르는 노래가 바로 최무룡 선생님의 '외나무 다리'입니다. 2010년 2월 쯤이었던거 같습니다. 국회방송 중 '나의 노래, 나의 인생'이라는 프로그램에서 출연 요청을 주셔서 노래를 불렀는데, 그 영상을 찾게되어 이렇게 올려봅니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BamGaoFB_yk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BamGaoFB_yk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BamGaoFB_yk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Myoung Su Lee",
+        "tags": [
+          "이명수",
+          "의원",
+          "최무룡",
+          "외나무다리",
+          "노래",
+          "나의 인생",
+          "국회방송"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "이명수 의원, '나의노래 나의인생' - 최무룡 선생님의 '외나무 다리'",
+          "description": "제가 가끔 즐겨부르는 노래가 바로 최무룡 선생님의 '외나무 다리'입니다. 2010년 2월 쯤이었던거 같습니다. 국회방송 중 '나의 노래, 나의 인생'이라는 프로그램에서 출연 요청을 주셔서 노래를 불렀는데, 그 영상을 찾게되어 이렇게 올려봅니다."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT9M55S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1453",
+        "likeCount": "5",
+        "favoriteCount": "0",
+        "commentCount": "2"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Music_of_Asia",
+          "https://en.wikipedia.org/wiki/Television_program"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "이명수 의원, '나의노래 나의인생' - 최무룡 선생님의 '외나무 다리'",
+          "description": "제가 가끔 즐겨부르는 노래가 바로 최무룡 선생님의 '외나무 다리'입니다. 2010년 2월 쯤이었던거 같습니다. 국회방송 중 '나의 노래, 나의 인생'이라는 프로그램에서 출연 요청을 주셔서 노래를 불렀는데, 그 영상을 찾게되어 이렇게 올려봅니다."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "XBQE2Jb4RbYtn5n3g515Cvh3J2U",
+      "id": "UbWc1Q2_A9g",
+      "snippet": {
+        "publishedAt": "2014-02-14T11:50:03Z",
+        "channelId": "UCP0XgsVVoL7VKNkLFJz6nEQ",
+        "title": "[이명수의 소통과 공감] 발렌타인데이와 우리의 슬픈 역사",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UbWc1Q2_A9g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UbWc1Q2_A9g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UbWc1Q2_A9g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UbWc1Q2_A9g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UbWc1Q2_A9g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Myoung Su Lee",
+        "tags": [
+          "이명수",
+          "안중근",
+          "발렌타인데이",
+          "일본",
+          "초콜릿",
+          "2월 14일"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[이명수의 소통과 공감] 발렌타인데이와 우리의 슬픈 역사",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT53S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "133",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "[이명수의 소통과 공감] 발렌타인데이와 우리의 슬픈 역사",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "kM5rm0NOYuxzTsfYy1LRxSIv-NI",
+      "id": "jWKiw-oTgUU",
+      "snippet": {
+        "publishedAt": "2014-02-10T08:45:52Z",
+        "channelId": "UCP0XgsVVoL7VKNkLFJz6nEQ",
+        "title": "[티브로드 - 가자! 시장속으로] 충남 아산 온양온천시장편 (이명수 의원)",
+        "description": "[티브로드 - 가자! 시장속으로] 충남 아산 온양온천시장편 (이명수 의원) \n\n이번 촬영은 뽀빠이 이상용 형님과 함께 온천탕과 분식집에서 아르바이트를 하면서 일당을 받아 좋은 일에 쓰고자 하는 목적으로 촬영을 하게 되었습니다.\n\n큰 도움은 아니지만 온양온천 시장내에 있는 온천탕에서 수건정리와 청소 등을 하고, 분식집에서 재료 다듬기와 판매 등을 통해 소정의 일당을 받았습니다.  \n\n일당 대결 막판 뒤집기를 위해 방송인 방대한씨와 노래대결도 하고, 분식집 사장님과 간식을 먹으며 즐거운 촬영을 마쳤습니다.\n\n바쁘신 와중에서 촬영에 협조해주신 아산 온양온천시장 상인 여러분과 MC 이상용 형님, 이희은 리포터, 방송인 방대한님께 감사의 인사를 드립니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jWKiw-oTgUU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jWKiw-oTgUU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jWKiw-oTgUU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Myoung Su Lee",
+        "tags": [
+          "이명수",
+          "아산",
+          "온천",
+          "온양",
+          "시장",
+          "이상용",
+          "뽀빠이",
+          "티브로드"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[티브로드 - 가자! 시장속으로] 충남 아산 온양온천시장편 (이명수 의원)",
+          "description": "[티브로드 - 가자! 시장속으로] 충남 아산 온양온천시장편 (이명수 의원) \n\n이번 촬영은 뽀빠이 이상용 형님과 함께 온천탕과 분식집에서 아르바이트를 하면서 일당을 받아 좋은 일에 쓰고자 하는 목적으로 촬영을 하게 되었습니다.\n\n큰 도움은 아니지만 온양온천 시장내에 있는 온천탕에서 수건정리와 청소 등을 하고, 분식집에서 재료 다듬기와 판매 등을 통해 소정의 일당을 받았습니다.  \n\n일당 대결 막판 뒤집기를 위해 방송인 방대한씨와 노래대결도 하고, 분식집 사장님과 간식을 먹으며 즐거운 촬영을 마쳤습니다.\n\n바쁘신 와중에서 촬영에 협조해주신 아산 온양온천시장 상인 여러분과 MC 이상용 형님, 이희은 리포터, 방송인 방대한님께 감사의 인사를 드립니다."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT44M12S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1501",
+        "likeCount": "5",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "[티브로드 - 가자! 시장속으로] 충남 아산 온양온천시장편 (이명수 의원)",
+          "description": "[티브로드 - 가자! 시장속으로] 충남 아산 온양온천시장편 (이명수 의원) \n\n이번 촬영은 뽀빠이 이상용 형님과 함께 온천탕과 분식집에서 아르바이트를 하면서 일당을 받아 좋은 일에 쓰고자 하는 목적으로 촬영을 하게 되었습니다.\n\n큰 도움은 아니지만 온양온천 시장내에 있는 온천탕에서 수건정리와 청소 등을 하고, 분식집에서 재료 다듬기와 판매 등을 통해 소정의 일당을 받았습니다.  \n\n일당 대결 막판 뒤집기를 위해 방송인 방대한씨와 노래대결도 하고, 분식집 사장님과 간식을 먹으며 즐거운 촬영을 마쳤습니다.\n\n바쁘신 와중에서 촬영에 협조해주신 아산 온양온천시장 상인 여러분과 MC 이상용 형님, 이희은 리포터, 방송인 방대한님께 감사의 인사를 드립니다."
+        }
+      }
+    }
+  ]
+}

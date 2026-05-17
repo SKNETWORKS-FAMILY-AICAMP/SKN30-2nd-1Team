@@ -1,0 +1,750 @@
+{
+  "idx": 556,
+  "channel_id": "UCQDKEZG5eaoJVtyo7dEcNLw",
+  "channel_title": "소월",
+  "playlist_items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "AEN7T3tYmOw13Hx1L12Y52KCHmw",
+      "id": "VVVRREtFWkc1ZWFvSlZ0eW83ZEVjTkx3LmhmUHRNV3h0a3A4",
+      "snippet": {
+        "publishedAt": "2013-11-19T11:47:07Z",
+        "channelId": "UCQDKEZG5eaoJVtyo7dEcNLw",
+        "title": "마인크래프트 뮤직비디오 그림자를 사랑한 아기쥐 - 팻두 (MineCraft MusicVideo)",
+        "description": "마인크래프트로 제작한 그림자를 사랑한 아기쥐 - 팻두 M/V\n\n▷NAVER CAFE: http://cafe.naver.com/mineso",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hfPtMWxtkp8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hfPtMWxtkp8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hfPtMWxtkp8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hfPtMWxtkp8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hfPtMWxtkp8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "소월",
+        "playlistId": "UUQDKEZG5eaoJVtyo7dEcNLw",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hfPtMWxtkp8"
+        },
+        "videoOwnerChannelTitle": "소월",
+        "videoOwnerChannelId": "UCQDKEZG5eaoJVtyo7dEcNLw"
+      },
+      "contentDetails": {
+        "videoId": "hfPtMWxtkp8",
+        "videoPublishedAt": "2013-11-19T11:47:07Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "6-RsgHotNdtHtdJR7psEMwLowDc",
+      "id": "VVVRREtFWkc1ZWFvSlZ0eW83ZEVjTkx3LlZLd2FIMTJRZGZB",
+      "snippet": {
+        "publishedAt": "2013-01-16T03:30:13Z",
+        "channelId": "UCQDKEZG5eaoJVtyo7dEcNLw",
+        "title": "마인크래프트 뮤직비디오 강북멋쟁이-정형돈 (MineCraft MusicVideo)",
+        "description": "마인크래프트로 제작한 강북멋쟁이 - 정형돈 M/V\n\n▷NAVER CAFE: http://cafe.naver.com/mineso",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VKwaH12QdfA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VKwaH12QdfA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VKwaH12QdfA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VKwaH12QdfA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VKwaH12QdfA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "소월",
+        "playlistId": "UUQDKEZG5eaoJVtyo7dEcNLw",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VKwaH12QdfA"
+        },
+        "videoOwnerChannelTitle": "소월",
+        "videoOwnerChannelId": "UCQDKEZG5eaoJVtyo7dEcNLw"
+      },
+      "contentDetails": {
+        "videoId": "VKwaH12QdfA",
+        "videoPublishedAt": "2013-01-16T03:30:13Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "bqCTqLZl4pZT8Vx_JG2oUqDMmjs",
+      "id": "VVVRREtFWkc1ZWFvSlZ0eW83ZEVjTkx3LlY5ZndRay1nYkV3",
+      "snippet": {
+        "publishedAt": "2013-01-16T03:25:17Z",
+        "channelId": "UCQDKEZG5eaoJVtyo7dEcNLw",
+        "title": "마인크래프트 뮤직비디오 크리스마스 선물-김동률 (MineCraft MusicVideo)",
+        "description": "마인크래프트로 제작한 크리스마스 선물 - 김동률 M/V\n\n▷NAVER CAFE: http://cafe.naver.com/mineso",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/V9fwQk-gbEw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/V9fwQk-gbEw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/V9fwQk-gbEw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/V9fwQk-gbEw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/V9fwQk-gbEw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "소월",
+        "playlistId": "UUQDKEZG5eaoJVtyo7dEcNLw",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "V9fwQk-gbEw"
+        },
+        "videoOwnerChannelTitle": "소월",
+        "videoOwnerChannelId": "UCQDKEZG5eaoJVtyo7dEcNLw"
+      },
+      "contentDetails": {
+        "videoId": "V9fwQk-gbEw",
+        "videoPublishedAt": "2013-01-16T03:25:17Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zwCEJrBELu8uHfNExM7Z7B1VDp0",
+      "id": "VVVRREtFWkc1ZWFvSlZ0eW83ZEVjTkx3Ljhsa19rOWRxYXBr",
+      "snippet": {
+        "publishedAt": "2012-11-23T14:30:30Z",
+        "channelId": "UCQDKEZG5eaoJVtyo7dEcNLw",
+        "title": "마인크래프트 뮤직비디오 출발-김동률 (MineCraft MusicVideo)",
+        "description": "마인크래프트로 제작한 출발 - 김동률 M/V\n\n▷NAVER CAFE: http://cafe.naver.com/mineso",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8lk_k9dqapk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8lk_k9dqapk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8lk_k9dqapk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8lk_k9dqapk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8lk_k9dqapk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "소월",
+        "playlistId": "UUQDKEZG5eaoJVtyo7dEcNLw",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8lk_k9dqapk"
+        },
+        "videoOwnerChannelTitle": "소월",
+        "videoOwnerChannelId": "UCQDKEZG5eaoJVtyo7dEcNLw"
+      },
+      "contentDetails": {
+        "videoId": "8lk_k9dqapk",
+        "videoPublishedAt": "2012-11-23T14:30:30Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Xrf7ltToMwYfi0DbDdFprsYvGQk",
+      "id": "VVVRREtFWkc1ZWFvSlZ0eW83ZEVjTkx3LndzODN5ZUFDTFRJ",
+      "snippet": {
+        "publishedAt": "2012-08-22T10:13:21Z",
+        "channelId": "UCQDKEZG5eaoJVtyo7dEcNLw",
+        "title": "마인크래프트 뮤직비디오 아버지-싸이 (MineCraft MusicVideo father-psy)",
+        "description": "마인크래프트로 제작한 아버지 - 싸이 M/V\n\n▷NAVER CAFE: http://cafe.naver.com/mineso",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ws83yeACLTI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ws83yeACLTI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ws83yeACLTI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ws83yeACLTI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ws83yeACLTI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "소월",
+        "playlistId": "UUQDKEZG5eaoJVtyo7dEcNLw",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ws83yeACLTI"
+        },
+        "videoOwnerChannelTitle": "소월",
+        "videoOwnerChannelId": "UCQDKEZG5eaoJVtyo7dEcNLw"
+      },
+      "contentDetails": {
+        "videoId": "ws83yeACLTI",
+        "videoPublishedAt": "2012-08-22T10:13:21Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "video_details": [
+    {
+      "kind": "youtube#video",
+      "etag": "_RUqS_LtJUdIU8W76BwyADmDCZE",
+      "id": "hfPtMWxtkp8",
+      "snippet": {
+        "publishedAt": "2013-11-19T11:47:07Z",
+        "channelId": "UCQDKEZG5eaoJVtyo7dEcNLw",
+        "title": "마인크래프트 뮤직비디오 그림자를 사랑한 아기쥐 - 팻두 (MineCraft MusicVideo)",
+        "description": "마인크래프트로 제작한 그림자를 사랑한 아기쥐 - 팻두 M/V\n\n▷NAVER CAFE: http://cafe.naver.com/mineso",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hfPtMWxtkp8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hfPtMWxtkp8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hfPtMWxtkp8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hfPtMWxtkp8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hfPtMWxtkp8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "소월",
+        "tags": [
+          "소월",
+          "아프리카TV",
+          "마인크래프트",
+          "뮤직비디오",
+          "뮤비",
+          "그림자를사랑한아기쥐",
+          "그림자를 사랑한 아기쥐",
+          "팻두",
+          "마크뮤비",
+          "마인크뮤비",
+          "소월방송국"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "마인크래프트 뮤직비디오 그림자를 사랑한 아기쥐 - 팻두 (MineCraft MusicVideo)",
+          "description": "마인크래프트로 제작한 그림자를 사랑한 아기쥐 - 팻두 M/V\n\n▷NAVER CAFE: http://cafe.naver.com/mineso"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT5M52S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "26955",
+        "likeCount": "393",
+        "favoriteCount": "0",
+        "commentCount": "151"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "마인크래프트 뮤직비디오 그림자를 사랑한 아기쥐 - 팻두 (MineCraft MusicVideo)",
+          "description": "마인크래프트로 제작한 그림자를 사랑한 아기쥐 - 팻두 M/V\n\n▷NAVER CAFE: http://cafe.naver.com/mineso"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "R5WcQMZPDCJHqmO4Darx1x_p-HY",
+      "id": "VKwaH12QdfA",
+      "snippet": {
+        "publishedAt": "2013-01-16T03:30:13Z",
+        "channelId": "UCQDKEZG5eaoJVtyo7dEcNLw",
+        "title": "마인크래프트 뮤직비디오 강북멋쟁이-정형돈 (MineCraft MusicVideo)",
+        "description": "마인크래프트로 제작한 강북멋쟁이 - 정형돈 M/V\n\n▷NAVER CAFE: http://cafe.naver.com/mineso",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VKwaH12QdfA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VKwaH12QdfA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VKwaH12QdfA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VKwaH12QdfA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VKwaH12QdfA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "소월",
+        "tags": [
+          "아프리카TV",
+          "인터넷방송",
+          "소월TV",
+          "마인크래프트",
+          "뮤직비디오",
+          "강북멋쟁이",
+          "정형돈",
+          "마인크뮤비",
+          "마크뮤비",
+          "마인크래프트 뮤비"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "마인크래프트 뮤직비디오 강북멋쟁이-정형돈 (MineCraft MusicVideo)",
+          "description": "마인크래프트로 제작한 강북멋쟁이 - 정형돈 M/V\n\n▷NAVER CAFE: http://cafe.naver.com/mineso"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT2M23S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "106850",
+        "likeCount": "472",
+        "favoriteCount": "0",
+        "commentCount": "72"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "마인크래프트 뮤직비디오 강북멋쟁이-정형돈 (MineCraft MusicVideo)",
+          "description": "마인크래프트로 제작한 강북멋쟁이 - 정형돈 M/V\n\n▷NAVER CAFE: http://cafe.naver.com/mineso"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "mEoyi7uRSskTWQFQ9I07SzAqVbI",
+      "id": "V9fwQk-gbEw",
+      "snippet": {
+        "publishedAt": "2013-01-16T03:25:17Z",
+        "channelId": "UCQDKEZG5eaoJVtyo7dEcNLw",
+        "title": "마인크래프트 뮤직비디오 크리스마스 선물-김동률 (MineCraft MusicVideo)",
+        "description": "마인크래프트로 제작한 크리스마스 선물 - 김동률 M/V\n\n▷NAVER CAFE: http://cafe.naver.com/mineso",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/V9fwQk-gbEw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/V9fwQk-gbEw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/V9fwQk-gbEw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/V9fwQk-gbEw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/V9fwQk-gbEw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "소월",
+        "tags": [
+          "소월",
+          "크리스마스선물",
+          "김동률",
+          "스티브",
+          "소월TV",
+          "아프리카TV",
+          "나우콤",
+          "뮤직비디오",
+          "마인크래프트",
+          "인터넷방송",
+          "마인크래프트 뮤직비디오",
+          "마크뮤비",
+          "마인크뮤비"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "마인크래프트 뮤직비디오 크리스마스 선물-김동률 (MineCraft MusicVideo)",
+          "description": "마인크래프트로 제작한 크리스마스 선물 - 김동률 M/V\n\n▷NAVER CAFE: http://cafe.naver.com/mineso"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M48S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "63628",
+        "likeCount": "631",
+        "favoriteCount": "0",
+        "commentCount": "86"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "마인크래프트 뮤직비디오 크리스마스 선물-김동률 (MineCraft MusicVideo)",
+          "description": "마인크래프트로 제작한 크리스마스 선물 - 김동률 M/V\n\n▷NAVER CAFE: http://cafe.naver.com/mineso"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "bylpL3PzDfrwszBT3oqc38nYKZ4",
+      "id": "8lk_k9dqapk",
+      "snippet": {
+        "publishedAt": "2012-11-23T14:30:30Z",
+        "channelId": "UCQDKEZG5eaoJVtyo7dEcNLw",
+        "title": "마인크래프트 뮤직비디오 출발-김동률 (MineCraft MusicVideo)",
+        "description": "마인크래프트로 제작한 출발 - 김동률 M/V\n\n▷NAVER CAFE: http://cafe.naver.com/mineso",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8lk_k9dqapk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8lk_k9dqapk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8lk_k9dqapk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8lk_k9dqapk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8lk_k9dqapk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "소월",
+        "tags": [
+          "소월",
+          "아프리카TV",
+          "마인크래프트",
+          "뮤직비디오",
+          "출발",
+          "스티브"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "마인크래프트 뮤직비디오 출발-김동률 (MineCraft MusicVideo)",
+          "description": "마인크래프트로 제작한 출발 - 김동률 M/V\n\n▷NAVER CAFE: http://cafe.naver.com/mineso"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M55S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "190799",
+        "likeCount": "1986",
+        "favoriteCount": "0",
+        "commentCount": "439"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "마인크래프트 뮤직비디오 출발-김동률 (MineCraft MusicVideo)",
+          "description": "마인크래프트로 제작한 출발 - 김동률 M/V\n\n▷NAVER CAFE: http://cafe.naver.com/mineso"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "a7OwoLGbUxOZh7XnXzruP3ChUcE",
+      "id": "ws83yeACLTI",
+      "snippet": {
+        "publishedAt": "2012-08-22T10:13:21Z",
+        "channelId": "UCQDKEZG5eaoJVtyo7dEcNLw",
+        "title": "마인크래프트 뮤직비디오 아버지-싸이 (MineCraft MusicVideo father-psy)",
+        "description": "마인크래프트로 제작한 아버지 - 싸이 M/V\n\n▷NAVER CAFE: http://cafe.naver.com/mineso",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ws83yeACLTI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ws83yeACLTI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ws83yeACLTI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ws83yeACLTI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ws83yeACLTI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "소월",
+        "tags": [
+          "마인크래프트",
+          "Minecraft",
+          "MusicVideo",
+          "소월TV",
+          "소월목장",
+          "아프리카TV",
+          "인터넷방송",
+          "뮤직비디오",
+          "싸이",
+          "아버지",
+          "강남스타일"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "마인크래프트 뮤직비디오 아버지-싸이 (MineCraft MusicVideo father-psy)",
+          "description": "마인크래프트로 제작한 아버지 - 싸이 M/V\n\n▷NAVER CAFE: http://cafe.naver.com/mineso"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M48S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "295012",
+        "likeCount": "2055",
+        "favoriteCount": "0",
+        "commentCount": "511"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "마인크래프트 뮤직비디오 아버지-싸이 (MineCraft MusicVideo father-psy)",
+          "description": "마인크래프트로 제작한 아버지 - 싸이 M/V\n\n▷NAVER CAFE: http://cafe.naver.com/mineso"
+        }
+      }
+    }
+  ]
+}

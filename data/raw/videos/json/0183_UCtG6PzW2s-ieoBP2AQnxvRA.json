@@ -1,0 +1,690 @@
+{
+  "idx": 183,
+  "channel_id": "UCtG6PzW2s-ieoBP2AQnxvRA",
+  "channel_title": "이인규",
+  "playlist_items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "5v_hKejrzsoWDPuN6scK2y7-ihI",
+      "id": "VVV0RzZQelcycy1pZW9CUDJBUW54dlJBLnJBTFAzdGIwbXVB",
+      "snippet": {
+        "publishedAt": "2017-07-15T04:30:11Z",
+        "channelId": "UCtG6PzW2s-ieoBP2AQnxvRA",
+        "title": "다이아페스티발 서울관 생방 프로그램입니다.",
+        "description": "다이아페스티발 서울관 생방 프로그램입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rALP3tb0muA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rALP3tb0muA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rALP3tb0muA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rALP3tb0muA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rALP3tb0muA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이인규",
+        "playlistId": "UUtG6PzW2s-ieoBP2AQnxvRA",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "rALP3tb0muA"
+        },
+        "videoOwnerChannelTitle": "이인규",
+        "videoOwnerChannelId": "UCtG6PzW2s-ieoBP2AQnxvRA"
+      },
+      "contentDetails": {
+        "videoId": "rALP3tb0muA",
+        "videoPublishedAt": "2017-07-15T04:30:11Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "lqFtPc9T9sWLGcP2uVDvkCLIm4Y",
+      "id": "VVV0RzZQelcycy1pZW9CUDJBUW54dlJBLmZNeThTanpqcC1R",
+      "snippet": {
+        "publishedAt": "2017-07-15T03:53:55Z",
+        "channelId": "UCtG6PzW2s-ieoBP2AQnxvRA",
+        "title": "다이아페스티발 서울관 생방 프로그램입니다.",
+        "description": "다이아페스티발 서울관 생방 프로그램입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fMy8Sjzjp-Q/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fMy8Sjzjp-Q/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fMy8Sjzjp-Q/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fMy8Sjzjp-Q/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fMy8Sjzjp-Q/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이인규",
+        "playlistId": "UUtG6PzW2s-ieoBP2AQnxvRA",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fMy8Sjzjp-Q"
+        },
+        "videoOwnerChannelTitle": "이인규",
+        "videoOwnerChannelId": "UCtG6PzW2s-ieoBP2AQnxvRA"
+      },
+      "contentDetails": {
+        "videoId": "fMy8Sjzjp-Q",
+        "videoPublishedAt": "2017-07-15T03:53:55Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3XD7KioXgOOjOOAbMFJRFEL2uGY",
+      "id": "VVV0RzZQelcycy1pZW9CUDJBUW54dlJBLjdwamQxYXFCTnNn",
+      "snippet": {
+        "publishedAt": "2017-07-15T02:36:18Z",
+        "channelId": "UCtG6PzW2s-ieoBP2AQnxvRA",
+        "title": "다이아페스티발 서울관 생방 프로그램입니다.",
+        "description": "다이아페스티발 서울관 생방 프로그램입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7pjd1aqBNsg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7pjd1aqBNsg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7pjd1aqBNsg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7pjd1aqBNsg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7pjd1aqBNsg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이인규",
+        "playlistId": "UUtG6PzW2s-ieoBP2AQnxvRA",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7pjd1aqBNsg"
+        },
+        "videoOwnerChannelTitle": "이인규",
+        "videoOwnerChannelId": "UCtG6PzW2s-ieoBP2AQnxvRA"
+      },
+      "contentDetails": {
+        "videoId": "7pjd1aqBNsg",
+        "videoPublishedAt": "2017-07-15T02:36:18Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "A5H_cRxqjz7XxKkzgLYOskbd0s8",
+      "id": "VVV0RzZQelcycy1pZW9CUDJBUW54dlJBLnpUZ3lXUDVQS2VR",
+      "snippet": {
+        "publishedAt": "2017-05-30T08:38:37Z",
+        "channelId": "UCtG6PzW2s-ieoBP2AQnxvRA",
+        "title": "[인규네 유치원] 2화 - 58세 인규의 도전, 친구들과 셀카봉 영상찍기",
+        "description": "1960년생 58세 인규의 20대 라이프 스타일 체험기, [인규네 유치원], 앞으로 꾸준히 업로드 될 예정이니 구독 해주세요~\n\n[인규네 유치원] 2화 - 58세 인규의 도전, 친구들과 셀카봉 영상찍기",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zTgyWP5PKeQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zTgyWP5PKeQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zTgyWP5PKeQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zTgyWP5PKeQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zTgyWP5PKeQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이인규",
+        "playlistId": "UUtG6PzW2s-ieoBP2AQnxvRA",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zTgyWP5PKeQ"
+        },
+        "videoOwnerChannelTitle": "이인규",
+        "videoOwnerChannelId": "UCtG6PzW2s-ieoBP2AQnxvRA"
+      },
+      "contentDetails": {
+        "videoId": "zTgyWP5PKeQ",
+        "videoPublishedAt": "2017-05-30T08:38:37Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Gz8NL8Dhokvb_hqsB4kQaGvCkJQ",
+      "id": "VVV0RzZQelcycy1pZW9CUDJBUW54dlJBLmtVR1drR3pESjJR",
+      "snippet": {
+        "publishedAt": "2017-05-30T08:08:23Z",
+        "channelId": "UCtG6PzW2s-ieoBP2AQnxvRA",
+        "title": "[인규네 유치원] 1화 - 58세 인규의 도전, 배달의 민족으로 피자시켜먹기",
+        "description": "1960년생 58세 인규의 20대 라이프 스타일 체험기, [인규네 유치원], 앞으로 꾸준히 업로드 될 예정이니 구독 해주세요~\n\n1화 - 58세 인규의 도전, 배달의 민족으로 피자시켜먹기",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kUGWkGzDJ2Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kUGWkGzDJ2Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kUGWkGzDJ2Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kUGWkGzDJ2Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kUGWkGzDJ2Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이인규",
+        "playlistId": "UUtG6PzW2s-ieoBP2AQnxvRA",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "kUGWkGzDJ2Q"
+        },
+        "videoOwnerChannelTitle": "이인규",
+        "videoOwnerChannelId": "UCtG6PzW2s-ieoBP2AQnxvRA"
+      },
+      "contentDetails": {
+        "videoId": "kUGWkGzDJ2Q",
+        "videoPublishedAt": "2017-05-30T08:08:23Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "video_details": [
+    {
+      "kind": "youtube#video",
+      "etag": "9hwBzJQVKC1z9CBApU3OixH9K6Y",
+      "id": "rALP3tb0muA",
+      "snippet": {
+        "publishedAt": "2017-07-15T04:30:11Z",
+        "channelId": "UCtG6PzW2s-ieoBP2AQnxvRA",
+        "title": "다이아페스티발 서울관 생방 프로그램입니다.",
+        "description": "다이아페스티발 서울관 생방 프로그램입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rALP3tb0muA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rALP3tb0muA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rALP3tb0muA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rALP3tb0muA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rALP3tb0muA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이인규",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "다이아페스티발 서울관 생방 프로그램입니다.",
+          "description": "다이아페스티발 서울관 생방 프로그램입니다."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT1H16M53S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": false,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "338",
+        "likeCount": "15",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "다이아페스티발 서울관 생방 프로그램입니다.",
+          "description": "다이아페스티발 서울관 생방 프로그램입니다."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "859X2PeoUC3iEbP6VEekMsI_g-U",
+      "id": "fMy8Sjzjp-Q",
+      "snippet": {
+        "publishedAt": "2017-07-15T03:53:55Z",
+        "channelId": "UCtG6PzW2s-ieoBP2AQnxvRA",
+        "title": "다이아페스티발 서울관 생방 프로그램입니다.",
+        "description": "다이아페스티발 서울관 생방 프로그램입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fMy8Sjzjp-Q/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fMy8Sjzjp-Q/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fMy8Sjzjp-Q/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fMy8Sjzjp-Q/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fMy8Sjzjp-Q/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이인규",
+        "categoryId": "22",
+        "liveBroadcastContent": "upcoming",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "다이아페스티발 서울관 생방 프로그램입니다.",
+          "description": "다이아페스티발 서울관 생방 프로그램입니다."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "P0D",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "uploaded",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": false,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "0",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "다이아페스티발 서울관 생방 프로그램입니다.",
+          "description": "다이아페스티발 서울관 생방 프로그램입니다."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Gr0kyUQ-OP9BNCktMCCaLkCj21M",
+      "id": "7pjd1aqBNsg",
+      "snippet": {
+        "publishedAt": "2017-07-15T02:36:18Z",
+        "channelId": "UCtG6PzW2s-ieoBP2AQnxvRA",
+        "title": "다이아페스티발 서울관 생방 프로그램입니다.",
+        "description": "다이아페스티발 서울관 생방 프로그램입니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7pjd1aqBNsg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7pjd1aqBNsg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7pjd1aqBNsg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7pjd1aqBNsg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7pjd1aqBNsg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이인규",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "다이아페스티발 서울관 생방 프로그램입니다.",
+          "description": "다이아페스티발 서울관 생방 프로그램입니다."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M28S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "regionRestriction": {
+          "blocked": [
+            "BY",
+            "RU"
+          ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": false,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "74",
+        "likeCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "다이아페스티발 서울관 생방 프로그램입니다.",
+          "description": "다이아페스티발 서울관 생방 프로그램입니다."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "xBrIdp3sqjc8oFUtcG0p7TbTXW4",
+      "id": "zTgyWP5PKeQ",
+      "snippet": {
+        "publishedAt": "2017-05-30T08:38:37Z",
+        "channelId": "UCtG6PzW2s-ieoBP2AQnxvRA",
+        "title": "[인규네 유치원] 2화 - 58세 인규의 도전, 친구들과 셀카봉 영상찍기",
+        "description": "1960년생 58세 인규의 20대 라이프 스타일 체험기, [인규네 유치원], 앞으로 꾸준히 업로드 될 예정이니 구독 해주세요~\n\n[인규네 유치원] 2화 - 58세 인규의 도전, 친구들과 셀카봉 영상찍기",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zTgyWP5PKeQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zTgyWP5PKeQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zTgyWP5PKeQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zTgyWP5PKeQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zTgyWP5PKeQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이인규",
+        "tags": [
+          "인규네 유치원",
+          "인규네 유치원 2화",
+          "이인규",
+          "인규",
+          "셀카봉",
+          "친구들과 셀카봉",
+          "서촌마을",
+          "서울로 7017",
+          "대학로"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[인규네 유치원] 2화 - 58세 인규의 도전, 친구들과 셀카봉 영상찍기",
+          "description": "1960년생 58세 인규의 20대 라이프 스타일 체험기, [인규네 유치원], 앞으로 꾸준히 업로드 될 예정이니 구독 해주세요~\n\n[인규네 유치원] 2화 - 58세 인규의 도전, 친구들과 셀카봉 영상찍기"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT9M51S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "147",
+        "likeCount": "5",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "[인규네 유치원] 2화 - 58세 인규의 도전, 친구들과 셀카봉 영상찍기",
+          "description": "1960년생 58세 인규의 20대 라이프 스타일 체험기, [인규네 유치원], 앞으로 꾸준히 업로드 될 예정이니 구독 해주세요~\n\n[인규네 유치원] 2화 - 58세 인규의 도전, 친구들과 셀카봉 영상찍기"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "hMqstdgcfbJNZJZDt0ekPGAprQw",
+      "id": "kUGWkGzDJ2Q",
+      "snippet": {
+        "publishedAt": "2017-05-30T08:08:23Z",
+        "channelId": "UCtG6PzW2s-ieoBP2AQnxvRA",
+        "title": "[인규네 유치원] 1화 - 58세 인규의 도전, 배달의 민족으로 피자시켜먹기",
+        "description": "1960년생 58세 인규의 20대 라이프 스타일 체험기, [인규네 유치원], 앞으로 꾸준히 업로드 될 예정이니 구독 해주세요~\n\n1화 - 58세 인규의 도전, 배달의 민족으로 피자시켜먹기",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kUGWkGzDJ2Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kUGWkGzDJ2Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kUGWkGzDJ2Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kUGWkGzDJ2Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kUGWkGzDJ2Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이인규",
+        "tags": [
+          "인규네 유치원",
+          "이인규",
+          "인규",
+          "배달의 민족",
+          "배달의 민족 어플",
+          "배민",
+          "배민 어플"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[인규네 유치원] 1화 - 58세 인규의 도전, 배달의 민족으로 피자시켜먹기",
+          "description": "1960년생 58세 인규의 20대 라이프 스타일 체험기, [인규네 유치원], 앞으로 꾸준히 업로드 될 예정이니 구독 해주세요~\n\n1화 - 58세 인규의 도전, 배달의 민족으로 피자시켜먹기"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT7M24S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "190",
+        "likeCount": "8",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "[인규네 유치원] 1화 - 58세 인규의 도전, 배달의 민족으로 피자시켜먹기",
+          "description": "1960년생 58세 인규의 20대 라이프 스타일 체험기, [인규네 유치원], 앞으로 꾸준히 업로드 될 예정이니 구독 해주세요~\n\n1화 - 58세 인규의 도전, 배달의 민족으로 피자시켜먹기"
+        }
+      }
+    }
+  ]
+}

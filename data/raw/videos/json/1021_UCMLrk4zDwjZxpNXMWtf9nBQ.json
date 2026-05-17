@@ -1,0 +1,2348 @@
+{
+  "idx": 1021,
+  "channel_id": "UCMLrk4zDwjZxpNXMWtf9nBQ",
+  "channel_title": "여행NOW",
+  "playlist_items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "A__-yKpHfGH9YCAElR6_yUtDdAU",
+      "id": "VVVNTHJrNHpEd2paeHBOWE1XdGY5bkJRLml3bXdWUi0wWm9J",
+      "snippet": {
+        "publishedAt": "2019-06-14T10:00:15Z",
+        "channelId": "UCMLrk4zDwjZxpNXMWtf9nBQ",
+        "title": "[여행NOW] 아리따운 사진을 찍어오라고 했더니 계속 이상한 사진들을 찍어댄다...남원으로 떠난 여행나우!",
+        "description": "갈수록 피디들 의도와는 다른 사진을 찍어오는 두 팀 덕분에\n편집할 때마 여러번 촬영본을 보게 됩니다....이게 맞나?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iwmwVR-0ZoI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iwmwVR-0ZoI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iwmwVR-0ZoI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iwmwVR-0ZoI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iwmwVR-0ZoI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "여행NOW",
+        "playlistId": "UUMLrk4zDwjZxpNXMWtf9nBQ",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "iwmwVR-0ZoI"
+        },
+        "videoOwnerChannelTitle": "여행NOW",
+        "videoOwnerChannelId": "UCMLrk4zDwjZxpNXMWtf9nBQ"
+      },
+      "contentDetails": {
+        "videoId": "iwmwVR-0ZoI",
+        "videoPublishedAt": "2019-06-14T10:00:15Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "gVfi7iIjeojtOObLDJiecYBzJX0",
+      "id": "VVVNTHJrNHpEd2paeHBOWE1XdGY5bkJRLkxBd1dOQWNBQlpR",
+      "snippet": {
+        "publishedAt": "2019-05-31T10:00:04Z",
+        "channelId": "UCMLrk4zDwjZxpNXMWtf9nBQ",
+        "title": "[여행NOW] 저세상 텐션의 '인싸포즈' 대결! 곡성 기차마을에서 펼쳐지는 인간기차의 인싸포즈 대결을 펼쳐보았다!",
+        "description": "요즘 인싸들은 몸도 유연한가봅니다. 부러워라...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LAwWNAcABZQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LAwWNAcABZQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LAwWNAcABZQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LAwWNAcABZQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LAwWNAcABZQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "여행NOW",
+        "playlistId": "UUMLrk4zDwjZxpNXMWtf9nBQ",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "LAwWNAcABZQ"
+        },
+        "videoOwnerChannelTitle": "여행NOW",
+        "videoOwnerChannelId": "UCMLrk4zDwjZxpNXMWtf9nBQ"
+      },
+      "contentDetails": {
+        "videoId": "LAwWNAcABZQ",
+        "videoPublishedAt": "2019-05-31T10:00:04Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Y2MuKaiEEyI2xg8Uij9_FFoxaJ4",
+      "id": "VVVNTHJrNHpEd2paeHBOWE1XdGY5bkJRLnQwd0xjSlItbW9n",
+      "snippet": {
+        "publishedAt": "2019-05-24T10:27:47Z",
+        "channelId": "UCMLrk4zDwjZxpNXMWtf9nBQ",
+        "title": "[여행NOW]사람으로 살기 vs 귀신으로 살기 !! 벽화마을에서 펼쳐지는 생사가 걸린 레이스!",
+        "description": "비도 오는데 제작진들 정말 무서운 사람들이야 ㅠㅠ",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/t0wLcJR-mog/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/t0wLcJR-mog/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/t0wLcJR-mog/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/t0wLcJR-mog/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/t0wLcJR-mog/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "여행NOW",
+        "playlistId": "UUMLrk4zDwjZxpNXMWtf9nBQ",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "t0wLcJR-mog"
+        },
+        "videoOwnerChannelTitle": "여행NOW",
+        "videoOwnerChannelId": "UCMLrk4zDwjZxpNXMWtf9nBQ"
+      },
+      "contentDetails": {
+        "videoId": "t0wLcJR-mog",
+        "videoPublishedAt": "2019-05-24T10:27:47Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4vHjffsWURGsUG2gN496EWQRlbQ",
+      "id": "VVVNTHJrNHpEd2paeHBOWE1XdGY5bkJRLlo4NE9DY1ZKR21z",
+      "snippet": {
+        "publishedAt": "2019-05-17T10:00:09Z",
+        "channelId": "UCMLrk4zDwjZxpNXMWtf9nBQ",
+        "title": "[여행NOW] 내 고기 내놔! 한옥에서 완벽한 바베큐 파티를 위해 펼쳐지는 보물찾기!",
+        "description": "이 날 전주에서도 비가 굉장히 많이 왔는데요...\n비 오는 와중에도 바베큐 파티를 위해 노력하는 우리의 여행나우 팀... 사랑합니다",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Z84OCcVJGms/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Z84OCcVJGms/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Z84OCcVJGms/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Z84OCcVJGms/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Z84OCcVJGms/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "여행NOW",
+        "playlistId": "UUMLrk4zDwjZxpNXMWtf9nBQ",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Z84OCcVJGms"
+        },
+        "videoOwnerChannelTitle": "여행NOW",
+        "videoOwnerChannelId": "UCMLrk4zDwjZxpNXMWtf9nBQ"
+      },
+      "contentDetails": {
+        "videoId": "Z84OCcVJGms",
+        "videoPublishedAt": "2019-05-17T10:00:09Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4Akr4QIdLmYjMSTFPTf_XGQt3qM",
+      "id": "VVVNTHJrNHpEd2paeHBOWE1XdGY5bkJRLlRjQzFXN1otOHBR",
+      "snippet": {
+        "publishedAt": "2019-05-10T10:00:06Z",
+        "channelId": "UCMLrk4zDwjZxpNXMWtf9nBQ",
+        "title": "[여행NOW] 이번엔 전주 한옥마을이다!! 한복데이트 레이싱!",
+        "description": "새로 합류한 멤버와 함께 새로운 시즌이 시작되었습니다!\n이번 시즌도 많은 사랑 부탁드릴게요 :)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TcC1W7Z-8pQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TcC1W7Z-8pQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TcC1W7Z-8pQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TcC1W7Z-8pQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TcC1W7Z-8pQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "여행NOW",
+        "playlistId": "UUMLrk4zDwjZxpNXMWtf9nBQ",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "TcC1W7Z-8pQ"
+        },
+        "videoOwnerChannelTitle": "여행NOW",
+        "videoOwnerChannelId": "UCMLrk4zDwjZxpNXMWtf9nBQ"
+      },
+      "contentDetails": {
+        "videoId": "TcC1W7Z-8pQ",
+        "videoPublishedAt": "2019-05-10T10:00:06Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_93Z32EaF5Migb45YX1B4pzM8E8",
+      "id": "VVVNTHJrNHpEd2paeHBOWE1XdGY5bkJRLkcxcm0wOG1UUzVB",
+      "snippet": {
+        "publishedAt": "2019-05-03T10:00:02Z",
+        "channelId": "UCMLrk4zDwjZxpNXMWtf9nBQ",
+        "title": "[여행NOW] 혜지지황의 둘만의 마지막 여행, 혜지 할 말 있어요!",
+        "description": "그동안 고생해주신 혜지님에게 많은 응원과 위로 부탁드립니다.\n혜지씨! 고생 많으셨어요 :)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/G1rm08mTS5A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/G1rm08mTS5A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/G1rm08mTS5A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/G1rm08mTS5A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/G1rm08mTS5A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "여행NOW",
+        "playlistId": "UUMLrk4zDwjZxpNXMWtf9nBQ",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "G1rm08mTS5A"
+        },
+        "videoOwnerChannelTitle": "여행NOW",
+        "videoOwnerChannelId": "UCMLrk4zDwjZxpNXMWtf9nBQ"
+      },
+      "contentDetails": {
+        "videoId": "G1rm08mTS5A",
+        "videoPublishedAt": "2019-05-03T10:00:02Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "LhyPmhdFIdNK5ZA67cdCFHqZ6Iw",
+      "id": "VVVNTHJrNHpEd2paeHBOWE1XdGY5bkJRLk95SWZOZzhhYkVr",
+      "snippet": {
+        "publishedAt": "2019-04-26T11:31:48Z",
+        "channelId": "UCMLrk4zDwjZxpNXMWtf9nBQ",
+        "title": "[여행NOW] 하룻밤 100만원!! 제주도 풀빌라에서 현타가 온 이유",
+        "description": "비가 내리는 게 아니라 폭행",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OyIfNg8abEk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OyIfNg8abEk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OyIfNg8abEk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OyIfNg8abEk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OyIfNg8abEk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "여행NOW",
+        "playlistId": "UUMLrk4zDwjZxpNXMWtf9nBQ",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "OyIfNg8abEk"
+        },
+        "videoOwnerChannelTitle": "여행NOW",
+        "videoOwnerChannelId": "UCMLrk4zDwjZxpNXMWtf9nBQ"
+      },
+      "contentDetails": {
+        "videoId": "OyIfNg8abEk",
+        "videoPublishedAt": "2019-04-26T11:31:48Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "tEVsUzj9nszdVpBcWoDBvT4ofxs",
+      "id": "VVVNTHJrNHpEd2paeHBOWE1XdGY5bkJRLnhYd21CUmVBajVJ",
+      "snippet": {
+        "publishedAt": "2019-04-19T10:00:07Z",
+        "channelId": "UCMLrk4zDwjZxpNXMWtf9nBQ",
+        "title": "[여행NOW] 제주도 광고왕이 되기 위해 현실 레이싱이 펼쳐지다! 비바람이 몰아치는 제주도에서 리얼 카트부터 광고촬영까지 펼쳐지는 다이내믹한 여행!",
+        "description": "저는 정말 역대급 편이라고 생각합니다... 감동이얏...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xXwmBReAj5I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xXwmBReAj5I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xXwmBReAj5I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xXwmBReAj5I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xXwmBReAj5I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "여행NOW",
+        "playlistId": "UUMLrk4zDwjZxpNXMWtf9nBQ",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "xXwmBReAj5I"
+        },
+        "videoOwnerChannelTitle": "여행NOW",
+        "videoOwnerChannelId": "UCMLrk4zDwjZxpNXMWtf9nBQ"
+      },
+      "contentDetails": {
+        "videoId": "xXwmBReAj5I",
+        "videoPublishedAt": "2019-04-19T10:00:07Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "q0KThKl77v-YXw0nst5xuAAZNYQ",
+      "id": "VVVNTHJrNHpEd2paeHBOWE1XdGY5bkJRLm84RVBENGZ6WTEw",
+      "snippet": {
+        "publishedAt": "2019-04-12T10:00:12Z",
+        "channelId": "UCMLrk4zDwjZxpNXMWtf9nBQ",
+        "title": "[여행NOW] 제주도 풀빌라를 향한 3x3 빙고 레이싱! 과연 이들 중 누가 편하게 풀빌라로 돌아가 휴식을 취할 것인가?",
+        "description": "제주도 두번째 이야기!\n카멜리아힐에서 펼쳐지는 대결, 비록 날씨가 좋지 않아 아쉽지만 그래도 기대해주세요 :)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/o8EPD4fzY10/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/o8EPD4fzY10/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/o8EPD4fzY10/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/o8EPD4fzY10/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/o8EPD4fzY10/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "여행NOW",
+        "playlistId": "UUMLrk4zDwjZxpNXMWtf9nBQ",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "o8EPD4fzY10"
+        },
+        "videoOwnerChannelTitle": "여행NOW",
+        "videoOwnerChannelId": "UCMLrk4zDwjZxpNXMWtf9nBQ"
+      },
+      "contentDetails": {
+        "videoId": "o8EPD4fzY10",
+        "videoPublishedAt": "2019-04-12T10:00:12Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4Tr0XKK8JOolaOapIObOucJ3FGI",
+      "id": "VVVNTHJrNHpEd2paeHBOWE1XdGY5bkJRLl8yRGtNdGlydDY0",
+      "snippet": {
+        "publishedAt": "2019-04-05T10:03:35Z",
+        "channelId": "UCMLrk4zDwjZxpNXMWtf9nBQ",
+        "title": "[여행NOW] 제주도로 떠난 네사람! 산뜻한 날씨에 한림공원에서 사진을 찍다 지황이의 숨겨진 능력을 발견하다? (feat.분노한 석준)",
+        "description": "봄 놀이의 메카, 제주도로 떠났어요!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_2DkMtirt64/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_2DkMtirt64/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_2DkMtirt64/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_2DkMtirt64/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_2DkMtirt64/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "여행NOW",
+        "playlistId": "UUMLrk4zDwjZxpNXMWtf9nBQ",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_2DkMtirt64"
+        },
+        "videoOwnerChannelTitle": "여행NOW",
+        "videoOwnerChannelId": "UCMLrk4zDwjZxpNXMWtf9nBQ"
+      },
+      "contentDetails": {
+        "videoId": "_2DkMtirt64",
+        "videoPublishedAt": "2019-04-05T10:03:35Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "TAw7Y0iqMfPhqng-GLOkbHWh0HY",
+      "id": "VVVNTHJrNHpEd2paeHBOWE1XdGY5bkJRLmJrejVDRFprbFpv",
+      "snippet": {
+        "publishedAt": "2019-03-29T10:00:03Z",
+        "channelId": "UCMLrk4zDwjZxpNXMWtf9nBQ",
+        "title": "[여행NOW] 아쿠아리움으로 여행을 떠난 여름석준과 혜지황! 부산여행 그 두번째 이야기, 아쿠아리움에서 펼쳐지는 레이스!",
+        "description": "부산 아쿠아리움에서 동화같은 사진을 찍은 두팀, 대결에서 이기지 못하면 고생 시작이라구요...?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bkz5CDZklZo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bkz5CDZklZo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bkz5CDZklZo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bkz5CDZklZo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bkz5CDZklZo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "여행NOW",
+        "playlistId": "UUMLrk4zDwjZxpNXMWtf9nBQ",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "bkz5CDZklZo"
+        },
+        "videoOwnerChannelTitle": "여행NOW",
+        "videoOwnerChannelId": "UCMLrk4zDwjZxpNXMWtf9nBQ"
+      },
+      "contentDetails": {
+        "videoId": "bkz5CDZklZo",
+        "videoPublishedAt": "2019-03-29T10:00:03Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "CsiXCKvW0hE3Ze8QcrtNP0w3Lls",
+      "id": "VVVNTHJrNHpEd2paeHBOWE1XdGY5bkJRLmpjZnVHdXNQdVdJ",
+      "snippet": {
+        "publishedAt": "2019-03-22T10:00:13Z",
+        "channelId": "UCMLrk4zDwjZxpNXMWtf9nBQ",
+        "title": "[여행NOW] 오로지 폰카로만 고품격 영화포스터를 만들어보았다! 부산 여행에서 펼쳐지는 영화 포스터 커버대결!",
+        "description": "부산여행으로 떠난 리플의 여름석준과 혜지황!\n이번에는 영화포스터 커버 대결을 펼쳤는데요, 과연 누가 승자일까요?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jcfuGusPuWI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jcfuGusPuWI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jcfuGusPuWI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jcfuGusPuWI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jcfuGusPuWI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "여행NOW",
+        "playlistId": "UUMLrk4zDwjZxpNXMWtf9nBQ",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "jcfuGusPuWI"
+        },
+        "videoOwnerChannelTitle": "여행NOW",
+        "videoOwnerChannelId": "UCMLrk4zDwjZxpNXMWtf9nBQ"
+      },
+      "contentDetails": {
+        "videoId": "jcfuGusPuWI",
+        "videoPublishedAt": "2019-03-22T10:00:13Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "6WEXV_lWVtUuRm_uig1584Yr8fs",
+      "id": "VVVNTHJrNHpEd2paeHBOWE1XdGY5bkJRLklQZ3VkeEV2TlBF",
+      "snippet": {
+        "publishedAt": "2019-03-15T10:00:02Z",
+        "channelId": "UCMLrk4zDwjZxpNXMWtf9nBQ",
+        "title": "[여행NOW] 인생샷 담기 좋은 '파주'로 여석커플과 혜지황이 떠나다! 핫플레이스 파주에서 펼쳐지는 인생샷 대결!",
+        "description": "리플의 혜지황과 여름석준이 함께하는 파주 여행!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IPgudxEvNPE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IPgudxEvNPE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IPgudxEvNPE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IPgudxEvNPE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IPgudxEvNPE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "여행NOW",
+        "playlistId": "UUMLrk4zDwjZxpNXMWtf9nBQ",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "IPgudxEvNPE"
+        },
+        "videoOwnerChannelTitle": "여행NOW",
+        "videoOwnerChannelId": "UCMLrk4zDwjZxpNXMWtf9nBQ"
+      },
+      "contentDetails": {
+        "videoId": "IPgudxEvNPE",
+        "videoPublishedAt": "2019-03-15T10:00:02Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "dk-ZiTDCgCDmknTuMBoXpJ2v5WE",
+      "id": "VVVNTHJrNHpEd2paeHBOWE1XdGY5bkJRLjZvRTFSTXBHb1dj",
+      "snippet": {
+        "publishedAt": "2019-03-08T10:10:14Z",
+        "channelId": "UCMLrk4zDwjZxpNXMWtf9nBQ",
+        "title": "[여행NOW] 리플의 두 커플이 강화도에 떴다?! 혜지황과 여석커플의 강화도 여행기!",
+        "description": "리플의 혜지황과 여름석준이 함께하는 강화도 여행기!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6oE1RMpGoWc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6oE1RMpGoWc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6oE1RMpGoWc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6oE1RMpGoWc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6oE1RMpGoWc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "여행NOW",
+        "playlistId": "UUMLrk4zDwjZxpNXMWtf9nBQ",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "6oE1RMpGoWc"
+        },
+        "videoOwnerChannelTitle": "여행NOW",
+        "videoOwnerChannelId": "UCMLrk4zDwjZxpNXMWtf9nBQ"
+      },
+      "contentDetails": {
+        "videoId": "6oE1RMpGoWc",
+        "videoPublishedAt": "2019-03-08T10:10:14Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "video_details": [
+    {
+      "kind": "youtube#video",
+      "etag": "DVNcC-G-6hrpr5ve97uIoZR-xZ0",
+      "id": "iwmwVR-0ZoI",
+      "snippet": {
+        "publishedAt": "2019-06-14T10:00:15Z",
+        "channelId": "UCMLrk4zDwjZxpNXMWtf9nBQ",
+        "title": "[여행NOW] 아리따운 사진을 찍어오라고 했더니 계속 이상한 사진들을 찍어댄다...남원으로 떠난 여행나우!",
+        "description": "갈수록 피디들 의도와는 다른 사진을 찍어오는 두 팀 덕분에\n편집할 때마 여러번 촬영본을 보게 됩니다....이게 맞나?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iwmwVR-0ZoI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iwmwVR-0ZoI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iwmwVR-0ZoI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iwmwVR-0ZoI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iwmwVR-0ZoI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "여행NOW",
+        "tags": [
+          "리플",
+          "리플레이. 리플스",
+          "리플에스",
+          "여름",
+          "석준",
+          "석준이가해",
+          "석준여름",
+          "임프",
+          "임프레드",
+          "지황",
+          "혜지",
+          "스노우",
+          "여행",
+          "폰카",
+          "어플",
+          "브이로그",
+          "데이트",
+          "남여",
+          "ripple",
+          "ripple_s",
+          "replay",
+          "imp",
+          "imp_red",
+          "date",
+          "snow",
+          "남원",
+          "춘향전",
+          "춘향",
+          "성춘향",
+          "몽룡",
+          "이몽룡",
+          "전래동화",
+          "역사"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[여행NOW] 아리따운 사진을 찍어오라고 했더니 계속 이상한 사진들을 찍어댄다...남원으로 떠난 여행나우!",
+          "description": "갈수록 피디들 의도와는 다른 사진을 찍어오는 두 팀 덕분에\n편집할 때마 여러번 촬영본을 보게 됩니다....이게 맞나?"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT11M46S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "33384",
+        "likeCount": "680",
+        "favoriteCount": "0",
+        "commentCount": "60"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+          "https://en.wikipedia.org/wiki/Tourism"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "[여행NOW] 아리따운 사진을 찍어오라고 했더니 계속 이상한 사진들을 찍어댄다...남원으로 떠난 여행나우!",
+          "description": "갈수록 피디들 의도와는 다른 사진을 찍어오는 두 팀 덕분에\n편집할 때마 여러번 촬영본을 보게 됩니다....이게 맞나?"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "EEUrFmuTfdaH6uql27bjIj-v5ys",
+      "id": "LAwWNAcABZQ",
+      "snippet": {
+        "publishedAt": "2019-05-31T10:00:04Z",
+        "channelId": "UCMLrk4zDwjZxpNXMWtf9nBQ",
+        "title": "[여행NOW] 저세상 텐션의 '인싸포즈' 대결! 곡성 기차마을에서 펼쳐지는 인간기차의 인싸포즈 대결을 펼쳐보았다!",
+        "description": "요즘 인싸들은 몸도 유연한가봅니다. 부러워라...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LAwWNAcABZQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LAwWNAcABZQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LAwWNAcABZQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LAwWNAcABZQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LAwWNAcABZQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "여행NOW",
+        "tags": [
+          "리플",
+          "리플레이. 리플스",
+          "리플에스",
+          "여름",
+          "석준",
+          "석준이가해",
+          "석준여름",
+          "임프",
+          "임프레드",
+          "지황",
+          "혜지",
+          "스노우",
+          "여행",
+          "폰카",
+          "어플",
+          "브이로그",
+          "데이트",
+          "남여",
+          "ripple",
+          "ripple_s",
+          "replay",
+          "imp",
+          "imp_red",
+          "date",
+          "snow",
+          "서영",
+          "달달서영",
+          "임프서영",
+          "곡성",
+          "기차마을",
+          "곡성기차마을",
+          "곡성여행",
+          "인싸",
+          "인싸포즈"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[여행NOW] 저세상 텐션의 '인싸포즈' 대결! 곡성 기차마을에서 펼쳐지는 인간기차의 인싸포즈 대결을 펼쳐보았다!",
+          "description": "요즘 인싸들은 몸도 유연한가봅니다. 부러워라..."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT16M10S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "34942",
+        "likeCount": "623",
+        "favoriteCount": "0",
+        "commentCount": "74"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "[여행NOW] 저세상 텐션의 '인싸포즈' 대결! 곡성 기차마을에서 펼쳐지는 인간기차의 인싸포즈 대결을 펼쳐보았다!",
+          "description": "요즘 인싸들은 몸도 유연한가봅니다. 부러워라..."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "J66N2VwnFqjETSNC-4NOhfavAlI",
+      "id": "t0wLcJR-mog",
+      "snippet": {
+        "publishedAt": "2019-05-24T10:27:47Z",
+        "channelId": "UCMLrk4zDwjZxpNXMWtf9nBQ",
+        "title": "[여행NOW]사람으로 살기 vs 귀신으로 살기 !! 벽화마을에서 펼쳐지는 생사가 걸린 레이스!",
+        "description": "비도 오는데 제작진들 정말 무서운 사람들이야 ㅠㅠ",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/t0wLcJR-mog/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/t0wLcJR-mog/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/t0wLcJR-mog/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/t0wLcJR-mog/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/t0wLcJR-mog/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "여행NOW",
+        "tags": [
+          "리플",
+          "리플레이. 리플스",
+          "리플에스",
+          "여름",
+          "석준",
+          "석준이가해",
+          "석준여름",
+          "임프",
+          "임프레드",
+          "지황",
+          "혜지",
+          "스노우",
+          "여행",
+          "폰카",
+          "어플",
+          "브이로그",
+          "데이트",
+          "남여",
+          "ripple",
+          "ripple_s",
+          "replay",
+          "imp",
+          "imp_red",
+          "date",
+          "snow",
+          "서영",
+          "리플서영",
+          "임프서영",
+          "벽화마을",
+          "전주",
+          "전주벽화마을",
+          "지브리"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[여행NOW]사람으로 살기 vs 귀신으로 살기 !! 벽화마을에서 펼쳐지는 생사가 걸린 레이스!",
+          "description": "비도 오는데 제작진들 정말 무서운 사람들이야 ㅠㅠ"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT12M2S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "33189",
+        "likeCount": "661",
+        "favoriteCount": "0",
+        "commentCount": "37"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Entertainment"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "[여행NOW]사람으로 살기 vs 귀신으로 살기 !! 벽화마을에서 펼쳐지는 생사가 걸린 레이스!",
+          "description": "비도 오는데 제작진들 정말 무서운 사람들이야 ㅠㅠ"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "_eZAI-_vxl7LvzX76OdyFRW_9Kk",
+      "id": "Z84OCcVJGms",
+      "snippet": {
+        "publishedAt": "2019-05-17T10:00:09Z",
+        "channelId": "UCMLrk4zDwjZxpNXMWtf9nBQ",
+        "title": "[여행NOW] 내 고기 내놔! 한옥에서 완벽한 바베큐 파티를 위해 펼쳐지는 보물찾기!",
+        "description": "이 날 전주에서도 비가 굉장히 많이 왔는데요...\n비 오는 와중에도 바베큐 파티를 위해 노력하는 우리의 여행나우 팀... 사랑합니다",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Z84OCcVJGms/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Z84OCcVJGms/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Z84OCcVJGms/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Z84OCcVJGms/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Z84OCcVJGms/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "여행NOW",
+        "tags": [
+          "리플",
+          "리플레이. 리플스",
+          "리플에스",
+          "여름",
+          "석준",
+          "석준이가해",
+          "석준여름",
+          "임프",
+          "임프레드",
+          "지황",
+          "혜지",
+          "스노우",
+          "여행",
+          "폰카",
+          "어플",
+          "브이로그",
+          "데이트",
+          "남여",
+          "ripple",
+          "ripple_s",
+          "replay",
+          "imp",
+          "imp_red",
+          "date",
+          "snow",
+          "전주",
+          "바베큐",
+          "고기",
+          "보물찾기",
+          "보물",
+          "레이싱",
+          "대결",
+          "서영",
+          "서영지황",
+          "달달지황",
+          "달달서영"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[여행NOW] 내 고기 내놔! 한옥에서 완벽한 바베큐 파티를 위해 펼쳐지는 보물찾기!",
+          "description": "이 날 전주에서도 비가 굉장히 많이 왔는데요...\n비 오는 와중에도 바베큐 파티를 위해 노력하는 우리의 여행나우 팀... 사랑합니다"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT12M17S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "43137",
+        "likeCount": "816",
+        "favoriteCount": "0",
+        "commentCount": "55"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Food",
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "[여행NOW] 내 고기 내놔! 한옥에서 완벽한 바베큐 파티를 위해 펼쳐지는 보물찾기!",
+          "description": "이 날 전주에서도 비가 굉장히 많이 왔는데요...\n비 오는 와중에도 바베큐 파티를 위해 노력하는 우리의 여행나우 팀... 사랑합니다"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "BdA7cUSwu8GWGdlxENmQF_FfO5A",
+      "id": "TcC1W7Z-8pQ",
+      "snippet": {
+        "publishedAt": "2019-05-10T10:00:06Z",
+        "channelId": "UCMLrk4zDwjZxpNXMWtf9nBQ",
+        "title": "[여행NOW] 이번엔 전주 한옥마을이다!! 한복데이트 레이싱!",
+        "description": "새로 합류한 멤버와 함께 새로운 시즌이 시작되었습니다!\n이번 시즌도 많은 사랑 부탁드릴게요 :)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TcC1W7Z-8pQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TcC1W7Z-8pQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TcC1W7Z-8pQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TcC1W7Z-8pQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TcC1W7Z-8pQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "여행NOW",
+        "tags": [
+          "리플",
+          "리플레이. 리플스",
+          "리플에스",
+          "여름",
+          "석준",
+          "석준이가해",
+          "석준여름",
+          "임프",
+          "임프레드",
+          "지황",
+          "혜지",
+          "스노우",
+          "여행",
+          "폰카",
+          "어플",
+          "브이로그",
+          "데이트",
+          "남여",
+          "ripple",
+          "ripple_s",
+          "replay",
+          "imp",
+          "imp_red",
+          "date",
+          "snow",
+          "전주",
+          "한옥마을",
+          "한복",
+          "한복데이트",
+          "한옥데이트",
+          "전주여행"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[여행NOW] 이번엔 전주 한옥마을이다!! 한복데이트 레이싱!",
+          "description": "새로 합류한 멤버와 함께 새로운 시즌이 시작되었습니다!\n이번 시즌도 많은 사랑 부탁드릴게요 :)"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT17M6S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "66982",
+        "likeCount": "1032",
+        "favoriteCount": "0",
+        "commentCount": "119"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+          "https://en.wikipedia.org/wiki/Tourism"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "[여행NOW] 이번엔 전주 한옥마을이다!! 한복데이트 레이싱!",
+          "description": "새로 합류한 멤버와 함께 새로운 시즌이 시작되었습니다!\n이번 시즌도 많은 사랑 부탁드릴게요 :)"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "MXaL-18uQG_9oZXlCp880ANzrr4",
+      "id": "G1rm08mTS5A",
+      "snippet": {
+        "publishedAt": "2019-05-03T10:00:02Z",
+        "channelId": "UCMLrk4zDwjZxpNXMWtf9nBQ",
+        "title": "[여행NOW] 혜지지황의 둘만의 마지막 여행, 혜지 할 말 있어요!",
+        "description": "그동안 고생해주신 혜지님에게 많은 응원과 위로 부탁드립니다.\n혜지씨! 고생 많으셨어요 :)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/G1rm08mTS5A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/G1rm08mTS5A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/G1rm08mTS5A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/G1rm08mTS5A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/G1rm08mTS5A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "여행NOW",
+        "tags": [
+          "리플",
+          "리플레이. 리플스",
+          "리플에스",
+          "여름",
+          "석준",
+          "석준이가해",
+          "석준여름",
+          "임프",
+          "임프레드",
+          "지황",
+          "혜지",
+          "스노우",
+          "여행",
+          "폰카",
+          "어플",
+          "브이로그",
+          "데이트",
+          "남여",
+          "ripple",
+          "ripple_s",
+          "replay",
+          "imp",
+          "imp_red",
+          "date",
+          "snow"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[여행NOW] 혜지지황의 둘만의 마지막 여행, 혜지 할 말 있어요!",
+          "description": "그동안 고생해주신 혜지님에게 많은 응원과 위로 부탁드립니다.\n혜지씨! 고생 많으셨어요 :)"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT4M39S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "70894",
+        "likeCount": "1128",
+        "favoriteCount": "0",
+        "commentCount": "71"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+          "https://en.wikipedia.org/wiki/Tourism"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "[여행NOW] 혜지지황의 둘만의 마지막 여행, 혜지 할 말 있어요!",
+          "description": "그동안 고생해주신 혜지님에게 많은 응원과 위로 부탁드립니다.\n혜지씨! 고생 많으셨어요 :)"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "VVLrC6WNXD2-03yogUZzIDJSH-A",
+      "id": "OyIfNg8abEk",
+      "snippet": {
+        "publishedAt": "2019-04-26T11:31:48Z",
+        "channelId": "UCMLrk4zDwjZxpNXMWtf9nBQ",
+        "title": "[여행NOW] 하룻밤 100만원!! 제주도 풀빌라에서 현타가 온 이유",
+        "description": "비가 내리는 게 아니라 폭행",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OyIfNg8abEk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OyIfNg8abEk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OyIfNg8abEk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OyIfNg8abEk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OyIfNg8abEk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "여행NOW",
+        "tags": [
+          "리플",
+          "리플레이. 리플스",
+          "리플에스",
+          "여름",
+          "석준",
+          "석준이가해",
+          "석준여름",
+          "임프",
+          "임프레드",
+          "지황",
+          "혜지",
+          "스노우",
+          "여행",
+          "폰카",
+          "어플",
+          "브이로그",
+          "데이트",
+          "남여",
+          "ripple",
+          "ripple_s",
+          "replay",
+          "imp",
+          "imp_red",
+          "date",
+          "snow",
+          "제주도",
+          "제주",
+          "제주여행",
+          "게임",
+          "대결"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[여행NOW] 하룻밤 100만원!! 제주도 풀빌라에서 현타가 온 이유",
+          "description": "비가 내리는 게 아니라 폭행"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT15M15S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "37581",
+        "likeCount": "784",
+        "favoriteCount": "0",
+        "commentCount": "58"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "[여행NOW] 하룻밤 100만원!! 제주도 풀빌라에서 현타가 온 이유",
+          "description": "비가 내리는 게 아니라 폭행"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "eKg5xCcyEUd851GVyUbzpXWfUjQ",
+      "id": "xXwmBReAj5I",
+      "snippet": {
+        "publishedAt": "2019-04-19T10:00:07Z",
+        "channelId": "UCMLrk4zDwjZxpNXMWtf9nBQ",
+        "title": "[여행NOW] 제주도 광고왕이 되기 위해 현실 레이싱이 펼쳐지다! 비바람이 몰아치는 제주도에서 리얼 카트부터 광고촬영까지 펼쳐지는 다이내믹한 여행!",
+        "description": "저는 정말 역대급 편이라고 생각합니다... 감동이얏...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xXwmBReAj5I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xXwmBReAj5I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xXwmBReAj5I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xXwmBReAj5I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xXwmBReAj5I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "여행NOW",
+        "tags": [
+          "리플",
+          "리플레이. 리플스",
+          "리플에스",
+          "여름",
+          "석준",
+          "석준이가해",
+          "석준여름",
+          "임프",
+          "임프레드",
+          "지황",
+          "혜지",
+          "스노우",
+          "여행",
+          "폰카",
+          "어플",
+          "브이로그",
+          "데이트",
+          "남여",
+          "ripple",
+          "ripple_s",
+          "replay",
+          "imp",
+          "imp_red",
+          "date",
+          "snow",
+          "제주도",
+          "제주카트",
+          "카트레이싱",
+          "운전",
+          "레이싱",
+          "바다",
+          "제주바다",
+          "캔들",
+          "게임"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[여행NOW] 제주도 광고왕이 되기 위해 현실 레이싱이 펼쳐지다! 비바람이 몰아치는 제주도에서 리얼 카트부터 광고촬영까지 펼쳐지는 다이내믹한 여행!",
+          "description": "저는 정말 역대급 편이라고 생각합니다... 감동이얏..."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT12M29S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "28131",
+        "likeCount": "572",
+        "favoriteCount": "0",
+        "commentCount": "44"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+          "https://en.wikipedia.org/wiki/Tourism"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "[여행NOW] 제주도 광고왕이 되기 위해 현실 레이싱이 펼쳐지다! 비바람이 몰아치는 제주도에서 리얼 카트부터 광고촬영까지 펼쳐지는 다이내믹한 여행!",
+          "description": "저는 정말 역대급 편이라고 생각합니다... 감동이얏..."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "gOu277jWQ1ltuK7HKttvirbPS_c",
+      "id": "o8EPD4fzY10",
+      "snippet": {
+        "publishedAt": "2019-04-12T10:00:12Z",
+        "channelId": "UCMLrk4zDwjZxpNXMWtf9nBQ",
+        "title": "[여행NOW] 제주도 풀빌라를 향한 3x3 빙고 레이싱! 과연 이들 중 누가 편하게 풀빌라로 돌아가 휴식을 취할 것인가?",
+        "description": "제주도 두번째 이야기!\n카멜리아힐에서 펼쳐지는 대결, 비록 날씨가 좋지 않아 아쉽지만 그래도 기대해주세요 :)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/o8EPD4fzY10/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/o8EPD4fzY10/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/o8EPD4fzY10/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/o8EPD4fzY10/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/o8EPD4fzY10/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "여행NOW",
+        "tags": [
+          "리플",
+          "리플레이. 리플스",
+          "리플에스",
+          "여름",
+          "석준",
+          "석준이가해",
+          "석준여름",
+          "임프",
+          "임프레드",
+          "지황",
+          "혜지",
+          "스노우",
+          "여행",
+          "폰카",
+          "어플",
+          "브이로그",
+          "데이트",
+          "남여",
+          "ripple",
+          "ripple_s",
+          "replay",
+          "imp",
+          "imp_red",
+          "date",
+          "snow",
+          "제주도",
+          "게임",
+          "대결",
+          "카멜리아힐",
+          "포토존"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[여행NOW] 제주도 풀빌라를 향한 3x3 빙고 레이싱! 과연 이들 중 누가 편하게 풀빌라로 돌아가 휴식을 취할 것인가?",
+          "description": "제주도 두번째 이야기!\n카멜리아힐에서 펼쳐지는 대결, 비록 날씨가 좋지 않아 아쉽지만 그래도 기대해주세요 :)"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT13M27S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "44189",
+        "likeCount": "718",
+        "favoriteCount": "0",
+        "commentCount": "60"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+          "https://en.wikipedia.org/wiki/Tourism"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "[여행NOW] 제주도 풀빌라를 향한 3x3 빙고 레이싱! 과연 이들 중 누가 편하게 풀빌라로 돌아가 휴식을 취할 것인가?",
+          "description": "제주도 두번째 이야기!\n카멜리아힐에서 펼쳐지는 대결, 비록 날씨가 좋지 않아 아쉽지만 그래도 기대해주세요 :)"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "gAJyboWPnR3mbeQFGj8iFGnxe3o",
+      "id": "_2DkMtirt64",
+      "snippet": {
+        "publishedAt": "2019-04-05T10:03:35Z",
+        "channelId": "UCMLrk4zDwjZxpNXMWtf9nBQ",
+        "title": "[여행NOW] 제주도로 떠난 네사람! 산뜻한 날씨에 한림공원에서 사진을 찍다 지황이의 숨겨진 능력을 발견하다? (feat.분노한 석준)",
+        "description": "봄 놀이의 메카, 제주도로 떠났어요!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_2DkMtirt64/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_2DkMtirt64/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_2DkMtirt64/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_2DkMtirt64/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_2DkMtirt64/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "여행NOW",
+        "tags": [
+          "ripple",
+          "ripples",
+          "ripple_s",
+          "replay",
+          "imp",
+          "impred",
+          "리플",
+          "리플레이",
+          "리플스",
+          "리플에스",
+          "임프",
+          "임프레드",
+          "혜지",
+          "지황",
+          "여름",
+          "석준",
+          "여름석준",
+          "여석",
+          "혜지황",
+          "여행",
+          "여행Now",
+          "사진",
+          "스노우",
+          "어플",
+          "폰카",
+          "제주",
+          "제주도",
+          "유채꽃"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[여행NOW] 제주도로 떠난 네사람! 산뜻한 날씨에 한림공원에서 사진을 찍다 지황이의 숨겨진 능력을 발견하다? (feat.분노한 석준)",
+          "description": "봄 놀이의 메카, 제주도로 떠났어요!"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT15M1S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "120756",
+        "likeCount": "1475",
+        "favoriteCount": "0",
+        "commentCount": "125"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "[여행NOW] 제주도로 떠난 네사람! 산뜻한 날씨에 한림공원에서 사진을 찍다 지황이의 숨겨진 능력을 발견하다? (feat.분노한 석준)",
+          "description": "봄 놀이의 메카, 제주도로 떠났어요!"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "lUs5xktNCVL1tTdJ-CrX02wMFoY",
+      "id": "bkz5CDZklZo",
+      "snippet": {
+        "publishedAt": "2019-03-29T10:00:03Z",
+        "channelId": "UCMLrk4zDwjZxpNXMWtf9nBQ",
+        "title": "[여행NOW] 아쿠아리움으로 여행을 떠난 여름석준과 혜지황! 부산여행 그 두번째 이야기, 아쿠아리움에서 펼쳐지는 레이스!",
+        "description": "부산 아쿠아리움에서 동화같은 사진을 찍은 두팀, 대결에서 이기지 못하면 고생 시작이라구요...?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bkz5CDZklZo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bkz5CDZklZo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bkz5CDZklZo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bkz5CDZklZo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bkz5CDZklZo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "여행NOW",
+        "tags": [
+          "ripple",
+          "ripples",
+          "ripple_s",
+          "replay",
+          "imp",
+          "impred",
+          "리플",
+          "리플레이",
+          "리플스",
+          "리플에스",
+          "임프",
+          "임프레드",
+          "혜지",
+          "지황",
+          "여름",
+          "석준",
+          "여름석준",
+          "여석",
+          "혜지황",
+          "여행",
+          "여행Now",
+          "부산",
+          "아쿠아리움",
+          "사진",
+          "스노우",
+          "어플",
+          "폰카"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[여행NOW] 아쿠아리움으로 여행을 떠난 여름석준과 혜지황! 부산여행 그 두번째 이야기, 아쿠아리움에서 펼쳐지는 레이스!",
+          "description": "부산 아쿠아리움에서 동화같은 사진을 찍은 두팀, 대결에서 이기지 못하면 고생 시작이라구요...?"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT10M57S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "98717",
+        "likeCount": "1357",
+        "favoriteCount": "0",
+        "commentCount": "112"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+          "https://en.wikipedia.org/wiki/Pet"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "[여행NOW] 아쿠아리움으로 여행을 떠난 여름석준과 혜지황! 부산여행 그 두번째 이야기, 아쿠아리움에서 펼쳐지는 레이스!",
+          "description": "부산 아쿠아리움에서 동화같은 사진을 찍은 두팀, 대결에서 이기지 못하면 고생 시작이라구요...?"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "v9NTZfXribuYCdUrP4ObJhCw1WY",
+      "id": "jcfuGusPuWI",
+      "snippet": {
+        "publishedAt": "2019-03-22T10:00:13Z",
+        "channelId": "UCMLrk4zDwjZxpNXMWtf9nBQ",
+        "title": "[여행NOW] 오로지 폰카로만 고품격 영화포스터를 만들어보았다! 부산 여행에서 펼쳐지는 영화 포스터 커버대결!",
+        "description": "부산여행으로 떠난 리플의 여름석준과 혜지황!\n이번에는 영화포스터 커버 대결을 펼쳤는데요, 과연 누가 승자일까요?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jcfuGusPuWI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jcfuGusPuWI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jcfuGusPuWI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jcfuGusPuWI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jcfuGusPuWI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "여행NOW",
+        "tags": [
+          "Ripple",
+          "ripple_s",
+          "replay",
+          "imp",
+          "impred",
+          "ripples",
+          "여름",
+          "석준",
+          "여름석준",
+          "커플",
+          "혜지",
+          "지황",
+          "리플",
+          "리플에스",
+          "리플스",
+          "리플레이",
+          "임프",
+          "임프레드",
+          "여행",
+          "여행나우",
+          "대결",
+          "폰",
+          "폰카",
+          "인스타사진",
+          "사진",
+          "여행사진",
+          "부산",
+          "부산여행",
+          "영화",
+          "영화포스터",
+          "영화사진"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[여행NOW] 오로지 폰카로만 고품격 영화포스터를 만들어보았다! 부산 여행에서 펼쳐지는 영화 포스터 커버대결!",
+          "description": "부산여행으로 떠난 리플의 여름석준과 혜지황!\n이번에는 영화포스터 커버 대결을 펼쳤는데요, 과연 누가 승자일까요?"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT13M58S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "63664",
+        "likeCount": "968",
+        "favoriteCount": "0",
+        "commentCount": "93"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Hobby",
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "[여행NOW] 오로지 폰카로만 고품격 영화포스터를 만들어보았다! 부산 여행에서 펼쳐지는 영화 포스터 커버대결!",
+          "description": "부산여행으로 떠난 리플의 여름석준과 혜지황!\n이번에는 영화포스터 커버 대결을 펼쳤는데요, 과연 누가 승자일까요?"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "G9xwC5kBfKlta_bFk8UFLZ6NUOo",
+      "id": "IPgudxEvNPE",
+      "snippet": {
+        "publishedAt": "2019-03-15T10:00:02Z",
+        "channelId": "UCMLrk4zDwjZxpNXMWtf9nBQ",
+        "title": "[여행NOW] 인생샷 담기 좋은 '파주'로 여석커플과 혜지황이 떠나다! 핫플레이스 파주에서 펼쳐지는 인생샷 대결!",
+        "description": "리플의 혜지황과 여름석준이 함께하는 파주 여행!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IPgudxEvNPE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IPgudxEvNPE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IPgudxEvNPE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IPgudxEvNPE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IPgudxEvNPE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "여행NOW",
+        "tags": [
+          "ripples",
+          "impred",
+          "리플",
+          "리플레이",
+          "석준이가해",
+          "데이트",
+          "데이트코스",
+          "브이로그",
+          "여행",
+          "파주",
+          "쁘띠프랑스",
+          "봄",
+          "사진",
+          "스노우"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[여행NOW] 인생샷 담기 좋은 '파주'로 여석커플과 혜지황이 떠나다! 핫플레이스 파주에서 펼쳐지는 인생샷 대결!",
+          "description": "리플의 혜지황과 여름석준이 함께하는 파주 여행!"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT13M10S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "110771",
+        "likeCount": "1450",
+        "favoriteCount": "0",
+        "commentCount": "152"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "[여행NOW] 인생샷 담기 좋은 '파주'로 여석커플과 혜지황이 떠나다! 핫플레이스 파주에서 펼쳐지는 인생샷 대결!",
+          "description": "리플의 혜지황과 여름석준이 함께하는 파주 여행!"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "SKS7w9zGC6bspaP_V3OutTd9x8g",
+      "id": "6oE1RMpGoWc",
+      "snippet": {
+        "publishedAt": "2019-03-08T10:10:14Z",
+        "channelId": "UCMLrk4zDwjZxpNXMWtf9nBQ",
+        "title": "[여행NOW] 리플의 두 커플이 강화도에 떴다?! 혜지황과 여석커플의 강화도 여행기!",
+        "description": "리플의 혜지황과 여름석준이 함께하는 강화도 여행기!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6oE1RMpGoWc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6oE1RMpGoWc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6oE1RMpGoWc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6oE1RMpGoWc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6oE1RMpGoWc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "여행NOW",
+        "tags": [
+          "리플",
+          "여름석준",
+          "혜지지황",
+          "Ripples",
+          "데이트",
+          "여행",
+          "브이로그",
+          "vlog",
+          "강화도",
+          "더블데이트",
+          "커플",
+          "커플채널",
+          "루지",
+          "여행코스"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[여행NOW] 리플의 두 커플이 강화도에 떴다?! 혜지황과 여석커플의 강화도 여행기!",
+          "description": "리플의 혜지황과 여름석준이 함께하는 강화도 여행기!"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT11M10S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "208619",
+        "likeCount": "2578",
+        "favoriteCount": "0",
+        "commentCount": "241"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "[여행NOW] 리플의 두 커플이 강화도에 떴다?! 혜지황과 여석커플의 강화도 여행기!",
+          "description": "리플의 혜지황과 여름석준이 함께하는 강화도 여행기!"
+        }
+      }
+    }
+  ]
+}
