@@ -1,0 +1,151 @@
+{
+  "idx": 5292,
+  "channel_id": "UC07i8JgLI1h8ORHEBlnQE2A",
+  "channel_title": "호구마 HOGUMA",
+  "playlist_items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8UH-TCa2Y5nTVGwARtTv0KFak60",
+      "id": "VVUwN2k4SmdMSTFoOE9SSEVCbG5RRTJBLnp3NkkwUnU2ZFdN",
+      "snippet": {
+        "publishedAt": "2026-03-23T12:54:27Z",
+        "channelId": "UC07i8JgLI1h8ORHEBlnQE2A",
+        "title": "갤럭시S22 울트라로 촬영한 IVE THE 4TH FAN CONCERT - LOVE DIVE (260322) *세팅은 설명란 참고*",
+        "description": "[세팅]\n프로 동영상 모드\n10배 슈퍼망원렌즈(ST)\nISO 200, SPEED 1/60s, 나머지는 자동\n\n후보정으로 흔들림 보정, 색감 보정, 노이즈 제거가 들어갔지만 화질 느낌만 참고하시라고 올려봅니다. 약간의 빛번짐은 폰카의 한계인 듯합니다...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zw6I0Ru6dWM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zw6I0Ru6dWM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zw6I0Ru6dWM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zw6I0Ru6dWM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zw6I0Ru6dWM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "호구마 HOGUMA",
+        "playlistId": "UU07i8JgLI1h8ORHEBlnQE2A",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zw6I0Ru6dWM"
+        },
+        "videoOwnerChannelTitle": "호구마 HOGUMA",
+        "videoOwnerChannelId": "UC07i8JgLI1h8ORHEBlnQE2A"
+      },
+      "contentDetails": {
+        "videoId": "zw6I0Ru6dWM",
+        "videoPublishedAt": "2026-03-23T12:54:27Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "video_details": [
+    {
+      "kind": "youtube#video",
+      "etag": "Qh7QoO18Gic72QgChIOJTU1MbPQ",
+      "id": "zw6I0Ru6dWM",
+      "snippet": {
+        "publishedAt": "2026-03-23T12:54:27Z",
+        "channelId": "UC07i8JgLI1h8ORHEBlnQE2A",
+        "title": "갤럭시S22 울트라로 촬영한 IVE THE 4TH FAN CONCERT - LOVE DIVE (260322) *세팅은 설명란 참고*",
+        "description": "[세팅]\n프로 동영상 모드\n10배 슈퍼망원렌즈(ST)\nISO 200, SPEED 1/60s, 나머지는 자동\n\n후보정으로 흔들림 보정, 색감 보정, 노이즈 제거가 들어갔지만 화질 느낌만 참고하시라고 올려봅니다. 약간의 빛번짐은 폰카의 한계인 듯합니다...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zw6I0Ru6dWM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zw6I0Ru6dWM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zw6I0Ru6dWM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zw6I0Ru6dWM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zw6I0Ru6dWM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "호구마 HOGUMA",
+        "tags": [
+          "교차편집",
+          "stage mix"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "갤럭시S22 울트라로 촬영한 IVE THE 4TH FAN CONCERT - LOVE DIVE (260322) *세팅은 설명란 참고*",
+          "description": "[세팅]\n프로 동영상 모드\n10배 슈퍼망원렌즈(ST)\nISO 200, SPEED 1/60s, 나머지는 자동\n\n후보정으로 흔들림 보정, 색감 보정, 노이즈 제거가 들어갔지만 화질 느낌만 참고하시라고 올려봅니다. 약간의 빛번짐은 폰카의 한계인 듯합니다..."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT2M58S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "2783",
+        "likeCount": "95",
+        "favoriteCount": "0",
+        "commentCount": "9"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Music_of_Asia",
+          "https://en.wikipedia.org/wiki/Pop_music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "갤럭시S22 울트라로 촬영한 IVE THE 4TH FAN CONCERT - LOVE DIVE (260322) *세팅은 설명란 참고*",
+          "description": "[세팅]\n프로 동영상 모드\n10배 슈퍼망원렌즈(ST)\nISO 200, SPEED 1/60s, 나머지는 자동\n\n후보정으로 흔들림 보정, 색감 보정, 노이즈 제거가 들어갔지만 화질 느낌만 참고하시라고 올려봅니다. 약간의 빛번짐은 폰카의 한계인 듯합니다..."
+        }
+      }
+    }
+  ]
+}

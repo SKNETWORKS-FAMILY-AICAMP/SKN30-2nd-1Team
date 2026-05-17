@@ -1,0 +1,483 @@
+{
+  "idx": 4349,
+  "channel_id": "UCzMAqDi4M4CrwMSi_EnnV4g",
+  "channel_title": "리타유튜브",
+  "playlist_items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "uR6yQDWtR6hjUjLvf9I4RMCr_LE",
+      "id": "VVV6TUFxRGk0TTRDcndNU2lfRW5uVjRnLnhKRzBaNGZxR0Zn",
+      "snippet": {
+        "publishedAt": "2025-08-13T09:01:21Z",
+        "channelId": "UCzMAqDi4M4CrwMSi_EnnV4g",
+        "title": "『𖤐ˊ˗절친이랑 명동투어💫』  | 야끼소바맛집 우와 | 위드뮤 탐방 | 악세는뉴뉴 | 뉴에라 ᯓ★ #리타로그",
+        "description": "안녕하세요~ 정말 오랜만에 갔던 명동인데\n갈때마다 해외처럼 느껴지는 곳이었어요 \n쇼핑의 성지라서 그런지 친구랑 가보고싶던 쇼핑몰이 다 있더라구요\n팝마트는 아쉽게도 촬영금지라 담지못했어요\n귀여운거 진짜 왕왕많았는데\n라부부랑 크라잉베이비는 역시나 없어서 빈손으로 나왔지만..ᝪᨓᝪ\n다음 영상 깜짝 왓츠인마이백&티켓팅으로 금방올게요~\n시청해주셔서 감사합니당 👍🏼🫶🏻\n\n00:00 오프닝\n00:48 우와\n03:51 위드뮤\n09:37 뉴뉴\n12:52 뉴에라",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xJG0Z4fqGFg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xJG0Z4fqGFg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xJG0Z4fqGFg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xJG0Z4fqGFg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xJG0Z4fqGFg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "리타유튜브",
+        "playlistId": "UUzMAqDi4M4CrwMSi_EnnV4g",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "xJG0Z4fqGFg"
+        },
+        "videoOwnerChannelTitle": "리타유튜브",
+        "videoOwnerChannelId": "UCzMAqDi4M4CrwMSi_EnnV4g"
+      },
+      "contentDetails": {
+        "videoId": "xJG0Z4fqGFg",
+        "videoPublishedAt": "2025-08-13T09:01:21Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "kEVAb70RWg2f8sSlZ2xaP4zgIRA",
+      "id": "VVV6TUFxRGk0TTRDcndNU2lfRW5uVjRnLlhnM2x5cS1EWlRn",
+      "snippet": {
+        "publishedAt": "2025-08-05T09:00:58Z",
+        "channelId": "UCzMAqDi4M4CrwMSi_EnnV4g",
+        "title": "『🌞무더운 여름 브이로그ღ』뮤지컬'외쳐조선'|합정맛집|한강산책🌊#리타로그#리타로그",
+        "description": "따끈따끈한 두번째 브이로그에효\n화질 안 좋은 장면 미아내~\n다음부턴 꼭 슥슥닦고 찍으께효! Ꙭ̮\n\n#일상 #일상브이로그",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Xg3lyq-DZTg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Xg3lyq-DZTg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Xg3lyq-DZTg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Xg3lyq-DZTg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Xg3lyq-DZTg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "리타유튜브",
+        "playlistId": "UUzMAqDi4M4CrwMSi_EnnV4g",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Xg3lyq-DZTg"
+        },
+        "videoOwnerChannelTitle": "리타유튜브",
+        "videoOwnerChannelId": "UCzMAqDi4M4CrwMSi_EnnV4g"
+      },
+      "contentDetails": {
+        "videoId": "Xg3lyq-DZTg",
+        "videoPublishedAt": "2025-08-05T09:00:58Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "vNfTsd2HLEYxl6odFOc4Zvfp-do",
+      "id": "VVV6TUFxRGk0TTRDcndNU2lfRW5uVjRnLlNIa1k3WEhXblFV",
+      "snippet": {
+        "publishedAt": "2025-07-30T09:00:40Z",
+        "channelId": "UCzMAqDi4M4CrwMSi_EnnV4g",
+        "title": "『첫 브이로그✨』 ๑╹ワ╹๑ㅣ광야 방문기ㅣ동빙고 팥빙수ㅣ서울숲 맛집ㅣ함바그 요시ㅣ일상 브이로그 🌟 #리타로그",
+        "description": "안녕하세요 제가 브이로그를 낋여왔습니다\n많관부~편집 어때? 꽤괜? 😃\n\n00:00 오프닝\n00:16 일상\n04:32 서울숲 나들이\n05:23 광야스토어\n08:23 요시\n09:05 동빙고\n10:32 글레이셔박",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SHkY7XHWnQU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SHkY7XHWnQU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SHkY7XHWnQU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SHkY7XHWnQU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SHkY7XHWnQU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "리타유튜브",
+        "playlistId": "UUzMAqDi4M4CrwMSi_EnnV4g",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "SHkY7XHWnQU"
+        },
+        "videoOwnerChannelTitle": "리타유튜브",
+        "videoOwnerChannelId": "UCzMAqDi4M4CrwMSi_EnnV4g"
+      },
+      "contentDetails": {
+        "videoId": "SHkY7XHWnQU",
+        "videoPublishedAt": "2025-07-30T09:00:40Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "video_details": [
+    {
+      "kind": "youtube#video",
+      "etag": "cP3IOOpbdptrda4i84QikwJpHOs",
+      "id": "xJG0Z4fqGFg",
+      "snippet": {
+        "publishedAt": "2025-08-13T09:01:21Z",
+        "channelId": "UCzMAqDi4M4CrwMSi_EnnV4g",
+        "title": "『𖤐ˊ˗절친이랑 명동투어💫』  | 야끼소바맛집 우와 | 위드뮤 탐방 | 악세는뉴뉴 | 뉴에라 ᯓ★ #리타로그",
+        "description": "안녕하세요~ 정말 오랜만에 갔던 명동인데\n갈때마다 해외처럼 느껴지는 곳이었어요 \n쇼핑의 성지라서 그런지 친구랑 가보고싶던 쇼핑몰이 다 있더라구요\n팝마트는 아쉽게도 촬영금지라 담지못했어요\n귀여운거 진짜 왕왕많았는데\n라부부랑 크라잉베이비는 역시나 없어서 빈손으로 나왔지만..ᝪᨓᝪ\n다음 영상 깜짝 왓츠인마이백&티켓팅으로 금방올게요~\n시청해주셔서 감사합니당 👍🏼🫶🏻\n\n00:00 오프닝\n00:48 우와\n03:51 위드뮤\n09:37 뉴뉴\n12:52 뉴에라",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xJG0Z4fqGFg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xJG0Z4fqGFg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xJG0Z4fqGFg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xJG0Z4fqGFg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xJG0Z4fqGFg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "리타유튜브",
+        "tags": [
+          "박리타",
+          "리타",
+          "힐링",
+          "스토리",
+          "Lita",
+          "브이로그",
+          "일상",
+          "vlog",
+          "나들이",
+          "여행",
+          "약속",
+          "외출",
+          "잔잔"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "『𖤐ˊ˗절친이랑 명동투어💫』  | 야끼소바맛집 우와 | 위드뮤 탐방 | 악세는뉴뉴 | 뉴에라 ᯓ★ #리타로그",
+          "description": "안녕하세요~ 정말 오랜만에 갔던 명동인데\n갈때마다 해외처럼 느껴지는 곳이었어요 \n쇼핑의 성지라서 그런지 친구랑 가보고싶던 쇼핑몰이 다 있더라구요\n팝마트는 아쉽게도 촬영금지라 담지못했어요\n귀여운거 진짜 왕왕많았는데\n라부부랑 크라잉베이비는 역시나 없어서 빈손으로 나왔지만..ᝪᨓᝪ\n다음 영상 깜짝 왓츠인마이백&티켓팅으로 금방올게요~\n시청해주셔서 감사합니당 👍🏼🫶🏻\n\n00:00 오프닝\n00:48 우와\n03:51 위드뮤\n09:37 뉴뉴\n12:52 뉴에라"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT17M42S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "17696",
+        "likeCount": "252",
+        "favoriteCount": "0",
+        "commentCount": "57"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Food",
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "『𖤐ˊ˗절친이랑 명동투어💫』  | 야끼소바맛집 우와 | 위드뮤 탐방 | 악세는뉴뉴 | 뉴에라 ᯓ★ #리타로그",
+          "description": "안녕하세요~ 정말 오랜만에 갔던 명동인데\n갈때마다 해외처럼 느껴지는 곳이었어요 \n쇼핑의 성지라서 그런지 친구랑 가보고싶던 쇼핑몰이 다 있더라구요\n팝마트는 아쉽게도 촬영금지라 담지못했어요\n귀여운거 진짜 왕왕많았는데\n라부부랑 크라잉베이비는 역시나 없어서 빈손으로 나왔지만..ᝪᨓᝪ\n다음 영상 깜짝 왓츠인마이백&티켓팅으로 금방올게요~\n시청해주셔서 감사합니당 👍🏼🫶🏻\n\n00:00 오프닝\n00:48 우와\n03:51 위드뮤\n09:37 뉴뉴\n12:52 뉴에라"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "B62ddRWMMWYUW9sZcW_0XAhRPyk",
+      "id": "Xg3lyq-DZTg",
+      "snippet": {
+        "publishedAt": "2025-08-05T09:00:58Z",
+        "channelId": "UCzMAqDi4M4CrwMSi_EnnV4g",
+        "title": "『🌞무더운 여름 브이로그ღ』뮤지컬'외쳐조선'|합정맛집|한강산책🌊#리타로그#리타로그",
+        "description": "따끈따끈한 두번째 브이로그에효\n화질 안 좋은 장면 미아내~\n다음부턴 꼭 슥슥닦고 찍으께효! Ꙭ̮\n\n#일상 #일상브이로그",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Xg3lyq-DZTg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Xg3lyq-DZTg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Xg3lyq-DZTg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Xg3lyq-DZTg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Xg3lyq-DZTg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "리타유튜브",
+        "tags": [
+          "박리타",
+          "리타",
+          "힐링",
+          "스토리",
+          "Lita",
+          "브이로그",
+          "일상",
+          "vlog",
+          "나들이",
+          "여행",
+          "약속",
+          "외출",
+          "잔잔"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "『🌞무더운 여름 브이로그ღ』뮤지컬'외쳐조선'|합정맛집|한강산책🌊#리타로그#리타로그",
+          "description": "따끈따끈한 두번째 브이로그에효\n화질 안 좋은 장면 미아내~\n다음부턴 꼭 슥슥닦고 찍으께효! Ꙭ̮\n\n#일상 #일상브이로그"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT10M25S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "8889",
+        "likeCount": "328",
+        "favoriteCount": "0",
+        "commentCount": "50"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Food",
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "『🌞무더운 여름 브이로그ღ』뮤지컬'외쳐조선'|합정맛집|한강산책🌊#리타로그#리타로그",
+          "description": "따끈따끈한 두번째 브이로그에효\n화질 안 좋은 장면 미아내~\n다음부턴 꼭 슥슥닦고 찍으께효! Ꙭ̮\n\n#일상 #일상브이로그"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "frrwLzYR3QynFOQ-4cW_0cvv7Eo",
+      "id": "SHkY7XHWnQU",
+      "snippet": {
+        "publishedAt": "2025-07-30T09:00:40Z",
+        "channelId": "UCzMAqDi4M4CrwMSi_EnnV4g",
+        "title": "『첫 브이로그✨』 ๑╹ワ╹๑ㅣ광야 방문기ㅣ동빙고 팥빙수ㅣ서울숲 맛집ㅣ함바그 요시ㅣ일상 브이로그 🌟 #리타로그",
+        "description": "안녕하세요 제가 브이로그를 낋여왔습니다\n많관부~편집 어때? 꽤괜? 😃\n\n00:00 오프닝\n00:16 일상\n04:32 서울숲 나들이\n05:23 광야스토어\n08:23 요시\n09:05 동빙고\n10:32 글레이셔박",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SHkY7XHWnQU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SHkY7XHWnQU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SHkY7XHWnQU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SHkY7XHWnQU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SHkY7XHWnQU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "리타유튜브",
+        "tags": [
+          "박리타",
+          "리타",
+          "나뭇잎",
+          "악어",
+          "늪지대",
+          "악어유튜브",
+          "핑맨",
+          "멋사",
+          "중력",
+          "너불",
+          "만득",
+          "수닝",
+          "뷰티DADA",
+          "뷰티다다",
+          "재미",
+          "게임",
+          "영화",
+          "드라마",
+          "재밌는",
+          "재밋는",
+          "재미있는",
+          "꿀잼",
+          "핵잼",
+          "힐링",
+          "스토리",
+          "방귀탄",
+          "여자",
+          "여자게임",
+          "game",
+          "minecraft",
+          "Lita"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "『첫 브이로그✨』 ๑╹ワ╹๑ㅣ광야 방문기ㅣ동빙고 팥빙수ㅣ서울숲 맛집ㅣ함바그 요시ㅣ일상 브이로그 🌟 #리타로그",
+          "description": "안녕하세요 제가 브이로그를 낋여왔습니다\n많관부~편집 어때? 꽤괜? 😃\n\n00:00 오프닝\n00:16 일상\n04:32 서울숲 나들이\n05:23 광야스토어\n08:23 요시\n09:05 동빙고\n10:32 글레이셔박"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT11M32S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "32222",
+        "likeCount": "831",
+        "favoriteCount": "0",
+        "commentCount": "144"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Food",
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "『첫 브이로그✨』 ๑╹ワ╹๑ㅣ광야 방문기ㅣ동빙고 팥빙수ㅣ서울숲 맛집ㅣ함바그 요시ㅣ일상 브이로그 🌟 #리타로그",
+          "description": "안녕하세요 제가 브이로그를 낋여왔습니다\n많관부~편집 어때? 꽤괜? 😃\n\n00:00 오프닝\n00:16 일상\n04:32 서울숲 나들이\n05:23 광야스토어\n08:23 요시\n09:05 동빙고\n10:32 글레이셔박"
+        }
+      }
+    }
+  ]
+}

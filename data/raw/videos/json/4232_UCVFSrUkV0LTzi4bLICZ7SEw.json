@@ -1,0 +1,145 @@
+{
+  "idx": 4232,
+  "channel_id": "UCVFSrUkV0LTzi4bLICZ7SEw",
+  "channel_title": "숏쯔",
+  "playlist_items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "QeSfDaGvENbecR9uguV68aGyVao",
+      "id": "VVVWRlNyVWtWMExUemk0YkxJQ1o3U0V3LmNtOUJNRE1iempR",
+      "snippet": {
+        "publishedAt": "2023-01-22T17:57:53Z",
+        "channelId": "UCVFSrUkV0LTzi4bLICZ7SEw",
+        "title": "100불 챌린지 순항중!",
+        "description": "혼자 트레이딩하기 심심해서 시작한 생방입니다 :]",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cm9BMDMbzjQ/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cm9BMDMbzjQ/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cm9BMDMbzjQ/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cm9BMDMbzjQ/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cm9BMDMbzjQ/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "숏쯔",
+        "playlistId": "UUVFSrUkV0LTzi4bLICZ7SEw",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "cm9BMDMbzjQ"
+        },
+        "videoOwnerChannelTitle": "숏쯔",
+        "videoOwnerChannelId": "UCVFSrUkV0LTzi4bLICZ7SEw"
+      },
+      "contentDetails": {
+        "videoId": "cm9BMDMbzjQ",
+        "videoPublishedAt": "2023-01-22T17:57:53Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "video_details": [
+    {
+      "kind": "youtube#video",
+      "etag": "ZZ16pbi-v-_ThgomlciMjpmPglw",
+      "id": "cm9BMDMbzjQ",
+      "snippet": {
+        "publishedAt": "2023-01-22T17:57:53Z",
+        "channelId": "UCVFSrUkV0LTzi4bLICZ7SEw",
+        "title": "100불 챌린지 순항중!",
+        "description": "혼자 트레이딩하기 심심해서 시작한 생방입니다 :]",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cm9BMDMbzjQ/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cm9BMDMbzjQ/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cm9BMDMbzjQ/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cm9BMDMbzjQ/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cm9BMDMbzjQ/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "숏쯔",
+        "tags": [
+          "비트코인",
+          "선물",
+          "코인"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "upcoming",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "100불 챌린지 순항중!",
+          "description": "혼자 트레이딩하기 심심해서 시작한 생방입니다 :]"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "P0D",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "uploaded",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "0",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "100불 챌린지 순항중!",
+          "description": "혼자 트레이딩하기 심심해서 시작한 생방입니다 :]"
+        }
+      }
+    }
+  ]
+}
