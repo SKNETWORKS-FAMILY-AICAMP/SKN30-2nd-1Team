@@ -1,0 +1,429 @@
+{
+  "idx": 2097,
+  "channel_id": "UC_kMmFcxCCMa1alqdOPn2hg",
+  "channel_title": "아영",
+  "playlist_items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "KVScBXzYBRbYeh7JfFfDIZ4-uz4",
+      "id": "VVVfa01tRmN4Q0NNYTFhbHFkT1BuMmhnLmE2eUo4bkVUZmlr",
+      "snippet": {
+        "publishedAt": "2024-03-07T17:00:01Z",
+        "channelId": "UC_kMmFcxCCMa1alqdOPn2hg",
+        "title": "마지막 20대 남기기 #버킷리스트 #shorts",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/a6yJ8nETfik/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/a6yJ8nETfik/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/a6yJ8nETfik/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/a6yJ8nETfik/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/a6yJ8nETfik/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "아영",
+        "playlistId": "UU_kMmFcxCCMa1alqdOPn2hg",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "a6yJ8nETfik"
+        },
+        "videoOwnerChannelTitle": "아영",
+        "videoOwnerChannelId": "UC_kMmFcxCCMa1alqdOPn2hg"
+      },
+      "contentDetails": {
+        "videoId": "a6yJ8nETfik",
+        "videoPublishedAt": "2024-03-07T17:00:01Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "uCbQ9Ps97oCUlzUfp8rfv3pdecY",
+      "id": "VVVfa01tRmN4Q0NNYTFhbHFkT1BuMmhnLjc2X1ZYSHNSa2tZ",
+      "snippet": {
+        "publishedAt": "2024-02-28T15:09:12Z",
+        "channelId": "UC_kMmFcxCCMa1alqdOPn2hg",
+        "title": "최애 립조합 #shorts",
+        "description": "#립조합 #립틴트 #립메이크업 #립추천 #맥 #디보티드칠리 #맥991 #3ce #laydown #레이다운",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/76_VXHsRkkY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/76_VXHsRkkY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/76_VXHsRkkY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/76_VXHsRkkY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/76_VXHsRkkY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "아영",
+        "playlistId": "UU_kMmFcxCCMa1alqdOPn2hg",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "76_VXHsRkkY"
+        },
+        "videoOwnerChannelTitle": "아영",
+        "videoOwnerChannelId": "UC_kMmFcxCCMa1alqdOPn2hg"
+      },
+      "contentDetails": {
+        "videoId": "76_VXHsRkkY",
+        "videoPublishedAt": "2024-02-28T15:09:12Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "C73CglwqOGx2SLHJCOOUBXefFOo",
+      "id": "VVVfa01tRmN4Q0NNYTFhbHFkT1BuMmhnLmdIOGRObDVSdUI0",
+      "snippet": {
+        "publishedAt": "2024-02-25T13:00:36Z",
+        "channelId": "UC_kMmFcxCCMa1alqdOPn2hg",
+        "title": "초보운전이 하는 실수 #shorts",
+        "description": "#초보운전 #초보운전실수 #초보운전탈출 #운전고수 #되고싶다",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gH8dNl5RuB4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gH8dNl5RuB4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gH8dNl5RuB4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gH8dNl5RuB4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gH8dNl5RuB4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "아영",
+        "playlistId": "UU_kMmFcxCCMa1alqdOPn2hg",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "gH8dNl5RuB4"
+        },
+        "videoOwnerChannelTitle": "아영",
+        "videoOwnerChannelId": "UC_kMmFcxCCMa1alqdOPn2hg"
+      },
+      "contentDetails": {
+        "videoId": "gH8dNl5RuB4",
+        "videoPublishedAt": "2024-02-25T13:00:36Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "video_details": [
+    {
+      "kind": "youtube#video",
+      "etag": "t8LvcBOCN1VMU9YkhEFR_zva2ak",
+      "id": "a6yJ8nETfik",
+      "snippet": {
+        "publishedAt": "2024-03-07T17:00:01Z",
+        "channelId": "UC_kMmFcxCCMa1alqdOPn2hg",
+        "title": "마지막 20대 남기기 #버킷리스트 #shorts",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/a6yJ8nETfik/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/a6yJ8nETfik/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/a6yJ8nETfik/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/a6yJ8nETfik/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/a6yJ8nETfik/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "아영",
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "마지막 20대 남기기 #버킷리스트 #shorts",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT25S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "891",
+        "likeCount": "9",
+        "favoriteCount": "0",
+        "commentCount": "2"
+      },
+      "recordingDetails": {
+        "locationDescription": "청담동",
+        "location": {
+          "latitude": 37.5233931,
+          "longitude": 127.0479736,
+          "altitude": 0
+        }
+      },
+      "localizations": {
+        "ko": {
+          "title": "마지막 20대 남기기 #버킷리스트 #shorts",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "cjnDzeuuya3USAPa6r3ihI5QUgc",
+      "id": "76_VXHsRkkY",
+      "snippet": {
+        "publishedAt": "2024-02-28T15:09:12Z",
+        "channelId": "UC_kMmFcxCCMa1alqdOPn2hg",
+        "title": "최애 립조합 #shorts",
+        "description": "#립조합 #립틴트 #립메이크업 #립추천 #맥 #디보티드칠리 #맥991 #3ce #laydown #레이다운",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/76_VXHsRkkY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/76_VXHsRkkY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/76_VXHsRkkY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/76_VXHsRkkY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/76_VXHsRkkY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "아영",
+        "tags": [
+          "립조합",
+          "립추천",
+          "맥디보티드칠리",
+          "3ce",
+          "Laydiwn",
+          "레이다운"
+        ],
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "최애 립조합 #shorts",
+          "description": "#립조합 #립틴트 #립메이크업 #립추천 #맥 #디보티드칠리 #맥991 #3ce #laydown #레이다운"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT27S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "regionRestriction": {
+          "blocked": [
+            "BY",
+            "RU"
+          ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "755",
+        "likeCount": "10",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "최애 립조합 #shorts",
+          "description": "#립조합 #립틴트 #립메이크업 #립추천 #맥 #디보티드칠리 #맥991 #3ce #laydown #레이다운"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "hs-3z4GmbC00VAtHiUW5lyv9QNI",
+      "id": "gH8dNl5RuB4",
+      "snippet": {
+        "publishedAt": "2024-02-25T13:00:36Z",
+        "channelId": "UC_kMmFcxCCMa1alqdOPn2hg",
+        "title": "초보운전이 하는 실수 #shorts",
+        "description": "#초보운전 #초보운전실수 #초보운전탈출 #운전고수 #되고싶다",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gH8dNl5RuB4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gH8dNl5RuB4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gH8dNl5RuB4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gH8dNl5RuB4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gH8dNl5RuB4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "아영",
+        "tags": [
+          "운전",
+          "초보운전",
+          "초보운전실수",
+          "초보운전꿀팁"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "초보운전이 하는 실수 #shorts",
+          "description": "#초보운전 #초보운전실수 #초보운전탈출 #운전고수 #되고싶다"
+        },
+        "defaultAudioLanguage": "es"
+      },
+      "contentDetails": {
+        "duration": "PT7S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "612",
+        "likeCount": "4",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "초보운전이 하는 실수 #shorts",
+          "description": "#초보운전 #초보운전실수 #초보운전탈출 #운전고수 #되고싶다"
+        }
+      }
+    }
+  ]
+}

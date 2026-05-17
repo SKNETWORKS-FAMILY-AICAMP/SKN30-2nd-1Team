@@ -1,0 +1,565 @@
+{
+  "idx": 2417,
+  "channel_id": "UCXDgnhNJuqVXoGeBH_E81Ug",
+  "channel_title": "코붕이",
+  "playlist_items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "WfkxrgO8DQf46hyE7JOUpZ_Z4mQ",
+      "id": "VVVYRGduaE5KdXFWWG9HZUJIX0U4MVVnLmpSelNMREJYUTU0",
+      "snippet": {
+        "publishedAt": "2022-03-25T17:09:12Z",
+        "channelId": "UCXDgnhNJuqVXoGeBH_E81Ug",
+        "title": "【MEXC】 청산없는 선물거래인데 수익률이 선물거래보다 높다고? MEXC ETF 마진 3분만에 정리",
+        "description": "MEXC 코붕이 전용 가입 링크 - https://bit.ly/3Md69Fn\n(※해당 링크로 가입하지 않으면 할인 혜택 불가능※)\n\n\" MEXC 거래소 수수료 최대 할인 \" 과 \" 최대 1000불 선물 지원금 혜택 받기 \"\n\n#MEXC #MEXC ETF마진 #바이낸스 #바이비트 #비트겟",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jRzSLDBXQ54/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jRzSLDBXQ54/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jRzSLDBXQ54/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jRzSLDBXQ54/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jRzSLDBXQ54/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "코붕이",
+        "playlistId": "UUXDgnhNJuqVXoGeBH_E81Ug",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "jRzSLDBXQ54"
+        },
+        "videoOwnerChannelTitle": "코붕이",
+        "videoOwnerChannelId": "UCXDgnhNJuqVXoGeBH_E81Ug"
+      },
+      "contentDetails": {
+        "videoId": "jRzSLDBXQ54",
+        "videoPublishedAt": "2022-03-25T17:09:12Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "DK4Si7Bi0IIZ0lBri9l9XQo1PaE",
+      "id": "VVVYRGduaE5KdXFWWG9HZUJIX0U4MVVnLlQwYy1neVZFUGk4",
+      "snippet": {
+        "publishedAt": "2022-03-24T16:17:26Z",
+        "channelId": "UCXDgnhNJuqVXoGeBH_E81Ug",
+        "title": "【MEXC 선물거래 콘테스트】 총 상금 6000만원 + 테슬라 모델3까지 참가방법, 참가조건, 상금 풀 (등록기간)",
+        "description": "MEXC 코붕이 전용 가입 링크 - https://bit.ly/3Md69Fn\n(※해당 링크로 가입하지 않으면 할인 혜택 불가능※)\n\n\" MEXC 거래소 수수료 최대 할인 \" 과 \" 최대 1000불 선물 지원금 혜택 받기 \"\n\n0:00 인트로\n0:22 참여조건, 등록시간\n0:38 상금 풀\n\nMEXC 가입방법 - https://youtu.be/slFuinAtM-A\n\n#MEXC #MEXC선물거래 #트레이딩대회",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/T0c-gyVEPi8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/T0c-gyVEPi8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/T0c-gyVEPi8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/T0c-gyVEPi8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/T0c-gyVEPi8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "코붕이",
+        "playlistId": "UUXDgnhNJuqVXoGeBH_E81Ug",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "T0c-gyVEPi8"
+        },
+        "videoOwnerChannelTitle": "코붕이",
+        "videoOwnerChannelId": "UCXDgnhNJuqVXoGeBH_E81Ug"
+      },
+      "contentDetails": {
+        "videoId": "T0c-gyVEPi8",
+        "videoPublishedAt": "2022-03-24T16:17:26Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "K1wodD6K7Cylo-O9W7kQo2ZWusA",
+      "id": "VVVYRGduaE5KdXFWWG9HZUJIX0U4MVVnLkp2TmZmd3NWSVJZ",
+      "snippet": {
+        "publishedAt": "2022-03-23T20:16:07Z",
+        "channelId": "UCXDgnhNJuqVXoGeBH_E81Ug",
+        "title": "【MEXC】 2분만에 끝내는 국내거래소에서 MEXC로 입금 가이드",
+        "description": "MEXC 코붕이 전용 가입 링크 - https://bit.ly/3Md69Fn\n(※해당 링크로 가입하지 않으면 할인 혜택 불가능※)\n\n\" MEXC 거래소 수수료 최대 할인 \" 과 \" 최대 1000불 선물 지원금 혜택 받기 \"\n\n0:00 인트로\n0:13 입금방법\n1:11 현물거래\n1:38 선물거래\n\n#MEXC #MEXC입금",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JvNffwsVIRY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JvNffwsVIRY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JvNffwsVIRY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JvNffwsVIRY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JvNffwsVIRY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "코붕이",
+        "playlistId": "UUXDgnhNJuqVXoGeBH_E81Ug",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "JvNffwsVIRY"
+        },
+        "videoOwnerChannelTitle": "코붕이",
+        "videoOwnerChannelId": "UCXDgnhNJuqVXoGeBH_E81Ug"
+      },
+      "contentDetails": {
+        "videoId": "JvNffwsVIRY",
+        "videoPublishedAt": "2022-03-23T20:16:07Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "KK90ZRMNffREJgQCf5NrbwBAGaw",
+      "id": "VVVYRGduaE5KdXFWWG9HZUJIX0U4MVVnLnNsRnVpbkF0TS1B",
+      "snippet": {
+        "publishedAt": "2022-03-20T08:50:37Z",
+        "channelId": "UCXDgnhNJuqVXoGeBH_E81Ug",
+        "title": "【MEXC가입방법】 비트겟? 바이낸스? 2022년 제일 기대되는 한국어 지원 해외 거래소 소개 및 수수료 최대 할인 가입 방법 (+최대 1000불 혜택)",
+        "description": "MEXC 코붕이 전용 가입 링크 - https://bit.ly/3Md69Fn\n(※해당 링크로 가입하지 않으면 할인 혜택 불가능※)\n\n\" MEXC 거래소 수수료 최대 할인 \" 과 \" 최대 1000불 선물 지원금 혜택 받기 \"\n\n※ 본 컨텐츠는 MEXC로부터 소정의 수수료를 지급받고 작성하였습니다. ※\n\n0:00 인트로\n0:35 MEXC 소개\n1:27 MEXC 가입방법\n\n#MEXC #MEXC가입방법 #코인선물거래소추천",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/slFuinAtM-A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/slFuinAtM-A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/slFuinAtM-A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/slFuinAtM-A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/slFuinAtM-A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "코붕이",
+        "playlistId": "UUXDgnhNJuqVXoGeBH_E81Ug",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "slFuinAtM-A"
+        },
+        "videoOwnerChannelTitle": "코붕이",
+        "videoOwnerChannelId": "UCXDgnhNJuqVXoGeBH_E81Ug"
+      },
+      "contentDetails": {
+        "videoId": "slFuinAtM-A",
+        "videoPublishedAt": "2022-03-20T08:50:37Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "video_details": [
+    {
+      "kind": "youtube#video",
+      "etag": "IoKQJSSZTTwjwTJ7n3zDo6F49vY",
+      "id": "jRzSLDBXQ54",
+      "snippet": {
+        "publishedAt": "2022-03-25T17:09:12Z",
+        "channelId": "UCXDgnhNJuqVXoGeBH_E81Ug",
+        "title": "【MEXC】 청산없는 선물거래인데 수익률이 선물거래보다 높다고? MEXC ETF 마진 3분만에 정리",
+        "description": "MEXC 코붕이 전용 가입 링크 - https://bit.ly/3Md69Fn\n(※해당 링크로 가입하지 않으면 할인 혜택 불가능※)\n\n\" MEXC 거래소 수수료 최대 할인 \" 과 \" 최대 1000불 선물 지원금 혜택 받기 \"\n\n#MEXC #MEXC ETF마진 #바이낸스 #바이비트 #비트겟",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jRzSLDBXQ54/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jRzSLDBXQ54/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jRzSLDBXQ54/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jRzSLDBXQ54/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jRzSLDBXQ54/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "코붕이",
+        "tags": [
+          "MEXC",
+          "바이낸스",
+          "비트겟",
+          "바이비트",
+          "트래블룰",
+          "ETF마진"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "【MEXC】 청산없는 선물거래인데 수익률이 선물거래보다 높다고? MEXC ETF 마진 3분만에 정리",
+          "description": "MEXC 코붕이 전용 가입 링크 - https://bit.ly/3Md69Fn\n(※해당 링크로 가입하지 않으면 할인 혜택 불가능※)\n\n\" MEXC 거래소 수수료 최대 할인 \" 과 \" 최대 1000불 선물 지원금 혜택 받기 \"\n\n#MEXC #MEXC ETF마진 #바이낸스 #바이비트 #비트겟"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT2M47S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "2697",
+        "likeCount": "31",
+        "favoriteCount": "0",
+        "commentCount": "45"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "【MEXC】 청산없는 선물거래인데 수익률이 선물거래보다 높다고? MEXC ETF 마진 3분만에 정리",
+          "description": "MEXC 코붕이 전용 가입 링크 - https://bit.ly/3Md69Fn\n(※해당 링크로 가입하지 않으면 할인 혜택 불가능※)\n\n\" MEXC 거래소 수수료 최대 할인 \" 과 \" 최대 1000불 선물 지원금 혜택 받기 \"\n\n#MEXC #MEXC ETF마진 #바이낸스 #바이비트 #비트겟"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "tV2irut2YwsGuvRnp-wQMG-tk44",
+      "id": "T0c-gyVEPi8",
+      "snippet": {
+        "publishedAt": "2022-03-24T16:17:26Z",
+        "channelId": "UCXDgnhNJuqVXoGeBH_E81Ug",
+        "title": "【MEXC 선물거래 콘테스트】 총 상금 6000만원 + 테슬라 모델3까지 참가방법, 참가조건, 상금 풀 (등록기간)",
+        "description": "MEXC 코붕이 전용 가입 링크 - https://bit.ly/3Md69Fn\n(※해당 링크로 가입하지 않으면 할인 혜택 불가능※)\n\n\" MEXC 거래소 수수료 최대 할인 \" 과 \" 최대 1000불 선물 지원금 혜택 받기 \"\n\n0:00 인트로\n0:22 참여조건, 등록시간\n0:38 상금 풀\n\nMEXC 가입방법 - https://youtu.be/slFuinAtM-A\n\n#MEXC #MEXC선물거래 #트레이딩대회",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/T0c-gyVEPi8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/T0c-gyVEPi8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/T0c-gyVEPi8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/T0c-gyVEPi8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/T0c-gyVEPi8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "코붕이",
+        "tags": [
+          "MEXC",
+          "트레이딩 대회",
+          "선물거래",
+          "MEXC 선물"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "【MEXC 선물거래 콘테스트】 총 상금 6000만원 + 테슬라 모델3까지 참가방법, 참가조건, 상금 풀 (등록기간)",
+          "description": "MEXC 코붕이 전용 가입 링크 - https://bit.ly/3Md69Fn\n(※해당 링크로 가입하지 않으면 할인 혜택 불가능※)\n\n\" MEXC 거래소 수수료 최대 할인 \" 과 \" 최대 1000불 선물 지원금 혜택 받기 \"\n\n0:00 인트로\n0:22 참여조건, 등록시간\n0:38 상금 풀\n\nMEXC 가입방법 - https://youtu.be/slFuinAtM-A\n\n#MEXC #MEXC선물거래 #트레이딩대회"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT1M25S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "297",
+        "likeCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "【MEXC 선물거래 콘테스트】 총 상금 6000만원 + 테슬라 모델3까지 참가방법, 참가조건, 상금 풀 (등록기간)",
+          "description": "MEXC 코붕이 전용 가입 링크 - https://bit.ly/3Md69Fn\n(※해당 링크로 가입하지 않으면 할인 혜택 불가능※)\n\n\" MEXC 거래소 수수료 최대 할인 \" 과 \" 최대 1000불 선물 지원금 혜택 받기 \"\n\n0:00 인트로\n0:22 참여조건, 등록시간\n0:38 상금 풀\n\nMEXC 가입방법 - https://youtu.be/slFuinAtM-A\n\n#MEXC #MEXC선물거래 #트레이딩대회"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "x8NgSN7WfHd8ywGl-m4PYvAK27c",
+      "id": "JvNffwsVIRY",
+      "snippet": {
+        "publishedAt": "2022-03-23T20:16:07Z",
+        "channelId": "UCXDgnhNJuqVXoGeBH_E81Ug",
+        "title": "【MEXC】 2분만에 끝내는 국내거래소에서 MEXC로 입금 가이드",
+        "description": "MEXC 코붕이 전용 가입 링크 - https://bit.ly/3Md69Fn\n(※해당 링크로 가입하지 않으면 할인 혜택 불가능※)\n\n\" MEXC 거래소 수수료 최대 할인 \" 과 \" 최대 1000불 선물 지원금 혜택 받기 \"\n\n0:00 인트로\n0:13 입금방법\n1:11 현물거래\n1:38 선물거래\n\n#MEXC #MEXC입금",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JvNffwsVIRY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JvNffwsVIRY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JvNffwsVIRY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JvNffwsVIRY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JvNffwsVIRY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "코붕이",
+        "tags": [
+          "MEXC",
+          "바이낸스",
+          "비트겟",
+          "바이비트",
+          "선물거래소 입금방법",
+          "트래블룰"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "【MEXC】 2분만에 끝내는 국내거래소에서 MEXC로 입금 가이드",
+          "description": "MEXC 코붕이 전용 가입 링크 - https://bit.ly/3Md69Fn\n(※해당 링크로 가입하지 않으면 할인 혜택 불가능※)\n\n\" MEXC 거래소 수수료 최대 할인 \" 과 \" 최대 1000불 선물 지원금 혜택 받기 \"\n\n0:00 인트로\n0:13 입금방법\n1:11 현물거래\n1:38 선물거래\n\n#MEXC #MEXC입금"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT2M19S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "555",
+        "likeCount": "3",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "【MEXC】 2분만에 끝내는 국내거래소에서 MEXC로 입금 가이드",
+          "description": "MEXC 코붕이 전용 가입 링크 - https://bit.ly/3Md69Fn\n(※해당 링크로 가입하지 않으면 할인 혜택 불가능※)\n\n\" MEXC 거래소 수수료 최대 할인 \" 과 \" 최대 1000불 선물 지원금 혜택 받기 \"\n\n0:00 인트로\n0:13 입금방법\n1:11 현물거래\n1:38 선물거래\n\n#MEXC #MEXC입금"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "h8axWxph3FXQKLG7FPFfvo41LX4",
+      "id": "slFuinAtM-A",
+      "snippet": {
+        "publishedAt": "2022-03-20T08:50:37Z",
+        "channelId": "UCXDgnhNJuqVXoGeBH_E81Ug",
+        "title": "【MEXC가입방법】 비트겟? 바이낸스? 2022년 제일 기대되는 한국어 지원 해외 거래소 소개 및 수수료 최대 할인 가입 방법 (+최대 1000불 혜택)",
+        "description": "MEXC 코붕이 전용 가입 링크 - https://bit.ly/3Md69Fn\n(※해당 링크로 가입하지 않으면 할인 혜택 불가능※)\n\n\" MEXC 거래소 수수료 최대 할인 \" 과 \" 최대 1000불 선물 지원금 혜택 받기 \"\n\n※ 본 컨텐츠는 MEXC로부터 소정의 수수료를 지급받고 작성하였습니다. ※\n\n0:00 인트로\n0:35 MEXC 소개\n1:27 MEXC 가입방법\n\n#MEXC #MEXC가입방법 #코인선물거래소추천",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/slFuinAtM-A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/slFuinAtM-A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/slFuinAtM-A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/slFuinAtM-A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/slFuinAtM-A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "코붕이",
+        "tags": [
+          "MEXC",
+          "코인 선물",
+          "비트겟",
+          "바이낸스",
+          "바이비트",
+          "선물거래소 추천",
+          "MEXC 가입",
+          "MEXC 가입방법"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "【MEXC가입방법】 비트겟? 바이낸스? 2022년 제일 기대되는 한국어 지원 해외 거래소 소개 및 수수료 최대 할인 가입 방법 (+최대 1000불 혜택)",
+          "description": "MEXC 코붕이 전용 가입 링크 - https://bit.ly/3Md69Fn\n(※해당 링크로 가입하지 않으면 할인 혜택 불가능※)\n\n\" MEXC 거래소 수수료 최대 할인 \" 과 \" 최대 1000불 선물 지원금 혜택 받기 \"\n\n※ 본 컨텐츠는 MEXC로부터 소정의 수수료를 지급받고 작성하였습니다. ※\n\n0:00 인트로\n0:35 MEXC 소개\n1:27 MEXC 가입방법\n\n#MEXC #MEXC가입방법 #코인선물거래소추천"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT2M18S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "5531",
+        "likeCount": "407",
+        "favoriteCount": "0",
+        "commentCount": "4"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "【MEXC가입방법】 비트겟? 바이낸스? 2022년 제일 기대되는 한국어 지원 해외 거래소 소개 및 수수료 최대 할인 가입 방법 (+최대 1000불 혜택)",
+          "description": "MEXC 코붕이 전용 가입 링크 - https://bit.ly/3Md69Fn\n(※해당 링크로 가입하지 않으면 할인 혜택 불가능※)\n\n\" MEXC 거래소 수수료 최대 할인 \" 과 \" 최대 1000불 선물 지원금 혜택 받기 \"\n\n※ 본 컨텐츠는 MEXC로부터 소정의 수수료를 지급받고 작성하였습니다. ※\n\n0:00 인트로\n0:35 MEXC 소개\n1:27 MEXC 가입방법\n\n#MEXC #MEXC가입방법 #코인선물거래소추천"
+        }
+      }
+    }
+  ]
+}

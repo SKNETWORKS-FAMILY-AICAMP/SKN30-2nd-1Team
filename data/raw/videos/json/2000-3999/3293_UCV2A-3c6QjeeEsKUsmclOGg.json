@@ -1,0 +1,390 @@
+{
+  "idx": 3293,
+  "channel_id": "UCV2A-3c6QjeeEsKUsmclOGg",
+  "channel_title": "최마태의 노잼일기장",
+  "playlist_items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "LO95VrCkshFvd_G2lSc39JCs2pI",
+      "id": "VVVWMkEtM2M2UWplZUVzS1VzbWNsT0dnLm5qbHd6eVhSUmFN",
+      "snippet": {
+        "publishedAt": "2020-12-12T17:11:16Z",
+        "channelId": "UCV2A-3c6QjeeEsKUsmclOGg",
+        "title": "일하기 싫을 때 보는 영상",
+        "description": "일하기 싫으면 이 춤을 추세요.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/njlwzyXRRaM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/njlwzyXRRaM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/njlwzyXRRaM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/njlwzyXRRaM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "최마태의 노잼일기장",
+        "playlistId": "UUV2A-3c6QjeeEsKUsmclOGg",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "njlwzyXRRaM"
+        },
+        "videoOwnerChannelTitle": "최마태의 노잼일기장",
+        "videoOwnerChannelId": "UCV2A-3c6QjeeEsKUsmclOGg"
+      },
+      "contentDetails": {
+        "videoId": "njlwzyXRRaM",
+        "videoPublishedAt": "2020-12-12T17:11:16Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "xrCZcZ1fu1zl8KKCv2pBQu4pCEI",
+      "id": "VVVWMkEtM2M2UWplZUVzS1VzbWNsT0dnLktpeEtrMjRnMVJR",
+      "snippet": {
+        "publishedAt": "2017-05-12T13:22:59Z",
+        "channelId": "UCV2A-3c6QjeeEsKUsmclOGg",
+        "title": "doorstonegg(이)가 PS4에서 방송",
+        "description": "최마태의 노잼 일기장입니다",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KixKk24g1RQ/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KixKk24g1RQ/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KixKk24g1RQ/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KixKk24g1RQ/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "최마태의 노잼일기장",
+        "playlistId": "UUV2A-3c6QjeeEsKUsmclOGg",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KixKk24g1RQ"
+        },
+        "videoOwnerChannelTitle": "최마태의 노잼일기장",
+        "videoOwnerChannelId": "UCV2A-3c6QjeeEsKUsmclOGg"
+      },
+      "contentDetails": {
+        "videoId": "KixKk24g1RQ",
+        "videoPublishedAt": "2017-05-12T13:22:59Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "lKp0eC9OKehhA7kLgK3VGXGcGRg",
+      "id": "VVVWMkEtM2M2UWplZUVzS1VzbWNsT0dnLmV5SkM4dU1wWldv",
+      "snippet": {
+        "publishedAt": "2017-05-12T13:21:33Z",
+        "channelId": "UCV2A-3c6QjeeEsKUsmclOGg",
+        "title": "할거 없이 그냥 gta5",
+        "description": "노잼입니다 ㅎㅎ",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eyJC8uMpZWo/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eyJC8uMpZWo/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eyJC8uMpZWo/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eyJC8uMpZWo/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "최마태의 노잼일기장",
+        "playlistId": "UUV2A-3c6QjeeEsKUsmclOGg",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "eyJC8uMpZWo"
+        },
+        "videoOwnerChannelTitle": "최마태의 노잼일기장",
+        "videoOwnerChannelId": "UCV2A-3c6QjeeEsKUsmclOGg"
+      },
+      "contentDetails": {
+        "videoId": "eyJC8uMpZWo",
+        "videoPublishedAt": "2017-05-12T13:21:33Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "video_details": [
+    {
+      "kind": "youtube#video",
+      "etag": "KgW19CCqon27U6tkrXKyiD5jlns",
+      "id": "njlwzyXRRaM",
+      "snippet": {
+        "publishedAt": "2020-12-12T17:11:16Z",
+        "channelId": "UCV2A-3c6QjeeEsKUsmclOGg",
+        "title": "일하기 싫을 때 보는 영상",
+        "description": "일하기 싫으면 이 춤을 추세요.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/njlwzyXRRaM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/njlwzyXRRaM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/njlwzyXRRaM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/njlwzyXRRaM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "최마태의 노잼일기장",
+        "tags": [
+          "마태",
+          "일하기 싫어",
+          "일 안해",
+          "미도",
+          "나는미도",
+          "주현",
+          "리플",
+          "인수",
+          "이인수",
+          "일하기 싫을 때"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "일하기 싫을 때 보는 영상",
+          "description": "일하기 싫으면 이 춤을 추세요."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT31S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "38826",
+        "likeCount": "614",
+        "favoriteCount": "0",
+        "commentCount": "116"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "일하기 싫을 때 보는 영상",
+          "description": "일하기 싫으면 이 춤을 추세요."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "6U4O1-ywMWjUGRVZO0leCAVzrXs",
+      "id": "KixKk24g1RQ",
+      "snippet": {
+        "publishedAt": "2017-05-12T13:22:59Z",
+        "channelId": "UCV2A-3c6QjeeEsKUsmclOGg",
+        "title": "doorstonegg(이)가 PS4에서 방송",
+        "description": "최마태의 노잼 일기장입니다",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KixKk24g1RQ/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KixKk24g1RQ/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KixKk24g1RQ/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KixKk24g1RQ/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "최마태의 노잼일기장",
+        "tags": [
+          "#PS4Live",
+          "PlayStation 4",
+          "Sony Interactive Entertainment",
+          "Grand Theft Auto V"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "upcoming",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "doorstonegg(이)가 PS4에서 방송",
+          "description": "최마태의 노잼 일기장입니다"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "P0D",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "uploaded",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "0",
+        "likeCount": "1",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "doorstonegg(이)가 PS4에서 방송",
+          "description": "최마태의 노잼 일기장입니다"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "xXPLxEvSl48puIPOQC48mJkXMwY",
+      "id": "eyJC8uMpZWo",
+      "snippet": {
+        "publishedAt": "2017-05-12T13:21:33Z",
+        "channelId": "UCV2A-3c6QjeeEsKUsmclOGg",
+        "title": "할거 없이 그냥 gta5",
+        "description": "노잼입니다 ㅎㅎ",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eyJC8uMpZWo/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eyJC8uMpZWo/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eyJC8uMpZWo/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eyJC8uMpZWo/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "최마태의 노잼일기장",
+        "categoryId": "24",
+        "liveBroadcastContent": "upcoming",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "할거 없이 그냥 gta5",
+          "description": "노잼입니다 ㅎㅎ"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "P0D",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "uploaded",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "0",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "할거 없이 그냥 gta5",
+          "description": "노잼입니다 ㅎㅎ"
+        }
+      }
+    }
+  ]
+}

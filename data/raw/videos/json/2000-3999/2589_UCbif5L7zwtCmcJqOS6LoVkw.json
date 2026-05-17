@@ -1,0 +1,271 @@
+{
+  "idx": 2589,
+  "channel_id": "UCbif5L7zwtCmcJqOS6LoVkw",
+  "channel_title": "K남미",
+  "playlist_items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "HGO0UKwGHT6bOqYDOa7JlMBNPwM",
+      "id": "VVViaWY1TDd6d3RDbWNKcU9TNkxvVmt3Lk8tX3pFZ25DNDFZ",
+      "snippet": {
+        "publishedAt": "2023-12-27T02:06:40Z",
+        "channelId": "UCbif5L7zwtCmcJqOS6LoVkw",
+        "title": "이제 작별 인사를 하려 합니다...",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/O-_zEgnC41Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/O-_zEgnC41Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/O-_zEgnC41Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/O-_zEgnC41Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/O-_zEgnC41Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "K남미",
+        "playlistId": "UUbif5L7zwtCmcJqOS6LoVkw",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "O-_zEgnC41Y"
+        },
+        "videoOwnerChannelTitle": "K남미",
+        "videoOwnerChannelId": "UCbif5L7zwtCmcJqOS6LoVkw"
+      },
+      "contentDetails": {
+        "videoId": "O-_zEgnC41Y",
+        "videoPublishedAt": "2023-12-27T02:06:40Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "wJy38Kg8WK89cinlOLQGtbedX6k",
+      "id": "VVViaWY1TDd6d3RDbWNKcU9TNkxvVmt3LmJBWHRBWFJwV2dR",
+      "snippet": {
+        "publishedAt": "2023-12-26T12:06:00Z",
+        "channelId": "UCbif5L7zwtCmcJqOS6LoVkw",
+        "title": "이제 작별인사를 하려 합니다.",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bAXtAXRpWgQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bAXtAXRpWgQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bAXtAXRpWgQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bAXtAXRpWgQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bAXtAXRpWgQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "K남미",
+        "playlistId": "UUbif5L7zwtCmcJqOS6LoVkw",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "bAXtAXRpWgQ"
+        },
+        "videoOwnerChannelTitle": "K남미",
+        "videoOwnerChannelId": "UCbif5L7zwtCmcJqOS6LoVkw"
+      },
+      "contentDetails": {
+        "videoId": "bAXtAXRpWgQ",
+        "videoPublishedAt": "2023-12-26T12:06:00Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "video_details": [
+    {
+      "kind": "youtube#video",
+      "etag": "YbzmzTLRp5Ea1b1rlA9X2o2dCDc",
+      "id": "O-_zEgnC41Y",
+      "snippet": {
+        "publishedAt": "2023-12-27T02:06:40Z",
+        "channelId": "UCbif5L7zwtCmcJqOS6LoVkw",
+        "title": "이제 작별 인사를 하려 합니다...",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/O-_zEgnC41Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/O-_zEgnC41Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/O-_zEgnC41Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/O-_zEgnC41Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/O-_zEgnC41Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "K남미",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "이제 작별 인사를 하려 합니다...",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT1H37M9S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1483",
+        "likeCount": "13",
+        "favoriteCount": "0",
+        "commentCount": "7"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "이제 작별 인사를 하려 합니다...",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "uVftzEptD6JOs4_WZRH1aj96H1o",
+      "id": "bAXtAXRpWgQ",
+      "snippet": {
+        "publishedAt": "2023-12-26T12:06:00Z",
+        "channelId": "UCbif5L7zwtCmcJqOS6LoVkw",
+        "title": "이제 작별인사를 하려 합니다.",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bAXtAXRpWgQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bAXtAXRpWgQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bAXtAXRpWgQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bAXtAXRpWgQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bAXtAXRpWgQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "K남미",
+        "categoryId": "19",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "이제 작별인사를 하려 합니다.",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT4M54S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": true
+      },
+      "statistics": {
+        "viewCount": "714",
+        "likeCount": "5",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "이제 작별인사를 하려 합니다.",
+          "description": ""
+        }
+      }
+    }
+  ]
+}

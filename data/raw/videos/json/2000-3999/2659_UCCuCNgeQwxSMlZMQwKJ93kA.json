@@ -1,0 +1,679 @@
+{
+  "idx": 2659,
+  "channel_id": "UCCuCNgeQwxSMlZMQwKJ93kA",
+  "channel_title": "구엑샤",
+  "playlist_items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ob7Ii1jaesOhhJToDgXyTWxETFQ",
+      "id": "VVVDdUNOZ2VRd3hTTWxaTVF3S0o5M2tBLmhYNW1ZRDlqaUIw",
+      "snippet": {
+        "publishedAt": "2023-06-11T05:14:49Z",
+        "channelId": "UCCuCNgeQwxSMlZMQwKJ93kA",
+        "title": "채널 이전 공지",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hX5mYD9jiB0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hX5mYD9jiB0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hX5mYD9jiB0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hX5mYD9jiB0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hX5mYD9jiB0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "구엑샤",
+        "playlistId": "UUCuCNgeQwxSMlZMQwKJ93kA",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hX5mYD9jiB0"
+        },
+        "videoOwnerChannelTitle": "구엑샤",
+        "videoOwnerChannelId": "UCCuCNgeQwxSMlZMQwKJ93kA"
+      },
+      "contentDetails": {
+        "videoId": "hX5mYD9jiB0",
+        "videoPublishedAt": "2023-06-11T05:14:49Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zADyzsPbBXsIi1WgZeQblkuwPBg",
+      "id": "VVVDdUNOZ2VRd3hTTWxaTVF3S0o5M2tBLlZJLXlsZDBFRkVN",
+      "snippet": {
+        "publishedAt": "2022-11-19T06:47:24Z",
+        "channelId": "UCCuCNgeQwxSMlZMQwKJ93kA",
+        "title": "나는 좀 더 밖에 있고 싶다 주인",
+        "description": "#Shorts #에엑샤",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VI-yld0EFEM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VI-yld0EFEM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VI-yld0EFEM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VI-yld0EFEM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VI-yld0EFEM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "구엑샤",
+        "playlistId": "UUCuCNgeQwxSMlZMQwKJ93kA",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VI-yld0EFEM"
+        },
+        "videoOwnerChannelTitle": "구엑샤",
+        "videoOwnerChannelId": "UCCuCNgeQwxSMlZMQwKJ93kA"
+      },
+      "contentDetails": {
+        "videoId": "VI-yld0EFEM",
+        "videoPublishedAt": "2022-11-19T06:47:24Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "dJ0-GsDOydJneXxaKhOuYWBSKdU",
+      "id": "VVVDdUNOZ2VRd3hTTWxaTVF3S0o5M2tBLl9LdGlqU2kwZ1dN",
+      "snippet": {
+        "publishedAt": "2022-10-26T13:22:21Z",
+        "channelId": "UCCuCNgeQwxSMlZMQwKJ93kA",
+        "title": "날 좀 더 쓰다듬어라 주인",
+        "description": "#Shorts #에엑샤",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_KtijSi0gWM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_KtijSi0gWM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_KtijSi0gWM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_KtijSi0gWM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_KtijSi0gWM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "구엑샤",
+        "playlistId": "UUCuCNgeQwxSMlZMQwKJ93kA",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_KtijSi0gWM"
+        },
+        "videoOwnerChannelTitle": "구엑샤",
+        "videoOwnerChannelId": "UCCuCNgeQwxSMlZMQwKJ93kA"
+      },
+      "contentDetails": {
+        "videoId": "_KtijSi0gWM",
+        "videoPublishedAt": "2022-10-26T13:22:21Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "BVUBW5iix4wesxuvFtc7YFdAiq4",
+      "id": "VVVDdUNOZ2VRd3hTTWxaTVF3S0o5M2tBLjRPNVItLTBNQmpj",
+      "snippet": {
+        "publishedAt": "2021-07-28T02:26:07Z",
+        "channelId": "UCCuCNgeQwxSMlZMQwKJ93kA",
+        "title": "내 삶의 마약",
+        "description": "#Shorts #에엑샤\n고카인",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4O5R--0MBjc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4O5R--0MBjc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4O5R--0MBjc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4O5R--0MBjc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4O5R--0MBjc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "구엑샤",
+        "playlistId": "UUCuCNgeQwxSMlZMQwKJ93kA",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4O5R--0MBjc"
+        },
+        "videoOwnerChannelTitle": "구엑샤",
+        "videoOwnerChannelId": "UCCuCNgeQwxSMlZMQwKJ93kA"
+      },
+      "contentDetails": {
+        "videoId": "4O5R--0MBjc",
+        "videoPublishedAt": "2021-07-28T02:26:07Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "UdZHE2VaEjs8LMgx6R_cdRr66og",
+      "id": "VVVDdUNOZ2VRd3hTTWxaTVF3S0o5M2tBLjBmbTA1RW9nb21v",
+      "snippet": {
+        "publishedAt": "2021-06-14T04:15:58Z",
+        "channelId": "UCCuCNgeQwxSMlZMQwKJ93kA",
+        "title": "트위치 14일 정지 먹음",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0fm05Eogomo/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0fm05Eogomo/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0fm05Eogomo/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0fm05Eogomo/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0fm05Eogomo/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "구엑샤",
+        "playlistId": "UUCuCNgeQwxSMlZMQwKJ93kA",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0fm05Eogomo"
+        },
+        "videoOwnerChannelTitle": "구엑샤",
+        "videoOwnerChannelId": "UCCuCNgeQwxSMlZMQwKJ93kA"
+      },
+      "contentDetails": {
+        "videoId": "0fm05Eogomo",
+        "videoPublishedAt": "2021-06-14T04:15:58Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "video_details": [
+    {
+      "kind": "youtube#video",
+      "etag": "emUrFKT_oNhBvdOwKuX83rByXIQ",
+      "id": "hX5mYD9jiB0",
+      "snippet": {
+        "publishedAt": "2023-06-11T05:14:49Z",
+        "channelId": "UCCuCNgeQwxSMlZMQwKJ93kA",
+        "title": "채널 이전 공지",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hX5mYD9jiB0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hX5mYD9jiB0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hX5mYD9jiB0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hX5mYD9jiB0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hX5mYD9jiB0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "구엑샤",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "채널 이전 공지",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT2S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": false,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "22929",
+        "likeCount": "72",
+        "favoriteCount": "0",
+        "commentCount": "41"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "채널 이전 공지",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "FxIVsj7NwJh7swNN9jx6VCLle00",
+      "id": "VI-yld0EFEM",
+      "snippet": {
+        "publishedAt": "2022-11-19T06:47:24Z",
+        "channelId": "UCCuCNgeQwxSMlZMQwKJ93kA",
+        "title": "나는 좀 더 밖에 있고 싶다 주인",
+        "description": "#Shorts #에엑샤",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VI-yld0EFEM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VI-yld0EFEM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VI-yld0EFEM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VI-yld0EFEM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VI-yld0EFEM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "구엑샤",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "나는 좀 더 밖에 있고 싶다 주인",
+          "description": "#Shorts #에엑샤"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT9S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "9151",
+        "likeCount": "370",
+        "favoriteCount": "0",
+        "commentCount": "23"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Pet"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "나는 좀 더 밖에 있고 싶다 주인",
+          "description": "#Shorts #에엑샤"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "5sKfnZQ7rAsrIMb9Jt4Bx4LZ4w4",
+      "id": "_KtijSi0gWM",
+      "snippet": {
+        "publishedAt": "2022-10-26T13:22:21Z",
+        "channelId": "UCCuCNgeQwxSMlZMQwKJ93kA",
+        "title": "날 좀 더 쓰다듬어라 주인",
+        "description": "#Shorts #에엑샤",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_KtijSi0gWM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_KtijSi0gWM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_KtijSi0gWM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_KtijSi0gWM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_KtijSi0gWM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "구엑샤",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "날 좀 더 쓰다듬어라 주인",
+          "description": "#Shorts #에엑샤"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT16S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "10137",
+        "likeCount": "451",
+        "favoriteCount": "0",
+        "commentCount": "34"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Pet"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "날 좀 더 쓰다듬어라 주인",
+          "description": "#Shorts #에엑샤"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ir-9YS5oaunZxd5QsnD6uC5R8e8",
+      "id": "4O5R--0MBjc",
+      "snippet": {
+        "publishedAt": "2021-07-28T02:26:07Z",
+        "channelId": "UCCuCNgeQwxSMlZMQwKJ93kA",
+        "title": "내 삶의 마약",
+        "description": "#Shorts #에엑샤\n고카인",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4O5R--0MBjc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4O5R--0MBjc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4O5R--0MBjc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4O5R--0MBjc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4O5R--0MBjc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "구엑샤",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "내 삶의 마약",
+          "description": "#Shorts #에엑샤\n고카인"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT10S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "14240",
+        "likeCount": "438",
+        "favoriteCount": "0",
+        "commentCount": "55"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Pet"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "내 삶의 마약",
+          "description": "#Shorts #에엑샤\n고카인"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "7MMtYXMdXJ7hZsRrfCl0rFZ8wdE",
+      "id": "0fm05Eogomo",
+      "snippet": {
+        "publishedAt": "2021-06-14T04:15:58Z",
+        "channelId": "UCCuCNgeQwxSMlZMQwKJ93kA",
+        "title": "트위치 14일 정지 먹음",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0fm05Eogomo/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0fm05Eogomo/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0fm05Eogomo/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0fm05Eogomo/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0fm05Eogomo/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "구엑샤",
+        "categoryId": "20",
+        "liveBroadcastContent": "upcoming",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "트위치 14일 정지 먹음",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "P0D",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "uploaded",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "0",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "트위치 14일 정지 먹음",
+          "description": ""
+        }
+      }
+    }
+  ]
+}

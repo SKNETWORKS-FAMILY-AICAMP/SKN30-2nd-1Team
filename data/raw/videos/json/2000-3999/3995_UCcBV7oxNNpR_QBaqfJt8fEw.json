@@ -1,0 +1,294 @@
+{
+  "idx": 3995,
+  "channel_id": "UCcBV7oxNNpR_QBaqfJt8fEw",
+  "channel_title": "다람이",
+  "playlist_items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "UkAV4bhdUrmBqUWL43YVLtZAI9A",
+      "id": "VVVjQlY3b3hOTnBSX1FCYXFmSnQ4ZkV3Ljc5a1lYeWkxRXhB",
+      "snippet": {
+        "publishedAt": "2020-08-29T15:12:29Z",
+        "channelId": "UCcBV7oxNNpR_QBaqfJt8fEw",
+        "title": "다람이님의 실시간 스트림",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/79kYXyi1ExA/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/79kYXyi1ExA/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/79kYXyi1ExA/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/79kYXyi1ExA/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/79kYXyi1ExA/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "다람이",
+        "playlistId": "UUcBV7oxNNpR_QBaqfJt8fEw",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "79kYXyi1ExA"
+        },
+        "videoOwnerChannelTitle": "다람이",
+        "videoOwnerChannelId": "UCcBV7oxNNpR_QBaqfJt8fEw"
+      },
+      "contentDetails": {
+        "videoId": "79kYXyi1ExA",
+        "videoPublishedAt": "2020-08-29T15:12:29Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4JjNYppSJajMqvXSUfXDbYKAgVA",
+      "id": "VVVjQlY3b3hOTnBSX1FCYXFmSnQ4ZkV3LnF1QnozNmVlSHVV",
+      "snippet": {
+        "publishedAt": "2019-09-20T12:14:45Z",
+        "channelId": "UCcBV7oxNNpR_QBaqfJt8fEw",
+        "title": "Korean girl gets Thai makeup",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/quBz36eeHuU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/quBz36eeHuU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/quBz36eeHuU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/quBz36eeHuU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/quBz36eeHuU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "다람이",
+        "playlistId": "UUcBV7oxNNpR_QBaqfJt8fEw",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "quBz36eeHuU"
+        },
+        "videoOwnerChannelTitle": "다람이",
+        "videoOwnerChannelId": "UCcBV7oxNNpR_QBaqfJt8fEw"
+      },
+      "contentDetails": {
+        "videoId": "quBz36eeHuU",
+        "videoPublishedAt": "2019-09-20T12:14:45Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "video_details": [
+    {
+      "kind": "youtube#video",
+      "etag": "GZfVhrOz3dct9emodqdWuYi_kOE",
+      "id": "79kYXyi1ExA",
+      "snippet": {
+        "publishedAt": "2020-08-29T15:12:29Z",
+        "channelId": "UCcBV7oxNNpR_QBaqfJt8fEw",
+        "title": "다람이님의 실시간 스트림",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/79kYXyi1ExA/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/79kYXyi1ExA/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/79kYXyi1ExA/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/79kYXyi1ExA/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/79kYXyi1ExA/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "다람이",
+        "tags": [
+          "권혁정"
+        ],
+        "categoryId": "26",
+        "liveBroadcastContent": "upcoming",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "다람이님의 실시간 스트림",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "P0D",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "uploaded",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "0",
+        "likeCount": "2",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "다람이님의 실시간 스트림",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "8OptNcb0uSz_kq55V6EfcM2m-u0",
+      "id": "quBz36eeHuU",
+      "snippet": {
+        "publishedAt": "2019-09-20T12:14:45Z",
+        "channelId": "UCcBV7oxNNpR_QBaqfJt8fEw",
+        "title": "Korean girl gets Thai makeup",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/quBz36eeHuU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/quBz36eeHuU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/quBz36eeHuU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/quBz36eeHuU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/quBz36eeHuU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "다람이",
+        "tags": [
+          "권혁정",
+          "makeup",
+          "태국",
+          "thailand",
+          "yt:cc=on"
+        ],
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Korean girl gets Thai makeup",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT8M55S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "810356",
+        "likeCount": "13327",
+        "favoriteCount": "0",
+        "commentCount": "1192"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "한국인이 태국 현지 메이크업 받으면 생기는 일",
+          "description": ""
+        },
+        "th": {
+          "title": "สาวเกาหลีแต่งหน้าแบบไทย",
+          "description": ""
+        },
+        "en": {
+          "title": "Korean girl gets Thai makeup",
+          "description": ""
+        }
+      }
+    }
+  ]
+}

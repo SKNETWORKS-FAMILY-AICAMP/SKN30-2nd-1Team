@@ -1,0 +1,285 @@
+{
+  "idx": 2283,
+  "channel_id": "UCR43XXEm8WgV31MIf6CcDVg",
+  "channel_title": "시리즈1",
+  "playlist_items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Enpe4zxIGqvNOA-qmbdvzgIwZ5k",
+      "id": "VVVSNDNYWEVtOFdnVjMxTUlmNkNjRFZnLmVNRFRsMmUycDhB",
+      "snippet": {
+        "publishedAt": "2016-10-24T09:35:30Z",
+        "channelId": "UCR43XXEm8WgV31MIf6CcDVg",
+        "title": "백수유튜브님의 실시간 스트리밍",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eMDTl2e2p8A/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eMDTl2e2p8A/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eMDTl2e2p8A/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eMDTl2e2p8A/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eMDTl2e2p8A/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "시리즈1",
+        "playlistId": "UUR43XXEm8WgV31MIf6CcDVg",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "eMDTl2e2p8A"
+        },
+        "videoOwnerChannelTitle": "시리즈1",
+        "videoOwnerChannelId": "UCR43XXEm8WgV31MIf6CcDVg"
+      },
+      "contentDetails": {
+        "videoId": "eMDTl2e2p8A",
+        "videoPublishedAt": "2016-10-24T09:35:30Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "UuA5tUbr5xZ1b2jAkLUuMizV50M",
+      "id": "VVVSNDNYWEVtOFdnVjMxTUlmNkNjRFZnLmYybElHMmNEbjlR",
+      "snippet": {
+        "publishedAt": "2015-06-13T10:56:55Z",
+        "channelId": "UCR43XXEm8WgV31MIf6CcDVg",
+        "title": "마음이 치유되는 터키 안탈리아 해안(Turkey Antalia beach wave healing sound)",
+        "description": "터키 안탈리아에 갔을 때 찍었던 영상입니다.\n지중해라 바닷 비린내도 없고 사람도 때마침 거의 없어서 평화로운 곳이었습니다. 맑고 깨끗한 바닷물에 발을 담그고 자갈에 부딪치는 파도 소리를 들으면 마음이 평안해지는 기분이 듭니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/f2lIG2cDn9Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/f2lIG2cDn9Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/f2lIG2cDn9Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/f2lIG2cDn9Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/f2lIG2cDn9Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "시리즈1",
+        "playlistId": "UUR43XXEm8WgV31MIf6CcDVg",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "f2lIG2cDn9Q"
+        },
+        "videoOwnerChannelTitle": "시리즈1",
+        "videoOwnerChannelId": "UCR43XXEm8WgV31MIf6CcDVg"
+      },
+      "contentDetails": {
+        "videoId": "f2lIG2cDn9Q",
+        "videoPublishedAt": "2015-06-13T10:56:55Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "video_details": [
+    {
+      "kind": "youtube#video",
+      "etag": "DTL_uy3UUVaoi6IFGdY978tldCs",
+      "id": "eMDTl2e2p8A",
+      "snippet": {
+        "publishedAt": "2016-10-24T09:35:30Z",
+        "channelId": "UCR43XXEm8WgV31MIf6CcDVg",
+        "title": "백수유튜브님의 실시간 스트리밍",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eMDTl2e2p8A/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eMDTl2e2p8A/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eMDTl2e2p8A/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eMDTl2e2p8A/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eMDTl2e2p8A/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "시리즈1",
+        "categoryId": "20",
+        "liveBroadcastContent": "upcoming",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "백수유튜브님의 실시간 스트리밍",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "P0D",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "uploaded",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "0",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "백수유튜브님의 실시간 스트리밍",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "bCVDseFvb2tV8bcB4L21PM0R8lw",
+      "id": "f2lIG2cDn9Q",
+      "snippet": {
+        "publishedAt": "2015-06-13T10:56:55Z",
+        "channelId": "UCR43XXEm8WgV31MIf6CcDVg",
+        "title": "마음이 치유되는 터키 안탈리아 해안(Turkey Antalia beach wave healing sound)",
+        "description": "터키 안탈리아에 갔을 때 찍었던 영상입니다.\n지중해라 바닷 비린내도 없고 사람도 때마침 거의 없어서 평화로운 곳이었습니다. 맑고 깨끗한 바닷물에 발을 담그고 자갈에 부딪치는 파도 소리를 들으면 마음이 평안해지는 기분이 듭니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/f2lIG2cDn9Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/f2lIG2cDn9Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/f2lIG2cDn9Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/f2lIG2cDn9Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/f2lIG2cDn9Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "시리즈1",
+        "tags": [
+          "터키",
+          "안탈리아",
+          "해변",
+          "파도",
+          "치유",
+          "turkey",
+          "antalia",
+          "antalya",
+          "wave",
+          "coast",
+          "beach",
+          "healing"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "마음이 치유되는 터키 안탈리아 해안(Turkey Antalia beach wave healing sound)",
+          "description": "터키 안탈리아에 갔을 때 찍었던 영상입니다.\n지중해라 바닷 비린내도 없고 사람도 때마침 거의 없어서 평화로운 곳이었습니다. 맑고 깨끗한 바닷물에 발을 담그고 자갈에 부딪치는 파도 소리를 들으면 마음이 평안해지는 기분이 듭니다."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT28S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "2399",
+        "likeCount": "24",
+        "favoriteCount": "0",
+        "commentCount": "11"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "마음이 치유되는 터키 안탈리아 해안(Turkey Antalia beach wave healing sound)",
+          "description": "터키 안탈리아에 갔을 때 찍었던 영상입니다.\n지중해라 바닷 비린내도 없고 사람도 때마침 거의 없어서 평화로운 곳이었습니다. 맑고 깨끗한 바닷물에 발을 담그고 자갈에 부딪치는 파도 소리를 들으면 마음이 평안해지는 기분이 듭니다."
+        }
+      }
+    }
+  ]
+}

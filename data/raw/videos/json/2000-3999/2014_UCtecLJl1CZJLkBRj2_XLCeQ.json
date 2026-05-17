@@ -1,0 +1,152 @@
+{
+  "idx": 2014,
+  "channel_id": "UCtecLJl1CZJLkBRj2_XLCeQ",
+  "channel_title": "MINe",
+  "playlist_items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "pTI8pFTi2chKnYY4ok7DDZgyGBM",
+      "id": "VVV0ZWNMSmwxQ1pKTGtCUmoyX1hMQ2VRLkJUQzU4V0hhNG5v",
+      "snippet": {
+        "publishedAt": "2025-07-28T03:27:05Z",
+        "channelId": "UCtecLJl1CZJLkBRj2_XLCeQ",
+        "title": "뉴욕 빈티지샵 추천 VINTAGE SHOPPIG IN NYC",
+        "description": "#nyc #vintage #shopping #lowereastside #뉴욕 #빈티지 #쇼핑",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BTC58WHa4no/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BTC58WHa4no/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BTC58WHa4no/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BTC58WHa4no/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BTC58WHa4no/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MINe",
+        "playlistId": "UUtecLJl1CZJLkBRj2_XLCeQ",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "BTC58WHa4no"
+        },
+        "videoOwnerChannelTitle": "MINe",
+        "videoOwnerChannelId": "UCtecLJl1CZJLkBRj2_XLCeQ"
+      },
+      "contentDetails": {
+        "videoId": "BTC58WHa4no",
+        "videoPublishedAt": "2025-07-28T03:27:05Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "video_details": [
+    {
+      "kind": "youtube#video",
+      "etag": "0SS1FeyOMpsiVwp9Ge0J3Yd6aTA",
+      "id": "BTC58WHa4no",
+      "snippet": {
+        "publishedAt": "2025-07-28T03:27:05Z",
+        "channelId": "UCtecLJl1CZJLkBRj2_XLCeQ",
+        "title": "뉴욕 빈티지샵 추천 VINTAGE SHOPPIG IN NYC",
+        "description": "#nyc #vintage #shopping #lowereastside #뉴욕 #빈티지 #쇼핑",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BTC58WHa4no/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BTC58WHa4no/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BTC58WHa4no/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BTC58WHa4no/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BTC58WHa4no/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MINe",
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "뉴욕 빈티지샵 추천 VINTAGE SHOPPIG IN NYC",
+          "description": "#nyc #vintage #shopping #lowereastside #뉴욕 #빈티지 #쇼핑"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT52S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1814",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Fashion",
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {
+        "locationDescription": "Lower East Side",
+        "location": {
+          "latitude": 40.715033,
+          "longitude": -73.9842724,
+          "altitude": 0
+        }
+      },
+      "localizations": {
+        "ko": {
+          "title": "뉴욕 빈티지샵 추천 VINTAGE SHOPPIG IN NYC",
+          "description": "#nyc #vintage #shopping #lowereastside #뉴욕 #빈티지 #쇼핑"
+        }
+      }
+    }
+  ]
+}

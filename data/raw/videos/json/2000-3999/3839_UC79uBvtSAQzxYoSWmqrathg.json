@@ -1,0 +1,4088 @@
+{
+  "idx": 3839,
+  "channel_id": "UC79uBvtSAQzxYoSWmqrathg",
+  "channel_title": "THUG CLUB 떠그클럽",
+  "playlist_items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "t2vdxND2EX5A0-a4sw3UiEbWJJk",
+      "id": "VVU3OXVCdnRTQVF6eFlvU1dtcXJhdGhnLkdzYXppWHRxSTBJ",
+      "snippet": {
+        "publishedAt": "2024-09-27T01:07:45Z",
+        "channelId": "UC79uBvtSAQzxYoSWmqrathg",
+        "title": "Like Me - Thug Club (Gon Kray?)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GsaziXtqI0I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GsaziXtqI0I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GsaziXtqI0I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GsaziXtqI0I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GsaziXtqI0I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THUG CLUB 떠그클럽",
+        "playlistId": "UU79uBvtSAQzxYoSWmqrathg",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "GsaziXtqI0I"
+        },
+        "videoOwnerChannelTitle": "THUG CLUB 떠그클럽",
+        "videoOwnerChannelId": "UC79uBvtSAQzxYoSWmqrathg"
+      },
+      "contentDetails": {
+        "videoId": "GsaziXtqI0I",
+        "videoPublishedAt": "2024-09-27T01:07:45Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "EFcSyJcF5GqF4budzKZE5DTkfYs",
+      "id": "VVU3OXVCdnRTQVF6eFlvU1dtcXJhdGhnLmZpeTZBVkZDdXJr",
+      "snippet": {
+        "publishedAt": "2024-09-27T01:04:48Z",
+        "channelId": "UC79uBvtSAQzxYoSWmqrathg",
+        "title": "Crystal - Thug Club (Gon Kray?)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fiy6AVFCurk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fiy6AVFCurk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fiy6AVFCurk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fiy6AVFCurk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fiy6AVFCurk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THUG CLUB 떠그클럽",
+        "playlistId": "UU79uBvtSAQzxYoSWmqrathg",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fiy6AVFCurk"
+        },
+        "videoOwnerChannelTitle": "THUG CLUB 떠그클럽",
+        "videoOwnerChannelId": "UC79uBvtSAQzxYoSWmqrathg"
+      },
+      "contentDetails": {
+        "videoId": "fiy6AVFCurk",
+        "videoPublishedAt": "2024-09-27T01:04:48Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "hIu_ohOXqDI97fR1P_RM__T7SH8",
+      "id": "VVU3OXVCdnRTQVF6eFlvU1dtcXJhdGhnLnd2MWpNT0ZzLU8w",
+      "snippet": {
+        "publishedAt": "2024-09-27T00:51:55Z",
+        "channelId": "UC79uBvtSAQzxYoSWmqrathg",
+        "title": "Soul Bronco - Thug Club (Gon Kray?)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wv1jMOFs-O0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wv1jMOFs-O0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wv1jMOFs-O0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wv1jMOFs-O0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wv1jMOFs-O0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THUG CLUB 떠그클럽",
+        "playlistId": "UU79uBvtSAQzxYoSWmqrathg",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wv1jMOFs-O0"
+        },
+        "videoOwnerChannelTitle": "THUG CLUB 떠그클럽",
+        "videoOwnerChannelId": "UC79uBvtSAQzxYoSWmqrathg"
+      },
+      "contentDetails": {
+        "videoId": "wv1jMOFs-O0",
+        "videoPublishedAt": "2024-09-27T00:51:55Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "0Xi1Wd7L_ZNpBbeKEtdzcKxIwMU",
+      "id": "VVU3OXVCdnRTQVF6eFlvU1dtcXJhdGhnLlVFdnA5ZEd6QllN",
+      "snippet": {
+        "publishedAt": "2024-09-27T00:46:21Z",
+        "channelId": "UC79uBvtSAQzxYoSWmqrathg",
+        "title": "Smoking lots - Thug Club (Gon Kray?)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UEvp9dGzBYM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UEvp9dGzBYM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UEvp9dGzBYM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UEvp9dGzBYM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UEvp9dGzBYM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THUG CLUB 떠그클럽",
+        "playlistId": "UU79uBvtSAQzxYoSWmqrathg",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "UEvp9dGzBYM"
+        },
+        "videoOwnerChannelTitle": "THUG CLUB 떠그클럽",
+        "videoOwnerChannelId": "UC79uBvtSAQzxYoSWmqrathg"
+      },
+      "contentDetails": {
+        "videoId": "UEvp9dGzBYM",
+        "videoPublishedAt": "2024-09-27T00:46:21Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "9iX9Uz1rUHI_wtWWQcv1oMVl1Tw",
+      "id": "VVU3OXVCdnRTQVF6eFlvU1dtcXJhdGhnLmRpdVMtc2ZqSFFn",
+      "snippet": {
+        "publishedAt": "2024-09-27T00:42:32Z",
+        "channelId": "UC79uBvtSAQzxYoSWmqrathg",
+        "title": "Hahaha - Thug Club (Gon Kray?)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/diuS-sfjHQg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/diuS-sfjHQg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/diuS-sfjHQg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/diuS-sfjHQg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/diuS-sfjHQg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THUG CLUB 떠그클럽",
+        "playlistId": "UU79uBvtSAQzxYoSWmqrathg",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "diuS-sfjHQg"
+        },
+        "videoOwnerChannelTitle": "THUG CLUB 떠그클럽",
+        "videoOwnerChannelId": "UC79uBvtSAQzxYoSWmqrathg"
+      },
+      "contentDetails": {
+        "videoId": "diuS-sfjHQg",
+        "videoPublishedAt": "2024-09-27T00:42:32Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Zt_kN_bu7FlW1lP5ibpkam7NJ38",
+      "id": "VVU3OXVCdnRTQVF6eFlvU1dtcXJhdGhnLm5fS0pMZUVmTk5F",
+      "snippet": {
+        "publishedAt": "2024-09-27T00:39:53Z",
+        "channelId": "UC79uBvtSAQzxYoSWmqrathg",
+        "title": "Private Jet - Thug Club (Gon Kray?)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/n_KJLeEfNNE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/n_KJLeEfNNE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/n_KJLeEfNNE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/n_KJLeEfNNE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/n_KJLeEfNNE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THUG CLUB 떠그클럽",
+        "playlistId": "UU79uBvtSAQzxYoSWmqrathg",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "n_KJLeEfNNE"
+        },
+        "videoOwnerChannelTitle": "THUG CLUB 떠그클럽",
+        "videoOwnerChannelId": "UC79uBvtSAQzxYoSWmqrathg"
+      },
+      "contentDetails": {
+        "videoId": "n_KJLeEfNNE",
+        "videoPublishedAt": "2024-09-27T00:39:53Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "CWp4eW-68pnocjsJmjZpqnScwgI",
+      "id": "VVU3OXVCdnRTQVF6eFlvU1dtcXJhdGhnLl9CWjFMRkNfU2NB",
+      "snippet": {
+        "publishedAt": "2024-09-27T00:09:43Z",
+        "channelId": "UC79uBvtSAQzxYoSWmqrathg",
+        "title": "BOIH - Thug Club (Gon Kray?)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_BZ1LFC_ScA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_BZ1LFC_ScA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_BZ1LFC_ScA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_BZ1LFC_ScA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_BZ1LFC_ScA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THUG CLUB 떠그클럽",
+        "playlistId": "UU79uBvtSAQzxYoSWmqrathg",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_BZ1LFC_ScA"
+        },
+        "videoOwnerChannelTitle": "THUG CLUB 떠그클럽",
+        "videoOwnerChannelId": "UC79uBvtSAQzxYoSWmqrathg"
+      },
+      "contentDetails": {
+        "videoId": "_BZ1LFC_ScA",
+        "videoPublishedAt": "2024-09-27T00:09:43Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "m_4j8_mVK-Gprk-ssm1SCpiMppA",
+      "id": "VVU3OXVCdnRTQVF6eFlvU1dtcXJhdGhnLjlpZmVYMDF3MmFv",
+      "snippet": {
+        "publishedAt": "2024-09-26T23:57:33Z",
+        "channelId": "UC79uBvtSAQzxYoSWmqrathg",
+        "title": "Make it road - Thug Club (Gon Kray?)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9ifeX01w2ao/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9ifeX01w2ao/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9ifeX01w2ao/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9ifeX01w2ao/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9ifeX01w2ao/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THUG CLUB 떠그클럽",
+        "playlistId": "UU79uBvtSAQzxYoSWmqrathg",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9ifeX01w2ao"
+        },
+        "videoOwnerChannelTitle": "THUG CLUB 떠그클럽",
+        "videoOwnerChannelId": "UC79uBvtSAQzxYoSWmqrathg"
+      },
+      "contentDetails": {
+        "videoId": "9ifeX01w2ao",
+        "videoPublishedAt": "2024-09-26T23:57:33Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fh1uejnRhzteA84v5mRvhDvibYI",
+      "id": "VVU3OXVCdnRTQVF6eFlvU1dtcXJhdGhnLi1wMXJVa0cxQjRv",
+      "snippet": {
+        "publishedAt": "2024-09-26T23:45:15Z",
+        "channelId": "UC79uBvtSAQzxYoSWmqrathg",
+        "title": "On da way -  Thug Club (Gon Kray?)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-p1rUkG1B4o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-p1rUkG1B4o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-p1rUkG1B4o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-p1rUkG1B4o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-p1rUkG1B4o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THUG CLUB 떠그클럽",
+        "playlistId": "UU79uBvtSAQzxYoSWmqrathg",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-p1rUkG1B4o"
+        },
+        "videoOwnerChannelTitle": "THUG CLUB 떠그클럽",
+        "videoOwnerChannelId": "UC79uBvtSAQzxYoSWmqrathg"
+      },
+      "contentDetails": {
+        "videoId": "-p1rUkG1B4o",
+        "videoPublishedAt": "2024-09-26T23:45:15Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "GXr5YHy3EWrBl4xx7cF2WSnW_1Q",
+      "id": "VVU3OXVCdnRTQVF6eFlvU1dtcXJhdGhnLklvZDRVeUdFSUgw",
+      "snippet": {
+        "publishedAt": "2024-09-26T23:33:48Z",
+        "channelId": "UC79uBvtSAQzxYoSWmqrathg",
+        "title": "Credit - Thug Club (Gon Kray?)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Iod4UyGEIH0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Iod4UyGEIH0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Iod4UyGEIH0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Iod4UyGEIH0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Iod4UyGEIH0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THUG CLUB 떠그클럽",
+        "playlistId": "UU79uBvtSAQzxYoSWmqrathg",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Iod4UyGEIH0"
+        },
+        "videoOwnerChannelTitle": "THUG CLUB 떠그클럽",
+        "videoOwnerChannelId": "UC79uBvtSAQzxYoSWmqrathg"
+      },
+      "contentDetails": {
+        "videoId": "Iod4UyGEIH0",
+        "videoPublishedAt": "2024-09-26T23:33:48Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "e_dQhzBKlssnR61A50BVtgsx4K0",
+      "id": "VVU3OXVCdnRTQVF6eFlvU1dtcXJhdGhnLnhOakRXZ1JmOURR",
+      "snippet": {
+        "publishedAt": "2024-09-26T23:18:23Z",
+        "channelId": "UC79uBvtSAQzxYoSWmqrathg",
+        "title": "Apple pipe - Thug Club (Gon Kray?)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xNjDWgRf9DQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xNjDWgRf9DQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xNjDWgRf9DQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xNjDWgRf9DQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xNjDWgRf9DQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THUG CLUB 떠그클럽",
+        "playlistId": "UU79uBvtSAQzxYoSWmqrathg",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "xNjDWgRf9DQ"
+        },
+        "videoOwnerChannelTitle": "THUG CLUB 떠그클럽",
+        "videoOwnerChannelId": "UC79uBvtSAQzxYoSWmqrathg"
+      },
+      "contentDetails": {
+        "videoId": "xNjDWgRf9DQ",
+        "videoPublishedAt": "2024-09-26T23:18:23Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "TiiZaNKNa_MXZs6gAK4jtENMFVc",
+      "id": "VVU3OXVCdnRTQVF6eFlvU1dtcXJhdGhnLmU3TTZnN3BrWTNV",
+      "snippet": {
+        "publishedAt": "2024-09-23T23:10:54Z",
+        "channelId": "UC79uBvtSAQzxYoSWmqrathg",
+        "title": "On Da Way - Thug Club (Music Video)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/e7M6g7pkY3U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/e7M6g7pkY3U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/e7M6g7pkY3U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/e7M6g7pkY3U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "THUG CLUB 떠그클럽",
+        "playlistId": "UU79uBvtSAQzxYoSWmqrathg",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "e7M6g7pkY3U"
+        },
+        "videoOwnerChannelTitle": "THUG CLUB 떠그클럽",
+        "videoOwnerChannelId": "UC79uBvtSAQzxYoSWmqrathg"
+      },
+      "contentDetails": {
+        "videoId": "e7M6g7pkY3U",
+        "videoPublishedAt": "2024-09-23T23:10:54Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "kMANOO9PDqF0MpzszLH4iz5CLJQ",
+      "id": "VVU3OXVCdnRTQVF6eFlvU1dtcXJhdGhnLjR2R1hLQl83YzhZ",
+      "snippet": {
+        "publishedAt": "2024-09-02T10:24:44Z",
+        "channelId": "UC79uBvtSAQzxYoSWmqrathg",
+        "title": "Private Jet - Thug Club (Music Video 1)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4vGXKB_7c8Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4vGXKB_7c8Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4vGXKB_7c8Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4vGXKB_7c8Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4vGXKB_7c8Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THUG CLUB 떠그클럽",
+        "playlistId": "UU79uBvtSAQzxYoSWmqrathg",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4vGXKB_7c8Y"
+        },
+        "videoOwnerChannelTitle": "THUG CLUB 떠그클럽",
+        "videoOwnerChannelId": "UC79uBvtSAQzxYoSWmqrathg"
+      },
+      "contentDetails": {
+        "videoId": "4vGXKB_7c8Y",
+        "videoPublishedAt": "2024-09-02T10:24:44Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "BUaAJrBlR0rUGBmkYNl1U-dcXC4",
+      "id": "VVU3OXVCdnRTQVF6eFlvU1dtcXJhdGhnLm4xZFRrTHh6UFVr",
+      "snippet": {
+        "publishedAt": "2024-08-28T08:27:07Z",
+        "channelId": "UC79uBvtSAQzxYoSWmqrathg",
+        "title": "F/W24 “Bio Soldier” // TC x DEAN",
+        "description": "Music by DEAN - Dopamine 0.5\n\nComposed by Deanfluenza, greek, T.Y\nArranged by Deanfluenza, greek, T.Y\nLyrics by Deanfluenza\nProduced by Deanfluenza, greek, T.Y, NOIDENTITY\n\nMixed by 206derek\nMastered by Harrison Hong",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/n1dTkLxzPUk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/n1dTkLxzPUk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/n1dTkLxzPUk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/n1dTkLxzPUk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/n1dTkLxzPUk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THUG CLUB 떠그클럽",
+        "playlistId": "UU79uBvtSAQzxYoSWmqrathg",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "n1dTkLxzPUk"
+        },
+        "videoOwnerChannelTitle": "THUG CLUB 떠그클럽",
+        "videoOwnerChannelId": "UC79uBvtSAQzxYoSWmqrathg"
+      },
+      "contentDetails": {
+        "videoId": "n1dTkLxzPUk",
+        "videoPublishedAt": "2024-08-28T08:27:07Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "bqbiNltiYdndv25vDZPTdYZ6Sgk",
+      "id": "VVU3OXVCdnRTQVF6eFlvU1dtcXJhdGhnLmVIN1BTQVUtcUZ3",
+      "snippet": {
+        "publishedAt": "2023-11-30T01:56:31Z",
+        "channelId": "UC79uBvtSAQzxYoSWmqrathg",
+        "title": "Chapter.2 Dragon Hunter (FILA x THUG CLUB)",
+        "description": "THUG CLUB X FILA - DRAGON BOOTS CAMPAGIN FILM\n\nClient | THUG CLUB @thug_club\nExecutive Chief | THUGMIN, JIYOOL KWON @thug_min @kwonjiyool\n\nProduction | AEDIASTUDIO @aediastudio\n\nDirector | YVNG WING @yvngwing94\nCreative Director | AWKPAK @awkpak\n\nExecutive Producer | AWKPAK\nProduction Manager | SPEARMAN30 @spearmanthirty\nCreative Manager | YEEUN YIM @plvmeq\n\nProducer | YVNG WING\n1st Assistant Director | JIHOON SHIN\n2nd Assistant Director | YIRE KIM\nKEY Production Assistant | SEUNGHO CHO\nProduction Assistants | JIWON CHOI, YOUNSEOB KIM, YOUNGWOONG KIM\n\nDP | YECHAN SHIN @yechan_shin_\n1st Assistant Camera | HYUNTAE KIM\n2nd Assistant Camera | YOUNGTAE JEON\n3rd Assistant Camera | DONGHYUN KO\nDIT | JAEWON JANG\n\nGaffer | SEOKWON YUN(HIT THE LIGHT) @seokwonyun28\nBest Boy | BANSEOG YEOM\nElectricians | HOJUN KIM, JUNHO BAEK, TAEIL KIM\n\nJimmy Jib | SANGWOONG LEE(VISUAL JIB) @lee.sangwoong\nJimmy Jib Crew | KYOJUN KANG, SEOUNGYOUNG JANG\n\nArt Director | SUHUNG HAN(ZELLOSHOT) @sooz_han\nArt Team | JUNIE KIM, SEOYUN CHOI\n\nSound Operator | HAEUN JANG @jang.haeun\n\nEditor | YVNG WING\nColorist | YECHAN SHIN\n\nVFX | AEFX @aefxwrks\nVFX Supervisor | YOUNGWOONG KIM @youngwoong_24\n2D VFX | YOUNGWOONG KIM\n3D VFX | YOUNGWOONG KIM, JIHO JEON, JUSTIN HWANG @zeonjiho\n\nDirector of Animation | JIHYEON PARK @epocxe\nKey Animator/Animatics | JINUK KANG\nBG Animation Helper | HYEMI HONG, YISU KANG\nBG Art Helper | DAYEON PARK, SAMJIWON\n\nSound Powered by | IS DIFFERENT @isdifferent.co\n\nSound Production | IS DIFFERENT SERVICE @isdifferent_service\nExecutive Producer | APRO\nSound Design | ZENU \nSound Mixing & Mastering | ZENU @zenu.xo\nManagement | MINSU, YOUNG JUNE @mminsurr @srocket33\n\nDubbing | THUG MIN, JIYOOL KWON, KANGHYUK, YVNG WING\n\nCast | THUG MIN, JIYOOL KWON, EUNMOO KWON, DONGHYUN(PARTYBOYPARK)\n\nINSTAGRAM : Thug_Club",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eH7PSAU-qFw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eH7PSAU-qFw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eH7PSAU-qFw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eH7PSAU-qFw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eH7PSAU-qFw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THUG CLUB 떠그클럽",
+        "playlistId": "UU79uBvtSAQzxYoSWmqrathg",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "eH7PSAU-qFw"
+        },
+        "videoOwnerChannelTitle": "THUG CLUB 떠그클럽",
+        "videoOwnerChannelId": "UC79uBvtSAQzxYoSWmqrathg"
+      },
+      "contentDetails": {
+        "videoId": "eH7PSAU-qFw",
+        "videoPublishedAt": "2023-11-30T01:56:31Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "__cr7H0MZpyY3sUP8m1V5zX3jBk",
+      "id": "VVU3OXVCdnRTQVF6eFlvU1dtcXJhdGhnLlR3X0stYlh0bWtF",
+      "snippet": {
+        "publishedAt": "2023-11-28T11:32:48Z",
+        "channelId": "UC79uBvtSAQzxYoSWmqrathg",
+        "title": "Fila x thug",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Tw_K-bXtmkE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Tw_K-bXtmkE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Tw_K-bXtmkE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Tw_K-bXtmkE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Tw_K-bXtmkE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THUG CLUB 떠그클럽",
+        "playlistId": "UU79uBvtSAQzxYoSWmqrathg",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Tw_K-bXtmkE"
+        },
+        "videoOwnerChannelTitle": "THUG CLUB 떠그클럽",
+        "videoOwnerChannelId": "UC79uBvtSAQzxYoSWmqrathg"
+      },
+      "contentDetails": {
+        "videoId": "Tw_K-bXtmkE",
+        "videoPublishedAt": "2023-11-28T11:32:48Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "WhvxC1-6P_2h5kA3W-Rvtf7Jfms",
+      "id": "VVU3OXVCdnRTQVF6eFlvU1dtcXJhdGhnLjZ3VUgyRzlNUDFN",
+      "snippet": {
+        "publishedAt": "2023-07-20T14:26:36Z",
+        "channelId": "UC79uBvtSAQzxYoSWmqrathg",
+        "title": "쉿- SZN x YONKO (M/V )",
+        "description": "@sznsoulz / @yonkorea \nProducer @sznsoulz \nCo Producer @thug_min\nVideo @rough_hyun_ / @star.lnk",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6wUH2G9MP1M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6wUH2G9MP1M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6wUH2G9MP1M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "THUG CLUB 떠그클럽",
+        "playlistId": "UU79uBvtSAQzxYoSWmqrathg",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "6wUH2G9MP1M"
+        },
+        "videoOwnerChannelTitle": "THUG CLUB 떠그클럽",
+        "videoOwnerChannelId": "UC79uBvtSAQzxYoSWmqrathg"
+      },
+      "contentDetails": {
+        "videoId": "6wUH2G9MP1M",
+        "videoPublishedAt": "2023-07-20T14:26:36Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "NUEbtrpAGof-vRGmbxP_KYpH_F4",
+      "id": "VVU3OXVCdnRTQVF6eFlvU1dtcXJhdGhnLjNEQ1Z1SE1aMWJn",
+      "snippet": {
+        "publishedAt": "2023-07-11T07:57:14Z",
+        "channelId": "UC79uBvtSAQzxYoSWmqrathg",
+        "title": "TC CASTLE Teaser /Thug Club Teaser",
+        "description": "INSTAGRAM : Thug_Club",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3DCVuHMZ1bg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3DCVuHMZ1bg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3DCVuHMZ1bg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3DCVuHMZ1bg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3DCVuHMZ1bg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THUG CLUB 떠그클럽",
+        "playlistId": "UU79uBvtSAQzxYoSWmqrathg",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "3DCVuHMZ1bg"
+        },
+        "videoOwnerChannelTitle": "THUG CLUB 떠그클럽",
+        "videoOwnerChannelId": "UC79uBvtSAQzxYoSWmqrathg"
+      },
+      "contentDetails": {
+        "videoId": "3DCVuHMZ1bg",
+        "videoPublishedAt": "2023-07-11T07:57:14Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "YcVPzheCDYMw3FXpBKDMBAUA0AE",
+      "id": "VVU3OXVCdnRTQVF6eFlvU1dtcXJhdGhnLlEwV1ZzSmZmeldn",
+      "snippet": {
+        "publishedAt": "2023-04-08T22:34:53Z",
+        "channelId": "UC79uBvtSAQzxYoSWmqrathg",
+        "title": "TC CASTLE \"MARCUS L\" (5yrs Anniveru Party)",
+        "description": "DJ : MARCUS L\nhttps://www.instagram.com/marcus_l_official/\n\nINSTAGRAM : Thug_Club",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Q0WVsJffzWg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Q0WVsJffzWg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Q0WVsJffzWg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Q0WVsJffzWg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Q0WVsJffzWg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THUG CLUB 떠그클럽",
+        "playlistId": "UU79uBvtSAQzxYoSWmqrathg",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Q0WVsJffzWg"
+        },
+        "videoOwnerChannelTitle": "THUG CLUB 떠그클럽",
+        "videoOwnerChannelId": "UC79uBvtSAQzxYoSWmqrathg"
+      },
+      "contentDetails": {
+        "videoId": "Q0WVsJffzWg",
+        "videoPublishedAt": "2023-04-08T22:34:53Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "aPA83QVJ6oFqGwrMAZOUZiAHfcA",
+      "id": "VVU3OXVCdnRTQVF6eFlvU1dtcXJhdGhnLmZFLVhkbnRjWllj",
+      "snippet": {
+        "publishedAt": "2023-04-08T22:34:04Z",
+        "channelId": "UC79uBvtSAQzxYoSWmqrathg",
+        "title": "TC CASTLE \"JVVN\" (5yrs Anniveru Party)",
+        "description": "DJ : 0jvvn  테크노유해진\nhttps://www.instagram.com/0jvvn/\n\nINSTAGRAM : Thug_Club",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fE-XdntcZYc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fE-XdntcZYc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fE-XdntcZYc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fE-XdntcZYc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fE-XdntcZYc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THUG CLUB 떠그클럽",
+        "playlistId": "UU79uBvtSAQzxYoSWmqrathg",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fE-XdntcZYc"
+        },
+        "videoOwnerChannelTitle": "THUG CLUB 떠그클럽",
+        "videoOwnerChannelId": "UC79uBvtSAQzxYoSWmqrathg"
+      },
+      "contentDetails": {
+        "videoId": "fE-XdntcZYc",
+        "videoPublishedAt": "2023-04-08T22:34:04Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "gG3LBZcxzV4KGpCW_j7ov9uaXsM",
+      "id": "VVU3OXVCdnRTQVF6eFlvU1dtcXJhdGhnLktzRVdwb3Z0QmNF",
+      "snippet": {
+        "publishedAt": "2023-04-08T22:12:17Z",
+        "channelId": "UC79uBvtSAQzxYoSWmqrathg",
+        "title": "TC CASTLE \"Soraere Brocken\" (5yrs Anniveru Party)",
+        "description": "DJ : Soraere_brocken\nhttps://www.instagram.com/soraere_brocken/\nINSTAGRAM : Thug_Club",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KsEWpovtBcE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KsEWpovtBcE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KsEWpovtBcE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KsEWpovtBcE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KsEWpovtBcE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THUG CLUB 떠그클럽",
+        "playlistId": "UU79uBvtSAQzxYoSWmqrathg",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KsEWpovtBcE"
+        },
+        "videoOwnerChannelTitle": "THUG CLUB 떠그클럽",
+        "videoOwnerChannelId": "UC79uBvtSAQzxYoSWmqrathg"
+      },
+      "contentDetails": {
+        "videoId": "KsEWpovtBcE",
+        "videoPublishedAt": "2023-04-08T22:12:17Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "oWZSvniWDzRS9jau-D_roVVHv7Y",
+      "id": "VVU3OXVCdnRTQVF6eFlvU1dtcXJhdGhnLkZqczM0WmNKdksw",
+      "snippet": {
+        "publishedAt": "2023-04-08T22:02:39Z",
+        "channelId": "UC79uBvtSAQzxYoSWmqrathg",
+        "title": "TC CASTLE \"KURO\" (5yrs Anniveru Party)",
+        "description": "(5yrs Anniveru Party)\nDJ : KURO \n(https://www.instagram.com/kuro_5sang/)\n\nInstagram : Thug_Club",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Fjs34ZcJvK0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Fjs34ZcJvK0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Fjs34ZcJvK0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Fjs34ZcJvK0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Fjs34ZcJvK0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THUG CLUB 떠그클럽",
+        "playlistId": "UU79uBvtSAQzxYoSWmqrathg",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Fjs34ZcJvK0"
+        },
+        "videoOwnerChannelTitle": "THUG CLUB 떠그클럽",
+        "videoOwnerChannelId": "UC79uBvtSAQzxYoSWmqrathg"
+      },
+      "contentDetails": {
+        "videoId": "Fjs34ZcJvK0",
+        "videoPublishedAt": "2023-04-08T22:02:39Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "TwnOzwDaUR_GdP9Z_GF1N3K8z3o",
+      "id": "VVU3OXVCdnRTQVF6eFlvU1dtcXJhdGhnLlhvSVpjNXdzVUl3",
+      "snippet": {
+        "publishedAt": "2023-04-05T16:59:40Z",
+        "channelId": "UC79uBvtSAQzxYoSWmqrathg",
+        "title": "김정은 (Kim Jong Eun)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XoIZc5wsUIw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XoIZc5wsUIw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XoIZc5wsUIw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XoIZc5wsUIw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XoIZc5wsUIw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THUG CLUB 떠그클럽",
+        "playlistId": "UU79uBvtSAQzxYoSWmqrathg",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "XoIZc5wsUIw"
+        },
+        "videoOwnerChannelTitle": "THUG CLUB 떠그클럽",
+        "videoOwnerChannelId": "UC79uBvtSAQzxYoSWmqrathg"
+      },
+      "contentDetails": {
+        "videoId": "XoIZc5wsUIw",
+        "videoPublishedAt": "2023-04-05T16:59:40Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-JDo9ukypYEslGTwQdt-_PCrbME",
+      "id": "VVU3OXVCdnRTQVF6eFlvU1dtcXJhdGhnLk4zNUpST1BJX0pr",
+      "snippet": {
+        "publishedAt": "2023-04-02T00:40:13Z",
+        "channelId": "UC79uBvtSAQzxYoSWmqrathg",
+        "title": "VID 20230401 123227 00 015",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/N35JROPI_Jk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/N35JROPI_Jk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/N35JROPI_Jk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/N35JROPI_Jk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/N35JROPI_Jk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THUG CLUB 떠그클럽",
+        "playlistId": "UU79uBvtSAQzxYoSWmqrathg",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "N35JROPI_Jk"
+        },
+        "videoOwnerChannelTitle": "THUG CLUB 떠그클럽",
+        "videoOwnerChannelId": "UC79uBvtSAQzxYoSWmqrathg"
+      },
+      "contentDetails": {
+        "videoId": "N35JROPI_Jk",
+        "videoPublishedAt": "2023-04-02T00:40:13Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "E07y7lE3cuAANZRDO2_Kmg6RW-E",
+      "id": "VVU3OXVCdnRTQVF6eFlvU1dtcXJhdGhnLnZHTVlLd01ua2Jv",
+      "snippet": {
+        "publishedAt": "2023-03-15T12:41:34Z",
+        "channelId": "UC79uBvtSAQzxYoSWmqrathg",
+        "title": "Thug Club x MCM (2023)",
+        "description": "Instagram : https://www.instagram.com/thug_club/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vGMYKwMnkbo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vGMYKwMnkbo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vGMYKwMnkbo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vGMYKwMnkbo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vGMYKwMnkbo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THUG CLUB 떠그클럽",
+        "playlistId": "UU79uBvtSAQzxYoSWmqrathg",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "vGMYKwMnkbo"
+        },
+        "videoOwnerChannelTitle": "THUG CLUB 떠그클럽",
+        "videoOwnerChannelId": "UC79uBvtSAQzxYoSWmqrathg"
+      },
+      "contentDetails": {
+        "videoId": "vGMYKwMnkbo",
+        "videoPublishedAt": "2023-03-15T12:41:34Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "UL5KySuShjhvVju1Z8DAl5_U-NQ",
+      "id": "VVU3OXVCdnRTQVF6eFlvU1dtcXJhdGhnLlZaYVhNNUNnMU84",
+      "snippet": {
+        "publishedAt": "2022-05-20T03:08:10Z",
+        "channelId": "UC79uBvtSAQzxYoSWmqrathg",
+        "title": "HOT BOX",
+        "description": "THUG CLUB\nNew Furniture Line \nHOTBOX\n\nInsense holder inside\nSide TC Emblem \ncenter Tc \nLaser center",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VZaXM5Cg1O8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VZaXM5Cg1O8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VZaXM5Cg1O8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "THUG CLUB 떠그클럽",
+        "playlistId": "UU79uBvtSAQzxYoSWmqrathg",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VZaXM5Cg1O8"
+        },
+        "videoOwnerChannelTitle": "THUG CLUB 떠그클럽",
+        "videoOwnerChannelId": "UC79uBvtSAQzxYoSWmqrathg"
+      },
+      "contentDetails": {
+        "videoId": "VZaXM5Cg1O8",
+        "videoPublishedAt": "2022-05-20T03:08:10Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "B3cFtfHyq_e5fhdfch0dKQ671Ow",
+      "id": "VVU3OXVCdnRTQVF6eFlvU1dtcXJhdGhnLnlCZnFNdlFNcDJB",
+      "snippet": {
+        "publishedAt": "2020-09-20T04:15:41Z",
+        "channelId": "UC79uBvtSAQzxYoSWmqrathg",
+        "title": "대한민국 남자의 혼자 성기 제모",
+        "description": "INSTAGRAM : Thug_Min",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yBfqMvQMp2A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yBfqMvQMp2A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yBfqMvQMp2A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yBfqMvQMp2A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "THUG CLUB 떠그클럽",
+        "playlistId": "UU79uBvtSAQzxYoSWmqrathg",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "yBfqMvQMp2A"
+        },
+        "videoOwnerChannelTitle": "THUG CLUB 떠그클럽",
+        "videoOwnerChannelId": "UC79uBvtSAQzxYoSWmqrathg"
+      },
+      "contentDetails": {
+        "videoId": "yBfqMvQMp2A",
+        "videoPublishedAt": "2020-09-20T04:15:41Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "F_xMBoCZFRp-SEvsioRVTNScfEU",
+      "id": "VVU3OXVCdnRTQVF6eFlvU1dtcXJhdGhnLnlFd3hDdm9Bbkdj",
+      "snippet": {
+        "publishedAt": "2020-08-06T06:08:10Z",
+        "channelId": "UC79uBvtSAQzxYoSWmqrathg",
+        "title": "[조영민]",
+        "description": "INSTAGRAM : Thug_Min",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yEwxCvoAnGc/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yEwxCvoAnGc/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yEwxCvoAnGc/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yEwxCvoAnGc/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yEwxCvoAnGc/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THUG CLUB 떠그클럽",
+        "playlistId": "UU79uBvtSAQzxYoSWmqrathg",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "yEwxCvoAnGc"
+        },
+        "videoOwnerChannelTitle": "THUG CLUB 떠그클럽",
+        "videoOwnerChannelId": "UC79uBvtSAQzxYoSWmqrathg"
+      },
+      "contentDetails": {
+        "videoId": "yEwxCvoAnGc",
+        "videoPublishedAt": "2020-08-06T06:08:10Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "xlcC0elpd8wUhlbxv4uBXbt6XB0",
+      "id": "VVU3OXVCdnRTQVF6eFlvU1dtcXJhdGhnLjhLN0dZb1lSQjNV",
+      "snippet": {
+        "publishedAt": "2020-03-29T23:57:44Z",
+        "channelId": "UC79uBvtSAQzxYoSWmqrathg",
+        "title": "보 태 현 가 자 ! ! !",
+        "description": "인스타 @thug_min \n보태현@taeboy01",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8K7GYoYRB3U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8K7GYoYRB3U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8K7GYoYRB3U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8K7GYoYRB3U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "THUG CLUB 떠그클럽",
+        "playlistId": "UU79uBvtSAQzxYoSWmqrathg",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8K7GYoYRB3U"
+        },
+        "videoOwnerChannelTitle": "THUG CLUB 떠그클럽",
+        "videoOwnerChannelId": "UC79uBvtSAQzxYoSWmqrathg"
+      },
+      "contentDetails": {
+        "videoId": "8K7GYoYRB3U",
+        "videoPublishedAt": "2020-03-29T23:57:44Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Fs5zph0Ed1c6niHugJ9-Je7Qvuo",
+      "id": "VVU3OXVCdnRTQVF6eFlvU1dtcXJhdGhnLjVUN3hYZDJNQWpV",
+      "snippet": {
+        "publishedAt": "2016-03-12T16:07:35Z",
+        "channelId": "UC79uBvtSAQzxYoSWmqrathg",
+        "title": "여수밤바다 섹온비",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5T7xXd2MAjU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5T7xXd2MAjU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5T7xXd2MAjU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "THUG CLUB 떠그클럽",
+        "playlistId": "UU79uBvtSAQzxYoSWmqrathg",
+        "position": 29,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "5T7xXd2MAjU"
+        },
+        "videoOwnerChannelTitle": "THUG CLUB 떠그클럽",
+        "videoOwnerChannelId": "UC79uBvtSAQzxYoSWmqrathg"
+      },
+      "contentDetails": {
+        "videoId": "5T7xXd2MAjU",
+        "videoPublishedAt": "2016-03-12T16:07:35Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "video_details": [
+    {
+      "kind": "youtube#video",
+      "etag": "NO3aovAb4dJDNaGVkRvCnLM8iVw",
+      "id": "GsaziXtqI0I",
+      "snippet": {
+        "publishedAt": "2024-09-27T01:07:45Z",
+        "channelId": "UC79uBvtSAQzxYoSWmqrathg",
+        "title": "Like Me - Thug Club (Gon Kray?)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GsaziXtqI0I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GsaziXtqI0I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GsaziXtqI0I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GsaziXtqI0I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GsaziXtqI0I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THUG CLUB 떠그클럽",
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Like Me - Thug Club (Gon Kray?)",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT2M6S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "10534",
+        "likeCount": "81",
+        "favoriteCount": "0",
+        "commentCount": "17"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Hip_hop_music",
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Pop_music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en": {
+          "title": "Like Me - Thug Club (Gon Kray?)",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "r1MQBpusY3DMDbQmu0R-M5PXMKs",
+      "id": "fiy6AVFCurk",
+      "snippet": {
+        "publishedAt": "2024-09-27T01:04:48Z",
+        "channelId": "UC79uBvtSAQzxYoSWmqrathg",
+        "title": "Crystal - Thug Club (Gon Kray?)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fiy6AVFCurk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fiy6AVFCurk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fiy6AVFCurk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fiy6AVFCurk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fiy6AVFCurk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THUG CLUB 떠그클럽",
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Crystal - Thug Club (Gon Kray?)",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT2M57S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "3259",
+        "likeCount": "18",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Hip_hop_music",
+          "https://en.wikipedia.org/wiki/Music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en": {
+          "title": "Crystal - Thug Club (Gon Kray?)",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "IZZ9Op0rdpKgQJEhCJN3CAbNDwA",
+      "id": "wv1jMOFs-O0",
+      "snippet": {
+        "publishedAt": "2024-09-27T00:51:55Z",
+        "channelId": "UC79uBvtSAQzxYoSWmqrathg",
+        "title": "Soul Bronco - Thug Club (Gon Kray?)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wv1jMOFs-O0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wv1jMOFs-O0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wv1jMOFs-O0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wv1jMOFs-O0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wv1jMOFs-O0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THUG CLUB 떠그클럽",
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Soul Bronco - Thug Club (Gon Kray?)",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT2M5S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "3516",
+        "likeCount": "38",
+        "favoriteCount": "0",
+        "commentCount": "3"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Hip_hop_music",
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Rhythm_and_blues"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en": {
+          "title": "Soul Bronco - Thug Club (Gon Kray?)",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "DtyjY8nzNqIPrPrt8HWd59qAZhE",
+      "id": "UEvp9dGzBYM",
+      "snippet": {
+        "publishedAt": "2024-09-27T00:46:21Z",
+        "channelId": "UC79uBvtSAQzxYoSWmqrathg",
+        "title": "Smoking lots - Thug Club (Gon Kray?)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UEvp9dGzBYM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UEvp9dGzBYM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UEvp9dGzBYM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UEvp9dGzBYM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UEvp9dGzBYM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THUG CLUB 떠그클럽",
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Smoking lots - Thug Club (Gon Kray?)",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M14S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "4399",
+        "likeCount": "52",
+        "favoriteCount": "0",
+        "commentCount": "3"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Hip_hop_music",
+          "https://en.wikipedia.org/wiki/Music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en": {
+          "title": "Smoking lots - Thug Club (Gon Kray?)",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "FzmabAyalxvmbaxpnN7_-B2tUmw",
+      "id": "diuS-sfjHQg",
+      "snippet": {
+        "publishedAt": "2024-09-27T00:42:32Z",
+        "channelId": "UC79uBvtSAQzxYoSWmqrathg",
+        "title": "Hahaha - Thug Club (Gon Kray?)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/diuS-sfjHQg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/diuS-sfjHQg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/diuS-sfjHQg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/diuS-sfjHQg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/diuS-sfjHQg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THUG CLUB 떠그클럽",
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Hahaha - Thug Club (Gon Kray?)",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT50S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1647",
+        "likeCount": "13",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Hip_hop_music",
+          "https://en.wikipedia.org/wiki/Music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en": {
+          "title": "Hahaha - Thug Club (Gon Kray?)",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "rYuUCtumxdOccuoSAoS1ctXRuJ0",
+      "id": "n_KJLeEfNNE",
+      "snippet": {
+        "publishedAt": "2024-09-27T00:39:53Z",
+        "channelId": "UC79uBvtSAQzxYoSWmqrathg",
+        "title": "Private Jet - Thug Club (Gon Kray?)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/n_KJLeEfNNE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/n_KJLeEfNNE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/n_KJLeEfNNE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/n_KJLeEfNNE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/n_KJLeEfNNE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THUG CLUB 떠그클럽",
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Private Jet - Thug Club (Gon Kray?)",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT1M25S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "2814",
+        "likeCount": "22",
+        "favoriteCount": "0",
+        "commentCount": "3"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Hip_hop_music",
+          "https://en.wikipedia.org/wiki/Music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en": {
+          "title": "Private Jet - Thug Club (Gon Kray?)",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "luFYJsMmCANzQSgBEG4x-QYgQz4",
+      "id": "_BZ1LFC_ScA",
+      "snippet": {
+        "publishedAt": "2024-09-27T00:09:43Z",
+        "channelId": "UC79uBvtSAQzxYoSWmqrathg",
+        "title": "BOIH - Thug Club (Gon Kray?)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_BZ1LFC_ScA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_BZ1LFC_ScA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_BZ1LFC_ScA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_BZ1LFC_ScA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_BZ1LFC_ScA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THUG CLUB 떠그클럽",
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "BOIH - Thug Club (Gon Kray?)",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1M47S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "2538",
+        "likeCount": "37",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Hip_hop_music",
+          "https://en.wikipedia.org/wiki/Music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en": {
+          "title": "BOIH - Thug Club (Gon Kray?)",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "vj5e686jb8S4eWGO0-BPvPQarBo",
+      "id": "9ifeX01w2ao",
+      "snippet": {
+        "publishedAt": "2024-09-26T23:57:33Z",
+        "channelId": "UC79uBvtSAQzxYoSWmqrathg",
+        "title": "Make it road - Thug Club (Gon Kray?)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9ifeX01w2ao/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9ifeX01w2ao/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9ifeX01w2ao/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9ifeX01w2ao/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9ifeX01w2ao/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THUG CLUB 떠그클럽",
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Make it road - Thug Club (Gon Kray?)",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT1M37S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "2297",
+        "likeCount": "24",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Hip_hop_music",
+          "https://en.wikipedia.org/wiki/Music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en": {
+          "title": "Make it road - Thug Club (Gon Kray?)",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "8MARJXqJ9XaJNmLOtu-B2eTV27A",
+      "id": "-p1rUkG1B4o",
+      "snippet": {
+        "publishedAt": "2024-09-26T23:45:15Z",
+        "channelId": "UC79uBvtSAQzxYoSWmqrathg",
+        "title": "On da way -  Thug Club (Gon Kray?)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-p1rUkG1B4o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-p1rUkG1B4o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-p1rUkG1B4o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-p1rUkG1B4o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-p1rUkG1B4o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THUG CLUB 떠그클럽",
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "On da way -  Thug Club (Gon Kray?)",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT1M37S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "3731",
+        "likeCount": "46",
+        "favoriteCount": "0",
+        "commentCount": "5"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Hip_hop_music",
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Rhythm_and_blues"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en": {
+          "title": "On da way -  Thug Club (Gon Kray?)",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "4pVJFpjr7_RsswXyqT-xKHXGdZY",
+      "id": "Iod4UyGEIH0",
+      "snippet": {
+        "publishedAt": "2024-09-26T23:33:48Z",
+        "channelId": "UC79uBvtSAQzxYoSWmqrathg",
+        "title": "Credit - Thug Club (Gon Kray?)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Iod4UyGEIH0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Iod4UyGEIH0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Iod4UyGEIH0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Iod4UyGEIH0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Iod4UyGEIH0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THUG CLUB 떠그클럽",
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Credit - Thug Club (Gon Kray?)",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT1M51S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "3069",
+        "likeCount": "25",
+        "favoriteCount": "0",
+        "commentCount": "8"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Hip_hop_music",
+          "https://en.wikipedia.org/wiki/Music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en": {
+          "title": "Credit - Thug Club (Gon Kray?)",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "xQ6PLSTaO011Dmbfj6SCNFmYSko",
+      "id": "xNjDWgRf9DQ",
+      "snippet": {
+        "publishedAt": "2024-09-26T23:18:23Z",
+        "channelId": "UC79uBvtSAQzxYoSWmqrathg",
+        "title": "Apple pipe - Thug Club (Gon Kray?)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xNjDWgRf9DQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xNjDWgRf9DQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xNjDWgRf9DQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xNjDWgRf9DQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xNjDWgRf9DQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THUG CLUB 떠그클럽",
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Apple pipe - Thug Club (Gon Kray?)",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1M37S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "3343",
+        "likeCount": "23",
+        "favoriteCount": "0",
+        "commentCount": "4"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Hip_hop_music",
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Pop_music",
+          "https://en.wikipedia.org/wiki/Soul_music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en": {
+          "title": "Apple pipe - Thug Club (Gon Kray?)",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "56ehNSwvLd56jGLEt8HhhDaBuAA",
+      "id": "e7M6g7pkY3U",
+      "snippet": {
+        "publishedAt": "2024-09-23T23:10:54Z",
+        "channelId": "UC79uBvtSAQzxYoSWmqrathg",
+        "title": "On Da Way - Thug Club (Music Video)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/e7M6g7pkY3U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/e7M6g7pkY3U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/e7M6g7pkY3U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/e7M6g7pkY3U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "THUG CLUB 떠그클럽",
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "On Da Way - Thug Club (Music Video)",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT1M33S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "7121",
+        "likeCount": "138",
+        "favoriteCount": "0",
+        "commentCount": "21"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Hip_hop_music",
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Pop_music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en": {
+          "title": "On Da Way - Thug Club (Music Video)",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "pZWYDnz8kTnD1uS9mUd4q19FhSY",
+      "id": "4vGXKB_7c8Y",
+      "snippet": {
+        "publishedAt": "2024-09-02T10:24:44Z",
+        "channelId": "UC79uBvtSAQzxYoSWmqrathg",
+        "title": "Private Jet - Thug Club (Music Video 1)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4vGXKB_7c8Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4vGXKB_7c8Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4vGXKB_7c8Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4vGXKB_7c8Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4vGXKB_7c8Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THUG CLUB 떠그클럽",
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Private Jet - Thug Club (Music Video 1)",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1M28S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "5814",
+        "likeCount": "109",
+        "favoriteCount": "0",
+        "commentCount": "9"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Hip_hop_music",
+          "https://en.wikipedia.org/wiki/Music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en": {
+          "title": "Private Jet - Thug Club (Music Video 1)",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "VOS67QL7X0sGaKpBoq6CAKJNXqc",
+      "id": "n1dTkLxzPUk",
+      "snippet": {
+        "publishedAt": "2024-08-28T08:27:07Z",
+        "channelId": "UC79uBvtSAQzxYoSWmqrathg",
+        "title": "F/W24 “Bio Soldier” // TC x DEAN",
+        "description": "Music by DEAN - Dopamine 0.5\n\nComposed by Deanfluenza, greek, T.Y\nArranged by Deanfluenza, greek, T.Y\nLyrics by Deanfluenza\nProduced by Deanfluenza, greek, T.Y, NOIDENTITY\n\nMixed by 206derek\nMastered by Harrison Hong",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/n1dTkLxzPUk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/n1dTkLxzPUk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/n1dTkLxzPUk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/n1dTkLxzPUk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/n1dTkLxzPUk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THUG CLUB 떠그클럽",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "F/W24 “Bio Soldier” // TC x DEAN",
+          "description": "Music by DEAN - Dopamine 0.5\n\nComposed by Deanfluenza, greek, T.Y\nArranged by Deanfluenza, greek, T.Y\nLyrics by Deanfluenza\nProduced by Deanfluenza, greek, T.Y, NOIDENTITY\n\nMixed by 206derek\nMastered by Harrison Hong"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT3M25S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "regionRestriction": {
+          "blocked": [
+            "BY",
+            "RU"
+          ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "18979",
+        "likeCount": "437",
+        "favoriteCount": "0",
+        "commentCount": "34"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Electronic_music",
+          "https://en.wikipedia.org/wiki/Hip_hop_music",
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Pop_music",
+          "https://en.wikipedia.org/wiki/Rhythm_and_blues",
+          "https://en.wikipedia.org/wiki/Soul_music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en": {
+          "title": "F/W24 “Bio Soldier” // TC x DEAN",
+          "description": "Music by DEAN - Dopamine 0.5\n\nComposed by Deanfluenza, greek, T.Y\nArranged by Deanfluenza, greek, T.Y\nLyrics by Deanfluenza\nProduced by Deanfluenza, greek, T.Y, NOIDENTITY\n\nMixed by 206derek\nMastered by Harrison Hong"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "YUKSZuPBYsZA7P8OWvdStf9CzQo",
+      "id": "eH7PSAU-qFw",
+      "snippet": {
+        "publishedAt": "2023-11-30T01:56:31Z",
+        "channelId": "UC79uBvtSAQzxYoSWmqrathg",
+        "title": "Chapter.2 Dragon Hunter (FILA x THUG CLUB)",
+        "description": "THUG CLUB X FILA - DRAGON BOOTS CAMPAGIN FILM\n\nClient | THUG CLUB @thug_club\nExecutive Chief | THUGMIN, JIYOOL KWON @thug_min @kwonjiyool\n\nProduction | AEDIASTUDIO @aediastudio\n\nDirector | YVNG WING @yvngwing94\nCreative Director | AWKPAK @awkpak\n\nExecutive Producer | AWKPAK\nProduction Manager | SPEARMAN30 @spearmanthirty\nCreative Manager | YEEUN YIM @plvmeq\n\nProducer | YVNG WING\n1st Assistant Director | JIHOON SHIN\n2nd Assistant Director | YIRE KIM\nKEY Production Assistant | SEUNGHO CHO\nProduction Assistants | JIWON CHOI, YOUNSEOB KIM, YOUNGWOONG KIM\n\nDP | YECHAN SHIN @yechan_shin_\n1st Assistant Camera | HYUNTAE KIM\n2nd Assistant Camera | YOUNGTAE JEON\n3rd Assistant Camera | DONGHYUN KO\nDIT | JAEWON JANG\n\nGaffer | SEOKWON YUN(HIT THE LIGHT) @seokwonyun28\nBest Boy | BANSEOG YEOM\nElectricians | HOJUN KIM, JUNHO BAEK, TAEIL KIM\n\nJimmy Jib | SANGWOONG LEE(VISUAL JIB) @lee.sangwoong\nJimmy Jib Crew | KYOJUN KANG, SEOUNGYOUNG JANG\n\nArt Director | SUHUNG HAN(ZELLOSHOT) @sooz_han\nArt Team | JUNIE KIM, SEOYUN CHOI\n\nSound Operator | HAEUN JANG @jang.haeun\n\nEditor | YVNG WING\nColorist | YECHAN SHIN\n\nVFX | AEFX @aefxwrks\nVFX Supervisor | YOUNGWOONG KIM @youngwoong_24\n2D VFX | YOUNGWOONG KIM\n3D VFX | YOUNGWOONG KIM, JIHO JEON, JUSTIN HWANG @zeonjiho\n\nDirector of Animation | JIHYEON PARK @epocxe\nKey Animator/Animatics | JINUK KANG\nBG Animation Helper | HYEMI HONG, YISU KANG\nBG Art Helper | DAYEON PARK, SAMJIWON\n\nSound Powered by | IS DIFFERENT @isdifferent.co\n\nSound Production | IS DIFFERENT SERVICE @isdifferent_service\nExecutive Producer | APRO\nSound Design | ZENU \nSound Mixing & Mastering | ZENU @zenu.xo\nManagement | MINSU, YOUNG JUNE @mminsurr @srocket33\n\nDubbing | THUG MIN, JIYOOL KWON, KANGHYUK, YVNG WING\n\nCast | THUG MIN, JIYOOL KWON, EUNMOO KWON, DONGHYUN(PARTYBOYPARK)\n\nINSTAGRAM : Thug_Club",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eH7PSAU-qFw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eH7PSAU-qFw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eH7PSAU-qFw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eH7PSAU-qFw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eH7PSAU-qFw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THUG CLUB 떠그클럽",
+        "tags": [
+          "떠그민"
+        ],
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Chapter.2 Dragon Hunter (FILA x THUG CLUB)",
+          "description": "THUG CLUB X FILA - DRAGON BOOTS CAMPAGIN FILM\n\nClient | THUG CLUB @thug_club\nExecutive Chief | THUGMIN, JIYOOL KWON @thug_min @kwonjiyool\n\nProduction | AEDIASTUDIO @aediastudio\n\nDirector | YVNG WING @yvngwing94\nCreative Director | AWKPAK @awkpak\n\nExecutive Producer | AWKPAK\nProduction Manager | SPEARMAN30 @spearmanthirty\nCreative Manager | YEEUN YIM @plvmeq\n\nProducer | YVNG WING\n1st Assistant Director | JIHOON SHIN\n2nd Assistant Director | YIRE KIM\nKEY Production Assistant | SEUNGHO CHO\nProduction Assistants | JIWON CHOI, YOUNSEOB KIM, YOUNGWOONG KIM\n\nDP | YECHAN SHIN @yechan_shin_\n1st Assistant Camera | HYUNTAE KIM\n2nd Assistant Camera | YOUNGTAE JEON\n3rd Assistant Camera | DONGHYUN KO\nDIT | JAEWON JANG\n\nGaffer | SEOKWON YUN(HIT THE LIGHT) @seokwonyun28\nBest Boy | BANSEOG YEOM\nElectricians | HOJUN KIM, JUNHO BAEK, TAEIL KIM\n\nJimmy Jib | SANGWOONG LEE(VISUAL JIB) @lee.sangwoong\nJimmy Jib Crew | KYOJUN KANG, SEOUNGYOUNG JANG\n\nArt Director | SUHUNG HAN(ZELLOSHOT) @sooz_han\nArt Team | JUNIE KIM, SEOYUN CHOI\n\nSound Operator | HAEUN JANG @jang.haeun\n\nEditor | YVNG WING\nColorist | YECHAN SHIN\n\nVFX | AEFX @aefxwrks\nVFX Supervisor | YOUNGWOONG KIM @youngwoong_24\n2D VFX | YOUNGWOONG KIM\n3D VFX | YOUNGWOONG KIM, JIHO JEON, JUSTIN HWANG @zeonjiho\n\nDirector of Animation | JIHYEON PARK @epocxe\nKey Animator/Animatics | JINUK KANG\nBG Animation Helper | HYEMI HONG, YISU KANG\nBG Art Helper | DAYEON PARK, SAMJIWON\n\nSound Powered by | IS DIFFERENT @isdifferent.co\n\nSound Production | IS DIFFERENT SERVICE @isdifferent_service\nExecutive Producer | APRO\nSound Design | ZENU \nSound Mixing & Mastering | ZENU @zenu.xo\nManagement | MINSU, YOUNG JUNE @mminsurr @srocket33\n\nDubbing | THUG MIN, JIYOOL KWON, KANGHYUK, YVNG WING\n\nCast | THUG MIN, JIYOOL KWON, EUNMOO KWON, DONGHYUN(PARTYBOYPARK)\n\nINSTAGRAM : Thug_Club"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M2S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "9542",
+        "likeCount": "203",
+        "favoriteCount": "0",
+        "commentCount": "11"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Entertainment",
+          "https://en.wikipedia.org/wiki/Film"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en": {
+          "title": "Chapter.2 Dragon Hunter (FILA x THUG CLUB)",
+          "description": "THUG CLUB X FILA - DRAGON BOOTS CAMPAGIN FILM\n\nClient | THUG CLUB @thug_club\nExecutive Chief | THUGMIN, JIYOOL KWON @thug_min @kwonjiyool\n\nProduction | AEDIASTUDIO @aediastudio\n\nDirector | YVNG WING @yvngwing94\nCreative Director | AWKPAK @awkpak\n\nExecutive Producer | AWKPAK\nProduction Manager | SPEARMAN30 @spearmanthirty\nCreative Manager | YEEUN YIM @plvmeq\n\nProducer | YVNG WING\n1st Assistant Director | JIHOON SHIN\n2nd Assistant Director | YIRE KIM\nKEY Production Assistant | SEUNGHO CHO\nProduction Assistants | JIWON CHOI, YOUNSEOB KIM, YOUNGWOONG KIM\n\nDP | YECHAN SHIN @yechan_shin_\n1st Assistant Camera | HYUNTAE KIM\n2nd Assistant Camera | YOUNGTAE JEON\n3rd Assistant Camera | DONGHYUN KO\nDIT | JAEWON JANG\n\nGaffer | SEOKWON YUN(HIT THE LIGHT) @seokwonyun28\nBest Boy | BANSEOG YEOM\nElectricians | HOJUN KIM, JUNHO BAEK, TAEIL KIM\n\nJimmy Jib | SANGWOONG LEE(VISUAL JIB) @lee.sangwoong\nJimmy Jib Crew | KYOJUN KANG, SEOUNGYOUNG JANG\n\nArt Director | SUHUNG HAN(ZELLOSHOT) @sooz_han\nArt Team | JUNIE KIM, SEOYUN CHOI\n\nSound Operator | HAEUN JANG @jang.haeun\n\nEditor | YVNG WING\nColorist | YECHAN SHIN\n\nVFX | AEFX @aefxwrks\nVFX Supervisor | YOUNGWOONG KIM @youngwoong_24\n2D VFX | YOUNGWOONG KIM\n3D VFX | YOUNGWOONG KIM, JIHO JEON, JUSTIN HWANG @zeonjiho\n\nDirector of Animation | JIHYEON PARK @epocxe\nKey Animator/Animatics | JINUK KANG\nBG Animation Helper | HYEMI HONG, YISU KANG\nBG Art Helper | DAYEON PARK, SAMJIWON\n\nSound Powered by | IS DIFFERENT @isdifferent.co\n\nSound Production | IS DIFFERENT SERVICE @isdifferent_service\nExecutive Producer | APRO\nSound Design | ZENU \nSound Mixing & Mastering | ZENU @zenu.xo\nManagement | MINSU, YOUNG JUNE @mminsurr @srocket33\n\nDubbing | THUG MIN, JIYOOL KWON, KANGHYUK, YVNG WING\n\nCast | THUG MIN, JIYOOL KWON, EUNMOO KWON, DONGHYUN(PARTYBOYPARK)\n\nINSTAGRAM : Thug_Club"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "0Nmj3o9jh9WevkbHka2bW6SEG-w",
+      "id": "Tw_K-bXtmkE",
+      "snippet": {
+        "publishedAt": "2023-11-28T11:32:48Z",
+        "channelId": "UC79uBvtSAQzxYoSWmqrathg",
+        "title": "Fila x thug",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Tw_K-bXtmkE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Tw_K-bXtmkE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Tw_K-bXtmkE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Tw_K-bXtmkE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Tw_K-bXtmkE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THUG CLUB 떠그클럽",
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "Fila x thug",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT24S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "4637",
+        "likeCount": "117",
+        "favoriteCount": "0",
+        "commentCount": "4"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Entertainment",
+          "https://en.wikipedia.org/wiki/Hip_hop_music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "Fila x thug",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ax10cax2JHC0AqUV4KSMkXu3FIY",
+      "id": "6wUH2G9MP1M",
+      "snippet": {
+        "publishedAt": "2023-07-20T14:26:36Z",
+        "channelId": "UC79uBvtSAQzxYoSWmqrathg",
+        "title": "쉿- SZN x YONKO (M/V )",
+        "description": "@sznsoulz / @yonkorea \nProducer @sznsoulz \nCo Producer @thug_min\nVideo @rough_hyun_ / @star.lnk",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6wUH2G9MP1M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6wUH2G9MP1M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6wUH2G9MP1M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "THUG CLUB 떠그클럽",
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "쉿- SZN x YONKO (M/V )",
+          "description": "@sznsoulz / @yonkorea \nProducer @sznsoulz \nCo Producer @thug_min\nVideo @rough_hyun_ / @star.lnk"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT2M6S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "43043",
+        "likeCount": "640",
+        "favoriteCount": "0",
+        "commentCount": "65"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Hip_hop_music",
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Music_of_Asia",
+          "https://en.wikipedia.org/wiki/Pop_music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en": {
+          "title": "쉿- SZN x YONKO (M/V )",
+          "description": "@sznsoulz / @yonkorea \nProducer @sznsoulz \nCo Producer @thug_min\nVideo @rough_hyun_ / @star.lnk"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "kUnzsxAFUOZGvyg2rfQ_PTe8I9A",
+      "id": "3DCVuHMZ1bg",
+      "snippet": {
+        "publishedAt": "2023-07-11T07:57:14Z",
+        "channelId": "UC79uBvtSAQzxYoSWmqrathg",
+        "title": "TC CASTLE Teaser /Thug Club Teaser",
+        "description": "INSTAGRAM : Thug_Club",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3DCVuHMZ1bg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3DCVuHMZ1bg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3DCVuHMZ1bg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3DCVuHMZ1bg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3DCVuHMZ1bg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THUG CLUB 떠그클럽",
+        "tags": [
+          "떠그민"
+        ],
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "TC CASTLE Teaser /Thug Club Teaser",
+          "description": "INSTAGRAM : Thug_Club"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT25S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "6124",
+        "likeCount": "144",
+        "favoriteCount": "0",
+        "commentCount": "35"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en": {
+          "title": "TC CASTLE Teaser /Thug Club Teaser",
+          "description": "INSTAGRAM : Thug_Club"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "zKTxjhsrJTe32iZ0YQIjSWWN9NY",
+      "id": "Q0WVsJffzWg",
+      "snippet": {
+        "publishedAt": "2023-04-08T22:34:53Z",
+        "channelId": "UC79uBvtSAQzxYoSWmqrathg",
+        "title": "TC CASTLE \"MARCUS L\" (5yrs Anniveru Party)",
+        "description": "DJ : MARCUS L\nhttps://www.instagram.com/marcus_l_official/\n\nINSTAGRAM : Thug_Club",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Q0WVsJffzWg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Q0WVsJffzWg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Q0WVsJffzWg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Q0WVsJffzWg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Q0WVsJffzWg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THUG CLUB 떠그클럽",
+        "tags": [
+          "떠그민"
+        ],
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "TC CASTLE \"MARCUS L\" (5yrs Anniveru Party)",
+          "description": "DJ : MARCUS L\nhttps://www.instagram.com/marcus_l_official/\n\nINSTAGRAM : Thug_Club"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1H39M33S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "6187",
+        "likeCount": "50",
+        "favoriteCount": "0",
+        "commentCount": "11"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Electronic_music",
+          "https://en.wikipedia.org/wiki/Music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en": {
+          "title": "TC CASTLE \"MARCUS L\" (5yrs Anniveru Party)",
+          "description": "DJ : MARCUS L\nhttps://www.instagram.com/marcus_l_official/\n\nINSTAGRAM : Thug_Club"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "WJpqGv4jFBT1mkuSJImQZBISiLY",
+      "id": "fE-XdntcZYc",
+      "snippet": {
+        "publishedAt": "2023-04-08T22:34:04Z",
+        "channelId": "UC79uBvtSAQzxYoSWmqrathg",
+        "title": "TC CASTLE \"JVVN\" (5yrs Anniveru Party)",
+        "description": "DJ : 0jvvn  테크노유해진\nhttps://www.instagram.com/0jvvn/\n\nINSTAGRAM : Thug_Club",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fE-XdntcZYc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fE-XdntcZYc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fE-XdntcZYc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fE-XdntcZYc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fE-XdntcZYc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THUG CLUB 떠그클럽",
+        "tags": [
+          "떠그민"
+        ],
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "TC CASTLE \"JVVN\" (5yrs Anniveru Party)",
+          "description": "DJ : 0jvvn  테크노유해진\nhttps://www.instagram.com/0jvvn/\n\nINSTAGRAM : Thug_Club"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT1H54M40S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "3126",
+        "likeCount": "41",
+        "favoriteCount": "0",
+        "commentCount": "11"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Electronic_music",
+          "https://en.wikipedia.org/wiki/Music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "TC CASTLE \"JVVN\" (5yrs Anniveru Party)",
+          "description": "DJ : 0jvvn  테크노유해진\nhttps://www.instagram.com/0jvvn/\n\nINSTAGRAM : Thug_Club"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Ok6KHIHB9hBRWxtLhtTrfWd2evM",
+      "id": "KsEWpovtBcE",
+      "snippet": {
+        "publishedAt": "2023-04-08T22:12:17Z",
+        "channelId": "UC79uBvtSAQzxYoSWmqrathg",
+        "title": "TC CASTLE \"Soraere Brocken\" (5yrs Anniveru Party)",
+        "description": "DJ : Soraere_brocken\nhttps://www.instagram.com/soraere_brocken/\nINSTAGRAM : Thug_Club",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KsEWpovtBcE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KsEWpovtBcE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KsEWpovtBcE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KsEWpovtBcE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KsEWpovtBcE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THUG CLUB 떠그클럽",
+        "tags": [
+          "떠그민"
+        ],
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "TC CASTLE \"Soraere Brocken\" (5yrs Anniveru Party)",
+          "description": "DJ : Soraere_brocken\nhttps://www.instagram.com/soraere_brocken/\nINSTAGRAM : Thug_Club"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT1H1M11S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "2160",
+        "likeCount": "40",
+        "favoriteCount": "0",
+        "commentCount": "15"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Electronic_music",
+          "https://en.wikipedia.org/wiki/Music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en": {
+          "title": "TC CASTLE \"Soraere Brocken\" (5yrs Anniveru Party)",
+          "description": "DJ : Soraere_brocken\nhttps://www.instagram.com/soraere_brocken/\nINSTAGRAM : Thug_Club"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "iWRiqeTNQdEiKLqCMuhXiADf5TM",
+      "id": "Fjs34ZcJvK0",
+      "snippet": {
+        "publishedAt": "2023-04-08T22:02:39Z",
+        "channelId": "UC79uBvtSAQzxYoSWmqrathg",
+        "title": "TC CASTLE \"KURO\" (5yrs Anniveru Party)",
+        "description": "(5yrs Anniveru Party)\nDJ : KURO \n(https://www.instagram.com/kuro_5sang/)\n\nInstagram : Thug_Club",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Fjs34ZcJvK0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Fjs34ZcJvK0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Fjs34ZcJvK0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Fjs34ZcJvK0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Fjs34ZcJvK0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THUG CLUB 떠그클럽",
+        "tags": [
+          "떠그민"
+        ],
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "TC CASTLE \"KURO\" (5yrs Anniveru Party)",
+          "description": "(5yrs Anniveru Party)\nDJ : KURO \n(https://www.instagram.com/kuro_5sang/)\n\nInstagram : Thug_Club"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT56M48S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "2971",
+        "likeCount": "33",
+        "favoriteCount": "0",
+        "commentCount": "6"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Electronic_music",
+          "https://en.wikipedia.org/wiki/Music"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en": {
+          "title": "TC CASTLE \"KURO\" (5yrs Anniveru Party)",
+          "description": "(5yrs Anniveru Party)\nDJ : KURO \n(https://www.instagram.com/kuro_5sang/)\n\nInstagram : Thug_Club"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "GkR5rEQo1dlfSC9YXqoGMnKz8qQ",
+      "id": "XoIZc5wsUIw",
+      "snippet": {
+        "publishedAt": "2023-04-05T16:59:40Z",
+        "channelId": "UC79uBvtSAQzxYoSWmqrathg",
+        "title": "김정은 (Kim Jong Eun)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XoIZc5wsUIw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XoIZc5wsUIw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XoIZc5wsUIw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XoIZc5wsUIw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XoIZc5wsUIw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THUG CLUB 떠그클럽",
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "김정은 (Kim Jong Eun)",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT23S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "10151",
+        "likeCount": "234",
+        "favoriteCount": "0",
+        "commentCount": "14"
+      },
+      "recordingDetails": {
+        "locationDescription": "Shibuya Scramble Crossing",
+        "location": {
+          "latitude": 35.659482,
+          "longitude": 139.7005596,
+          "altitude": 0
+        }
+      },
+      "localizations": {
+        "ko": {
+          "title": "김정은 (Kim Jong Eun)",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "j4nPT4vn0a_CFcG8OKJebJxf-Rc",
+      "id": "N35JROPI_Jk",
+      "snippet": {
+        "publishedAt": "2023-04-02T00:40:13Z",
+        "channelId": "UC79uBvtSAQzxYoSWmqrathg",
+        "title": "VID 20230401 123227 00 015",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/N35JROPI_Jk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/N35JROPI_Jk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/N35JROPI_Jk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/N35JROPI_Jk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/N35JROPI_Jk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THUG CLUB 떠그클럽",
+        "tags": [
+          "떠그민"
+        ],
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "VID 20230401 123227 00 015",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT2M8S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "9210",
+        "likeCount": "162",
+        "favoriteCount": "0",
+        "commentCount": "41"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "VID 20230401 123227 00 015",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "7UEtf1R5VyUJ2gMCld337HcaUVU",
+      "id": "vGMYKwMnkbo",
+      "snippet": {
+        "publishedAt": "2023-03-15T12:41:34Z",
+        "channelId": "UC79uBvtSAQzxYoSWmqrathg",
+        "title": "Thug Club x MCM (2023)",
+        "description": "Instagram : https://www.instagram.com/thug_club/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vGMYKwMnkbo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vGMYKwMnkbo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vGMYKwMnkbo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vGMYKwMnkbo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vGMYKwMnkbo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THUG CLUB 떠그클럽",
+        "tags": [
+          "MCM",
+          "TC",
+          "Thug club",
+          "떠그클럽"
+        ],
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Thug Club x MCM (2023)",
+          "description": "Instagram : https://www.instagram.com/thug_club/"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT21S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "8651",
+        "likeCount": "251",
+        "favoriteCount": "0",
+        "commentCount": "10"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en": {
+          "title": "Thug Club x MCM (2023)",
+          "description": "Instagram : https://www.instagram.com/thug_club/"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "1Tksx6vlaNVZOXnfCDjT-4_n8DY",
+      "id": "VZaXM5Cg1O8",
+      "snippet": {
+        "publishedAt": "2022-05-20T03:08:10Z",
+        "channelId": "UC79uBvtSAQzxYoSWmqrathg",
+        "title": "HOT BOX",
+        "description": "THUG CLUB\nNew Furniture Line \nHOTBOX\n\nInsense holder inside\nSide TC Emblem \ncenter Tc \nLaser center",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VZaXM5Cg1O8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VZaXM5Cg1O8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VZaXM5Cg1O8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "THUG CLUB 떠그클럽",
+        "tags": [
+          "떠그민"
+        ],
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "HOT BOX",
+          "description": "THUG CLUB\nNew Furniture Line \nHOTBOX\n\nInsense holder inside\nSide TC Emblem \ncenter Tc \nLaser center"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT28S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "30708",
+        "likeCount": "367",
+        "favoriteCount": "0",
+        "commentCount": "67"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en": {
+          "title": "HOT BOX",
+          "description": "THUG CLUB\nNew Furniture Line \nHOTBOX\n\nInsense holder inside\nSide TC Emblem \ncenter Tc \nLaser center"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "IfxXGPIaz3pFxU_dAH9mR09WuRg",
+      "id": "yBfqMvQMp2A",
+      "snippet": {
+        "publishedAt": "2020-09-20T04:15:41Z",
+        "channelId": "UC79uBvtSAQzxYoSWmqrathg",
+        "title": "대한민국 남자의 혼자 성기 제모",
+        "description": "INSTAGRAM : Thug_Min",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yBfqMvQMp2A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yBfqMvQMp2A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yBfqMvQMp2A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yBfqMvQMp2A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "THUG CLUB 떠그클럽",
+        "tags": [
+          "남자 왁싱",
+          "브라질리언왁싱",
+          "영마이왁싱",
+          "영마이꼬털",
+          "영마이겨털",
+          "영마이제모",
+          "남자제모",
+          "남자고추털제모",
+          "제모",
+          "여자제모",
+          "여자브라질리언왁싱",
+          "브라질리언 왁싱 셀프 후기",
+          "브라질리언 왁싱 셀프"
+        ],
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "대한민국 남자의 혼자 성기 제모",
+          "description": "INSTAGRAM : Thug_Min"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT10M46S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {
+          "ytRating": "ytAgeRestricted"
+        },
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "131214",
+        "likeCount": "2189",
+        "favoriteCount": "0",
+        "commentCount": "431"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "대한민국 남자의 혼자 성기 제모",
+          "description": "INSTAGRAM : Thug_Min"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Cwdex_H_vQLlcUnjte26U9wZzmU",
+      "id": "yEwxCvoAnGc",
+      "snippet": {
+        "publishedAt": "2020-08-06T06:08:10Z",
+        "channelId": "UC79uBvtSAQzxYoSWmqrathg",
+        "title": "[조영민]",
+        "description": "INSTAGRAM : Thug_Min",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yEwxCvoAnGc/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yEwxCvoAnGc/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yEwxCvoAnGc/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yEwxCvoAnGc/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yEwxCvoAnGc/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THUG CLUB 떠그클럽",
+        "tags": [
+          "조영민",
+          "영민",
+          "페북조영민",
+          "페이스북조영민",
+          "페북영민",
+          "개그",
+          "유머",
+          "코믹",
+          "병맛",
+          "공감",
+          "개그동영상",
+          "유머동영상",
+          "병맛동영상",
+          "코믹동영상",
+          "공감동영상",
+          "Comic",
+          "ComicVideo"
+        ],
+        "categoryId": "23",
+        "liveBroadcastContent": "upcoming",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[조영민]",
+          "description": "INSTAGRAM : Thug_Min"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "P0D",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "uploaded",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "0",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "[조영민]",
+          "description": "INSTAGRAM : Thug_Min"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "qk1YgRf4m_vsKSrEynig8Xiz25s",
+      "id": "8K7GYoYRB3U",
+      "snippet": {
+        "publishedAt": "2020-03-29T23:57:44Z",
+        "channelId": "UC79uBvtSAQzxYoSWmqrathg",
+        "title": "보 태 현 가 자 ! ! !",
+        "description": "인스타 @thug_min \n보태현@taeboy01",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8K7GYoYRB3U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8K7GYoYRB3U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8K7GYoYRB3U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8K7GYoYRB3U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "THUG CLUB 떠그클럽",
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "보 태 현 가 자 ! ! !",
+          "description": "인스타 @thug_min \n보태현@taeboy01"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT1M32S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "23631",
+        "likeCount": "489",
+        "favoriteCount": "0",
+        "commentCount": "45"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "보 태 현 가 자 ! ! !",
+          "description": "인스타 @thug_min \n보태현@taeboy01"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "XdMZ41m64-n8zLa7WHZ-6OGPqpU",
+      "id": "5T7xXd2MAjU",
+      "snippet": {
+        "publishedAt": "2016-03-12T16:07:35Z",
+        "channelId": "UC79uBvtSAQzxYoSWmqrathg",
+        "title": "여수밤바다 섹온비",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5T7xXd2MAjU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5T7xXd2MAjU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5T7xXd2MAjU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "THUG CLUB 떠그클럽",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "여수밤바다 섹온비",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT4M10S",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "737365",
+        "likeCount": "5390",
+        "favoriteCount": "0",
+        "commentCount": "595"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Music",
+          "https://en.wikipedia.org/wiki/Music_of_Asia",
+          "https://en.wikipedia.org/wiki/Performing_arts"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "여수밤바다 섹온비",
+          "description": ""
+        }
+      }
+    }
+  ]
+}

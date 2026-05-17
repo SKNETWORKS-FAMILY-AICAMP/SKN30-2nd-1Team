@@ -1,0 +1,271 @@
+{
+  "idx": 2096,
+  "channel_id": "UCZ0OwH313FB_128d0xPxBOQ",
+  "channel_title": "랭커비",
+  "playlist_items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-9okbsUH3dKRWlWgQg1CUHBYBC4",
+      "id": "VVVaME93SDMxM0ZCXzEyOGQweFB4Qk9RLmNJWnFVS00yR1pz",
+      "snippet": {
+        "publishedAt": "2026-04-09T03:38:07Z",
+        "channelId": "UCZ0OwH313FB_128d0xPxBOQ",
+        "title": "40만 라이더들을 울려버린 전설의 수상소감!!",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cIZqUKM2GZs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cIZqUKM2GZs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cIZqUKM2GZs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cIZqUKM2GZs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cIZqUKM2GZs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "랭커비",
+        "playlistId": "UUZ0OwH313FB_128d0xPxBOQ",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "cIZqUKM2GZs"
+        },
+        "videoOwnerChannelTitle": "랭커비",
+        "videoOwnerChannelId": "UCZ0OwH313FB_128d0xPxBOQ"
+      },
+      "contentDetails": {
+        "videoId": "cIZqUKM2GZs",
+        "videoPublishedAt": "2026-04-09T03:38:07Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zJONvoj5nrDbjUhqCkbMz7SFQhs",
+      "id": "VVVaME93SDMxM0ZCXzEyOGQweFB4Qk9RLkotTmdnNTFCdFA4",
+      "snippet": {
+        "publishedAt": "2019-03-07T15:05:21Z",
+        "channelId": "UCZ0OwH313FB_128d0xPxBOQ",
+        "title": "랭커비님의 실시간 스트리밍",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/J-Ngg51BtP8/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/J-Ngg51BtP8/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/J-Ngg51BtP8/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/J-Ngg51BtP8/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/J-Ngg51BtP8/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "랭커비",
+        "playlistId": "UUZ0OwH313FB_128d0xPxBOQ",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "J-Ngg51BtP8"
+        },
+        "videoOwnerChannelTitle": "랭커비",
+        "videoOwnerChannelId": "UCZ0OwH313FB_128d0xPxBOQ"
+      },
+      "contentDetails": {
+        "videoId": "J-Ngg51BtP8",
+        "videoPublishedAt": "2019-03-07T15:05:21Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "video_details": [
+    {
+      "kind": "youtube#video",
+      "etag": "w8Ll_Vz-mXMJHfyUDyXFINbwrDs",
+      "id": "cIZqUKM2GZs",
+      "snippet": {
+        "publishedAt": "2026-04-09T03:38:07Z",
+        "channelId": "UCZ0OwH313FB_128d0xPxBOQ",
+        "title": "40만 라이더들을 울려버린 전설의 수상소감!!",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cIZqUKM2GZs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cIZqUKM2GZs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cIZqUKM2GZs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cIZqUKM2GZs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cIZqUKM2GZs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "랭커비",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "40만 라이더들을 울려버린 전설의 수상소감!!",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT1M5S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1402",
+        "likeCount": "7",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "40만 라이더들을 울려버린 전설의 수상소감!!",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "sGFmH3bcnRqa9rHWc_aguQs_cHU",
+      "id": "J-Ngg51BtP8",
+      "snippet": {
+        "publishedAt": "2019-03-07T15:05:21Z",
+        "channelId": "UCZ0OwH313FB_128d0xPxBOQ",
+        "title": "랭커비님의 실시간 스트리밍",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/J-Ngg51BtP8/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/J-Ngg51BtP8/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/J-Ngg51BtP8/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/J-Ngg51BtP8/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/J-Ngg51BtP8/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "랭커비",
+        "categoryId": "24",
+        "liveBroadcastContent": "upcoming",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "랭커비님의 실시간 스트리밍",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "P0D",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "uploaded",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "0",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "랭커비님의 실시간 스트리밍",
+          "description": ""
+        }
+      }
+    }
+  ]
+}

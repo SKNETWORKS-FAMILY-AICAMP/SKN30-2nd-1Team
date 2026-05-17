@@ -1,0 +1,296 @@
+{
+  "idx": 2610,
+  "channel_id": "UCwwQMcqCj6XzXDlcXmwZytg",
+  "channel_title": "우낄라고",
+  "playlist_items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "0cfCa5bj4UhxK3JTLvrv2zxe3k8",
+      "id": "VVV3d1FNY3FDajZYelhEbGNYbXdaeXRnLmEycnFZZThTN0dB",
+      "snippet": {
+        "publishedAt": "2023-06-15T06:15:01Z",
+        "channelId": "UCwwQMcqCj6XzXDlcXmwZytg",
+        "title": "쫑구는 한의사",
+        "description": "#몰카 #우낄라고 #한의사",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/a2rqYe8S7GA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/a2rqYe8S7GA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/a2rqYe8S7GA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/a2rqYe8S7GA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/a2rqYe8S7GA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "우낄라고",
+        "playlistId": "UUwwQMcqCj6XzXDlcXmwZytg",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "a2rqYe8S7GA"
+        },
+        "videoOwnerChannelTitle": "우낄라고",
+        "videoOwnerChannelId": "UCwwQMcqCj6XzXDlcXmwZytg"
+      },
+      "contentDetails": {
+        "videoId": "a2rqYe8S7GA",
+        "videoPublishedAt": "2023-06-15T06:15:01Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "WYTkh7CTepaTidGfLxrUaIrYdhI",
+      "id": "VVV3d1FNY3FDajZYelhEbGNYbXdaeXRnLmtkSHhWZzRsQVVN",
+      "snippet": {
+        "publishedAt": "2020-06-19T12:56:09Z",
+        "channelId": "UCwwQMcqCj6XzXDlcXmwZytg",
+        "title": "우낄라고님의 실시간 스트리밍",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kdHxVg4lAUM/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kdHxVg4lAUM/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kdHxVg4lAUM/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kdHxVg4lAUM/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kdHxVg4lAUM/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "우낄라고",
+        "playlistId": "UUwwQMcqCj6XzXDlcXmwZytg",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "kdHxVg4lAUM"
+        },
+        "videoOwnerChannelTitle": "우낄라고",
+        "videoOwnerChannelId": "UCwwQMcqCj6XzXDlcXmwZytg"
+      },
+      "contentDetails": {
+        "videoId": "kdHxVg4lAUM",
+        "videoPublishedAt": "2020-06-19T12:56:09Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "video_details": [
+    {
+      "kind": "youtube#video",
+      "etag": "fPcDF2W56LJcszMFA_W1zt5Kv9A",
+      "id": "a2rqYe8S7GA",
+      "snippet": {
+        "publishedAt": "2023-06-15T06:15:01Z",
+        "channelId": "UCwwQMcqCj6XzXDlcXmwZytg",
+        "title": "쫑구는 한의사",
+        "description": "#몰카 #우낄라고 #한의사",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/a2rqYe8S7GA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/a2rqYe8S7GA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/a2rqYe8S7GA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/a2rqYe8S7GA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/a2rqYe8S7GA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "우낄라고",
+        "tags": [
+          "몰카",
+          "몰래카메라",
+          "웃긴영상",
+          "코미디",
+          "스케치코미디",
+          "개그",
+          "쓰리콤보",
+          "성용",
+          "구공탄",
+          "땅콩찐콩",
+          "당황티비",
+          "전승배",
+          "순자엄마",
+          "미녀",
+          "미녀몰카",
+          "쫑구",
+          "우일이형",
+          "180초"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "쫑구는 한의사",
+          "description": "#몰카 #우낄라고 #한의사"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT3M3S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "7252",
+        "likeCount": "112",
+        "favoriteCount": "0",
+        "commentCount": "26"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Health"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "쫑구는 한의사",
+          "description": "#몰카 #우낄라고 #한의사"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "kpU6j82DcvhyAWYdRH31HnzIvqw",
+      "id": "kdHxVg4lAUM",
+      "snippet": {
+        "publishedAt": "2020-06-19T12:56:09Z",
+        "channelId": "UCwwQMcqCj6XzXDlcXmwZytg",
+        "title": "우낄라고님의 실시간 스트리밍",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kdHxVg4lAUM/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kdHxVg4lAUM/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kdHxVg4lAUM/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kdHxVg4lAUM/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kdHxVg4lAUM/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "우낄라고",
+        "categoryId": "22",
+        "liveBroadcastContent": "upcoming",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "우낄라고님의 실시간 스트리밍",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "P0D",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "uploaded",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "0",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "우낄라고님의 실시간 스트리밍",
+          "description": ""
+        }
+      }
+    }
+  ]
+}

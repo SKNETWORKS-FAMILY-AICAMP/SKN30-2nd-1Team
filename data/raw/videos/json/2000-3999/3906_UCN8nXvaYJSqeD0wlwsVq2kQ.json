@@ -1,0 +1,1273 @@
+{
+  "idx": 3906,
+  "channel_id": "UCN8nXvaYJSqeD0wlwsVq2kQ",
+  "channel_title": "개리유튜브",
+  "playlist_items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ZnNdOPkQVh-Cq2qKro2J9qlzHfw",
+      "id": "VVVOOG5YdmFZSlNxZUQwd2x3c1ZxMmtRLnJXV29ERHo5OUo4",
+      "snippet": {
+        "publishedAt": "2026-05-15T18:00:54Z",
+        "channelId": "UCN8nXvaYJSqeD0wlwsVq2kQ",
+        "title": "레드크리븐 에픽 최강 옵션 [메이플 플래닛]",
+        "description": "개리 생방송 방송국 - https://www.sooplive.com/station/qpqopq",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rWWoDDz99J8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rWWoDDz99J8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rWWoDDz99J8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rWWoDDz99J8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rWWoDDz99J8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "개리유튜브",
+        "playlistId": "UUN8nXvaYJSqeD0wlwsVq2kQ",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "rWWoDDz99J8"
+        },
+        "videoOwnerChannelTitle": "개리유튜브",
+        "videoOwnerChannelId": "UCN8nXvaYJSqeD0wlwsVq2kQ"
+      },
+      "contentDetails": {
+        "videoId": "rWWoDDz99J8",
+        "videoPublishedAt": "2026-05-15T18:00:54Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "XTDQLDOgVSbxIyGBMgNQ8qrkTkg",
+      "id": "VVVOOG5YdmFZSlNxZUQwd2x3c1ZxMmtRLmdHVl9jaVlxWEpz",
+      "snippet": {
+        "publishedAt": "2026-05-14T08:30:17Z",
+        "channelId": "UCN8nXvaYJSqeD0wlwsVq2kQ",
+        "title": "무자본이 돈버는 방법 [메이플 플래닛]",
+        "description": "개리 생방송 방송국 - https://www.sooplive.com/station/qpqopq",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gGV_ciYqXJs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gGV_ciYqXJs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gGV_ciYqXJs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gGV_ciYqXJs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gGV_ciYqXJs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "개리유튜브",
+        "playlistId": "UUN8nXvaYJSqeD0wlwsVq2kQ",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "gGV_ciYqXJs"
+        },
+        "videoOwnerChannelTitle": "개리유튜브",
+        "videoOwnerChannelId": "UCN8nXvaYJSqeD0wlwsVq2kQ"
+      },
+      "contentDetails": {
+        "videoId": "gGV_ciYqXJs",
+        "videoPublishedAt": "2026-05-14T08:30:17Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "gFrNPKiopBBLemTElsE0aIh1tWE",
+      "id": "VVVOOG5YdmFZSlNxZUQwd2x3c1ZxMmtRLmZjUWdSTlBJdk1J",
+      "snippet": {
+        "publishedAt": "2026-05-13T04:00:41Z",
+        "channelId": "UCN8nXvaYJSqeD0wlwsVq2kQ",
+        "title": "750만 메소 버는법 [메이플 플래닛]",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fcQgRNPIvMI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fcQgRNPIvMI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fcQgRNPIvMI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fcQgRNPIvMI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fcQgRNPIvMI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "개리유튜브",
+        "playlistId": "UUN8nXvaYJSqeD0wlwsVq2kQ",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fcQgRNPIvMI"
+        },
+        "videoOwnerChannelTitle": "개리유튜브",
+        "videoOwnerChannelId": "UCN8nXvaYJSqeD0wlwsVq2kQ"
+      },
+      "contentDetails": {
+        "videoId": "fcQgRNPIvMI",
+        "videoPublishedAt": "2026-05-13T04:00:41Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "KgrLg5KUiL2EVL9KtiROQo2qGFg",
+      "id": "VVVOOG5YdmFZSlNxZUQwd2x3c1ZxMmtRLjVkYWs4QWV1UXgw",
+      "snippet": {
+        "publishedAt": "2026-05-10T05:00:05Z",
+        "channelId": "UCN8nXvaYJSqeD0wlwsVq2kQ",
+        "title": "용기사 리버스 알슈피스 제작",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5dak8AeuQx0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5dak8AeuQx0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5dak8AeuQx0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5dak8AeuQx0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5dak8AeuQx0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "개리유튜브",
+        "playlistId": "UUN8nXvaYJSqeD0wlwsVq2kQ",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "5dak8AeuQx0"
+        },
+        "videoOwnerChannelTitle": "개리유튜브",
+        "videoOwnerChannelId": "UCN8nXvaYJSqeD0wlwsVq2kQ"
+      },
+      "contentDetails": {
+        "videoId": "5dak8AeuQx0",
+        "videoPublishedAt": "2026-05-10T05:00:05Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "9OkvefzW6X_cKkbDyfGltTxd7Nk",
+      "id": "VVVOOG5YdmFZSlNxZUQwd2x3c1ZxMmtRLktCN2piZVhKSC13",
+      "snippet": {
+        "publishedAt": "2026-05-10T01:57:10Z",
+        "channelId": "UCN8nXvaYJSqeD0wlwsVq2kQ",
+        "title": "매크로 수준 [메이플 플래닛]",
+        "description": "메이플 플래닛 서버\n생방송 : https://www.sooplive.com/station/qpqopq",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KB7jbeXJH-w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KB7jbeXJH-w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KB7jbeXJH-w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KB7jbeXJH-w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KB7jbeXJH-w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "개리유튜브",
+        "playlistId": "UUN8nXvaYJSqeD0wlwsVq2kQ",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KB7jbeXJH-w"
+        },
+        "videoOwnerChannelTitle": "개리유튜브",
+        "videoOwnerChannelId": "UCN8nXvaYJSqeD0wlwsVq2kQ"
+      },
+      "contentDetails": {
+        "videoId": "KB7jbeXJH-w",
+        "videoPublishedAt": "2026-05-10T01:57:10Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "yDoam52b5ClRhW0kU_N4saT_LNc",
+      "id": "VVVOOG5YdmFZSlNxZUQwd2x3c1ZxMmtRLmpOU3ZONGJ4UnBz",
+      "snippet": {
+        "publishedAt": "2025-12-07T16:01:19Z",
+        "channelId": "UCN8nXvaYJSqeD0wlwsVq2kQ",
+        "title": "LP청소하는 영상",
+        "description": "취미로 LP모으는데 주기적으로 하는 LP청소하는 영상입니다",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jNSvN4bxRps/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jNSvN4bxRps/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jNSvN4bxRps/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jNSvN4bxRps/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jNSvN4bxRps/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "개리유튜브",
+        "playlistId": "UUN8nXvaYJSqeD0wlwsVq2kQ",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "jNSvN4bxRps"
+        },
+        "videoOwnerChannelTitle": "개리유튜브",
+        "videoOwnerChannelId": "UCN8nXvaYJSqeD0wlwsVq2kQ"
+      },
+      "contentDetails": {
+        "videoId": "jNSvN4bxRps",
+        "videoPublishedAt": "2025-12-07T16:01:19Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "gBh_HCWVGmr6vKz7G3KLdMgrBAU",
+      "id": "VVVOOG5YdmFZSlNxZUQwd2x3c1ZxMmtRLktGQkNjUHFoN0Jr",
+      "snippet": {
+        "publishedAt": "2015-10-08T07:00:00Z",
+        "channelId": "UCN8nXvaYJSqeD0wlwsVq2kQ",
+        "title": "콜라캔 따는 영상",
+        "description": "본명 : 임종호\n나이: 96년생\n특징 : 최근에 멤버 복귀함\n\n인스타그램\n► https://www.instagram.com/gr_ljh/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KFBCcPqh7Bk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KFBCcPqh7Bk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KFBCcPqh7Bk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KFBCcPqh7Bk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KFBCcPqh7Bk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "개리유튜브",
+        "playlistId": "UUN8nXvaYJSqeD0wlwsVq2kQ",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KFBCcPqh7Bk"
+        },
+        "videoOwnerChannelTitle": "개리유튜브",
+        "videoOwnerChannelId": "UCN8nXvaYJSqeD0wlwsVq2kQ"
+      },
+      "contentDetails": {
+        "videoId": "KFBCcPqh7Bk",
+        "videoPublishedAt": "2015-10-08T07:00:00Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "video_details": [
+    {
+      "kind": "youtube#video",
+      "etag": "_KbnYULHeobFeGDzA7BKIeVG2Rs",
+      "id": "rWWoDDz99J8",
+      "snippet": {
+        "publishedAt": "2026-05-15T18:00:54Z",
+        "channelId": "UCN8nXvaYJSqeD0wlwsVq2kQ",
+        "title": "레드크리븐 에픽 최강 옵션 [메이플 플래닛]",
+        "description": "개리 생방송 방송국 - https://www.sooplive.com/station/qpqopq",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rWWoDDz99J8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rWWoDDz99J8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rWWoDDz99J8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rWWoDDz99J8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rWWoDDz99J8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "개리유튜브",
+        "tags": [
+          "개리",
+          "마인크래프트",
+          "마인크래프트 모드",
+          "마인크래프트 모드리뷰",
+          "마인크래프트 리뷰",
+          "마인크래프트 컨텐츠",
+          "minecraft",
+          "Minecraft Mod",
+          "mod",
+          "마크",
+          "마크 모드",
+          "마크리뷰",
+          "양배추",
+          "김짱돌",
+          "앙또",
+          "롤큐",
+          "LOLQ",
+          "모드상황극",
+          "마인크래프트 상황극",
+          "마인크래프트 모드 상황극",
+          "마인크래프트 스토리 모드",
+          "개리마인크래프트",
+          "1.14.4",
+          "1.12.2",
+          "1.15.2",
+          "1.16.4",
+          "1.16.5",
+          "1.17",
+          "가이코",
+          "제비",
+          "세븐",
+          "로어보이",
+          "만두",
+          "마인크래프트 실험실",
+          "마인크래프트 야생 생존기",
+          "마인크래프트 야생",
+          "마인크래프트 건축",
+          "마인크래프트 집짓기",
+          "마인크래프트 무료 다운로드",
+          "minecraft 1.17",
+          "minecraft ost",
+          "마인크래프트1.17"
+        ],
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "레드크리븐 에픽 최강 옵션 [메이플 플래닛]",
+          "description": "개리 생방송 방송국 - https://www.sooplive.com/station/qpqopq"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT1M11S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "9227",
+        "likeCount": "36",
+        "favoriteCount": "0",
+        "commentCount": "4"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Role-playing_video_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "레드크리븐 에픽 최강 옵션 [메이플 플래닛]",
+          "description": "개리 생방송 방송국 - https://www.sooplive.com/station/qpqopq"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "bPoh9w0CDOqTh5qcTYZvUADqwSE",
+      "id": "gGV_ciYqXJs",
+      "snippet": {
+        "publishedAt": "2026-05-14T08:30:17Z",
+        "channelId": "UCN8nXvaYJSqeD0wlwsVq2kQ",
+        "title": "무자본이 돈버는 방법 [메이플 플래닛]",
+        "description": "개리 생방송 방송국 - https://www.sooplive.com/station/qpqopq",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gGV_ciYqXJs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gGV_ciYqXJs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gGV_ciYqXJs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gGV_ciYqXJs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gGV_ciYqXJs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "개리유튜브",
+        "tags": [
+          "개리",
+          "마인크래프트",
+          "마인크래프트 모드",
+          "마인크래프트 모드리뷰",
+          "마인크래프트 리뷰",
+          "마인크래프트 컨텐츠",
+          "minecraft",
+          "Minecraft Mod",
+          "mod",
+          "마크",
+          "마크 모드",
+          "마크리뷰",
+          "양배추",
+          "김짱돌",
+          "앙또",
+          "롤큐",
+          "LOLQ",
+          "모드상황극",
+          "마인크래프트 상황극",
+          "마인크래프트 모드 상황극",
+          "마인크래프트 스토리 모드",
+          "개리마인크래프트",
+          "1.14.4",
+          "1.12.2",
+          "1.15.2",
+          "1.16.4",
+          "1.16.5",
+          "1.17",
+          "가이코",
+          "제비",
+          "세븐",
+          "로어보이",
+          "만두",
+          "마인크래프트 실험실",
+          "마인크래프트 야생 생존기",
+          "마인크래프트 야생",
+          "마인크래프트 건축",
+          "마인크래프트 집짓기",
+          "마인크래프트 무료 다운로드",
+          "minecraft 1.17",
+          "minecraft ost",
+          "마인크래프트1.17"
+        ],
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "무자본이 돈버는 방법 [메이플 플래닛]",
+          "description": "개리 생방송 방송국 - https://www.sooplive.com/station/qpqopq"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT7M20S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "3737",
+        "likeCount": "68",
+        "favoriteCount": "0",
+        "commentCount": "8"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Role-playing_video_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "무자본이 돈버는 방법 [메이플 플래닛]",
+          "description": "개리 생방송 방송국 - https://www.sooplive.com/station/qpqopq"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "0R0VBI6xPa2RTIj69h2afCJMDJ8",
+      "id": "fcQgRNPIvMI",
+      "snippet": {
+        "publishedAt": "2026-05-13T04:00:41Z",
+        "channelId": "UCN8nXvaYJSqeD0wlwsVq2kQ",
+        "title": "750만 메소 버는법 [메이플 플래닛]",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fcQgRNPIvMI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fcQgRNPIvMI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fcQgRNPIvMI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fcQgRNPIvMI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fcQgRNPIvMI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "개리유튜브",
+        "tags": [
+          "개리",
+          "마인크래프트",
+          "마인크래프트 모드",
+          "마인크래프트 모드리뷰",
+          "마인크래프트 리뷰",
+          "마인크래프트 컨텐츠",
+          "minecraft",
+          "Minecraft Mod",
+          "mod",
+          "마크",
+          "마크 모드",
+          "마크리뷰",
+          "양배추",
+          "김짱돌",
+          "앙또",
+          "롤큐",
+          "LOLQ",
+          "모드상황극",
+          "마인크래프트 상황극",
+          "마인크래프트 모드 상황극",
+          "마인크래프트 스토리 모드",
+          "개리마인크래프트",
+          "1.14.4",
+          "1.12.2",
+          "1.15.2",
+          "1.16.4",
+          "1.16.5",
+          "1.17",
+          "가이코",
+          "제비",
+          "세븐",
+          "로어보이",
+          "만두",
+          "마인크래프트 실험실",
+          "마인크래프트 야생 생존기",
+          "마인크래프트 야생",
+          "마인크래프트 건축",
+          "마인크래프트 집짓기",
+          "마인크래프트 무료 다운로드",
+          "minecraft 1.17",
+          "minecraft ost",
+          "마인크래프트1.17"
+        ],
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "750만 메소 버는법 [메이플 플래닛]",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT1M3S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "22273",
+        "likeCount": "77",
+        "favoriteCount": "0",
+        "commentCount": "5"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "750만 메소 버는법 [메이플 플래닛]",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "pcHNzdC9huPxCiWaJ9u--efym3o",
+      "id": "5dak8AeuQx0",
+      "snippet": {
+        "publishedAt": "2026-05-10T05:00:05Z",
+        "channelId": "UCN8nXvaYJSqeD0wlwsVq2kQ",
+        "title": "용기사 리버스 알슈피스 제작",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5dak8AeuQx0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5dak8AeuQx0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5dak8AeuQx0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5dak8AeuQx0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5dak8AeuQx0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "개리유튜브",
+        "tags": [
+          "개리",
+          "마인크래프트",
+          "마인크래프트 모드",
+          "마인크래프트 모드리뷰",
+          "마인크래프트 리뷰",
+          "마인크래프트 컨텐츠",
+          "minecraft",
+          "Minecraft Mod",
+          "mod",
+          "마크",
+          "마크 모드",
+          "마크리뷰",
+          "양배추",
+          "김짱돌",
+          "앙또",
+          "롤큐",
+          "LOLQ",
+          "모드상황극",
+          "마인크래프트 상황극",
+          "마인크래프트 모드 상황극",
+          "마인크래프트 스토리 모드",
+          "개리마인크래프트",
+          "1.14.4",
+          "1.12.2",
+          "1.15.2",
+          "1.16.4",
+          "1.16.5",
+          "1.17",
+          "가이코",
+          "제비",
+          "세븐",
+          "로어보이",
+          "만두",
+          "마인크래프트 실험실",
+          "마인크래프트 야생 생존기",
+          "마인크래프트 야생",
+          "마인크래프트 건축",
+          "마인크래프트 집짓기",
+          "마인크래프트 무료 다운로드",
+          "minecraft 1.17",
+          "minecraft ost",
+          "마인크래프트1.17"
+        ],
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "용기사 리버스 알슈피스 제작",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT1M21S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "5369",
+        "likeCount": "92",
+        "favoriteCount": "0",
+        "commentCount": "10"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Action_game",
+          "https://en.wikipedia.org/wiki/Role-playing_video_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "용기사 리버스 알슈피스 제작",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "4l4oJv98V87tQVeUkEaamTEyjgg",
+      "id": "KB7jbeXJH-w",
+      "snippet": {
+        "publishedAt": "2026-05-10T01:57:10Z",
+        "channelId": "UCN8nXvaYJSqeD0wlwsVq2kQ",
+        "title": "매크로 수준 [메이플 플래닛]",
+        "description": "메이플 플래닛 서버\n생방송 : https://www.sooplive.com/station/qpqopq",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KB7jbeXJH-w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KB7jbeXJH-w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KB7jbeXJH-w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KB7jbeXJH-w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KB7jbeXJH-w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "개리유튜브",
+        "tags": [
+          "개리",
+          "마인크래프트",
+          "마인크래프트 모드",
+          "마인크래프트 모드리뷰",
+          "마인크래프트 리뷰",
+          "마인크래프트 컨텐츠",
+          "minecraft",
+          "Minecraft Mod",
+          "mod",
+          "마크",
+          "마크 모드",
+          "마크리뷰",
+          "양배추",
+          "김짱돌",
+          "앙또",
+          "롤큐",
+          "LOLQ",
+          "모드상황극",
+          "마인크래프트 상황극",
+          "마인크래프트 모드 상황극",
+          "마인크래프트 스토리 모드",
+          "개리마인크래프트",
+          "1.14.4",
+          "1.12.2",
+          "1.15.2",
+          "1.16.4",
+          "1.16.5",
+          "1.17",
+          "가이코",
+          "제비",
+          "세븐",
+          "로어보이",
+          "만두",
+          "마인크래프트 실험실",
+          "마인크래프트 야생 생존기",
+          "마인크래프트 야생",
+          "마인크래프트 건축",
+          "마인크래프트 집짓기",
+          "마인크래프트 무료 다운로드",
+          "minecraft 1.17",
+          "minecraft ost",
+          "마인크래프트1.17"
+        ],
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "매크로 수준 [메이플 플래닛]",
+          "description": "메이플 플래닛 서버\n생방송 : https://www.sooplive.com/station/qpqopq"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT1M21S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "16664",
+        "likeCount": "98",
+        "favoriteCount": "0",
+        "commentCount": "7"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Role-playing_video_game",
+          "https://en.wikipedia.org/wiki/Video_game_culture"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "매크로 수준 [메이플 플래닛]",
+          "description": "메이플 플래닛 서버\n생방송 : https://www.sooplive.com/station/qpqopq"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "4JLGeXFZD7404G4f9jhrCeL0dXs",
+      "id": "jNSvN4bxRps",
+      "snippet": {
+        "publishedAt": "2025-12-07T16:01:19Z",
+        "channelId": "UCN8nXvaYJSqeD0wlwsVq2kQ",
+        "title": "LP청소하는 영상",
+        "description": "취미로 LP모으는데 주기적으로 하는 LP청소하는 영상입니다",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jNSvN4bxRps/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jNSvN4bxRps/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jNSvN4bxRps/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jNSvN4bxRps/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jNSvN4bxRps/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "개리유튜브",
+        "tags": [
+          "개리",
+          "마인크래프트",
+          "마인크래프트 모드",
+          "마인크래프트 모드리뷰",
+          "마인크래프트 리뷰",
+          "마인크래프트 컨텐츠",
+          "minecraft",
+          "Minecraft Mod",
+          "mod",
+          "마크",
+          "마크 모드",
+          "마크리뷰",
+          "양배추",
+          "김짱돌",
+          "앙또",
+          "롤큐",
+          "LOLQ",
+          "모드상황극",
+          "마인크래프트 상황극",
+          "마인크래프트 모드 상황극",
+          "마인크래프트 스토리 모드",
+          "개리마인크래프트",
+          "1.14.4",
+          "1.12.2",
+          "1.15.2",
+          "1.16.4",
+          "1.16.5",
+          "1.17",
+          "가이코",
+          "제비",
+          "세븐",
+          "로어보이",
+          "만두",
+          "마인크래프트 실험실",
+          "마인크래프트 야생 생존기",
+          "마인크래프트 야생",
+          "마인크래프트 건축",
+          "마인크래프트 집짓기",
+          "마인크래프트 무료 다운로드",
+          "minecraft 1.17",
+          "minecraft ost",
+          "마인크래프트1.17"
+        ],
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "LP청소하는 영상",
+          "description": "취미로 LP모으는데 주기적으로 하는 LP청소하는 영상입니다"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT2M32S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "17143",
+        "likeCount": "870",
+        "favoriteCount": "0",
+        "commentCount": "160"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "LP청소하는 영상",
+          "description": "취미로 LP모으는데 주기적으로 하는 LP청소하는 영상입니다"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ib5Pyh3gZK6d-UxBLpQkjtAZJ_8",
+      "id": "KFBCcPqh7Bk",
+      "snippet": {
+        "publishedAt": "2015-10-08T07:00:00Z",
+        "channelId": "UCN8nXvaYJSqeD0wlwsVq2kQ",
+        "title": "콜라캔 따는 영상",
+        "description": "본명 : 임종호\n나이: 96년생\n특징 : 최근에 멤버 복귀함\n\n인스타그램\n► https://www.instagram.com/gr_ljh/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KFBCcPqh7Bk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KFBCcPqh7Bk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KFBCcPqh7Bk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KFBCcPqh7Bk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KFBCcPqh7Bk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "개리유튜브",
+        "tags": [
+          "악어",
+          "마인크래프트",
+          "양띵",
+          "대정령",
+          "머독",
+          "대도서관",
+          "엑소",
+          "개리",
+          "minecraft",
+          "EXO",
+          "빅뱅",
+          "GTA5",
+          "Ori",
+          "Launchpad",
+          "게임",
+          "Came",
+          "악어TV",
+          "OriandtheBlindForest",
+          "InVerbisVirtus",
+          "H1Z1",
+          "StrandDeep",
+          "늪지대컴퍼니",
+          "나루토",
+          "원피스",
+          "lol",
+          "롤",
+          "CatGoesFishing",
+          "메이플스토리",
+          "메이플",
+          "크레이지아케이드",
+          "개리유튜브",
+          "개리트위치",
+          "개리 하이라이트",
+          "개리 콜라캔",
+          "개리 캔",
+          "개리 캔따기"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "콜라캔 따는 영상",
+          "description": "본명 : 임종호\n나이: 96년생\n특징 : 최근에 멤버 복귀함\n\n인스타그램\n► https://www.instagram.com/gr_ljh/"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT7S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "270711",
+        "likeCount": "5350",
+        "favoriteCount": "0",
+        "commentCount": "1179"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Food",
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en": {
+          "title": "The video of Opening a Can of Cola",
+          "description": "본명 : 임종호\n나이: 96년생\n특징 : 옛날에 마크했음(그만 물어봐)\n\n인스타그램\n► https://www.instagram.com/gr_ljh/"
+        },
+        "ko": {
+          "title": "콜라캔 따는 영상",
+          "description": "본명 : 임종호\n나이: 96년생\n특징 : 최근에 멤버 복귀함\n\n인스타그램\n► https://www.instagram.com/gr_ljh/"
+        }
+      }
+    }
+  ]
+}

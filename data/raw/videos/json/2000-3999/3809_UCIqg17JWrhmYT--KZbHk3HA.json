@@ -1,0 +1,271 @@
+{
+  "idx": 3809,
+  "channel_id": "UCIqg17JWrhmYT--KZbHk3HA",
+  "channel_title": "강한달",
+  "playlist_items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "dnwTckiYN2Bdjzl5Qu7KHRVbkZA",
+      "id": "VVVJcWcxN0pXcmhtWVQtLUtaYkhrM0hBLmE0QTBlaC16SjJR",
+      "snippet": {
+        "publishedAt": "2025-10-13T11:33:11Z",
+        "channelId": "UCIqg17JWrhmYT--KZbHk3HA",
+        "title": "채널 폐쇄 관련 공지",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/a4A0eh-zJ2Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/a4A0eh-zJ2Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/a4A0eh-zJ2Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/a4A0eh-zJ2Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/a4A0eh-zJ2Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "강한달",
+        "playlistId": "UUIqg17JWrhmYT--KZbHk3HA",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "a4A0eh-zJ2Q"
+        },
+        "videoOwnerChannelTitle": "강한달",
+        "videoOwnerChannelId": "UCIqg17JWrhmYT--KZbHk3HA"
+      },
+      "contentDetails": {
+        "videoId": "a4A0eh-zJ2Q",
+        "videoPublishedAt": "2025-10-13T11:33:11Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Po3fejum4Fl5ICbl9il-a7dMIjw",
+      "id": "VVVJcWcxN0pXcmhtWVQtLUtaYkhrM0hBLmg0Wkgya0ZUQk8w",
+      "snippet": {
+        "publishedAt": "2017-11-18T14:01:20Z",
+        "channelId": "UCIqg17JWrhmYT--KZbHk3HA",
+        "title": "강한달님의 실시간 스트리밍",
+        "description": "첫 생방 테스뚜하긔",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/h4ZH2kFTBO0/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/h4ZH2kFTBO0/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/h4ZH2kFTBO0/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/h4ZH2kFTBO0/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/h4ZH2kFTBO0/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "강한달",
+        "playlistId": "UUIqg17JWrhmYT--KZbHk3HA",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "h4ZH2kFTBO0"
+        },
+        "videoOwnerChannelTitle": "강한달",
+        "videoOwnerChannelId": "UCIqg17JWrhmYT--KZbHk3HA"
+      },
+      "contentDetails": {
+        "videoId": "h4ZH2kFTBO0",
+        "videoPublishedAt": "2017-11-18T14:01:20Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "video_details": [
+    {
+      "kind": "youtube#video",
+      "etag": "p4rf2MXoW4dsKOWSYzwQvox5btg",
+      "id": "a4A0eh-zJ2Q",
+      "snippet": {
+        "publishedAt": "2025-10-13T11:33:11Z",
+        "channelId": "UCIqg17JWrhmYT--KZbHk3HA",
+        "title": "채널 폐쇄 관련 공지",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/a4A0eh-zJ2Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/a4A0eh-zJ2Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/a4A0eh-zJ2Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/a4A0eh-zJ2Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/a4A0eh-zJ2Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "강한달",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "채널 폐쇄 관련 공지",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT4M20S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "31046",
+        "likeCount": "457",
+        "favoriteCount": "0",
+        "commentCount": "180"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "채널 폐쇄 관련 공지",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "LqhVUf11K8UKt0WiCwihtStyRJs",
+      "id": "h4ZH2kFTBO0",
+      "snippet": {
+        "publishedAt": "2017-11-18T14:01:20Z",
+        "channelId": "UCIqg17JWrhmYT--KZbHk3HA",
+        "title": "강한달님의 실시간 스트리밍",
+        "description": "첫 생방 테스뚜하긔",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/h4ZH2kFTBO0/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/h4ZH2kFTBO0/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/h4ZH2kFTBO0/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/h4ZH2kFTBO0/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/h4ZH2kFTBO0/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "강한달",
+        "categoryId": "20",
+        "liveBroadcastContent": "upcoming",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "강한달님의 실시간 스트리밍",
+          "description": "첫 생방 테스뚜하긔"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "P0D",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "uploaded",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "0",
+        "likeCount": "3",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "강한달님의 실시간 스트리밍",
+          "description": "첫 생방 테스뚜하긔"
+        }
+      }
+    }
+  ]
+}

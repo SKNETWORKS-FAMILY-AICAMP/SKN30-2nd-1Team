@@ -1,0 +1,766 @@
+{
+  "idx": 2201,
+  "channel_id": "UC3SUrZPOfYQLpXygsb4Su1g",
+  "channel_title": "정현규",
+  "playlist_items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "1UT5QwAhfIf7U3tGP86pU77C9EE",
+      "id": "VVUzU1VyWlBPZllRTHBYeWdzYjRTdTFnLk1qNEt6ZDdUUUJr",
+      "snippet": {
+        "publishedAt": "2026-04-18T09:49:50Z",
+        "channelId": "UC3SUrZPOfYQLpXygsb4Su1g",
+        "title": "일본 화보 브이로그",
+        "description": "안녕하세요 정현규입니다. 오랜만이에요. 재밌게 봐주시면 너무 감사하겠습니다ㅎㅎ..",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Mj4Kzd7TQBk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Mj4Kzd7TQBk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Mj4Kzd7TQBk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Mj4Kzd7TQBk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Mj4Kzd7TQBk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "정현규",
+        "playlistId": "UU3SUrZPOfYQLpXygsb4Su1g",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Mj4Kzd7TQBk"
+        },
+        "videoOwnerChannelTitle": "정현규",
+        "videoOwnerChannelId": "UC3SUrZPOfYQLpXygsb4Su1g"
+      },
+      "contentDetails": {
+        "videoId": "Mj4Kzd7TQBk",
+        "videoPublishedAt": "2026-04-18T09:49:50Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ePZGJg0HlUpYlwt00Mmc5H_OY40",
+      "id": "VVUzU1VyWlBPZllRTHBYeWdzYjRTdTFnLkxsTEtteVFUZzV3",
+      "snippet": {
+        "publishedAt": "2025-06-01T05:29:34Z",
+        "channelId": "UC3SUrZPOfYQLpXygsb4Su1g",
+        "title": "데블스플랜2 스케줄 브이로그",
+        "description": "안녕하세요. 정현규입니다.\n\n데블스플랜 출연을 통해 많은 것을 반성하고, 배우고, 느낄 수 있었습니다.\n불편함을 느끼신 분들께 사과드리며, 응원해 주시고 지켜봐 주신 모든 분들께 깊이 감사드립니다.\n앞으로 더 나은 사람이 되도록 노력하겠습니다.\n\n저와 프로그램에 대해 남겨주시는 댓글은 모두 읽고 기회가 닿으면 피드백도 해보겠습니다. \n틈틈이 브이로그도 지금처럼 올릴게요.\n\n감사합니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LlLKmyQTg5w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LlLKmyQTg5w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LlLKmyQTg5w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LlLKmyQTg5w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LlLKmyQTg5w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "정현규",
+        "playlistId": "UU3SUrZPOfYQLpXygsb4Su1g",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "LlLKmyQTg5w"
+        },
+        "videoOwnerChannelTitle": "정현규",
+        "videoOwnerChannelId": "UC3SUrZPOfYQLpXygsb4Su1g"
+      },
+      "contentDetails": {
+        "videoId": "LlLKmyQTg5w",
+        "videoPublishedAt": "2025-06-01T05:29:34Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "xZi2FoKpFhZ6JCNRDQQCiAC9vTM",
+      "id": "VVUzU1VyWlBPZllRTHBYeWdzYjRTdTFnLmJ6X3NOMlZnWHRN",
+      "snippet": {
+        "publishedAt": "2025-03-30T09:00:03Z",
+        "channelId": "UC3SUrZPOfYQLpXygsb4Su1g",
+        "title": "주절주절 브이로그 마무리!",
+        "description": "이번 편은 앉아서 이야기만 해서 재미없을 수 있어요!!..\n\n다음에는 구성을 잘 해볼게요.\n\n봐주셔서 감사합니다!!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bz_sN2VgXtM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bz_sN2VgXtM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bz_sN2VgXtM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bz_sN2VgXtM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bz_sN2VgXtM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "정현규",
+        "playlistId": "UU3SUrZPOfYQLpXygsb4Su1g",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "bz_sN2VgXtM"
+        },
+        "videoOwnerChannelTitle": "정현규",
+        "videoOwnerChannelId": "UC3SUrZPOfYQLpXygsb4Su1g"
+      },
+      "contentDetails": {
+        "videoId": "bz_sN2VgXtM",
+        "videoPublishedAt": "2025-03-30T09:00:03Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "6JO70ox0CIa7cklP1gw2Auyjbt0",
+      "id": "VVUzU1VyWlBPZllRTHBYeWdzYjRTdTFnLlpxZUdjVldQUHk0",
+      "snippet": {
+        "publishedAt": "2025-03-24T09:30:13Z",
+        "channelId": "UC3SUrZPOfYQLpXygsb4Su1g",
+        "title": "서울대 학식 브이로그!",
+        "description": "안녕하세요!! 찍을때는 분량이 안나올것 같아 이것저것 막 찍었는데 생각보다 길어져서 두편으로 나눴습니다!! \n\n재밌게 봐주실거죠?..ㅎㅎ",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZqeGcVWPPy4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZqeGcVWPPy4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZqeGcVWPPy4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZqeGcVWPPy4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZqeGcVWPPy4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "정현규",
+        "playlistId": "UU3SUrZPOfYQLpXygsb4Su1g",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ZqeGcVWPPy4"
+        },
+        "videoOwnerChannelTitle": "정현규",
+        "videoOwnerChannelId": "UC3SUrZPOfYQLpXygsb4Su1g"
+      },
+      "contentDetails": {
+        "videoId": "ZqeGcVWPPy4",
+        "videoPublishedAt": "2025-03-24T09:30:13Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "j_bIENMKIvCgsdYNtjgvUDEGSRM",
+      "id": "VVUzU1VyWlBPZllRTHBYeWdzYjRTdTFnLnJCSlgydmMxVi1J",
+      "snippet": {
+        "publishedAt": "2025-01-10T07:06:50Z",
+        "channelId": "UC3SUrZPOfYQLpXygsb4Su1g",
+        "title": "티저",
+        "description": "안녕하세요 정현규입니다.\n\n제가 잘 할 수 있을지 모르겠지만 직접 편집하면서 유튜브를 올려보려고 합니다. \n\n많이 심각하게 부족할 예정이니까 영상이 못나도 좀 이해 부탁 드려요! 발전하는 유튜바가 되어보겠습니다..\n\n그럼 새해 복 많으시고 다음 영상에서 봐요.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rBJX2vc1V-I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rBJX2vc1V-I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rBJX2vc1V-I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rBJX2vc1V-I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rBJX2vc1V-I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "정현규",
+        "playlistId": "UU3SUrZPOfYQLpXygsb4Su1g",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "rBJX2vc1V-I"
+        },
+        "videoOwnerChannelTitle": "정현규",
+        "videoOwnerChannelId": "UC3SUrZPOfYQLpXygsb4Su1g"
+      },
+      "contentDetails": {
+        "videoId": "rBJX2vc1V-I",
+        "videoPublishedAt": "2025-01-10T07:06:50Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "video_details": [
+    {
+      "kind": "youtube#video",
+      "etag": "otv1TC8z2cWXqkSJDXGO-S31u60",
+      "id": "Mj4Kzd7TQBk",
+      "snippet": {
+        "publishedAt": "2026-04-18T09:49:50Z",
+        "channelId": "UC3SUrZPOfYQLpXygsb4Su1g",
+        "title": "일본 화보 브이로그",
+        "description": "안녕하세요 정현규입니다. 오랜만이에요. 재밌게 봐주시면 너무 감사하겠습니다ㅎㅎ..",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Mj4Kzd7TQBk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Mj4Kzd7TQBk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Mj4Kzd7TQBk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Mj4Kzd7TQBk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Mj4Kzd7TQBk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "정현규",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "일본 화보 브이로그",
+          "description": "안녕하세요 정현규입니다. 오랜만이에요. 재밌게 봐주시면 너무 감사하겠습니다ㅎㅎ.."
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT29M8S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "12201",
+        "likeCount": "418",
+        "favoriteCount": "0",
+        "commentCount": "75"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Food",
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "id": {
+          "title": "Vlog Pemotretan di Jepang",
+          "description": "Halo, aku Jeong Hyun-gyu. Lama tidak bertemu. Aku sangat berterima kasih jika kalian bisa menikmati video ini, hehe .."
+        },
+        "ja": {
+          "title": "日本のグラビアVlog",
+          "description": "こんにちは チョン・ヒョンギュです。お久しぶりです。楽しく見ていただけたらとても嬉しいです..."
+        },
+        "en-US": {
+          "title": "Japanese pictorial vlog",
+          "description": "Hello, this is Jung Hyun-kyu. It's been a while. I would be very grateful if you enjoyed watching this haha."
+        },
+        "zh-Hans": {
+          "title": "日本画报Vlog",
+          "description": "大家好 我是郑贤奎 好久不见啦 希望大家看得开心非常感谢的"
+        },
+        "en": {
+          "title": "Japan photoshoot vlog",
+          "description": "Hello, this is Jung Hyun-gyu. It’s been a while. I’d really appreciate it if you enjoy watching, hehe..."
+        },
+        "ko": {
+          "title": "일본 화보 브이로그",
+          "description": "안녕하세요 정현규입니다. 오랜만이에요. 재밌게 봐주시면 너무 감사하겠습니다ㅎㅎ.."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "pCf_peaGfSDggD2ym_3F1NO1E7E",
+      "id": "LlLKmyQTg5w",
+      "snippet": {
+        "publishedAt": "2025-06-01T05:29:34Z",
+        "channelId": "UC3SUrZPOfYQLpXygsb4Su1g",
+        "title": "데블스플랜2 스케줄 브이로그",
+        "description": "안녕하세요. 정현규입니다.\n\n데블스플랜 출연을 통해 많은 것을 반성하고, 배우고, 느낄 수 있었습니다.\n불편함을 느끼신 분들께 사과드리며, 응원해 주시고 지켜봐 주신 모든 분들께 깊이 감사드립니다.\n앞으로 더 나은 사람이 되도록 노력하겠습니다.\n\n저와 프로그램에 대해 남겨주시는 댓글은 모두 읽고 기회가 닿으면 피드백도 해보겠습니다. \n틈틈이 브이로그도 지금처럼 올릴게요.\n\n감사합니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LlLKmyQTg5w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LlLKmyQTg5w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LlLKmyQTg5w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LlLKmyQTg5w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LlLKmyQTg5w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "정현규",
+        "tags": [
+          "정현규",
+          "데블스플랜"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "데블스플랜2 스케줄 브이로그",
+          "description": "안녕하세요. 정현규입니다.\n\n데블스플랜 출연을 통해 많은 것을 반성하고, 배우고, 느낄 수 있었습니다.\n불편함을 느끼신 분들께 사과드리며, 응원해 주시고 지켜봐 주신 모든 분들께 깊이 감사드립니다.\n앞으로 더 나은 사람이 되도록 노력하겠습니다.\n\n저와 프로그램에 대해 남겨주시는 댓글은 모두 읽고 기회가 닿으면 피드백도 해보겠습니다. \n틈틈이 브이로그도 지금처럼 올릴게요.\n\n감사합니다."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT14M16S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "244389",
+        "likeCount": "2550",
+        "favoriteCount": "0",
+        "commentCount": "2369"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Food",
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "데블스플랜2 스케줄 브이로그",
+          "description": "안녕하세요. 정현규입니다.\n\n데블스플랜 출연을 통해 많은 것을 반성하고, 배우고, 느낄 수 있었습니다.\n불편함을 느끼신 분들께 사과드리며, 응원해 주시고 지켜봐 주신 모든 분들께 깊이 감사드립니다.\n앞으로 더 나은 사람이 되도록 노력하겠습니다.\n\n저와 프로그램에 대해 남겨주시는 댓글은 모두 읽고 기회가 닿으면 피드백도 해보겠습니다. \n틈틈이 브이로그도 지금처럼 올릴게요.\n\n감사합니다."
+        },
+        "en": {
+          "title": "The Devil's Plan 2 Schedule Vlog",
+          "description": "Hello, this is Jeong Hyungyu.\n\nThrough my appearance on The Devil’s Plan, I was able to reflect, learn, and feel many things.\nI apologize to those who felt uncomfortable, and I deeply appreciate everyone who supported and watched the show.\nI will strive to become a better person going forward.\n\nI read all the comments about me and the program, and if the opportunity arises, I will try to provide feedback.\nI will continue to upload vlogs like this whenever I can.\n\nThank you."
+        },
+        "zh-CN": {
+          "title": "《Devil's Plan 2》行程Vlog",
+          "description": "大家好 我是郑贤圭\n\n通过出演《Devil's Plan》\n我得以进行诸多反思 学习与感悟\n谨向因此感到不适的观众致歉 向所有支持与守候的观众致以深切谢意\n今后我将努力成为更好的人\n\n对于关于我和节目的所有留言\n我都会阅读 并在有机会时进行反馈\n也将继续像现在这样持续更新Vlog\n\n谢谢大家"
+        },
+        "ja": {
+          "title": "『悪魔の計略 デビルズ・プラン』 スケジュールVlog",
+          "description": "こんにちは、チョン・ヒョンギュです。\n\n『悪魔の計略 デビルズ・プラン』の出演を通じて、自分を振り返ってみるきっかけとなり、たくさんのことを学び、実感することができました。\n 番組をご覧になって嫌な思いをされた方がいらっしゃいましたら、申し訳ありません。\nいつも応援して、見守ってくれる皆さんには感謝の意をお伝えしたいです。\nこれからももっと成長した姿をお見せできるよう努めたいと思います。\n\n僕と番組に関して残してくださったコメントは全て目を通し、できる限り返信させていただきたいと思っています。\nこれからも今回のようなブイログを随時投稿していきますね。\n\nありがとうございます。"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "MJ98QjJvSEL19VMZv3DpCLZVNuE",
+      "id": "bz_sN2VgXtM",
+      "snippet": {
+        "publishedAt": "2025-03-30T09:00:03Z",
+        "channelId": "UC3SUrZPOfYQLpXygsb4Su1g",
+        "title": "주절주절 브이로그 마무리!",
+        "description": "이번 편은 앉아서 이야기만 해서 재미없을 수 있어요!!..\n\n다음에는 구성을 잘 해볼게요.\n\n봐주셔서 감사합니다!!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bz_sN2VgXtM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bz_sN2VgXtM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bz_sN2VgXtM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bz_sN2VgXtM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bz_sN2VgXtM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "정현규",
+        "tags": [
+          "정현규",
+          "현규",
+          "贤奎"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "주절주절 브이로그 마무리!",
+          "description": "이번 편은 앉아서 이야기만 해서 재미없을 수 있어요!!..\n\n다음에는 구성을 잘 해볼게요.\n\n봐주셔서 감사합니다!!"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT16M30S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "386073",
+        "likeCount": "3273",
+        "favoriteCount": "0",
+        "commentCount": "2409"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Health",
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "주절주절 브이로그 마무리!",
+          "description": "이번 편은 앉아서 이야기만 해서 재미없을 수 있어요!!..\n\n다음에는 구성을 잘 해볼게요.\n\n봐주셔서 감사합니다!!"
+        },
+        "en": {
+          "title": "BABBLING VLOG COMES TO AN END!",
+          "description": "I just sat down and talked for this episode, so it could be a bit boring!!...\n\nNext time I'll make sure to have a better structure, video-wise.\n\nThank you for watching!"
+        },
+        "zh-CN": {
+          "title": "唠唠叨叨的VLOG收尾!",
+          "description": "这次视频只是坐着聊天，可能有一点没意思!!..\n下一次视频我会好好调整内容构成的。\n谢谢观看!!"
+        },
+        "ja": {
+          "title": "ぶつぶつブイログ終わり！",
+          "description": "今回のエピソードは座って話ばかりして面白くないかも知れません！...\n\n次はしっかり構成してみます。\n\nご視聴ありがとうございます！"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ene9MNX9csUf8qVugpBNuKMtksw",
+      "id": "ZqeGcVWPPy4",
+      "snippet": {
+        "publishedAt": "2025-03-24T09:30:13Z",
+        "channelId": "UC3SUrZPOfYQLpXygsb4Su1g",
+        "title": "서울대 학식 브이로그!",
+        "description": "안녕하세요!! 찍을때는 분량이 안나올것 같아 이것저것 막 찍었는데 생각보다 길어져서 두편으로 나눴습니다!! \n\n재밌게 봐주실거죠?..ㅎㅎ",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZqeGcVWPPy4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZqeGcVWPPy4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZqeGcVWPPy4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZqeGcVWPPy4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZqeGcVWPPy4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "정현규",
+        "tags": [
+          "정현규",
+          "현규",
+          "贤奎"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "서울대 학식 브이로그!",
+          "description": "안녕하세요!! 찍을때는 분량이 안나올것 같아 이것저것 막 찍었는데 생각보다 길어져서 두편으로 나눴습니다!! \n\n재밌게 봐주실거죠?..ㅎㅎ"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT21M1S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "761295",
+        "likeCount": "10395",
+        "favoriteCount": "0",
+        "commentCount": "934"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "서울대 학식 브이로그!",
+          "description": "안녕하세요!! 찍을때는 분량이 안나올것 같아 이것저것 막 찍었는데 생각보다 길어져서 두편으로 나눴습니다!! \n\n재밌게 봐주실거죠?..ㅎㅎ"
+        },
+        "en": {
+          "title": "Jeong Hyun Gyu vlog part1",
+          "description": "Hey everyone!!\nWhen I was filming, I was worried there wouldn’t be enough footage, so I just recorded whatever came to mind—but it ended up longer than expected, so I split it into two parts!\n\nHope you guys enjoy it! ;)"
+        },
+        "ja": {
+          "title": "ソウル大の学食ブイログ！",
+          "description": "こんにちは！ 撮る時は撮れ高がなさそうであれこれ適当に撮ったんですが思ったより長くなって２編に分けました！ \n\n楽しく見てくれますよね？"
+        },
+        "zh-CN": {
+          "title": "首尔大学食堂VLOG！",
+          "description": "大家好！！本来担心素材不够，所以各种东西都拍了一下，没想到内容比预期的多，所以分成了两集！\n\n敬请期待下一集哦！"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "oYlDKudAhifMzcJO9lJVf9xhuBE",
+      "id": "rBJX2vc1V-I",
+      "snippet": {
+        "publishedAt": "2025-01-10T07:06:50Z",
+        "channelId": "UC3SUrZPOfYQLpXygsb4Su1g",
+        "title": "티저",
+        "description": "안녕하세요 정현규입니다.\n\n제가 잘 할 수 있을지 모르겠지만 직접 편집하면서 유튜브를 올려보려고 합니다. \n\n많이 심각하게 부족할 예정이니까 영상이 못나도 좀 이해 부탁 드려요! 발전하는 유튜바가 되어보겠습니다..\n\n그럼 새해 복 많으시고 다음 영상에서 봐요.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rBJX2vc1V-I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rBJX2vc1V-I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rBJX2vc1V-I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rBJX2vc1V-I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rBJX2vc1V-I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "정현규",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "티저",
+          "description": "안녕하세요 정현규입니다.\n\n제가 잘 할 수 있을지 모르겠지만 직접 편집하면서 유튜브를 올려보려고 합니다. \n\n많이 심각하게 부족할 예정이니까 영상이 못나도 좀 이해 부탁 드려요! 발전하는 유튜바가 되어보겠습니다..\n\n그럼 새해 복 많으시고 다음 영상에서 봐요."
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT1M46S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "351201",
+        "likeCount": "6769",
+        "favoriteCount": "0",
+        "commentCount": "737"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en-US": {
+          "title": "Teaser",
+          "description": "Hello, this is Jeong Hyeon-gyu.\n\nI'm not sure if I can do it well, but I'm going to try editing and uploading videos to YouTube myself.\n\nThere will be serious shortcomings, so please understand if the videos aren't great! I'll strive to become a better YouTuber.\n\nHappy New Year, and see you in the next video."
+        },
+        "ko": {
+          "title": "티저",
+          "description": "안녕하세요 정현규입니다.\n\n제가 잘 할 수 있을지 모르겠지만 직접 편집하면서 유튜브를 올려보려고 합니다. \n\n많이 심각하게 부족할 예정이니까 영상이 못나도 좀 이해 부탁 드려요! 발전하는 유튜바가 되어보겠습니다..\n\n그럼 새해 복 많으시고 다음 영상에서 봐요."
+        }
+      }
+    }
+  ]
+}

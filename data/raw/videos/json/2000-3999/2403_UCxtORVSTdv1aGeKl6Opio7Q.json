@@ -1,0 +1,721 @@
+{
+  "idx": 2403,
+  "channel_id": "UCxtORVSTdv1aGeKl6Opio7Q",
+  "channel_title": "Egg Monster",
+  "playlist_items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "YZa1B_WAdMQ5R6KObhzXlC9KmwU",
+      "id": "VVV4dE9SVlNUZHYxYUdlS2w2T3BpbzdRLmx2Y3JRcWVPMWJn",
+      "snippet": {
+        "publishedAt": "2026-05-11T08:14:31Z",
+        "channelId": "UCxtORVSTdv1aGeKl6Opio7Q",
+        "title": "포켓몬빵 30주년 한정판 띠부씰 뽑기",
+        "description": "포켓몬빵 30주년 한정판 띠부씰 뽑기\n#포켓몬빵 #포켓몬띠부씰 #포켓몬스터30주년",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lvcrQqeO1bg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lvcrQqeO1bg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lvcrQqeO1bg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lvcrQqeO1bg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lvcrQqeO1bg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Egg Monster",
+        "playlistId": "UUxtORVSTdv1aGeKl6Opio7Q",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "lvcrQqeO1bg"
+        },
+        "videoOwnerChannelTitle": "Egg Monster",
+        "videoOwnerChannelId": "UCxtORVSTdv1aGeKl6Opio7Q"
+      },
+      "contentDetails": {
+        "videoId": "lvcrQqeO1bg",
+        "videoPublishedAt": "2026-05-11T08:14:31Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fX0n1JOyJF7vfZeJbzHHE9S0a5A",
+      "id": "VVV4dE9SVlNUZHYxYUdlS2w2T3BpbzdRLi1vV2V1MUkwXzlN",
+      "snippet": {
+        "publishedAt": "2026-05-08T23:32:39Z",
+        "channelId": "UCxtORVSTdv1aGeKl6Opio7Q",
+        "title": "포켓몬 생태도감에 들어있는 포켓몬카드 리뷰",
+        "description": "포켓몬 생태도감에 들어있는 포켓몬카드 리뷰 #포켓몬카드",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-oWeu1I0_9M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-oWeu1I0_9M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-oWeu1I0_9M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-oWeu1I0_9M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-oWeu1I0_9M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Egg Monster",
+        "playlistId": "UUxtORVSTdv1aGeKl6Opio7Q",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-oWeu1I0_9M"
+        },
+        "videoOwnerChannelTitle": "Egg Monster",
+        "videoOwnerChannelId": "UCxtORVSTdv1aGeKl6Opio7Q"
+      },
+      "contentDetails": {
+        "videoId": "-oWeu1I0_9M",
+        "videoPublishedAt": "2026-05-08T23:32:39Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "k5UZf2bSc5aH1vT1dYW9W-FLhOQ",
+      "id": "VVV4dE9SVlNUZHYxYUdlS2w2T3BpbzdRLmh3OHVyTWQwZktv",
+      "snippet": {
+        "publishedAt": "2026-05-05T00:00:48Z",
+        "channelId": "UCxtORVSTdv1aGeKl6Opio7Q",
+        "title": "포켓몬빵 30주년 한정판 포켓몬띠부씰 뽑기",
+        "description": "포켓몬빵 30주년 한정판 포켓몬띠부씰 뽑기 #포켓몬빵 #포켓몬띠부씰 #포켓몬스터30주년",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hw8urMd0fKo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hw8urMd0fKo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hw8urMd0fKo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hw8urMd0fKo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hw8urMd0fKo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Egg Monster",
+        "playlistId": "UUxtORVSTdv1aGeKl6Opio7Q",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hw8urMd0fKo"
+        },
+        "videoOwnerChannelTitle": "Egg Monster",
+        "videoOwnerChannelId": "UCxtORVSTdv1aGeKl6Opio7Q"
+      },
+      "contentDetails": {
+        "videoId": "hw8urMd0fKo",
+        "videoPublishedAt": "2026-05-05T00:00:48Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "kV3Qqgu-21Qu1phmWzeP8gy_4fU",
+      "id": "VVV4dE9SVlNUZHYxYUdlS2w2T3BpbzdRLmhZSnhiTWx3a2ZB",
+      "snippet": {
+        "publishedAt": "2026-05-01T06:16:54Z",
+        "channelId": "UCxtORVSTdv1aGeKl6Opio7Q",
+        "title": "한글판 닌자스피너 출시! 금굴닌자 뽑기 도전",
+        "description": "한글판 닌자스피너 출시! 겨우 1박스 카드깡 #포켓몬카드",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hYJxbMlwkfA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hYJxbMlwkfA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hYJxbMlwkfA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hYJxbMlwkfA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hYJxbMlwkfA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Egg Monster",
+        "playlistId": "UUxtORVSTdv1aGeKl6Opio7Q",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hYJxbMlwkfA"
+        },
+        "videoOwnerChannelTitle": "Egg Monster",
+        "videoOwnerChannelId": "UCxtORVSTdv1aGeKl6Opio7Q"
+      },
+      "contentDetails": {
+        "videoId": "hYJxbMlwkfA",
+        "videoPublishedAt": "2026-05-01T06:16:54Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4GkPBVGiYaVw2MaHAA0qCnxN57g",
+      "id": "VVV4dE9SVlNUZHYxYUdlS2w2T3BpbzdRLjJfUzZES0pFcG9B",
+      "snippet": {
+        "publishedAt": "2026-04-24T13:07:30Z",
+        "channelId": "UCxtORVSTdv1aGeKl6Opio7Q",
+        "title": "일판 닌자스피너 카드깡! 금굴닌자 뽑기도전!",
+        "description": "일판 닌자스피너 카드깡! 금굴닌자 뽑기도전!  #포켓몬카드 #닌자스피너",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2_S6DKJEpoA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2_S6DKJEpoA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2_S6DKJEpoA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Egg Monster",
+        "playlistId": "UUxtORVSTdv1aGeKl6Opio7Q",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2_S6DKJEpoA"
+        },
+        "videoOwnerChannelTitle": "Egg Monster",
+        "videoOwnerChannelId": "UCxtORVSTdv1aGeKl6Opio7Q"
+      },
+      "contentDetails": {
+        "videoId": "2_S6DKJEpoA",
+        "videoPublishedAt": "2026-04-24T13:07:30Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "video_details": [
+    {
+      "kind": "youtube#video",
+      "etag": "11e-HoEBPwsVqx9j_oyqDUcbqhs",
+      "id": "lvcrQqeO1bg",
+      "snippet": {
+        "publishedAt": "2026-05-11T08:14:31Z",
+        "channelId": "UCxtORVSTdv1aGeKl6Opio7Q",
+        "title": "포켓몬빵 30주년 한정판 띠부씰 뽑기",
+        "description": "포켓몬빵 30주년 한정판 띠부씰 뽑기\n#포켓몬빵 #포켓몬띠부씰 #포켓몬스터30주년",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lvcrQqeO1bg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lvcrQqeO1bg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lvcrQqeO1bg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lvcrQqeO1bg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lvcrQqeO1bg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Egg Monster",
+        "tags": [
+          "포켓몬빵",
+          "띠부씰",
+          "포켓몬30주년"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "포켓몬빵 30주년 한정판 띠부씰 뽑기",
+          "description": "포켓몬빵 30주년 한정판 띠부씰 뽑기\n#포켓몬빵 #포켓몬띠부씰 #포켓몬스터30주년"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT8M19S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1271",
+        "likeCount": "16",
+        "favoriteCount": "0",
+        "commentCount": "4"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en-US": {
+          "title": "Pokémon Bread 30th Anniversary Limited Edition Sticker Draw",
+          "description": "Pokémon Bread 30th Anniversary Limited Edition Sticker Draw\n\n#PokémonBread #PokémonSticker #Pokémon30thAnniversary"
+        },
+        "ko": {
+          "title": "포켓몬빵 30주년 한정판 띠부씰 뽑기",
+          "description": "포켓몬빵 30주년 한정판 띠부씰 뽑기\n#포켓몬빵 #포켓몬띠부씰 #포켓몬스터30주년"
+        },
+        "id": {
+          "title": "Undian Stiker Edisi Terbatas Ulang Tahun ke-30 Pokémon Bread",
+          "description": "Undian Stiker Edisi Terbatas Ulang Tahun ke-30 Pokémon Bread\n\n#PokémonBread #PokémonSticker #Pokémon30thAnniversary"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "exdqABENYo5nfHb5_UfXCtizbv8",
+      "id": "-oWeu1I0_9M",
+      "snippet": {
+        "publishedAt": "2026-05-08T23:32:39Z",
+        "channelId": "UCxtORVSTdv1aGeKl6Opio7Q",
+        "title": "포켓몬 생태도감에 들어있는 포켓몬카드 리뷰",
+        "description": "포켓몬 생태도감에 들어있는 포켓몬카드 리뷰 #포켓몬카드",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-oWeu1I0_9M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-oWeu1I0_9M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-oWeu1I0_9M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-oWeu1I0_9M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-oWeu1I0_9M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Egg Monster",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "포켓몬 생태도감에 들어있는 포켓몬카드 리뷰",
+          "description": "포켓몬 생태도감에 들어있는 포켓몬카드 리뷰 #포켓몬카드"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT5M19S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "606",
+        "likeCount": "13",
+        "favoriteCount": "0",
+        "commentCount": "4"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en-US": {
+          "title": "Review of the Pokémon cards included in the Pokémon Ecology Encyclopedia",
+          "description": "Review of Pokémon cards included in the Pokémon Ecology Encyclopedia #PokémonCards"
+        },
+        "ko": {
+          "title": "포켓몬 생태도감에 들어있는 포켓몬카드 리뷰",
+          "description": "포켓몬 생태도감에 들어있는 포켓몬카드 리뷰 #포켓몬카드"
+        },
+        "id": {
+          "title": "Ulasan kartu Pokémon yang termasuk dalam Ensiklopedia Ekologi Pokémon",
+          "description": "Ulasan kartu Pokémon yang termasuk dalam Ensiklopedia Ekologi Pokémon #PokémonCards"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "yvV5VpIk3W6CT46zY5lRx7eBK50",
+      "id": "hw8urMd0fKo",
+      "snippet": {
+        "publishedAt": "2026-05-05T00:00:48Z",
+        "channelId": "UCxtORVSTdv1aGeKl6Opio7Q",
+        "title": "포켓몬빵 30주년 한정판 포켓몬띠부씰 뽑기",
+        "description": "포켓몬빵 30주년 한정판 포켓몬띠부씰 뽑기 #포켓몬빵 #포켓몬띠부씰 #포켓몬스터30주년",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hw8urMd0fKo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hw8urMd0fKo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hw8urMd0fKo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hw8urMd0fKo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hw8urMd0fKo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Egg Monster",
+        "tags": [
+          "egg monster",
+          "포켓몬빵",
+          "포켓몬스터30주년",
+          "30주년 띠부씰",
+          "띠부띠부씰"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "포켓몬빵 30주년 한정판 포켓몬띠부씰 뽑기",
+          "description": "포켓몬빵 30주년 한정판 포켓몬띠부씰 뽑기 #포켓몬빵 #포켓몬띠부씰 #포켓몬스터30주년"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT4M34S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "860",
+        "likeCount": "10",
+        "favoriteCount": "0",
+        "commentCount": "5"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en-US": {
+          "title": "Pokémon Bread 30th Anniversary Limited Edition Pokémon Sticker Draw",
+          "description": "Pokémon Bread 30th Anniversary Limited Edition Pokémon Sticker Draw #PokémonBread #PokémonSticker #Pokémon30thAnniversary"
+        },
+        "ko": {
+          "title": "포켓몬빵 30주년 한정판 포켓몬띠부씰 뽑기",
+          "description": "포켓몬빵 30주년 한정판 포켓몬띠부씰 뽑기 #포켓몬빵 #포켓몬띠부씰 #포켓몬스터30주년"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "c1OMML5Q-16UuLjgvVRKBdIrQmo",
+      "id": "hYJxbMlwkfA",
+      "snippet": {
+        "publishedAt": "2026-05-01T06:16:54Z",
+        "channelId": "UCxtORVSTdv1aGeKl6Opio7Q",
+        "title": "한글판 닌자스피너 출시! 금굴닌자 뽑기 도전",
+        "description": "한글판 닌자스피너 출시! 겨우 1박스 카드깡 #포켓몬카드",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hYJxbMlwkfA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hYJxbMlwkfA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hYJxbMlwkfA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hYJxbMlwkfA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hYJxbMlwkfA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Egg Monster",
+        "tags": [
+          "닌자스피너",
+          "포켓몬카드"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "한글판 닌자스피너 출시! 금굴닌자 뽑기 도전",
+          "description": "한글판 닌자스피너 출시! 겨우 1박스 카드깡 #포켓몬카드"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT6M38S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "1929",
+        "likeCount": "44",
+        "favoriteCount": "0",
+        "commentCount": "7"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "en-US": {
+          "title": "Korean Version of Ninja Spinner Released! Challenge the Golden Cave Ninja Draw",
+          "description": "Korean Version Ninja Spinner Released! Just 1 Box Open #PokemonCards"
+        },
+        "ko": {
+          "title": "한글판 닌자스피너 출시! 금굴닌자 뽑기 도전",
+          "description": "한글판 닌자스피너 출시! 겨우 1박스 카드깡 #포켓몬카드"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "l6V4NHfu9y2bcSIFiUcV1EZE5Ss",
+      "id": "2_S6DKJEpoA",
+      "snippet": {
+        "publishedAt": "2026-04-24T13:07:30Z",
+        "channelId": "UCxtORVSTdv1aGeKl6Opio7Q",
+        "title": "일판 닌자스피너 카드깡! 금굴닌자 뽑기도전!",
+        "description": "일판 닌자스피너 카드깡! 금굴닌자 뽑기도전!  #포켓몬카드 #닌자스피너",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2_S6DKJEpoA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2_S6DKJEpoA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2_S6DKJEpoA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Egg Monster",
+        "tags": [
+          "egg monster",
+          "닌자스피너",
+          "포켓몬카드",
+          "일판 포켓몬카드",
+          "pokemon cards",
+          "pokemon tcg"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "일판 닌자스피너 카드깡! 금굴닌자 뽑기도전!",
+          "description": "일판 닌자스피너 카드깡! 금굴닌자 뽑기도전!  #포켓몬카드 #닌자스피너"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT7M48S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "3156",
+        "likeCount": "76",
+        "favoriteCount": "0",
+        "commentCount": "10"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "일판 닌자스피너 카드깡! 금굴닌자 뽑기도전!",
+          "description": "일판 닌자스피너 카드깡! 금굴닌자 뽑기도전!  #포켓몬카드 #닌자스피너"
+        },
+        "en-US": {
+          "title": "Japanese Version Ninja Spinner Card Pack Opening! Golden Cave Ninja Pull Challenge!",
+          "description": "Japanese Version Ninja Spinner Card Pack Opening! Attempting to Pull Golden Gulninja! #PokemonCards #NinjaSpinner"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,761 @@
+{
+  "idx": 3357,
+  "channel_id": "UCZ4bDFmju3iOynDLHGUOhUA",
+  "channel_title": "걸깝스",
+  "playlist_items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "rdRsW0RtPsVr_m0Yfxx3_5_Hbbk",
+      "id": "VVVaNGJERm1qdTNpT3luRExIR1VPaFVBLm4wRkpOQXk0Wm93",
+      "snippet": {
+        "publishedAt": "2022-02-12T11:36:27Z",
+        "channelId": "UCZ4bDFmju3iOynDLHGUOhUA",
+        "title": "안녕하세요 걸깝스입니다",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/n0FJNAy4Zow/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/n0FJNAy4Zow/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/n0FJNAy4Zow/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/n0FJNAy4Zow/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "걸깝스",
+        "playlistId": "UUZ4bDFmju3iOynDLHGUOhUA",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "n0FJNAy4Zow"
+        },
+        "videoOwnerChannelTitle": "걸깝스",
+        "videoOwnerChannelId": "UCZ4bDFmju3iOynDLHGUOhUA"
+      },
+      "contentDetails": {
+        "videoId": "n0FJNAy4Zow",
+        "videoPublishedAt": "2022-02-12T11:36:27Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "PpZqtIiBEIbnMUvWUMRys2v0dso",
+      "id": "VVVaNGJERm1qdTNpT3luRExIR1VPaFVBLnhrZDdwZ3F1V1lR",
+      "snippet": {
+        "publishedAt": "2020-12-29T12:26:38Z",
+        "channelId": "UCZ4bDFmju3iOynDLHGUOhUA",
+        "title": "10만기념 LIVE♡",
+        "description": "라이브에 참여해주신 구독자 분들 중 하나+정혜에게 DM보내주신\n선착순 40명에게!!!\n\n블라블라썸\nhttps://smartstore.naver.com/bloblossom\n\n네츄럴굿띵스\nhttps://naturalgoodthings.com/\n에서 선물 후원 해주셨습니다~! \n감사합니다!!😃\n\n랜덤발송이에요ㅎㅎ\n\n#소상공인 #스타트업",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xkd7pgquWYQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xkd7pgquWYQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xkd7pgquWYQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "걸깝스",
+        "playlistId": "UUZ4bDFmju3iOynDLHGUOhUA",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "xkd7pgquWYQ"
+        },
+        "videoOwnerChannelTitle": "걸깝스",
+        "videoOwnerChannelId": "UCZ4bDFmju3iOynDLHGUOhUA"
+      },
+      "contentDetails": {
+        "videoId": "xkd7pgquWYQ",
+        "videoPublishedAt": "2020-12-29T12:26:38Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "a-pF0YdCCHlaUMU2sh_fG6sCUHU",
+      "id": "VVVaNGJERm1qdTNpT3luRExIR1VPaFVBLmFEVFlFUWgwbDU4",
+      "snippet": {
+        "publishedAt": "2020-11-01T10:32:44Z",
+        "channelId": "UCZ4bDFmju3iOynDLHGUOhUA",
+        "title": "사랑의콜센탸",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aDTYEQh0l58/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aDTYEQh0l58/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aDTYEQh0l58/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aDTYEQh0l58/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aDTYEQh0l58/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "걸깝스",
+        "playlistId": "UUZ4bDFmju3iOynDLHGUOhUA",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "aDTYEQh0l58"
+        },
+        "videoOwnerChannelTitle": "걸깝스",
+        "videoOwnerChannelId": "UCZ4bDFmju3iOynDLHGUOhUA"
+      },
+      "contentDetails": {
+        "videoId": "aDTYEQh0l58",
+        "videoPublishedAt": "2020-11-01T10:32:44Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "sFItGhzCNadWNMhr-t68JLktVfE",
+      "id": "VVVaNGJERm1qdTNpT3luRExIR1VPaFVBLkY2SG92X2gyY1I4",
+      "snippet": {
+        "publishedAt": "2020-11-01T10:19:41Z",
+        "channelId": "UCZ4bDFmju3iOynDLHGUOhUA",
+        "title": "사랑의콜센터😘🌞",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/F6Hov_h2cR8/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/F6Hov_h2cR8/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/F6Hov_h2cR8/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/F6Hov_h2cR8/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/F6Hov_h2cR8/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "걸깝스",
+        "playlistId": "UUZ4bDFmju3iOynDLHGUOhUA",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "F6Hov_h2cR8"
+        },
+        "videoOwnerChannelTitle": "걸깝스",
+        "videoOwnerChannelId": "UCZ4bDFmju3iOynDLHGUOhUA"
+      },
+      "contentDetails": {
+        "videoId": "F6Hov_h2cR8",
+        "videoPublishedAt": "2020-11-01T10:19:41Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "P-nv2rP0TyC_-FEo4bVdgYqAq9o",
+      "id": "VVVaNGJERm1qdTNpT3luRExIR1VPaFVBLk12MGtkR0h3VkU0",
+      "snippet": {
+        "publishedAt": "2020-09-14T14:35:34Z",
+        "channelId": "UCZ4bDFmju3iOynDLHGUOhUA",
+        "title": "걸깝스가 1살이 되었져욘😛",
+        "description": "#걸깝스 #장하나 #황정혜",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Mv0kdGHwVE4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Mv0kdGHwVE4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Mv0kdGHwVE4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "걸깝스",
+        "playlistId": "UUZ4bDFmju3iOynDLHGUOhUA",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Mv0kdGHwVE4"
+        },
+        "videoOwnerChannelTitle": "걸깝스",
+        "videoOwnerChannelId": "UCZ4bDFmju3iOynDLHGUOhUA"
+      },
+      "contentDetails": {
+        "videoId": "Mv0kdGHwVE4",
+        "videoPublishedAt": "2020-09-14T14:35:34Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "SG6eABa6_rgk44J3cHKRatsDcjs",
+      "id": "VVVaNGJERm1qdTNpT3luRExIR1VPaFVBLlFPZUtXLVRYeTB3",
+      "snippet": {
+        "publishedAt": "2020-01-26T09:44:23Z",
+        "channelId": "UCZ4bDFmju3iOynDLHGUOhUA",
+        "title": "걸깝스님의 실시간 스트리밍",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QOeKW-TXy0w/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QOeKW-TXy0w/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QOeKW-TXy0w/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QOeKW-TXy0w/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QOeKW-TXy0w/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "걸깝스",
+        "playlistId": "UUZ4bDFmju3iOynDLHGUOhUA",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "QOeKW-TXy0w"
+        },
+        "videoOwnerChannelTitle": "걸깝스",
+        "videoOwnerChannelId": "UCZ4bDFmju3iOynDLHGUOhUA"
+      },
+      "contentDetails": {
+        "videoId": "QOeKW-TXy0w",
+        "videoPublishedAt": "2020-01-26T09:44:23Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "video_details": [
+    {
+      "kind": "youtube#video",
+      "etag": "ciTtaXmbn5JYrKm-LiHWRjkInNw",
+      "id": "n0FJNAy4Zow",
+      "snippet": {
+        "publishedAt": "2022-02-12T11:36:27Z",
+        "channelId": "UCZ4bDFmju3iOynDLHGUOhUA",
+        "title": "안녕하세요 걸깝스입니다",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/n0FJNAy4Zow/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/n0FJNAy4Zow/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/n0FJNAy4Zow/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/n0FJNAy4Zow/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "걸깝스",
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "안녕하세요 걸깝스입니다",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT44M20S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "185684",
+        "likeCount": "789",
+        "favoriteCount": "0",
+        "commentCount": "361"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "안녕하세요 걸깝스입니다",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "yzY7ecn-tUmHHgcKn_h5zggu-P8",
+      "id": "xkd7pgquWYQ",
+      "snippet": {
+        "publishedAt": "2020-12-29T12:26:38Z",
+        "channelId": "UCZ4bDFmju3iOynDLHGUOhUA",
+        "title": "10만기념 LIVE♡",
+        "description": "라이브에 참여해주신 구독자 분들 중 하나+정혜에게 DM보내주신\n선착순 40명에게!!!\n\n블라블라썸\nhttps://smartstore.naver.com/bloblossom\n\n네츄럴굿띵스\nhttps://naturalgoodthings.com/\n에서 선물 후원 해주셨습니다~! \n감사합니다!!😃\n\n랜덤발송이에요ㅎㅎ\n\n#소상공인 #스타트업",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xkd7pgquWYQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xkd7pgquWYQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xkd7pgquWYQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "걸깝스",
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "10만기념 LIVE♡",
+          "description": "라이브에 참여해주신 구독자 분들 중 하나+정혜에게 DM보내주신\n선착순 40명에게!!!\n\n블라블라썸\nhttps://smartstore.naver.com/bloblossom\n\n네츄럴굿띵스\nhttps://naturalgoodthings.com/\n에서 선물 후원 해주셨습니다~! \n감사합니다!!😃\n\n랜덤발송이에요ㅎㅎ\n\n#소상공인 #스타트업"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT1H22M46S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "41574",
+        "likeCount": "641",
+        "favoriteCount": "0",
+        "commentCount": "101"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "10만기념 LIVE♡",
+          "description": "라이브에 참여해주신 구독자 분들 중 하나+정혜에게 DM보내주신\n선착순 40명에게!!!\n\n블라블라썸\nhttps://smartstore.naver.com/bloblossom\n\n네츄럴굿띵스\nhttps://naturalgoodthings.com/\n에서 선물 후원 해주셨습니다~! \n감사합니다!!😃\n\n랜덤발송이에요ㅎㅎ\n\n#소상공인 #스타트업"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Amx80aw_--IDX3bRSa_Ye18JsA0",
+      "id": "aDTYEQh0l58",
+      "snippet": {
+        "publishedAt": "2020-11-01T10:32:44Z",
+        "channelId": "UCZ4bDFmju3iOynDLHGUOhUA",
+        "title": "사랑의콜센탸",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aDTYEQh0l58/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aDTYEQh0l58/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aDTYEQh0l58/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aDTYEQh0l58/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aDTYEQh0l58/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "걸깝스",
+        "categoryId": "23",
+        "liveBroadcastContent": "upcoming",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "사랑의콜센탸",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "P0D",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "uploaded",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "0",
+        "likeCount": "17",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "사랑의콜센탸",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "F_MxKxokDGhIS6l2fJJ6g50mIKk",
+      "id": "F6Hov_h2cR8",
+      "snippet": {
+        "publishedAt": "2020-11-01T10:19:41Z",
+        "channelId": "UCZ4bDFmju3iOynDLHGUOhUA",
+        "title": "사랑의콜센터😘🌞",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/F6Hov_h2cR8/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/F6Hov_h2cR8/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/F6Hov_h2cR8/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/F6Hov_h2cR8/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/F6Hov_h2cR8/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "걸깝스",
+        "categoryId": "23",
+        "liveBroadcastContent": "upcoming",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "사랑의콜센터😘🌞",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "P0D",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "uploaded",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "0",
+        "likeCount": "37",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "사랑의콜센터😘🌞",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "5uMeQ0DkIwOEl7m_cww48qm7Dxo",
+      "id": "Mv0kdGHwVE4",
+      "snippet": {
+        "publishedAt": "2020-09-14T14:35:34Z",
+        "channelId": "UCZ4bDFmju3iOynDLHGUOhUA",
+        "title": "걸깝스가 1살이 되었져욘😛",
+        "description": "#걸깝스 #장하나 #황정혜",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Mv0kdGHwVE4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Mv0kdGHwVE4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Mv0kdGHwVE4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "걸깝스",
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "걸깝스가 1살이 되었져욘😛",
+          "description": "#걸깝스 #장하나 #황정혜"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT2H24M",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "processed",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "75793",
+        "likeCount": "947",
+        "favoriteCount": "0",
+        "commentCount": "119"
+      },
+      "topicDetails": {
+        "topicCategories": [
+          "https://en.wikipedia.org/wiki/Golf",
+          "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+        ]
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "걸깝스가 1살이 되었져욘😛",
+          "description": "#걸깝스 #장하나 #황정혜"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "fhw-X_4TmAuV83nfbaBEu0UAHJk",
+      "id": "QOeKW-TXy0w",
+      "snippet": {
+        "publishedAt": "2020-01-26T09:44:23Z",
+        "channelId": "UCZ4bDFmju3iOynDLHGUOhUA",
+        "title": "걸깝스님의 실시간 스트리밍",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QOeKW-TXy0w/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QOeKW-TXy0w/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QOeKW-TXy0w/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QOeKW-TXy0w/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QOeKW-TXy0w/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "걸깝스",
+        "categoryId": "22",
+        "liveBroadcastContent": "upcoming",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "걸깝스님의 실시간 스트리밍",
+          "description": ""
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "P0D",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "status": {
+        "uploadStatus": "uploaded",
+        "privacyStatus": "public",
+        "license": "youtube",
+        "embeddable": true,
+        "publicStatsViewable": true,
+        "madeForKids": false
+      },
+      "statistics": {
+        "viewCount": "0",
+        "likeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "recordingDetails": {},
+      "localizations": {
+        "ko": {
+          "title": "걸깝스님의 실시간 스트리밍",
+          "description": ""
+        }
+      }
+    }
+  ]
+}
