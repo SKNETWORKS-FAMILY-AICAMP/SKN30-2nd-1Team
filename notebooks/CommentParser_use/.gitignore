@@ -1,0 +1,19 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Data directories (raw/parsed data)
+data/parsed-raw/
+data/parsed-csv/
+
+# Batch run artifacts
+failed_*.tsv
+failed_channels_*.tsv
+*.log
