@@ -48,16 +48,34 @@ page_header(
 # ---- 검색 바 ----
 search_col, btn_col = st.columns([6, 1])
 with search_col:
-    st.text_input(
+    query = st.text_input(
         "search",
         placeholder="🔍   Channel ID 또는 YouTube URL 입력",
         label_visibility="collapsed",
         key="channel_query",
     )
 with btn_col:
-    st.button("분석하기", type="primary", use_container_width=True)
+    analyze_clicked = st.button("분석하기", type="primary", use_container_width=True)
 
 st.write("")
+
+# 입력이 비어 있으면 결과 영역 대신 안내 화면만 표시
+if not (query and query.strip()) and not analyze_clicked:
+    st.html(
+        """
+        <div style="text-align:center; padding:80px 20px; color:#94A3B8;">
+            <div style="font-size:3rem; margin-bottom:18px;">🔍</div>
+            <div style="font-size:1.05rem; font-weight:600; color:#475569; margin-bottom:8px;">
+                채널 ID 또는 YouTube URL을 입력해 주세요
+            </div>
+            <div style="font-size:0.86rem; line-height:1.55;">
+                입력하면 자동으로 분석 결과가 표시됩니다.<br/>
+                필요 시 분석하기 버튼을 누르세요.
+            </div>
+        </div>
+        """
+    )
+    st.stop()
 
 # ---- 좌(채널 정보) / 우(예측 결과) ----
 left, right = st.columns([1, 1.2], gap="medium")
