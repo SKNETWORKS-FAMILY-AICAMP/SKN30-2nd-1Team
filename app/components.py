@@ -5,11 +5,76 @@
 
 from __future__ import annotations
 
+import base64
+import io
+import json
+import os
+import socket
+import urllib.request
 from html import escape
 
 import streamlit as st
 
 from styles import DATA_SNAPSHOT_DATE
+
+
+def _detect_app_url() -> str | None:
+    """ngrok public URL 우선, 없으면 같은 네트워크용 로컬 IP URL."""
+    try:
+        with urllib.request.urlopen(
+            "http://localhost:4040/api/tunnels", timeout=0.4
+        ) as resp:
+            tunnels = json.loads(resp.read()).get("tunnels", [])
+            https = next((t for t in tunnels if t.get("proto") == "https"), None)
+            if https:
+                return https.get("public_url")
+            if tunnels:
+                return tunnels[0].get("public_url")
+    except Exception:
+        pass
+    try:
+        s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
+        s.connect(("8.8.8.8", 80))
+        ip = s.getsockname()[0]
+        s.close()
+        port = os.environ.get("STREAMLIT_SERVER_PORT", "8501")
+        return f"http://{ip}:{port}"
+    except Exception:
+        return None
+
+
+def _generate_qr_b64(url: str) -> str:
+    import qrcode
+    img = qrcode.make(url)
+    buf = io.BytesIO()
+    img.save(buf, format="PNG")
+    return base64.b64encode(buf.getvalue()).decode("ascii")
+
+
+@st.dialog("📱 QR 공유")
+def _qr_dialog() -> None:
+    detected = _detect_app_url() or ""
+    url = st.text_input(
+        "공유할 URL",
+        value=detected,
+        help="ngrok이 켜져있으면 public URL을, 아니면 같은 와이파이용 로컬 IP를 자동 감지합니다.",
+    )
+    if not url:
+        st.info("URL을 입력하면 QR 코드가 생성됩니다.")
+        return
+    try:
+        qr_b64 = _generate_qr_b64(url)
+    except Exception as e:
+        st.error(f"QR 생성 실패: {e}")
+        return
+    st.html(
+        f'<div style="text-align:center; padding:14px 0;">'
+        f'<img src="data:image/png;base64,{qr_b64}" '
+        f'style="width:260px; height:260px; image-rendering:pixelated; '
+        f'border:1px solid #E5E7EB; border-radius:14px; background:white; padding:12px;" />'
+        f'</div>'
+    )
+    st.caption("📷 휴대폰 카메라로 스캔하거나 URL을 복사해 공유하세요.")
 
 
 def render_sidebar(active: str = "dashboard") -> None:
@@ -33,7 +98,11 @@ def render_sidebar(active: str = "dashboard") -> None:
             """,
             unsafe_allow_html=True,
         )
-        st.markdown("<hr style='margin: 20px 0 35px;'/>", unsafe_allow_html=True)
+
+        if st.button("📱 QR 공유하기", key="sb_qr_share", use_container_width=True):
+            _qr_dialog()
+
+        st.markdown("<hr style='margin: 16px 0 30px;'/>", unsafe_allow_html=True)
 
         st.page_link("pages/0_대시보드.py", label="대시보드", icon="🏠")
         st.page_link("pages/1_채널_조회.py", label="채널 조회", icon="🔍")

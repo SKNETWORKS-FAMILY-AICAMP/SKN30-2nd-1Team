@@ -26,6 +26,7 @@ dependencies = [
     "shap>=0.43.0",
     # 앱
     "streamlit>=1.29.0",
+    "qrcode[pil]>=7.4.2",
     # 설정·로깅
     "pyyaml>=6.0.0",
     # 노트북

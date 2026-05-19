@@ -154,6 +154,21 @@ def inject_global_css() -> None:
         section[data-testid="stSidebar"] hr {{
             border-color: #1E293B;
         }}
+        /* 사이드바 내 일반 버튼 (QR 공유 등) */
+        section[data-testid="stSidebar"] [data-testid="stButton"] > button {{
+            background: rgba(255, 255, 255, 0.06) !important;
+            border: 1px solid rgba(255, 255, 255, 0.12) !important;
+            color: #E2E8F0 !important;
+            font-weight: 500;
+            border-radius: 10px;
+            margin: 4px 6px 0;
+            width: calc(100% - 12px);
+        }}
+        section[data-testid="stSidebar"] [data-testid="stButton"] > button:hover {{
+            background: rgba(99, 102, 241, 0.20) !important;
+            border-color: rgba(99, 102, 241, 0.45) !important;
+            color: #FFFFFF !important;
+        }}
 
         /* ---- 카드 (st.container(border=True) 매핑) ---- */
         div[data-testid="stVerticalBlockBorderWrapper"] {{
