@@ -1,0 +1,9 @@
+﻿video_id,video_published_at,comment_index,id,parent,is_reply,parent_is_uploader,text,author_id,author_is_uploader,author_is_verified,like_count,timestamp,is_favorited,is_pinned
+zKjNcncke9Q,2025-09-23 08:15:10,0,UgxPPXbJvMUddrvEGUB4AaABAg,root,False,False,"칩저항은 앞에 2숫자가 용량, 3번째 숫자는 승수입니다. 따라서 18 x 10^0 이기 때문에 180옴이 아니라 18옴입니다.",UCaIHNVh-2IDLn4DmtDgxcTQ,False,False,5,2025-10-19 00:00:00,True,True
+zKjNcncke9Q,2025-09-23 08:15:10,1,UgyGIXIjXayQuQWw4pZ4AaABAg,root,False,False,빨리왔다!,UCP27coSYf9pbTVK0cI4SdiQ,False,False,0,2025-10-19 00:00:00,False,False
+zKjNcncke9Q,2025-09-23 08:15:10,2,UgxNu9axM8BBCHEp68F4AaABAg,root,False,False,비상 정지 버튼 설치 방법도 알려 주세요!,UC2Sh-pTXu8M2V_Opz0cd2VA,False,False,0,2026-04-19 00:00:00,False,False
+zKjNcncke9Q,2025-09-23 08:15:10,3,UgyRs6fXOoyqvJk4rPp4AaABAg,root,False,False,MCPCB(Metal Core PCB),UCcNOv3lFgPrfNTlCk8PXMGA,False,False,0,2025-10-19 00:00:00,False,False
+zKjNcncke9Q,2025-09-23 08:15:10,4,Ugw4NAoEFO5WgtS82aJ4AaABAg,root,False,False,"It's 18 ohms, not 180 ohms.",UCwE5052LsxJExd5xn8mQbKw,False,False,1,2025-10-19 00:00:00,True,False
+zKjNcncke9Q,2025-09-23 08:15:10,5,UgxFydGzhfUIAsjDWjZ4AaABAg,root,False,False,18 옴 일텐데.. 180 옴이면 LED 밝기가…,UCWH7llS_JmuWv4UbE2B4Tkw,False,False,1,2025-10-19 00:00:00,False,False
+zKjNcncke9Q,2025-09-23 08:15:10,6,Ugzt6lUog_X3JL5vFl94AaABAg,root,False,False,하고싶은말 이미 다 써있군!,UCopygjBJU2TB9env_zuNNSg,False,False,0,2025-10-19 00:00:00,False,False
+zKjNcncke9Q,2025-09-23 08:15:10,7,Ugy8Mw4HvSuEbjgzFkF4AaABAg,root,False,False,12v 필라멘트led쓰는데 레진안에 가둬놔서 오래켜놓으면 led 타겠죠?,UC14ApPvwTinsG8adjCePMVg,False,False,0,2025-10-19 00:00:00,False,False
