@@ -1,0 +1,6 @@
+﻿table,source,source_rows,expected_loaded_rows,load_policy,key,null_key_rows,duplicate_key_rows,unique_keys,fk_matched_rows,fk_unmatched_rows,fk_match_rate
+active_viewer_score_table,data/raw/active_viewer_score.csv,3336,3336,load_all,channel_id,0,0,3336,3336,0,100.0
+sensitive_keyword_score_table,data/raw/sensitive_keyword_score.csv,3336,3336,load_all,channel_id,0,0,3336,3336,0,100.0
+upload_regularity_score_table,data/raw/upload_regularity_score.csv,3333,3333,load_all,channel_id,0,0,3333,3333,0,100.0
+video_info_table,data/raw/filtered_dataset_long.csv,166449,166449,load_all,video_id,0,0,166449,166449,0,100.0
+channel_prediction_table,3 prediction CSV outer merge,8083,3336,filter_fk_matched_only,channel_id,0,0,8083,3336,4747,41.272

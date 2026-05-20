@@ -1,0 +1,6 @@
+﻿table,status,key,description
+channel_info_table,loaded,PK: channel_identifier,채널 기본 정보. 추가 적재 테이블은 youtube_channel_id를 FK 기준으로 사용
+category_table,loaded,category key,카테고리 정보
+channel_category_table,loaded,channel-category bridge,채널-카테고리 중간 테이블
+band_table,loaded,band key,구독자 범위 구간 정보
+comments_table,loaded,comment key,댓글 데이터. video_info_table과 video_id가 다를 수 있어 연결하지 않음

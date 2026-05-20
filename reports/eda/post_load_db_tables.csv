@@ -1,0 +1,11 @@
+﻿table,status,key,description,group
+channel_info_table,loaded,PK: channel_identifier,채널 기본 정보. 추가 적재 테이블은 youtube_channel_id를 FK 기준으로 사용,existing_loaded
+category_table,loaded,category key,카테고리 정보,existing_loaded
+channel_category_table,loaded,channel-category bridge,채널-카테고리 중간 테이블,existing_loaded
+band_table,loaded,band key,구독자 범위 구간 정보,existing_loaded
+comments_table,loaded,comment key,댓글 데이터. video_info_table과 video_id가 다를 수 있어 연결하지 않음,existing_loaded
+active_viewer_score_table,loaded_after_ingest,channel_id,활성 시청자 점수,additional_loaded
+sensitive_keyword_score_table,loaded_after_ingest,channel_id,민감 키워드/위험도 점수,additional_loaded
+upload_regularity_score_table,loaded_after_ingest,channel_id,업로드 규칙성 점수,additional_loaded
+channel_prediction_table,loaded_after_ingest,channel_id,모델 예측 결과 통합 테이블,additional_loaded
+video_info_table,loaded_after_ingest,video_id,영상 단위 원본 데이터,additional_loaded

@@ -1,0 +1,7 @@
+﻿eda_view,grain,base_tables,purpose
+v_channel_score_eda,채널 1개,channel_info_table + active_viewer_score_table + sensitive_keyword_score_table + upload_regularity_score_table + channel_prediction_table,"채널별 활성 시청자, 민감 키워드, 업로드 규칙성, 3종 예측 확률을 한 번에 보는 핵심 EDA 뷰"
+v_category_score_eda,카테고리 x 채널,category_table + channel_category_table + v_channel_score_eda,카테고리별 위험/활성/민감도 분포 비교
+v_band_score_eda,구독자 밴드 x 채널,band_table + channel_info_table + v_channel_score_eda,구독자 규모 구간별 위험/예측 점수 분포 비교
+v_video_activity_eda,영상 1개,video_info_table + channel_info_table,"영상 업로드 시계열, Shorts 비율, 조회/좋아요/댓글 분포 분석"
+v_comment_community_eda,댓글 1개,comments_table,"댓글 수, 작성 시점, 좋아요, 작성자/대댓글 구조 분석. video_info_table과는 FK 연결하지 않음"
+v_prediction_model_eda,채널 1개,channel_prediction_table + channel_info_table,"churn/stagnation/volatility 예측 확률 간 상관, 결측, 모델 커버리지 분석"

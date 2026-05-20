@@ -1,0 +1,6 @@
+﻿table,source,load_strategy,primary_key,foreign_key,description
+active_viewer_score_table,data/raw/active_viewer_score.csv,channel_id 기준 1:1 적재,channel_id,channel_id -> channel_info_table.youtube_channel_id,활성 시청자 점수
+sensitive_keyword_score_table,data/raw/sensitive_keyword_score.csv,channel_id 기준 1:1 적재,channel_id,channel_id -> channel_info_table.youtube_channel_id,민감 키워드/위험도 점수
+upload_regularity_score_table,data/raw/upload_regularity_score.csv,channel_id 기준 1:1 적재,channel_id,channel_id -> channel_info_table.youtube_channel_id,업로드 규칙성 점수
+channel_prediction_table,churn_probability_output.csv + view_volatility_output.csv + stagnation_probability_output.csv,3개 예측 결과를 channel_id 기준 outer merge 후 channel_info_table FK 가능 행만 적재,channel_id,channel_id -> channel_info_table.youtube_channel_id,모델 예측 결과 통합 테이블
+video_info_table,data/raw/filtered_dataset_long.csv,video_id 기준 영상 단위 적재,video_id,channel_id -> channel_info_table.youtube_channel_id,영상 단위 원본 데이터

@@ -1,0 +1,10 @@
+﻿source_name,path,exists,rows,cols,size_mb,key_column,description
+channel_info_source,data/raw/youtube_channels_filtered.csv,True,3352,15,0.715,youtube_channel_id,기존 DB channel_info_table 기준 소스
+active_viewer_score,data/raw/active_viewer_score.csv,True,3336,8,0.354,channel_id,활성 시청자 점수
+sensitive_keyword_score,data/raw/sensitive_keyword_score.csv,True,3336,9,0.203,channel_id,민감 키워드/위험도 점수
+upload_regularity_score,data/raw/upload_regularity_score.csv,True,3333,9,0.26,channel_id,업로드 규칙성 점수
+churn_probability_output,data/raw/churn_probability_output.csv,True,8083,7,0.517,channel_id,이탈 확률 모델 결과
+stagnation_probability_output,data/raw/stagnation_probability_output.csv,True,3333,7,0.215,channel_id,정체 확률 모델 결과
+view_volatility_output,data/raw/view_volatility_output.csv,True,3333,7,0.213,channel_id,조회수 변동성 모델 결과
+filtered_dataset_long,data/raw/filtered_dataset_long.csv,True,166449,18,45.162,video_id,영상 단위 원본 데이터
+filtered_dataset_wide,data/raw/filtered_dataset_wide.csv,True,3336,22,0.681,channel_id,channel_info_table과 중복되어 적재 스킵

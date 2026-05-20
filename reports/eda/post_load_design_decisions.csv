@@ -1,0 +1,7 @@
+﻿decision,detail
+FK 기준,CSV의 channel_id는 유튜브 난수값이며 channel_info_table.youtube_channel_id에 연결한다.
+filtered_dataset_wide 스킵,채널 단위 wide 피처는 channel_info_table과 역할이 중복되어 별도 테이블로 적재하지 않는다.
+댓글-영상 미연결,video_info_table과 comments_table은 video_id가 다를 수 있어 FK를 만들지 않는다.
+예측 결과 통합,"churn, volatility, stagnation 결과는 channel_prediction_table 하나로 합친다."
+EDA 기준 시점,아래 산출물은 기존 테이블과 추가 적재 테이블이 모두 적재 완료된 이후의 DB를 기준으로 구성한다.
+인코딩/정렬,신규 테이블은 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci 기준으로 생성한다.

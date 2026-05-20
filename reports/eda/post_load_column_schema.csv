@@ -1,0 +1,63 @@
+﻿table,column,db_type,key_role,description
+active_viewer_score_table,channel_id,VARCHAR(64),"PK, FK",source channel_id
+active_viewer_score_table,title,VARCHAR(255),,채널명
+active_viewer_score_table,subscriber_count,BIGINT UNSIGNED,,구독자 수
+active_viewer_score_table,avg_view_count,DOUBLE,,평균 조회수
+active_viewer_score_table,view_per_sub,DOUBLE,,구독자 대비 조회수
+active_viewer_score_table,cluster,TINYINT,,KMeans cluster
+active_viewer_score_table,cluster_name,VARCHAR(50),,클러스터명
+active_viewer_score_table,active_viewer_score,"DECIMAL(10,6)",,활성 시청자 점수
+sensitive_keyword_score_table,channel_id,VARCHAR(64),"PK, FK",source channel_id
+sensitive_keyword_score_table,channel_title,VARCHAR(255),,채널명
+sensitive_keyword_score_table,sensitive_score,"DECIMAL(10,6)",,민감 키워드 점수
+sensitive_keyword_score_table,n_sensitive_videos,INT UNSIGNED,,민감 영상 수
+sensitive_keyword_score_table,sensitive_video_ratio,"DECIMAL(10,6)",,민감 영상 비율
+sensitive_keyword_score_table,cat_politics,INT UNSIGNED,,정치 카테고리 매칭 수
+sensitive_keyword_score_table,cat_hate,INT UNSIGNED,,혐오 카테고리 매칭 수
+sensitive_keyword_score_table,cat_aggro,INT UNSIGNED,,어그로 카테고리 매칭 수
+sensitive_keyword_score_table,cat_adult_illegal,INT UNSIGNED,,성인/불법 카테고리 매칭 수
+upload_regularity_score_table,channel_id,VARCHAR(64),"PK, FK",source channel_id
+upload_regularity_score_table,channel_title,VARCHAR(255),,채널명
+upload_regularity_score_table,regularity_score,"DECIMAL(10,6)",,업로드 규칙성 점수
+upload_regularity_score_table,mean_interval_days,DOUBLE,,평균 업로드 간격
+upload_regularity_score_table,std_interval_days,DOUBLE,,업로드 간격 표준편차
+upload_regularity_score_table,max_gap_days,DOUBLE,,최대 업로드 공백
+upload_regularity_score_table,cv,DOUBLE,,변동계수
+upload_regularity_score_table,outlier_ratio,"DECIMAL(10,6)",,이상 간격 비율
+upload_regularity_score_table,gap_ratio,"DECIMAL(10,6)",,공백 비율
+channel_prediction_table,channel_id,VARCHAR(64),"PK, FK",source channel_id
+channel_prediction_table,title,VARCHAR(255),,대표 채널명
+channel_prediction_table,churn_actual_label,TINYINT,,이탈 모델 라벨
+channel_prediction_table,churn_prob_lr,"DECIMAL(10,6)",,LR 이탈 확률
+channel_prediction_table,churn_prob_rf,"DECIMAL(10,6)",,RF 이탈 확률
+channel_prediction_table,churn_prob_xgb,"DECIMAL(10,6)",,XGB 이탈 확률
+channel_prediction_table,churn_prob,"DECIMAL(10,6)",,앙상블 이탈 확률
+channel_prediction_table,stagnation_actual_label,TINYINT,,정체 모델 라벨
+channel_prediction_table,stagnation_prob_lr,"DECIMAL(10,6)",,LR 정체 확률
+channel_prediction_table,stagnation_prob_rf,"DECIMAL(10,6)",,RF 정체 확률
+channel_prediction_table,stagnation_prob_xgb,"DECIMAL(10,6)",,XGB 정체 확률
+channel_prediction_table,stagnation_prob,"DECIMAL(10,6)",,앙상블 정체 확률
+channel_prediction_table,volatility_actual_label,TINYINT,,변동성 모델 라벨
+channel_prediction_table,volatility_prob_lr,"DECIMAL(10,6)",,LR 변동성 확률
+channel_prediction_table,volatility_prob_rf,"DECIMAL(10,6)",,RF 변동성 확률
+channel_prediction_table,volatility_prob_xgb,"DECIMAL(10,6)",,XGB 변동성 확률
+channel_prediction_table,volatility_prob,"DECIMAL(10,6)",,앙상블 변동성 확률
+channel_prediction_table,has_churn,TINYINT,,churn 결과 존재 여부
+channel_prediction_table,has_stagnation,TINYINT,,stagnation 결과 존재 여부
+channel_prediction_table,has_volatility,TINYINT,,volatility 결과 존재 여부
+video_info_table,video_id,VARCHAR(32),PK,영상 ID
+video_info_table,channel_id,VARCHAR(64),FK,channel_info_table.youtube_channel_id
+video_info_table,channel_title,VARCHAR(255),,영상 수집 시점 채널명
+video_info_table,video_title,TEXT,,영상 제목
+video_info_table,published_at,DATETIME,,영상 업로드 시각
+video_info_table,duration_sec,DOUBLE,,영상 길이 초
+video_info_table,is_shorts,TINYINT,,Shorts 여부
+video_info_table,view_count,BIGINT UNSIGNED,,조회수
+video_info_table,like_count,BIGINT UNSIGNED,,좋아요 수
+video_info_table,comment_count,BIGINT UNSIGNED,,댓글 수
+video_info_table,source_file,VARCHAR(255),,원천 파일
+video_info_table,channel_created_at,DATETIME,,채널 생성 시각
+video_info_table,country,VARCHAR(8),,국가 코드
+video_info_table,subscriber_count,BIGINT UNSIGNED,,채널 구독자 수
+video_info_table,channel_total_views,BIGINT UNSIGNED,,채널 누적 조회수
+video_info_table,total_video_count,BIGINT UNSIGNED,,채널 전체 영상 수

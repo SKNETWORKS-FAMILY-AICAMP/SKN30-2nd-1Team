@@ -1,0 +1,7 @@
+﻿metric,rows,pct_of_prediction_table
+outer merged prediction rows,8083,100.0
+FK-compatible prediction rows,3336,41.272
+churn only/coverage,8083,100.0
+stagnation coverage,3333,41.235
+volatility coverage,3333,41.235
+all three predictions present,3333,41.235
