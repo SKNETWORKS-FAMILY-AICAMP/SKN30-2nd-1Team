@@ -17,16 +17,15 @@ from components import (
     page_header,
     render_sidebar,
 )
-from dummy_data import (
-    ENGAGEMENT_TREND,
-    PREDICTION_RESULT,
-    RISK_SIGNAL_SUMMARY,
-    SAMPLE_CHANNEL,
-    SENTIMENT_TREND,
-    SHAP_FACTORS,
-    TOP_REASONS,
-    UPLOAD_TREND,
-    VIEW_TREND,
+from data_loader import (
+    DEFAULT_EXAMPLE_CHANNEL_ID,
+    get_channel_overview,
+    get_channel_prediction,
+    get_channel_risk_signals,
+    get_channel_shap_proxy,
+    get_channel_top_reasons,
+    get_channel_trends,
+    get_channel_video_stats,
 )
 from styles import GRADE_A, GRADE_B, GRADE_C, PRIMARY, inject_global_css
 
@@ -45,7 +44,7 @@ page_header(
     subtitle="YouTube 채널의 활동 지속 가능성을 분석합니다.",
 )
 
-# ---- 검색 바 ----
+# ---- 검색 바 (검색 매칭은 다음 단계, 현재는 예시 채널 고정) ----
 search_col, btn_col = st.columns([6, 1])
 with search_col:
     query = st.text_input(
@@ -55,41 +54,43 @@ with search_col:
         key="channel_query",
     )
 with btn_col:
-    analyze_clicked = st.button("분석하기", type="primary", use_container_width=True)
+    st.button("분석하기", type="primary", use_container_width=True)
 
-st.write("")
+channel_id = DEFAULT_EXAMPLE_CHANNEL_ID
+ch = get_channel_overview(channel_id)
+pred = get_channel_prediction(channel_id)
+reasons = get_channel_top_reasons(channel_id)
+trends = get_channel_trends(channel_id, n_months=12)
+stats = get_channel_video_stats(channel_id)
+risk_signals = get_channel_risk_signals(channel_id)
+shap_factors = get_channel_shap_proxy(channel_id)
 
-# 입력이 비어 있으면 결과 영역 대신 안내 화면만 표시
-if not (query and query.strip()) and not analyze_clicked:
-    st.html(
-        """
-        <div style="text-align:center; padding:80px 20px; color:#94A3B8;">
-            <div style="font-size:3rem; margin-bottom:18px;">🔍</div>
-            <div style="font-size:1.05rem; font-weight:600; color:#475569; margin-bottom:8px;">
-                채널 ID 또는 YouTube URL을 입력해 주세요
-            </div>
-            <div style="font-size:0.86rem; line-height:1.55;">
-                입력하면 자동으로 분석 결과가 표시됩니다.<br/>
-                필요 시 분석하기 버튼을 누르세요.
-            </div>
-        </div>
-        """
-    )
-    st.stop()
+st.markdown(
+    f"""
+    <div style="background:#EEF2FF; border:1px solid #C7D2FE; border-radius:10px;
+                padding:10px 14px; margin: 4px 0 14px; font-size:0.82rem; color:#3730A3;">
+        ℹ️ 예시 채널: <b>{ch['name']}</b> (실시간 검색은 다음 단계에서 연결됩니다)
+    </div>
+    """,
+    unsafe_allow_html=True,
+)
+
+GRADE_COLOR = {"A": GRADE_A, "B": GRADE_B, "C": GRADE_C}
+GRADE_BG = {"A": "#ECFDF5", "B": "#FFFBEB", "C": "#FEF2F2"}
+GRADE_LABEL = {"A": "안심", "B": "관찰", "C": "주의"}
 
 # ---- 좌(채널 정보) / 우(예측 결과) ----
 left, right = st.columns([1, 1.2], gap="medium")
 
 with left:
     with card("채널 기본 정보"):
-        ch = SAMPLE_CHANNEL
         st.markdown(
             f"""
             <div style="display:flex; align-items:center; gap:14px; margin-bottom:18px;">
                 <div style="width:64px; height:64px; border-radius:50%;
                             background: linear-gradient(135deg,#A5B4FC,#6366F1);
                             display:flex; align-items:center; justify-content:center;
-                            color:white; font-size:1.6rem;">🎮</div>
+                            color:white; font-size:1.6rem;">{ch['category_emoji']}</div>
                 <div>
                     <div style="font-size:1.05rem; font-weight:700; color:#0F172A;">{ch['name']}</div>
                     <div style="font-size:0.82rem; color:#64748B; margin-top:2px;">
@@ -101,13 +102,20 @@ with left:
             unsafe_allow_html=True,
         )
 
+        delta_color = "#EF4444" if ch["avg_view_delta"].startswith("-") else "#10B981"
         metric_pairs = [
             ("구독자 수", ch["subscriber_count"]),
             ("총 조회수", ch["total_views"]),
             ("가입일", ch["joined_at"]),
-            ("최근 업로드", f"{ch['last_upload_days']}<div style='font-size:0.72rem; color:#94A3B8;'>{ch['last_upload_date']}</div>"),
+            (
+                "최근 업로드",
+                f"{ch['last_upload_days']}<div style='font-size:0.72rem; color:#94A3B8;'>{ch['last_upload_date']}</div>",
+            ),
             ("최근 30일 업로드 수", ch["uploads_30d"]),
-            ("평균 조회수 (최근 30일)", f"{ch['avg_view']}<span style='color:#EF4444; font-size:0.78rem; margin-left:6px;'>{ch['avg_view_delta']}</span>"),
+            (
+                "평균 조회수 (최근 5개)",
+                f"{ch['avg_view']}<span style='color:{delta_color}; font-size:0.78rem; margin-left:6px;'>{ch['avg_view_delta']}</span>",
+            ),
         ]
         rows_html = ""
         for i in range(0, len(metric_pairs), 2):
@@ -126,30 +134,33 @@ with left:
         st.html(rows_html)
 
 with right:
-    risk_pct = PREDICTION_RESULT["risk_pct"]
-    grade = PREDICTION_RESULT["grade"]
+    grade = pred["grade"]
+    risk_pct = pred["risk_pct"]
+    g_color = GRADE_COLOR[grade]
+    g_bg = GRADE_BG[grade]
+    chip_kind = {"A": "positive", "B": "warning", "C": "danger"}[grade]
 
     with card():
         st.markdown(
             f"""
             <div style="display:flex; align-items:center; justify-content:space-between;">
                 <div class="tb-card-title">이탈 예측 결과</div>
-                <div>{chip("위험", "danger")}</div>
+                <div>{chip(GRADE_LABEL[grade], chip_kind)}</div>
             </div>
             <div style="display:flex; align-items:center; gap:24px; margin-top:18px;
-                        background: linear-gradient(180deg, #FEF2F2 0%, #FFFFFF 80%);
+                        background: linear-gradient(180deg, {g_bg} 0%, #FFFFFF 80%);
                         border-radius: 12px; padding: 18px 18px;">
                 <div style="position:relative;">
                     <div style="width:108px; height:108px; border-radius:50%;
-                                background:{GRADE_C};
-                                box-shadow: 0 8px 22px rgba(239,68,68,0.30);
+                                background:{g_color};
+                                box-shadow: 0 8px 22px {g_color}33;
                                 display:flex; align-items:center; justify-content:center;
                                 color:white; font-size:3rem; font-weight:800;">{grade}</div>
                     <div style="font-size:0.7rem; color:#64748B; text-align:center; margin-top:6px;">등급</div>
                 </div>
                 <div style="flex-grow:1;">
                     <div style="font-size:0.82rem; color:#64748B;">이탈 위험도</div>
-                    <div style="font-size:2.4rem; font-weight:800; color:#EF4444; letter-spacing:-1px; line-height:1;">{risk_pct}<span style="font-size:1.2rem;">%</span></div>
+                    <div style="font-size:2.4rem; font-weight:800; color:{g_color}; letter-spacing:-1px; line-height:1;">{risk_pct}<span style="font-size:1.2rem;">%</span></div>
                     <div class="tb-gauge-wrap">
                         <div class="tb-gauge-track">
                             <div class="tb-gauge-marker" style="left:{risk_pct}%;"></div>
@@ -164,7 +175,7 @@ with right:
             unsafe_allow_html=True,
         )
 
-    with card("예상 사유 TOP 3"):
+    with card(f"주요 위험 사유 TOP {len(reasons)}"):
         reasons_html = "".join(
             f"""
             <div class="tb-reason">
@@ -175,17 +186,17 @@ with right:
                 </div>
             </div>
             """
-            for i, r in enumerate(TOP_REASONS, 1)
+            for i, r in enumerate(reasons, 1)
         )
         st.markdown(reasons_html, unsafe_allow_html=True)
 
 st.write("")
 
-# ---- 요약 지표 ----
-with card("요약 지표", "최근 6개월"):
-    sum_cols = st.columns(4, gap="medium")
+# ---- 요약 지표 (3개) ----
+with card("요약 지표", "wide CSV 기준"):
+    sum_cols = st.columns(3, gap="medium")
     tone_color = {"danger": "#EF4444", "warning": "#F59E0B", "positive": "#10B981"}
-    for col, m in zip(sum_cols, PREDICTION_RESULT["summary"]):
+    for col, m in zip(sum_cols, pred["summary"]):
         color = tone_color.get(m["tone"], "#64748B")
         with col:
             st.markdown(
@@ -201,10 +212,10 @@ with card("요약 지표", "최근 6개월"):
 
 st.write("")
 
-# ---- 상세 분석 (구 위험 분석 상세 페이지에서 통합) ----
+# ---- 상세 분석 ----
 st.markdown("<div class='tb-page-title' style='font-size:1.2rem;'>상세 분석</div>", unsafe_allow_html=True)
 st.markdown(
-    "<div class='tb-page-sub'>신호별 추이와 위험 요인 기여도를 확인합니다.</div>",
+    "<div class='tb-page-sub'>업로드/조회수/참여율 추이와 영상별 분포를 확인합니다.</div>",
     unsafe_allow_html=True,
 )
 
@@ -214,7 +225,7 @@ def _hex_to_rgb(hex_color: str) -> str:
     return f"{int(h[0:2], 16)},{int(h[2:4], 16)},{int(h[4:6], 16)}"
 
 
-def _line_chart(xs, ys, color, ysuffix="", height=200, fill=True):
+def _line_chart(xs, ys, color, ysuffix="", height=220, fill=True):
     fig = go.Figure()
     fig.add_trace(
         go.Scatter(
@@ -239,95 +250,229 @@ def _line_chart(xs, ys, color, ysuffix="", height=200, fill=True):
     return fig
 
 
-tabs = st.tabs(["종합 분석", "업로드 분석", "조회수 분석", "댓글 감성 분석", "참여율 분석"])
+def _bar_chart(xs, ys, color, ysuffix="", height=220, text_format=None):
+    text = [text_format(v) if text_format else str(v) for v in ys]
+    fig = go.Figure(
+        data=[
+            go.Bar(
+                x=xs, y=ys,
+                marker=dict(color=color, line=dict(width=0)),
+                text=text, textposition="outside",
+                textfont=dict(color="#475569", size=10),
+                hovertemplate="%{x}<br>%{y}" + ysuffix + "<extra></extra>",
+            )
+        ]
+    )
+    y_max = max(ys) if ys else 0
+    fig.update_layout(
+        height=height,
+        margin=dict(l=8, r=8, t=18, b=8),
+        showlegend=False,
+        plot_bgcolor="white",
+        paper_bgcolor="white",
+        bargap=0.35,
+        xaxis=dict(showgrid=False, color="#94A3B8", tickfont=dict(size=10)),
+        yaxis=dict(
+            showgrid=True, gridcolor="#F1F5F9", color="#94A3B8",
+            tickfont=dict(size=10), ticksuffix=ysuffix,
+            range=[0, max(y_max * 1.2, 1)],
+        ),
+    )
+    return fig
 
+
+def _mini_kpi(label: str, value: str, color: str = "#0F172A") -> str:
+    return f"""
+    <div style="background:#FFFFFF; border:1px solid #F1F5F9; border-radius:12px;
+                padding:14px 16px;">
+        <div style="font-size:0.75rem; color:#64748B; margin-bottom:6px;">{label}</div>
+        <div style="font-size:1.25rem; font-weight:700; color:{color};">{value}</div>
+    </div>
+    """
+
+
+tabs = st.tabs(["종합 분석", "업로드 분석", "조회수 분석", "참여율 분석"])
+
+# ── 종합 분석 ─────────────────────────────────────────────
 with tabs[0]:
     c1, c2 = st.columns(2, gap="medium")
-
     with c1:
-        with card("업로드 추이", "업로드 횟수 (월별)"):
-            xs = [p[0] for p in UPLOAD_TREND]
-            ys = [p[1] for p in UPLOAD_TREND]
-            bar = go.Figure(
-                data=[
-                    go.Bar(
-                        x=xs, y=ys,
-                        marker=dict(color="#C7D2FE", line=dict(color=PRIMARY, width=0)),
-                        text=ys, textposition="outside",
-                        textfont=dict(color="#475569", size=11),
-                    )
-                ]
-            )
-            bar.update_layout(
-                height=200,
-                margin=dict(l=8, r=8, t=18, b=8),
-                showlegend=False,
-                plot_bgcolor="white",
-                paper_bgcolor="white",
-                xaxis=dict(showgrid=False, color="#94A3B8", tickfont=dict(size=10)),
-                yaxis=dict(showgrid=True, gridcolor="#F1F5F9", color="#94A3B8", tickfont=dict(size=10)),
-            )
-            st.plotly_chart(bar, use_container_width=True, config={"displayModeBar": False})
-            st.markdown(
-                f"<div style='text-align:right; font-size:0.78rem;'>{chip('-83%', 'danger')}</div>",
-                unsafe_allow_html=True,
+        with card("월별 업로드", "최근 12개월"):
+            xs = [p[0] for p in trends["upload"]]
+            ys = [p[1] for p in trends["upload"]]
+            st.plotly_chart(
+                _bar_chart(xs, ys, "#C7D2FE", ysuffix="개", height=220),
+                use_container_width=True, config={"displayModeBar": False},
             )
 
     with c2:
-        with card("조회수 추이", "평균 조회수 (월별)"):
-            xs = [p[0] for p in VIEW_TREND]
-            ys = [p[1] for p in VIEW_TREND]
+        with card("월별 평균 조회수", "최근 12개월"):
+            xs = [p[0] for p in trends["view"]]
+            ys = [round(p[1]) for p in trends["view"]]
             st.plotly_chart(
-                _line_chart(xs, ys, GRADE_C, ysuffix="", height=200),
+                _line_chart(xs, ys, PRIMARY, ysuffix="", height=220),
                 use_container_width=True, config={"displayModeBar": False},
-            )
-            st.markdown(
-                f"<div style='text-align:right; font-size:0.78rem;'>{chip('-61%', 'danger')}</div>",
-                unsafe_allow_html=True,
             )
 
     c3, c4 = st.columns(2, gap="medium")
-
     with c3:
-        with card("댓글 감성 변화", "긍정/부정 비율"):
-            pos_xs = [p[0] for p in SENTIMENT_TREND["positive"]]
-            pos_ys = [p[1] for p in SENTIMENT_TREND["positive"]]
-            neg_ys = [p[1] for p in SENTIMENT_TREND["negative"]]
-            fig = go.Figure()
-            fig.add_trace(go.Scatter(x=pos_xs, y=pos_ys, mode="lines+markers", name="긍정",
-                                     line=dict(color=GRADE_A, width=2.4, shape="spline"),
-                                     marker=dict(size=5, color=GRADE_A)))
-            fig.add_trace(go.Scatter(x=pos_xs, y=neg_ys, mode="lines+markers", name="부정",
-                                     line=dict(color=GRADE_C, width=2.4, shape="spline", dash="dot"),
-                                     marker=dict(size=5, color=GRADE_C)))
+        with card("월별 참여율", "(좋아요+댓글) / 조회수"):
+            xs = [p[0] for p in trends["engagement"]]
+            ys = [round(p[1], 2) for p in trends["engagement"]]
+            st.plotly_chart(
+                _line_chart(xs, ys, "#A855F7", ysuffix="%", height=220),
+                use_container_width=True, config={"displayModeBar": False},
+            )
+
+    with c4:
+        with card("Shorts vs 일반 영상", "수집 영상 50개 기준"):
+            sr = stats["summary"]["shorts_ratio"]
+            shorts_pct = sr * 100
+            normal_pct = (1 - sr) * 100
+            fig = go.Figure(
+                data=[
+                    go.Pie(
+                        labels=["Shorts", "일반 영상"],
+                        values=[shorts_pct, normal_pct],
+                        hole=0.65,
+                        marker=dict(colors=["#F59E0B", PRIMARY], line=dict(color="white", width=2)),
+                        textinfo="none",
+                        hovertemplate="%{label}<br>%{value:.0f}%<extra></extra>",
+                        sort=False,
+                    )
+                ]
+            )
             fig.update_layout(
-                height=200,
-                margin=dict(l=8, r=8, t=8, b=8),
-                plot_bgcolor="white",
-                paper_bgcolor="white",
-                legend=dict(orientation="h", x=0, y=1.18, font=dict(size=10, color="#64748B")),
-                xaxis=dict(showgrid=False, color="#94A3B8", tickfont=dict(size=10)),
-                yaxis=dict(showgrid=True, gridcolor="#F1F5F9", color="#94A3B8",
-                           tickfont=dict(size=10), ticksuffix="%", range=[0, 80]),
+                height=220,
+                margin=dict(l=10, r=10, t=10, b=10),
+                showlegend=False,
+                paper_bgcolor="white", plot_bgcolor="white",
+                annotations=[
+                    dict(text="Shorts 비율", x=0.5, y=0.58, font_size=11, font_color="#94A3B8", showarrow=False),
+                    dict(text=f"{shorts_pct:.0f}%", x=0.5, y=0.42, font_size=24, font_color="#0F172A", showarrow=False),
+                ],
             )
             st.plotly_chart(fig, use_container_width=True, config={"displayModeBar": False})
 
-    with c4:
-        with card("참여율 추이", "좋아요+댓글 / 조회수 비율"):
-            xs = [p[0] for p in ENGAGEMENT_TREND]
-            ys = [p[1] for p in ENGAGEMENT_TREND]
+# ── 업로드 분석 ───────────────────────────────────────────
+with tabs[1]:
+    c1, c2 = st.columns(2, gap="medium")
+    with c1:
+        with card("월별 업로드 횟수", "최근 12개월"):
+            xs = [p[0] for p in trends["upload"]]
+            ys = [p[1] for p in trends["upload"]]
             st.plotly_chart(
-                _line_chart(xs, ys, "#A855F7", ysuffix="%", height=200),
+                _bar_chart(xs, ys, PRIMARY, ysuffix="개", height=260),
                 use_container_width=True, config={"displayModeBar": False},
             )
-            st.markdown(
-                f"<div style='text-align:right; font-size:0.78rem;'>{chip('5% → 2.1%', 'warning')}</div>",
-                unsafe_allow_html=True,
+
+    with c2:
+        with card("업로드 간격 분포", "영상 사이 일수"):
+            intervals = stats["upload_intervals"]
+            bins = [(0, 5, "0~5일"), (5, 15, "5~15일"), (15, 30, "15~30일"),
+                    (30, 60, "30~60일"), (60, 180, "60~180일"), (180, 10_000, "180일+")]
+            counts = [sum(1 for v in intervals if lo <= v < hi) for lo, hi, _ in bins]
+            labels = [lb for _, _, lb in bins]
+            st.plotly_chart(
+                _bar_chart(labels, counts, "#A5B4FC", ysuffix="회", height=260),
+                use_container_width=True, config={"displayModeBar": False},
             )
 
-for ph_tab in tabs[1:]:
-    with ph_tab:
-        st.info("이 탭은 디자인 시안에서는 종합 분석 탭과 동일한 시각화 패턴을 사용합니다. 실제 구현 시 세부 차트로 확장됩니다.")
+    s = stats["summary"]
+    kpi_cols = st.columns(3, gap="medium")
+    with kpi_cols[0]:
+        st.html(_mini_kpi("평균 업로드 주기", f"{s['avg_interval_days']:.1f}일"))
+    with kpi_cols[1]:
+        st.html(_mini_kpi("역대 최대 공백", f"{s['max_gap_days']:,}일",
+                           color="#EF4444" if s["max_gap_days"] > 90 else "#0F172A"))
+    with kpi_cols[2]:
+        st.html(_mini_kpi("30일+ 공백 횟수", f"{s['hiatus_count_30d']}회",
+                           color="#F59E0B" if s["hiatus_count_30d"] > 0 else "#0F172A"))
+
+# ── 조회수 분석 ───────────────────────────────────────────
+with tabs[2]:
+    c1, c2 = st.columns(2, gap="medium")
+    with c1:
+        with card("월별 평균 조회수", "최근 12개월"):
+            xs = [p[0] for p in trends["view"]]
+            ys = [round(p[1]) for p in trends["view"]]
+            st.plotly_chart(
+                _line_chart(xs, ys, PRIMARY, ysuffix="", height=260),
+                use_container_width=True, config={"displayModeBar": False},
+            )
+
+    with c2:
+        with card("영상별 조회수 분포", "상위 20개 영상"):
+            top20 = sorted(stats["view_distribution"], reverse=True)[:20]
+            ranks = [f"#{i + 1}" for i in range(len(top20))]
+            st.plotly_chart(
+                _bar_chart(ranks, top20, "#C7D2FE", ysuffix="", height=260),
+                use_container_width=True, config={"displayModeBar": False},
+            )
+
+    s = stats["summary"]
+    kpi_cols = st.columns(3, gap="medium")
+    with kpi_cols[0]:
+        st.html(_mini_kpi("평균 조회수", f"{int(s['avg_view']):,}"))
+    with kpi_cols[1]:
+        cv = s["std_view"] / s["avg_view"] if s["avg_view"] > 0 else 0
+        st.html(_mini_kpi("조회수 표준편차", f"{int(s['std_view']):,}",
+                           color="#EF4444" if cv > 1 else "#0F172A"))
+    with kpi_cols[2]:
+        st.html(_mini_kpi("최고 조회수", f"{s['max_view']:,}"))
+
+# ── 참여율 분석 ──────────────────────────────────────────
+with tabs[3]:
+    c1, c2 = st.columns(2, gap="medium")
+    with c1:
+        with card("월별 참여율 추이", "(좋아요+댓글) / 조회수"):
+            xs = [p[0] for p in trends["engagement"]]
+            ys = [round(p[1], 2) for p in trends["engagement"]]
+            st.plotly_chart(
+                _line_chart(xs, ys, "#A855F7", ysuffix="%", height=260),
+                use_container_width=True, config={"displayModeBar": False},
+            )
+
+    with c2:
+        with card("좋아요·댓글 비율 추이", "조회수 대비 %"):
+            xs = [p[0] for p in trends["like_ratio"]]
+            like_ys = [round(p[1], 2) for p in trends["like_ratio"]]
+            comm_ys = [round(p[1], 3) for p in trends["comment_ratio"]]
+            fig = go.Figure()
+            fig.add_trace(
+                go.Scatter(
+                    x=xs, y=like_ys, mode="lines+markers", name="좋아요/조회수",
+                    line=dict(color=GRADE_A, width=2.4, shape="spline"),
+                    marker=dict(size=5, color=GRADE_A),
+                )
+            )
+            fig.add_trace(
+                go.Scatter(
+                    x=xs, y=comm_ys, mode="lines+markers", name="댓글/조회수",
+                    line=dict(color=GRADE_C, width=2.4, shape="spline", dash="dot"),
+                    marker=dict(size=5, color=GRADE_C),
+                )
+            )
+            fig.update_layout(
+                height=260,
+                margin=dict(l=8, r=8, t=8, b=8),
+                plot_bgcolor="white", paper_bgcolor="white",
+                legend=dict(orientation="h", x=0, y=1.18, font=dict(size=10, color="#64748B")),
+                xaxis=dict(showgrid=False, color="#94A3B8", tickfont=dict(size=10)),
+                yaxis=dict(showgrid=True, gridcolor="#F1F5F9", color="#94A3B8",
+                           tickfont=dict(size=10), ticksuffix="%"),
+            )
+            st.plotly_chart(fig, use_container_width=True, config={"displayModeBar": False})
+
+    s = stats["summary"]
+    kpi_cols = st.columns(3, gap="medium")
+    with kpi_cols[0]:
+        st.html(_mini_kpi("평균 참여율", f"{s['avg_engagement_rate']:.2f}%",
+                           color="#EF4444" if s["avg_engagement_rate"] < 1 else "#0F172A"))
+    with kpi_cols[1]:
+        st.html(_mini_kpi("평균 좋아요 비율", f"{s['avg_like_rate']:.2f}%"))
+    with kpi_cols[2]:
+        st.html(_mini_kpi("평균 댓글 비율", f"{s['avg_comment_rate']:.3f}%"))
 
 st.write("")
 
@@ -337,10 +482,10 @@ sl, sr = st.columns([1.2, 1], gap="medium")
 with sl:
     with card("위험 신호 요약"):
         cards_cols = st.columns(4, gap="small")
-        tone_to_chip = {"danger": "danger", "warning": "warning"}
-        tone_to_color = {"danger": GRADE_C, "warning": GRADE_B}
-        for col, s in zip(cards_cols, RISK_SIGNAL_SUMMARY):
-            color = tone_to_color.get(s["tone"], "#64748B")
+        tone_to_chip = {"danger": "danger", "warning": "warning", "positive": "positive"}
+        tone_to_color = {"danger": GRADE_C, "warning": GRADE_B, "positive": GRADE_A}
+        for col, sig in zip(cards_cols, risk_signals):
+            color = tone_to_color.get(sig["tone"], "#64748B")
             with col:
                 st.markdown(
                     f"""
@@ -348,21 +493,21 @@ with sl:
                                 padding:14px 14px;">
                         <div style="display:flex; align-items:center; gap:8px;">
                             <span style="width:8px; height:8px; border-radius:50%; background:{color};"></span>
-                            <div style="font-size:0.85rem; font-weight:600; color:#0F172A;">{s['label']}</div>
+                            <div style="font-size:0.85rem; font-weight:600; color:#0F172A;">{sig['label']}</div>
                         </div>
                         <div style="font-size:0.74rem; color:#64748B; margin-top:8px; line-height:1.4;">
-                            {s['desc']}
+                            {sig['desc']}
                         </div>
-                        <div style="margin-top:10px;">{chip(f"위험도 {s['level']}", tone_to_chip.get(s['tone'], 'neutral'))}</div>
+                        <div style="margin-top:10px;">{chip(f"위험도 {sig['level']}", tone_to_chip.get(sig['tone'], 'neutral'))}</div>
                     </div>
                     """,
                     unsafe_allow_html=True,
                 )
 
 with sr:
-    with card("SHAP 주요 영향 요인", "위험도 증가 기여 (+)"):
-        labels = [s["label"] for s in SHAP_FACTORS]
-        values = [s["value"] for s in SHAP_FACTORS]
+    with card("위험 기여도", "룰 기반 (SHAP 모델 대체)"):
+        labels = [s["label"] for s in shap_factors]
+        values = [s["value"] for s in shap_factors]
         fig = go.Figure(
             data=[
                 go.Bar(
@@ -377,7 +522,7 @@ with sr:
             ]
         )
         fig.update_layout(
-            height=220,
+            height=240,
             margin=dict(l=8, r=40, t=8, b=8),
             plot_bgcolor="white",
             paper_bgcolor="white",
