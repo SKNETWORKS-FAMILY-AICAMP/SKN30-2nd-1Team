@@ -170,29 +170,21 @@ def inject_global_css() -> None:
             color: #FFFFFF !important;
         }}
 
-        /* ---- 카드 (st.container(border=True) 매핑) ---- */
-        div[data-testid="stVerticalBlockBorderWrapper"] {{
+        /* ---- 카드 (components.card() 매핑)
+           Streamlit 1.50부터 st.container(border=True)에 별도 testid가 없어
+           components.py의 card()가 key="tb-card-N"를 박아주고, Streamlit이
+           자동 생성하는 st-key-tb-card-N class를 selector로 사용한다. ---- */
+        div[data-testid="stVerticalBlock"][class*="st-key-tb-card-"] {{
             background: {BG_CARD} !important;
             background-color: {BG_CARD} !important;
             border: 1px solid {BORDER} !important;
             border-radius: 16px !important;
             box-shadow: 0 1px 2px rgba(15, 23, 42, 0.04), 0 1px 3px rgba(15, 23, 42, 0.03) !important;
-            padding: 20px 22px !important;
-        }}
-        /* Streamlit 내부 border div 리셋 — 기본 테마 스타일 제거 */
-        div[data-testid="stVerticalBlockBorderWrapper"] > div {{
-            background: transparent !important;
-            background-color: transparent !important;
-            border: none !important;
-            box-shadow: none !important;
-            padding: 0 !important;
-        }}
-        div[data-testid="stVerticalBlockBorderWrapper"] > div > div {{
-            background: transparent !important;
+            padding: 22px 24px !important;
         }}
         /* 카드 안의 중첩 카드는 스타일 초기화 */
-        div[data-testid="stVerticalBlockBorderWrapper"]
-            div[data-testid="stVerticalBlockBorderWrapper"] {{
+        div[data-testid="stVerticalBlock"][class*="st-key-tb-card-"]
+            div[data-testid="stVerticalBlock"][class*="st-key-tb-card-"] {{
             background: transparent !important;
             background-color: transparent !important;
             border: none !important;

@@ -187,13 +187,23 @@ def disclaimer_footer() -> None:
     )
 
 
+_card_counter = 0
+
+
 def card(title: str | None = None, subtitle: str | None = None):
-    """st.container(border=True) 기반 카드 래퍼.
+    """st.container 기반 카드 래퍼.
 
     `with card("제목", "부제"):` 형태로 사용한다.
     title과 subtitle은 한 줄에서 좌/우 양끝 정렬로 렌더된다.
+
+    각 카드에 `tb-card-{N}` key를 부여해 Streamlit이 자동 생성하는
+    `st-key-tb-card-{N}` class로 styles.py에서 안정적으로 타겟한다.
+    (Streamlit 1.50부터 border=True 컨테이너에 별도 testid가 없어 emotion 해시
+    class에 의존해야 하는 문제를 회피.)
     """
-    container = st.container(border=True)
+    global _card_counter
+    _card_counter += 1
+    container = st.container(key=f"tb-card-{_card_counter}")
     if title or subtitle:
         title_html = (
             f"<div class='tb-card-title'>{escape(title)}</div>" if title else "<div></div>"
