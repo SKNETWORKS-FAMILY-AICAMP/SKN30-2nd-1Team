@@ -17,14 +17,14 @@ from components import (
     page_header,
     render_sidebar,
 )
-from dummy_data import (
-    DASHBOARD_KPI,
-    RISK_DISTRIBUTION,
-    RISK_SIGNALS,
-    RISK_TREND,
-    TOP_RISKY_CHANNELS,
+from data_loader import (
+    compute_grade_distribution,
+    compute_kpis,
+    compute_risk_signals,
+    compute_subscriber_band_churn,
+    compute_top_risky,
 )
-from styles import PRIMARY, inject_global_css
+from styles import DATA_SNAPSHOT_DATE, PRIMARY, inject_global_css
 
 st.set_page_config(
     page_title="튜브어때 — 대시보드",
@@ -39,12 +39,18 @@ render_sidebar("dashboard")
 page_header(
     title="데이터 현황",
     subtitle="튜브어때가 분석한 유튜브 채널 현황입니다.",
-    right="2026.05.14 기준",
+    right=f"{DATA_SNAPSHOT_DATE} 기준",
 )
 
 # ---- KPI ----
+dashboard_kpi = compute_kpis()
+risk_distribution = compute_grade_distribution()
+band_data = compute_subscriber_band_churn()
+top_risky_channels = compute_top_risky(5)
+risk_signals = compute_risk_signals()
+
 kpi_cols = st.columns(4, gap="medium")
-for col, k in zip(kpi_cols, DASHBOARD_KPI):
+for col, k in zip(kpi_cols, dashboard_kpi):
     with col:
         kpi_card(k["label"], k["value"], k["unit"], k["delta"], k["tone"])
 
@@ -54,10 +60,10 @@ st.write("")
 left, right = st.columns([1, 1.4], gap="medium")
 
 with left:
-    with card("이탈 위험도 분포", "전체 채널 기준"):
-        labels = [r["label"] for r in RISK_DISTRIBUTION]
-        counts = [r["count"] for r in RISK_DISTRIBUTION]
-        colors = [r["color"] for r in RISK_DISTRIBUTION]
+    with card("이탈 위험도 분포", "180일 이상 미업로드 = 이탈"):
+        labels = [r["label"] for r in risk_distribution]
+        counts = [r["count"] for r in risk_distribution]
+        colors = [r["color"] for r in risk_distribution]
         total = sum(counts)
 
         fig = go.Figure(
@@ -89,7 +95,7 @@ with left:
             st.plotly_chart(fig, use_container_width=True, config={"displayModeBar": False})
         with legend_col:
             st.markdown("<div style='padding-top: 28px;'></div>", unsafe_allow_html=True)
-            for r in RISK_DISTRIBUTION:
+            for r in risk_distribution:
                 st.markdown(
                     f"""
                     <div style="display:flex; align-items:center; gap:10px; padding:8px 0;">
@@ -102,44 +108,40 @@ with left:
                 )
 
 with right:
-    with card("평균 이탈 위험도 추이", "최근 30일"):
-        xs = [p[0] for p in RISK_TREND]
-        ys = [p[1] for p in RISK_TREND]
+    with card("구독자 구간별 안심 채널 비율", "최근 30일 이내 업로드 기준"):
+        xs = band_data["labels"]
+        ys = band_data["ratios"]
+        counts = band_data["counts"]
+        totals = band_data["totals"]
         fig = go.Figure()
         fig.add_trace(
-            go.Scatter(
-                x=xs, y=ys,
-                mode="lines+markers",
-                line=dict(color=PRIMARY, width=2.5, shape="spline"),
-                marker=dict(size=6, color=PRIMARY, line=dict(color="white", width=1.5)),
-                fill="tozeroy",
-                fillcolor="rgba(99, 102, 241, 0.08)",
-                hovertemplate="%{x}<br>%{y}%<extra></extra>",
+            go.Bar(
+                x=xs,
+                y=ys,
+                marker=dict(color=PRIMARY, line=dict(width=0)),
+                text=[f"{v:.1f}%" for v in ys],
+                textposition="outside",
+                textfont=dict(size=12, color="#0F172A", family="Pretendard"),
+                customdata=list(zip(counts, totals)),
+                hovertemplate=(
+                    "%{x}<br>안심 %{customdata[0]:,}건 / 전체 %{customdata[1]:,}건"
+                    "<extra></extra>"
+                ),
             )
         )
-        fig.add_trace(
-            go.Scatter(
-                x=[xs[-1]], y=[ys[-1]],
-                mode="markers+text",
-                marker=dict(size=11, color=PRIMARY, line=dict(color="white", width=2)),
-                text=[f"  {ys[-1]}%"],
-                textposition="middle right",
-                textfont=dict(size=12, color=PRIMARY, family="Pretendard"),
-                hoverinfo="skip",
-                showlegend=False,
-            )
-        )
+        y_max = max(ys) if ys else 0
         fig.update_layout(
             height=270,
-            margin=dict(l=10, r=40, t=10, b=10),
+            margin=dict(l=10, r=40, t=20, b=10),
             showlegend=False,
             plot_bgcolor="white",
             paper_bgcolor="white",
-            xaxis=dict(showgrid=False, color="#94A3B8", tickfont=dict(size=10)),
+            bargap=0.45,
+            xaxis=dict(showgrid=False, color="#475569", tickfont=dict(size=11)),
             yaxis=dict(
                 showgrid=True, gridcolor="#F1F5F9",
                 color="#94A3B8", tickfont=dict(size=10),
-                range=[0, 100], ticksuffix="%",
+                range=[0, max(y_max * 1.25, 5)], ticksuffix="%",
             ),
         )
         st.plotly_chart(fig, use_container_width=True, config={"displayModeBar": False})
@@ -150,16 +152,16 @@ st.write("")
 b_left, b_right = st.columns([1, 1.4], gap="medium")
 
 with b_left:
-    with card("최근 위험 급상승 채널 TOP 5", "지난 7일 기준"):
+    with card("즉시 주의 채널 TOP 5", "장기 미업로드 + 업로드 빈도 감소"):
         rows = "".join(
             f"""
             <tr>
                 <td class="rank">{c['rank']}</td>
                 <td>{c['name']}</td>
-                <td style="text-align:right;" class="delta-up">↑ {c['delta'][1:]}</td>
+                <td style="text-align:right;" class="delta-up">{c['days']:,}일 전</td>
             </tr>
             """
-            for c in TOP_RISKY_CHANNELS
+            for c in top_risky_channels
         )
         st.markdown(
             f"""
@@ -174,7 +176,7 @@ with b_left:
         )
 
 with b_right:
-    with card("주요 위험 신호", "전체 기준"):
+    with card("주요 위험 신호", "전체 채널 대비 비율"):
         signal_html = "".join(
             f"""
             <div class="tb-signal-row">
@@ -184,7 +186,7 @@ with b_right:
                 <div class="tb-signal-value">{sig['value']}%</div>
             </div>
             """
-            for sig in RISK_SIGNALS
+            for sig in risk_signals
         )
         st.markdown(signal_html, unsafe_allow_html=True)
 

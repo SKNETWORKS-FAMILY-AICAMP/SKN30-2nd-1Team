@@ -487,6 +487,41 @@ def inject_global_css() -> None:
             color: {TEXT_MUTED} !important;
         }}
 
+        /* ---- 탭 (st.tabs) ---- */
+        div[data-testid="stTabs"] [data-baseweb="tab-list"] {{
+            gap: 4px;
+            border-bottom: 1px solid {BORDER};
+        }}
+        div[data-testid="stTabs"] button[data-baseweb="tab"] {{
+            height: 42px;
+            padding: 0 18px;
+            background: transparent;
+            color: {TEXT_SECONDARY} !important;
+            font-weight: 500;
+            font-size: 0.92rem;
+        }}
+        div[data-testid="stTabs"] button[data-baseweb="tab"] p {{
+            color: inherit !important;
+            font-weight: inherit !important;
+            font-size: inherit !important;
+        }}
+        div[data-testid="stTabs"] button[data-baseweb="tab"]:hover {{
+            color: {TEXT_PRIMARY} !important;
+            background: rgba(99, 102, 241, 0.06);
+            border-radius: 8px 8px 0 0;
+        }}
+        div[data-testid="stTabs"] button[data-baseweb="tab"][aria-selected="true"] {{
+            color: {PRIMARY} !important;
+            font-weight: 700;
+        }}
+        div[data-testid="stTabs"] [data-baseweb="tab-highlight"] {{
+            background: {PRIMARY} !important;
+            height: 2.5px !important;
+        }}
+        div[data-testid="stTabs"] [data-baseweb="tab-border"] {{
+            display: none;
+        }}
+
         /* ---- 추천 행 ---- */
         .tb-rec-row {{
             display: flex;
