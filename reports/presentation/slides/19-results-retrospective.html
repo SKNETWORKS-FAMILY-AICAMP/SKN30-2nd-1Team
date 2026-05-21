@@ -1,57 +1,40 @@
 <section class="slide">
   <div class="slide-divider"></div>
-  <h2 class="slide-title">프로젝트 결과 · 회고</h2>
-  <p class="slide-subtitle">확장 가능성 · 한 줄 회고 · 이슈/해결 · 한계점</p>
+  <h2 class="slide-title">프로젝트 결과</h2>
+  <p class="slide-subtitle">확장 가능성 · 주요 이슈 및 해결</p>
 
   <div class="slide-body">
-    <div class="two-col">
-      <div style="display:flex; flex-direction:column; gap:10px;">
-        <div class="card accent">
-          <div class="card-title">🚀 확장 가능성</div>
-          <div class="card-body small">
-            · 실시간 YouTube API 분석 (현재 스냅샷)<br/>
-            · 시계열 위험도 추적 대시보드<br/>
-            · TikTok / Instagram 멀티 플랫폼<br/>
-            · 광고 성과 데이터 연동 → ROI 검증<br/>
-            · 뉴스/SNS 외부 데이터 (논란 탐지)
-          </div>
-        </div>
-
-        <div class="card">
-          <div class="card-title">🔧 주요 이슈 및 해결</div>
-          <div class="card-body small">
-            <table style="font-size:14px;">
-              <tr><td><strong>API 쿼터 초과</strong></td><td>다중 키 로테이션 + 로컬 캐시</td></tr>
-              <tr><td><strong>클래스 불균형</strong></td><td>SMOTE + class_weight + threshold tuning</td></tr>
-              <tr><td><strong>이상값(분모 0)</strong></td><td>clip 처리 (-5~+5, 0~1)</td></tr>
-              <tr><td><strong>시즌제 채널 오분류</strong></td><td>카테고리별 별도 분석</td></tr>
-              <tr><td><strong>댓글 비공개 채널</strong></td><td>feature missing 허용</td></tr>
-            </table>
-          </div>
-        </div>
+    <div style="display:flex; flex-direction:column; gap:16px;">
+      <div class="callout">
+        <strong>결과 요약</strong> · 광고주가 채널의 현재 인기뿐 아니라 <strong>활동 지속 가능성</strong>을 함께 판단할 수 있는 분석 흐름을 MVP 형태로 구현했습니다.
       </div>
 
-      <div style="display:flex; flex-direction:column; gap:10px;">
-        <div class="card">
-          <div class="card-title">💬 한 줄 회고 (5인)</div>
-          <div class="card-body small">
-            <div style="margin-bottom:6px;"><strong>강성준</strong> · <em>"<!-- 한 줄 회고 입력 -->"</em></div>
-            <div style="margin-bottom:6px;"><strong>김도훈</strong> · <em>"<!-- 한 줄 회고 입력 -->"</em></div>
-            <div style="margin-bottom:6px;"><strong>천성배</strong> · <em>"<!-- 한 줄 회고 입력 -->"</em></div>
-            <div style="margin-bottom:6px;"><strong>서해연</strong> · <em>"<!-- 한 줄 회고 입력 -->"</em></div>
-            <div><strong>정주애</strong> · <em>"<!-- 한 줄 회고 입력 -->"</em></div>
+      <div class="two-col">
+        <div style="display:flex; flex-direction:column; gap:10px;">
+          <div class="card accent">
+            <div class="card-title">🚀 확장 가능성</div>
+            <div class="card-body small">
+              · 실시간 YouTube API 분석 (현재는 스냅샷 기반)<br/>
+              · 시계열 위험도 추적 대시보드<br/>
+              · TikTok / Instagram 멀티 플랫폼 확장<br/>
+              · 광고 성과 데이터 연동을 통한 ROI 검증<br/>
+              · 뉴스/SNS 외부 데이터 결합으로 논란 탐지
+            </div>
           </div>
         </div>
 
-        <div class="card" style="border-left:3px solid var(--grade-c);">
-          <div class="card-title">⚠️ 한계점 · 향후 과제</div>
-          <div class="card-body small">
-            · <strong>스냅샷 의존성</strong>: 2026-05-17 이후 채널 변화 미반영<br/>
-            · <strong>신규 채널 분석 불가</strong>: 사전 수집 DB에 없으면 분석 불가<br/>
-            · <strong>외부 이슈 미반영</strong>: 논란/건강 등 모델 예측 불가능한 이탈<br/>
-            · <strong>한국어 중심</strong>: 다국어 채널 분석 한계<br/>
-            · <strong>광고 성과 검증 부재</strong>: 실제 ROI와 위험도 상관관계 미검증<br/>
-            · <strong>AUC 1.000의 함정</strong>: 180일 라벨 분리가 너무 명확 → 실제 운영 시 라벨 정의 재검토 필요
+        <div style="display:flex; flex-direction:column; gap:10px;">
+          <div class="card">
+            <div class="card-title">🔧 주요 이슈 및 해결</div>
+            <div class="card-body small">
+              <table style="font-size:14px;">
+                <tr><td><strong>API 쿼터 초과</strong></td><td>다중 키 로테이션 + 로컬 캐시</td></tr>
+                <tr><td><strong>클래스 불균형</strong></td><td>SMOTE + class_weight + threshold tuning</td></tr>
+                <tr><td><strong>이상값(분모 0)</strong></td><td>clip 처리 (-5~+5, 0~1)</td></tr>
+                <tr><td><strong>시즌제 채널 오분류</strong></td><td>카테고리별 별도 분석</td></tr>
+                <tr><td><strong>댓글 비공개 채널</strong></td><td>feature missing 허용</td></tr>
+              </table>
+            </div>
           </div>
         </div>
       </div>
@@ -59,7 +42,7 @@
   </div>
 
   <div class="slide-footer">
-    <span>22. 결과 · 회고</span>
+    <span>19. 프로젝트 결과</span>
     <span>SKN30 · 너놀자</span>
   </div>
 </section>

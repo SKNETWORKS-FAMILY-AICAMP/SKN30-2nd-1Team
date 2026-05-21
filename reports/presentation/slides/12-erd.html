@@ -1,47 +1,15 @@
 <section class="slide">
   <div class="slide-divider"></div>
   <h2 class="slide-title">ERD 구조도</h2>
-  <p class="slide-subtitle">`youtube_model_db` 핵심 테이블 관계 요약</p>
 
   <div class="slide-body">
-    <div class="two-col" style="grid-template-columns: 1.45fr 0.95fr; align-items:start;">
+    <div>
       <div class="card" style="padding:14px;">
         <img
           src="../assets/SKN_2nd_ERD.png"
           alt="youtube_model_db 핵심 ERD 구조도"
           style="display:block; width:100%; height:auto; border-radius:6px;"
         />
-      </div>
-
-      <div style="display:flex; flex-direction:column; gap:12px;">
-        <div class="card accent">
-          <div class="card-title">핵심 허브</div>
-          <div class="card-body">
-            <strong>channel_info_table</strong> 이 중심입니다.<br/>
-            모든 채널 관련 테이블이 <code>channel_identifier</code>를 기준으로 연결됩니다.
-          </div>
-        </div>
-
-        <div class="card">
-          <div class="card-title">주요 관계</div>
-          <div class="card-body">
-            <strong>1:1</strong> · analytics / score / prediction<br/>
-            <strong>1:N</strong> · video / comments<br/>
-            <strong>M:N</strong> · category는 <code>channel_category_table</code>로 연결
-          </div>
-        </div>
-
-        <div class="card">
-          <div class="card-title">설계 포인트</div>
-          <div class="card-body">
-            <strong>youtube_channel_id</strong> 는 외부 CSV의 <code>channel_id</code> 와 동일합니다.<br/>
-            <strong>video_table</strong> 과 <strong>comments_table</strong> 은 <code>video_id</code> 불일치 가능성 때문에 직접 FK 연결하지 않았습니다.
-          </div>
-        </div>
-
-        <div class="callout">
-          <strong>MVP 운영 방식</strong> · 현재 서비스는 CSV 기반으로 동작하지만, DB 스키마는 MySQL 이관을 고려해 미리 정규화해 두었습니다.
-        </div>
       </div>
     </div>
   </div>
