@@ -1,0 +1,44 @@
+﻿column,source,role,dtype,null_count,description
+channel_identifier,channel_info_table,식별자,str,0,채널 식별자 (PK)
+subscriber_count,channel_info_table,피처,int64,0,구독자 수
+total_views,channel_info_table,피처,int64,0,채널 총 조회수
+video_count,channel_info_table,피처,int64,0,채널 총 영상 수
+channel_age_days,파생 (channel_info),피처,int64,0,"채널 나이 (기준일 기준 경과일, 우측절단 보정)"
+collected_video_count,channel_analytics_table,피처,int64,0,수집된 영상 수 (최대 50)
+avg_upload_interval_days,channel_analytics_table,피처,float64,0,"평균 업로드 간격 (일), 마지막 공백 제외"
+std_upload_interval_days,channel_analytics_table,피처,float64,0,업로드 간격 표준편차
+max_gap_days,channel_analytics_table,피처,float64,0,최대 업로드 공백 (일)
+hiatus_count_30d,channel_analytics_table,피처,int64,0,30일 이상 공백 발생 횟수
+avg_view_count,channel_analytics_table,피처,float64,0,영상 평균 조회수 (video age bias 주의)
+std_view_count,channel_analytics_table,피처,float64,0,영상 조회수 표준편차
+avg_like_count,channel_analytics_table,피처,float64,0,영상 평균 좋아요 수
+avg_comment_count,channel_analytics_table,피처,float64,0,영상 평균 댓글 수
+avg_normal_view,channel_analytics_table,피처,float64,0,"일반(비Shorts) 영상 평균 조회수, NULL→0"
+regularity_score,channel_score_table,피처,float64,0,"업로드 규칙성 점수 (0~1, 높을수록 규칙적) ⭐핵심"
+cv,channel_score_table,피처,float64,0,업로드 간격 변동계수 (CV)
+outlier_ratio,channel_score_table,피처,float64,0,업로드 간격 이상값 비율
+gap_ratio,channel_score_table,피처,float64,0,긴 공백 비율
+sensitive_score,channel_score_table,피처,float64,0,민감 콘텐츠 점수
+n_sensitive_videos,channel_score_table,피처,int64,0,민감 영상 수
+sensitive_video_ratio,channel_score_table,피처,float64,0,민감 영상 비율
+cat_politics,channel_score_table,피처,int64,0,정치 관련 영상 수
+cat_hate,channel_score_table,피처,int64,0,혐오 관련 영상 수
+cat_aggro,channel_score_table,피처,int64,0,공격성 관련 영상 수
+cat_adult_illegal,channel_score_table,피처,int64,0,성인/불법 관련 영상 수
+genre_BJ+연예인+인물,channel_category_table (OHE),피처,int64,0,장르=BJ+연예인+인물 여부 (기준 장르: (미분류))
+genre_IT+기술+컴퓨터,channel_category_table (OHE),피처,int64,0,장르=IT+기술+컴퓨터 여부 (기준 장르: (미분류))
+genre_TV+방송,channel_category_table (OHE),피처,int64,0,장르=TV+방송 여부 (기준 장르: (미분류))
+genre_가수+댄스+음악,channel_category_table (OHE),피처,int64,0,장르=가수+댄스+음악 여부 (기준 장르: (미분류))
+genre_강의+교육,channel_category_table (OHE),피처,int64,0,장르=강의+교육 여부 (기준 장르: (미분류))
+genre_게임,channel_category_table (OHE),피처,int64,0,장르=게임 여부 (기준 장르: (미분류))
+genre_경제+부동산+주식,channel_category_table (OHE),피처,int64,0,장르=경제+부동산+주식 여부 (기준 장르: (미분류))
+genre_국내+여행+해외,channel_category_table (OHE),피처,int64,0,장르=국내+여행+해외 여부 (기준 장르: (미분류))
+genre_라이프+취미,channel_category_table (OHE),피처,int64,0,장르=라이프+취미 여부 (기준 장르: (미분류))
+genre_레시피+요리+음식,channel_category_table (OHE),피처,int64,0,장르=레시피+요리+음식 여부 (기준 장르: (미분류))
+genre_만화+애니+영화,channel_category_table (OHE),피처,int64,0,장르=만화+애니+영화 여부 (기준 장르: (미분류))
+genre_미용+패션,channel_category_table (OHE),피처,int64,0,장르=미용+패션 여부 (기준 장르: (미분류))
+genre_반려동물+애완,channel_category_table (OHE),피처,int64,0,장르=반려동물+애완 여부 (기준 장르: (미분류))
+genre_스포츠+운동,channel_category_table (OHE),피처,int64,0,장르=스포츠+운동 여부 (기준 장르: (미분류))
+genre_어린이+키즈,channel_category_table (OHE),피처,int64,0,장르=어린이+키즈 여부 (기준 장르: (미분류))
+genre_자동차,channel_category_table (OHE),피처,int64,0,장르=자동차 여부 (기준 장르: (미분류))
+is_churned,channel_info_table,타깃,int64,0,이탈 여부 (1=이탈: 기준일 기준 180일 이상 미업로드)
