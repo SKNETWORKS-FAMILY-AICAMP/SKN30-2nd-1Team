@@ -458,20 +458,22 @@ body {
   font-size: clamp(20px, 1.9vw, 28px);
   font-weight: 900;
   margin-bottom: 10px;
+  text-align: center;
+  padding-top: 30px;
   color: var(--text);
   letter-spacing: -0.02em;
 }
 .member-card .role {
   font-family: "Archivo", sans-serif;
-  font-size: clamp(13px, 0.95vw, 15px);
+  font-size: clamp(13px, 0.95vw, 22px);
   color: var(--accent-deep);
   font-weight: 800;
   margin-bottom: 12px;
   letter-spacing: 0.04em;
   line-height: 1.45;
-  padding: 8px 10px;
+  /* padding: 8px 10px;
   border: 1px solid var(--accent-line);
-  background: var(--accent-soft);
+  background: var(--accent-soft); */
   border-radius: 999px;
   display: inline-flex;
   width: fit-content;
@@ -1219,6 +1221,35 @@ body {
   border-left-color: var(--accent-deep);
 }
 
+.plain-question {
+  width: 100%;
+  margin: 0;
+  font-size: clamp(64px, 6.2vw, 104px);
+  line-height: 1.08;
+  font-weight: 950;
+  text-align: center;
+  color: var(--text);
+}
+
+.plain-text-slide {
+  justify-content: center;
+  gap: clamp(38px, 5vh, 64px);
+}
+
+.plain-list {
+  width: min(100%, 980px);
+  margin: 0 auto;
+  padding-left: 1.15em;
+  font-size: clamp(28px, 2.6vw, 42px);
+  line-height: 1.45;
+  font-weight: 760;
+  color: var(--text);
+}
+
+.plain-list li {
+  margin-bottom: 0.42em;
+}
+
 ul,
 ol {
   margin: 0;
@@ -1447,4 +1478,39 @@ body.print-mode .slide-stage + .slide-stage {
     animation-duration: 0.01ms !important;
     transition-duration: 0.2s !important;
   }
+}
+
+/* Team slide thumbnail cards */
+.team-grid .member-card {
+  align-items: stretch;
+  justify-content: flex-start;
+  gap: 14px;
+  min-height: clamp(310px, 38vh, 380px);
+  padding: clamp(12px, 1vw, 16px);
+}
+
+.member-thumb {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  box-shadow: 0 10px 22px rgba(15, 23, 42, 0.1);
+}
+
+.team-grid .member-card .name {
+  margin: 0;
+  font-size: clamp(22px, 1.7vw, 30px);
+  line-height: 1.15;
+}
+
+.team-grid .member-card .role {
+  width: 100%;
+  justify-content: center;
+  margin: 0;
+  padding: 8px 10px;
+  text-align: center;
+  font-size: clamp(13px, 0.9vw, 15px);
+  line-height: 1.3;
 }

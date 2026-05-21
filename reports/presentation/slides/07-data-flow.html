@@ -1,55 +1,9 @@
-<section class="slide">
-  <div class="slide-divider"></div>
-  <h2 class="slide-title">데이터 흐름</h2>
-  <p class="slide-subtitle">수집 → 정제 → 피처 → 모델 → 위험도 통합 (End-to-End)</p>
+Feature Engineering
 
-  <div class="slide-body">
-    <div class="flow" style="margin-top:4px;">
-      <div class="flow-node"><span class="num">9,427</span><span class="lbl">youtube_channels.csv<br/>(youtube-rank 크롤링)</span></div>
-      <span class="flow-arrow">→</span>
-      <div class="flow-node"><span class="num">8,193</span><span class="lbl">cleaned<br/>(중복·결측 제거)</span></div>
-      <span class="flow-arrow">→</span>
-      <div class="flow-node" style="border-color:var(--accent); background:var(--accent-soft);"><span class="num">8,084</span><span class="lbl"><strong>총 수집 채널</strong><br/>(API 메타 + 영상)</span></div>
-      <span class="flow-arrow">→</span>
-      <div class="flow-node"><span class="num">3,337</span><span class="lbl">final<br/>(개인 크리에이터 필터링)</span></div>
-    </div>
+채널의 활력 징후를 수치화하다
 
-    <div style="text-align:center; color:var(--accent); font-size:20px; font-weight:700;">↓</div>
-
-    <div class="flow">
-      <div class="flow-node"><span class="num">166K</span><span class="lbl">videos<br/>(채널당 50개)</span></div>
-      <span class="flow-arrow">→</span>
-      <div class="flow-node" style="border-color:var(--accent); background:var(--accent-soft);"><span class="num">22</span><span class="lbl">Feature Matrix<br/>(그룹 0/A/B/C)</span></div>
-      <span class="flow-arrow">→</span>
-      <div class="flow-node" style="background:#FEF3C7;"><span class="num">6</span><span class="lbl">위험 신호 모델<br/>(ML + 룰 + K-Means)</span></div>
-      <span class="flow-arrow">→</span>
-      <div class="flow-node" style="background:#D1FAE5;"><span class="num">A/B/C</span><span class="lbl">risk_ranking.csv<br/>(최종 등급)</span></div>
-    </div>
-
-    <div class="grid cols-3" style="margin-top:12px;">
-      <div class="card">
-        <div class="card-title">1️⃣ 수집</div>
-        <div class="card-body small">
-          youtube-rank 웹 크롤링 → 채널 시드 확보 → <strong>YouTube Data API v3</strong>로 메타·영상 정보 수집 (다중 API 키 로테이션)
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-title">2️⃣ 전처리 · 피처</div>
-        <div class="card-body small">
-          영상 50개 미만 채널 제거 → wide(채널) / long(영상) 분리 → <strong>최신 1개 영상 제외</strong>(조회수 미성숙 보정) → 22개 피처 계산
-        </div>
-      </div>
-      <div class="card">
-        <div class="card-title">3️⃣ 모델 · 통합</div>
-        <div class="card-body small">
-          6개 점수 산출 (이탈/정체/변동성/규칙성/민감/활성팬) → 가중 합산 (평판 33% + 트래픽 33% + 팬덤 33%) → ABCDF 등급화
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class="slide-footer">
-    <span>12. 데이터 흐름</span>
-    <span>SKN30 · 너놀자</span>
-  </div>
-</section>
+평균 업로드 간격 일 단위
+최대 업로드 공백일
+조회수 변동성 계수
+최근 활동성 지수
+업로드 빈도 감소율
