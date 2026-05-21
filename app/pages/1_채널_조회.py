@@ -26,6 +26,7 @@ from data_loader import (
     find_channel_id_in_all_channels,
     get_sql_export_stats,
     get_channel_thumbnail,
+    get_growth_score,
     load_long,
 )
 from styles import inject_global_css
@@ -377,6 +378,82 @@ def _render_latest_videos(videos: list[dict]) -> None:
             )
 
 
+def _render_growth_card(channel_id: str) -> None:
+    """광고주 추천 성장률 카드 렌더링. risk_ranking에 없으면 무시."""
+    g = get_growth_score(channel_id)
+    if g is None:
+        return
+
+    cs, tg, fe = g["content_safety"], g["traffic_growth"], g["fandom_engagement"]
+    score = g["growth_score"]
+    grade = g["grade"]
+
+    score_color = (
+        "#10B981" if score >= 0.65
+        else "#F59E0B" if score >= 0.40
+        else "#EF4444"
+    )
+    grade_colors = {"S": "#6366F1", "A": "#10B981", "B": "#3B82F6", "C": "#F59E0B", "D": "#EF4444"}
+    grade_color = grade_colors.get(grade, "#94A3B8")
+
+    with card("광고주 추천 성장률"):
+        st.markdown(
+            f"""
+            <div style="display:flex; justify-content:space-between;
+                        align-items:flex-start; margin-bottom:16px; gap:12px; flex-wrap:wrap;">
+                <div>
+                    <div style="font-size:0.72rem; color:#64748B; margin-bottom:2px;">종합 성장 점수</div>
+                    <div style="display:flex; align-items:baseline; gap:10px;">
+                        <div style="font-size:2.4rem; font-weight:800; color:{score_color};
+                                    line-height:1.05;">{score * 100:.1f}%</div>
+                        <div style="font-size:1.1rem; font-weight:700;
+                                    color:{grade_color}; line-height:1;">등급 {grade}</div>
+                    </div>
+                    <div style="font-size:0.8rem; color:#475569; margin-top:6px;">
+                        추천 이유: <b>{g['reasons']}</b>
+                    </div>
+                </div>
+                <div style="font-size:0.72rem; color:#94A3B8; align-self:flex-end;">
+                    위험도(risk_ranking) 반전 기준
+                </div>
+            </div>
+            """,
+            unsafe_allow_html=True,
+        )
+
+        left_col, right_col = st.columns([1, 1])
+
+        with left_col:
+            axis_col = "".join([
+                _cell("평판 안전성", f"{cs * 100:.1f}%", "민감 콘텐츠 낮을수록 높음"),
+                _cell("트래픽 성장성", f"{tg * 100:.1f}%", "이탈·정체·변동성 낮을수록 높음"),
+                _cell("팬덤 참여도", f"{fe * 100:.1f}%", "활성 시청자 비율 높을수록 높음"),
+            ])
+            st.html(f'<div style="display:flex; flex-direction:column; gap:8px;">{axis_col}</div>')
+
+        with right_col:
+            fig = go.Figure(go.Scatterpolar(
+                r=[cs, tg, fe, cs],
+                theta=["평판 안전성", "트래픽 성장성", "팬덤 참여도", "평판 안전성"],
+                fill="toself",
+                fillcolor="rgba(99,102,241,0.15)",
+                line=dict(color="#6366F1", width=2),
+                name="성장률",
+            ))
+            fig.update_layout(
+                polar=dict(
+                    radialaxis=dict(range=[0, 1], tickvals=[0.25, 0.5, 0.75, 1.0],
+                                    tickfont=dict(size=9, color="#94A3B8")),
+                    angularaxis=dict(tickfont=dict(size=11, color="#334155")),
+                ),
+                paper_bgcolor="white",
+                margin=dict(l=30, r=30, t=30, b=30),
+                height=280,
+                showlegend=False,
+            )
+            st.plotly_chart(fig, use_container_width=True, config=_PLOTLY_CFG)
+
+
 def _clear_channel_search() -> None:
     st.session_state["channel_query"] = ""
     st.session_state["last_prediction"] = None
@@ -702,14 +779,16 @@ if prediction:
         ])
         st.dataframe(reasons_df, hide_index=True, use_container_width=True)
 
+    _render_growth_card(channel_id)
+
     entries = prediction.get("video_entries") or []
     if entries:
-        with card():
+        with card("채널 활동 추이 분석"):
             _render_live_charts(entries)
 
     _latest = _entries_to_latest_videos(entries) if entries else []
     if _latest:
-        with card("최신 영상"):
+        with card("최근 영상"):
             _render_latest_videos(_latest)
 
     disclaimer_footer()
@@ -800,6 +879,8 @@ elif sql_export_data:
         ])
         st.html(f'<div style="display:flex; gap:8px; flex-wrap:wrap; margin-bottom:4px;">{row3}</div>')
 
+    _render_growth_card(ch["channel_id"])
+
     try:
         with card("영상 지표 분석 (CSV 스냅샷 기준)"):
             _render_csv_charts(ch["channel_id"])
@@ -808,7 +889,7 @@ elif sql_export_data:
 
     _latest_sql = _get_latest_videos_from_csv(ch["channel_id"])
     if _latest_sql:
-        with card("최신 영상"):
+        with card("최근 영상"):
             _render_latest_videos(_latest_sql)
 
     disclaimer_footer()
@@ -914,15 +995,17 @@ elif csv_channel_id:
                     unsafe_allow_html=True,
                 )
 
+        _render_growth_card(csv_channel_id)
+
         try:
-            with card():
+            with card("채널 활동 추이 분석"):
                 _render_csv_charts(csv_channel_id)
         except Exception:
             pass
 
         _latest_csv = _get_latest_videos_from_csv(csv_channel_id)
         if _latest_csv:
-            with card("최신 영상"):
+            with card("최근 영상"):
                 _render_latest_videos(_latest_csv)
 
         disclaimer_footer()

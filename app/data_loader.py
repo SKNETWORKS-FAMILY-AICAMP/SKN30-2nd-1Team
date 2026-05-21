@@ -77,6 +77,47 @@ def load_risk_ranking() -> pd.DataFrame:
     return df
 
 
+def get_growth_score(channel_id: str) -> dict | None:
+    """risk_ranking.csv 3축 위험도를 반전해 광고주 추천 성장률 반환. 없으면 None."""
+    df = load_risk_ranking()
+    rows = df[df["channel_id"] == channel_id]
+    if rows.empty:
+        return None
+    r = rows.iloc[0]
+    try:
+        cs = 1 - float(r["reputation_risk"])
+        tg = 1 - float(r["traffic_risk"])
+        fe = 1 - float(r["fandom_risk"])
+    except (KeyError, ValueError, TypeError):
+        return None
+    score = (cs + tg + fe) / 3
+    if score >= 0.80:
+        grade = "S"
+    elif score >= 0.65:
+        grade = "A"
+    elif score >= 0.50:
+        grade = "B"
+    elif score >= 0.35:
+        grade = "C"
+    else:
+        grade = "D"
+    reasons = []
+    if cs >= 0.8:
+        reasons.append("민감 콘텐츠 없음")
+    if tg >= 0.7:
+        reasons.append("안정적 조회수·꾸준한 업로드")
+    if fe >= 0.7:
+        reasons.append("팬 참여율 높음")
+    return {
+        "content_safety": cs,
+        "traffic_growth": tg,
+        "fandom_engagement": fe,
+        "growth_score": score,
+        "grade": grade,
+        "reasons": " / ".join(reasons) if reasons else "전반적 안정",
+    }
+
+
 @st.cache_data(show_spinner=False)
 def load_all_channels() -> pd.DataFrame:
     return pd.read_csv(ALL_CHANNELS_PATH, dtype=str).fillna("")
