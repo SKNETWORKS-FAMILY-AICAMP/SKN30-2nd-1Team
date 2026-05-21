@@ -4,29 +4,26 @@
    ============================================ */
 
 const SLIDES = [
-  { file: '01-title.html',                 title: '01. 타이틀' },
-  { file: '02-team.html',                  title: '02. 팀 소개' },
-  { file: '03-project-overview.html',      title: '03. 프로젝트 개요' },
-  { file: '04-problem-goal.html',          title: '04. 문제 · 목표 · 기대효과' },
-  { file: '05-roles.html',                 title: '05. 역할 분담 / WBS' },
-  { file: '06-screen-demo.html',           title: '06. 화면 시연 (라이브)' },
-  { file: '07-sitemap.html',               title: '07. 사이트맵 / 화면 설계' },
-  { file: '08-core-features.html',         title: '08. 핵심 기능' },
-  { file: '09-requirements.html',          title: '09. 요구사항 정의서' },
-  { file: '10-project-structure.html',     title: '10. 프로젝트 구조' },
-  { file: '11-erd.html',                   title: '11. ERD 구조도' },
-  { file: '12-data-flow.html',             title: '12. 데이터 흐름' },
-  { file: '13-tech-stack.html',            title: '13. 사용한 기술 스택' },
-  { file: '14-dataset.html',               title: '14. 사용한 데이터' },
-  { file: '15-eda.html',                   title: '15. EDA' },
-  { file: '16-data-preprocessing.html',    title: '16. 데이터 전처리 결과' },
-  { file: '17-model-results.html',         title: '17. 모델 결과 (학습 결과서)' },
-  { file: '18-model-selection.html',       title: '18. 모델 선정 이유' },
-  { file: '19-insights.html',              title: '19. 분석 결과 인사이트' },
-  { file: '20-utilization.html',           title: '20. 활용 가능성' },
-  { file: '21-run-guide.html',             title: '21. 실행 가이드' },
-  { file: '22-results-retrospective.html', title: '22. 프로젝트 결과 / 회고' },
-  { file: '23-references.html',            title: '23. 참고 자료' },
+  { file: '01-title.html',                 title: '타이틀' },
+  { file: '02-team.html',                  title: '팀 소개' },
+  { file: '03-project-overview.html',      title: '프로젝트 개요' },
+  { file: '04-problem-goal.html',          title: '문제 · 목표 · 기대효과' },
+  { file: '05-roles.html',                 title: '역할 분담 / WBS' },
+  { file: '06-core-features.html',         title: '핵심 기능' },
+  { file: '07-data-flow.html',             title: '데이터 흐름' },
+  { file: '08-tech-stack.html',            title: '사용한 기술 스택' },
+  { file: '09-dataset.html',               title: '사용한 데이터' },
+  { file: '10-eda.html',                   title: 'EDA' },
+  { file: '11-data-preprocessing.html',    title: '데이터 전처리 결과' },
+  { file: '12-erd.html',                   title: 'ERD 구조도' },
+  { file: '13-model-results.html',         title: '모델 결과 (학습 결과서)' },
+  { file: '14-model-selection.html',       title: '모델 선정 이유' },
+  { file: '15-insights.html',              title: '분석 결과 인사이트' },
+  { file: '16-sitemap.html',               title: '사이트맵 / 화면 설계' },
+  { file: '17-screen-demo.html',           title: '화면 시연 (라이브)' },
+  { file: '18-utilization.html',           title: '활용 가능성' },
+  { file: '19-results-retrospective.html', title: '프로젝트 결과 / 회고' },
+  { file: '20-references.html',            title: '참고 자료' },
 ];
 
 const state = {
@@ -36,10 +33,17 @@ const state = {
   observer: null,
 };
 
+function formatSlideLabel(index) {
+  const slide = SLIDES[index];
+  const num = String(index + 1).padStart(2, '0');
+  return `${num}. ${slide.title}`;
+}
+
 async function renderAllSlides() {
   const stage = document.getElementById('stage');
   stage.innerHTML = '';
   state.slideNodes = [];
+  document.documentElement.style.setProperty('--slide-total', SLIDES.length);
 
   for (let i = 0; i < SLIDES.length; i++) {
     const slide = SLIDES[i];
@@ -63,6 +67,10 @@ async function renderAllSlides() {
     const wrap = document.createElement('div');
     wrap.className = 'slide-stage';
     wrap.innerHTML = html;
+    const footerLabel = wrap.querySelector('.slide-footer > span:first-child');
+    if (footerLabel && i > 0) {
+      footerLabel.textContent = formatSlideLabel(i);
+    }
     stage.appendChild(wrap);
     state.slideNodes.push(wrap);
     attachDemoFallback(wrap);
@@ -174,7 +182,7 @@ window.addEventListener('DOMContentLoaded', () => {
   SLIDES.forEach((s, i) => {
     const opt = document.createElement('option');
     opt.value = i;
-    opt.textContent = s.title;
+    opt.textContent = formatSlideLabel(i);
     sel.appendChild(opt);
   });
   sel.addEventListener('change', (e) => scrollToSlide(parseInt(e.target.value, 10)));
