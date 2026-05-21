@@ -54,12 +54,12 @@ st.markdown(
 )
 
 features = [
-    {
-        "icon": "🏠",
-        "title": "대시보드",
-        "desc": "전체 채널의 이탈 위험도 분포와 주요 신호를 한눈에 확인합니다.",
-        "url": "/대시보드",
-    },
+    # {
+    #     "icon": "🏠",
+    #     "title": "대시보드",
+    #     "desc": "전체 채널의 이탈 위험도 분포와 주요 신호를 한눈에 확인합니다.",
+    #     "url": "/대시보드",
+    # },
     {
         "icon": "🔍",
         "title": "채널 조회",
@@ -74,7 +74,7 @@ features = [
     },
 ]
 
-cols = st.columns(3, gap="medium")
+cols = st.columns(2, gap="medium")
 for col, f in zip(cols, features):
     with col:
         st.markdown(

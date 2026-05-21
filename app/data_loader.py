@@ -16,9 +16,16 @@ WIDE_PATH = PROJECT_ROOT / "data" / "raw" / "filtered_dataset_wide.csv"
 LONG_PATH = PROJECT_ROOT / "data" / "raw" / "filtered_dataset_long.csv"
 MASTER_PATH = PROJECT_ROOT / "data" / "raw" / "youtube_channels_filtered.csv"
 CHURN_PATH = PROJECT_ROOT / "data" / "raw" / "churn_probability_output.csv"
+RISK_RANKING_PATH = PROJECT_ROOT / "data" / "raw" / "risk_ranking.csv"
+ALL_CHANNELS_PATH = PROJECT_ROOT / "data" / "raw" / "channels" / "csv" / "all_channels.csv"
+SQL_EXPORT_PATH = PROJECT_ROOT / "data" / "raw" / "SQL_export_202605212120.csv"
+EDA_PROB_PATH = PROJECT_ROOT / "data" / "raw" / "EDA_based_probability.csv"
 
 CHURN_THRESHOLD_DAYS = 180
 A_THRESHOLD_DAYS = 30
+
+# YouTube 실시간 수집 백엔드: "google" | "yt-dlp"
+YOUTUBE_FETCH_BACKEND: str = "google"
 
 # Channel_Filtering.pdf — 원본 전체 채널 수 (필터링 전).
 # 8,192 → 1차 필터 → 3,766 → 제외 후보 제거 → 3,421 → wide 정제 → 3,336.
@@ -63,6 +70,208 @@ def load_churn_probs() -> pd.DataFrame:
     return pd.read_csv(CHURN_PATH, encoding="utf-8-sig")
 
 
+@st.cache_data(show_spinner=False)
+def load_risk_ranking() -> pd.DataFrame:
+    df = pd.read_csv(RISK_RANKING_PATH, encoding="utf-8-sig")
+    df["risk"] = pd.to_numeric(df["risk"], errors="coerce")
+    return df
+
+
+@st.cache_data(show_spinner=False)
+def load_all_channels() -> pd.DataFrame:
+    return pd.read_csv(ALL_CHANNELS_PATH, dtype=str).fillna("")
+
+
+@st.cache_data(show_spinner=False)
+def load_sql_export() -> pd.DataFrame:
+    return pd.read_csv(SQL_EXPORT_PATH, dtype=str).fillna("")
+
+
+@st.cache_data(show_spinner=False)
+def load_eda_probs() -> pd.DataFrame:
+    return pd.read_csv(EDA_PROB_PATH, encoding="utf-8-sig")[["channel_id", "churn_probability"]]
+
+
+def get_eda_churn_prob(channel_id: str) -> float | None:
+    """EDA_based_probability.csv에서 channel_id의 churn_probability를 반환. 없으면 None."""
+    if not channel_id:
+        return None
+    df = load_eda_probs()
+    row = df[df["channel_id"] == channel_id]
+    if row.empty:
+        return None
+    return float(row.iloc[0]["churn_probability"])
+
+
+def get_channel_thumbnail(channel_id: str) -> str:
+    """all_channels.csv에서 channel_id의 thumbnail_url 반환. 없으면 빈 문자열."""
+    if not channel_id:
+        return ""
+    df = load_all_channels()
+    if "thumbnail_url" not in df.columns:
+        return ""
+    row = df[df["channel_id"] == channel_id]
+    if row.empty:
+        return ""
+    return str(row.iloc[0]["thumbnail_url"])
+
+
+def find_channel_id_in_all_channels(query: str) -> tuple[str | None, str]:
+    """query(URL/channel_id/title/customUrl)로 all_channels에서 channel_id를 탐색.
+
+    Returns (channel_id | None, customUrl_handle | "")
+    """
+    import re
+
+    df = load_all_channels()
+    q = query.strip()
+
+    # 1. youtube.com/channel/UCxxx
+    m = re.search(r"youtube\.com/channel/(UC[\w-]+)", q)
+    if m:
+        cid = m.group(1)
+        row = df[df["channel_id"] == cid]
+        handle = row.iloc[0]["customUrl"] if not row.empty else ""
+        return cid, handle
+
+    # 2. youtube.com/@handle
+    m = re.search(r"youtube\.com/@([\w.-]+)", q)
+    if m:
+        handle_val = "@" + m.group(1).lower()
+        row = df[df["customUrl"].str.lower() == handle_val]
+        if not row.empty:
+            return row.iloc[0]["channel_id"], row.iloc[0]["customUrl"]
+
+    # 3. 직접 channel_id (UC로 시작, 24자 내외)
+    if re.match(r"^UC[\w-]{20,}$", q):
+        row = df[df["channel_id"] == q]
+        handle = row.iloc[0]["customUrl"] if not row.empty else ""
+        return q, handle
+
+    # 4. @handle 형식
+    q_lower = q.lower()
+    handle_q = q_lower if q_lower.startswith("@") else "@" + q_lower
+    row = df[df["customUrl"].str.lower() == handle_q]
+    if row.empty:
+        row = df[df["customUrl"].str.lower() == q_lower]
+    if not row.empty:
+        return row.iloc[0]["channel_id"], row.iloc[0]["customUrl"]
+
+    # 5. title 완전 매칭
+    row = df[df["title"].str.lower() == q_lower]
+    if not row.empty:
+        return row.iloc[0]["channel_id"], row.iloc[0]["customUrl"]
+
+    # 6. title 부분 매칭 (첫 번째 결과)
+    row = df[df["title"].str.lower().str.contains(q_lower, na=False, regex=False)]
+    if not row.empty:
+        return row.iloc[0]["channel_id"], row.iloc[0]["customUrl"]
+
+    return None, ""
+
+
+def get_sql_export_stats(channel_id: str, handle: str = "") -> dict | None:
+    """SQL export CSV에서 channel_id를 조회해 display-ready dict 반환. 없으면 None."""
+    df = load_sql_export()
+    rows = df[df["youtube_channel_id"] == channel_id]
+    if rows.empty:
+        return None
+    r = rows.iloc[0]
+
+    def _safe_int(val: str, fallback: int = 0) -> int:
+        try:
+            return int(float(val))
+        except (ValueError, TypeError):
+            return fallback
+
+    def _safe_float(val: str, fallback: float = 0.0) -> float:
+        try:
+            return float(val)
+        except (ValueError, TypeError):
+            return fallback
+
+    sub = _safe_int(r.get("subscriber_count", ""))
+    sub_str = f"{sub:,}명" if sub else "-"
+
+    tv = _safe_int(r.get("total_views", ""))
+    tv_str = f"{tv:,}" if tv else "-"
+
+    # 마지막 업로드 날짜
+    latest_raw = r.get("latest_video_date", "")
+    try:
+        dt = pd.to_datetime(latest_raw, errors="coerce")
+        last_date_str = dt.strftime("%Y.%m.%d") if pd.notna(dt) else "-"
+    except Exception:
+        last_date_str = "-"
+
+    days_since = _safe_int(r.get("days_since_last_upload", r.get("days_since_latest_video", "")))
+    last_days_str = f"{days_since}일 전" if days_since else "-"
+
+    collected = _safe_int(r.get("collected_video_count", ""))
+    collected_str = f"{collected:,}개" if collected else "-"
+
+    avg_view = _safe_float(r.get("avg_view_count", ""))
+    avg_view_str = f"{int(avg_view):,}" if avg_view else "-"
+
+    eng = _safe_float(r.get("avg_engagement_rate", ""))
+    eng_str = f"{eng * 100:.1f}%" if eng else "-"
+
+    sr = _safe_float(r.get("shorts_ratio", ""))
+    sr_str = f"{sr * 100:.0f}%"
+
+    interval = _safe_float(r.get("avg_upload_interval_days", ""))
+    interval_str = f"{interval:.1f}일" if interval else "-"
+
+    is_churned = r.get("is_churned", "0") in ("1", "1.0", "True", "true")
+
+    # 등급: A≤30일, B≤180일, C>180일
+    if days_since <= 30:
+        grade = "A"
+    elif days_since <= 180:
+        grade = "B"
+    else:
+        grade = "C"
+
+    # 위험도 0–100: EDA 기반 확률 우선, 없으면 업로드 공백일 기반 계산
+    eda_prob = get_eda_churn_prob(channel_id)
+    if eda_prob is not None:
+        risk_pct = round(eda_prob * 100)
+    else:
+        d = days_since
+        if d <= 30:
+            risk_pct = int(d / 30 * 20)
+        elif d <= 180:
+            risk_pct = 20 + int((d - 30) / 150 * 50)
+        else:
+            risk_pct = min(70 + int((d - 180) / 180 * 30), 100)
+
+    return {
+        "channel_id": channel_id,
+        "name": r.get("channel_name", channel_id),
+        "handle": handle or channel_id,
+        "category": "알 수 없음",
+        "category_emoji": "🎬",
+        "subscriber_count": sub_str,
+        "total_views": tv_str,
+        "last_upload_date": last_date_str,
+        "last_upload_days": last_days_str,
+        "uploads_30d": collected_str,
+        "avg_view": avg_view_str,
+        "avg_view_delta": "-",
+        "engagement_rate": eng_str,
+        "shorts_ratio": sr_str,
+        "avg_upload_interval": interval_str,
+        "is_churned": is_churned,
+        "days_since_last_upload": days_since,
+        "grade": grade,
+        "risk_pct": risk_pct,
+        "regularity_score": r.get("regularity_score", "-"),
+        "active_viewer_score": r.get("active_viewer_score", "-"),
+        "max_gap_days": r.get("max_gap_days", "-"),
+        "thumbnail_url": get_channel_thumbnail(channel_id),
+    }
+
+
 def _format_int(n: float | int) -> str:
     try:
         return f"{int(n):,}"
@@ -81,6 +290,77 @@ def _format_subs(n: float | int) -> str:
     if n >= 1_000:
         return f"{n / 1_000:.0f}K"
     return f"{n:,}"
+
+
+def _format_risk_pct(n: float | int) -> str:
+    try:
+        value = float(n)
+    except (TypeError, ValueError):
+        return "-"
+    if pd.isna(value):
+        return "-"
+    return f"{round(value * 100):.0f}%"
+
+
+def _risk_grade(value: float | int) -> str:
+    try:
+        risk = float(value)
+    except (TypeError, ValueError):
+        return "-"
+    if pd.isna(risk):
+        return "-"
+    if risk <= 0.2:
+        return "A"
+    if risk <= 0.3:
+        return "B"
+    if risk <= 0.4:
+        return "C"
+    if risk <= 0.5:
+        return "D"
+    return "F"
+
+
+def get_recommended_channels(contract_type: str = "long", limit: int | None = None) -> list[dict]:
+    """광고주 추천 채널. long=위험도 낮은 순, short=위험도 높은 순."""
+    risk = load_risk_ranking().rename(columns={"rank": "risk_grade"}).copy()
+    wide = load_wide()[["channel_id", "title", "subscriber_count"]].copy()
+    merged = risk.merge(wide, on="channel_id", how="left")
+    merged = merged.dropna(subset=["risk"])
+
+    all_ch = load_all_channels()[["channel_id", "thumbnail_url"]] if "thumbnail_url" in load_all_channels().columns else None
+    if all_ch is not None:
+        merged = merged.merge(all_ch, on="channel_id", how="left")
+
+    ascending = contract_type != "short"
+    merged = merged.sort_values(
+        ["risk", "channel_id"],
+        ascending=[ascending, True],
+        na_position="last",
+    )
+    if limit is not None:
+        merged = merged.head(limit)
+
+    channels: list[dict] = []
+    for rank, (_, row) in enumerate(merged.iterrows(), start=1):
+        title = row.get("title")
+        channel_title = row.get("channel_title")
+        name = title if pd.notna(title) else channel_title if pd.notna(channel_title) else row["channel_id"]
+        grade = row.get("risk_grade")
+        if not isinstance(grade, str) or not grade:
+            grade = _risk_grade(row.get("risk"))
+        thumb = row.get("thumbnail_url", "")
+        channels.append(
+            {
+                "rank": rank,
+                "channel_id": row["channel_id"],
+                "name": str(name),
+                "subs": _format_subs(row.get("subscriber_count")),
+                "risk": _format_risk_pct(row.get("risk")),
+                "grade": grade,
+                "thumbnail_url": str(thumb) if pd.notna(thumb) else "",
+            }
+        )
+    return channels
 
 
 def _grade_masks(df: pd.DataFrame) -> tuple[pd.Series, pd.Series, pd.Series]:
@@ -281,6 +561,9 @@ def get_channel_overview(channel_id: str) -> dict:
         "uploads_30d": f"{uploads_30d}개",
         "avg_view": _format_int(avg_view),
         "avg_view_delta": avg_view_delta,
+        "engagement_rate": f"{float(w['avg_engagement_rate']) * 100:.1f}%",
+        "shorts_ratio": f"{float(w['shorts_ratio']) * 100:.0f}%",
+        "avg_upload_interval": f"{float(w['avg_upload_interval_days']):.1f}일",
     }
 
 
@@ -291,12 +574,16 @@ def get_channel_prediction(channel_id: str) -> dict:
     long = load_long()
 
     w = wide[wide["channel_id"] == channel_id].iloc[0]
-    c_rows = churn[churn["channel_id"] == channel_id]
     grade = _grade_from_dslu(float(w["days_since_last_upload"]))
-    if len(c_rows):
-        risk_pct = round(float(c_rows.iloc[0]["churn_prob"]) * 100)
+    eda_prob = get_eda_churn_prob(channel_id)
+    if eda_prob is not None:
+        risk_pct = round(eda_prob * 100)
     else:
-        risk_pct = {"A": 12, "B": 45, "C": 78}[grade]
+        c_rows = churn[churn["channel_id"] == channel_id]
+        if len(c_rows):
+            risk_pct = round(float(c_rows.iloc[0]["churn_prob"]) * 100)
+        else:
+            risk_pct = {"A": 12, "B": 45, "C": 78}[grade]
 
     # 업로드 주기
     interval = float(w["avg_upload_interval_days"])

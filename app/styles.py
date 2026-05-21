@@ -270,6 +270,8 @@ def inject_global_css() -> None:
         .tb-grade-A {{ background: {GRADE_A}; }}
         .tb-grade-B {{ background: {GRADE_B}; }}
         .tb-grade-C {{ background: {GRADE_C}; }}
+        .tb-grade-D {{ background: #F97316; }}
+        .tb-grade-F {{ background: #B91C1C; }}
 
         .tb-chip {{
             display: inline-block;

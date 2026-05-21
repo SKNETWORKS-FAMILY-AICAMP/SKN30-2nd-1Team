@@ -17,7 +17,7 @@ from components import (
     page_header,
     render_sidebar,
 )
-from dummy_data import LONG_TERM_CHANNELS_FULL, SHORT_TERM_CHANNELS_FULL
+from data_loader import get_recommended_channels
 from styles import inject_global_css
 
 st.set_page_config(
@@ -44,11 +44,11 @@ except (TypeError, ValueError):
 if list_type == "short":
     title = "단기 계약 권장 채널"
     subtitle = "주의가 필요한 채널 — 전체 리스트"
-    channels = SHORT_TERM_CHANNELS_FULL
+    channels = get_recommended_channels("short")
 else:
     title = "장기 계약 추천 채널"
     subtitle = "안정성이 높은 채널 — 전체 리스트"
-    channels = LONG_TERM_CHANNELS_FULL
+    channels = get_recommended_channels("long")
 
 total = len(channels)
 total_pages = max(1, (total + PAGE_SIZE - 1) // PAGE_SIZE)
@@ -74,11 +74,21 @@ _TABLE_HEADER = """
 
 
 def _row(c: dict) -> str:
+    from html import escape as _esc
+    name_link = (
+        f'<a href="/채널_조회?channel_id={c["channel_id"]}" target="_self"'
+        f' style="color:inherit; text-decoration:none; cursor:pointer;">{c["name"]}</a>'
+    )
+    thumb = c.get("thumbnail_url", "")
+    if thumb:
+        avatar = f'<img src="{_esc(thumb)}" alt="" style="width:100%;height:100%;border-radius:50%;object-fit:cover;">'
+    else:
+        avatar = "👤"
     return f"""
     <div class="tb-rec-row">
         <div class="tb-rec-rank" style="width:32px;">{c['rank']}</div>
-        <div class="tb-rec-avatar">👤</div>
-        <div class="tb-rec-name">{c['name']}</div>
+        <div class="tb-rec-avatar">{avatar}</div>
+        <div class="tb-rec-name">{name_link}</div>
         <div class="tb-rec-meta" style="min-width:80px;">{c['subs']}</div>
         <div class="tb-rec-meta" style="min-width:80px;">{c['risk']}</div>
         <div style="width:44px; text-align:right;">{grade_badge_html(c['grade'])}</div>
