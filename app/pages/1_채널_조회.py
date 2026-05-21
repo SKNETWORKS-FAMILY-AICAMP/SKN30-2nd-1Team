@@ -5,6 +5,7 @@ from __future__ import annotations
 import sys
 from pathlib import Path
 
+import pandas as pd
 import plotly.graph_objects as go
 import streamlit as st
 
@@ -28,6 +29,7 @@ from data_loader import (
     get_channel_video_stats,
 )
 from styles import GRADE_A, GRADE_B, GRADE_C, PRIMARY, inject_global_css
+from churn_predictor import predict_for_query
 
 st.set_page_config(
     page_title="튜브어때 — 채널 조회",
@@ -54,7 +56,101 @@ with search_col:
         key="channel_query",
     )
 with btn_col:
-    st.button("분석하기", type="primary", use_container_width=True)
+    analyze_clicked = st.button(
+        "분석하기", type="primary", use_container_width=True, key="analyze_btn"
+    )
+
+if analyze_clicked and query.strip():
+    import time as _time
+
+    progress_slot = st.empty()
+    status_slot = st.empty()
+    bar = progress_slot.progress(0, text="시작...")
+    t0 = _time.time()
+
+    def _on_stage(label: str, frac: float) -> None:
+        elapsed = _time.time() - t0
+        bar.progress(int(frac * 100), text=f"{label}  ·  {elapsed:0.1f}s")
+        status_slot.caption(f"진행률 {frac*100:.0f}% · 경과 {elapsed:0.1f}s")
+
+    try:
+        st.session_state["last_prediction"] = predict_for_query(
+            query.strip(), on_stage=_on_stage
+        )
+        total = _time.time() - t0
+        progress_slot.empty()
+        status_slot.success(f"완료 · 총 {total:0.1f}s")
+    except Exception as e:
+        progress_slot.empty()
+        status_slot.empty()
+        st.session_state["last_prediction"] = None
+        st.error(f"예측 실패: {e}")
+
+prediction = st.session_state.get("last_prediction")
+if prediction:
+    src_chip_kind = "positive" if prediction["source"] == "DB" else "warning"
+    pred_chip_kind = "danger" if prediction["churn_pred"] else "positive"
+    prob_color = (
+        "#EF4444" if prediction["churn_prob"] >= 0.7
+        else "#F59E0B" if prediction["churn_prob"] >= 0.4
+        else "#10B981"
+    )
+
+    with card("이탈 예측 결과"):
+        st.markdown(
+            f"""
+            <div style="display:flex; align-items:center; gap:10px; margin-bottom:14px;">
+                {chip(f"데이터 출처: {prediction['source']}", src_chip_kind)}
+                {chip(prediction["risk_level"], pred_chip_kind)}
+            </div>
+            <div style="display:flex; gap:18px; flex-wrap:wrap; margin-bottom:6px;">
+                <div style="flex:2; min-width:240px; background:#F8FAFC;
+                            border:1px solid #E2E8F0; border-radius:10px; padding:14px 16px;">
+                    <div style="font-size:0.75rem; color:#64748B;">채널명</div>
+                    <div style="font-size:1.1rem; font-weight:700; color:#0F172A; margin-top:4px;">
+                        {prediction['channel_name']}
+                    </div>
+                    <div style="font-size:0.72rem; color:#94A3B8; margin-top:4px;">
+                        {prediction['channel_id'] or '-'}
+                    </div>
+                </div>
+                <div style="flex:1; min-width:160px; background:#FFFFFF;
+                            border:1px solid #F1F5F9; border-radius:10px; padding:14px 16px;">
+                    <div style="font-size:0.75rem; color:#64748B;">이탈 확률</div>
+                    <div style="font-size:1.8rem; font-weight:800; color:{prob_color}; line-height:1.1;">
+                        {prediction['churn_prob']*100:.1f}%
+                    </div>
+                </div>
+                <div style="flex:1; min-width:160px; background:#FFFFFF;
+                            border:1px solid #F1F5F9; border-radius:10px; padding:14px 16px;">
+                    <div style="font-size:0.75rem; color:#64748B;">예측 결과</div>
+                    <div style="font-size:1.1rem; font-weight:700; color:#0F172A; margin-top:6px;">
+                        {prediction['prediction_label']}
+                    </div>
+                    <div style="font-size:0.78rem; color:#64748B; margin-top:2px;">
+                        임계 0.5 기준
+                    </div>
+                </div>
+            </div>
+            """,
+            unsafe_allow_html=True,
+        )
+
+        st.markdown(
+            "<div style='font-size:0.92rem; font-weight:700; color:#0F172A; "
+            "margin:14px 0 6px;'>주요 원인 Top 3</div>",
+            unsafe_allow_html=True,
+        )
+        reasons_df = pd.DataFrame([
+            {
+                "피처": r["ko_name"],
+                "실제값": f"{r['value']:,.4f}",
+                "SHAP": f"{r['shap']:+.4f}",
+                "방향": f"→ {r['direction']}",
+            }
+            for r in prediction["top_reasons"]
+        ])
+        st.dataframe(reasons_df, hide_index=True, use_container_width=True)
 
 channel_id = DEFAULT_EXAMPLE_CHANNEL_ID
 ch = get_channel_overview(channel_id)
