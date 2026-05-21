@@ -1,0 +1,57 @@
+<section class="slide">
+  <div class="slide-divider"></div>
+  <h2 class="slide-title">분석 결과의 주요 인사이트</h2>
+  <p class="slide-subtitle">데이터에서 발견한 4가지 의미 있는 패턴</p>
+
+  <div class="slide-body">
+    <div class="grid cols-2">
+      <div class="card accent">
+        <div class="card-title">💡 인사이트 ① — 이탈의 선행 지표</div>
+        <div class="card-body small">
+          <strong>upload_freq_change_rate</strong>와 <strong>hiatus_count_30d</strong>(30일 이상 공백 횟수)가 이탈의 가장 강력한 <strong>선행 지표</strong>.<br/>
+          <span class="muted">→ 단순 "구독자 수"보다 "최근 3개월 업로드 패턴 변화"가 6개월 후 이탈을 더 잘 예측</span>
+        </div>
+      </div>
+
+      <div class="card">
+        <div class="card-title">💡 인사이트 ② — 정체 채널 분리</div>
+        <div class="card-body small">
+          조회수 <strong>log_slope &lt; -0.005</strong> 그리고 후반부 평균이 전반부 대비 <strong>-10% 이상</strong> 낮은 채널이 51.4%.<br/>
+          <span class="muted">→ "팬은 그대로지만 시청 의향이 줄어드는 채널"이 절반 이상</span>
+        </div>
+      </div>
+
+      <div class="card">
+        <div class="card-title">💡 인사이트 ③ — Shorts 전환 위험</div>
+        <div class="card-body small">
+          Shorts 비율 급증은 단순 트렌드 적응이 아닌 <strong>일반 영상 포기 신호</strong>일 수 있음.<br/>
+          <span class="muted">→ Shorts는 수익 구조가 다르므로, 비율 70%+ 채널은 별도 분석 필요</span>
+        </div>
+      </div>
+
+      <div class="card">
+        <div class="card-title">💡 인사이트 ④ — "유령 구독자" 분리</div>
+        <div class="card-body small">
+          K-Means K=4에서 <strong>유령 군집</strong>(view_per_sub 0.225)이 명확히 분리 — 전체 채널의 2.1%.<br/>
+          <span class="muted">→ 구독자는 많지만 실제로 보지 않는 "허수 채널" 식별 가능</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="kpi-row" style="margin-top:8px;">
+      <div class="kpi"><div class="label">이탈 채널</div><div class="value" style="color:var(--grade-c);">33.5%</div></div>
+      <div class="kpi"><div class="label">정체 채널</div><div class="value" style="color:var(--grade-b);">51.4%</div></div>
+      <div class="kpi"><div class="label">고변동 채널</div><div class="value" style="color:var(--grade-b);">39.8%</div></div>
+      <div class="kpi"><div class="label">고위험 평판</div><div class="value" style="color:var(--grade-c);">4.9%</div></div>
+    </div>
+
+    <div class="callout">
+      <strong>광고주가 받아야 할 메시지</strong> · "구독자 100만 = 안전"은 더 이상 유효하지 않다. <strong>업로드 패턴 변화 · 조회수 추세 · 활성 시청자 비율</strong> 3가지를 동시에 봐야 진짜 안정 채널을 가려낼 수 있다.
+    </div>
+  </div>
+
+  <div class="slide-footer">
+    <span>19. 인사이트</span>
+    <span>SKN30 · 너놀자</span>
+  </div>
+</section>

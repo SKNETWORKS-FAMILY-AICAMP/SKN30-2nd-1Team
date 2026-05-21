@@ -1,0 +1,78 @@
+<section class="slide">
+  <div class="slide-divider"></div>
+  <h2 class="slide-title">프로젝트 구조</h2>
+  <p class="slide-subtitle">계층별 디렉토리 분리 — dba · business-logic · designer 3계층</p>
+
+  <div class="slide-body">
+    <div class="two-col">
+      <div class="code">
+SKN30-2nd-1Team/
+├── <span class="k">app/</span>                      <span class="c"># 🎨 Streamlit 대시보드</span>
+│   ├── main.py              <span class="c"># 랜딩 페이지</span>
+│   ├── pages/               <span class="c"># 대시보드/조회/추천 페이지</span>
+│   ├── components.py        <span class="c"># 공용 UI 컴포넌트</span>
+│   ├── data_loader.py       <span class="c"># CSV 로더 + 집계</span>
+│   ├── styles.py            <span class="c"># 전역 CSS</span>
+│   └── assets/logo.png
+│
+├── <span class="k">data/</span>                     <span class="c"># 📂 CSV 데이터</span>
+│   ├── raw/                 <span class="c"># 원본 + 모델 출력 (15개 CSV)</span>
+│   └── processed/           <span class="c"># 전처리 결과</span>
+│
+├── <span class="k">src/</span>                      <span class="c"># 🧠 프로덕션 모듈</span>
+│   ├── data/                <span class="c"># 수집 (scraper, youtube_api)</span>
+│   ├── preprocessing/       <span class="c"># 전처리 (cleaner, encoder)</span>
+│   ├── features/            <span class="c"># 피처 (A:활동성, B:성과, ...)</span>
+│   ├── models/              <span class="c"># ML(LR/RF/XGB) + DL(KoBERT)</span>
+│   ├── evaluation/          <span class="c"># 평가 + SHAP</span>
+│   └── utils/
+│
+├── <span class="k">notebooks/</span>                <span class="c"># 📓 실험 노트북</span>
+│   ├── 01_data_collection/  <span class="c"># 수집·정제·EDA</span>
+│   ├── 02_modeling/         <span class="c"># 6개 모델 + risk_calculation</span>
+│   └── CommentParser_use/
+│
+├── <span class="k">saved_models/</span>             <span class="c"># 💾 학습 모델</span>
+│   └── churn_model.pkl      <span class="c"># (1.2 MB)</span>
+│
+├── <span class="k">docs/</span>                     <span class="c"># 📑 PRD · ERD · 문서</span>
+│   ├── 튜브어때_PRD.md
+│   ├── 02_modeling_정리.md
+│   ├── db_erd.md
+│   └── feature_description.md
+│
+├── <span class="k">reports/presentation/</span>     <span class="c"># 🎤 발표 슬라이드</span>
+└── pyproject.toml           <span class="c"># uv 의존성</span>
+      </div>
+
+      <div style="display:flex; flex-direction:column; gap:12px;">
+        <div class="card">
+          <div class="card-title">🎨 designer 계층</div>
+          <div class="card-body small">
+            <code>app/</code> — Streamlit 화면. 모델/스키마 변경 금지, 결과 <strong>표시만</strong>.
+          </div>
+        </div>
+        <div class="card">
+          <div class="card-title">🧠 business-logic 계층</div>
+          <div class="card-body small">
+            <code>src/features, models, evaluation</code> + <code>notebooks/02_modeling</code>. feature 계산 + 모델 학습 + SHAP.
+          </div>
+        </div>
+        <div class="card">
+          <div class="card-title">📂 dba 계층</div>
+          <div class="card-body small">
+            <code>data/</code> + <code>src/data, preprocessing</code>. CSV 스키마 + YouTube API 수집.
+          </div>
+        </div>
+        <div class="callout">
+          <strong>경계 원칙</strong> · 변경은 항상 <strong>dba → business-logic → designer</strong> 순서. UI에서 CSV 정렬·집계 금지.
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="slide-footer">
+    <span>10. 프로젝트 구조</span>
+    <span>SKN30 · 너놀자</span>
+  </div>
+</section>

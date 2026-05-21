@@ -1,0 +1,64 @@
+<section class="slide">
+  <div class="slide-divider"></div>
+  <h2 class="slide-title">EDA · 탐색적 데이터 분석</h2>
+  <p class="slide-subtitle">notebooks/01_data_collection/10_data_EDA.ipynb</p>
+
+  <div class="slide-body">
+    <div class="kpi-row">
+      <div class="kpi"><div class="label">전체 채널</div><div class="value">3,337</div><div class="delta">개</div></div>
+      <div class="kpi"><div class="label">이탈 비율</div><div class="value" style="color:var(--grade-c);">33.5%</div><div class="delta">180일+ 미업로드</div></div>
+      <div class="kpi"><div class="label">활성 비율</div><div class="value" style="color:var(--grade-a);">66.5%</div><div class="delta">정상 활동</div></div>
+      <div class="kpi"><div class="label">정체 채널</div><div class="value" style="color:var(--grade-b);">51.4%</div><div class="delta">조회수 감소 추세</div></div>
+    </div>
+
+    <div class="two-col">
+      <div>
+        <div style="font-weight:700; font-size:14px; color:var(--text-2); margin-bottom:6px;">핵심 발견 (Key Findings)</div>
+        <ul>
+          <li><strong>이탈 라벨 분포</strong>: 이탈 33.5% / 활성 66.5% — 클래스 불균형 → class_weight + SMOTE</li>
+          <li><strong>조회수 분포</strong>: 로그 정규 분포에 가까움, 히트작 의존형 채널 다수</li>
+          <li><strong>업로드 주기</strong>: 평균 7~14일, 분산이 매우 큼(시즌제·휴재 영향)</li>
+          <li><strong>Shorts 비율</strong>: 채널별 편차 큼(0~100%) — 일반 영상과 알고리즘이 다름</li>
+          <li><strong>활성 시청자 군집</strong>: K-Means K=4에서 슈퍼팬/일반/소극적/유령 4개 군집이 명확히 분리</li>
+        </ul>
+
+        <div class="callout warning" style="margin-top:8px;">
+          <strong>이상치 처리</strong>
+          <div class="small mono">
+            upload_freq_change_rate → clip(-5, 5)<br/>
+            avg_engagement_rate    → clip(0, 1)
+          </div>
+          <span class="small muted">분모 0 채널에서 5e+10 같은 극단값 발생 → 모델 학습 전 클리핑</span>
+        </div>
+      </div>
+
+      <div style="display:flex; flex-direction:column; gap:10px;">
+        <div class="img-placeholder">
+          <div>
+            <strong>📊 카테고리 분포</strong><br/>
+            assets/eda/category_dist.png<br/>
+            <span class="small">노트북 10_data_EDA에서 차트 추출해 넣어주세요</span>
+          </div>
+        </div>
+        <div class="img-placeholder">
+          <div>
+            <strong>📈 이탈 vs 활성 라벨 분포</strong><br/>
+            assets/eda/churn_label.png<br/>
+            <span class="small">파이/바 차트 (33.5% : 66.5%)</span>
+          </div>
+        </div>
+        <div class="img-placeholder">
+          <div>
+            <strong>🔥 피처 상관관계 히트맵</strong><br/>
+            assets/eda/corr_heatmap.png
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="slide-footer">
+    <span>15. EDA</span>
+    <span>SKN30 · 너놀자</span>
+  </div>
+</section>

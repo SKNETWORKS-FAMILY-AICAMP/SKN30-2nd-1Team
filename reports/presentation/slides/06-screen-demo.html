@@ -1,0 +1,41 @@
+<section class="slide">
+  <div class="slide-divider"></div>
+  <h2 class="slide-title">화면 시연 · 라이브 데모</h2>
+  <p class="slide-subtitle">실시간 Streamlit 앱 임베드 — <span class="mono">http://localhost:8501</span></p>
+
+  <div class="slide-body" style="min-height:0;">
+    <div class="note">
+      ⚠️ 발표 직전 터미널에서 <code>uv run streamlit run app/main.py</code> 실행 필요. 서버가 떠 있어야 라이브로 표시됩니다.
+    </div>
+
+    <div class="demo-frame" id="demo-frame">
+      <div class="demo-toolbar">
+        <span class="dot r"></span><span class="dot y"></span><span class="dot g"></span>
+        <div class="url">http://localhost:8501/?embed=true</div>
+        <a class="btn" href="http://localhost:8501/" target="_blank" rel="noopener">↗ 새 창에서 열기</a>
+      </div>
+      <iframe
+        src="http://localhost:8501/?embed=true"
+        title="튜브어때 Streamlit 데모"
+        sandbox="allow-scripts allow-same-origin allow-forms allow-popups"
+        loading="lazy"></iframe>
+
+      <div class="demo-fallback">
+        <div class="icon">🛟</div>
+        <strong>Streamlit 앱에 연결할 수 없습니다</strong>
+        <div class="small">
+          1) 터미널에서 <code>uv run streamlit run app/main.py</code> 실행<br/>
+          2) <code>http://localhost:8501</code> 접속 확인 후 새로고침<br/>
+          3) iframe 차단 시 <code>--server.enableCORS=false --server.enableXsrfProtection=false</code> 옵션 추가
+        </div>
+        <!-- 스크린샷 fallback: assets/screenshots/demo.png 에 캡처해 두면 자동 표시 -->
+        <img src="../assets/screenshots/demo.png" alt="앱 스크린샷" style="max-width:60%; max-height:50%; border-radius:8px; box-shadow:var(--shadow); display:none;" onload="this.style.display='block'" />
+      </div>
+    </div>
+  </div>
+
+  <div class="slide-footer">
+    <span>06. 화면 시연</span>
+    <span>SKN30 · 너놀자</span>
+  </div>
+</section>
