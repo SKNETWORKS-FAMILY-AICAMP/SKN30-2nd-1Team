@@ -24,6 +24,7 @@ const SLIDES = [
   { file: '15-insights.html',              title: '분석 결과 인사이트' },
   { file: '16-sitemap.html',               title: '사이트맵 / 화면 설계' },
   { file: '17-screen-demo.html',           title: '화면 시연 (라이브)' },
+  { file: '17-demo-fullscreen.html',       title: '라이브 데모 전체 화면' },
   { file: '18-utilization.html',           title: '활용 가능성' },
   { file: '19-results-retrospective.html', title: '프로젝트 결과 / 회고' },
   { file: '20-references.html',            title: '참고 자료' },

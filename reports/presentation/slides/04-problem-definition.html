@@ -1,49 +1,74 @@
 <section class="slide">
   <div class="slide-divider"></div>
   <h2 class="slide-title">문제 정의</h2>
-  <p class="slide-subtitle">현재 인기 지표만으로는 미래 안정성을 판단하기 어렵습니다.</p>
+  <p class="slide-subtitle">현재 인기 지표만으로는 채널의 미래 안정성을 판단할 수 없습니다.</p>
 
   <div class="slide-body">
-    <div class="problem-hero">
-      <div class="badge indigo">Core Issue</div>
-      <div class="problem-hero-text">인기보다 <strong>지속 가능성</strong>을 봐야 합니다.</div>
-      <div class="problem-hero-sub">광고주 관점에서 채널의 미래 안정성을 미리 읽어야 합니다.</div>
-    </div>
 
-    <div class="three-col problem-grid" style="align-items:stretch;">
-      <div class="card">
-        <div class="card-title">🧭 기존 선정 기준</div>
-        <div class="card-body">
-          <span class="chip">구독자 수</span>
-          <span class="chip">평균 조회수</span>
-          <span class="chip">최근 인기 영상</span>
-          <span class="chip">채널 인지도</span>
-        </div>
-      </div>
-
-      <div class="card accent">
-        <div class="card-title">⚠ 숨겨진 위험 신호</div>
-        <div class="card-body">
-          <span class="chip strong">업로드 감소</span>
-          <span class="chip strong">조회수 하락</span>
-          <span class="chip strong">댓글 부정 반응</span>
-          <div class="mini-note">채널 영향력 저하 · 활동 중단 신호</div>
-        </div>
-      </div>
-
-      <div class="card">
-        <div class="card-title">🛰 시장 공백</div>
-        <div class="card-body">
-          <span class="chip">장기 안정성 예측</span>
-          <span class="chip">정량 시스템 부족</span>
-          <span class="chip">계약 리스크</span>
-        </div>
+    <!-- 핵심 문구 -->
+    <div style="padding: clamp(16px,1.8vh,24px) clamp(20px,2vw,28px); background: var(--accent-soft); border-left: 4px solid var(--accent-deep); border-radius: 0 6px 6px 0;">
+      <div style="font-size: clamp(12px,0.9vw,14px); font-family:'Archivo',sans-serif; font-weight:800; letter-spacing:0.16em; text-transform:uppercase; color:var(--accent-deep); margin-bottom:6px;">Core Issue</div>
+      <div style="font-size: clamp(18px,1.7vw,24px); font-weight:900; letter-spacing:-0.03em; color:var(--text); line-height:1.3;">
+        광고주는 <strong style="color:var(--accent-deep);">지금 인기 있는 채널</strong>을 선택하지만,<br>
+        계약 기간 내 채널이 <strong style="color:var(--grade-c);">침묵할 위험</strong>을 미리 알 수 없습니다.
       </div>
     </div>
 
-    <div class="callout problem-callout">
-      <strong>핵심 문장</strong> · “현재 인기 지표만으로는 크리에이터의 미래 안정성을 판단할 수 없다.”
+    <!-- 2단 비교 -->
+    <div class="two-col" style="align-items:stretch;">
+
+      <!-- 왼쪽: 현재 선정 방식 -->
+      <div class="card" style="display:flex; flex-direction:column; gap:12px;">
+        <div class="card-title">현재 광고주 선정 기준</div>
+        <div style="display:flex; flex-direction:column; gap:8px;">
+          <div style="display:flex; align-items:center; gap:10px; padding:10px 12px; background:var(--card-soft); border-radius:6px; font-size:var(--t-small); font-weight:600;">
+            <span style="font-size:16px;">👥</span> 구독자 수
+          </div>
+          <div style="display:flex; align-items:center; gap:10px; padding:10px 12px; background:var(--card-soft); border-radius:6px; font-size:var(--t-small); font-weight:600;">
+            <span style="font-size:16px;">▶</span> 평균 조회수
+          </div>
+          <div style="display:flex; align-items:center; gap:10px; padding:10px 12px; background:var(--card-soft); border-radius:6px; font-size:var(--t-small); font-weight:600;">
+            <span style="font-size:16px;">🔥</span> 최근 인기 영상
+          </div>
+          <div style="display:flex; align-items:center; gap:10px; padding:10px 12px; background:var(--card-soft); border-radius:6px; font-size:var(--t-small); font-weight:600;">
+            <span style="font-size:16px;">📣</span> 채널 인지도
+          </div>
+        </div>
+        <div style="margin-top:auto; font-size:var(--t-tiny); color:var(--text-2); padding-top:8px; border-top:1px solid var(--border);">
+          → <strong>현재 인기</strong>만 반영, 미래 예측 불가
+        </div>
+      </div>
+
+      <!-- 오른쪽: 보이지 않는 위험 -->
+      <div class="card" style="display:flex; flex-direction:column; gap:12px; background:var(--card); border-color:var(--grade-c); border-width:1.5px;">
+        <div class="card-title" style="color:var(--grade-c);">보이지 않는 위험 신호</div>
+        <div style="display:flex; flex-direction:column; gap:8px;">
+          <div style="display:flex; align-items:flex-start; gap:10px; padding:10px 12px; background:#fff5f5; border-radius:6px; font-size:var(--t-small);">
+            <span style="color:var(--grade-c); font-weight:800; flex-shrink:0;">↓</span>
+            <div><strong>업로드 주기 증가</strong><br><span style="color:var(--text-2); font-size:var(--t-tiny);">활동 중단의 전조 패턴</span></div>
+          </div>
+          <div style="display:flex; align-items:flex-start; gap:10px; padding:10px 12px; background:#fff5f5; border-radius:6px; font-size:var(--t-small);">
+            <span style="color:var(--grade-c); font-weight:800; flex-shrink:0;">↓</span>
+            <div><strong>조회수 지속 감소</strong><br><span style="color:var(--text-2); font-size:var(--t-tiny);">채널 영향력 하락 신호</span></div>
+          </div>
+          <div style="display:flex; align-items:flex-start; gap:10px; padding:10px 12px; background:#fff5f5; border-radius:6px; font-size:var(--t-small);">
+            <span style="color:var(--grade-c); font-weight:800; flex-shrink:0;">↓</span>
+            <div><strong>댓글 반응 부정 전환</strong><br><span style="color:var(--text-2); font-size:var(--t-tiny);">커뮤니티 신뢰도 이탈</span></div>
+          </div>
+        </div>
+        <div style="margin-top:auto; font-size:var(--t-tiny); color:var(--grade-c); font-weight:700; padding-top:8px; border-top:1px solid #fecaca;">
+          → 계약 체결 후에야 발견되는 리스크
+        </div>
+      </div>
+
     </div>
+
+    <!-- 시장 공백 callout -->
+    <div class="callout" style="background:var(--card-soft); border-left-color:var(--text-3); color:var(--text-2);">
+      <strong style="color:var(--text);">시장 공백</strong> &nbsp;·&nbsp;
+      채널의 장기 지속 가능성을 <strong style="color:var(--text);">사전에 정량 분석</strong>해 광고주에게 제공하는 시스템이 존재하지 않습니다.
+    </div>
+
   </div>
 
   <div class="slide-footer">

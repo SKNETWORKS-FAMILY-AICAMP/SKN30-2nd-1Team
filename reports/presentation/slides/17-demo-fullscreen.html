@@ -1,0 +1,52 @@
+<style>
+  /* 이 슬라이드만 진짜 풀스크린: 모든 패딩/타이틀/푸터 제거 */
+  .slide.slide-bare {
+    padding: 0 !important;
+    gap: 0 !important;
+    min-height: 100vh !important;
+    background: #fff;
+  }
+  .slide.slide-bare::before { content: none !important; }
+  .slide.slide-bare::after  { content: none !important; }
+  .slide-stage:has(.slide.slide-bare) {
+    padding: 0 !important;
+    min-height: 100vh;
+  }
+  .slide.slide-bare .demo-frame-bare {
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    min-height: 100vh;
+    border: 0;
+    border-radius: 0;
+    box-shadow: none;
+    background: #fff;
+    overflow: hidden;
+  }
+  .slide.slide-bare .demo-frame-bare iframe {
+    width: 100%;
+    height: 100%;
+    border: 0;
+    display: block;
+  }
+</style>
+
+<section class="slide slide-bare">
+  <div class="demo-frame demo-frame-bare">
+    <iframe
+      src="http://localhost:8501/?embed=true"
+      title="튜브어때 Streamlit 전체 화면 데모"
+      sandbox="allow-scripts allow-same-origin allow-forms allow-popups"
+      loading="lazy"></iframe>
+
+    <div class="demo-fallback">
+      <div class="icon">🛟</div>
+      <strong>Streamlit 앱에 연결할 수 없습니다</strong>
+      <div class="small">
+        1) <code>uv run streamlit run app/main.py</code> 실행<br/>
+        2) <code>http://localhost:8501</code> 접속 확인 후 새로고침<br/>
+        3) iframe 차단 시 <code>--server.enableCORS=false --server.enableXsrfProtection=false</code> 옵션 추가
+      </div>
+    </div>
+  </div>
+</section>

@@ -709,6 +709,11 @@ body {
   min-height: 0;
 }
 
+.demo-frame-fullscreen {
+  min-height: calc(100vh - 260px);
+  box-shadow: var(--shadow-2);
+}
+
 .demo-frame iframe {
   width: 100%;
   height: 100%;
