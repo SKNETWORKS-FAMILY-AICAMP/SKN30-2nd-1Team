@@ -270,6 +270,8 @@ def inject_global_css() -> None:
         .tb-grade-A {{ background: {GRADE_A}; }}
         .tb-grade-B {{ background: {GRADE_B}; }}
         .tb-grade-C {{ background: {GRADE_C}; }}
+        .tb-grade-D {{ background: #F97316; }}
+        .tb-grade-F {{ background: #B91C1C; }}
 
         .tb-chip {{
             display: inline-block;
@@ -752,6 +754,18 @@ def inject_global_css() -> None:
             font-size: 0.78rem;
             color: {TEXT_MUTED};
             margin-top: 4px;
+        }}
+
+        /* ---- 인사이트 페이지 콜아웃 칩 ---- */
+        .tb-insight-callout {{
+            background: #EEF2FF;
+            border: 1px solid #C7D2FE;
+            border-radius: 8px;
+            padding: 8px 14px;
+            font-size: 0.82rem;
+            color: {PRIMARY_DARK};
+            margin-bottom: 10px;
+            line-height: 1.4;
         }}
 
         /* ---- 특성 카드 (추천 페이지) ---- */
