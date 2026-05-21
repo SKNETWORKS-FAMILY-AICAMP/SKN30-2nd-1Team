@@ -1,0 +1,58 @@
+<section class="slide">
+  <div class="slide-divider"></div>
+  <h2 class="slide-title">데이터 수집 개요</h2>
+  <p class="slide-subtitle">두 가지 소스에서 크리에이터 데이터를 수집했습니다</p>
+
+  <div class="slide-body">
+    <div class="grid cols-2" style="flex: 1; align-items: stretch;">
+
+      <!-- Source 1 -->
+      <div class="card" style="display: flex; flex-direction: column; gap: clamp(12px, 1.2vw, 18px);">
+        <div class="card-title">Source 1 — 크롤링</div>
+        <div style="font-size: clamp(18px, 1.8vw, 26px); font-weight: 900; letter-spacing: -0.03em; color: var(--text);">youtube-rank.com</div>
+        <div class="kpi">
+          <div class="label">수집 채널 수</div>
+          <div class="value">9,427</div>
+          <div class="delta">국내 유튜브 채널 랭킹 사이트</div>
+        </div>
+        <p style="font-size: var(--t-small); color: var(--text-2); margin: 0; line-height: 1.55;">
+          채널 메타데이터 및 카테고리 정보 수집 · 활동 기간 기준 이탈 여부 판별
+        </p>
+      </div>
+
+      <!-- Source 2 -->
+      <div class="card" style="display: flex; flex-direction: column; gap: clamp(12px, 1.2vw, 18px);">
+        <div class="card-title">Source 2 — YouTube Data API v3</div>
+        <div style="font-size: clamp(18px, 1.8vw, 26px); font-weight: 900; letter-spacing: -0.03em; color: var(--text);">YouTube API</div>
+        <div class="kpi-row" style="grid-template-columns: repeat(3, 1fr);">
+          <div class="kpi">
+            <div class="label">채널</div>
+            <div class="value">8,084</div>
+          </div>
+          <div class="kpi">
+            <div class="label">영상</div>
+            <div class="value">166K</div>
+            <div class="delta">채널당 최대 50개</div>
+          </div>
+          <div class="kpi">
+            <div class="label">댓글</div>
+            <div class="value">108K</div>
+          </div>
+        </div>
+        <p style="font-size: var(--t-small); color: var(--text-2); margin: 0; line-height: 1.55;">
+          채널 정보 + 영상 메타데이터 + 상위 댓글 수집
+        </p>
+      </div>
+
+    </div>
+
+    <div class="callout" style="margin-top: auto;">
+      수집 완료 후 <strong>활동 / 이탈</strong> 레이블 분류 → 지도학습 데이터셋 구성
+    </div>
+  </div>
+
+  <div class="slide-footer">
+    <span>06. 데이터 수집</span>
+    <span>SKN30 · 너놀자</span>
+  </div>
+</section>

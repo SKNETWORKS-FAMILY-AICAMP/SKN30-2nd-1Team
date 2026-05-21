@@ -1,0 +1,41 @@
+<section class="slide">
+  <div class="slide-divider"></div>
+  <h2 class="slide-title">세 가지 모델로 이탈을 예측한다</h2>
+  <p class="slide-subtitle">동일 데이터에서 성능을 비교해 최적 모델을 선정</p>
+
+  <div class="slide-body">
+    <div class="grid cols-3" style="flex: 1; align-items: stretch;">
+
+      <div class="card" style="display: flex; flex-direction: column; gap: clamp(10px, 1vw, 14px);">
+        <div class="badge slate">Model 01</div>
+        <div style="font-size: clamp(20px, 2vw, 28px); font-weight: 900; letter-spacing: -0.03em; color: var(--text);">Random Forest</div>
+        <p class="card-body" style="flex: 1;">앙상블 기반의 <strong>안정적 기준선</strong>. 다수의 결정 트리로 분산을 줄이고 과적합에 강합니다.</p>
+        <div style="font-family: 'Archivo', sans-serif; font-size: var(--t-tiny); font-weight: 700; color: var(--text-3); text-transform: uppercase; letter-spacing: 0.1em; border-top: 1px solid var(--border); padding-top: 10px;">앙상블 · 배깅</div>
+      </div>
+
+      <div class="card" style="display: flex; flex-direction: column; gap: clamp(10px, 1vw, 14px);">
+        <div class="badge slate">Model 02</div>
+        <div style="font-size: clamp(20px, 2vw, 28px); font-weight: 900; letter-spacing: -0.03em; color: var(--text);">XGBoost</div>
+        <p class="card-body" style="flex: 1;">오류 보정을 <strong>누적하는 부스팅</strong>. 잔차를 반복 학습해 높은 예측 정확도를 달성합니다.</p>
+        <div style="font-family: 'Archivo', sans-serif; font-size: var(--t-tiny); font-weight: 700; color: var(--text-3); text-transform: uppercase; letter-spacing: 0.1em; border-top: 1px solid var(--border); padding-top: 10px;">그래디언트 부스팅</div>
+      </div>
+
+      <div class="card accent" style="display: flex; flex-direction: column; gap: clamp(10px, 1vw, 14px);">
+        <div class="badge indigo">Model 03 · 채택</div>
+        <div style="font-size: clamp(20px, 2vw, 28px); font-weight: 900; letter-spacing: -0.03em; color: var(--accent-deep);">LightGBM</div>
+        <p class="card-body" style="flex: 1;"><strong>빠른 학습</strong>과 높은 성능. 리프 기반 분할로 효율적이며 서비스 투입 후보 모델입니다.</p>
+        <div style="font-family: 'Archivo', sans-serif; font-size: var(--t-tiny); font-weight: 700; color: var(--accent); text-transform: uppercase; letter-spacing: 0.1em; border-top: 1px solid var(--accent-line); padding-top: 10px;">리프 기반 · 경량</div>
+      </div>
+
+    </div>
+
+    <div class="note" style="margin-top: auto;">
+      상세 수식보다 <strong>같은 데이터에서의 비교 결과</strong>에 집중 — Accuracy · F1 · AUC 기준으로 평가합니다
+    </div>
+  </div>
+
+  <div class="slide-footer">
+    <span>08. ML 모델</span>
+    <span>SKN30 · 너놀자</span>
+  </div>
+</section>

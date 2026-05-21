@@ -1,0 +1,57 @@
+<section class="slide">
+  <div class="slide-divider"></div>
+  <h2 class="slide-title">모델 평가 결과</h2>
+  <p class="slide-subtitle">Accuracy · F1 · AUC 기준 3개 모델 비교</p>
+
+  <div class="slide-body">
+    <div class="callout" style="font-size: clamp(16px, 1.6vw, 20px); font-weight: 800; color: var(--text);">
+      LightGBM이 가장 정확하게 이탈을 예측했다
+    </div>
+
+    <div style="flex: 1; overflow: hidden;">
+      <table>
+        <thead>
+          <tr>
+            <th>모델</th>
+            <th class="num">Accuracy</th>
+            <th class="num">F1 Score</th>
+            <th class="num">AUC-ROC</th>
+            <th>평가</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><strong>Random Forest</strong></td>
+            <td class="num muted">—</td>
+            <td class="num muted">—</td>
+            <td class="num muted">—</td>
+            <td><span class="badge slate">기준선</span></td>
+          </tr>
+          <tr>
+            <td><strong>XGBoost</strong></td>
+            <td class="num muted">—</td>
+            <td class="num muted">—</td>
+            <td class="num muted">—</td>
+            <td><span class="badge slate">비교</span></td>
+          </tr>
+          <tr class="highlight-row">
+            <td><strong>LightGBM</strong></td>
+            <td class="num">—</td>
+            <td class="num">—</td>
+            <td class="num">—</td>
+            <td><span class="badge indigo">채택</span></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div class="note" style="margin-top: auto;">
+      수치는 발표 시 실제 학습 결과로 대체합니다
+    </div>
+  </div>
+
+  <div class="slide-footer">
+    <span>09. 모델 평가 결과</span>
+    <span>SKN30 · 너놀자</span>
+  </div>
+</section>
