@@ -6,12 +6,21 @@
 
 from __future__ import annotations
 
+import os
+import re
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
+from typing import Callable
+from urllib.parse import parse_qs, unquote, urlparse
 
 import pandas as pd
+import pymysql
 import streamlit as st
+from dotenv import load_dotenv
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
+load_dotenv(PROJECT_ROOT / ".env")
+
 WIDE_PATH = PROJECT_ROOT / "data" / "raw" / "filtered_dataset_wide.csv"
 LONG_PATH = PROJECT_ROOT / "data" / "raw" / "filtered_dataset_long.csv"
 MASTER_PATH = PROJECT_ROOT / "data" / "raw" / "youtube_channels_filtered.csv"
@@ -40,6 +49,26 @@ CATEGORY_EMOJI = {
     "TV/방송": "📺", "취미/라이프": "🎨",
 }
 
+CHANNEL_ID_RE = re.compile(r"^UC[\w-]{22}$")
+VIDEO_KEEP_FIELDS = (
+    "id",
+    "title",
+    "webpage_url",
+    "duration",
+    "upload_date",
+    "timestamp",
+    "view_count",
+    "like_count",
+    "comment_count",
+    "channel",
+    "channel_id",
+    "uploader",
+    "tags",
+    "categories",
+    "description",
+    "thumbnail",
+)
+
 
 @st.cache_data(show_spinner=False)
 def load_wide() -> pd.DataFrame:
@@ -61,6 +90,247 @@ def load_master() -> pd.DataFrame:
 @st.cache_data(show_spinner=False)
 def load_churn_probs() -> pd.DataFrame:
     return pd.read_csv(CHURN_PATH, encoding="utf-8-sig")
+
+
+def _secret_or_env(name: str, default: str | None = None) -> str | None:
+    try:
+        return st.secrets.get(name, os.getenv(name, default))
+    except Exception:
+        return os.getenv(name, default)
+
+
+def _db_config() -> dict:
+    return {
+        "host": _secret_or_env("DB_HOST", "127.0.0.1"),
+        "port": int(_secret_or_env("DB_PORT", "3306") or "3306"),
+        "user": _secret_or_env("DB_USER"),
+        "password": _secret_or_env("DB_PASSWORD"),
+        "database": _secret_or_env("DB_NAME", "youtube_model_db"),
+        "charset": _secret_or_env("DB_CHARSET", "utf8mb4"),
+        "cursorclass": pymysql.cursors.DictCursor,
+        "connect_timeout": 3,
+        "read_timeout": 5,
+        "autocommit": True,
+    }
+
+
+def _lookup_candidates(raw_query: str) -> list[str]:
+    query = raw_query.strip()
+    if not query:
+        return []
+
+    candidates = [query]
+    parsed = urlparse(query if re.match(r"^https?://", query) else f"https://{query}")
+    path_parts = [unquote(part) for part in parsed.path.split("/") if part]
+    qs = parse_qs(parsed.query)
+
+    if "v" in qs:
+        candidates.extend(qs["v"])
+
+    for idx, part in enumerate(path_parts):
+        if part == "channel" and idx + 1 < len(path_parts):
+            candidates.append(path_parts[idx + 1])
+        elif part in {"watch", "shorts", "live"} and idx + 1 < len(path_parts):
+            candidates.append(path_parts[idx + 1])
+        elif part.startswith("@"):
+            candidates.append(part[1:])
+
+    uc_match = re.search(r"(UC[\w-]{20,})", query)
+    if uc_match:
+        candidates.append(uc_match.group(1))
+
+    cleaned: list[str] = []
+    for item in candidates:
+        item = item.strip().strip("/")
+        if item and item not in cleaned:
+            cleaned.append(item)
+    return cleaned
+
+
+def _normalize_to_youtube_url(channel_url_or_id: str) -> str:
+    s = channel_url_or_id.strip()
+    if s.startswith(("http://", "https://")):
+        return s
+    if s.startswith("@"):
+        return f"https://www.youtube.com/{s}"
+    if CHANNEL_ID_RE.match(s):
+        return f"https://www.youtube.com/channel/{s}"
+    return f"https://www.youtube.com/{s}"
+
+
+def _to_videos_tab(url: str) -> str:
+    tab_suffixes = ("/videos", "/shorts", "/streams", "/playlists", "/community", "/about")
+    if any(suffix in url for suffix in tab_suffixes):
+        return url
+    if "watch?v=" in url or "/playlist?" in url:
+        return url
+    return url.rstrip("/") + "/videos"
+
+
+def _fetch_video_detail(video_url: str) -> dict:
+    from yt_dlp import YoutubeDL
+
+    opts = {
+        "quiet": True,
+        "no_warnings": True,
+        "skip_download": True,
+        "socket_timeout": 10,
+        "extractor_retries": 1,
+        "fragment_retries": 1,
+    }
+    try:
+        with YoutubeDL(opts) as ydl:
+            info = ydl.extract_info(video_url, download=False) or {}
+    except Exception as exc:
+        return {"webpage_url": video_url, "error": str(exc)}
+    return {key: info.get(key) for key in VIDEO_KEEP_FIELDS}
+
+
+def fetch_channel_dump(
+    channel_url_or_id: str,
+    video_limit: int = 50,
+    max_workers: int = 8,
+    on_progress: Callable[[int, int], None] | None = None,
+) -> dict:
+    """yt-dlp로 채널과 최근 영상 메타데이터를 수집한다. 댓글은 수집하지 않는다."""
+    from yt_dlp import YoutubeDL
+
+    url = _to_videos_tab(_normalize_to_youtube_url(channel_url_or_id))
+    flat_opts = {
+        "quiet": True,
+        "no_warnings": True,
+        "skip_download": True,
+        "extract_flat": "in_playlist",
+        "playlistend": video_limit,
+        "socket_timeout": 10,
+        "extractor_retries": 1,
+    }
+    with YoutubeDL(flat_opts) as ydl:
+        data = ydl.extract_info(url, download=False) or {}
+
+    entries = data.get("entries") or []
+    video_urls = [
+        entry.get("url") or f"https://www.youtube.com/watch?v={entry.get('id')}"
+        for entry in entries
+        if entry and (entry.get("id") or entry.get("url"))
+    ]
+
+    if not video_urls:
+        return data
+
+    total = len(video_urls)
+    if on_progress is None:
+        with ThreadPoolExecutor(max_workers=max_workers) as executor:
+            details = list(executor.map(_fetch_video_detail, video_urls))
+    else:
+        details = [None] * total
+        with ThreadPoolExecutor(max_workers=max_workers) as executor:
+            futures = {executor.submit(_fetch_video_detail, url): i for i, url in enumerate(video_urls)}
+            done = 0
+            on_progress(0, total)
+            for future in as_completed(futures):
+                details[futures[future]] = future.result()
+                done += 1
+                on_progress(done, total)
+
+    data["entries"] = details
+    return data
+
+
+@st.cache_data(show_spinner=False, ttl=3600)
+def fetch_channel_dump_for_ui(channel_url_or_id: str) -> tuple[dict | None, str | None]:
+    try:
+        dump = fetch_channel_dump(channel_url_or_id, video_limit=50, max_workers=8)
+    except Exception as exc:
+        return None, str(exc)
+    if not dump or not dump.get("entries"):
+        return None, "채널 또는 공개 영상을 가져오지 못했습니다."
+    return dump, None
+
+
+@st.cache_data(show_spinner=False, ttl=300)
+def find_channel_by_sql_query(raw_query: str) -> tuple[dict | None, str | None]:
+    """Channel ID, channel URL, or video URL을 MySQL 채널 레코드로 매핑한다."""
+    candidates = _lookup_candidates(raw_query)
+    if not candidates:
+        return None, None
+
+    sql = """
+        SELECT
+            ci.channel_identifier,
+            ci.youtube_channel_id,
+            ci.channel_name,
+            ci.subscriber_count,
+            ci.total_views,
+            ci.video_count,
+            ci.created_date,
+            ci.latest_video_date,
+            ci.days_since_latest_video,
+            ci.is_churned,
+            ca.collected_video_count,
+            ca.days_since_last_upload,
+            ca.avg_upload_interval_days,
+            ca.std_upload_interval_days,
+            ca.max_gap_days AS analytics_max_gap_days,
+            ca.hiatus_count_30d,
+            ca.upload_freq_change_rate,
+            ca.avg_view_count,
+            ca.std_view_count,
+            ca.avg_like_count,
+            ca.avg_comment_count,
+            ca.avg_engagement_rate,
+            ca.shorts_ratio,
+            cp.churn_prob,
+            cp.stagnation_prob,
+            cp.volatility_prob,
+            cs.active_viewer_score,
+            cs.regularity_score,
+            cs.sensitive_score,
+            cs.fan_type_code,
+            ft.fan_type_label,
+            cats.category_names
+        FROM channel_info_table ci
+        LEFT JOIN channel_analytics_table ca
+            ON ca.channel_identifier = ci.channel_identifier
+        LEFT JOIN channel_prediction_table cp
+            ON cp.channel_identifier = ci.channel_identifier
+        LEFT JOIN channel_score_table cs
+            ON cs.channel_identifier = ci.channel_identifier
+        LEFT JOIN fan_type_table ft
+            ON ft.fan_type_code = cs.fan_type_code
+        LEFT JOIN (
+            SELECT
+                cct.channel_identifier,
+                GROUP_CONCAT(ct.category_name ORDER BY ct.category_name SEPARATOR ', ') AS category_names
+            FROM channel_category_table cct
+            JOIN category_table ct
+                ON ct.category_id = cct.category_id
+            GROUP BY cct.channel_identifier
+        ) cats
+            ON cats.channel_identifier = ci.channel_identifier
+        LEFT JOIN video_table vt
+            ON vt.channel_identifier = ci.channel_identifier
+        WHERE
+            ci.youtube_channel_id IN %(candidates)s
+            OR ci.channel_identifier IN %(candidates)s
+            OR vt.video_id IN %(candidates)s
+            OR ci.channel_name IN %(candidates)s
+        LIMIT 1
+    """
+
+    try:
+        with pymysql.connect(**_db_config()) as conn:
+            with conn.cursor() as cur:
+                cur.execute(sql, {"candidates": tuple(candidates)})
+                row = cur.fetchone()
+        return row, None
+    except Exception as exc:
+        return None, str(exc)
+
+
+def channel_exists_in_snapshot(channel_id: str) -> bool:
+    wide = load_wide()
+    return bool((wide["channel_id"] == channel_id).any())
 
 
 def _format_int(n: float | int) -> str:
