@@ -1,0 +1,27 @@
+﻿피처명,한글설명,피처그룹,소스파일,데이터타입,행수,결측치수,결측치비율,결측치처리방법,대체값,최솟값,최댓값,평균,표준편차,중앙값,모델사용여부,비고
+subscriber_count,구독자 수,채널규모,filtered_dataset_wide.csv,int64,3333,0,0.00%,median,283000.0,98900.0,1490000.0,356588.2688,229991.754,283000.0,True,
+view_count,채널 누적 조회수,채널규모,filtered_dataset_wide.csv,int64,3333,0,0.00%,median,116641786.0,0.0,5648210224.0,206859998.4494,275563081.2219,116641786.0,True,
+total_video_count,채널 전체 영상 수,채널규모,filtered_dataset_wide.csv,int64,3333,0,0.00%,median,606.0,16.0,25899.0,1223.1767,1938.8125,606.0,True,
+avg_upload_interval_days,평균 업로드 간격(일),업로드패턴,filtered_dataset_wide.csv,float64,3333,1,0.03%,median,3.59,0.0,108.0,8.278,11.5424,3.59,True,
+std_upload_interval_days,업로드 간격 표준편차,업로드패턴,filtered_dataset_wide.csv,float64,3333,1,0.03%,median,3.705,0.0,461.2,18.385,36.736,3.705,True,들쭉날쭉함 측정
+max_gap_days,최대 업로드 공백 기간(일),업로드패턴,filtered_dataset_wide.csv,float64,3333,0,0.00%,median,18.0,0.0,3231.0,108.8881,237.3893,18.0,True,
+hiatus_count_30d,30일 이상 쉰 횟수,업로드패턴,filtered_dataset_wide.csv,float64,3333,0,0.00%,median,0.0,0.0,27.0,2.1683,3.9583,0.0,True,휴지기 빈도
+avg_view_count,영상당 평균 조회수,성과·참여도,filtered_dataset_wide.csv,float64,3333,0,0.00%,median,74718.28,42.86,30169503.76,191516.642,638671.3199,74718.28,True,
+std_view_count,영상당 조회수 변동성,성과·참여도,filtered_dataset_wide.csv,float64,3333,0,0.00%,median,92205.96,28.6,104218873.2,356874.15,2054044.1561,92205.96,True,
+avg_like_count,영상당 평균 좋아요 수,성과·참여도,filtered_dataset_wide.csv,float64,3333,66,1.98%,median,1053.3,0.4,214270.44,2806.2246,6488.0239,1053.3,True,
+avg_comment_count,영상당 평균 댓글 수,성과·참여도,filtered_dataset_wide.csv,float64,3333,22,0.66%,median,74.98,0.0,63532.5,195.2108,1159.4998,74.98,True,
+avg_engagement_rate,평균 참여율((좋아요+댓글)/조회수),성과·참여도,filtered_dataset_wide.csv,float64,3333,85,2.55%,median,0.0185,0.0006,20000000000.0,16793720.8057,434370935.5808,0.0185,True,분모 0 케이스 극단값 가능
+shorts_ratio,전체 영상 중 쇼츠 비중,쇼츠전략,filtered_dataset_wide.csv,float64,3333,0,0.00%,median,0.28,0.0,1.0,0.3399,0.3019,0.28,True,
+avg_shorts_view,쇼츠 영상 평균 조회수,쇼츠전략,filtered_dataset_wide.csv,float64,3333,547,16.41%,median,51408.95,188.27,6041487.0,165510.7311,409203.4972,51408.95,True,
+avg_normal_view,일반 영상 평균 조회수,쇼츠전략,filtered_dataset_wide.csv,float64,3333,58,1.74%,median,66622.36,0.0,30752025.9,175688.2485,666152.072,66622.36,True,
+upload_slope,월별 업로드 수 선형회귀 기울기,시계열파생,filtered_dataset_long.csv(파생),float64,3333,412,12.36%,median,-0.093,-22.0,13.5,-0.3522,2.2669,-0.093,True,음수=활동 감소
+recent_view_ratio,최근 10개 평균 조회수 / 전체 평균,시계열파생,filtered_dataset_long.csv(파생),float64,3333,0,0.00%,median,0.6753,0.0004,4.4038,0.7739,0.5407,0.6753,True,1 미만이면 최근 성과 하락
+days_between_last2,마지막 두 영상 간격(일),시계열파생,filtered_dataset_long.csv(파생),float64,3333,0,0.00%,median,2.0,0.0,2215.0,28.0705,111.7437,2.0,True,
+is_churned,이탈 라벨(180일 이상 미업로드),라벨,filtered_dataset_wide.csv(파생),int64,3333,0,0.00%,없음,,0.0,1.0,0.2079,0.4059,0.0,False,타깃 변수
+days_since_last_upload,마지막 업로드 이후 경과일,제외피처,filtered_dataset_wide.csv,float64,3333,0,0.00%,라벨생성용(미처리),,1.0,3549.0,205.6223,487.4694,6.0,False,데이터 리크: 라벨 생성에만 사용
+recent_3m_upload_count,최근 90일 업로드 수,제외피처,filtered_dataset_long.csv(파생),float64,3333,0,0.00%,미적용(학습 미사용),,0.0,50.0,21.4443,20.1897,15.0,False,노트북에서 주석처리(미사용)
+volatility_prob,조회수 변동성 확률,제외피처,view_volatility_output.csv,float64,3333,0,0.00%,미적용(학습 미사용),,0.0,0.997,0.4077,0.4488,0.106,False,머지만 하고 학습 미사용
+regularity_score,업로드 규칙성 점수,제외피처,upload_regularity_score.csv,float64,3333,0,0.00%,미적용(학습 미사용),,0.3577,1.0,0.6236,0.1593,0.6385,False,머지만 하고 학습 미사용
+active_viewer_score,활성 시청자 점수,제외피처,active_viewer_score.csv,float64,3333,85,2.55%,미적용(학습 미사용),,0.1653,0.9518,0.5893,0.1617,0.6065,False,머지만 하고 학습 미사용
+view_per_sub,구독자 대비 조회수 비율,제외피처,active_viewer_score.csv,float64,3333,0,0.00%,미적용(학습 미사용),,0.0001,220.2154,0.6744,4.0618,0.2463,False,머지만 하고 학습 미사용
+sensitive_score,민감 키워드 점수,제외피처,sensitive_keyword_score.csv,float64,3333,0,0.00%,미적용(학습 미사용),,0.0,0.7733,0.0251,0.05,0.0133,False,머지만 하고 학습 미사용
