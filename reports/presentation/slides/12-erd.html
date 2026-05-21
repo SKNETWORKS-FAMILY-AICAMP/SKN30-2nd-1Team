@@ -1,87 +1,53 @@
 <section class="slide">
   <div class="slide-divider"></div>
   <h2 class="slide-title">ERD 구조도</h2>
-  <p class="slide-subtitle">채널 · 영상 · 댓글 · 예측 결과 관계 (MVP는 CSV 기반)</p>
+  <p class="slide-subtitle">`youtube_model_db` 핵심 테이블 관계 요약</p>
 
   <div class="slide-body">
-    <div class="two-col">
-      <div>
-        <div style="display:flex; flex-direction:column; gap:10px;">
-          <div class="card">
-            <div class="card-title" style="display:flex; justify-content:space-between;">
-              <span>📺 channels</span>
-              <span class="badge slate">3,337 행</span>
-            </div>
-            <div class="card-body small mono">
-              <strong>channel_id (PK)</strong> · channel_name<br/>
-              subscriber_count · total_view_count<br/>
-              created_at · category · last_collected_at
-            </div>
-          </div>
-
-          <div style="text-align:center; color:var(--accent); font-weight:700;">↓ 1 : N</div>
-
-          <div class="card">
-            <div class="card-title" style="display:flex; justify-content:space-between;">
-              <span>🎬 videos</span>
-              <span class="badge slate">166,450 행</span>
-            </div>
-            <div class="card-body small mono">
-              <strong>video_id (PK)</strong> · <em>channel_id (FK)</em><br/>
-              title · published_at · duration<br/>
-              view_count · like_count · comment_count · is_shorts
-            </div>
-          </div>
-
-          <div style="text-align:center; color:var(--accent); font-weight:700;">↓ 1 : N</div>
-
-          <div class="card">
-            <div class="card-title" style="display:flex; justify-content:space-between;">
-              <span>💬 comments</span>
-              <span class="badge slate">수집 중</span>
-            </div>
-            <div class="card-body small mono">
-              <strong>comment_id (PK)</strong> · <em>video_id (FK)</em> · <em>channel_id (FK)</em><br/>
-              text · sentiment_score · sentiment_label · published_at
-            </div>
-          </div>
-        </div>
+    <div class="two-col" style="grid-template-columns: 1.45fr 0.95fr; align-items:start;">
+      <div class="card" style="padding:14px;">
+        <img
+          src="../assets/SKN_2nd_ERD.png"
+          alt="youtube_model_db 핵심 ERD 구조도"
+          style="display:block; width:100%; height:auto; border-radius:6px;"
+        />
       </div>
 
-      <div style="display:flex; flex-direction:column; gap:10px;">
+      <div style="display:flex; flex-direction:column; gap:12px;">
         <div class="card accent">
-          <div class="card-title" style="display:flex; justify-content:space-between;">
-            <span>🎯 predictions (출력)</span>
-            <span class="badge indigo">risk_ranking.csv</span>
-          </div>
-          <div class="card-body small mono">
-            <em>channel_id (FK)</em> · predicted_at<br/>
-            <strong>risk_score</strong> (0~1) · <strong>risk_grade</strong> (A/B/C/D/F)<br/>
-            top_risk_factors (JSON) · model_version
+          <div class="card-title">핵심 허브</div>
+          <div class="card-body">
+            <strong>channel_info_table</strong> 이 중심입니다.<br/>
+            모든 채널 관련 테이블이 <code>channel_identifier</code>를 기준으로 연결됩니다.
           </div>
         </div>
 
         <div class="card">
-          <div class="card-title">중간 산출 점수 CSV (6개)</div>
-          <div class="card-body small mono">
-            churn_probability_output.csv<br/>
-            stagnation_probability_output.csv<br/>
-            view_volatility_output.csv<br/>
-            upload_regularity_score.csv<br/>
-            sensitive_keyword_score.csv<br/>
-            active_viewer_score.csv
+          <div class="card-title">주요 관계</div>
+          <div class="card-body">
+            <strong>1:1</strong> · analytics / score / prediction<br/>
+            <strong>1:N</strong> · video / comments<br/>
+            <strong>M:N</strong> · category는 <code>channel_category_table</code>로 연결
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-title">설계 포인트</div>
+          <div class="card-body">
+            <strong>youtube_channel_id</strong> 는 외부 CSV의 <code>channel_id</code> 와 동일합니다.<br/>
+            <strong>video_table</strong> 과 <strong>comments_table</strong> 은 <code>video_id</code> 불일치 가능성 때문에 직접 FK 연결하지 않았습니다.
           </div>
         </div>
 
         <div class="callout">
-          <strong>MVP는 CSV</strong> · 트랜잭션 불필요 + 메모리 로드 가능. 향후 MySQL 마이그레이션 시 위 ERD 그대로 사용.
+          <strong>MVP 운영 방식</strong> · 현재 서비스는 CSV 기반으로 동작하지만, DB 스키마는 MySQL 이관을 고려해 미리 정규화해 두었습니다.
         </div>
       </div>
     </div>
   </div>
 
   <div class="slide-footer">
-    <span>11. ERD 구조도</span>
+    <span>12. ERD 구조도</span>
     <span>SKN30 · 너놀자</span>
   </div>
 </section>

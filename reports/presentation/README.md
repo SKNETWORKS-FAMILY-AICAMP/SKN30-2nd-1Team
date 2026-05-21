@@ -15,7 +15,7 @@ python -m http.server 8000 --directory reports/presentation
 
 > `file://`로 직접 열면 `fetch()`가 차단되어 슬라이드가 로드되지 않습니다. 반드시 로컬 서버로 띄우세요.
 
-### 2) Streamlit 앱 데모 (슬라이드 17번에서 사용)
+### 2) Streamlit 앱 데모 (슬라이드 21번에서 사용)
 별도 터미널에서:
 
 ```bash
@@ -71,9 +71,9 @@ reports/presentation/
 | 슬라이드 | 항목 | 위치 |
 |---|---|---|
 | 02 팀 소개 | 한 줄 소개 5명 | `slides/02-team.html` 의 `<div class="intro">` |
-| 10 EDA | 차트 이미지 3개 | `assets/eda/category_dist.png`, `churn_label.png`, `corr_heatmap.png` |
-| 17 화면 시연 | fallback 스크린샷 | `assets/screenshots/demo.png` |
-| 19 회고 | 한 줄 회고 5명 | `slides/19-results-retrospective.html` 의 `<!-- 한 줄 회고 입력 -->` |
+| 14 EDA | 차트 이미지 3개 | `assets/eda/category_dist.png`, `churn_label.png`, `corr_heatmap.png` |
+| 21 화면 시연 | fallback 스크린샷 | `assets/screenshots/demo.png` |
+| 23 회고 | 한 줄 회고 5명 | `slides/19-results-retrospective.html` 의 `<!-- 한 줄 회고 입력 -->` |
 
 ## PDF로 내보내기
 

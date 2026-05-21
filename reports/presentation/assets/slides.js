@@ -7,7 +7,10 @@ const SLIDES = [
   { file: '01-title.html',                 title: '타이틀' },
   { file: '02-team.html',                  title: '팀 소개' },
   { file: '03-project-overview.html',      title: '프로젝트 개요' },
-  { file: '04-problem-goal.html',          title: '문제 · 목표 · 기대효과' },
+  { file: '04-problem-definition.html',    title: '문제 정의' },
+  { file: '04-selection-background.html',  title: '선정 배경' },
+  { file: '04-project-goal.html',         title: '프로젝트 목표' },
+  { file: '04-expected-effect.html',      title: '기대 효과' },
   { file: '05-roles.html',                 title: '역할 분담 / WBS' },
   { file: '06-core-features.html',         title: '핵심 기능' },
   { file: '07-data-flow.html',             title: '데이터 흐름' },
@@ -28,7 +31,6 @@ const SLIDES = [
 
 const state = {
   index: 0,
-  cache: new Map(),
   slideNodes: [],
   observer: null,
 };
@@ -48,25 +50,21 @@ async function renderAllSlides() {
   for (let i = 0; i < SLIDES.length; i++) {
     const slide = SLIDES[i];
     let html;
-    if (state.cache.has(slide.file)) {
-      html = state.cache.get(slide.file);
-    } else {
-      try {
-        const res = await fetch(`slides/${slide.file}`);
-        if (!res.ok) throw new Error(`${res.status}`);
-        html = await res.text();
-        state.cache.set(slide.file, html);
-      } catch (e) {
-        html = `<div class="slide"><h2 class="slide-title">슬라이드 로딩 실패</h2>
-                <p class="muted">${slide.file} — ${e.message}</p>
-                <p class="small">⚠️ <code>file://</code> 로 열었다면 <code>python -m http.server</code> 등으로 로컬 서버를 띄워주세요.</p>
-                </div>`;
-      }
+    try {
+      const res = await fetch(`slides/${slide.file}?v=${Date.now()}`, { cache: 'no-store' });
+      if (!res.ok) throw new Error(`${res.status}`);
+      html = await res.text();
+    } catch (e) {
+      html = `<div class="slide"><h2 class="slide-title">슬라이드 로딩 실패</h2>
+              <p class="muted">${slide.file} — ${e.message}</p>
+              <p class="small">⚠️ <code>file://</code> 로 열었다면 <code>python -m http.server</code> 등으로 로컬 서버를 띄워주세요.</p>
+              </div>`;
     }
 
     const wrap = document.createElement('div');
     wrap.className = 'slide-stage';
     wrap.innerHTML = html;
+    executeEmbeddedScripts(wrap);
     const footerLabel = wrap.querySelector('.slide-footer > span:first-child');
     if (footerLabel && i > 0) {
       footerLabel.textContent = formatSlideLabel(i);
@@ -91,6 +89,18 @@ function updateNav() {
 function updateUrlHash() {
   const hash = `#${state.index + 1}`;
   if (location.hash !== hash) history.replaceState(null, '', hash);
+}
+
+function executeEmbeddedScripts(container) {
+  const scripts = Array.from(container.querySelectorAll('script'));
+  for (const oldScript of scripts) {
+    const newScript = document.createElement('script');
+    for (const attr of oldScript.attributes) {
+      newScript.setAttribute(attr.name, attr.value);
+    }
+    newScript.text = oldScript.textContent;
+    oldScript.replaceWith(newScript);
+  }
 }
 
 function scrollToSlide(i) {
