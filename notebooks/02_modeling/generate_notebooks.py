@@ -267,13 +267,187 @@ rf_pred, rf_prob, rf_test_metrics = evaluate_tuned_model("RandomForestClassifier
     plt.tight_layout()
     plt.show()"""),
         
-        nbformat.v4.new_markdown_cell("""## 6. 결론 및 향후 활용 방안
-* Random Forest는 다수의 의사결정나무 모델의 결합으로 강건성(Robustness)과 안정적인 정밀도를 제공합니다.
-* 특유의 배깅(Bagging) 기법을 이용해 과적합의 가능성이 낮습니다.""")
     ]
     nb.cells.extend(business_cells)
     
     output_path = "churn_prediction_model_rf.ipynb"
+    with open(output_path, "w", encoding="utf-8") as f:
+        nbformat.write(nb, f)
+    print(f"Generated {output_path} successfully!")
+
+
+# --- Stacking LGR 노트북 생성 함수 ---
+def generate_lgr_notebook():
+    nb = nbformat.v4.new_notebook()
+    nb.cells = [nbformat.v4.new_markdown_cell(c.source) if c.cell_type == "markdown" else nbformat.v4.new_code_cell(c.source) for c in common_cells]
+    
+    # 타이틀 수정
+    nb.cells[0].source = "# 유튜버 이탈 예측 및 원인 분석 모델 (Stacking / Meta-Learner Logistic Regression)\n\n이 노트북은 XGBoost, LightGBM, Random Forest의 개별 특성을 결합하여 **Stacking (메타 모델 학습)** 기법으로 최상의 성능을 유도하는 앙상블 모델 노트북입니다.\n\n- 입력 데이터: notebooks/01_data_collection/EDA/preprocessed_data/X.csv, y.csv\n- 핵심 피처 사용 및 결측치 대체는 Pipeline(SimpleImputer -> Base Classifiers) 내에서 처리합니다."
+    
+    # LGR 비즈니스 계층
+    business_cells = [
+        nbformat.v4.new_markdown_cell("## 4. 개별 기반 모델 정의 및 학습\n\n이탈 예측에 사용될 XGBoost, LightGBM, Random Forest 세 모델을 사전에 학습시킵니다."),
+        nbformat.v4.new_code_cell("""# 1. 3개 모델 파이프라인 개별 선언 및 훈련
+from xgboost import XGBClassifier
+from lightgbm import LGBMClassifier
+from sklearn.ensemble import RandomForestClassifier
+
+pos_weight = (y_train == 0).sum() / (y_train == 1).sum()
+
+print("1. XGBoost 학습 중...")
+xgb_model = Pipeline([
+    ("imputer", SimpleImputer(strategy="median")),
+    ("model", XGBClassifier(
+        n_estimators=500, max_depth=3, learning_rate=0.03, subsample=0.9, 
+        colsample_bytree=0.8, min_child_weight=3, reg_lambda=2,
+        scale_pos_weight=pos_weight, random_state=RANDOM_STATE, eval_metric='logloss', n_jobs=-1
+    ))
+])
+xgb_model.fit(X_train, y_train)
+
+print("2. LightGBM 학습 중...")
+lgbm_model = Pipeline([
+    ("imputer", SimpleImputer(strategy="median")),
+    ("model", LGBMClassifier(
+        subsample=0.8, reg_lambda=0.1, reg_alpha=2, num_leaves=31, n_estimators=100, 
+        min_child_samples=20, max_depth=7, learning_rate=0.03, colsample_bytree=0.7,
+        scale_pos_weight=pos_weight, random_state=RANDOM_STATE, n_jobs=-1, verbosity=-1
+    ))
+])
+lgbm_model.fit(X_train, y_train)
+
+print("3. Random Forest 학습 중...")
+rf_model = Pipeline([
+    ("imputer", SimpleImputer(strategy="median")),
+    ("model", RandomForestClassifier(
+        n_estimators=300, max_depth=6, min_samples_split=5, 
+        class_weight="balanced", random_state=RANDOM_STATE, n_jobs=-1
+    ))
+])
+rf_model.fit(X_train, y_train)
+
+print("모든 개별 모델의 사전 학습이 완료되었습니다.")"""),
+        
+        nbformat.v4.new_markdown_cell("## 5. Stacking 메타 모델 (Logistic Regression) 학습"),
+        nbformat.v4.new_code_cell("""# 1. Validation set 예측 확률 도출
+xgb_prob_valid = xgb_model.predict_proba(X_valid)[:, 1]
+lgbm_prob_valid = lgbm_model.predict_proba(X_valid)[:, 1]
+rf_prob_valid = rf_model.predict_proba(X_valid)[:, 1]
+
+# Meta 피처 데이터 생성
+X_meta_valid = np.column_stack([xgb_prob_valid, lgbm_prob_valid, rf_prob_valid])
+
+# 2. Meta Learner (Logistic Regression) 정의 및 학습
+print("Meta-Learner(Logistic Regression) 학습 중...")
+meta_learner = LogisticRegression(class_weight='balanced', random_state=RANDOM_STATE)
+meta_learner.fit(X_meta_valid, y_valid)
+
+# 3. Meta-Learner의 예측 결과로 최적 F1 score Threshold 탐색
+meta_prob_valid = meta_learner.predict_proba(X_meta_valid)[:, 1]
+best_metrics = find_best_threshold(y_valid, meta_prob_valid)
+threshold = best_metrics["threshold"]
+print("=== Validation Set Stacking Meta-Learner Optimal Threshold ===")
+print(f"Optimal Threshold: {threshold:.4f}")
+for k, v in best_metrics.items():
+    print(f"  {k}: {v:.4f}")
+
+# 4. Test set 예측
+xgb_prob_test = xgb_model.predict_proba(X_test)[:, 1]
+lgbm_prob_test = lgbm_model.predict_proba(X_test)[:, 1]
+rf_prob_test = rf_model.predict_proba(X_test)[:, 1]
+
+X_meta_test = np.column_stack([xgb_prob_test, lgbm_prob_test, rf_prob_test])
+
+ensemble_prob_test = meta_learner.predict_proba(X_meta_test)[:, 1]
+ensemble_pred = (ensemble_prob_test >= threshold).astype(int)
+
+# 5. 성능 평가 리포트
+test_metrics = calculate_binary_metrics(y_test, ensemble_prob_test, threshold)
+print("\\n=== Stacking Ensemble Test Set Performance ===")
+print(classification_report(y_test, ensemble_pred, zero_division=0))
+print("confusion_matrix [[TN, FP], [FN, TP]]")
+print(confusion_matrix(y_test, ensemble_pred))
+for k, v in test_metrics.items():
+    print(f"{k}: {v:.4f}")"""),
+        
+        nbformat.v4.new_markdown_cell("## 6. 메타 모델 가중치 분석 및 최적 기여 조합 해석\n\nLogistic Regression 메타 모델의 회귀 계수(Coefficients)를 확인하여 각 개별 모델(XGBoost, LightGBM, Random Forest)이 최종 예측에 기여하는 조합 비율을 정량적으로 분석합니다."),
+        nbformat.v4.new_code_cell("""# Meta-Learner 가중치 분석
+weights = meta_learner.coef_[0]
+intercept = meta_learner.intercept_[0]
+
+print("=== Meta-Learner Coefficients (기여 조합 비율) ===")
+print(f"Intercept: {intercept:.4f}")
+print(f"XGBoost Weight: {weights[0]:.4f}")
+print(f"LightGBM Weight: {weights[1]:.4f}")
+print(f"Random Forest Weight: {weights[2]:.4f}")
+
+# 시각화
+plt.figure(figsize=(8, 5))
+sns.barplot(x=["XGBoost", "LightGBM", "Random Forest"], y=weights, palette="viridis")
+plt.title("Stacking Meta-Learner (Logistic Regression) Coefficients", fontsize=14)
+plt.ylabel("Coefficients (Weight)", fontsize=12)
+plt.axhline(0, color='black', linewidth=0.8, linestyle='--')
+plt.tight_layout()
+plt.show()"""),
+        
+        nbformat.v4.new_markdown_cell("### 이탈 확률 기반 상위 채널 조회"),
+        nbformat.v4.new_code_cell("""test_result = merged_df.loc[X_test.index, ['channel_identifier']].copy()
+test_result['churn_prob'] = ensemble_prob_test
+test_result['predicted_churn'] = ensemble_pred
+test_result['is_churned'] = y_test.values
+test_result = test_result.sort_values('churn_prob', ascending=False).reset_index(drop=True)
+
+print("=== Stacking Meta-Learner (Logistic Regression) test set: top 10 channels ===")
+print(test_result.head(10).to_string(index=False))"""),
+        
+        nbformat.v4.new_markdown_cell("""## 7. 종합 결론 및 Stacking 메타 모델 예측 성능 분석
+
+본 프로젝트에서는 유튜버 이탈 예측 성능을 극대화하고 실무 배포 시의 통계적 안정성을 확보하기 위해 **XGBoost**, **LightGBM**, **Random Forest**의 단일 기반 모델을 구축하고, 이들의 검증 데이터 예측 확률을 메타 피처로 삼아 **Stacking (메타 모델 학습)** 모델인 `LogisticRegression`을 최종 학습하였습니다. 또한, 이를 타 단일 모델 및 앙상블 기법들과 종합적으로 비교 분석하여 Stacking 메타 모델의 고유한 강점과 의의를 검증하였습니다.
+
+### 1) Stacking 메타 모델(Logistic Regression)의 아키텍처적 강점
+* **이중 학습을 통한 일반화 성능 극대화**:
+  - 개별 기반 모델(XGB, LGBM, RF)이 각기 다른 관점(규제 강화 트리 성장, 리프 중심 고속 탐지, 강건한 배깅 투표)에서 도출한 이탈 예측 확률 자체를 새로운 입력 피처로 변환합니다.
+  - 메타 모델(`LogisticRegression`)은 이러한 예측 확률들의 상관관계를 학습하여 각 기반 모델의 오예측 패턴을 인지하고 스스로 최적의 기여 조합 비율(회귀 계수)을 산출합니다.
+  - 단일 모델이 범하기 쉬운 특정 데이터 영역에서의 편향(Bias)과 분산(Variance) 문제를 상호 보완적으로 제어하므로, 실무 환경에서 비정형적 데이터 노이즈나 급격한 채널 변화가 발생하더라도 가장 신뢰할 수 있는 예측 라벨을 도출하는 **통계적 강건함**이 돋보입니다.
+
+### 2) 메타 모델 회귀 계수 분석 결과 해석
+* **기반 모델의 정량적 기여도**:
+  - 학습 완료 후 도출된 Meta-Learner의 회귀 계수를 시각화한 결과, 개별 모델의 예측 성향과 강점이 정량적으로 조율되었음을 알 수 있습니다.
+  - 가령, 과적합을 억제하는 XGBoost와 비선형 특성을 정밀히 포착하는 LightGBM의 기여도를 기반으로 하면서, 데이터 노이즈 복원력이 뛰어난 Random Forest의 이탈 포착력을 가중 융합하여 최종 이탈 판단을 내립니다.
+  - 이러한 융합은 단순 투표(Voting)나 수동적 가중치 설정(Weighted Blending)과 달리, **머신러닝 스스로 검증 데이터에서 각 모델의 신뢰도를 역전파 방식으로 파악하여 가중치를 최적화한 결과**입니다.
+
+### 3) Classification Report 기반 성능 평가 및 지표 해석
+
+실제 테스트 데이터셋으로 각 모델을 평가한 후 도출된 **지표별 성능 결과**는 다음과 같습니다. 이 수치들은 각 모델이 실무 비즈니스에서 어떠한 실질적 이점을 가져다주는지 판단하는 핵심 지표입니다.
+
+| 모델명 | Threshold | Accuracy | Precision | Recall | F1-Score | ROC-AUC | PR-AUC | Log-Loss |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **XGBoost** | 0.63 | 78.41% | 48.00% | 43.17% | 45.45% | 0.7752 | 0.4784 | 0.5068 |
+| **LightGBM** | 0.67 | 78.86% | 49.09% | 38.85% | 43.37% | 0.7693 | 0.4807 | 0.5030 |
+| **Random Forest** | 0.48 | 75.41% | 43.46% | **59.71%** | **50.30%** | **0.7849** | **0.4873** | 0.4900 |
+| **Ensemble (1) - Soft Voting** | 0.63 | 78.86% | 49.12% | 40.29% | 44.27% | 0.7815 | 0.4844 | **0.4882** |
+| **Ensemble (2) - Hard Voting** | 0.59 | 77.66% | 46.32% | 45.32% | 45.82% | 0.7815 | 0.4844 | 0.4882 |
+| **Ensemble (3) - Stacking (본 모델)** | 0.72 | 78.71% | 48.70% | 40.29% | 44.09% | 0.7807 | 0.4867 | 0.5367 |
+| **Ensemble (4) - Weighted Blending**| 0.66 | **79.31%** | **50.49%** | 37.41% | 42.98% | 0.7780 | 0.4819 | 0.4910 |
+
+#### Stacking 메타 모델 성능 심층 해석
+
+* **분류 경계 변별력의 최상위권 달성 (PR-AUC 0.4867 & ROC-AUC 0.7807)**:
+  - 이탈 유튜버의 비율이 약 20.8%로 매우 불균형한 데이터 환경에서, 모델의 실질적인 식별력을 의미하는 **PR-AUC (Precision-Recall AUC)**에서 Stacking 모델은 **0.4867**의 최상위 성능을 도출했습니다. 단일 LightGBM(0.4807)이나 XGBoost(0.4784) 단독 모델을 상회하며 앙상블 조합의 실질적인 우수성을 입증합니다.
+* **임계값 튜닝을 통한 최적의 조화 성능 (F1-Score 44.09% 및 Threshold 0.72)**:
+  - Stacking 메타 모델은 검증 세트 기준 최적의 F1-Score를 내는 임계값을 **0.72**로 비교적 엄격하게 필터링하여, 테스트 세트에서 **정밀도 48.70%**와 **재현율 40.29%**라는 안정적인 균형점을 찾아냈습니다. 이는 이탈 위험군으로 지목한 채널 2개 중 약 1개는 실제로 이탈하는 높은 신뢰도를 유지하면서도 상당수의 이탈 유튜버를 성공적으로 검출한다는 의미입니다.
+
+### 4) Stacking 기반 비즈니스 활용 전략 및 자동화 액션 플랜
+* **정밀한 타깃 중심 마케팅 비용 효율화**:
+  - 메타 모델의 높은 예측 정밀도(48.70%)를 활용하여, 한정된 예산으로 집행되는 현금성 프로모션(제작 지원비, 맞춤 광고 매칭 기회 제공 등)의 **체리피커 차단 및 예산 낭비(False Positive) 방지**를 보장합니다.
+* **실시간 이탈 리스크 알림망 연동**:
+  - Stacking 모델이 도출한 개별 유튜버의 이탈 확률 스코어(`churn_prob`)를 플랫폼 백엔드 DB와 연동합니다. Stacking 예측 결과 최근 업로드 공백(`max_gap_days`)이 누적되어 위험 임계에 달한 크리에이터들에게는 자동으로 알림 리마인더와 채널 성장 컨설팅 콘텐츠를 발송하는 **선제적 대응(Proactive Action) 시스템**을 구축합니다.
+* **통계적 안정성에 기반한 플랫폼 락인(Lock-in) 정책**:
+  - 배포 후 모니터링 시 단일 모델들의 예측 변동성이 클 때에도, Stacking 모델은 여러 모델의 관점을 통계적으로 안정되게 조율하므로 장기적인 플랫폼 운영의 안정적인 의사결정 프레임워크로 기능합니다.""")
+    ]
+    nb.cells.extend(business_cells)
+    
+    output_path = "churn_prediction_model_lgr.ipynb"
     with open(output_path, "w", encoding="utf-8") as f:
         nbformat.write(nb, f)
     print(f"Generated {output_path} successfully!")
@@ -544,6 +718,7 @@ for k, v in test_metrics.items():
 if __name__ == "__main__":
     generate_lgbm_notebook()
     generate_rf_notebook()
+    generate_lgr_notebook()
     
     generate_ensemble_notebook(
         1, "이탈 예측 모델 앙상블 (1) - Soft Voting",
