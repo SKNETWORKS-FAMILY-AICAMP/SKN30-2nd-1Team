@@ -756,6 +756,18 @@ def inject_global_css() -> None:
             margin-top: 4px;
         }}
 
+        /* ---- 인사이트 페이지 콜아웃 칩 ---- */
+        .tb-insight-callout {{
+            background: #EEF2FF;
+            border: 1px solid #C7D2FE;
+            border-radius: 8px;
+            padding: 8px 14px;
+            font-size: 0.82rem;
+            color: {PRIMARY_DARK};
+            margin-bottom: 10px;
+            line-height: 1.4;
+        }}
+
         /* ---- 특성 카드 (추천 페이지) ---- */
         .tb-feat-row {{
             display: flex;

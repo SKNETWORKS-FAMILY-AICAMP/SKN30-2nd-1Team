@@ -54,12 +54,6 @@ st.markdown(
 )
 
 features = [
-    # {
-    #     "icon": "🏠",
-    #     "title": "대시보드",
-    #     "desc": "전체 채널의 이탈 위험도 분포와 주요 신호를 한눈에 확인합니다.",
-    #     "url": "/대시보드",
-    # },
     {
         "icon": "🔍",
         "title": "채널 조회",
@@ -72,9 +66,15 @@ features = [
         "desc": "건강한 채널을 매칭해 광고 의사결정의 참고 자료를 제공합니다.",
         "url": "/광고주_추천",
     },
+    {
+        "icon": "📊",
+        "title": "인사이트",
+        "desc": "채널 포맷·리스크·업로드 성실도 분석 데이터를 한눈에 확인합니다.",
+        "url": "/인사이트",
+    },
 ]
 
-cols = st.columns(2, gap="medium")
+cols = st.columns(3, gap="medium")
 for col, f in zip(cols, features):
     with col:
         st.markdown(

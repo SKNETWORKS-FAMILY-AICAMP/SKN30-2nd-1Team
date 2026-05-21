@@ -898,6 +898,106 @@ def get_channel_risk_signals(channel_id: str) -> list[dict]:
     return [s1, s2, s3, s4]
 
 
+# ─────────────────────────────────────────────────────────────
+# 인사이트 페이지용 집계 함수
+# ─────────────────────────────────────────────────────────────
+
+
+def compute_format_engagement() -> dict:
+    """Chart 4: 콘텐츠 포맷별 참여율 분포 (박스플롯용)."""
+    import numpy as np
+
+    df = load_wide()
+    df = df.dropna(subset=["shorts_ratio", "avg_engagement_rate"]).copy()
+
+    cap = df["avg_engagement_rate"].quantile(0.99)
+    df["eng"] = df["avg_engagement_rate"].clip(upper=cap) * 100
+
+    df["channel_type"] = np.where(
+        df["shorts_ratio"] >= 0.7,
+        "숏폼 중심",
+        np.where(df["shorts_ratio"] <= 0.3, "롱폼 중심", "혼합형"),
+    )
+
+    result = {}
+    for label in ["숏폼 중심", "혼합형", "롱폼 중심"]:
+        vals = df.loc[df["channel_type"] == label, "eng"].tolist()
+        result[label] = vals
+    return result
+
+
+def compute_shorts_longform_synergy() -> dict:
+    """Chart 8: 쇼츠 vs 롱폼 조회수 시너지 (산점도용)."""
+    df = load_wide()
+    syn = df[(df["avg_shorts_view"] > 0) & (df["avg_normal_view"] > 0)].copy()
+    return {
+        "shorts": syn["avg_shorts_view"].tolist(),
+        "longform": syn["avg_normal_view"].tolist(),
+        "titles": syn["title"].tolist(),
+    }
+
+
+def compute_channel_quadrant() -> dict:
+    """Chart 11: 채널 성과·리스크 4분면 (max_gap_days × avg_engagement_rate)."""
+    df = load_wide()
+    df = df.dropna(subset=["max_gap_days", "avg_engagement_rate"]).copy()
+
+    cap = df["avg_engagement_rate"].quantile(0.99)
+    df["eng_pct"] = df["avg_engagement_rate"].clip(upper=cap) * 100
+    df = df[df["max_gap_days"] > 0].copy()
+
+    eng_median = df["eng_pct"].median()
+    gap_threshold = 365.0
+
+    def _quadrant(row: "pd.Series") -> str:
+        high_gap = row["max_gap_days"] > gap_threshold
+        high_eng = row["eng_pct"] >= eng_median
+        if high_gap and not high_eng:
+            return "②중위험 (투자금지)"
+        if high_gap and high_eng:
+            return "①고위험 (마니아 소통형)"
+        if not high_gap and high_eng:
+            return "④안전 (Sweet Spot)"
+        return "③저위험 (대중적 메가뷰)"
+
+    df["quadrant"] = df.apply(_quadrant, axis=1)
+    return {
+        "x": df["max_gap_days"].tolist(),
+        "y": df["eng_pct"].tolist(),
+        "quadrant": df["quadrant"].tolist(),
+        "titles": df["title"].tolist(),
+        "eng_median": float(eng_median),
+        "gap_threshold": gap_threshold,
+    }
+
+
+def compute_upload_cycle_performance() -> dict:
+    """Chart 13: 업로드 주기 그룹별 중앙 조회수 (수평 막대용)."""
+    import numpy as np
+
+    df = load_wide()
+    df = df.dropna(subset=["avg_upload_interval_days", "avg_view_count"]).copy()
+
+    bins = [0, 3, 15, float("inf")]
+    labels = ["1~3일\n(메가 부스팅형)", "4~15일\n(중위 그룹)", "16일+\n(팬덤/장인형)"]
+    df["group"] = pd.cut(
+        df["avg_upload_interval_days"],
+        bins=bins,
+        labels=labels,
+        right=True,
+    )
+
+    grouped = df.groupby("group", observed=True)["avg_view_count"]
+    medians = grouped.median()
+    counts = grouped.count()
+
+    return {
+        "groups": list(medians.index),
+        "medians": [int(v) for v in medians.values],
+        "counts": [int(v) for v in counts.values],
+    }
+
+
 def get_channel_shap_proxy(channel_id: str) -> list[dict]:
     """SHAP 자리 — 룰 기반 위험 기여도 (정규화된 0~0.5 막대)."""
     wide = load_wide()
