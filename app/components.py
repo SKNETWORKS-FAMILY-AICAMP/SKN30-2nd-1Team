@@ -104,9 +104,10 @@ def render_sidebar(active: str = "dashboard") -> None:
 
         st.markdown("<hr style='margin: 16px 0 30px;'/>", unsafe_allow_html=True)
 
-        st.page_link("pages/0_대시보드.py", label="대시보드", icon="🏠")
+        # st.page_link("pages/0_대시보드.py", label="대시보드", icon="🏠")
         st.page_link("pages/1_채널_조회.py", label="채널 조회", icon="🔍")
         st.page_link("pages/3_광고주_추천.py", label="광고주 추천", icon="⭐")
+        st.page_link("pages/2_인사이트.py", label="인사이트", icon="📊")
 
 
         # st.markdown(
