@@ -109,7 +109,7 @@
 # 1. 프로젝트 필요성 (배경)
 
 <div align="center">
-  <img src="C:\Users\playdata2\OneDrive\Desktop\프로젝트\2차 단위 프로젝트\SKN30-2nd-1Team\data\raw\animal_Image.webp" alt="인플루언서 마케팅" width="400">
+  <img src="data\raw\animal_Image.jpg" alt="인플루언서 마케팅" width="400">
 </div>
 
 <br>
