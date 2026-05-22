@@ -1,1 +1,1 @@
-`uv run streamlit run app/main.py`
+작성예정
