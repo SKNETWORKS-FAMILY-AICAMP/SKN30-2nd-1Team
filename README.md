@@ -10,74 +10,72 @@
 
 <br>
 
-<table style="width: 100%; table-layout: fixed; border-collapse: collapse; text-align: center; font-size: 14px;">
+<table style="width: 100%; table-layout: fixed; border-collapse: collapse; text-align: center; font-size: 14px; font-family: sans-serif; color: #333;">
   <tr>
-    <td style="width: 25%; border: 1px solid #ddd; padding: 10px; vertical-align: middle;">
-      <img src="https://img.icons8.com/illustrations/oolong/150/user-male-circle.png" style="width: 80px; height: 80px; display: block; margin: 0 auto;" alt="서해연" />
+    <td style="width: 20%; border: 1px solid #e2e8f0; padding: 15px 5px; vertical-align: middle; background-color: #fff;">
+      <img src="https://img.icons8.com/illustrations/oolong/150/user-male-circle.png" style="width: 75px; height: 75px; display: block; margin: 0 auto;" alt="서해연" />
     </td>
-    <td style="width: 25%; border: 1px solid #ddd; padding: 10px; vertical-align: middle;">
-      <img src="https://img.icons8.com/illustrations/oolong/150/user-female-circle.png" style="width: 80px; height: 80px; display: block; margin: 0 auto;" alt="강성준" />
+    <td style="width: 20%; border: 1px solid #e2e8f0; padding: 15px 5px; vertical-align: middle; background-color: #fff;">
+      <img src="https://img.icons8.com/illustrations/oolong/150/user-female-circle.png" style="width: 75px; height: 75px; display: block; margin: 0 auto;" alt="강성준" />
     </td>
-    <td style="width: 25%; border: 1px solid #ddd; padding: 10px; vertical-align: middle;">
-      <img src="https://img.icons8.com/illustrations/oolong/150/user-male-circle.png" style="width: 80px; height: 80px; display: block; margin: 0 auto;" alt="김도훈" />
+    <td style="width: 20%; border: 1px solid #e2e8f0; padding: 15px 5px; vertical-align: middle; background-color: #fff;">
+      <img src="https://img.icons8.com/illustrations/oolong/150/user-male-circle.png" style="width: 75px; height: 75px; display: block; margin: 0 auto;" alt="김도훈" />
     </td>
-    <td style="width: 25%; border: 1px solid #ddd; padding: 10px; vertical-align: middle;">
-      <img src="https://img.icons8.com/illustrations/oolong/150/user-female-circle.png" style="width: 80px; height: 80px; display: block; margin: 0 auto;" alt="정주애" />
+    <td style="width: 20%; border: 1px solid #e2e8f0; padding: 15px 5px; vertical-align: middle; background-color: #fff;">
+      <img src="https://img.icons8.com/illustrations/oolong/150/user-female-circle.png" style="width: 75px; height: 75px; display: block; margin: 0 auto;" alt="정주애" />
     </td>
-    <td style="width: 25%; border: 1px solid #ddd; padding: 10px; vertical-align: middle;">
-      <img src="https://img.icons8.com/illustrations/oolong/150/user-female-circle.png" style="width: 80px; height: 80px; display: block; margin: 0 auto;" alt="천성배" />
+    <td style="width: 20%; border: 1px solid #e2e8f0; padding: 15px 5px; vertical-align: middle; background-color: #fff;">
+      <img src="https://img.icons8.com/illustrations/oolong/150/user-female-circle.png" style="width: 75px; height: 75px; display: block; margin: 0 auto;" alt="천성배" />
     </td>
   </tr>
-  <tr style="background-color: #f9f9f9; font-weight: bold;">
-    <td style="border: 1px solid #ddd; padding: 8px;"><strong>서해연</strong></td>
-    <td style="border: 1px solid #ddd; padding: 8px;"><strong>강성준</strong></td>
-    <td style="border: 1px solid #ddd; padding: 8px;"><strong>김도훈</strong></td>
-    <td style="border: 1px solid #ddd; padding: 8px;"><strong>정주애</strong></td>
-    <td style="border: 1px solid #ddd; padding: 8px;"><strong>천성배</strong></td>
+  
+  <tr style="background-color: #f8fafc; font-weight: bold; color: #1e293b; font-size: 15px;">
+    <td style="border: 1px solid #e2e8f0; padding: 10px 8px;">서해연</td>
+    <td style="border: 1px solid #e2e8f0; padding: 10px 8px;">강성준</td>
+    <td style="border: 1px solid #e2e8f0; padding: 10px 8px;">김도훈</td>
+    <td style="border: 1px solid #e2e8f0; padding: 10px 8px;">정주애</td>
+    <td style="border: 1px solid #e2e8f0; padding: 10px 8px;">천성배</td>
   </tr>
-  <tr>
-    <td style="border: 1px solid #ddd; padding: 8px; color: #555; word-break: keep-all;"><strong>팀장</strong> / PM / DA & Infrastructure</td>
-    <td style="border: 1px solid #ddd; padding: 8px; color: #555; word-break: keep-all;"><strong>팀원</strong> / ML & DL</td>
-    <td style="border: 1px solid #ddd; padding: 8px; color: #555; word-break: keep-all;"><strong>팀원</strong> / Architecture & ML(Ensemble & Report</td>
-    <td style="border: 1px solid #ddd; padding: 8px; color: #555; word-break: keep-all;"><strong>팀원</strong> / Data preprocessing & Front & Git</td>
-    <td style="border: 1px solid #ddd; padding: 8px; color: #555; word-break: keep-all;"><strong>팀원</strong> / EDA & Infrastructure</td>
+  
+  <tr style="font-size: 13px; color: #475569; background-color: #fff;">
+    <td style="border: 1px solid #e2e8f0; padding: 10px 6px; word-break: keep-all; line-height: 1.4;"><strong>팀장</strong> / PM /<br>DA & Infrastructure</td>
+    <td style="border: 1px solid #e2e8f0; padding: 10px 6px; word-break: keep-all; line-height: 1.4;"><strong>팀원</strong> /<br>ML & DL</td>
+    <td style="border: 1px solid #e2e8f0; padding: 10px 6px; word-break: keep-all; line-height: 1.4;"><strong>팀원</strong> / Architecture &<br>ML(Ensemble) & Report</td>
+    <td style="border: 1px solid #e2e8f0; padding: 10px 6px; word-break: keep-all; line-height: 1.4;"><strong>팀원</strong> / Data preprocessing<br>& Front & Git</td>
+    <td style="border: 1px solid #e2e8f0; padding: 10px 6px; word-break: keep-all; line-height: 1.4;"><strong>팀원</strong> /<br>EDA & Infrastructure</td>
   </tr>
-  <tr style="text-align: left; vertical-align: top; font-size: 13px;">
-    <td style="border: 1px solid #ddd; padding: 10px; word-wrap: break-word;">
+  
+  <tr style="text-align: left; vertical-align: top; font-size: 12.5px; line-height: 1.6; color: #334155; background-color: #fff;">
+    <td style="border: 1px solid #e2e8f0; padding: 12px 10px; word-break: keep-all;">
       • 프로젝트 총괄 (PM) 및 전체 일정 관리<br>
       • YouTube Data API 기반 데이터 수집 아키텍처 설계<br>
       • 데이터 전처리 결과서 총괄 및 파이프라인 최종 검증<br>
       • 프로젝트 마일스톤 및 리스크 관리
     </td>
-    
-    <td style="border: 1px solid #ddd; padding: 10px; word-wrap: break-word;">
+    <td style="border: 1px solid #e2e8f0; padding: 12px 10px; word-break: keep-all;">
       • KoBERT 기반 댓글 감성 분석 모델 구축<br>
       • 영상 제목 민감 키워드 사전 설계 및 텍스트 임베딩<br>
       • 딥러닝 기반 이탈 분류 모델(Classifier) 파이프라인 수립<br>
       • 댓글 감성 리포트 작성 및 비즈니스 인사이트 도출
     </td>
-    
-    <td style="border: 1px solid #ddd; padding: 10px; word-wrap: break-word;">
+    <td style="border: 1px solid #e2e8f0; padding: 12px 10px; word-break: keep-all;">
       • ML 머신러닝 모델(LR, RF, XGB, LGBM) 앙상블 튜닝 및 최적화<br>
       • 데이터 클래스 리밸런싱 및 F2 가중치 평가지표 구현<br>
       • Validation 기반 최적 이탈 예측 임계값(Threshold) 탐색<br>
       • 최종 위험 점수(Risk Score) 통합 연산 및 학습 결과서 작성
     </td>
-    
-    <td style="border: 1px solid #ddd; padding: 10px; word-wrap: break-word;">
+    <td style="border: 1px solid #e2e8f0; padding: 12px 10px; word-break: keep-all;">
       • Streamlit 기반 대시보드 웹 UI/UX 레이아웃 설계 및 구현<br>
       • 데이터 정제(Cleaner) 및 인코딩(Encoder) 모듈 개발<br>
       • 대시보드 내 크리에이터 위험도 시각화 및 인터랙션 전담<br>
       • Git 브랜치 전략 수립 및 전체 소스코드 통합 형상 관리
     </td>
-    
-    <td style="border: 1px solid #ddd; padding: 10px; word-wrap: break-word;">
-      • 수집 데이터 기초 EDA(탐색적 데이터 분석) 및 이탈 레이블 정의 검증<br>
+    <td style="border: 1px solid #e2e8f0; padding: 12px 10px; word-break: keep-all;">
+      • 수집 데이터 기초 EDA 및 이탈 레이블 정의 검증<br>
       • Docker 가상화 환경 구축 및 배포 컨테이너 최적화<br>
-      • 환경변수 및 프로젝트 설정 파일(`config.yaml`, `utils/config.py`) 모듈화<br>
-      • uv 기반 패키지 의존성 관리 (`uv sync`) 및 배포 환경 최적화
+      • 환경변수 및 프로젝트 설정 파일(<code style="font-family: monospace; font-size: 11px; background-color: #f1f5f9; padding: 2px 4px; border-radius: 3px;">config.yaml</code>) 모듈화<br>
+      • uv 기반 패키지 의존성 관리 (<code style="font-family: monospace; font-size: 11px; background-color: #f1f5f9; padding: 2px 4px; border-radius: 3px;">uv sync</code>) 및 배포 환경 최적화
     </td>
-</tr>
   </tr>
 </table>
 
