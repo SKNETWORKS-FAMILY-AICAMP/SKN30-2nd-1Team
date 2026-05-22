@@ -87,7 +87,7 @@
 <br>
 
 ### ✦ 프로젝트 기간
-> 2026.05.17(일) ~ 2026.05.22(금) **(6일)**
+> 2026.05.21(목) ~ 2026.05.22(금) **(2일)**
 
 <br>
 
@@ -109,7 +109,7 @@
 # 1. 프로젝트 필요성 (배경)
 
 <div align="center">
-  <img src="docs/튜브어때_이미지.png" alt="인플루언서 마케팅" width="400">
+  <img src="C:\Users\playdata2\OneDrive\Desktop\프로젝트\2차 단위 프로젝트\SKN30-2nd-1Team\data\raw\animal_Image.webp" alt="인플루언서 마케팅" width="400">
 </div>
 
 <br>
