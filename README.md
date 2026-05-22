@@ -90,9 +90,6 @@
 
 ## 4. 데이터 소스
 
-[![YouTube API](https://img.shields.io/badge/YouTube%20API-v3-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://developers.google.com/youtube/v3)
-[![KoBERT](https://img.shields.io/badge/SKT_T--Brain-KoBERT-blue?style=for-the-badge&logo=huggingface&logoColor=white)](https://github.com/SKTBrain/KoBERT)
-
 | 항목 | 내용 |
 |---|---|
 | **원천 데이터** | 국내 채널 9,427개 수집 |
@@ -171,15 +168,30 @@
 
 **리스크 등급**: 🟢 Grade A (안전) · 🟡 Grade B/C (경고) · 🔴 Grade D/F (고위험)
 
+<div align="center">
+  <img src="reports/presentation/assets/screenshots/0_튜브어떄.png" alt="메인 대시보드" width="80%">
+  <p><b>메인 대시보드</b></p>
+</div>
+
+<div align="center">
+  <img src="reports/presentation/assets/screenshots/01_채널조회.png" alt="채널 조회" width="80%">
+  <p><b>채널 조회 — 이탈 점수 & SHAP 분석</b></p>
+</div>
+
+<div align="center">
+  <img src="reports/presentation/assets/screenshots/02_광고주 추천.png" alt="광고주 추천" width="80%">
+  <p><b>광고주 추천 — 안정형 vs 성장형 필터링</b></p>
+</div>
+
 ---
 
 ## 8. 팀원 소감 및 회고
 
 - **강성준**
-  > ""
+  > "실제 유튜버를 대상으로 서비스를 만드니 현실감이 느껴져서 좋았습니다. 데이터 분석을 위해 EDA 과정이 정말 중요하다는 것을 깨달았습니다. 모델 성능을 높이기 위해 여러 시행착오를 거치는 일이 저의 실력을 더욱 향상 시켰습니다. 같이 노력한 팀원들에게 감사합니다."
 
 - **김도훈**
-  > ""
+  > "모두가 ML DL 처음이어서 겪었던 정신 붕괴에 만들어진 수많은 데이터를 뒤집는 과정이 힘든 과정이었지만 이 또한 겪어야할 과정이었다. 주어진 시간 내에서 무한히 커지기만 하는 아이디에이션이 아닌 보수적으로 운영하면서 수정해나가는 시퀀스를 1차 프로젝트에 겪어서 정말 다행이라고 생각한다. 힘 써준 팀장 및 팀원에게 감사한다."
 
 - **천성배**
   > ""
