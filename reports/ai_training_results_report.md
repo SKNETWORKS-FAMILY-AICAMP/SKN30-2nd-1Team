@@ -1,238 +1,162 @@
-# 📊 유튜버 이탈 예측 인공지능 모델 학습 결과 보고서
+# 유튜버 이탈 예측 앙상블 모델 학습 결과 보고서
 
-본 보고서는 유튜버 채널의 최근 활동 주기 및 채널 규모 정보를 활용하여, 플랫폼 이탈(활동 중단) 고위험 크리에이터를 선제적으로 식별하기 위해 개발된 3가지 단일 모델 및 4가지 앙상블 모델의 학습 결과와 최종 평가를 정리한 결과 보고서입니다.
+기준 노트북: `notebooks/02_modeling/best_ensemble_tuning_pipeline.ipynb`
 
----
-
-## 📌 1. 프로젝트 개요 및 데이터 구조
-
-* **분석 목적**: 유튜버의 업로드 공백, 규칙성, 채널 성장 지표 등을 종합 분석하여 이탈 확률을 예측함으로써, 플랫폼 이탈 방지를 위한 타깃 프로모션 비용 효율화를 도출합니다.
-* **데이터 분할**: 전체 채널 데이터셋을 **학습(Train) 60%**, **검증(Validation) 20%**, **평가(Test) 20%**의 고정된 비율로 분할하였습니다. (클래스 비율 유지를 위해 `Stratified Split` 적용)
-* **주요 학습 피처 (16개)**:
-  - **업로드 공백/규칙성**: 최대 업로드 공백(`max_gap_days`), 긴 공백 비율(`gap_ratio`), 평균/표준편차 업로드 간격, 규칙성 점수(`regularity_score`), 변동계수(`cv`), 30일 이상 공백 횟수 등
-  - **채널 규모**: 비디오 수, 구독자 수, 총 조회수, 채널 연령 등
-  - **성과/반응**: 평균 조회수, 평균 댓글 수, 평균 좋아요 수 등
-* **데이터 불균형 현황**: 실제 이탈 채널의 비율은 전체 데이터 중 약 **20.8%**로 높은 데이터 불균형 분포를 가지고 있습니다.
+본 보고서는 전처리 완료 데이터와 DB 채널 정보를 병합한 뒤, 여러 분류 모델을 `RandomizedSearchCV`로 튜닝하고 ROC-AUC 기준 상위 3개 모델을 Soft Voting 방식으로 앙상블한 결과를 정리한다.
 
 ---
 
-## 📊 2. 전체 모델 성능 비교 요약
+## 1. 데이터 및 학습 설정
 
-실제 테스트 데이터셋(총 667개 채널, 이탈 139개 / 활성 528개)으로 평가를 거친 결과 지표 요약 테이블입니다.
+### 데이터 구성
 
-| 모델명 | 최적 임계값<br>(Threshold) | 정확도<br>(Accuracy) | 정밀도<br>(Precision) | 재현율<br>(Recall) | F1-Score<br>(조화평균) | ROC-AUC | PR-AUC<br>(불균형데이터성능) |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **XGBoost** (단일) | 0.64 | 78.56% | 48.51% | 46.76% | 47.62% | 0.7742 | 0.4861 |
-| **LightGBM** (단일) | 0.63 | **78.71%** | **48.82%** | 44.60% | 46.62% | 0.7821 | 0.4942 |
-| **Random Forest** (단일) | 0.53 | 77.21% | 45.64% | 48.92% | 47.22% | 0.7823 | 0.4906 |
-| **Ensemble (1) - Soft Voting** | 0.62 | 78.41% | 48.03% | 43.88% | 45.86% | **0.7829** | **0.4976** |
-| **Ensemble (2) - Hard Voting** | N/A | 78.56% | 48.51% | 46.76% | 47.62% | **0.7829** | **0.4976** |
-| **Ensemble (3) - Stacking** | 0.71 | 78.56% | 48.46% | 45.32% | 46.84% | 0.7815 | 0.4959 |
-| **Ensemble (4) - Weighted Blending**| 0.58 | 77.96% | 47.30% | **50.36%** | **48.78%** | **0.7829** | 0.4975 |
+- 입력 데이터: `../../notebooks/01_data_collection/EDA/preprocessed_data/preprocessed.csv`
+- DB 병합 후 데이터 형태: `(3331, 47)`
+- 타깃 컬럼: `is_churned`
+- 클래스 분포:
+  - 정상/활성 채널 `0`: 2,637개
+  - 이탈 채널 `1`: 694개
+  - 이탈 비율: 20.83%
 
-> **[!NOTE]**
-> - **최고 수치**는 볼드(**Bold**)체로 강조 표시되었습니다.
-> - **PR-AUC (Precision-Recall AUC)**는 데이터 불균형 구조에서 무작위 예측(20.8%) 대비 모델이 얼마나 고위험 이탈자를 견고하게 식별해내는지 측정하는 가장 핵심적인 일반화 지표입니다.
+### 학습/평가 분할
 
----
+- 분할 방식: `train_test_split(..., test_size=0.2, random_state=42, stratify=y)`
+- Train: `(2664, 41)`
+- Test: `(667, 41)`
+- 별도 Validation set은 사용하지 않고, 학습 데이터 내부에서 `cv=3` 교차검증으로 튜닝했다.
 
-## 🔍 3. 모델별 상세 학습 결과 분석
+### 주요 피처
 
-### 1) XGBoost (단일 모델)
-* **특징**: 목적 함수 내에 자체 정규화 규제(L1/L2)를 적용하고 Level-wise 방식으로 트리를 구성하여 매우 탁월한 과적합 억제 능력을 보입니다.
-* **임계값**: 0.64
-* **혼동 행렬 (Confusion Matrix)**:
+총 41개 피처를 사용했다.
 
-  | | 예측: 활성 (0) | 예측: 이탈 (1) |
-  | :---: | :---: | :---: |
-  | **실제: 활성 (0)** | **459** (TN) | **69** (FP) |
-  | **실제: 이탈 (1)** | **74** (FN) | **65** (TP) |
-
-* **Classification Report**:
-  ```text
-                precision    recall  f1-score   support
-
-             0       0.86      0.87      0.87       528
-             1       0.49      0.47      0.48       139
-
-      accuracy                           0.79       667
-     macro avg       0.67      0.67      0.67       667
-  weighted avg       0.78      0.79      0.78       667
-  ```
+- 채널 규모: `subscriber_count`, `total_views`, `video_count`, `channel_age_days`
+- 업로드 패턴: `collected_video_count`, `avg_upload_interval_days`, `std_upload_interval_days`, `max_gap_days`, `hiatus_count_30d`
+- 조회/반응 지표: `avg_view_count`, `std_view_count`, `avg_like_count`, `avg_comment_count`, `avg_normal_view`
+- 업로드 규칙성: `regularity_score`, `cv`, `outlier_ratio`, `gap_ratio`
+- 민감 콘텐츠 지표: `sensitive_score`, `n_sensitive_videos`, `sensitive_video_ratio`, `cat_politics`, `cat_hate`, `cat_aggro`, `cat_adult_illegal`
+- 장르 원핫 피처: `genre_*`
 
 ---
 
-### 2) LightGBM (단일 모델)
-* **특징**: Leaf-wise 방식으로 고속 트리 분할을 지원하며 대용량 피처 분포 속에서도 복잡한 비선형 관계를 매우 세밀하고 예리하게 학습합니다.
-* **임계값**: 0.63
-* **혼동 행렬 (Confusion Matrix)**:
+## 2. 후보 모델 및 튜닝 방식
 
-  | | 예측: 활성 (0) | 예측: 이탈 (1) |
-  | :---: | :---: | :---: |
-  | **실제: 활성 (0)** | **463** (TN) | **65** (FP) |
-  | **실제: 이탈 (1)** | **77** (FN) | **62** (TP) |
+후보 모델 5개를 정의하고, 각 모델별 하이퍼파라미터 공간에서 `RandomizedSearchCV`를 수행했다.
 
-* **Classification Report**:
-  ```text
-                precision    recall  f1-score   support
+- 탐색 방식: `RandomizedSearchCV`
+- 평가 기준: `scoring="roc_auc"`
+- 교차검증: `cv=3`
+- 반복 수: `n_iter=10`
+- 병렬 처리: `n_jobs=-1`
 
-             0       0.86      0.88      0.87       528
-             1       0.49      0.45      0.47       139
+후보 모델:
 
-      accuracy                           0.79       667
-     macro avg       0.67      0.66      0.67       667
-  weighted avg       0.78      0.79      0.78       667
-  ```
+- `XGBClassifier`
+- `LGBMClassifier`
+- `RandomForestClassifier`
+- `GradientBoostingClassifier`
+- `LogisticRegression`
 
 ---
 
-### 3) Random Forest (단일 모델)
-* **특징**: 대표적인 배깅(Bagging) 알고리즘으로 독립적인 다수의 의사결정나무 예측 결과를 투표합니다. 결측치가 있거나 데이터 노이즈가 존재할 때 변동성이 매우 낮은 높은 강건함을 보입니다.
-* **임계값**: 0.53
-* **혼동 행렬 (Confusion Matrix)**:
+## 3. 개별 모델 튜닝 결과
 
-  | | 예측: 활성 (0) | 예측: 이탈 (1) |
-  | :---: | :---: | :---: |
-  | **실제: 활성 (0)** | **447** (TN) | **81** (FP) |
-  | **실제: 이탈 (1)** | **71** (FN) | **68** (TP) |
+| 모델 | 최적 파라미터 | Test Accuracy | Test ROC-AUC |
+|---|---|---:|---:|
+| XGBoost | `n_estimators=300`, `max_depth=3`, `learning_rate=0.05` | 0.8036 | 0.7789 |
+| LightGBM | `n_estimators=200`, `max_depth=5`, `learning_rate=0.05` | 0.8036 | 0.7837 |
+| RandomForest | `n_estimators=300`, `max_depth=10`, `min_samples_split=2` | 0.8096 | 0.7996 |
+| GradientBoosting | `n_estimators=100`, `max_depth=3`, `learning_rate=0.1` | 0.8066 | 0.7856 |
+| LogisticRegression | `C=0.1` | 0.7946 | 0.6740 |
 
-* **Classification Report**:
-  ```text
-                precision    recall  f1-score   support
-
-             0       0.86      0.85      0.85       528
-             1       0.46      0.49      0.47       139
-
-      accuracy                           0.77       667
-     macro avg       0.66      0.67      0.66       667
-  weighted avg       0.78      0.77      0.77       667
-  ```
+`LogisticRegression`은 학습 중 `lbfgs failed to converge` 경고가 발생했으며, ROC-AUC도 다른 후보 모델보다 낮았다.
 
 ---
 
-### 4) Ensemble (1) - Soft Voting
-* **특징**: XGBoost, LightGBM, Random Forest 모델의 검증 확률 결과값에 대해 단순 산술평균을 도출해 최종 이탈 여부를 판단하는 평균 앙상블 기법입니다.
-* **임계값**: 0.62
-* **혼동 행렬 (Confusion Matrix)**:
+## 4. 최종 앙상블 구성
 
-  | | 예측: 활성 (0) | 예측: 이탈 (1) |
-  | :---: | :---: | :---: |
-  | **실제: 활성 (0)** | **462** (TN) | **66** (FP) |
-  | **실제: 이탈 (1)** | **78** (FN) | **61** (TP) |
+ROC-AUC 기준 상위 3개 모델을 선정했다.
 
-* **Classification Report**:
-  ```text
-                precision    recall  f1-score   support
+| 순위 | 모델 | ROC-AUC |
+|---:|---|---:|
+| 1 | RandomForest | 0.7996 |
+| 2 | GradientBoosting | 0.7856 |
+| 3 | LightGBM | 0.7837 |
 
-             0       0.86      0.88      0.87       528
-             1       0.48      0.44      0.46       139
+최종 앙상블은 위 3개 모델을 `VotingClassifier(voting="soft")`로 결합했다.
 
-      accuracy                           0.78       667
-     macro avg       0.67      0.66      0.66       667
-  weighted avg       0.78      0.78      0.78       667
-  ```
+```python
+VotingClassifier(
+    estimators=[
+        ("RandomForest", RandomForestClassifier(max_depth=10, n_estimators=300, random_state=42)),
+        ("GradientBoosting", GradientBoostingClassifier(random_state=42)),
+        ("LightGBM", LGBMClassifier(learning_rate=0.05, max_depth=5, n_estimators=200, random_state=42, verbose=-1)),
+    ],
+    voting="soft",
+)
+```
 
----
-
-### 5) Ensemble (2) - Hard Voting
-* **특징**: 개별 모델들이 각각의 최적 임계값으로 이진 라벨을 예측한 후, 다수결(3개 중 2개 모델 이상이 찬성)로 최종 의사를 결정하는 모델입니다. 과반수 합의를 이끌어 단일 알고리즘의 오분류 리스크를 최소화합니다.
-* **임계값**: N/A (다수결 투표식)
-* **혼동 행렬 (Confusion Matrix)**:
-
-  | | 예측: 활성 (0) | 예측: 이탈 (1) |
-  | :---: | :---: | :---: |
-  | **실제: 활성 (0)** | **459** (TN) | **69** (FP) |
-  | **실제: 이탈 (1)** | **74** (FN) | **65** (TP) |
-
-* **Classification Report**:
-  ```text
-                precision    recall  f1-score   support
-
-             0       0.86      0.87      0.87       528
-             1       0.49      0.47      0.48       139
-
-      accuracy                           0.79       667
-     macro avg       0.67      0.67      0.67       667
-  weighted avg       0.78      0.79      0.78       667
-  ```
+Soft Voting이므로 각 모델의 클래스 확률(`predict_proba`)을 평균해 최종 예측을 산출한다.
 
 ---
 
-### 6) Ensemble (3) - Stacking
-* **특징**: 개별 분류기들의 검증 데이터 예측 확률을 새로운 입력 피처로 받아들여, 메타 러너인 `LogisticRegression`을 통해 개별 예측 모델들의 기여 조합 비율(회귀 계수)을 머신러닝 스스로 정량 가중 재학습한 기법입니다.
-* **임계값**: 0.71
-* **혼동 행렬 (Confusion Matrix)**:
+## 5. 최종 앙상블 성능
 
-  | | 예측: 활성 (0) | 예측: 이탈 (1) |
-  | :---: | :---: | :---: |
-  | **실제: 활성 (0)** | **461** (TN) | **67** (FP) |
-  | **실제: 이탈 (1)** | **76** (FN) | **63** (TP) |
+### 요약 지표
 
-* **Classification Report**:
-  ```text
-                precision    recall  f1-score   support
+| 지표 | 값 |
+|---|---:|
+| Accuracy | 0.8096 |
+| ROC-AUC | 0.7962 |
 
-             0       0.86      0.87      0.87       528
-             1       0.48      0.45      0.47       139
+### Classification Report
 
-      accuracy                           0.79       667
-     macro avg       0.67      0.66      0.67       667
-  weighted avg       0.78      0.79      0.78       667
-  ```
+```text
+              precision    recall  f1-score   support
 
----
+           0       0.84      0.94      0.89       528
+           1       0.58      0.32      0.41       139
 
-### 7) Ensemble (4) - Weighted Blending
-* **특징**: 모델 신뢰도 및 강점을 임의 가중하여(LightGBM: 50%, XGBoost: 30%, Random Forest: 20%) 결합하는 소프트 가중치 블렌딩 모델입니다.
-* **임계값**: 0.58
-* **혼동 행렬 (Confusion Matrix)**:
+    accuracy                           0.81       667
+   macro avg       0.71      0.63      0.65       667
+weighted avg       0.79      0.81      0.79       667
+```
 
-  | | 예측: 활성 (0) | 예측: 이탈 (1) |
-  | :---: | :---: | :---: |
-  | **실제: 활성 (0)** | **450** (TN) | **78** (FP) |
-  | **실제: 이탈 (1)** | **69** (FN) | **70** (TP) |
+### 혼동행렬
 
-* **Classification Report**:
-  ```text
-                precision    recall  f1-score   support
+| 실제 \ 예측 | 0 | 1 |
+|---|---:|---:|
+| 0 | 496 | 32 |
+| 1 | 95 | 44 |
 
-             0       0.87      0.85      0.86       528
-             1       0.47      0.50      0.49       139
-
-      accuracy                           0.78       667
-     macro avg       0.67      0.68      0.67       667
-  weighted avg       0.78      0.78      0.78       667
-  ```
+이탈 채널(`1`) 기준으로 Precision은 0.58이지만 Recall은 0.32로 낮다. 즉, 이탈로 예측한 채널의 정밀도는 어느 정도 확보됐지만 실제 이탈 채널을 많이 놓치는 경향이 있다.
 
 ---
 
-## 🏆 4. 최적의 모델 선정 및 선정 사유
+## 6. 해석 및 산출물
 
-### 🥇 최적의 모델: Ensemble (4) - Weighted Blending (가중치 혼합 앙상블)
-최고의 비즈니스 안정성과 종합 효율을 도출하는 최우수 모델로 **가중치 혼합 앙상블(Weighted Blending)**을 선정합니다. 만약 더 엄격한 보수적 정밀 관리를 원할 경우 공동 2위인 **XGBoost** 또는 **Ensemble (2) - Hard Voting**이 안정적인 차선책이 될 수 있습니다.
+### SHAP 해석
 
-### 💡 선정 이유 및 지표 해석 가이드
+앙상블 모델 전체를 직접 SHAP으로 해석하지 않고, ROC-AUC 1위 모델인 `RandomForest`를 기준으로 SHAP 분석을 수행했다.
 
-1. **데이터 불균형 하에서 F1-Score의 최우선성**:
-   - 이탈 채널의 비중이 20.8%에 불과한 상황에서는 다수 클래스 편향(Baseline Accuracy: 79.2%) 때문에 정확도(Accuracy)만 높은 모델은 실용 가치가 매우 떨어집니다. 모델이 "모두 비이탈(활성)"이라고 편향되게 판단해도 79.2%의 높은 정확도를 내기 때문입니다.
-   - 따라서 이탈 크리에이터를 실제로 식별해내는 정확성(Precision)과 탐색 범위(Recall)를 조화롭게 융합한 **F1-Score**가 비즈니스 의사결정의 핵심 지표가 되어야 합니다.
-   - **Ensemble 4 (Weighted Blending)** 모델은 **F1-Score 48.78%**로 전체 학습 모델 중 압도적 1위를 기록하여 최고의 종합 판별 성과를 입증했습니다.
+```python
+top1_model_name = top_models[0][0]  # RandomForest
+top1_model = best_estimators[top1_model_name]
+```
 
-2. **재현율(Recall) 향상을 통한 이탈 크리에이터 실질 포착력 향상**:
-   - 이탈율이 높은 불균형 데이터에서는 정밀도(Precision)를 다소 보장하면서도 가능한 많은 실제 이탈자를 놓치지 않는 재현율(Recall)을 확보하는 것이 마케팅 기회 비용 관점에서 우수합니다.
-   - **Ensemble 4**는 **Recall 50.36%**로 전체 앙상블 모델 중 유일하게 이탈 크리에이터의 50% 이상을 안정적으로 검출해냈습니다. 즉, 실제로 이탈할 위험에 처한 10명의 유튜버 중 5명을 명확히 조기 발견하여 예방 활동을 개시할 수 있습니다.
+따라서 보고서의 설명 가능한 피처 중요도는 최종 Soft Voting 앙상블 전체가 아니라, Top 1 단일 모델인 RandomForest 기준 해석이다.
 
-3. **우수한 리스크 분산 효과 (PR-AUC: 0.4975 / ROC-AUC: 0.7829)**:
-   - 가중 혼합 앙상블 모델은 단일 알고리즘(LGBM의 단독 오예측 분산, RF의 개별 트리 노이즈)의 예측 불안정성을 가중 평균 기법을 통해 성공적으로 감쇄시켰습니다.
-   - 변별력 지표인 **PR-AUC가 0.4975**로 최상위권의 위치를 지키고 있어, 실무 배포 시 가장 고르고 안정적인 예측 신뢰 스코어 분포를 보장해줍니다.
+### 모델 저장
+
+최종 앙상블 모델은 다음 파일명으로 저장했다.
+
+```python
+joblib.dump(ensemble_model, "best_ensemble_model.pkl")
+```
 
 ---
 
-## 🚀 5. 비즈니스 활용 전략 및 권장 액션 플랜
+## 7. 결론 및 주의사항
 
-* **1단계: 실시간 리스크 알림망 구축**:
-  - 선정된 **Weighted Blending** 모델이 매일 배치 연산으로 도출하는 유튜버 채널의 이탈 위험률 스코어(`churn_prob`)를 시스템 DB에 누적합니다.
-* **2단계: 타깃 마케팅 예산 최적 배정**:
-  - 모델의 정밀도(Precision 47.30%)를 고려하여 이탈 고위험 상위 10%에 집중 지원 혜택을 배정함으로써 불필요한 체리피커 유튜버에게 낭비되는 플랫폼 혜택 비용을 최소화합니다.
-* **3단계: 이탈 요인별 맞춤 락인 프로모션 발송**:
-  - 모델 예측 스코어가 급상승한 채널에 대하여 규칙성 지표(`regularity_score`) 감소 및 최근 업로드 공백(`max_gap_days`) 누적이 원인으로 분석될 경우, 자동으로 플랫폼 차원의 리마인더 메시지와 함께 1:1 채널 컨설팅 지원 혜택을 발송하는 선제적 자동화 알림을 시행합니다.
+최종 선택 모델은 **RandomForest + GradientBoosting + LightGBM Soft Voting 앙상블**이다. 후보 모델 중 가장 높은 단일 ROC-AUC는 RandomForest의 0.7996이었고, 최종 앙상블은 Accuracy 0.8096, ROC-AUC 0.7962를 기록했다.
+
+다만 이탈 채널 기준 Recall이 0.32로 낮아, PRD의 이탈 탐지 KPI인 Recall 80% 및 ROC-AUC 0.85 기준에는 도달하지 못했다. 운영 모델로 채택하려면 클래스 불균형 처리, threshold tuning, 피처 보강, 비용 민감 학습 등을 추가로 검토해야 한다.
