@@ -25,7 +25,7 @@ inject_global_css()
 render_sidebar("insight")
 
 page_header(
-    "웹 인사이트",
+    "인사이트",
     "8083 채널 분석에서 추출한 광고 의사결정 가이드",
 )
 
