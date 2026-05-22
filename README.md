@@ -13,10 +13,10 @@
 <table style="width: 100%; table-layout: fixed; border-collapse: collapse; text-align: center; font-size: 14px;">
   <tr>
     <td style="width: 25%; border: 1px solid #ddd; padding: 10px; vertical-align: middle;">
-      <img src="https://img.icons8.com/illustrations/oolong/150/user-male-circle.png" style="width: 80px; height: 80px; display: block; margin: 0 auto;" alt="천성배" />
+      <img src="https://img.icons8.com/illustrations/oolong/150/user-male-circle.png" style="width: 80px; height: 80px; display: block; margin: 0 auto;" alt="정주애" />
     </td>
     <td style="width: 25%; border: 1px solid #ddd; padding: 10px; vertical-align: middle;">
-      <img src="https://img.icons8.com/illustrations/oolong/150/user-female-circle.png" style="width: 80px; height: 80px; display: block; margin: 0 auto;" alt="강성재" />
+      <img src="https://img.icons8.com/illustrations/oolong/150/user-female-circle.png" style="width: 80px; height: 80px; display: block; margin: 0 auto;" alt="강성준" />
     </td>
     <td style="width: 25%; border: 1px solid #ddd; padding: 10px; vertical-align: middle;">
       <img src="https://img.icons8.com/illustrations/oolong/150/user-male-circle.png" style="width: 80px; height: 80px; display: block; margin: 0 auto;" alt="김도훈" />
@@ -26,16 +26,16 @@
     </td>
   </tr>
   <tr style="background-color: #f9f9f9; font-weight: bold;">
-    <td style="border: 1px solid #ddd; padding: 8px;"><strong>천성배 (jexists)</strong></td>
-    <td style="border: 1px solid #ddd; padding: 8px;"><strong>강성재 (SJ_KANG)</strong></td>
-    <td style="border: 1px solid #ddd; padding: 8px;"><strong>김도훈 (dohoonkim)</strong></td>
-    <td style="border: 1px solid #ddd; padding: 8px;"><strong>서해연 (hellohaeyeon)</strong></td>
+    <td style="border: 1px solid #ddd; padding: 8px;"><strong>정주애</strong></td>
+    <td style="border: 1px solid #ddd; padding: 8px;"><strong>강성준</strong></td>
+    <td style="border: 1px solid #ddd; padding: 8px;"><strong>김도훈</strong></td>
+    <td style="border: 1px solid #ddd; padding: 8px;"><strong>서해연</strong></td>
   </tr>
   <tr>
-    <td style="border: 1px solid #ddd; padding: 8px; color: #555; word-break: keep-all;"><strong>팀장</strong> / PM / Web UI & DB</td>
+    <td style="border: 1px solid #ddd; padding: 8px; color: #555; word-break: keep-all;"><strong>팀원</strong> / Web UI & Git</td>
     <td style="border: 1px solid #ddd; padding: 8px; color: #555; word-break: keep-all;"><strong>팀원</strong> / ML & DL / NLP</td>
-    <td style="border: 1px solid #ddd; padding: 8px; color: #555; word-break: keep-all;"><strong>팀원</strong> / Optimization & Ensemble</td>
-    <td style="border: 1px solid #ddd; padding: 8px; color: #555; word-break: keep-all;"><strong>팀원</strong> / MLOps & Infrastructure</td>
+    <td style="border: 1px solid #ddd; padding: 8px; color: #555; word-break: keep-all;"><strong>팀원</strong> / ML & Ensemble</td>
+    <td style="border: 1px solid #ddd; padding: 8px; color: #555; word-break: keep-all;"><strong>팀장</strong> / PM / DA & Infrastructure</td>
   </tr>
   <tr style="text-align: left; vertical-align: top; font-size: 13px;">
     <td style="border: 1px solid #ddd; padding: 10px; word-wrap: break-word;">
