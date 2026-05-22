@@ -2,7 +2,7 @@
 # 📄 PRD (Product Requirements Document)
 
 # 튜브어때 (TubeEottae)
-### YouTube 크리에이터 활동 지속 가능성 분석 및 광고주 추천 시스템
+### YouTube 크리에이터 분석을 통한 광고효율 및 지속가능성 추천 시스템
 
 ![튜브어때 로고](./튜브어때_이미지.png)
 

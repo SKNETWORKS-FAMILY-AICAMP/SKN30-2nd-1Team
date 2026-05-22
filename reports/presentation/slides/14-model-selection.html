@@ -1,0 +1,112 @@
+<section class="slide">
+  <div class="slide-divider"></div>
+  <h2 class="slide-title">모델 선정 · RF / LGBM / XGB 비교</h2>
+  <p class="slide-subtitle">테스트 성능과 모델별 강점을 기준으로 <strong>LightGBM 중심 Weighted Soft Voting</strong> 전략 선택</p>
+
+  <div class="slide-body">
+    <div class="two-col">
+      <div>
+        <div style="font-weight:700; font-size:14px; color:var(--text-2); margin-bottom:6px;">테스트 셋 최종 비교</div>
+
+        <table>
+          <thead>
+            <tr>
+              <th>모델</th>
+              <th class="num">Threshold</th>
+              <th class="num">Accuracy</th>
+              <th class="num">Precision</th>
+              <th class="num">Recall</th>
+              <th class="num">F1</th>
+              <th class="num">ROC-AUC</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr class="highlight-row">
+              <td><strong>LightGBM</strong><br/><span class="small muted">candidate 2</span></td>
+              <td class="num">0.52</td>
+              <td class="num"><strong>0.837</strong></td>
+              <td class="num">0.679</td>
+              <td class="num"><strong>0.410</strong></td>
+              <td class="num"><strong>0.511</strong></td>
+              <td class="num">0.834</td>
+            </tr>
+            <tr>
+              <td><strong>XGBoost</strong><br/><span class="small muted">candidate 4</span></td>
+              <td class="num">0.55</td>
+              <td class="num">0.831</td>
+              <td class="num">0.671</td>
+              <td class="num">0.367</td>
+              <td class="num">0.474</td>
+              <td class="num">0.837</td>
+            </tr>
+            <tr>
+              <td><strong>Random Forest</strong><br/><span class="small muted">candidate 4</span></td>
+              <td class="num">0.57</td>
+              <td class="num">0.829</td>
+              <td class="num"><strong>0.736</strong></td>
+              <td class="num">0.281</td>
+              <td class="num">0.406</td>
+              <td class="num"><strong>0.839</strong></td>
+            </tr>
+          </tbody>
+        </table>
+
+        <div class="grid cols-3" style="margin-top:8px;">
+          <div class="card tb-card-tight" style="border-top:3px solid var(--accent);">
+            <div class="card-title">Best Targeting</div>
+            <div class="card-body small"><strong>LightGBM</strong><br/>Accuracy · Recall · F1 1위</div>
+          </div>
+          <div class="card tb-card-tight" style="border-top:3px solid var(--grade-b);">
+            <div class="card-title">Explainability</div>
+            <div class="card-body small"><strong>XGBoost</strong><br/>SHAP 설명에 적합</div>
+          </div>
+          <div class="card tb-card-tight" style="border-top:3px solid var(--grade-a);">
+            <div class="card-title">Stability</div>
+            <div class="card-body small"><strong>Random Forest</strong><br/>ROC-AUC · Precision 강점</div>
+          </div>
+        </div>
+
+        <div class="callout warning" style="margin-top:8px;">
+          <strong>KPI 점검</strong> · 현재 단일 모델 테스트 기준 Recall 최대 <strong>41.0%</strong>, F1 최대 <strong>0.511</strong>, ROC-AUC 최대 <strong>0.839</strong>로 PRD 목표(Recall 80%, F1 0.7, AUC 0.85)에는 미달
+        </div>
+      </div>
+
+      <div>
+        <div style="font-weight:700; font-size:14px; color:var(--text-2); margin-bottom:6px;">선정 전략 · Weighted Soft Voting</div>
+        <div class="callout" style="margin-bottom:8px;">
+          <strong>가중치</strong> · <code>LGBM 0.50</code> + <code>XGB 0.30</code> + <code>RF 0.20</code>
+        </div>
+
+        <div class="card tb-card-tight" style="margin-top:8px; border-left:3px solid var(--accent);">
+          <strong>① LightGBM 50%</strong>
+          <div class="small muted">
+            세 모델 중 Accuracy(<strong>83.7%</strong>), Recall(<strong>41.0%</strong>), F1(<strong>0.511</strong>)이 가장 높아 이탈 후보를 찾는 핵심 모델로 사용
+          </div>
+        </div>
+
+        <div class="card tb-card-tight" style="margin-top:8px; border-left:3px solid var(--grade-b);">
+          <strong>② XGBoost 30%</strong>
+          <div class="small muted">
+            Accuracy <strong>83.1%</strong>, ROC-AUC <strong>0.837</strong>. SHAP 기반 원인 설명에 강해 LightGBM 판단을 해석 가능하게 보완
+          </div>
+        </div>
+
+        <div class="card tb-card-tight" style="margin-top:8px; border-left:3px solid var(--grade-a);">
+          <strong>③ Random Forest 20%</strong>
+          <div class="small muted">
+            Precision(<strong>0.736</strong>)과 ROC-AUC(<strong>0.839</strong>)가 가장 높아 부스팅 모델의 노이즈 민감도를 완충하는 안정화 역할
+          </div>
+        </div>
+
+        <div class="callout" style="margin-top:8px;">
+          <strong>결론</strong> · 단일 모델 채택 시 LightGBM이 최우선 후보이며, 서비스 적용 전에는 가중 앙상블 성능 재측정과 threshold 재튜닝이 필요
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="slide-footer">
+    <span>18. 모델 선정 이유</span>
+    <span>SKN30 · 너놀자</span>
+  </div>
+</section>

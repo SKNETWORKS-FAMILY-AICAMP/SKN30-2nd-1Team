@@ -44,7 +44,7 @@ st.markdown(
     <div class="tb-landing">
         {_hero_logo_html()}
         <div class="tb-landing-sub">
-            YouTube 크리에이터 활동 지속 가능성 분석 및 광고주 추천 시스템
+            YouTube 크리에이터 분석을 통한 광고효율 및 지속가능성 추천 시스템
         </div>
         <div class="tb-landing-divider"></div>
         <div class="tb-landing-tag">데이터 기반 · 머신러닝 · 광고 매칭</div>
