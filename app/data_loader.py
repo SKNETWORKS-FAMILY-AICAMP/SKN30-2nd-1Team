@@ -163,9 +163,10 @@ def find_channel_id_in_all_channels(query: str) -> tuple[str | None, str]:
     Returns (channel_id | None, customUrl_handle | "")
     """
     import re
+    from urllib.parse import unquote
 
     df = load_all_channels()
-    q = query.strip()
+    q = unquote(query.strip())
 
     # 1. youtube.com/channel/UCxxx
     m = re.search(r"youtube\.com/channel/(UC[\w-]+)", q)

@@ -19,7 +19,11 @@ from styles import DATA_SNAPSHOT_DATE
 
 
 def _detect_app_url() -> str | None:
-    """ngrok public URL 우선, 없으면 같은 네트워크용 로컬 IP URL."""
+    """HOST_IP 환경변수 우선, 없으면 ngrok, 없으면 로컬 IP URL."""
+    host_ip = os.environ.get("HOST_IP")
+    if host_ip:
+        port = os.environ.get("HOST_PORT", "18080")
+        return f"{host_ip}:{port}"
     try:
         with urllib.request.urlopen(
             "http://localhost:4040/api/tunnels", timeout=0.4

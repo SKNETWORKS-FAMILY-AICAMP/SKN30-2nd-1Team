@@ -17,8 +17,8 @@ wheels/
 
 # 학습된 모델 (바이너리, 용량 큼 — 별도 공유)
 saved_models/
-*.pkl
-*.pt
+# *.pkl
+# *.pt
 *.pth
 
 # 노트북 체크포인트

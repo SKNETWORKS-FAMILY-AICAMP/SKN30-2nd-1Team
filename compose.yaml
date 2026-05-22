@@ -1,0 +1,11 @@
+services:
+ streamlit:
+    build:
+      context: ./app
+    container_name: streamlit_yteotte
+    env_file:
+      - .env
+    volumes:
+      - ./data:/data:ro
+    ports:
+      - "18080:8501"

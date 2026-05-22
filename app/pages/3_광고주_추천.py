@@ -39,7 +39,6 @@ page_header(
 LONG_TERM_FEATURES = [
     {"icon": "📅", "label": "꾸준한 업로드"},
     {"icon": "📊", "label": "안정적인 조회수"},
-    {"icon": "💬", "label": "긍정적 댓글 감성"},
     {"icon": "👥", "label": "높은 참여율"},
 ]
 PAGE_SIZE = 50
