@@ -765,14 +765,14 @@ if prediction:
         st.markdown(
             "<div style='border-top:1px solid #E2E8F0; margin:14px 0 10px;'></div>"
             "<div style='font-size:0.88rem; font-weight:700; color:#0F172A; margin-bottom:6px;'>"
-            "주요 이탈 원인 Top 3 (SHAP)</div>",
+            "주요 이탈 원인 Top 3 (shap)</div>",
             unsafe_allow_html=True,
         )
         reasons_df = pd.DataFrame([
             {
                 "피처": r["ko_name"],
                 "실제값": f"{r['value']:,.4f}",
-                "SHAP": f"{r['shap']:+.4f}",
+                "위험기여도(SHAP)": f"{r['shap']:+.4f}",
                 "방향": f"→ {r['direction']}",
             }
             for r in prediction["top_reasons"]
